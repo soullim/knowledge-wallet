@@ -39,6 +39,7 @@ jobs:
       - name: Netlify 배포
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         run: |
           npm install -g netlify-cli
           netlify deploy --prod --dir . --auth $NETLIFY_AUTH_TOKEN --site $NETLIFY_SITE_ID
