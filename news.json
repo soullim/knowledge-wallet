@@ -1,5 +1,104 @@
 {
-  "updated": "2026년 4월 24일 AM 01:49",
-  "count": 0,
-  "articles": []
+  "updated": "2026년 4월 24일 AM 01:57",
+  "count": 7,
+  "articles": [
+    {
+      "category": "industry",
+      "title": "AI와 함께하는 디자인, 정신을 잃지 않기",
+      "summary": "AI 협업자 Thia를 통해 실시간으로 디자인 아이디어를 발전시킬 수 있다. 이 과정에서 비전과 음성 기능을 활용하여 초기 아이디어를 유지하고 사고의 주체성을 잃지 않도록 한다.",
+      "summary_full": "AI 협업자 Thia를 구축하여 디자인 과정에서 비전과 음성 기능을 활용하고 있다. 이를 통해 초기 아이디어를 원형 그대로 유지하고, 협업의 루프를 단단히 하여 사고의 주체성을 지키고자 한다. 자신의 행동 변화는 뚜렷해질 때까지 인식하지 못하는 경우가 많다. 최근에는 AI와의 협업에서 너무 빠르게 손을 내미는 자신을 발견했다.",
+      "keywords": [
+        "AI 협업",
+        "디자인",
+        "Thia"
+      ],
+      "source": "uxdesign.cc",
+      "date": "4월 23일",
+      "url": "https://uxdesign.cc/designing-with-ai-without-losing-your-mind-0cfba48f6309?source=rss----138adf9c44c---4"
+    },
+    {
+      "category": "industry",
+      "title": "메타, AI 투자 위해 8,000명 감원",
+      "summary": "메타는 5월 20일부터 약 8,000명의 직원을 감원하고, 6,000개의 채용 공고를 취소한다고 발표했다. 이번 감원은 성과 기반이 아닌 구조적이며, AI 중심의 팀으로 재편성된다.",
+      "summary_full": "메타는 5월 20일부터 전체 인력의 10%에 해당하는 약 8,000명의 직원을 감원할 예정이다. 또한 6,000개의 개방된 채용 공고를 취소하고, 2026년 하반기 추가 감원을 계획하고 있다. 이번 감원은 성과 기반이 아닌 구조적 변화로, AI에 집중하는 '포드'로 팀을 재편성하는 과정이다. 메타는 AI 인프라에 1,150억에서 1,350억 달러를 투자할 예정이다.",
+      "keywords": [
+        "메타",
+        "AI",
+        "감원"
+      ],
+      "source": "thenextweb.com",
+      "date": "4월 23일",
+      "url": "https://thenextweb.com/news/meta-layoffs-8000-ai-restructuring-may-2026"
+    },
+    {
+      "category": "design",
+      "title": "UX 디자이너의 악몽: '생산 준비 완료'가 디자인 산출물이 될 때",
+      "summary": "UX 디자이너의 도구가 급격히 변화하며, 직무 요구사항에 의해 디자이너가 코딩을 해야 한다는 논쟁이 종결되었다. 현재 UX 역할은 AI 기반 개발과 기술 조정 능력을 점점 더 요구하고 있다.",
+      "summary_full": "2026년 초, UX 디자이너의 도구가 급격히 변화했다. 업계 표준인 '디자이너가 코딩을 해야 하는가?' 논쟁은 직무 요구사항에 의해 해결되었다. 현재 LinkedIn을 살펴보면 UX 역할에서 AI 기반 개발과 기술 조정 능력이 점점 더 요구되고 있음을 알 수 있다. 이는 디자이너의 역할이 기술적으로 더욱 복잡해지고 있음을 시사한다.",
+      "keywords": [
+        "UX 디자인",
+        "AI 개발",
+        "기술 조정"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "4월 22일",
+      "url": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"
+    },
+    {
+      "category": "design",
+      "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 웹사이트 접근성을 개선하기 위한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 디자이너들이 이를 고려해야 한다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 실질적인 숙제를 제안한다. 필자는 개인적인 견해를 바탕으로 디자이너들이 좋은 사람이라는 점을 강조한다. 따라서 디자이너들은 웹사이트의 접근성을 높이기 위해 노력해야 한다.",
+      "keywords": [
+        "접근성",
+        "웹사이트",
+        "디자인"
+      ],
+      "source": "alistapart.com",
+      "date": "4월 23일",
+      "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/"
+    },
+    {
+      "category": "trend",
+      "title": "미국 특수부대 군인, 마두로 습격 예측 베팅으로 체포",
+      "summary": "특수부대 상사가 기밀 정보를 이용해 베팅을 통해 이익을 얻었다. 이는 예측 시장에서 내부 거래로 체포된 첫 사례이다.",
+      "summary_full": "미국 특수부대의 한 상사가 베네수엘라 대통령 니콜라스 마두로의 체포에 대한 예측 베팅을 통해 이익을 얻었다고 주장되고 있다. 이 군인은 기밀 정보를 사용하여 불법적으로 자금을 조달한 혐의를 받고 있다. 이번 사건은 예측 시장에서 내부 거래로 체포된 첫 번째 사례로 기록되었다. 이는 군인과 정보의 오용에 대한 심각한 우려를 불러일으키고 있다.",
+      "keywords": [
+        "특수부대",
+        "마두로",
+        "내부 거래"
+      ],
+      "source": "wired.com",
+      "date": "4월 23일",
+      "url": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/"
+    },
+    {
+      "category": "trend",
+      "title": "큰 회사에서 가장 위험한 디자이너는 배포할 수 있는 사람이다",
+      "summary": "큰 회사에서는 역할 정의가 명확했지만, 디자이너가 배포할 수 있는 능력을 갖추면 더 큰 영향력을 발휘할 수 있다.",
+      "summary_full": "오랫동안 큰 회사들은 역할 정의를 중시해왔다. 디자이너, 엔지니어, PM, 연구자 각자가 자신의 역할에 충실했지만, 이러한 경직된 구조는 종종 '그건 내 일이 아니다'라는 반응을 초래했다. 그러나 배포 능력을 갖춘 디자이너는 이러한 경계를 넘어 혁신을 이끌 수 있는 잠재력을 지닌다. 결국, 배포할 수 있는 디자이너가 가장 위험한 존재가 된다.",
+      "keywords": [
+        "디자인",
+        "역할 정의",
+        "배포 능력"
+      ],
+      "source": "dev.to",
+      "date": "4월 23일",
+      "url": "https://dev.to/ling_zhou_cdd0792b313758c/the-most-dangerous-designer-at-a-big-company-is-the-one-who-can-ship-69b"
+    },
+    {
+      "category": "frontend",
+      "title": "디지털 마케팅을 위한 AI 도구: 2026년 비즈니스 성장 자동화를 위한 완벽 가이드",
+      "summary": "이 가이드는 2026년에 비즈니스 성장을 자동화하기 위한 AI 도구들을 소개한다. 디지털 마케팅에 있어 AI의 활용 방법과 이점에 대해 설명한다.",
+      "summary_full": "2026년을 대비하여 디지털 마케팅에서 AI 도구를 활용하는 방법을 제시한다. 이 가이드는 다양한 AI 도구와 그 기능을 설명하며, 비즈니스 성장을 어떻게 자동화할 수 있는지에 대한 통찰을 제공한다. 또한, AI 기술이 마케팅 전략에 미치는 영향과 성공적인 사례를 다룬다. 디지털 마케팅의 미래를 준비하는 데 필요한 정보를 포함하고 있다.",
+      "keywords": [
+        "AI 도구",
+        "디지털 마케팅",
+        "비즈니스 성장"
+      ],
+      "source": "dev.to",
+      "date": "4월 24일",
+      "url": "https://dev.to/laya1112/ai-tools-for-digital-marketing-complete-guide-to-automate-your-business-growth-in-2026-9fe"
+    }
+  ]
 }
