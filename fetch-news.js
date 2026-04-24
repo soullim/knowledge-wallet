@@ -8,33 +8,35 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const RSS_SOURCES = [
   // 피그마 신기능
   { url: 'https://www.figma.com/blog/feed/', category: 'figma' },
+  { url: 'https://feeds.feedburner.com/figma', category: 'figma' },
 
   // 어도비 신기능
-  { url: 'https://blog.adobe.com/en/topics/design/feed', category: 'adobe' },
+  { url: 'https://blog.adobe.com/en/topics/design/feed.xml', category: 'adobe' },
+  { url: 'https://www.adobe.com/products/photoshop/features.html', category: 'adobe' },
 
   // 업계동향
-  { url: 'https://www.creativebloq.com/rss', category: 'industry' },
+  { url: 'https://www.creativebloq.com/feeds/all', category: 'industry' },
   { url: 'https://uxdesign.cc/feed', category: 'industry' },
+  { url: 'https://www.designweek.co.uk/feed/', category: 'industry' },
 
   // 디자인
   { url: 'https://www.smashingmagazine.com/feed/', category: 'design' },
-  { url: 'https://feeds.feedburner.com/alistapart/main', category: 'design' },
+  { url: 'https://www.creativeboom.com/feed/', category: 'design' },
 
   // 트렌드
   { url: 'https://thenextweb.com/feed/', category: 'trend' },
-  { url: 'https://www.wired.com/feed/rss', category: 'trend' },
+  { url: 'https://www.fastcompany.com/design/rss', category: 'trend' },
 
   // 프론트엔드
   { url: 'https://css-tricks.com/feed/', category: 'frontend' },
-  { url: 'https://web.dev/feed.xml', category: 'frontend' },
+  { url: 'https://dev.to/feed/tag/webdev', category: 'frontend' },
 ];
 
-const MAX_PER_CATEGORY = 2; // 분류당 최대 기사 수
-const MAX_TOTAL = 10;       // 전체 최대 카드 수
+const MAX_PER_CATEGORY = 2;
+const MAX_TOTAL = 10;
 // ──────────────────────────────────────────────────
 
 
-// RSS XML 파싱 (외부 라이브러리 없이 간단 파싱)
 function parseRSS(xml) {
   const items = [];
   const itemRegex = /<item>([\s\S]*?)<\/item>/g;
@@ -43,53 +45,64 @@ function parseRSS(xml) {
   while ((match = itemRegex.exec(xml)) !== null) {
     const block = match[1];
     const get = (tag) => {
-      const m = block.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\/${tag}>`));
+      const m = block.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
       return m ? (m[1] || m[2] || '').trim() : '';
     };
 
-    const title = get('title');
-    const link  = get('link') || block.match(/<link\s*\/?>(.*?)<\/link>|<link>(.*?)<\/link>/)?.[1] || '';
-    const desc  = get('description').replace(/<[^>]+>/g, '').slice(0, 300);
+    const title = get('title').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"');
+    const link  = get('link') || block.match(/<link[^>]*>([^<]+)<\/link>/)?.[1] || '';
+    const desc  = get('description').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&nbsp;/g, ' ').trim().slice(0, 400);
     const date  = get('pubDate') || get('dc:date') || '';
 
-    if (title && link) {
+    if (title && link && title.length > 5) {
       items.push({ title, link, desc, date });
     }
   }
   return items;
 }
 
-// URL fetch (http/https 자동 판별)
-function fetchUrl(url) {
+function fetchUrl(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
+    if (redirectCount > 3) return reject(new Error('리다이렉트 초과'));
     const client = url.startsWith('https') ? https : http;
-    const req = client.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
-      // 리다이렉트 처리
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        return fetchUrl(res.headers.location).then(resolve).catch(reject);
+    const req = client.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
       }
+    }, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        const next = res.headers.location.startsWith('http')
+          ? res.headers.location
+          : new URL(res.headers.location, url).href;
+        return fetchUrl(next, redirectCount + 1).then(resolve).catch(reject);
+      }
+      if (res.statusCode !== 200) return reject(new Error(`HTTP ${res.statusCode}`));
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => resolve(data));
     });
     req.on('error', reject);
-    req.setTimeout(8000, () => { req.destroy(); reject(new Error('timeout')); });
+    req.setTimeout(10000, () => { req.destroy(); reject(new Error('timeout')); });
   });
 }
 
-// Gemini API로 한국어 요약
 function summarizeWithGemini(title, desc) {
   return new Promise((resolve, reject) => {
-    const prompt = `다음 영문 디자인/기술 기사를 한국어로 요약해줘.
-반드시 JSON 형식으로만 응답하고, 다른 텍스트는 절대 포함하지 마.
+    const safeDesc = desc.replace(/"/g, "'").slice(0, 300);
+    const safeTitle = title.replace(/"/g, "'").slice(0, 200);
 
-기사 제목: ${title}
-기사 내용: ${desc}
+    const prompt = `영문 디자인/기술 기사를 한국어로 요약해줘. JSON만 출력하고 다른 텍스트는 절대 쓰지 마.
 
-{"title":"한국어 제목","summary":"2-3문장 짧은 요약","summary_full":"4-5문장 상세 요약","keywords":["키워드1","키워드2","키워드3"]}`;
+제목: ${safeTitle}
+내용: ${safeDesc}
+
+출력형식(JSON만):
+{"title":"한국어제목","summary":"2문장요약","summary_full":"4문장상세요약","keywords":["키워드1","키워드2","키워드3"]}`;
 
     const body = JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }]
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.3, maxOutputTokens: 512 }
     });
 
     const options = {
@@ -108,10 +121,14 @@ function summarizeWithGemini(title, desc) {
       res.on('end', () => {
         try {
           const json = JSON.parse(data);
+          if (json.error) throw new Error('Gemini API 오류: ' + json.error.message);
           const text = json.candidates?.[0]?.content?.parts?.[0]?.text || '';
-          const jsonMatch = text.match(/\{[\s\S]*\}/);
-          if (!jsonMatch) throw new Error('JSON 없음');
+          if (!text) throw new Error('빈 응답');
+          const cleaned = text.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+          const jsonMatch = cleaned.match(/\{[\s\S]*\}/);
+          if (!jsonMatch) throw new Error('JSON 없음: ' + text.slice(0, 100));
           const parsed = JSON.parse(jsonMatch[0]);
+          if (!parsed.title) throw new Error('title 필드 없음');
           resolve(parsed);
         } catch (e) {
           reject(new Error('Gemini 파싱 실패: ' + e.message));
@@ -120,13 +137,12 @@ function summarizeWithGemini(title, desc) {
     });
 
     req.on('error', reject);
-    req.setTimeout(15000, () => { req.destroy(); reject(new Error('Gemini timeout')); });
+    req.setTimeout(20000, () => { req.destroy(); reject(new Error('Gemini timeout')); });
     req.write(body);
     req.end();
   });
 }
 
-// 날짜 포맷 (한국어)
 function formatDate(dateStr) {
   try {
     const d = new Date(dateStr);
@@ -137,12 +153,10 @@ function formatDate(dateStr) {
   }
 }
 
-// 잠깐 대기 (API 과호출 방지)
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// 메인 실행
 async function main() {
   console.log('🚀 지식지갑 뉴스 수집 시작...');
 
@@ -155,7 +169,7 @@ async function main() {
     const count = categoryCount[source.category] || 0;
     if (count >= MAX_PER_CATEGORY) continue;
 
-    console.log(`📡 수집 중: [${source.category}] ${source.url}`);
+    console.log(`📡 [${source.category}] ${source.url}`);
 
     try {
       const xml = await fetchUrl(source.url);
@@ -166,19 +180,23 @@ async function main() {
         continue;
       }
 
-      // 최신 기사 1개만 처리
       const item = items[0];
-      console.log(`  📰 "${item.title}"`);
-      console.log(`  🤖 Gemini 요약 중...`);
+      console.log(`  📰 "${item.title.slice(0, 60)}"`);
 
-      await sleep(1000); // API 호출 간격
+      if (!item.desc || item.desc.length < 20) {
+        console.log(`  ⚠️ 본문 없음, 건너뜀`);
+        continue;
+      }
+
+      console.log(`  🤖 Gemini 요약 중...`);
+      await sleep(1500);
 
       const summarized = await summarizeWithGemini(item.title, item.desc);
 
       articles.push({
         category: source.category,
         title: summarized.title || item.title,
-        summary: summarized.summary || item.desc.slice(0, 100),
+        summary: summarized.summary || item.desc.slice(0, 120),
         summary_full: summarized.summary_full || item.desc,
         keywords: summarized.keywords || [],
         source: new URL(source.url).hostname.replace('www.', ''),
@@ -194,7 +212,6 @@ async function main() {
     }
   }
 
-  // news.json 저장
   const output = {
     updated: new Date().toLocaleDateString('ko-KR', {
       year: 'numeric', month: 'long', day: 'numeric',
@@ -205,7 +222,7 @@ async function main() {
   };
 
   fs.writeFileSync('news.json', JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`\n✨ 완료! 총 ${articles.length}개 카드 생성 → news.json 저장됨`);
+  console.log(`\n✨ 완료! 총 ${articles.length}개 카드 → news.json 저장됨`);
 }
 
 main().catch(err => {
