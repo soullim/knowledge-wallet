@@ -3,7 +3,7 @@ name: 매일 뉴스 자동 수집
 on:
   schedule:
     - cron: '0 0 * * *'  # 매일 오전 9시 (한국시간 = UTC 0시)
-  workflow_dispatch:       # 수동 실행 버튼도 활성화
+  workflow_dispatch:       # 수동 실행 버튼 활성화
 
 jobs:
   fetch-and-deploy:
@@ -20,26 +20,17 @@ jobs:
         with:
           node-version: '20'
 
-      # 3. 뉴스 수집 + Gemini 요약 실행
+      # 3. 뉴스 수집 + OpenAI 요약 실행
       - name: 뉴스 수집 실행
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node fetch-news.js
 
-      # 4. 생성된 news.json 저장소에 커밋
-      - name: news.json 커밋
+      # 4. news.json 커밋 → Netlify가 자동 감지해서 배포
+      - name: news.json 커밋 및 푸시
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json
           git diff --staged --quiet || git commit -m "📰 뉴스 자동 업데이트 $(date +'%Y-%m-%d')"
           git push
-
-      # 5. Netlify에 자동 배포
-      - name: Netlify 배포
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        run: |
-          npm install -g netlify-cli
-          netlify deploy --prod --dir . --auth $NETLIFY_AUTH_TOKEN --site $NETLIFY_SITE_ID
