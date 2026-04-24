@@ -23,7 +23,7 @@ jobs:
       # 3. 뉴스 수집 + Gemini 요약 실행
       - name: 뉴스 수집 실행
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node fetch-news.js
 
       # 4. 생성된 news.json 저장소에 커밋
