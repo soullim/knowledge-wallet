@@ -7,10 +7,10 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 // ── RSS 소스 ───────────────────────────────────────
 const RSS_SOURCES = [
   // 피그마 신기능
-  { url: 'https://www.figma.com/blog/feed/', category: 'figma' },
+  { url: 'https://www.figma.com/blog/feed/atom.xml', category: 'figma' },
 
   // 어도비 신기능
-  { url: 'https://blog.adobe.com/en/feed', category: 'adobe' },
+  { url: 'https://blog.adobe.com/en/topics/creativity.rss', category: 'adobe' },
 
   // 업계동향
   { url: 'https://uxdesign.cc/feed', category: 'industry' },
