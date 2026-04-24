@@ -4,60 +4,48 @@ const fs = require('fs');
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
+// ── 크롤링 소스 (릴리즈노트 직접 수집) ──────────────
+const CRAWL_SOURCES = [
+  {
+    category: 'figma',
+    url: 'https://help.figma.com/hc/en-us/categories/360002051613-Release-Notes',
+    selector: 'article',
+    label: 'Figma 릴리즈노트'
+  },
+  {
+    category: 'adobe',
+    url: 'https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html',
+    selector: 'article',
+    label: 'Photoshop 릴리즈노트'
+  },
+  {
+    category: 'adobe',
+    url: 'https://helpx.adobe.com/illustrator/using/whats-new.html',
+    selector: 'article',
+    label: 'Illustrator 릴리즈노트'
+  },
+  {
+    category: 'adobe',
+    url: 'https://helpx.adobe.com/firefly/release-notes.html',
+    selector: 'article',
+    label: 'Firefly 릴리즈노트'
+  },
+];
+
 // ── RSS 소스 ───────────────────────────────────────
 const RSS_SOURCES = [
-  // 피그마 신기능
-  { url: 'https://www.figma.com/blog/feed/atom.xml', category: 'figma' },
-
-  // 어도비 신기능
-  { url: 'https://blog.adobe.com/en/topics/creativity.rss', category: 'adobe' },
-
-  // 업계동향
   { url: 'https://uxdesign.cc/feed', category: 'industry' },
   { url: 'https://thenextweb.com/feed/', category: 'industry' },
-
-  // 디자인
   { url: 'https://www.smashingmagazine.com/feed/', category: 'design' },
   { url: 'https://alistapart.com/main/feed/', category: 'design' },
-
-  // 트렌드
   { url: 'https://www.wired.com/feed/rss', category: 'trend' },
   { url: 'https://dev.to/feed/tag/design', category: 'trend' },
-
-  // 프론트엔드
   { url: 'https://css-tricks.com/feed/', category: 'frontend' },
   { url: 'https://dev.to/feed/tag/webdev', category: 'frontend' },
 ];
 
-const MAX_PER_CATEGORY = 2;
 const MAX_TOTAL = 10;
 // ──────────────────────────────────────────────────
-
-function parseRSS(xml) {
-  const items = [];
-  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-  let match;
-  while ((match = itemRegex.exec(xml)) !== null) {
-    const block = match[1];
-    const get = (tag) => {
-      const m = block.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
-      return m ? (m[1] || m[2] || '').trim() : '';
-    };
-    const decode = (s) => s
-      .replace(/&amp;/g,'&').replace(/&lt;/g,'<')
-      .replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#039;/g,"'");
-    const title = decode(get('title'));
-    const link  = get('link') || block.match(/<link[^>]*>([^<]+)<\/link>/)?.[1] || '';
-    let desc = get('content:encoded') || get('description');
-    desc = desc.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&')
-               .replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0, 500);
-    const date = get('pubDate') || get('dc:date') || '';
-    if (title && link && title.length > 5) {
-      items.push({ title, link, desc, date });
-    }
-  }
-  return items;
-}
 
 function fetchUrl(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
@@ -66,7 +54,7 @@ function fetchUrl(url, redirectCount = 0) {
     const req = client.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
       }
     }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
@@ -85,6 +73,51 @@ function fetchUrl(url, redirectCount = 0) {
   });
 }
 
+// HTML에서 텍스트 추출
+function extractTextFromHTML(html, maxLen = 500) {
+  return html
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<nav[\s\S]*?<\/nav>/gi, '')
+    .replace(/<header[\s\S]*?<\/header>/gi, '')
+    .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&nbsp;/g, ' ').replace(/&#\d+;/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, maxLen);
+}
+
+// 페이지 타이틀 추출
+function extractTitle(html) {
+  const m = html.match(/<title[^>]*>([^<]+)<\/title>/i);
+  return m ? m[1].replace(/\s+/g, ' ').trim() : '';
+}
+
+// RSS XML 파싱
+function parseRSS(xml) {
+  const items = [];
+  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+  let match;
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const block = match[1];
+    const get = (tag) => {
+      const m = block.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
+      return m ? (m[1] || m[2] || '').trim() : '';
+    };
+    const decode = (s) => s.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"');
+    const title = decode(get('title'));
+    const link  = get('link') || block.match(/<link[^>]*>([^<]+)<\/link>/)?.[1] || '';
+    let desc = get('content:encoded') || get('description');
+    desc = desc.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0, 500);
+    const date = get('pubDate') || get('dc:date') || '';
+    if (title && link && title.length > 5) items.push({ title, link, desc, date });
+  }
+  return items;
+}
+
+// OpenAI 요약
 function summarizeWithOpenAI(title, desc) {
   return new Promise((resolve, reject) => {
     const safeTitle = title.replace(/"/g,"'").slice(0, 200);
@@ -95,7 +128,7 @@ function summarizeWithOpenAI(title, desc) {
       messages: [
         {
           role: 'system',
-          content: '영문 디자인/기술 기사를 한국어로 요약하는 전문가야. JSON만 출력하고 다른 텍스트는 절대 쓰지 마. 마크다운 코드블록도 쓰지 마.'
+          content: '영문 디자인/기술 기사나 릴리즈노트를 한국어로 요약하는 전문가야. JSON만 출력하고 다른 텍스트는 절대 쓰지 마.'
         },
         {
           role: 'user',
@@ -158,30 +191,70 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+const today = new Date().toLocaleDateString('ko-KR', { month: 'long', day: 'numeric' });
+
 async function main() {
   console.log('🚀 지식지갑 뉴스 수집 시작...');
-  const categoryCount = {};
   const articles = [];
+
+  // ── 1. 크롤링 소스 수집 ──────────────────────────
+  console.log('\n📌 릴리즈노트 크롤링 시작...');
+  for (const source of CRAWL_SOURCES) {
+    if (articles.length >= MAX_TOTAL) break;
+    console.log(`📡 [${source.category}] ${source.label}`);
+    try {
+      const html = await fetchUrl(source.url);
+      const title = extractTitle(html);
+      const desc = extractTextFromHTML(html);
+
+      if (!desc || desc.length < 50) {
+        console.log(`  ⚠️ 본문 없음, 건너뜀`);
+        continue;
+      }
+
+      console.log(`  🤖 OpenAI 요약 중...`);
+      await sleep(500);
+
+      const summarized = await summarizeWithOpenAI(
+        `${source.label}: ${title}`,
+        desc
+      );
+
+      articles.push({
+        category: source.category,
+        title: summarized.title || title,
+        summary: summarized.summary || desc.slice(0, 120),
+        summary_full: summarized.summary_full || desc,
+        keywords: summarized.keywords || [],
+        source: new URL(source.url).hostname.replace('www.',''),
+        date: today,
+        url: source.url
+      });
+
+      console.log(`  ✅ 완료`);
+    } catch (err) {
+      console.log(`  ❌ 실패: ${err.message}`);
+    }
+  }
+
+  // ── 2. RSS 소스 수집 ─────────────────────────────
+  console.log('\n📌 RSS 수집 시작...');
+  const categoryCount = {};
 
   for (const source of RSS_SOURCES) {
     if (articles.length >= MAX_TOTAL) break;
     const count = categoryCount[source.category] || 0;
-    if (count >= MAX_PER_CATEGORY) continue;
+    if (count >= 2) continue;
 
     console.log(`📡 [${source.category}] ${source.url}`);
     try {
       const xml = await fetchUrl(source.url);
       const items = parseRSS(xml);
-
       if (items.length === 0) { console.log(`  ⚠️ 기사 없음`); continue; }
 
       const item = items[0];
       console.log(`  📰 "${item.title.slice(0,60)}"`);
-
-      if (!item.desc || item.desc.length < 20) {
-        console.log(`  ⚠️ 본문 없음, 건너뜀`);
-        continue;
-      }
+      if (!item.desc || item.desc.length < 20) { console.log(`  ⚠️ 본문 없음`); continue; }
 
       console.log(`  🤖 OpenAI 요약 중...`);
       await sleep(500);
@@ -201,7 +274,6 @@ async function main() {
 
       categoryCount[source.category] = count + 1;
       console.log(`  ✅ 완료`);
-
     } catch (err) {
       console.log(`  ❌ 실패: ${err.message}`);
     }
@@ -218,7 +290,7 @@ async function main() {
 
   fs.writeFileSync('news.json', JSON.stringify(output, null, 2), 'utf-8');
   console.log(`\n✨ 완료! 총 ${articles.length}개 카드 → news.json 저장됨`);
-  if (articles.length === 0) console.log('⚠️ 수집된 기사 없음. RSS 소스 확인 필요.');
+  if (articles.length === 0) console.log('⚠️ 수집된 기사 없음.');
 }
 
 main().catch(err => {
