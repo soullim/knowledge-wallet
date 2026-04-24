@@ -86,13 +86,7 @@ function summarizeWithGemini(title, desc) {
 기사 제목: ${title}
 기사 내용: ${desc}
 
-응답 형식:
-{
-  "title": "한국어로 번역한 제목",
-  "summary": "2-3문장 요약 (카드에 표시될 짧은 요약)",
-  "summary_full": "4-5문장 상세 요약 (클릭시 모달에 표시)",
-  "keywords": ["키워드1", "키워드2", "키워드3"]
-}`;
+{"title":"한국어 제목","summary":"2-3문장 짧은 요약","summary_full":"4-5문장 상세 요약","keywords":["키워드1","키워드2","키워드3"]}`;
 
     const body = JSON.stringify({
       contents: [{ parts: [{ text: prompt }] }]
@@ -115,8 +109,9 @@ function summarizeWithGemini(title, desc) {
         try {
           const json = JSON.parse(data);
           const text = json.candidates?.[0]?.content?.parts?.[0]?.text || '';
-          const clean = text.replace(/```json|```/g, '').trim();
-          const parsed = JSON.parse(clean);
+          const jsonMatch = text.match(/\{[\s\S]*\}/);
+          if (!jsonMatch) throw new Error('JSON 없음');
+          const parsed = JSON.parse(jsonMatch[0]);
           resolve(parsed);
         } catch (e) {
           reject(new Error('Gemini 파싱 실패: ' + e.message));
