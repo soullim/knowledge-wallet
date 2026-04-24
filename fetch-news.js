@@ -2,12 +2,11 @@ const https = require('https');
 const http = require('http');
 const fs = require('fs');
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
-// ── RSS 소스 (검증된 것만) ─────────────────────────
+// ── RSS 소스 ───────────────────────────────────────
 const RSS_SOURCES = [
   // 피그마 신기능
-  { url: 'https://feeds.feedburner.com/FigmaBlog', category: 'figma' },
   { url: 'https://www.figma.com/blog/feed/', category: 'figma' },
 
   // 어도비 신기능
@@ -23,7 +22,7 @@ const RSS_SOURCES = [
 
   // 트렌드
   { url: 'https://www.wired.com/feed/rss', category: 'trend' },
-  { url: 'https://feeds.feedburner.com/Co_Design', category: 'trend' },
+  { url: 'https://dev.to/feed/tag/design', category: 'trend' },
 
   // 프론트엔드
   { url: 'https://css-tricks.com/feed/', category: 'frontend' },
@@ -44,12 +43,14 @@ function parseRSS(xml) {
       const m = block.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
       return m ? (m[1] || m[2] || '').trim() : '';
     };
-    const decode = (s) => s.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#039;/g,"'");
+    const decode = (s) => s
+      .replace(/&amp;/g,'&').replace(/&lt;/g,'<')
+      .replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#039;/g,"'");
     const title = decode(get('title'));
     const link  = get('link') || block.match(/<link[^>]*>([^<]+)<\/link>/)?.[1] || '';
-    // 본문: description 또는 content:encoded 시도
     let desc = get('content:encoded') || get('description');
-    desc = desc.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0, 500);
+    desc = desc.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&')
+               .replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0, 500);
     const date = get('pubDate') || get('dc:date') || '';
     if (title && link && title.length > 5) {
       items.push({ title, link, desc, date });
@@ -84,30 +85,34 @@ function fetchUrl(url, redirectCount = 0) {
   });
 }
 
-function summarizeWithGemini(title, desc) {
+function summarizeWithOpenAI(title, desc) {
   return new Promise((resolve, reject) => {
     const safeTitle = title.replace(/"/g,"'").slice(0, 200);
     const safeDesc  = desc.replace(/"/g,"'").slice(0, 400);
 
-    const prompt = `영문 디자인/기술 기사를 한국어로 요약해줘. JSON만 출력하고 다른 텍스트는 절대 쓰지 마. 마크다운 코드블록도 쓰지 마.
-
-제목: ${safeTitle}
-내용: ${safeDesc}
-
-{"title":"한국어제목","summary":"2문장요약","summary_full":"4문장상세요약","keywords":["키워드1","키워드2","키워드3"]}`;
-
     const body = JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.2, maxOutputTokens: 600 }
+      model: 'gpt-4o-mini',
+      messages: [
+        {
+          role: 'system',
+          content: '영문 디자인/기술 기사를 한국어로 요약하는 전문가야. JSON만 출력하고 다른 텍스트는 절대 쓰지 마. 마크다운 코드블록도 쓰지 마.'
+        },
+        {
+          role: 'user',
+          content: `제목: ${safeTitle}\n내용: ${safeDesc}\n\n{"title":"한국어제목","summary":"2문장요약","summary_full":"4문장상세요약","keywords":["키워드1","키워드2","키워드3"]}`
+        }
+      ],
+      temperature: 0.3,
+      max_tokens: 600
     });
 
     const options = {
-      hostname: 'generativelanguage.googleapis.com',
-      // -latest 붙여서 항상 최신 무료 안정 버전 자동 사용
-      path: `/v1/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`,
+      hostname: 'api.openai.com',
+      path: '/v1/chat/completions',
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        'Authorization': `Bearer ${OPENAI_API_KEY}`,
         'Content-Length': Buffer.byteLength(body)
       }
     };
@@ -118,8 +123,8 @@ function summarizeWithGemini(title, desc) {
       res.on('end', () => {
         try {
           const json = JSON.parse(data);
-          if (json.error) throw new Error('Gemini API 오류: ' + json.error.message);
-          const text = json.candidates?.[0]?.content?.parts?.[0]?.text || '';
+          if (json.error) throw new Error('OpenAI API 오류: ' + json.error.message);
+          const text = json.choices?.[0]?.message?.content || '';
           if (!text) throw new Error('빈 응답');
           const cleaned = text.replace(/```json\n?/g,'').replace(/```\n?/g,'').trim();
           const jsonMatch = cleaned.match(/\{[\s\S]*\}/);
@@ -128,12 +133,12 @@ function summarizeWithGemini(title, desc) {
           if (!parsed.title) throw new Error('title 필드 없음');
           resolve(parsed);
         } catch (e) {
-          reject(new Error('Gemini 파싱 실패: ' + e.message));
+          reject(new Error('OpenAI 파싱 실패: ' + e.message));
         }
       });
     });
     req.on('error', reject);
-    req.setTimeout(20000, () => { req.destroy(); reject(new Error('Gemini timeout')); });
+    req.setTimeout(20000, () => { req.destroy(); reject(new Error('OpenAI timeout')); });
     req.write(body);
     req.end();
   });
@@ -178,10 +183,10 @@ async function main() {
         continue;
       }
 
-      console.log(`  🤖 Gemini 요약 중...`);
-      await sleep(2000); // 쿼터 초과 방지용 딜레이
+      console.log(`  🤖 OpenAI 요약 중...`);
+      await sleep(500);
 
-      const summarized = await summarizeWithGemini(item.title, item.desc);
+      const summarized = await summarizeWithOpenAI(item.title, item.desc);
 
       articles.push({
         category: source.category,
