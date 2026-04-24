@@ -104,7 +104,7 @@ function summarizeWithGemini(title, desc) {
     const options = {
       hostname: 'generativelanguage.googleapis.com',
       // -latest 붙여서 항상 최신 무료 안정 버전 자동 사용
-      path: `/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`,
+      path: `/v1/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`,
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
