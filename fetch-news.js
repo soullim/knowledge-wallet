@@ -4,48 +4,103 @@ const fs = require('fs');
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
-// ── 크롤링 소스 (릴리즈노트 직접 수집) ──────────────
-const CRAWL_SOURCES = [
-  {
-    category: 'figma',
-    url: 'https://www.figma.com/ko-kr/release-notes/?utm_source=chatgpt.com',
-    selector: 'article',
-    label: 'Figma 릴리즈노트'
-  },
-  {
-    category: 'adobe',
-    url: 'https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html',
-    selector: 'article',
-    label: 'Photoshop 릴리즈노트'
-  },
-  {
-    category: 'adobe',
-    url: 'https://helpx.adobe.com/illustrator/using/whats-new.html',
-    selector: 'article',
-    label: 'Illustrator 릴리즈노트'
-  },
-  {
-    category: 'adobe',
-    url: 'https://helpx.adobe.com/firefly/release-notes.html',
-    selector: 'article',
-    label: 'Firefly 릴리즈노트'
-  },
+// ── 키워드 필터 (국내 사이트용) ───────────────────
+const KEYWORDS = [
+  '디자인', '피그마', '어도비', '퍼블리싱', '트렌드', 'AI', '인공지능',
+  '클로드', 'UX', 'UI', '프론트엔드', '웹디자인', '모션', '포토샵',
+  '일러스트', 'figma', 'adobe', 'design', 'frontend', 'ux', 'ui',
+  'ChatGPT', 'GPT', '생성형', '브랜드', '타이포그래피', '컬러'
 ];
 
 // ── RSS 소스 ───────────────────────────────────────
 const RSS_SOURCES = [
-  { url: 'https://uxdesign.cc/feed', category: 'industry' },
-  { url: 'https://thenextweb.com/feed/', category: 'industry' },
-  { url: 'https://www.smashingmagazine.com/feed/', category: 'design' },
-  { url: 'https://alistapart.com/main/feed/', category: 'design' },
-  { url: 'https://www.wired.com/feed/rss', category: 'trend' },
-  { url: 'https://dev.to/feed/tag/design', category: 'trend' },
-  { url: 'https://css-tricks.com/feed/', category: 'frontend' },
-  { url: 'https://dev.to/feed/tag/webdev', category: 'frontend' },
+
+  // 피그마 신기능 (유튜브 RSS)
+  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQsVmhSa4X-G3lHlUtejzLA', category: 'figma', label: 'Figma YouTube', filterKeyword: false },
+
+  // 어도비 신기능 (유튜브 RSS로 교체)
+  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCDiHZB5b_4F8TuFPBvz28Qg', category: 'adobe', label: 'Adobe Photoshop YouTube', filterKeyword: false },
+  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCeVMnSShP_Iviwkknt83cww', category: 'adobe', label: 'Adobe Illustrator YouTube', filterKeyword: false },
+  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC4bI3HZCwkT-M20KPNQ-CSg', category: 'adobe', label: 'Adobe Firefly YouTube', filterKeyword: false },
+
+  // 업계동향
+  { url: 'https://uxdesign.cc/feed', category: 'industry', filterKeyword: false },
+  { url: 'https://thenextweb.com/feed/', category: 'industry', filterKeyword: false },
+
+  // 디자인
+  { url: 'https://www.smashingmagazine.com/feed/', category: 'design', filterKeyword: false },
+  { url: 'https://alistapart.com/main/feed/', category: 'design', filterKeyword: false },
+
+  // 트렌드
+  { url: 'https://www.wired.com/feed/rss', category: 'trend', filterKeyword: false },
+  { url: 'https://dev.to/feed/tag/design', category: 'trend', filterKeyword: false },
+
+  // 프론트엔드
+  { url: 'https://css-tricks.com/feed/', category: 'frontend', filterKeyword: false },
+  { url: 'https://dev.to/feed/tag/webdev', category: 'frontend', filterKeyword: false },
+
+  // 국내 사이트 (키워드 필터 적용)
+  { url: 'https://ditoday.com/feed', category: 'industry', filterKeyword: true },
+  { url: 'https://toss.tech/rss.xml', category: 'frontend', filterKeyword: true },
+  { url: 'https://eopla.net/magazines/rss', category: 'design', filterKeyword: true },
+  { url: 'https://channel.io/ko/team/blog/rss', category: 'industry', filterKeyword: true },
+  { url: 'https://blog.gangnamunni.com/feed', category: 'design', filterKeyword: true },
 ];
 
+const MAX_PER_CATEGORY = 2;
 const MAX_TOTAL = 10;
 // ──────────────────────────────────────────────────
+
+// 키워드 필터 함수
+function hasKeyword(text) {
+  const lower = text.toLowerCase();
+  return KEYWORDS.some(k => lower.includes(k.toLowerCase()));
+}
+
+// YouTube Atom 피드 파싱
+function parseAtom(xml) {
+  const items = [];
+  const entryRegex = /<entry>([\s\S]*?)<\/entry>/g;
+  let match;
+  while ((match = entryRegex.exec(xml)) !== null) {
+    const block = match[1];
+    const getTag = (tag) => {
+      const m = block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
+      return m ? m[1].trim() : '';
+    };
+    const title = getTag('title').replace(/<[^>]+>/g, '').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>');
+    const link  = (block.match(/rel="alternate"[^>]*href="([^"]+)"/) || block.match(/href="([^"]+)"/))?.[1] || '';
+    const desc  = getTag('media:description') || getTag('summary') || getTag('content') || '';
+    const date  = getTag('published') || getTag('updated') || '';
+    if (title && link) items.push({ title, link, desc: desc.replace(/<[^>]+>/g,'').slice(0,400), date });
+  }
+  return items;
+}
+
+// RSS XML 파싱
+function parseRSS(xml) {
+  // Atom 피드 감지
+  if (xml.includes('<feed') && xml.includes('<entry>')) return parseAtom(xml);
+
+  const items = [];
+  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+  let match;
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const block = match[1];
+    const get = (tag) => {
+      const m = block.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
+      return m ? (m[1] || m[2] || '').trim() : '';
+    };
+    const decode = (s) => s.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"');
+    const title = decode(get('title'));
+    const link  = get('link') || block.match(/<link[^>]*>([^<]+)<\/link>/)?.[1] || '';
+    let desc = get('content:encoded') || get('description');
+    desc = desc.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0,400);
+    const date = get('pubDate') || get('dc:date') || '';
+    if (title && link && title.length > 5) items.push({ title, link, desc, date });
+  }
+  return items;
+}
 
 function fetchUrl(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
@@ -54,7 +109,7 @@ function fetchUrl(url, redirectCount = 0) {
     const req = client.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+        'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'
       }
     }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
@@ -73,51 +128,6 @@ function fetchUrl(url, redirectCount = 0) {
   });
 }
 
-// HTML에서 텍스트 추출
-function extractTextFromHTML(html, maxLen = 500) {
-  return html
-    .replace(/<script[\s\S]*?<\/script>/gi, '')
-    .replace(/<style[\s\S]*?<\/style>/gi, '')
-    .replace(/<nav[\s\S]*?<\/nav>/gi, '')
-    .replace(/<header[\s\S]*?<\/header>/gi, '')
-    .replace(/<footer[\s\S]*?<\/footer>/gi, '')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
-    .replace(/&nbsp;/g, ' ').replace(/&#\d+;/g, '')
-    .replace(/\s+/g, ' ')
-    .trim()
-    .slice(0, maxLen);
-}
-
-// 페이지 타이틀 추출
-function extractTitle(html) {
-  const m = html.match(/<title[^>]*>([^<]+)<\/title>/i);
-  return m ? m[1].replace(/\s+/g, ' ').trim() : '';
-}
-
-// RSS XML 파싱
-function parseRSS(xml) {
-  const items = [];
-  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-  let match;
-  while ((match = itemRegex.exec(xml)) !== null) {
-    const block = match[1];
-    const get = (tag) => {
-      const m = block.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
-      return m ? (m[1] || m[2] || '').trim() : '';
-    };
-    const decode = (s) => s.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"');
-    const title = decode(get('title'));
-    const link  = get('link') || block.match(/<link[^>]*>([^<]+)<\/link>/)?.[1] || '';
-    let desc = get('content:encoded') || get('description');
-    desc = desc.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0, 500);
-    const date = get('pubDate') || get('dc:date') || '';
-    if (title && link && title.length > 5) items.push({ title, link, desc, date });
-  }
-  return items;
-}
-
-// OpenAI 요약
 function summarizeWithOpenAI(title, desc) {
   return new Promise((resolve, reject) => {
     const safeTitle = title.replace(/"/g,"'").slice(0, 200);
@@ -128,7 +138,7 @@ function summarizeWithOpenAI(title, desc) {
       messages: [
         {
           role: 'system',
-          content: '영문 디자인/기술 기사나 릴리즈노트를 한국어로 요약하는 전문가야. JSON만 출력하고 다른 텍스트는 절대 쓰지 마.'
+          content: '영문 또는 국문 디자인/기술 기사나 영상 제목을 한국어로 요약하는 전문가야. JSON만 출력하고 다른 텍스트는 절대 쓰지 마.'
         },
         {
           role: 'user',
@@ -191,70 +201,40 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-const today = new Date().toLocaleDateString('ko-KR', { month: 'long', day: 'numeric' });
-
 async function main() {
   console.log('🚀 지식지갑 뉴스 수집 시작...');
-  const articles = [];
-
-  // ── 1. 크롤링 소스 수집 ──────────────────────────
-  console.log('\n📌 릴리즈노트 크롤링 시작...');
-  for (const source of CRAWL_SOURCES) {
-    if (articles.length >= MAX_TOTAL) break;
-    console.log(`📡 [${source.category}] ${source.label}`);
-    try {
-      const html = await fetchUrl(source.url);
-      const title = extractTitle(html);
-      const desc = extractTextFromHTML(html);
-
-      if (!desc || desc.length < 50) {
-        console.log(`  ⚠️ 본문 없음, 건너뜀`);
-        continue;
-      }
-
-      console.log(`  🤖 OpenAI 요약 중...`);
-      await sleep(500);
-
-      const summarized = await summarizeWithOpenAI(
-        `${source.label}: ${title}`,
-        desc
-      );
-
-      articles.push({
-        category: source.category,
-        title: summarized.title || title,
-        summary: summarized.summary || desc.slice(0, 120),
-        summary_full: summarized.summary_full || desc,
-        keywords: summarized.keywords || [],
-        source: new URL(source.url).hostname.replace('www.',''),
-        date: today,
-        url: source.url
-      });
-
-      console.log(`  ✅ 완료`);
-    } catch (err) {
-      console.log(`  ❌ 실패: ${err.message}`);
-    }
-  }
-
-  // ── 2. RSS 소스 수집 ─────────────────────────────
-  console.log('\n📌 RSS 수집 시작...');
   const categoryCount = {};
+  const articles = [];
 
   for (const source of RSS_SOURCES) {
     if (articles.length >= MAX_TOTAL) break;
     const count = categoryCount[source.category] || 0;
-    if (count >= 2) continue;
+    if (count >= MAX_PER_CATEGORY) continue;
 
-    console.log(`📡 [${source.category}] ${source.url}`);
+    console.log(`📡 [${source.category}] ${source.label || source.url}`);
     try {
       const xml = await fetchUrl(source.url);
       const items = parseRSS(xml);
+
       if (items.length === 0) { console.log(`  ⚠️ 기사 없음`); continue; }
 
-      const item = items[0];
+      // 키워드 필터 적용 (국내 사이트)
+      const filtered = source.filterKeyword
+        ? items.filter(item => hasKeyword(item.title + ' ' + item.desc))
+        : items;
+
+      if (filtered.length === 0) {
+        console.log(`  ⚠️ 키워드 매칭 기사 없음`);
+        continue;
+      }
+
+      const item = filtered[0];
       console.log(`  📰 "${item.title.slice(0,60)}"`);
-      if (!item.desc || item.desc.length < 20) { console.log(`  ⚠️ 본문 없음`); continue; }
+
+      if (!item.desc || item.desc.length < 10) {
+        // YouTube는 desc가 짧아도 제목만으로 요약 가능
+        item.desc = item.title;
+      }
 
       console.log(`  🤖 OpenAI 요약 중...`);
       await sleep(500);
@@ -267,13 +247,14 @@ async function main() {
         summary: summarized.summary || item.desc.slice(0, 120),
         summary_full: summarized.summary_full || item.desc,
         keywords: summarized.keywords || [],
-        source: new URL(source.url).hostname.replace('www.',''),
+        source: source.label || new URL(source.url).hostname.replace('www.',''),
         date: formatDate(item.date),
         url: item.link
       });
 
       categoryCount[source.category] = count + 1;
       console.log(`  ✅ 완료`);
+
     } catch (err) {
       console.log(`  ❌ 실패: ${err.message}`);
     }
