@@ -8,7 +8,7 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const CRAWL_SOURCES = [
   {
     category: 'figma',
-    url: 'https://help.figma.com/hc/en-us/categories/360002051613-Release-Notes',
+    url: 'https://www.figma.com/ko-kr/release-notes/?utm_source=chatgpt.com',
     selector: 'article',
     label: 'Figma 릴리즈노트'
   },
