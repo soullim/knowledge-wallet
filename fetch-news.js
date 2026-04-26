@@ -19,8 +19,8 @@ const RSS_SOURCES = [
   { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQsVmhSa4X-G3lHlUtejzLA', category: 'figma', label: 'Figma YouTube', filterKeyword: false },
 
   // 어도비 신기능 (유튜브 RSS로 교체)
-  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCDiHZB5b_4F8TuFPBvz28Qg', category: 'adobe', label: 'Adobe Photoshop YouTube', filterKeyword: false },
-  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCeVMnSShP_Iviwkknt83cww', category: 'adobe', label: 'Adobe Illustrator YouTube', filterKeyword: false },
+  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UClH-KpveOLJszChWRfFmPfQ', category: 'adobe', label: 'Adobe Photoshop YouTube', filterKeyword: false },
+  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCL0iAkpqV5dB8BWDQ7BRdyA', category: 'adobe', label: 'Adobe Creative Cloud YouTube', filterKeyword: false },
   { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC4bI3HZCwkT-M20KPNQ-CSg', category: 'adobe', label: 'Adobe Firefly YouTube', filterKeyword: false },
 
   // 업계동향
