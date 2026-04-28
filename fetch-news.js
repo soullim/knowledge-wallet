@@ -71,6 +71,7 @@ const SCRAPE_SOURCES = [
 
 const MAX_PER_CATEGORY = 2;
 const MAX_TOTAL = 10;
+const MAX_KEEP_DAYS = 30;  // 최대 보관 일수 (오래된 기사 자동 삭제)
 // ──────────────────────────────────────────────────
 
 function hasKeyword(text) {
@@ -445,18 +446,50 @@ async function main() {
     }
   }
 
+  // ── 기존 데이터 병합 ──────────────────────────────
+  let existingArticles = [];
+  try {
+    const existing = JSON.parse(fs.readFileSync('news.json', 'utf-8'));
+    existingArticles = existing.articles || [];
+    console.log(`\n📂 기존 기사 ${existingArticles.length}개 로드됨`);
+  } catch {
+    console.log('\n📂 기존 news.json 없음 → 새로 생성');
+  }
+
+  // 오늘 날짜 태그 (YYYY-MM-DD) 부여
+  const todayTag = new Date().toISOString().slice(0, 10);
+  const taggedNew = articles.map(a => ({ ...a, collectedAt: todayTag }));
+
+  // 중복 제거: URL 기준 (오늘 새로 수집된 것이 우선)
+  const newUrls = new Set(taggedNew.map(a => a.url));
+  const deduped = [
+    ...taggedNew,
+    ...existingArticles.filter(a => !newUrls.has(a.url))
+  ];
+
+  // 날짜 오래된 것 자동 삭제 (MAX_KEEP_DAYS 초과분)
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - MAX_KEEP_DAYS);
+  const cutoffStr = cutoff.toISOString().slice(0, 10);
+  const merged = deduped.filter(a => !a.collectedAt || a.collectedAt >= cutoffStr);
+
+  // 최신순 정렬 (collectedAt 기준)
+  merged.sort((a, b) => (b.collectedAt || '').localeCompare(a.collectedAt || ''));
+
+  console.log(`📊 병합 결과: 오늘 ${taggedNew.length}개 + 기존 ${existingArticles.length}개 → 총 ${merged.length}개`);
+
   const output = {
     updated: new Date().toLocaleDateString('ko-KR', {
       year: 'numeric', month: 'long', day: 'numeric',
       hour: '2-digit', minute: '2-digit'
     }),
-    count: articles.length,
-    articles
+    count: merged.length,
+    articles: merged
   };
 
   fs.writeFileSync('news.json', JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`\n✨ 완료! 총 ${articles.length}개 카드 → news.json 저장됨`);
-  if (articles.length === 0) console.log('⚠️ 수집된 기사 없음.');
+  console.log(`\n✨ 완료! 총 ${merged.length}개 카드 저장 (오늘 ${taggedNew.length}개 신규)`);
+  if (articles.length === 0) console.log('⚠️ 오늘 수집된 기사 없음.');
 }
 
 main().catch(err => {
