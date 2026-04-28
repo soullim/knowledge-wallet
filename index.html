@@ -24,6 +24,7 @@
     --col-design:   #1a5fa0;
     --col-trend:    #a06020;
     --col-frontend: #1a7a7a;
+    --col-ai:       #c2185b;   /* AI — 딥핑크/로즈 */
 
     --bg-figma:    rgba(58,125,68,0.08);
     --bg-adobe:    rgba(184,76,26,0.08);
@@ -31,6 +32,7 @@
     --bg-design:   rgba(26,95,160,0.08);
     --bg-trend:    rgba(160,96,32,0.08);
     --bg-frontend: rgba(26,122,122,0.08);
+    --bg-ai:       rgba(194,24,91,0.08);
   }
 
   * { box-sizing: border-box; }
@@ -86,10 +88,7 @@
     gap: 12px;
   }
 
-  .update-badge {
-    font-size: 0.72rem;
-    color: #aaa;
-  }
+  .update-badge { font-size: 0.72rem; color: #aaa; }
 
   .refresh-btn {
     font-size: 0.75rem;
@@ -142,24 +141,18 @@
     flex-shrink: 0;
   }
 
-  .filter-btn:hover {
-    border-color: #bbb;
-    color: #333;
-    background: #f9f9f9;
-  }
+  .filter-btn:hover { border-color: #bbb; color: #333; background: #f9f9f9; }
 
-  .filter-btn.active {
-    font-weight: 600;
-    border-color: transparent;
-  }
+  .filter-btn.active { font-weight: 600; border-color: transparent; }
 
-  .filter-btn[data-cat="all"].active    { background: #111; color: #fff; }
-  .filter-btn[data-cat="figma"].active    { background: var(--col-figma); color: #fff; border-color: var(--col-figma); }
-  .filter-btn[data-cat="adobe"].active    { background: var(--col-adobe); color: #fff; border-color: var(--col-adobe); }
+  .filter-btn[data-cat="all"].active      { background: #111; color: #fff; }
+  .filter-btn[data-cat="figma"].active    { background: var(--col-figma);    color: #fff; border-color: var(--col-figma); }
+  .filter-btn[data-cat="adobe"].active    { background: var(--col-adobe);    color: #fff; border-color: var(--col-adobe); }
   .filter-btn[data-cat="industry"].active { background: var(--col-industry); color: #fff; border-color: var(--col-industry); }
-  .filter-btn[data-cat="design"].active   { background: var(--col-design); color: #fff; border-color: var(--col-design); }
-  .filter-btn[data-cat="trend"].active    { background: var(--col-trend); color: #fff; border-color: var(--col-trend); }
+  .filter-btn[data-cat="design"].active   { background: var(--col-design);   color: #fff; border-color: var(--col-design); }
+  .filter-btn[data-cat="trend"].active    { background: var(--col-trend);    color: #fff; border-color: var(--col-trend); }
   .filter-btn[data-cat="frontend"].active { background: var(--col-frontend); color: #fff; border-color: var(--col-frontend); }
+  .filter-btn[data-cat="ai"].active       { background: var(--col-ai);       color: #fff; border-color: var(--col-ai); }
 
   /* ── 메인 ── */
   .main-wrap {
@@ -183,10 +176,7 @@
     color: #999;
   }
 
-  .section-count {
-    font-size: 0.72rem;
-    color: #ccc;
-  }
+  .section-count { font-size: 0.72rem; color: #ccc; }
 
   /* ── 카드 그리드 ── */
   .card-grid {
@@ -220,9 +210,7 @@
   }
 
   .card-accent { height: 3px; }
-
   .card-body { padding: 16px 18px; flex: 1; display: flex; flex-direction: column; gap: 10px; }
-
   .card-top { display: flex; justify-content: space-between; align-items: center; }
 
   .cat-chip {
@@ -253,11 +241,7 @@
     flex: 1;
   }
 
-  .card-keywords {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-  }
+  .card-keywords { display: flex; flex-wrap: wrap; gap: 5px; }
 
   .kw-tag {
     font-size: 0.68rem;
@@ -293,6 +277,7 @@
   .card-design   .card-accent { background: var(--col-design); }
   .card-trend    .card-accent { background: var(--col-trend); }
   .card-frontend .card-accent { background: var(--col-frontend); }
+  .card-ai       .card-accent { background: var(--col-ai); }
 
   .chip-figma    { background: var(--bg-figma);    color: var(--col-figma); }
   .chip-adobe    { background: var(--bg-adobe);    color: var(--col-adobe); }
@@ -300,6 +285,7 @@
   .chip-design   { background: var(--bg-design);   color: var(--col-design); }
   .chip-trend    { background: var(--bg-trend);    color: var(--col-trend); }
   .chip-frontend { background: var(--bg-frontend); color: var(--col-frontend); }
+  .chip-ai       { background: var(--bg-ai);       color: var(--col-ai); }
 
   /* ── 로딩 ── */
   .loading-state {
@@ -367,11 +353,7 @@
     to   { opacity: 1; transform: translateY(0) scale(1); }
   }
 
-  .modal-accent-bar {
-    height: 5px;
-    border-radius: 20px 20px 0 0;
-  }
-
+  .modal-accent-bar { height: 5px; border-radius: 20px 20px 0 0; }
   .modal-inner { padding: 30px 32px 32px; }
 
   .modal-header-row {
@@ -416,20 +398,11 @@
     margin-bottom: 20px;
   }
 
-  .modal-source-dot {
-    width: 6px; height: 6px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-
+  .modal-source-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
   .modal-source-text { font-size: 0.78rem; color: #aaa; }
   .modal-date-text   { font-size: 0.78rem; color: #ccc; }
 
-  .modal-divider {
-    border: none;
-    border-top: 1px solid #f0f0ee;
-    margin: 20px 0;
-  }
+  .modal-divider { border: none; border-top: 1px solid #f0f0ee; margin: 20px 0; }
 
   .modal-section-label {
     font-size: 0.68rem;
@@ -450,11 +423,8 @@
 
   .modal-point-list {
     list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    padding: 0; margin: 0;
+    display: flex; flex-direction: column; gap: 10px;
   }
 
   .modal-point-list li {
@@ -552,6 +522,7 @@
     <button class="filter-btn active" data-cat="all"      onclick="setFilter('all',this)">전체</button>
     <button class="filter-btn"        data-cat="figma"    onclick="setFilter('figma',this)">피그마 신기능</button>
     <button class="filter-btn"        data-cat="adobe"    onclick="setFilter('adobe',this)">어도비 신기능</button>
+    <button class="filter-btn"        data-cat="ai"       onclick="setFilter('ai',this)">🤖 AI 뉴스</button>
     <button class="filter-btn"        data-cat="industry" onclick="setFilter('industry',this)">업계동향</button>
     <button class="filter-btn"        data-cat="design"   onclick="setFilter('design',this)">디자인</button>
     <button class="filter-btn"        data-cat="trend"    onclick="setFilter('trend',this)">트렌드</button>
@@ -579,7 +550,6 @@
     <div class="modal-accent-bar" id="modalAccentBar"></div>
     <div class="modal-inner">
 
-      <!-- 헤더 -->
       <div class="modal-header-row">
         <div class="modal-meta">
           <span class="cat-chip" id="modalChip"></span>
@@ -588,10 +558,8 @@
         <button class="modal-close-btn" onclick="closeModalDirect()">✕</button>
       </div>
 
-      <!-- 제목 -->
       <h2 class="modal-title-big" id="modalTitle"></h2>
 
-      <!-- 출처 -->
       <div class="modal-source-row">
         <span class="modal-source-dot" id="modalSourceDot"></span>
         <span class="modal-source-text" id="modalSource"></span>
@@ -600,23 +568,19 @@
 
       <hr class="modal-divider">
 
-      <!-- 요약 -->
       <p class="modal-section-label">핵심 요약</p>
       <p class="modal-summary-text" id="modalSummary"></p>
 
       <hr class="modal-divider">
 
-      <!-- 상세 포인트 -->
       <p class="modal-section-label">상세 내용</p>
       <ul class="modal-point-list" id="modalPoints"></ul>
 
       <hr class="modal-divider">
 
-      <!-- 키워드 -->
       <p class="modal-section-label">관련 키워드</p>
       <div class="modal-keywords-wrap" id="modalKeywords"></div>
 
-      <!-- 하단 -->
       <div class="modal-footer-row">
         <button class="modal-share-btn" onclick="copyLink()">🔗 링크 복사</button>
         <a href="#" class="modal-go-btn" id="modalLink" target="_blank" rel="noopener">원문 보러가기 →</a>
@@ -630,6 +594,7 @@
   const CAT_LABEL = {
     figma:    '피그마 신기능',
     adobe:    '어도비 신기능',
+    ai:       '🤖 AI 뉴스',
     industry: '업계동향',
     design:   '디자인',
     trend:    '트렌드',
@@ -639,6 +604,7 @@
   const CAT_COLOR = {
     figma:    '#3a7d44',
     adobe:    '#b84c1a',
+    ai:       '#c2185b',
     industry: '#7b3fa0',
     design:   '#1a5fa0',
     trend:    '#a06020',
@@ -678,7 +644,6 @@
     }
 
     grid.innerHTML = list.map((card, i) => {
-      const col = CAT_COLOR[card.category] || '#888';
       const idx = allCards.indexOf(card);
       return `
         <article class="news-card card-${card.category}" style="animation-delay:${i * 0.04}s" onclick="openModal(${idx})">
@@ -715,31 +680,25 @@
 
     document.getElementById('modalAccentBar').style.background = col;
     document.getElementById('modalSourceDot').style.background  = col;
-
-    document.getElementById('modalChip').textContent  = CAT_LABEL[card.category] || card.category;
-    document.getElementById('modalChip').className    = `cat-chip chip-${card.category}`;
-    document.getElementById('modalDate').textContent  = card.date;
-    document.getElementById('modalTitle').textContent = card.title;
+    document.getElementById('modalChip').textContent   = CAT_LABEL[card.category] || card.category;
+    document.getElementById('modalChip').className     = `cat-chip chip-${card.category}`;
+    document.getElementById('modalDate').textContent   = card.date;
+    document.getElementById('modalTitle').textContent  = card.title;
     document.getElementById('modalSource').textContent = card.source;
     document.getElementById('modalLink').href = card.url || '#';
 
-    // 핵심 요약 (summary)
     document.getElementById('modalSummary').textContent = card.summary || '';
 
-    // 상세 내용 포인트 (summary_full을 문장 단위로 분리)
     const full = card.summary_full || card.summary || '';
     const sentences = full.split(/(?<=[.!?])\s+/).filter(s => s.trim().length > 5);
     document.getElementById('modalPoints').innerHTML = sentences.map(s =>
       `<li><span class="modal-point-dot" style="background:${col};opacity:0.5;"></span><span>${s.trim()}</span></li>`
     ).join('') || `<li><span class="modal-point-dot" style="background:${col};opacity:0.5;"></span><span>${full}</span></li>`;
 
-    // 키워드
     document.getElementById('modalKeywords').innerHTML =
       (card.keywords || []).map(k => `<span class="modal-kw-tag"># ${k}</span>`).join('');
 
-    // 현재 열린 카드 URL 저장 (복사용)
     window._currentModalUrl = card.url || location.href;
-
     document.getElementById('modalOverlay').classList.add('open');
     document.body.style.overflow = 'hidden';
   }
@@ -766,12 +725,14 @@
   function getSampleData() {
     const today = new Date().toLocaleDateString('ko-KR', { month: 'long', day: 'numeric' });
     return [
-      { category:'figma',    title:'Figma AI 레이아웃 자동 제안 기능 출시',       summary:'반복 정렬 작업을 AI가 자동으로 처리해주는 기능이 추가됐습니다. 오토레이아웃 설정을 AI가 자동 감지해 적용합니다.', summary_full:'반복 정렬 작업을 AI가 자동으로 처리해주는 기능이 추가됐습니다. 오토레이아웃 설정을 AI가 자동 감지해 적용하며, 컴포넌트 자동 정렬과 스타일 일관성 검사 기능도 포함됩니다. 대규모 디자인 시스템 운영에 큰 도움이 될 전망입니다.', keywords:['Figma','AI','오토레이아웃'], source:'Figma YouTube', date:today, url:'https://youtube.com' },
-      { category:'adobe',    title:'Firefly 4 벡터 생성 기능 대폭 강화',         summary:'AI 기반 벡터 일러스트 생성 품질이 크게 개선됐습니다. Illustrator와의 연동도 더욱 긴밀해졌습니다.', summary_full:'AI 기반 벡터 일러스트 생성 기능이 크게 개선됐습니다. 텍스트 프롬프트로 SVG 경로를 직접 생성하는 기능은 아이콘 제작 워크플로우를 완전히 바꿀 것으로 보입니다.', keywords:['Adobe','Firefly','벡터AI'], source:'Adobe YouTube', date:today, url:'https://youtube.com' },
-      { category:'industry', title:'Canva 기업용 디자인 플랫폼 시장 30% 돌파',  summary:'기업용 구독자 수가 전년 대비 45% 증가하며 엔터프라이즈 디자인 툴 시장에서 빠르게 성장하고 있습니다.', summary_full:'Canva의 기업용 구독자 수가 전년 대비 45% 증가했습니다. 비개발자 및 비디자이너 직군의 셀프 디자인 수요가 늘면서 전문 디자이너의 역할 재정의도 화두가 되고 있습니다.', keywords:['Canva','업계동향','엔터프라이즈'], source:'Design Week', date:today, url:'#' },
+      { category:'figma',    title:'Figma AI 레이아웃 자동 제안 기능 출시',         summary:'반복 정렬 작업을 AI가 자동으로 처리해주는 기능이 추가됐습니다. 오토레이아웃 설정을 AI가 자동 감지해 적용합니다.', summary_full:'반복 정렬 작업을 AI가 자동으로 처리해주는 기능이 추가됐습니다. 오토레이아웃 설정을 AI가 자동 감지해 적용하며, 컴포넌트 자동 정렬과 스타일 일관성 검사 기능도 포함됩니다. 대규모 디자인 시스템 운영에 큰 도움이 될 전망입니다.', keywords:['Figma','AI','오토레이아웃'], source:'Figma Release Notes', date:today, url:'https://figma.com/release-notes' },
+      { category:'adobe',    title:'Firefly 4 벡터 생성 기능 대폭 강화',           summary:'AI 기반 벡터 일러스트 생성 품질이 크게 개선됐습니다. Illustrator와의 연동도 더욱 긴밀해졌습니다.', summary_full:'AI 기반 벡터 일러스트 생성 기능이 크게 개선됐습니다. 텍스트 프롬프트로 SVG 경로를 직접 생성하는 기능은 아이콘 제작 워크플로우를 완전히 바꿀 것으로 보입니다.', keywords:['Adobe','Firefly','벡터AI'], source:'Adobe Firefly Whats New', date:today, url:'https://helpx.adobe.com/firefly' },
+      { category:'ai',       title:'GPT-5 출시: 멀티모달 추론 능력 획기적 향상',   summary:'OpenAI가 GPT-5를 공개했습니다. 이미지·텍스트·코드를 통합적으로 이해하는 능력이 크게 개선됐습니다.', summary_full:'OpenAI가 GPT-5를 공개했습니다. 이미지, 텍스트, 코드를 통합적으로 이해하는 멀티모달 추론 능력이 크게 개선됐으며, 디자인·개발 협업 도구와의 연동 가능성도 주목받고 있습니다.', keywords:['GPT-5','OpenAI','멀티모달'], source:'OpenAI News', date:today, url:'https://openai.com/news' },
+      { category:'ai',       title:'Anthropic Claude 4, 코딩·디자인 보조 강화',   summary:'Claude 4가 코드 생성과 UI 설명 능력을 대폭 향상시켰습니다. 디자이너 업무와의 접점이 넓어지고 있습니다.', summary_full:'Anthropic의 Claude 4가 코드 생성, UI 설명, 접근성 감사 등 디자이너 관련 작업 지원 능력을 대폭 향상시켰습니다. Import AI에서 상세 기술 분석이 소개됐습니다.', keywords:['Claude','Anthropic','AI보조'], source:'Import AI (Jack Clark)', date:today, url:'https://importai.substack.com' },
+      { category:'industry', title:'Canva 기업용 디자인 플랫폼 시장 30% 돌파',    summary:'기업용 구독자 수가 전년 대비 45% 증가하며 엔터프라이즈 디자인 툴 시장에서 빠르게 성장하고 있습니다.', summary_full:'Canva의 기업용 구독자 수가 전년 대비 45% 증가했습니다. 비디자이너 직군의 셀프 디자인 수요가 늘면서 전문 디자이너의 역할 재정의도 화두가 되고 있습니다.', keywords:['Canva','업계동향','엔터프라이즈'], source:'The Verge AI', date:today, url:'#' },
       { category:'design',   title:'모션 디자인의 새 기준: 물리 기반 애니메이션', summary:'스프링 물리학을 활용한 애니메이션이 UI 모션 디자인의 새 표준으로 떠오르고 있습니다.', summary_full:'스프링 물리학을 활용한 애니메이션이 UI 모션 디자인의 새 표준으로 떠오르고 있습니다. Apple과 Google 모두 자사 가이드라인에서 물리 기반 애니메이션을 권장하고 있습니다.', keywords:['모션','애니메이션','UX'], source:'Smashing Magazine', date:today, url:'https://smashingmagazine.com' },
-      { category:'trend',    title:'2025 디자인 트렌드: 클레이모피즘의 귀환',    summary:'입체감과 촉각적 질감을 강조하는 클레이모피즘이 2025년 UI 트렌드로 재주목받고 있습니다.', summary_full:'평면적 디자인에서 벗어나 입체감과 촉각적 질감을 강조하는 클레이모피즘이 2025년 UI 트렌드로 재주목받고 있습니다. 뉴모피즘의 단점인 접근성 문제를 보완하면서도 입체감을 살린 것이 특징입니다.', keywords:['클레이모피즘','UI트렌드','2025'], source:'Smashing Magazine', date:today, url:'#' },
-      { category:'frontend', title:'CSS Grid subgrid 드디어 전 브라우저 지원',   summary:'CSS Grid의 subgrid 기능이 주요 브라우저 전체에서 안정적으로 지원됩니다. 복잡한 레이아웃 구현이 훨씬 간결해졌습니다.', summary_full:'CSS Grid의 subgrid 기능이 주요 브라우저 전체에서 안정적으로 지원되기 시작했습니다. 기존에 JavaScript로 처리하던 정렬 문제를 순수 CSS로 해결할 수 있어 성능 개선에도 도움이 됩니다.', keywords:['CSS','Grid','브라우저'], source:'web.dev', date:today, url:'https://web.dev' },
+      { category:'trend',    title:'2025 디자인 트렌드: 클레이모피즘의 귀환',     summary:'입체감과 촉각적 질감을 강조하는 클레이모피즘이 2025년 UI 트렌드로 재주목받고 있습니다.', summary_full:'평면적 디자인에서 벗어나 입체감과 촉각적 질감을 강조하는 클레이모피즘이 2025년 UI 트렌드로 재주목받고 있습니다. 뉴모피즘의 단점인 접근성 문제를 보완한 것이 특징입니다.', keywords:['클레이모피즘','UI트렌드','2025'], source:'Wired', date:today, url:'#' },
+      { category:'frontend', title:'CSS Grid subgrid 드디어 전 브라우저 지원',    summary:'CSS Grid의 subgrid 기능이 주요 브라우저 전체에서 안정적으로 지원됩니다. 복잡한 레이아웃 구현이 훨씬 간결해졌습니다.', summary_full:'CSS Grid의 subgrid 기능이 주요 브라우저 전체에서 지원되기 시작했습니다. 기존 JavaScript로 처리하던 정렬 문제를 순수 CSS로 해결할 수 있어 성능 개선에도 도움이 됩니다.', keywords:['CSS','Grid','브라우저'], source:'CSS-Tricks', date:today, url:'https://css-tricks.com' },
     ];
   }
 
