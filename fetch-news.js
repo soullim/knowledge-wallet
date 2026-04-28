@@ -17,18 +17,20 @@ const RSS_SOURCES = [
   // 업계동향
   { url: 'https://uxdesign.cc/feed', category: 'industry', filterKeyword: false },
   { url: 'https://thenextweb.com/feed/', category: 'industry', filterKeyword: false },
-  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', category: 'industry', label: 'The Verge AI', filterKeyword: false },
-  { url: 'https://importai.substack.com/feed', category: 'industry', label: 'Import AI (Jack Clark)', filterKeyword: false },
-  { url: 'https://openai.com/news/rss.xml', category: 'industry', label: 'OpenAI News', filterKeyword: false },
+  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', category: 'ai', label: 'The Verge AI', filterKeyword: false },
 
   // 디자인
   { url: 'https://www.smashingmagazine.com/feed/', category: 'design', filterKeyword: false },
   { url: 'https://alistapart.com/main/feed/', category: 'design', filterKeyword: false },
 
+  // AI 뉴스 (신규 카테고리)
+  { url: 'https://bullrich.dev/tldr-rss/feeds/ai.xml', category: 'ai', label: 'TLDR AI', filterKeyword: false },
+  { url: 'https://importai.substack.com/feed', category: 'ai', label: 'Import AI (Jack Clark)', filterKeyword: false },
+  { url: 'https://openai.com/news/rss.xml', category: 'ai', label: 'OpenAI News', filterKeyword: false },
+
   // 트렌드
   { url: 'https://www.wired.com/feed/rss', category: 'trend', filterKeyword: false },
   { url: 'https://dev.to/feed/tag/design', category: 'trend', filterKeyword: false },
-  { url: 'https://bullrich.dev/tldr-rss/feeds/ai.xml', category: 'trend', label: 'TLDR AI', filterKeyword: false },
 
   // 프론트엔드
   { url: 'https://css-tricks.com/feed/', category: 'frontend', filterKeyword: false },
