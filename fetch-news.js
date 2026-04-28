@@ -15,17 +15,27 @@ const KEYWORDS = [
 // ── RSS 소스 ───────────────────────────────────────
 const RSS_SOURCES = [
 
-  // 피그마 신기능 (유튜브 RSS)
-  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQsVmhSa4X-G3lHlUtejzLA', category: 'figma', label: 'Figma YouTube', filterKeyword: false },
+  // 피그마 신기능 (공식 릴리즈 노트 RSS)
+  // 변경 전: YouTube RSS → 영상 제목만 수집, 기능 내용 파악 어려움
+  // 변경 후: figma.com/release-notes → 실제 기능 업데이트 텍스트 직접 수집
+  { url: 'https://www.figma.com/release-notes/rss.xml', category: 'figma', label: 'Figma Release Notes', filterKeyword: false },
 
-  // 어도비 신기능 (유튜브 RSS로 교체)
-  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UClH-KpveOLJszChWRfFmPfQ', category: 'adobe', label: 'Adobe Photoshop YouTube', filterKeyword: false },
-  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCL0iAkpqV5dB8BWDQ7BRdyA', category: 'adobe', label: 'Adobe Creative Cloud YouTube', filterKeyword: false },
-  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC4bI3HZCwkT-M20KPNQ-CSg', category: 'adobe', label: 'Adobe Firefly YouTube', filterKeyword: false },
+  // ──────────────────────────────────────────────────────────────────────────
+  // 어도비 신기능 (2025-04 개편)
+  //   유튜브 RSS 전면 제거 → 채널 ID 오류 + 영상 제목만 수집되는 한계
+  //   helpx.adobe.com 릴리즈 노트는 공식 RSS 미제공
+  //   → Adobe 공식 블로그 RSS로 대체 (Creativity + AI/Firefly 토픽)
+  // ──────────────────────────────────────────────────────────────────────────
+  { url: 'https://blog.adobe.com/en/topics/creativity.rss', category: 'adobe', label: 'Adobe Blog - Creativity', filterKeyword: false },
+  { url: 'https://blog.adobe.com/en/topics/artificial-intelligence.rss', category: 'adobe', label: 'Adobe Blog - AI / Firefly', filterKeyword: false },
 
   // 업계동향
   { url: 'https://uxdesign.cc/feed', category: 'industry', filterKeyword: false },
   { url: 'https://thenextweb.com/feed/', category: 'industry', filterKeyword: false },
+  // ── 추가 (2025-04) ──
+  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', category: 'industry', label: 'The Verge AI', filterKeyword: false },
+  { url: 'https://importai.substack.com/feed', category: 'industry', label: 'Import AI (Jack Clark)', filterKeyword: false },
+  { url: 'https://openai.com/news/rss.xml', category: 'industry', label: 'OpenAI News', filterKeyword: false },
 
   // 디자인
   { url: 'https://www.smashingmagazine.com/feed/', category: 'design', filterKeyword: false },
@@ -34,6 +44,8 @@ const RSS_SOURCES = [
   // 트렌드
   { url: 'https://www.wired.com/feed/rss', category: 'trend', filterKeyword: false },
   { url: 'https://dev.to/feed/tag/design', category: 'trend', filterKeyword: false },
+  // ── 추가 (2025-04) ──
+  { url: 'https://bullrich.dev/tldr-rss/feeds/ai.xml', category: 'trend', label: 'TLDR AI', filterKeyword: false },
 
   // 프론트엔드
   { url: 'https://css-tricks.com/feed/', category: 'frontend', filterKeyword: false },
@@ -45,6 +57,8 @@ const RSS_SOURCES = [
   { url: 'https://eopla.net/magazines/rss', category: 'design', filterKeyword: true },
   { url: 'https://channel.io/ko/team/blog/rss', category: 'industry', filterKeyword: true },
   { url: 'https://blog.gangnamunni.com/feed', category: 'design', filterKeyword: true },
+  // ── 추가 (2025-04): 구글 뉴스 AI 한국어 ──
+  { url: 'https://news.google.com/rss/search?q=AI+디자인&hl=ko&gl=KR&ceid=KR:ko', category: 'trend', label: 'Google News AI', filterKeyword: true },
 ];
 
 const MAX_PER_CATEGORY = 2;
