@@ -14,25 +14,9 @@ const KEYWORDS = [
 
 // ── RSS 소스 ───────────────────────────────────────
 const RSS_SOURCES = [
-
-  // 피그마 신기능 (공식 릴리즈 노트 RSS)
-  // 변경 전: YouTube RSS → 영상 제목만 수집, 기능 내용 파악 어려움
-  // 변경 후: figma.com/release-notes → 실제 기능 업데이트 텍스트 직접 수집
-  { url: 'https://www.figma.com/release-notes/rss.xml', category: 'figma', label: 'Figma Release Notes', filterKeyword: false },
-
-  // ──────────────────────────────────────────────────────────────────────────
-  // 어도비 신기능 (2025-04 개편)
-  //   유튜브 RSS 전면 제거 → 채널 ID 오류 + 영상 제목만 수집되는 한계
-  //   helpx.adobe.com 릴리즈 노트는 공식 RSS 미제공
-  //   → Adobe 공식 블로그 RSS로 대체 (Creativity + AI/Firefly 토픽)
-  // ──────────────────────────────────────────────────────────────────────────
-  { url: 'https://blog.adobe.com/en/topics/creativity.rss', category: 'adobe', label: 'Adobe Blog - Creativity', filterKeyword: false },
-  { url: 'https://blog.adobe.com/en/topics/artificial-intelligence.rss', category: 'adobe', label: 'Adobe Blog - AI / Firefly', filterKeyword: false },
-
   // 업계동향
   { url: 'https://uxdesign.cc/feed', category: 'industry', filterKeyword: false },
   { url: 'https://thenextweb.com/feed/', category: 'industry', filterKeyword: false },
-  // ── 추가 (2025-04) ──
   { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', category: 'industry', label: 'The Verge AI', filterKeyword: false },
   { url: 'https://importai.substack.com/feed', category: 'industry', label: 'Import AI (Jack Clark)', filterKeyword: false },
   { url: 'https://openai.com/news/rss.xml', category: 'industry', label: 'OpenAI News', filterKeyword: false },
@@ -44,7 +28,6 @@ const RSS_SOURCES = [
   // 트렌드
   { url: 'https://www.wired.com/feed/rss', category: 'trend', filterKeyword: false },
   { url: 'https://dev.to/feed/tag/design', category: 'trend', filterKeyword: false },
-  // ── 추가 (2025-04) ──
   { url: 'https://bullrich.dev/tldr-rss/feeds/ai.xml', category: 'trend', label: 'TLDR AI', filterKeyword: false },
 
   // 프론트엔드
@@ -57,21 +40,197 @@ const RSS_SOURCES = [
   { url: 'https://eopla.net/magazines/rss', category: 'design', filterKeyword: true },
   { url: 'https://channel.io/ko/team/blog/rss', category: 'industry', filterKeyword: true },
   { url: 'https://blog.gangnamunni.com/feed', category: 'design', filterKeyword: true },
-  // ── 추가 (2025-04): 구글 뉴스 AI 한국어 ──
   { url: 'https://news.google.com/rss/search?q=AI+디자인&hl=ko&gl=KR&ceid=KR:ko', category: 'trend', label: 'Google News AI', filterKeyword: true },
+];
+
+// ── 크롤링 소스 (RSS 없는 릴리즈 노트 전용) ──────
+// main()에서 RSS 루프 전에 별도 실행됨
+const SCRAPE_SOURCES = [
+  {
+    label: 'Figma Release Notes',
+    category: 'figma',
+    url: 'https://www.figma.com/release-notes/',
+    // 파싱 전략: <h2> 날짜 + 이후 <p> 텍스트 블록
+    parser: 'figma',
+  },
+  {
+    label: 'Adobe CC Release Notes',
+    category: 'adobe',
+    url: 'https://helpx.adobe.com/kr/creative-cloud/apps/whats-new/release-notes.html',
+    parser: 'adobe_helpx',
+  },
+  {
+    label: 'Adobe Firefly Whats New',
+    category: 'adobe',
+    url: 'https://helpx.adobe.com/firefly/web/whats-new/new-features/whats-new.html',
+    parser: 'adobe_helpx',
+  },
 ];
 
 const MAX_PER_CATEGORY = 2;
 const MAX_TOTAL = 10;
 // ──────────────────────────────────────────────────
 
-// 키워드 필터 함수
 function hasKeyword(text) {
   const lower = text.toLowerCase();
   return KEYWORDS.some(k => lower.includes(k.toLowerCase()));
 }
 
-// YouTube Atom 피드 파싱
+// ── HTML 텍스트 정제 공통 함수 ──────────────────────
+function cleanHtml(html) {
+  return html
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<nav[\s\S]*?<\/nav>/gi, '')
+    .replace(/<header[\s\S]*?<\/header>/gi, '')
+    .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+    .replace(/<!--[\s\S]*?-->/g, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&nbsp;/g, ' ').replace(/&#[0-9]+;/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// ── Figma 릴리즈 노트 파싱 ──────────────────────────
+// 구조: 날짜 텍스트 → 태그들 → 기능 설명 텍스트 블록
+function parseFigmaReleaseNotes(html) {
+  // 메인 콘텐츠 영역만 추출 (nav/header 제거 후)
+  const mainMatch = html.match(/<main[\s\S]*?>([\s\S]*?)<\/main>/i);
+  const body = mainMatch ? mainMatch[1] : html;
+
+  // 날짜 패턴: Apr 24, 2026 / April 24, 2026
+  const datePattern = /\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d{1,2},\s+\d{4}\b/;
+
+  // 텍스트 블록 단위로 분리 (div/section/article 경계)
+  const blocks = body.split(/<\/(?:div|section|article|li)>/i);
+
+  let latestDate = '';
+  let latestTitle = '';
+  let latestDesc = '';
+
+  for (const block of blocks) {
+    const text = cleanHtml(block).replace(/\s+/g, ' ').trim();
+    if (text.length < 20) continue;
+
+    // 날짜 발견 → 기록
+    const dateMatch = text.match(datePattern);
+    if (dateMatch && !latestDate) {
+      latestDate = dateMatch[0];
+    }
+
+    // 날짜가 기록된 뒤 의미있는 설명 블록 찾기
+    if (latestDate && !latestDesc && text.length > 60 && !text.match(/^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/)) {
+      // 너무 짧거나 메뉴/태그 텍스트 같은 건 제외
+      const wordCount = text.split(' ').length;
+      if (wordCount > 10) {
+        latestTitle = text.slice(0, 80);
+        latestDesc = text.slice(0, 400);
+      }
+    }
+
+    if (latestDate && latestDesc) break;
+  }
+
+  if (!latestDesc) return null;
+
+  return {
+    title: latestTitle || 'Figma 업데이트',
+    desc: latestDesc,
+    date: latestDate || new Date().toISOString(),
+    link: 'https://www.figma.com/release-notes/',
+  };
+}
+
+// ── Adobe helpx 릴리즈 노트 파싱 ───────────────────
+// 구조: 버전/날짜 heading → ul 목록으로 변경사항 나열
+function parseAdobeHelpxReleaseNotes(html) {
+  // 사이드바/메뉴 제거 후 메인 영역 추출
+  const articleMatch = html.match(/<(?:article|main|div[^>]*?class="[^"]*content[^"]*")[^>]*>([\s\S]*?)<\/(?:article|main|div)>/i);
+  const body = articleMatch ? articleMatch[1] : html;
+
+  // h2/h3 기준으로 섹션 분할
+  const sections = body.split(/<h[23][^>]*>/i);
+
+  let bestTitle = '';
+  let bestDesc = '';
+  let bestDate = '';
+
+  const datePattern = /\b(20\d{2})\b.*?([\d]{1,2}[\/\-\.]\d{1,2}[\/\-\.]\d{2,4}|\b(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d{1,2},?\s+20\d{2})/i;
+
+  for (const section of sections.slice(1)) { // 첫 번째는 헤딩 이전 내용
+    const headingEnd = section.indexOf('<');
+    const headingText = headingEnd > 0 ? cleanHtml(section.slice(0, headingEnd + 50)).trim() : '';
+    const bodyText = cleanHtml(section).replace(/\s+/g, ' ').trim();
+
+    if (bodyText.length < 30) continue;
+
+    // 날짜 있는 섹션 우선
+    const dateMatch = bodyText.match(datePattern);
+    if (dateMatch) {
+      bestDate = dateMatch[0].slice(0, 30);
+    }
+
+    // 첫 번째 실질적인 섹션 내용 사용
+    if (!bestDesc && bodyText.length > 80) {
+      bestTitle = headingText.slice(0, 80) || bodyText.slice(0, 60);
+      bestDesc = bodyText.slice(0, 400);
+      if (bestDate) break;
+    }
+  }
+
+  if (!bestDesc) return null;
+
+  return {
+    title: bestTitle || 'Adobe 업데이트',
+    desc: bestDesc,
+    date: bestDate || new Date().toISOString(),
+    link: 'https://helpx.adobe.com/kr/creative-cloud/apps/whats-new/release-notes.html',
+  };
+}
+
+// ── 크롤링 실행 함수 ────────────────────────────────
+async function scrapeReleaseNote(source) {
+  console.log(`🕷️  [${source.category}] 크롤링: ${source.label}`);
+  try {
+    const html = await fetchUrl(source.url);
+
+    let item = null;
+    if (source.parser === 'figma') {
+      item = parseFigmaReleaseNotes(html);
+    } else if (source.parser === 'adobe_helpx') {
+      item = parseAdobeHelpxReleaseNotes(html);
+    }
+
+    if (!item) {
+      console.log(`  ⚠️ 파싱 결과 없음`);
+      return null;
+    }
+
+    console.log(`  📰 "${item.title.slice(0, 60)}"`);
+    console.log(`  🤖 OpenAI 요약 중...`);
+    await sleep(500);
+
+    const summarized = await summarizeWithOpenAI(item.title, item.desc);
+
+    console.log(`  ✅ 완료`);
+    return {
+      category: source.category,
+      title: summarized.title || item.title,
+      summary: summarized.summary || item.desc.slice(0, 120),
+      summary_full: summarized.summary_full || item.desc,
+      keywords: summarized.keywords || [],
+      source: source.label,
+      date: formatDate(item.date),
+      url: item.link,
+    };
+  } catch (err) {
+    console.log(`  ❌ 실패: ${err.message}`);
+    return null;
+  }
+}
+
+// ── YouTube Atom 피드 파싱 ──────────────────────────
 function parseAtom(xml) {
   const items = [];
   const entryRegex = /<entry>([\s\S]*?)<\/entry>/g;
@@ -91,9 +250,8 @@ function parseAtom(xml) {
   return items;
 }
 
-// RSS XML 파싱
+// ── RSS XML 파싱 ────────────────────────────────────
 function parseRSS(xml) {
-  // Atom 피드 감지
   if (xml.includes('<feed') && xml.includes('<entry>')) return parseAtom(xml);
 
   const items = [];
@@ -123,7 +281,8 @@ function fetchUrl(url, redirectCount = 0) {
     const req = client.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-        'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'
+        'Accept': 'text/html,application/rss+xml,application/atom+xml,application/xml,text/xml,*/*',
+        'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8'
       }
     }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
@@ -220,6 +379,23 @@ async function main() {
   const categoryCount = {};
   const articles = [];
 
+  // ── 1단계: 크롤링 소스 (Figma / Adobe 릴리즈 노트) ──
+  console.log('\n── 크롤링 소스 수집 중 ──');
+  for (const source of SCRAPE_SOURCES) {
+    if (articles.length >= MAX_TOTAL) break;
+    const count = categoryCount[source.category] || 0;
+    if (count >= MAX_PER_CATEGORY) continue;
+
+    const result = await scrapeReleaseNote(source);
+    if (result) {
+      articles.push(result);
+      categoryCount[source.category] = count + 1;
+    }
+    await sleep(1000); // 크롤링 간 텀
+  }
+
+  // ── 2단계: RSS 소스 ──────────────────────────────────
+  console.log('\n── RSS 소스 수집 중 ──');
   for (const source of RSS_SOURCES) {
     if (articles.length >= MAX_TOTAL) break;
     const count = categoryCount[source.category] || 0;
@@ -232,23 +408,16 @@ async function main() {
 
       if (items.length === 0) { console.log(`  ⚠️ 기사 없음`); continue; }
 
-      // 키워드 필터 적용 (국내 사이트)
       const filtered = source.filterKeyword
         ? items.filter(item => hasKeyword(item.title + ' ' + item.desc))
         : items;
 
-      if (filtered.length === 0) {
-        console.log(`  ⚠️ 키워드 매칭 기사 없음`);
-        continue;
-      }
+      if (filtered.length === 0) { console.log(`  ⚠️ 키워드 매칭 기사 없음`); continue; }
 
       const item = filtered[0];
       console.log(`  📰 "${item.title.slice(0,60)}"`);
 
-      if (!item.desc || item.desc.length < 10) {
-        // YouTube는 desc가 짧아도 제목만으로 요약 가능
-        item.desc = item.title;
-      }
+      if (!item.desc || item.desc.length < 10) item.desc = item.title;
 
       console.log(`  🤖 OpenAI 요약 중...`);
       await sleep(500);
