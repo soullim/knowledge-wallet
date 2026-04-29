@@ -635,8 +635,12 @@
   function renderCards() {
     const grid = document.getElementById('cardGrid');
     const filtered = currentFilter === 'all' ? allCards : allCards.filter(c => c.category === currentFilter);
-    // collectedAt(YYYY-MM-DD) 기준 최신순 정렬
-    const list = [...filtered].sort((a, b) => (b.collectedAt || '').localeCompare(a.collectedAt || ''));
+    // publishedAt(원본 발행일) 우선, 없으면 collectedAt(수집일) 기준 최신순 정렬
+    const list = [...filtered].sort((a, b) => {
+      const da = a.publishedAt || a.collectedAt || '';
+      const db = b.publishedAt || b.collectedAt || '';
+      return db.localeCompare(da);
+    });
 
     document.getElementById('cardCount').textContent = list.length + '개';
 
