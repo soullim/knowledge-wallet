@@ -522,11 +522,11 @@
     <button class="filter-btn active" data-cat="all"      onclick="setFilter('all',this)">전체</button>
     <button class="filter-btn"        data-cat="figma"    onclick="setFilter('figma',this)">피그마 신기능</button>
     <button class="filter-btn"        data-cat="adobe"    onclick="setFilter('adobe',this)">어도비 신기능</button>
+    <button class="filter-btn"        data-cat="frontend" onclick="setFilter('frontend',this)">프론트엔드</button>
     <button class="filter-btn"        data-cat="ai"       onclick="setFilter('ai',this)">🤖 AI 뉴스</button>
     <button class="filter-btn"        data-cat="industry" onclick="setFilter('industry',this)">업계동향</button>
     <button class="filter-btn"        data-cat="design"   onclick="setFilter('design',this)">디자인</button>
     <button class="filter-btn"        data-cat="trend"    onclick="setFilter('trend',this)">트렌드</button>
-    <button class="filter-btn"        data-cat="frontend" onclick="setFilter('frontend',this)">프론트엔드</button>
   </div>
 </div>
 
@@ -634,7 +634,9 @@
 
   function renderCards() {
     const grid = document.getElementById('cardGrid');
-    const list = currentFilter === 'all' ? allCards : allCards.filter(c => c.category === currentFilter);
+    const filtered = currentFilter === 'all' ? allCards : allCards.filter(c => c.category === currentFilter);
+    // collectedAt(YYYY-MM-DD) 기준 최신순 정렬
+    const list = [...filtered].sort((a, b) => (b.collectedAt || '').localeCompare(a.collectedAt || ''));
 
     document.getElementById('cardCount').textContent = list.length + '개';
 
