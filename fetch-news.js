@@ -7,7 +7,7 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 // ── 키워드 필터 (국내 사이트용) ───────────────────
 const KEYWORDS = [
   '디자인', '피그마', '어도비', '퍼블리싱', '트렌드', 'AI', '인공지능',
-  '클로드', 'UX', 'UI', '프론트엔드', '웹디자인', '모션', '포토샵','파이어플라이','firefly'
+  '클로드', 'UX', 'UI', '프론트엔드', '웹디자인', '모션', '포토샵','파이어플라이','firefly',
   '일러스트', 'figma', 'adobe', 'design', 'frontend', 'ux', 'ui',
   'ChatGPT', 'GPT', '생성형', '브랜드', '타이포그래피', '컬러'
 ];
