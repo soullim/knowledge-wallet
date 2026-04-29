@@ -7,7 +7,7 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 // ── 키워드 필터 (국내 사이트용) ───────────────────
 const KEYWORDS = [
   '디자인', '피그마', '어도비', '퍼블리싱', '트렌드', 'AI', '인공지능',
-  '클로드', 'UX', 'UI', '프론트엔드', '웹디자인', '모션', '포토샵','파이어플라이','firefly',
+  '클로드','클로드디자인','UX', 'UI', '프론트엔드', '웹디자인', '모션', '포토샵','파이어플라이','firefly',
   '일러스트', 'figma', 'adobe', 'design', 'frontend', 'ux', 'ui',
   'ChatGPT', 'GPT', '생성형', '브랜드', '타이포그래피', '컬러'
 ];
@@ -17,30 +17,29 @@ const RSS_SOURCES = [
 
   // ── AI 뉴스 ──────────────────────────────────────
   // 다양한 AI 기업 공식 블로그 + 큐레이션 미디어
-  { url: 'https://www.anthropic.com/rss.xml',                                                 category: 'ai', label: 'Anthropic News',          filterKeyword: false },
-  { url: 'https://openai.com/news/rss.xml',                                                   category: 'ai', label: 'OpenAI News',             filterKeyword: false },
-  { url: 'https://deepmind.google/blog/rss.xml',                                              category: 'ai', label: 'Google DeepMind Blog',    filterKeyword: false },
-  { url: 'https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml',  category: 'ai', label: 'Mistral AI News',         filterKeyword: false },
-  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',                 category: 'ai', label: 'The Verge AI',            filterKeyword: false },
-  { url: 'https://bullrich.dev/tldr-rss/feeds/ai.xml',                                        category: 'ai', label: 'TLDR AI',                 filterKeyword: false },
-  { url: 'https://importai.substack.com/feed',                                                category: 'ai', label: 'Import AI (Jack Clark)',  filterKeyword: false },
-  { url: 'https://www.deeplearning.ai/the-batch/feed/',                                       category: 'ai', label: 'The Batch (DeepLearning.AI)', filterKeyword: false },
-  { url: 'https://news.google.com/rss/search?q=AI+인공지능+LLM&hl=ko&gl=KR&ceid=KR:ko',      category: 'ai', label: 'Google News AI (KR)',     filterKeyword: true },
+  // Anthropic: 공식 RSS 없음 → Google News 쿼리로 대체
+  { url: 'https://openai.com/news/rss.xml',                                                       category: 'ai', label: 'OpenAI News',              filterKeyword: false },
+  { url: 'https://deepmind.google/blog/rss.xml',                                                  category: 'ai', label: 'Google DeepMind Blog',     filterKeyword: false },
+  { url: 'https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml',      category: 'ai', label: 'Mistral AI',               filterKeyword: false },
+  { url: 'https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml', category: 'ai', label: 'Anthropic Research', filterKeyword: false },
+  { url: 'https://www.theverge.com/rss/index.xml',                                                category: 'ai', label: 'The Verge',               filterKeyword: true  },  // 전체 피드 + AI 키워드 필터
+  { url: 'https://tldrnewsletter.com/tag/ai/rss',                                                 category: 'ai', label: 'TLDR AI',                  filterKeyword: false },
+  { url: 'https://huggingface.co/blog/feed.xml',                                                  category: 'ai', label: 'HuggingFace Blog',         filterKeyword: false },
+  { url: 'https://news.google.com/rss/search?q=Anthropic+Claude+AI&hl=ko&gl=KR&ceid=KR:ko',      category: 'ai', label: 'Google News Anthropic',    filterKeyword: false },
+  { url: 'https://news.google.com/rss/search?q=AI+인공지능+LLM+출시&hl=ko&gl=KR&ceid=KR:ko',    category: 'ai', label: 'Google News AI (KR)',       filterKeyword: true  },
 
   // ── 업계동향 ─────────────────────────────────────
   { url: 'https://uxdesign.cc/feed',                                                          category: 'industry', filterKeyword: false },
   { url: 'https://thenextweb.com/feed/',                                                      category: 'industry', filterKeyword: false },
   // 국내
   { url: 'https://byline.network/feed',                                                       category: 'industry', label: '바이라인네트워크', filterKeyword: true },
-  { url: 'https://ditoday.com/feed',                                                          category: 'industry', filterKeyword: true },
-  { url: 'https://channel.io/ko/team/blog/rss',                                               category: 'industry', filterKeyword: true },
+  { url: 'https://channel.io/ko/blog/rss',                                                     category: 'industry', label: 'Channel.io Blog', filterKeyword: true },
 
   // ── 디자인 ───────────────────────────────────────
   { url: 'https://www.smashingmagazine.com/feed/',                                            category: 'design', filterKeyword: false },
   { url: 'https://alistapart.com/main/feed/',                                                 category: 'design', filterKeyword: false },
   // 국내
   { url: 'https://eopla.net/magazines/rss',                                                   category: 'design', filterKeyword: true },
-  { url: 'https://blog.gangnamunni.com/feed',                                                 category: 'design', filterKeyword: true },
   { url: 'https://news.google.com/rss/search?q=디자인+UX+UI+트렌드&hl=ko&gl=KR&ceid=KR:ko', category: 'design', label: 'Google News Design (KR)', filterKeyword: true },
 
   // ── 트렌드 ───────────────────────────────────────
