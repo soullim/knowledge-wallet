@@ -9,40 +9,48 @@ const KEYWORDS = [
   '디자인', '피그마', '어도비', '퍼블리싱', '트렌드', 'AI', '인공지능',
   '클로드', 'UX', 'UI', '프론트엔드', '웹디자인', '모션', '포토샵',
   '일러스트', 'figma', 'adobe', 'design', 'frontend', 'ux', 'ui',
-  'ChatGPT', 'GPT', '생성형', '브랜드', '타이포그래피', '컬러'
+  'ChatGPT', 'GPT', '생성형', '브랜드', '타이포그래피', '컬러','파이어플라이','firfly'
 ];
 
 // ── RSS 소스 ───────────────────────────────────────
 const RSS_SOURCES = [
-  // 업계동향
-  { url: 'https://uxdesign.cc/feed', category: 'industry', filterKeyword: false },
-  { url: 'https://thenextweb.com/feed/', category: 'industry', filterKeyword: false },
-  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', category: 'ai', label: 'The Verge AI', filterKeyword: false },
 
-  // 디자인
-  { url: 'https://www.smashingmagazine.com/feed/', category: 'design', filterKeyword: false },
-  { url: 'https://alistapart.com/main/feed/', category: 'design', filterKeyword: false },
+  // ── AI 뉴스 ──────────────────────────────────────
+  // 다양한 AI 기업 공식 블로그 + 큐레이션 미디어
+  { url: 'https://www.anthropic.com/rss.xml',                                                 category: 'ai', label: 'Anthropic News',          filterKeyword: false },
+  { url: 'https://openai.com/news/rss.xml',                                                   category: 'ai', label: 'OpenAI News',             filterKeyword: false },
+  { url: 'https://deepmind.google/blog/rss.xml',                                              category: 'ai', label: 'Google DeepMind Blog',    filterKeyword: false },
+  { url: 'https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml',  category: 'ai', label: 'Mistral AI News',         filterKeyword: false },
+  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',                 category: 'ai', label: 'The Verge AI',            filterKeyword: false },
+  { url: 'https://bullrich.dev/tldr-rss/feeds/ai.xml',                                        category: 'ai', label: 'TLDR AI',                 filterKeyword: false },
+  { url: 'https://importai.substack.com/feed',                                                category: 'ai', label: 'Import AI (Jack Clark)',  filterKeyword: false },
+  { url: 'https://www.deeplearning.ai/the-batch/feed/',                                       category: 'ai', label: 'The Batch (DeepLearning.AI)', filterKeyword: false },
+  { url: 'https://news.google.com/rss/search?q=AI+인공지능+LLM&hl=ko&gl=KR&ceid=KR:ko',      category: 'ai', label: 'Google News AI (KR)',     filterKeyword: true },
 
-  // AI 뉴스 (신규 카테고리)
-  { url: 'https://bullrich.dev/tldr-rss/feeds/ai.xml', category: 'ai', label: 'TLDR AI', filterKeyword: false },
-  { url: 'https://importai.substack.com/feed', category: 'ai', label: 'Import AI (Jack Clark)', filterKeyword: false },
-  { url: 'https://openai.com/news/rss.xml', category: 'ai', label: 'OpenAI News', filterKeyword: false },
+  // ── 업계동향 ─────────────────────────────────────
+  { url: 'https://uxdesign.cc/feed',                                                          category: 'industry', filterKeyword: false },
+  { url: 'https://thenextweb.com/feed/',                                                      category: 'industry', filterKeyword: false },
+  // 국내
+  { url: 'https://byline.network/feed',                                                       category: 'industry', label: '바이라인네트워크', filterKeyword: true },
+  { url: 'https://ditoday.com/feed',                                                          category: 'industry', filterKeyword: true },
+  { url: 'https://channel.io/ko/team/blog/rss',                                               category: 'industry', filterKeyword: true },
 
-  // 트렌드
-  { url: 'https://www.wired.com/feed/rss', category: 'trend', filterKeyword: false },
-  { url: 'https://dev.to/feed/tag/design', category: 'trend', filterKeyword: false },
+  // ── 디자인 ───────────────────────────────────────
+  { url: 'https://www.smashingmagazine.com/feed/',                                            category: 'design', filterKeyword: false },
+  { url: 'https://alistapart.com/main/feed/',                                                 category: 'design', filterKeyword: false },
+  // 국내
+  { url: 'https://eopla.net/magazines/rss',                                                   category: 'design', filterKeyword: true },
+  { url: 'https://blog.gangnamunni.com/feed',                                                 category: 'design', filterKeyword: true },
+  { url: 'https://news.google.com/rss/search?q=디자인+UX+UI+트렌드&hl=ko&gl=KR&ceid=KR:ko', category: 'design', label: 'Google News Design (KR)', filterKeyword: true },
 
-  // 프론트엔드
-  { url: 'https://css-tricks.com/feed/', category: 'frontend', filterKeyword: false },
-  { url: 'https://dev.to/feed/tag/webdev', category: 'frontend', filterKeyword: false },
+  // ── 트렌드 ───────────────────────────────────────
+  { url: 'https://www.wired.com/feed/rss',                                                   category: 'trend', filterKeyword: false },
+  { url: 'https://dev.to/feed/tag/design',                                                   category: 'trend', filterKeyword: false },
 
-  // 국내 사이트 (키워드 필터 적용)
-  { url: 'https://ditoday.com/feed', category: 'industry', filterKeyword: true },
-  { url: 'https://toss.tech/rss.xml', category: 'frontend', filterKeyword: true },
-  { url: 'https://eopla.net/magazines/rss', category: 'design', filterKeyword: true },
-  { url: 'https://channel.io/ko/team/blog/rss', category: 'industry', filterKeyword: true },
-  { url: 'https://blog.gangnamunni.com/feed', category: 'design', filterKeyword: true },
-  { url: 'https://news.google.com/rss/search?q=AI+디자인&hl=ko&gl=KR&ceid=KR:ko', category: 'trend', label: 'Google News AI', filterKeyword: true },
+  // ── 프론트엔드 ────────────────────────────────────
+  { url: 'https://css-tricks.com/feed/',                                                      category: 'frontend', filterKeyword: false },
+  { url: 'https://dev.to/feed/tag/webdev',                                                   category: 'frontend', filterKeyword: false },
+  { url: 'https://toss.tech/rss.xml',                                                        category: 'frontend', filterKeyword: true },
 ];
 
 // ── 크롤링 소스 (RSS 없는 릴리즈 노트 전용) ──────
@@ -67,10 +75,29 @@ const SCRAPE_SOURCES = [
     url: 'https://helpx.adobe.com/firefly/web/whats-new/new-features/whats-new.html',
     parser: 'adobe_helpx',
   },
+  // ── 새 크롤링 소스 (RSS 없는 국내 디자인/문화 사이트) ──
+  {
+    label: 'TMSS 매거진',
+    category: 'design',
+    url: 'https://www.tmssmag.com/',
+    parser: 'generic_list',   // <a> 링크 목록에서 제목 추출
+  },
+  {
+    label: 'Secondbrush Blog',
+    category: 'design',
+    url: 'https://blog.secondbrush.co.kr/',
+    parser: 'generic_list',
+  },
+  {
+    label: '오늘의집 Culture',
+    category: 'industry',
+    url: 'https://www.bucketplace.com/culture/',
+    parser: 'generic_list',
+  },
 ];
 
 const MAX_PER_CATEGORY = 2;
-const MAX_TOTAL = 10;
+const MAX_TOTAL = 12;
 const MAX_KEEP_DAYS = 30;  // 최대 보관 일수 (오래된 기사 자동 삭제)
 // ──────────────────────────────────────────────────
 
@@ -192,6 +219,50 @@ function parseAdobeHelpxReleaseNotes(html) {
   };
 }
 
+// ── 일반 목록 페이지 파싱 (RSS 없는 블로그/매거진) ──
+// 전략: <a href> 링크 중 본문 글 링크처럼 보이는 것을 뽑아 제목+URL 추출
+function parseGenericList(html, baseUrl) {
+  // 불필요한 블록 제거 (정규식 변수로 분리)
+  const rScript = new RegExp('<script[\\s\\S]*?<\\/script>', 'gi');
+  const rStyle  = new RegExp('<style[\\s\\S]*?<\\/style>',  'gi');
+  const rNav    = new RegExp('<nav[\\s\\S]*?<\\/nav>',      'gi');
+  const rHeader = new RegExp('<header[\\s\\S]*?<\\/header>','gi');
+  const rFooter = new RegExp('<footer[\\s\\S]*?<\\/footer>','gi');
+  const cleaned = html
+    .replace(rScript, '').replace(rStyle, '').replace(rNav, '')
+    .replace(rHeader, '').replace(rFooter, '');
+
+  const rLink = new RegExp('<a[^>]+href="([^"]+)"[^>]*>([\\s\\S]*?)<\\/a>', 'gi');
+  const candidates = [];
+  let match;
+
+  while ((match = rLink.exec(cleaned)) !== null) {
+    let href = match[1];
+    const rawText = match[2].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+    if (rawText.length < 15 || rawText.length > 200) continue;
+    if (href.startsWith('#') || href.startsWith('javascript') || href.startsWith('mailto')) continue;
+    if (href.startsWith('/')) {
+      try { href = new URL(href, baseUrl).href; } catch { continue; }
+    }
+    if (!href.startsWith('http')) continue;
+    try {
+      const baseDomain = new URL(baseUrl).hostname.replace('www.', '');
+      if (!new URL(href).hostname.includes(baseDomain)) continue;
+    } catch { continue; }
+    if (candidates.some(c => c.href === href)) continue;
+    candidates.push({ href, text: rawText });
+  }
+
+  if (!candidates.length) return null;
+  const best = candidates[0];
+  return {
+    title: best.text.slice(0, 120),
+    desc: best.text,
+    date: new Date().toISOString(),
+    link: best.href,
+  };
+}
+
 // ── 크롤링 실행 함수 ────────────────────────────────
 async function scrapeReleaseNote(source) {
   console.log(`🕷️  [${source.category}] 크롤링: ${source.label}`);
@@ -203,6 +274,8 @@ async function scrapeReleaseNote(source) {
       item = parseFigmaReleaseNotes(html);
     } else if (source.parser === 'adobe_helpx') {
       item = parseAdobeHelpxReleaseNotes(html);
+    } else if (source.parser === 'generic_list') {
+      item = parseGenericList(html, source.url);
     }
 
     if (!item) {
