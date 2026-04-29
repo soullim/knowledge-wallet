@@ -7,9 +7,9 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 // ── 키워드 필터 (국내 사이트용) ───────────────────
 const KEYWORDS = [
   '디자인', '피그마', '어도비', '퍼블리싱', '트렌드', 'AI', '인공지능',
-  '클로드', 'UX', 'UI', '프론트엔드', '웹디자인', '모션', '포토샵',
+  '클로드', 'UX', 'UI', '프론트엔드', '웹디자인', '모션', '포토샵','파이어플라이','firefly'
   '일러스트', 'figma', 'adobe', 'design', 'frontend', 'ux', 'ui',
-  'ChatGPT', 'GPT', '생성형', '브랜드', '타이포그래피', '컬러','파이어플라이','firfly'
+  'ChatGPT', 'GPT', '생성형', '브랜드', '타이포그래피', '컬러'
 ];
 
 // ── RSS 소스 ───────────────────────────────────────
@@ -96,8 +96,8 @@ const SCRAPE_SOURCES = [
   },
 ];
 
-const MAX_PER_CATEGORY = 2;
-const MAX_TOTAL = 12;
+const MAX_PER_CATEGORY = 10; // 카테고리당 최대 수집
+const MAX_TOTAL = 70;          // 하루 전체 최대 (7카테고리 × 10개)
 const MAX_KEEP_DAYS = 30;  // 최대 보관 일수 (오래된 기사 자동 삭제)
 // ──────────────────────────────────────────────────
 
@@ -298,6 +298,7 @@ async function scrapeReleaseNote(source) {
       keywords: summarized.keywords || [],
       source: source.label,
       date: formatDate(item.date),
+      publishedAt: toISODate(item.date),   // 정렬용 ISO 날짜
       url: item.link,
     };
   } catch (err) {
@@ -446,6 +447,17 @@ function formatDate(dateStr) {
   }
 }
 
+// 정렬용 ISO 날짜 문자열 반환 (파싱 실패 시 오늘)
+function toISODate(dateStr) {
+  try {
+    const d = new Date(dateStr);
+    if (isNaN(d)) throw new Error();
+    return d.toISOString();
+  } catch {
+    return new Date().toISOString();
+  }
+}
+
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -508,6 +520,7 @@ async function main() {
         keywords: summarized.keywords || [],
         source: source.label || new URL(source.url).hostname.replace('www.',''),
         date: formatDate(item.date),
+        publishedAt: toISODate(item.date),   // 정렬용 ISO 날짜
         url: item.link
       });
 
@@ -546,8 +559,12 @@ async function main() {
   const cutoffStr = cutoff.toISOString().slice(0, 10);
   const merged = deduped.filter(a => !a.collectedAt || a.collectedAt >= cutoffStr);
 
-  // 최신순 정렬 (collectedAt 기준)
-  merged.sort((a, b) => (b.collectedAt || '').localeCompare(a.collectedAt || ''));
+  // 최신순 정렬: publishedAt(원본 발행일) 우선, 없으면 collectedAt(수집일) 사용
+  merged.sort((a, b) => {
+    const da = a.publishedAt || a.collectedAt || '';
+    const db = b.publishedAt || b.collectedAt || '';
+    return db.localeCompare(da);
+  });
 
   console.log(`📊 병합 결과: 오늘 ${taggedNew.length}개 + 기존 ${existingArticles.length}개 → 총 ${merged.length}개`);
 
