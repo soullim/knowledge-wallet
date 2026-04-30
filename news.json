@@ -1,22 +1,198 @@
 {
-  "updated": "2026년 4월 29일 AM 07:54",
-  "count": 41,
+  "updated": "2026년 4월 30일 AM 07:56",
+  "count": 54,
   "articles": [
     {
       "category": "industry",
       "title": "디자이너의 감각과 AI의 만남",
-      "summary": "그래픽 디자이너가 AI 이미지봇을 활용해 200개의 아이콘을 제작하며 새로운 통찰을 얻었다. 이 과정에서 디자이너의 감각이 AI와 결합해 시스템으로 발전하는 과정을 탐구했다.",
-      "summary_full": "그래픽 디자이너가 AI 이미지봇을 통해 200개의 아이콘을 제작하면서 다양한 경험을 쌓았다. 이 과정에서 디자이너의 감각이 AI와 결합하여 효율적인 시스템으로 발전하는 가능성을 발견했다. 디자이너는 AI와의 협업을 통해 창의성과 기술의 융합을 경험하게 되었다. 이러한 경험은 디자인 분야에서 AI의 역할과 미래에 대한 새로운 시각을 제시한다.",
+      "summary": "그래픽 디자이너가 AI와 협력하여 200개의 아이콘을 제작하며 새로운 시스템을 발견했다. 이 과정에서 디자이너의 직관과 AI의 기술이 결합하는 방식에 대한 통찰을 얻었다.",
+      "summary_full": "그래픽 디자이너가 이미지봇과 협력하여 200개의 아이콘을 제작하는 경험을 통해, 디자이너의 감각이 AI와 결합하여 새로운 시스템으로 발전할 수 있음을 깨달았다. 이 과정에서 디자이너는 AI의 가능성과 한계를 이해하게 되었고, 자신의 창의성을 어떻게 AI와 조화롭게 결합할 수 있는지를 탐구했다. 디자이너의 직관이 AI의 데이터 처리 능력과 만나면서, 더 효율적이고 혁신적인 디자인 프로세스가 가능해진다는 점을 강조했다. 이러한 경험은 디자인 분야에서 AI의 역할에 대한 새로운 시각을 제시한다.",
       "keywords": [
         "디자인",
         "AI",
         "아이콘 제작"
       ],
       "source": "오늘의집 Culture",
-      "date": "4월 29일",
-      "publishedAt": "2026-04-29T07:52:35.546Z",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T07:54:56.935Z",
       "url": "https://www.bucketplace.com/post/2026-04-24-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%98-%E2%80%98%EA%B0%90%EA%B0%81%E2%80%99%EC%9D%B4-ai%EB%A5%BC-%EB%A7%8C%EB%82%98-%E2%80%98%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%99%EC%9D%B4-%EB%90%A0-%EB%95%8C/",
-      "collectedAt": "2026-04-29"
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "design",
+      "title": "테일러 스위프트, 목소리와 사진 상표 출원",
+      "summary": "테일러 스위프트가 자신의 목소리와 사진을 상표로 출원했다. 이는 그녀의 브랜드 가치를 더욱 강화하기 위한 전략으로 보인다.",
+      "summary_full": "테일러 스위프트가 자신의 목소리와 사진을 상표로 출원하는 절차를 진행했다. 이는 그녀의 독창적인 아이덴티티를 보호하고, 상업적 활용을 극대화하기 위한 조치로 해석된다. 이러한 결정은 그녀의 브랜드 가치를 더욱 높이는 데 기여할 것으로 예상된다. 스위프트는 음악 산업에서의 영향력을 더욱 확장하고자 하는 의도를 드러냈다.",
+      "keywords": [
+        "테일러 스위프트",
+        "상표 출원",
+        "브랜드 가치"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T07:54:50.585Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-739/",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "frontend",
+      "title": "수동으로 데이터베이스 픽스처 작성을 중단했습니다. 대신 제가 하는 일은 이렇습니다.",
+      "summary": "데이터베이스 픽스처 작성을 수동으로 하는 것이 오랫동안 당연하게 여겨졌습니다. 하지만 새로운 코드베이스를 물려받으면서 이 과정을 개선할 방법을 찾게 되었습니다.",
+      "summary_full": "데이터베이스 픽스처 작성을 수동으로 하는 것은 많은 개발자들이 마주하는 고통스러운 작업입니다. 그러나 새로운 코드베이스를 물려받은 후, 이 과정을 자동화하거나 더 효율적으로 처리할 방법을 모색하게 되었습니다. 이 글에서는 수동 작성 대신 제가 선택한 대안적인 접근 방식을 공유합니다. 이를 통해 개발자들이 더 나은 작업 환경을 만들 수 있기를 바랍니다.",
+      "keywords": [
+        "데이터베이스",
+        "픽스처",
+        "자동화"
+      ],
+      "source": "dev.to",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T07:54:06.000Z",
+      "url": "https://dev.to/jitendra_devabhaktuni_0f1/i-stopped-writing-database-fixtures-by-hand-heres-what-i-do-instead-2ofd",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "industry",
+      "title": "하나금융, 84조 투입해 ‘성장산업 중심 전환’",
+      "summary": "하나금융지주는 2030년까지 84조원의 생산적금융을 공급할 계획이다. 올해 목표는 17조8000억원으로, 첨단인프라 및 AI, 모험자본 등 다양한 분야에 투자할 예정이다.",
+      "summary_full": "하나금융지주는 2030년까지 5년간 총 84조원 규모의 생산적금융을 공급하는 것을 목표로 하고 있다. 올해 공급 목표는 기존 계획보다 1조6000억원 늘어난 17조8000억원으로 확정했다. 주요 분야는 첨단인프라 및 인공지능(AI) 2조5000억원, 모험자본·지역균형발전 등 직접투자 2조5000억원, 핵심 첨단산업 10조원, K-밸류체인·수출공급망 지원 2조8000억원 등이다. 이를 통해 성장산업 중심으로의 전환을 도모하고 있다.",
+      "keywords": [
+        "하나금융",
+        "생산적금융",
+        "2030년 목표"
+      ],
+      "source": "바이라인네트워크",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T07:03:08.000Z",
+      "url": "https://byline.network/2026/04/0430/",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "trend",
+      "title": "Claude 디자인 사용법",
+      "summary": "Anthropic이 새로운 제품 Claude Design을 출시했습니다. 이 도구는 프롬프트를 실제 디자인, 인터랙티브 프로토타입, 슬라이드 덱, 원페이지로 변환합니다.",
+      "summary_full": "Anthropic이 Claude Design이라는 새로운 제품을 출시했습니다. 이 제품은 사용자가 입력한 프롬프트를 바탕으로 작동하는 디자인, 인터랙티브 프로토타입, 슬라이드 덱 및 원페이지를 생성합니다. Claude Design은 Claude Opus 4.7의 기능을 활용하여 다양한 디자인 작업을 지원합니다. 이 도구는 디자이너와 개발자에게 유용한 도구가 될 것으로 기대됩니다.",
+      "keywords": [
+        "Claude Design",
+        "디자인 도구",
+        "인터랙티브 프로토타입"
+      ],
+      "source": "dev.to",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T06:19:58.000Z",
+      "url": "https://dev.to/aifordevelopers/how-to-actually-use-claude-design-5bb7",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "ai",
+      "title": "클로드 코드 소스 유출에서 배우는 에이전트 구조",
+      "summary": "클로드의 코드 소스 유출 사건을 통해 에이전트 구조의 중요성을 살펴본다. 이 사건은 AI 시스템의 설계와 보안에 대한 새로운 통찰을 제공한다.",
+      "summary_full": "클로드의 코드 소스 유출 사건은 AI 에이전트의 구조와 설계에 대한 중요한 교훈을 남긴다. 이를 통해 우리는 AI 시스템의 보안 문제와 그에 따른 설계 원칙을 재고할 필요가 있다. 또한, 이러한 사건이 AI 기술의 발전에 미치는 영향에 대해서도 논의할 수 있다. 결국, 코드 보안은 AI 개발에 있어 필수적인 요소임을 강조한다.",
+      "keywords": [
+        "클로드",
+        "코드 소스 유출",
+        "에이전트 구조"
+      ],
+      "source": "Google News Anthropic",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T06:10:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5acnl5MUlNdGFXbExqM1dsSG0ybEs4TmtfTnNRQWJVVmZIVElPRDlmQ04yRUxiczdlNm40b1lEUDRYVkdRSGxFZVhoWllWeUNHSkJmU3dDZkJZUQ?oc=5",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "trend",
+      "title": "나이키 프로모션 코드 및 할인: 30% 할인",
+      "summary": "이번 달 나이키의 할인 혜택을 확인하세요. 선택된 구매에서 15% 할인을 제공합니다.",
+      "summary_full": "이번 달 나이키에서 제공하는 다양한 할인 혜택을 확인할 수 있습니다. 특정 구매에 대해 15% 할인을 받을 수 있습니다. 추가로 30% 할인 혜택도 포함되어 있습니다. 다양한 제품을 저렴하게 구매할 수 있는 기회입니다.",
+      "keywords": [
+        "나이키",
+        "프로모션 코드",
+        "할인"
+      ],
+      "source": "wired.com",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T05:00:00.000Z",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "ai",
+      "title": "고블린의 출처",
+      "summary": "AI 모델에서 고블린 출력의 확산에 대한 분석이다. GPT-5의 성격 기반 특이 행동의 원인과 수정 방법을 다룬다.",
+      "summary_full": "AI 모델에서 고블린 출력이 어떻게 퍼졌는지를 시간 순으로 설명한다. 이 현상의 근본 원인과 GPT-5의 성격 기반 특이 행동을 이해하기 위한 수정 방법을 제시한다. 고블린 출력은 AI의 성격에 영향을 미치는 요소로 작용하며, 이를 해결하기 위한 다양한 접근법이 논의된다. 이 기사는 AI 모델의 행동을 개선하기 위한 중요한 통찰을 제공한다.",
+      "keywords": [
+        "AI 모델",
+        "고블린 출력",
+        "GPT-5"
+      ],
+      "source": "OpenAI News",
+      "date": "4월 29일",
+      "publishedAt": "2026-04-29T20:00:00.000Z",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "ai",
+      "title": "AI 평가가 새로운 컴퓨팅 병목 현상이 되고 있다",
+      "summary": "AI 평가가 컴퓨팅 자원의 주요 병목 현상으로 떠오르고 있다. 이는 AI 모델의 성능 평가 과정에서 발생하는 문제를 의미한다.",
+      "summary_full": "AI 평가가 현재 컴퓨팅 자원의 새로운 병목 현상으로 인식되고 있다. 이는 AI 모델의 성능을 검증하는 과정에서 필요한 자원이 증가하고 있다는 것을 나타낸다. 이러한 변화는 AI 개발 및 배포에 있어 효율성을 저하시킬 수 있다. 따라서 AI 평가 방식을 개선하는 것이 중요하다.",
+      "keywords": [
+        "AI",
+        "컴퓨팅 병목",
+        "성능 평가"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "4월 29일",
+      "publishedAt": "2026-04-29T16:45:09.000Z",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "industry",
+      "title": "LG전자와 엔비디아, 로봇 및 AI 데이터 센터 협력 논의",
+      "summary": "LG전자가 엔비디아와 로봇, AI 데이터 센터, 이동성 분야에서 협력 논의를 진행하고 있다. 이는 LG의 물리적 AI 야망을 심화시키고 엔비디아에게 또 다른 주요 소비자 전자 파트너를 제공할 것으로 보인다.",
+      "summary_full": "LG전자는 엔비디아와의 협력 가능성을 논의하고 있으며, 이는 로봇, AI 데이터 센터 및 이동성 분야를 포함한다. 엔비디아의 매디슨 황의 방문이 이러한 논의를 촉발했다. 이번 협력은 LG의 물리적 AI 야망을 강화하고, 엔비디아에게는 소비자 전자 분야에서의 또 다른 파트너십 기회를 제공할 것으로 예상된다. 물리적 AI가 연구실에서 공장 바닥으로 이동하는 시점에서 이루어지는 논의이다.",
+      "keywords": [
+        "LG전자",
+        "엔비디아",
+        "AI 데이터 센터"
+      ],
+      "source": "thenextweb.com",
+      "date": "4월 29일",
+      "publishedAt": "2026-04-29T15:53:36.000Z",
+      "url": "https://thenextweb.com/news/lg-electronics-nvidia-talks-robotics-ai-data-centres",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "frontend",
+      "title": "contrast() 필터 함수",
+      "summary": "CSS contrast() 필터 함수는 요소의 대비를 조절하여 색상을 더욱 돋보이게 하거나 회색으로 둔화시킨다. 이 함수는 색상의 채도와 밝기에 영향을 미치며 색상의 색조는 유지한다.",
+      "summary_full": "contrast() 필터 함수는 CSS에서 요소의 대비를 조절하는 데 사용된다. 이 함수는 색상이 더욱 돋보이게 하거나 회색으로 둔화시킬 수 있다. brightness()나 saturate()와 달리, contrast()는 채도와 밝기를 모두 조절하며 색조는 그대로 유지한다. 예를 들어, filter 속성을 사용하여 낮은 대비, 일반 대비, 높은 대비를 설정할 수 있다.",
+      "keywords": [
+        "CSS",
+        "contrast()",
+        "필터 함수"
+      ],
+      "source": "css-tricks.com",
+      "date": "4월 29일",
+      "publishedAt": "2026-04-29T14:58:19.000Z",
+      "url": "https://css-tricks.com/almanac/functions/c/contrast/",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "industry",
+      "title": "AI 변화에 적응하지 못할 10가지 UI 패턴",
+      "summary": "AI의 발전으로 인해 더 이상 필요하지 않은 UX 패턴을 다룬다. 실제 제품 사례를 통해 새로운 대체 패턴을 제시한다.",
+      "summary_full": "현재 제품 및 디자인 팀이 직면한 주요 과제 중 하나는 더 이상 존재 이유가 없는 UX 패턴이다. 우리는 대시보드, 데이터 입력 양식, 검색 흐름 등 여러 UI 패턴을 완성하는 데 수년을 보냈다. 그러나 AI의 발전으로 인해 이러한 패턴들이 점차 대체되고 있다. 이 글에서는 이러한 변화에 대응하기 위한 실용적인 가이드를 제공한다.",
+      "keywords": [
+        "UI 패턴",
+        "AI 변화",
+        "UX 디자인"
+      ],
+      "source": "uxdesign.cc",
+      "date": "4월 29일",
+      "publishedAt": "2026-04-29T11:01:51.000Z",
+      "url": "https://uxdesign.cc/10-ui-patterns-that-wont-survive-the-ai-shift-002cb9b853ae?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-04-30"
     },
     {
       "category": "design",
@@ -147,6 +323,54 @@
       "collectedAt": "2026-04-29"
     },
     {
+      "category": "figma",
+      "title": "Figma에서 이미지 만들기 및 편집 시 참조 추가가 쉬워졌습니다.",
+      "summary": "Figma에서 이미지 만들기 및 편집 기능을 사용할 때 참조를 추가하는 것이 더 쉬워졌습니다. 이제는 캔버스의 거의 모든 노드에서 '참조 추가' 버튼을 클릭하여 이미지를 추가할 수 있습니다.",
+      "summary_full": "Figma의 이미지 만들기 및 편집 기능에서 참조 추가가 간편해졌습니다. 이전에는 참조 이미지를 업로드하는 것만 가능했으나, 이제는 캔버스의 거의 모든 노드에서 '참조 추가' 버튼을 클릭할 수 있습니다. 이를 통해 이미지, 벡터, 프레임, 컴포넌트 등 다양한 요소에 쉽게 참조를 추가할 수 있습니다. 이 기능은 디자인 작업의 효율성을 높여줄 것입니다.",
+      "keywords": [
+        "Figma",
+        "이미지 편집",
+        "참조 추가"
+      ],
+      "source": "Figma Release Notes",
+      "date": "4월 29일",
+      "publishedAt": "2026-04-29T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "ai",
+      "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
+      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 도입했다. 복잡한 작업을 위한 Le Chat의 새로운 작업 모드도 추가되었다.",
+      "summary_full": "Mistral Medium 3.5가 도입되어 Vibe에서 원격 코딩 에이전트를 사용할 수 있게 되었다. 이 새로운 기능은 사용자들이 더 효율적으로 작업할 수 있도록 지원한다. 또한, Le Chat에서는 복잡한 작업을 위한 새로운 작업 모드가 추가되어 사용자 경험을 향상시킨다. 이러한 변화는 팀워크와 생산성을 높이는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "Mistral Medium 3.5",
+        "원격 에이전트",
+        "Le Chat"
+      ],
+      "source": "Mistral AI",
+      "date": "4월 29일",
+      "publishedAt": "2026-04-29T00:00:00.000Z",
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "collectedAt": "2026-04-30"
+    },
+    {
+      "category": "ai",
+      "title": "BioMysteryBench를 통한 클로드의 생물정보학 연구 능력 평가",
+      "summary": "이 연구는 BioMysteryBench를 사용하여 클로드의 생물정보학 연구 능력을 평가한다. 평가 결과는 클로드의 연구 역량을 분석하는 데 중요한 정보를 제공한다.",
+      "summary_full": "이 연구는 BioMysteryBench라는 도구를 활용하여 클로드의 생물정보학 연구 능력을 체계적으로 평가한다. BioMysteryBench는 다양한 생물정보학적 문제를 해결하는 데 도움을 주는 플랫폼이다. 연구 결과는 클로드의 연구 역량을 분석하고, 향후 연구 방향성을 제시하는 데 중요한 역할을 한다. 이를 통해 생물정보학 분야에서의 클로드의 기여도를 명확히 할 수 있다.",
+      "keywords": [
+        "생물정보학",
+        "연구 평가",
+        "BioMysteryBench"
+      ],
+      "source": "Anthropic Research",
+      "date": "4월 29일",
+      "publishedAt": "2026-04-29T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench",
+      "collectedAt": "2026-04-30"
+    },
+    {
       "category": "frontend",
       "title": "이번 주의 성과: 개인의 승리와 기술 혁신",
       "summary": "작은 성과를 축하하는 것은 동기를 유지하는 좋은 방법이다. 이 글에서는 개인적 및 기술적 성과를 공유한다.",
@@ -255,22 +479,6 @@
       "date": "4월 28일",
       "publishedAt": "2026-04-28T13:07:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xclJKSTUzaWNKcWpBWGpMaUNvd2FyTkd0c05KRU9ucHJ3ejJNTV9PN2pRbERGVHcwNm52Ykh6WEVWTlY3WjE3TFp4RkFRaDVtRE51Sm1XakR4dWlNR3FzZWJxbnlaa1pkc183aWZLUFA?oc=5",
-      "collectedAt": "2026-04-29"
-    },
-    {
-      "category": "figma",
-      "title": "FigJam의 테이블 포맷팅 및 템플릿 출판 업데이트",
-      "summary": "FigJam에서 테이블 포맷팅, 다이어그램 작성, 캔버스 탐색 및 템플릿 출판 기능이 개선되었습니다. 인접한 셀을 병합하면서도 왼쪽 상단 셀의 내용을 유지할 수 있는 기능이 추가되었습니다.",
-      "summary_full": "FigJam의 여러 기능이 업데이트되어 사용자 경험이 향상되었습니다. 새로 추가된 셀 병합 기능을 통해 인접한 셀을 병합할 수 있으며, 이때 왼쪽 상단 셀의 내용이 보존됩니다. 이러한 개선은 테이블 작업을 더욱 효율적으로 만들어 줍니다. 사용자는 이제 더 나은 다이어그램 작성과 템플릿 출판을 경험할 수 있습니다.",
-      "keywords": [
-        "FigJam",
-        "테이블 포맷팅",
-        "셀 병합"
-      ],
-      "source": "Figma Release Notes",
-      "date": "4월 28일",
-      "publishedAt": "2026-04-28T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
       "collectedAt": "2026-04-29"
     },
     {
@@ -488,35 +696,35 @@
     },
     {
       "category": "design",
-      "title": "‘버그 없는’ 인력: AI 효율성이 강력한 팀 상호작용을 미묘하게 방해하는 방법",
-      "summary": "AI 도입에 대한 이야기에서 '이제는 누군가에게 귀찮게 하지 않아도 된다'는 말이 자주 들린다. AI 도구들이 즉각적인 통찰력을 제공함으로써 팀원 간의 상호작용 방식을 변화시키고 있다.",
-      "summary_full": "AI 도입에 대한 논의에서 '이제는 누군가에게 귀찮게 하지 않아도 된다'는 표현이 자주 등장하고 있다. 제품 디자이너는 더 이상 연구자에게 귀찮게 하지 않아도 되고, AI가 즉각적으로 통찰력을 제공한다. 제품 관리자 또한 디자이너에게 목업을 요청할 필요 없이 AI가 수용 가능한 옵션을 생성한다. 이러한 변화는 팀원 간의 상호작용 방식을 미묘하게 변화시키고 있다.",
+      "title": "‘버그 없는’ 인력: AI 효율성이 강한 팀을 구축하는 상호작용을 미묘하게 방해하는 방법",
+      "summary": "AI 도입에 대한 이야기 속에서 '이제 누군가에게 귀찮게 할 필요가 없다'는 말이 자주 등장하고 있다. AI 도구들이 즉각적인 통찰력을 제공함으로써 팀원 간의 의사소통 방식을 변화시키고 있다.",
+      "summary_full": "AI 도입에 대한 논의에서 '이제 누군가에게 귀찮게 할 필요가 없다'는 표현이 자주 등장하고 있다. 제품 디자이너는 더 이상 연구자에게 귀찮게 할 필요가 없고, AI 도구들이 즉각적인 통찰력을 제공한다. 제품 관리자는 디자이너에게 목업을 요청할 필요 없이 AI가 수용 가능한 옵션을 생성해준다. 이러한 변화는 팀원 간의 상호작용 방식을 미묘하게 변화시키고 있다.",
       "keywords": [
         "AI 효율성",
         "팀 상호작용",
-        "디자인 도구"
+        "제품 디자인"
       ],
       "source": "smashingmagazine.com",
       "date": "4월 27일",
       "publishedAt": "2026-04-27T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
-      "collectedAt": "2026-04-29"
+      "collectedAt": "2026-04-30"
     },
     {
       "category": "ai",
       "title": "한국과의 파트너십 발표",
       "summary": "구글 딥마인드가 한국과 협력하여 최첨단 AI 모델을 활용한 과학적 혁신을 가속화한다.",
-      "summary_full": "구글 딥마인드가 대한민국과 파트너십을 체결했다. 이 협력은 최첨단 AI 모델을 통해 과학적 발견을 촉진하는 데 중점을 둔다. 양측은 AI 기술을 활용하여 다양한 연구 분야에서 혁신을 이루고자 한다. 이를 통해 글로벌 과학 커뮤니티에 기여할 계획이다.",
+      "summary_full": "구글 딥마인드가 한국과의 파트너십을 통해 과학적 발견을 촉진할 계획이다. 이 협력은 최첨단 AI 모델을 활용하여 다양한 연구 분야에서의 혁신을 목표로 한다. 양측은 AI 기술을 통해 새로운 가능성을 탐색하고, 글로벌 과학 커뮤니티에 기여할 예정이다. 이러한 협업은 한국의 AI 연구 및 개발을 더욱 발전시키는 데 중요한 역할을 할 것으로 기대된다.",
       "keywords": [
         "구글 딥마인드",
-        "AI 모델",
-        "과학적 혁신"
+        "한국",
+        "AI 모델"
       ],
       "source": "Google DeepMind Blog",
       "date": "4월 27일",
       "publishedAt": "2026-04-27T07:00:06.000Z",
       "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-      "collectedAt": "2026-04-29"
+      "collectedAt": "2026-04-30"
     },
     {
       "category": "ai",
@@ -553,8 +761,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 역할과 책임에 대해 논의한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 디자이너는 이를 고려해야 한다. 이 글은 디자이너들이 웹사이트의 접근성을 높이기 위한 과제를 제시한다. 개인적인 의견이지만, 디자이너들은 좋은 사람들이다. 디자이너가 웹사이트의 품질에 미치는 영향에 대해 논의한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로 강조된다. 이 글은 다른 A List Apart 기사들과는 달리 혁신적인 통찰보다는 실질적인 숙제를 제안한다. 저자는 디자이너들이 좋은 사람이라는 점에 동의할 것이라고 주장한다. 개인적인 의견이지만, 웹사이트 디자인의 중요성을 다시 한번 생각해보게 한다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -564,13 +772,13 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-04-29"
+      "collectedAt": "2026-04-30"
     },
     {
       "category": "frontend",
       "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 일할 수 있도록 지원합니다. AI를 활용해 필요한 데이터를 즉시 확인할 수 있는 환경을 제공합니다.",
-      "summary_full": "토스플레이스의 데이터 조직은 데이터 민주주의를 실현하기 위해 AI 기반의 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발했습니다. 판다는 Place Analytics & Data의 약자로, 팀원들이 대시보드나 요청 없이도 필요한 데이터를 빠르게 확인할 수 있도록 돕습니다. 이를 통해 모든 팀원이 데이터 전문가처럼 업무를 수행할 수 있는 환경을 조성하고자 합니다. 데이터 분석 팀 리더와 엔지니어가 기획한 이 혁신적인 도구는 업무 효율성을 높이는 데 기여할 것입니다.",
+      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 일할 수 있는 환경을 조성했습니다. AI를 활용해 필요한 데이터를 즉시 확인할 수 있는 시스템을 구현했습니다.",
+      "summary_full": "토스플레이스의 Data Analysis Team이 기획한 데이터 분석 어시스턴트 ‘판다(PANDA)’는 팀원들이 데이터 전문가처럼 업무를 수행할 수 있도록 돕습니다. 이 시스템은 대시보드에 접근하거나 요청을 기다리지 않고도 필요한 데이터를 즉시 확인할 수 있는 기능을 제공합니다. 데이터 민주주의를 실현하기 위해 AI를 활용하여 이러한 환경을 조성했습니다. 판다는 Place Analytics & Data의 약자로, 데이터 분석의 효율성을 높이는 데 기여하고자 합니다.",
       "keywords": [
         "토스플레이스",
         "데이터봇",
@@ -580,7 +788,7 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T03:28:00.000Z",
       "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-04-29"
+      "collectedAt": "2026-04-30"
     },
     {
       "category": "ai",
@@ -602,23 +810,23 @@
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
       "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
-      "summary_full": "2026년에는 UX 디자인에서 중요한 9가지 트렌드가 부각될 것으로 예상됩니다. 이러한 트렌드는 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시합니다. 특히, 사용자 중심의 접근 방식과 혁신적인 기술이 결합되어 새로운 경험을 창출할 것입니다. 이 트렌드를 통해 기업들은 더 나은 사용자 경험을 제공할 수 있는 기회를 가지게 됩니다.",
+      "summary_full": "이 기사에서는 2026년에 주목해야 할 9가지 UX 디자인 트렌드를 다룹니다. 각 트렌드는 기술 발전과 사용자 요구에 기반하여 발전하고 있습니다. 이러한 트렌드는 기업들이 사용자 경험을 개선하고 경쟁력을 유지하는 데 중요한 역할을 할 것입니다. UX 디자인의 미래를 이해하는 데 도움이 되는 통찰력을 제공합니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
-        "사용자 경험"
+        "2026년"
       ],
       "source": "Google News Design (KR)",
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-04-29"
+      "collectedAt": "2026-04-30"
     },
     {
       "category": "ai",
       "title": "딥시크 차세대 LLM ‘V4’ 출시 임박",
-      "summary": "딥시크가 차세대 LLM ‘V4’의 출시를 앞두고 있으며, 오픈AI와 구글의 성능을 뛰어넘을 가능성이 제기되고 있다.",
-      "summary_full": "딥시크는 새로운 LLM 모델인 ‘V4’의 출시를 곧 진행할 예정이다. 이 모델은 기존의 오픈AI와 구글의 성능을 초월할 수 있을지에 대한 기대감을 모으고 있다. 업계에서는 딥시크의 기술력이 이들 경쟁자들과 비교해 어떤 차별점을 가질지 주목하고 있다. V4의 성능이 실제로 어떻게 평가될지 귀추가 주목된다.",
+      "summary": "딥시크가 차세대 LLM ‘V4’의 출시를 앞두고 있으며, 이는 오픈AI와 구글의 성능을 뛰어넘을 가능성이 있다.",
+      "summary_full": "딥시크는 차세대 LLM ‘V4’의 출시를 임박하게 하며, 이 모델은 기존의 오픈AI와 구글의 성능을 초월할 수 있을지 주목받고 있다. 새로운 기술이 적용된 V4는 더욱 향상된 자연어 처리 능력을 제공할 것으로 기대된다. 업계에서는 이 모델이 AI 시장에 미칠 영향에 대해 큰 관심을 보이고 있다. 출시 일정과 구체적인 성능은 아직 공개되지 않았다.",
       "keywords": [
         "딥시크",
         "LLM",
@@ -628,7 +836,7 @@
       "date": "2월 18일",
       "publishedAt": "2026-02-18T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OWEtZjAzbkh1LUctcVJVTHlkRll4X2tiUi1LRFhaQWxlWDlqLUR0M2JmdWFLcjA5Y1o4NFNsUDVDWU5pOWJyMWJHSjRQb2lsUUQxZ0NsNkZPYm5LUmVubQ?oc=5",
-      "collectedAt": "2026-04-29"
+      "collectedAt": "2026-04-30"
     },
     {
       "category": "frontend",
