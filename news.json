@@ -1,38 +1,198 @@
 {
-  "updated": "2026년 4월 30일 AM 07:56",
-  "count": 54,
+  "updated": "2026년 5월 1일 AM 07:55",
+  "count": 67,
   "articles": [
     {
       "category": "industry",
       "title": "디자이너의 감각과 AI의 만남",
-      "summary": "그래픽 디자이너가 AI와 협력하여 200개의 아이콘을 제작하며 새로운 시스템을 발견했다. 이 과정에서 디자이너의 직관과 AI의 기술이 결합하는 방식에 대한 통찰을 얻었다.",
-      "summary_full": "그래픽 디자이너가 이미지봇과 협력하여 200개의 아이콘을 제작하는 경험을 통해, 디자이너의 감각이 AI와 결합하여 새로운 시스템으로 발전할 수 있음을 깨달았다. 이 과정에서 디자이너는 AI의 가능성과 한계를 이해하게 되었고, 자신의 창의성을 어떻게 AI와 조화롭게 결합할 수 있는지를 탐구했다. 디자이너의 직관이 AI의 데이터 처리 능력과 만나면서, 더 효율적이고 혁신적인 디자인 프로세스가 가능해진다는 점을 강조했다. 이러한 경험은 디자인 분야에서 AI의 역할에 대한 새로운 시각을 제시한다.",
+      "summary": "그래픽 디자이너가 AI 이미지봇을 활용해 200개의 아이콘을 제작하며 새로운 통찰을 얻었다. 디자이너의 감각이 AI와 결합하여 시스템으로 발전하는 과정을 탐구한다.",
+      "summary_full": "그래픽 디자이너가 AI 이미지봇과 협력하여 200개의 아이콘을 제작하는 경험을 통해 디자인의 새로운 가능성을 발견했다. 디자이너의 직관과 AI의 기술이 결합하여 효율적이고 창의적인 시스템으로 발전하는 과정을 설명한다. 이 과정에서 디자이너는 AI의 활용이 디자인 작업에 미치는 영향을 깨닫게 된다. AI와 디자인의 융합이 미래의 디자인 환경에 미치는 잠재력을 탐구한다.",
       "keywords": [
         "디자인",
         "AI",
         "아이콘 제작"
       ],
       "source": "오늘의집 Culture",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T07:54:56.935Z",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T07:54:01.714Z",
       "url": "https://www.bucketplace.com/post/2026-04-24-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%98-%E2%80%98%EA%B0%90%EA%B0%81%E2%80%99%EC%9D%B4-ai%EB%A5%BC-%EB%A7%8C%EB%82%98-%E2%80%98%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%99%EC%9D%B4-%EB%90%A0-%EB%95%8C/",
-      "collectedAt": "2026-04-30"
+      "collectedAt": "2026-05-01"
     },
     {
       "category": "design",
-      "title": "테일러 스위프트, 목소리와 사진 상표 출원",
-      "summary": "테일러 스위프트가 자신의 목소리와 사진을 상표로 출원했다. 이는 그녀의 브랜드 가치를 더욱 강화하기 위한 전략으로 보인다.",
-      "summary_full": "테일러 스위프트가 자신의 목소리와 사진을 상표로 출원하는 절차를 진행했다. 이는 그녀의 독창적인 아이덴티티를 보호하고, 상업적 활용을 극대화하기 위한 조치로 해석된다. 이러한 결정은 그녀의 브랜드 가치를 더욱 높이는 데 기여할 것으로 예상된다. 스위프트는 음악 산업에서의 영향력을 더욱 확장하고자 하는 의도를 드러냈다.",
+      "title": "테일러 스위프트, 목소리와 사진으로 상표 출원",
+      "summary": "테일러 스위프트가 자신의 목소리와 사진을 상표로 출원했다. 이는 그녀의 브랜드 가치를 보호하기 위한 조치로 해석된다.",
+      "summary_full": "테일러 스위프트가 자신의 목소리와 사진을 상표로 출원한 사실이 알려졌다. 이 출원은 그녀의 독창적인 아이덴티티를 보호하고, 향후 상업적 활용을 위한 기반을 마련하기 위한 것으로 보인다. 스위프트는 이미 음악 산업에서 큰 영향력을 행사하고 있으며, 이번 상표 출원은 그녀의 브랜드 관리 전략의 일환으로 해석된다. 이는 다른 아티스트들에게도 상표 출원의 중요성을 일깨우는 사례가 될 수 있다.",
       "keywords": [
         "테일러 스위프트",
         "상표 출원",
-        "브랜드 가치"
+        "브랜드 보호"
       ],
       "source": "Secondbrush Blog",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T07:54:50.585Z",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T07:53:55.263Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-739/",
-      "collectedAt": "2026-04-30"
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "frontend",
+      "title": "온라인에서 안전하게 전문 에스코트 서비스를 찾는 방법",
+      "summary": "인터넷을 통해 다양한 서비스에 접근할 수 있게 되면서 에스코트 서비스도 쉽게 이용할 수 있게 되었다. 하지만 신뢰할 수 있는 플랫폼을 선택하는 것이 안전과 개인정보 보호를 위해 중요하다.",
+      "summary_full": "인터넷은 사람들에게 다양한 서비스를 탐색할 수 있는 기회를 제공하고 있으며, 에스코트 플랫폼도 그 중 하나이다. 에스코트 디렉토리는 사용자들이 프로필을 탐색하고, 세부 정보를 확인하며, 개인적으로 소통할 수 있는 구조화된 목록을 제공한다. 그러나 많은 웹사이트가 존재하는 만큼, 신뢰할 수 있는 플랫폼을 선택하는 것이 안전과 전문성을 보장하는 데 중요하다. 따라서 사용자들은 신중하게 선택해야 한다.",
+      "keywords": [
+        "에스코트 서비스",
+        "온라인 안전",
+        "전문 플랫폼"
+      ],
+      "source": "dev.to",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T07:47:37.000Z",
+      "url": "https://dev.to/mahesh34/how-to-find-professional-escort-services-safely-online-1ji7",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "trend",
+      "title": "AI 모델, 창의적 프로젝트를 완수할 수 없다",
+      "summary": "Contra Labs는 15개의 AI 모델을 93개의 프롬프트로 5개 창의적 분야에서 테스트했다. 결과적으로, 각 모델은 서로 다른 단계에서 강점을 보였으며, 단일 도구로는 프로젝트를 완수할 수 없음을 입증했다.",
+      "summary_full": "Contra Labs는 15개의 AI 모델을 93개의 프롬프트를 통해 5개 창의적 분야에서 평가했다. 전문 창작자들이 결과물을 판단한 결과, 각 모델은 서로 다른 단계에서 우수성을 보였다. 그러나 어떤 단일 도구도 프로젝트의 개념부터 최종 결과물까지 완수할 수 없다는 결론에 도달했다. 이는 AI의 한계를 보여주는 사례로, 창의적 작업의 복잡성을 강조한다.",
+      "keywords": [
+        "AI 모델",
+        "창의적 프로젝트",
+        "Contra Labs"
+      ],
+      "source": "dev.to",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T06:52:15.000Z",
+      "url": "https://dev.to/igorgridel/no-ai-model-can-carry-a-creative-project-end-to-end-the-hcb-just-proved-it-1pf3",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "industry",
+      "title": "뉴스 출판사들이 AI 기업의 사용을 막기 위해 인터넷 아카이브의 웨이백 머신 차단",
+      "summary": "뉴욕 타임스, CNN, USA 투데이 등 241개 이상의 뉴스 조직이 인터넷 아카이브의 크롤러를 제한하기로 결정했다. 이는 아카이브의 이사에 의해 '부수적 피해'로 언급되었다.",
+      "summary_full": "뉴욕 타임스, CNN, USA 투데이, 가디언 등 241개 이상의 뉴스 조직이 인터넷 아카이브의 크롤러를 차단하기로 했다. 이 결정은 AI 기업들이 아카이브를 사용하는 것을 막기 위한 것이다. 아카이브의 이사는 이러한 조치를 '부수적 피해'로 설명하며, 이 전쟁은 그들과 관련이 없다고 말했다. 인터넷 아카이브는 1조 개 이상의 웹 페이지를 보존해왔다.",
+      "keywords": [
+        "인터넷 아카이브",
+        "웨이백 머신",
+        "뉴스 출판사"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T06:39:54.000Z",
+      "url": "https://thenextweb.com/news/news-publishers-are-blocking-the-internet-archives-wayback-machine-to-stop-ai-companies-from-using-it",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "trend",
+      "title": "홈디포 프로모션 코드 50% 할인 | 2026년 5월",
+      "summary": "이번 5월, 홈디포의 최신 프로모션 코드를 통해 최대 50% 할인 혜택을 누리세요. 가전제품, 전동 공구 등 다양한 품목에서 할인된 가격으로 구매할 수 있습니다.",
+      "summary_full": "2026년 5월, 홈디포에서 제공하는 프로모션 코드를 활용하여 최대 50% 할인받을 수 있습니다. 이번 프로모션은 가전제품과 전동 공구를 포함한 다양한 품목에 적용됩니다. 할인 혜택을 통해 필요한 제품을 저렴하게 구매할 수 있는 기회를 제공합니다. 지금 바로 할인 코드를 확인하고 쇼핑을 시작하세요.",
+      "keywords": [
+        "홈디포",
+        "프로모션 코드",
+        "할인"
+      ],
+      "source": "wired.com",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T05:00:00.000Z",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "ai",
+      "title": "Splice와 Claude의 연동으로 AI 음악 작업 지원",
+      "summary": "Splice가 Ableton에 Claude를 연동하여 음악 작업에 AI 지원을 가능하게 했다. 이를 통해 음악 제작자들은 보다 효율적으로 작업할 수 있을 것으로 기대된다.",
+      "summary_full": "Splice는 Ableton과의 통합을 통해 Claude라는 AI 도구를 음악 작업에 활용할 수 있도록 지원한다. 이 연동은 음악 제작자들에게 창작 과정에서의 새로운 가능성을 열어줄 것으로 보인다. AI의 도움으로 작업 효율성이 향상될 것으로 예상되며, 다양한 음악 장르에 적용될 수 있다. 이러한 기술 발전은 음악 산업에 큰 변화를 가져올 것으로 기대된다.",
+      "keywords": [
+        "Splice",
+        "Ableton",
+        "AI 음악 작업"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T02:46:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9KNnBiSzNqcmI3TVRXOWZsbTczYjc4bHlNZ3QzN2w0RW5Mdk5GZTd0NjJjV1QtSGJBR1BkUXh0dw?oc=5",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "industry",
+      "title": "색 이론에 혼란스러운 생성 AI",
+      "summary": "이 기사는 색 이론을 이해하는 데 어려움을 겪는 생성 AI의 관점을 다룬다. 접근 가능한 지각 균일 삼각형을 구축하기 위한 방법론을 제시한다.",
+      "summary_full": "이 글에서는 생성 AI가 색 이론에 대해 느끼는 혼란을 탐구한다. 특히, 지각 균일 삼각형을 구축하는 데 있어 Perplexity를 활용하는 방법을 설명한다. 이는 사용자 경험 디자인에서 색상 선택의 접근성을 높이는 데 기여할 수 있다. UX Collective에서 더 많은 내용을 확인할 수 있다.",
+      "keywords": [
+        "생성 AI",
+        "색 이론",
+        "UX 디자인"
+      ],
+      "source": "uxdesign.cc",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T22:08:49.000Z",
+      "url": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "frontend",
+      "title": "CSS에서 네이티브 랜덤성의 중요성",
+      "summary": "CSS의 새로운 랜덤 함수와 그 작동 방식에 대해 다룹니다. 랜덤성의 도전 과제와 이 기능의 진화를 살펴봅니다.",
+      "summary_full": "최근 CSS에 도입된 새로운 랜덤 함수에 대한 기사를 발표했습니다. 이 글에서는 CSS에서 랜덤성의 도전 과제와 개념의 진화를 탐구하고, 이 네이티브 기능이 왜 중요한지 설명합니다. 웹사이트 개발 초기부터 사람마다 다른 독특한 경험을 만들고 싶었습니다. 랜덤성은 이러한 경험을 제공하는 데 중요한 역할을 합니다.",
+      "keywords": [
+        "CSS",
+        "랜덤성",
+        "웹 개발"
+      ],
+      "source": "css-tricks.com",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T15:26:18.000Z",
+      "url": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "ai",
+      "title": "AI 공동 임상의 도입으로 의료 모델 혁신",
+      "summary": "AI를 활용한 의료 서비스 향상 방안에 대한 연구이다. AI 공동 임상 의사의 개발과 적용을 다룬다.",
+      "summary_full": "AI를 통한 의료 서비스의 향상을 위한 새로운 모델을 연구하고 있다. 이 연구는 AI 공동 임상 의사의 개발을 중심으로 진행된다. AI 기술이 의료 분야에 어떻게 통합될 수 있는지를 탐구한다. 궁극적으로 환자 치료의 질을 높이는 것을 목표로 한다.",
+      "keywords": [
+        "AI",
+        "의료",
+        "공동 임상 의사"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T12:14:15.000Z",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "design",
+      "title": "5월의 새로운 시선 (2026 배경화면 에디션)",
+      "summary": "5월은 긴 낮과 부드러운 빛, 여름의 첫 기운을 느끼게 해준다. 새로운 아이디어와 에너지를 통해 무언가를 시작하거나 미뤄왔던 일을 다시 시작할 수 있는 계기가 된다.",
+      "summary_full": "5월은 긴 낮과 부드러운 빛, 여름의 첫 기운을 느끼게 해준다. 새로운 아이디어와 에너지를 통해 무언가를 시작하거나 미뤄왔던 일을 다시 시작할 수 있는 계기가 된다. 때때로 영감을 주는 것은 새로운 시선일 수 있으며, 이는 데스크탑 배경화면을 통해 실현될 수 있다. 매달 제공되는 배경화면 시리즈가 그 역할을 한다.",
+      "keywords": [
+        "5월",
+        "배경화면",
+        "영감"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T11:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "industry",
+      "title": "AI가 브랜드 인식을 높이는 방법",
+      "summary": "AI 전환 커머스 2026을 통해 브랜드 노출 방안을 모색합니다. 챗GPT와 같은 AI 서비스에서 잠재 고객을 유치하는 방법을 논의합니다.",
+      "summary_full": "커머스BN 독자들은 AI가 브랜드를 어떻게 인식하는지에 대한 고민이 많습니다. 이를 위해 'AI 전환 커머스 2026' 기획을 진행하며, 브랜드가 AI에 잘 노출될 수 있는 방법을 탐구합니다. 발행된 기사들을 소개하고, AI 서비스에서 잠재 고객을 유치하는 전략을 확인합니다.",
+      "keywords": [
+        "AI",
+        "브랜드 노출",
+        "커머스"
+      ],
+      "source": "바이라인네트워크",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T10:04:39.000Z",
+      "url": "https://byline.network/2026/04/30_1298874/",
+      "collectedAt": "2026-05-01"
     },
     {
       "category": "frontend",
@@ -115,6 +275,54 @@
       "collectedAt": "2026-04-30"
     },
     {
+      "category": "figma",
+      "title": "Make, 빌드 중 더 많은 제어 및 맥락을 위한 새로운 기능 도입",
+      "summary": "Make는 음성 인식 기능을 통해 사용자가 직접 텍스트를 입력할 수 있는 새로운 기능을 도입했습니다. 이 기능은 제출 전에 정리된 텍스트를 검토할 수 있도록 지원합니다.",
+      "summary_full": "Make는 사용자가 빌드하는 과정에서 더 많은 제어와 맥락을 제공하기 위해 새로운 기능을 도입했습니다. 음성 인식 기능을 통해 사용자는 Make 채팅에서 직접 프롬프트를 입력할 수 있습니다. 이 기능은 제출하기 전에 정리된 텍스트를 검토할 수 있도록 도와줍니다. 음성 인식에 대한 자세한 내용을 확인해보세요.",
+      "keywords": [
+        "Make",
+        "음성 인식",
+        "텍스트 입력"
+      ],
+      "source": "Figma Release Notes",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "ai",
+      "title": "고급 계정 보안 소개",
+      "summary": "고급 계정 보안 기능을 소개합니다. 피싱 저항 로그인, 강화된 복구 기능 및 민감한 데이터를 보호하고 계정 탈취를 방지하기 위한 향상된 보호 기능이 포함됩니다.",
+      "summary_full": "고급 계정 보안 기능이 도입되었습니다. 이 기능은 피싱 저항 로그인, 더 강력한 계정 복구 방법 및 민감한 데이터를 보호하기 위한 다양한 보호 조치를 제공합니다. 이를 통해 사용자 계정의 안전성을 높이고, 계정 탈취를 예방할 수 있습니다. 새로운 보안 기능을 통해 더욱 안전한 온라인 환경을 제공합니다.",
+      "keywords": [
+        "계정 보안",
+        "피싱 방지",
+        "데이터 보호"
+      ],
+      "source": "OpenAI News",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "url": "https://openai.com/index/advanced-account-security",
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "ai",
+      "title": "클로드에게 개인적인 조언을 요청하는 방법",
+      "summary": "사람들이 클로드에게 개인적인 지도를 요청하는 방식에 대해 논의한다. 이 과정에서 사회적 영향과 개인의 요구가 어떻게 상호작용하는지를 살펴본다.",
+      "summary_full": "2026년 4월 30일, 클로드에게 개인적인 조언을 요청하는 다양한 방법이 소개된다. 사람들은 클로드의 지도를 통해 자신들의 문제를 해결하고자 하며, 이러한 요청은 사회적 맥락에서 중요한 의미를 가진다. 개인의 요구와 사회적 영향이 어떻게 연결되는지를 탐구하는 내용이다. 이 글은 클로드와의 상호작용이 개인에게 미치는 영향을 조명한다.",
+      "keywords": [
+        "클로드",
+        "개인적 조언",
+        "사회적 영향"
+      ],
+      "source": "Anthropic Research",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/claude-personal-guidance",
+      "collectedAt": "2026-05-01"
+    },
+    {
       "category": "ai",
       "title": "고블린의 출처",
       "summary": "AI 모델에서 고블린 출력의 확산에 대한 분석이다. GPT-5의 성격 기반 특이 행동의 원인과 수정 방법을 다룬다.",
@@ -133,18 +341,18 @@
     {
       "category": "ai",
       "title": "AI 평가가 새로운 컴퓨팅 병목 현상이 되고 있다",
-      "summary": "AI 평가가 컴퓨팅 자원의 주요 병목 현상으로 떠오르고 있다. 이는 AI 모델의 성능 평가 과정에서 발생하는 문제를 의미한다.",
-      "summary_full": "AI 평가가 현재 컴퓨팅 자원의 새로운 병목 현상으로 인식되고 있다. 이는 AI 모델의 성능을 검증하는 과정에서 필요한 자원이 증가하고 있다는 것을 나타낸다. 이러한 변화는 AI 개발 및 배포에 있어 효율성을 저하시킬 수 있다. 따라서 AI 평가 방식을 개선하는 것이 중요하다.",
+      "summary": "AI 평가가 컴퓨팅 자원의 새로운 병목 현상으로 떠오르고 있다. 이는 AI 모델의 성능 평가 과정에서 발생하는 문제를 의미한다.",
+      "summary_full": "AI 평가가 현재 컴퓨팅 자원의 주요 병목 현상으로 부각되고 있다. 이는 AI 모델의 성능을 평가하는 과정에서 발생하는 지연과 자원 소모를 나타낸다. 이러한 병목 현상은 AI 개발 및 배포에 있어 효율성을 저하시킬 수 있다. 따라서 AI 평가 방식을 개선하는 것이 중요하다.",
       "keywords": [
-        "AI",
+        "AI 평가",
         "컴퓨팅 병목",
-        "성능 평가"
+        "모델 성능"
       ],
       "source": "HuggingFace Blog",
       "date": "4월 29일",
       "publishedAt": "2026-04-29T16:45:09.000Z",
       "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "collectedAt": "2026-04-30"
+      "collectedAt": "2026-05-01"
     },
     {
       "category": "industry",
@@ -323,36 +531,20 @@
       "collectedAt": "2026-04-29"
     },
     {
-      "category": "figma",
-      "title": "Figma에서 이미지 만들기 및 편집 시 참조 추가가 쉬워졌습니다.",
-      "summary": "Figma에서 이미지 만들기 및 편집 기능을 사용할 때 참조를 추가하는 것이 더 쉬워졌습니다. 이제는 캔버스의 거의 모든 노드에서 '참조 추가' 버튼을 클릭하여 이미지를 추가할 수 있습니다.",
-      "summary_full": "Figma의 이미지 만들기 및 편집 기능에서 참조 추가가 간편해졌습니다. 이전에는 참조 이미지를 업로드하는 것만 가능했으나, 이제는 캔버스의 거의 모든 노드에서 '참조 추가' 버튼을 클릭할 수 있습니다. 이를 통해 이미지, 벡터, 프레임, 컴포넌트 등 다양한 요소에 쉽게 참조를 추가할 수 있습니다. 이 기능은 디자인 작업의 효율성을 높여줄 것입니다.",
-      "keywords": [
-        "Figma",
-        "이미지 편집",
-        "참조 추가"
-      ],
-      "source": "Figma Release Notes",
-      "date": "4월 29일",
-      "publishedAt": "2026-04-29T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-04-30"
-    },
-    {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 도입했다. 복잡한 작업을 위한 Le Chat의 새로운 작업 모드도 추가되었다.",
-      "summary_full": "Mistral Medium 3.5가 도입되어 Vibe에서 원격 코딩 에이전트를 사용할 수 있게 되었다. 이 새로운 기능은 사용자들이 더 효율적으로 작업할 수 있도록 지원한다. 또한, Le Chat에서는 복잡한 작업을 위한 새로운 작업 모드가 추가되어 사용자 경험을 향상시킨다. 이러한 변화는 팀워크와 생산성을 높이는 데 기여할 것으로 기대된다.",
+      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 지원합니다. 복잡한 작업을 위한 Le Chat의 새로운 작업 모드도 추가되었습니다.",
+      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 제공합니다. 이를 통해 사용자는 다양한 작업을 원격으로 수행할 수 있습니다. 또한, Le Chat에 새로운 작업 모드가 추가되어 복잡한 작업을 보다 효율적으로 처리할 수 있습니다. 이러한 기능들은 사용자 경험을 향상시키고 작업의 효율성을 높이는 데 기여합니다.",
       "keywords": [
-        "Mistral Medium 3.5",
         "원격 에이전트",
+        "Mistral Medium 3.5",
         "Le Chat"
       ],
       "source": "Mistral AI",
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-04-30"
+      "collectedAt": "2026-05-01"
     },
     {
       "category": "ai",
@@ -761,8 +953,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로 강조된다. 이 글은 다른 A List Apart 기사들과는 달리 혁신적인 통찰보다는 실질적인 숙제를 제안한다. 저자는 디자이너들이 좋은 사람이라는 점에 동의할 것이라고 주장한다. 개인적인 의견이지만, 웹사이트 디자인의 중요성을 다시 한번 생각해보게 한다.",
+      "summary": "웹사이트 접근성의 중요성을 논의하며, 디자이너의 역할에 대한 개인적인 견해를 공유한다.",
+      "summary_full": "이 글은 웹사이트 디자인에서 접근성이 가장 중요하다는 점을 강조한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 숙제를 제안한다. 디자이너는 좋은 사람이며, 그들의 의도를 이해하는 것이 중요하다. 개인적인 의견이지만, 디자이너의 책임감 있는 태도에 대해 이야기하고자 한다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -772,23 +964,23 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-04-30"
+      "collectedAt": "2026-05-01"
     },
     {
       "category": "frontend",
       "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 일할 수 있는 환경을 조성했습니다. AI를 활용해 필요한 데이터를 즉시 확인할 수 있는 시스템을 구현했습니다.",
-      "summary_full": "토스플레이스의 Data Analysis Team이 기획한 데이터 분석 어시스턴트 ‘판다(PANDA)’는 팀원들이 데이터 전문가처럼 업무를 수행할 수 있도록 돕습니다. 이 시스템은 대시보드에 접근하거나 요청을 기다리지 않고도 필요한 데이터를 즉시 확인할 수 있는 기능을 제공합니다. 데이터 민주주의를 실현하기 위해 AI를 활용하여 이러한 환경을 조성했습니다. 판다는 Place Analytics & Data의 약자로, 데이터 분석의 효율성을 높이는 데 기여하고자 합니다.",
+      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 일할 수 있도록 지원합니다. AI를 활용해 데이터 민주주의를 실현하고, 필요한 데이터를 즉시 확인할 수 있는 환경을 제공합니다.",
+      "summary_full": "토스플레이스의 Data Analysis Team Leader 김윤아와 Data Analytics Engineer 정이을이 기획한 데이터봇 ‘판다(PANDA)’는 팀원들이 데이터 전문가처럼 업무를 수행할 수 있도록 돕습니다. 이 도구는 대시보드를 찾거나 요청을 기다리지 않고도 필요한 데이터를 즉시 활용할 수 있게 합니다. AI를 통해 데이터 민주주의를 실현하고, 효율적인 데이터 분석 환경을 제공합니다. ‘판다’는 Place Analytics & Data의 약자로, 데이터 분석의 접근성을 높이는 데 기여하고자 합니다.",
       "keywords": [
         "토스플레이스",
         "데이터봇",
-        "AI 분석 도구"
+        "AI"
       ],
       "source": "toss.tech",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T03:28:00.000Z",
       "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-04-30"
+      "collectedAt": "2026-05-01"
     },
     {
       "category": "ai",
@@ -809,18 +1001,35 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
-      "summary_full": "이 기사에서는 2026년에 주목해야 할 9가지 UX 디자인 트렌드를 다룹니다. 각 트렌드는 기술 발전과 사용자 요구에 기반하여 발전하고 있습니다. 이러한 트렌드는 기업들이 사용자 경험을 개선하고 경쟁력을 유지하는 데 중요한 역할을 할 것입니다. UX 디자인의 미래를 이해하는 데 도움이 되는 통찰력을 제공합니다.",
+      "summary": "2026년의 UX 디자인 방향성을 제시하는 9가지 트렌드를 소개한다. 이 트렌드는 사용자 경험을 개선하고 혁신을 이끌어낼 것으로 기대된다.",
+      "summary_full": "2026년을 대비한 UX 디자인의 9가지 주요 트렌드를 살펴본다. 이 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있으며, 디자인의 미래를 형성하는 데 중요한 역할을 할 것이다. 각 트렌드는 사용자 경험을 향상시키고, 기업의 경쟁력을 높이는 데 기여할 것으로 보인다. UX 디자인 분야의 전문가와 기업들이 주목해야 할 필수 요소들이다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
-        "2026년"
+        "사용자 경험"
       ],
       "source": "Google News Design (KR)",
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-04-30"
+      "collectedAt": "2026-05-01"
+    },
+    {
+      "category": "ai",
+      "title": "알리바바, 저가 AI 코딩 요금제 출시",
+      "summary": "알리바바가 저렴한 가격의 AI 코딩 요금제를 출시했다. 이 요금제는 4종의 대형 언어 모델(LLM)을 지원한다.",
+      "summary_full": "알리바바가 새로운 저가 AI 코딩 요금제를 발표했다. 이 요금제는 개발자들이 저렴한 비용으로 AI 코딩 도구를 이용할 수 있도록 설계되었다. 특히, 4종의 대형 언어 모델(LLM)을 지원하여 다양한 개발 요구를 충족시킬 수 있다. 이는 AI 기술의 접근성을 높이는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "알리바바",
+        "AI 코딩",
+        "저가 요금제",
+        "대형 언어 모델"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "2월 26일",
+      "publishedAt": "2026-02-26T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tQkV2UXRuWTFSZ1JKalRIU0htYUZtRXUycFdYX3I1THZ6bUdCaGpwZnlpVy1hSDVkUGpXd0xvbTBaeTRYVXVuZ2VEZW05UQ?oc=5",
+      "collectedAt": "2026-05-01"
     },
     {
       "category": "ai",
