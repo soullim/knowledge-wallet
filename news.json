@@ -1,22 +1,166 @@
 {
-  "updated": "2026년 5월 1일 AM 07:55",
-  "count": 67,
+  "updated": "2026년 5월 2일 AM 06:33",
+  "count": 76,
   "articles": [
     {
       "category": "industry",
       "title": "디자이너의 감각과 AI의 만남",
-      "summary": "그래픽 디자이너가 AI 이미지봇을 활용해 200개의 아이콘을 제작하며 새로운 통찰을 얻었다. 디자이너의 감각이 AI와 결합하여 시스템으로 발전하는 과정을 탐구한다.",
-      "summary_full": "그래픽 디자이너가 AI 이미지봇과 협력하여 200개의 아이콘을 제작하는 경험을 통해 디자인의 새로운 가능성을 발견했다. 디자이너의 직관과 AI의 기술이 결합하여 효율적이고 창의적인 시스템으로 발전하는 과정을 설명한다. 이 과정에서 디자이너는 AI의 활용이 디자인 작업에 미치는 영향을 깨닫게 된다. AI와 디자인의 융합이 미래의 디자인 환경에 미치는 잠재력을 탐구한다.",
+      "summary": "그래픽 디자이너가 AI 이미지봇을 활용해 200개의 아이콘을 제작하며 새로운 통찰을 얻었다. 이 과정에서 디자이너의 직관이 AI 시스템으로 발전하는 가능성을 탐구했다.",
+      "summary_full": "그래픽 디자이너가 AI 이미지봇과 협력하여 200개의 아이콘을 제작하는 경험을 통해, 디자인의 감각이 AI와 결합하여 시스템으로 발전할 수 있음을 깨달았다. 디자이너의 창의성과 AI의 기술적 능력이 결합하면 새로운 디자인 패러다임이 형성될 수 있다. 이 과정에서 디자이너는 AI의 한계를 이해하고, 그에 맞춰 자신의 작업 방식을 조정하는 방법을 배웠다. 이러한 경험은 디자인 분야에서 AI의 역할이 점점 더 중요해질 것임을 시사한다.",
       "keywords": [
         "디자인",
         "AI",
         "아이콘 제작"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 1일",
-      "publishedAt": "2026-05-01T07:54:01.714Z",
+      "date": "5월 2일",
+      "publishedAt": "2026-05-02T06:31:46.845Z",
       "url": "https://www.bucketplace.com/post/2026-04-24-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%98-%E2%80%98%EA%B0%90%EA%B0%81%E2%80%99%EC%9D%B4-ai%EB%A5%BC-%EB%A7%8C%EB%82%98-%E2%80%98%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%99%EC%9D%B4-%EB%90%A0-%EB%95%8C/",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "design",
+      "title": "아기 고양이가 성묘로 성장하는 모습 생성하기",
+      "summary": "이 영상은 아기 고양이가 성묘로 성장하는 과정을 보여줍니다. GPT Image 2.0을 활용하여 시각적으로 표현합니다.",
+      "summary_full": "이 영상에서는 아기 고양이가 성묘로 성장하는 과정을 다룹니다. GPT Image 2.0 기술을 사용하여 그 변화를 시각적으로 구현합니다. 고양이의 성장 과정에 대한 흥미로운 시각적 자료를 제공합니다. 시청자는 고양이의 다양한 모습과 변화를 감상할 수 있습니다.",
+      "keywords": [
+        "고양이",
+        "성장",
+        "GPT Image 2.0"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 2일",
+      "publishedAt": "2026-05-02T06:31:40.919Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-740/",
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "frontend",
+      "title": "인도 선거 보조 앱: 차세대 유권자 Empowerment",
+      "summary": "인도에서 민주주의는 참여에 기반하고 있으며, 젊은 유권자들이 선거 과정에 처음 참여할 때 어려움을 겪을 수 있다. 인도 선거 보조 앱은 이러한 문제를 해결하기 위해 개발되었다.",
+      "summary_full": "인도는 광범위하고 다양한 국가로, 민주주의는 참여를 통해 번창한다. 그러나 많은 젊은 유권자들이 처음으로 선거 과정에 참여할 때 시스템이 압도적으로 느껴질 수 있다. 복잡한 절차와 용어, 책임이 이해하기 어렵기 때문이다. 인도 선거 보조 앱은 이러한 젊은 유권자들을 돕기 위해 설계되었다.",
+      "keywords": [
+        "인도",
+        "선거",
+        "유권자"
+      ],
+      "source": "dev.to",
+      "date": "5월 2일",
+      "publishedAt": "2026-05-02T06:26:02.000Z",
+      "url": "https://dev.to/spiraltortilla12/indian-elections-assistant-empowering-the-next-generation-of-voters-1j42",
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "trend",
+      "title": "파워포인트 .pptx 파일을 Figma로 직접 가져오는 플러그인 개발",
+      "summary": "디자이너들을 위해 .pptx 파일을 Figma로 한 번의 클릭으로 가져올 수 있는 플러그인을 개발했습니다. 이 플러그인은 시각적 효과를 유지하며, 기존의 파일을 재구성하는 번거로움을 덜어줍니다.",
+      "summary_full": "디자이너들을 위해 .pptx 파일을 Figma로 한 번의 클릭으로 가져올 수 있는 플러그인을 개발했습니다. 이 플러그인은 시각적 효과를 유지하며, 기존의 파일을 재구성하는 번거로움을 덜어줍니다. Figma에서 작업하는 것이 지루하다면 이 플러그인을 사용해 보세요. 여러분의 피드백을 기다립니다!",
+      "keywords": [
+        "Figma",
+        "파워포인트",
+        "플러그인"
+      ],
+      "source": "dev.to",
+      "date": "5월 2일",
+      "publishedAt": "2026-05-02T05:57:24.000Z",
+      "url": "https://dev.to/xxxiii/i-build-a-plugin-so-you-can-now-directly-import-powerpoint-pptx-to-figma-58l2",
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "trend",
+      "title": "Therabody 프로모션 코드: 2026년 5월 15% 할인",
+      "summary": "Therabody의 과학 기반 장치에 대해 15% 할인 코드를 제공받고, 다른 훌륭한 거래는 30% 할인 혜택을 누릴 수 있습니다.",
+      "summary_full": "Therabody에서 제공하는 할인 코드를 통해 원하는 장치를 15% 저렴하게 구매할 수 있습니다. 또한, 다른 제품에 대해서는 최대 30%까지 할인된 가격으로 제공됩니다. 이 기회를 통해 건강과 웰빙을 위한 장비를 더욱 합리적인 가격에 구입할 수 있습니다. 다양한 할인 혜택을 활용하여 필요한 제품을 저렴하게 만나보세요.",
+      "keywords": [
+        "Therabody",
+        "할인 코드",
+        "건강 장치"
+      ],
+      "source": "wired.com",
+      "date": "5월 2일",
+      "publishedAt": "2026-05-02T05:00:00.000Z",
+      "url": "https://www.wired.com/story/therabody-promo-code/",
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, 미토스를 '봉인'한 이유는? AI 지배의 첫 사례가 될까?",
+      "summary": "앤트로픽이 미토스를 봉인한 이유와 그 배경에 대해 논의한다. AI의 지배 가능성에 대한 우려가 커지고 있다.",
+      "summary_full": "앤트로픽이 미토스를 봉인한 이유는 AI의 잠재적 위험성을 줄이기 위해서이다. 이 사건은 AI가 인간을 초월하는 첫 번째 사례가 될 수 있다는 우려를 불러일으킨다. 전문가들은 AI의 발전이 사회에 미치는 영향을 심도 있게 분석해야 한다고 주장한다. 이러한 논의는 AI 기술의 윤리적 사용에 대한 중요한 질문을 제기한다.",
+      "keywords": [
+        "앤트로픽",
+        "AI 지배",
+        "미토스 봉인"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T19:55:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OMFpnOTAzcjNWb2pYM0VzZmpTVHBDY1dtZGE3VXdqdFRmaTNjVjZwX0Z0VE9PMlplS3NrczM1dXk2T1VPTE5nYjlqUnhBOHgyaEROUDViUjV3UE5PNzZkWExxMVFVcU9v?oc=5",
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "industry",
+      "title": "메타, 모바일 시장을 놓치고 휴머노이드 운영 체제를 구축하다",
+      "summary": "Lerrel Pinto는 Fauna Robotics를 공동 설립하여 친근한 이족 보행 로봇 Sprout를 개발했다. 이후 아마존이 Fauna를 인수하며 소비자 로봇 시장에 진출했다.",
+      "summary_full": "Lerrel Pinto는 Fauna Robotics를 공동 설립하여 친근한 이족 보행 로봇 Sprout를 개발했다. 그는 2025년에 회사를 떠났고, 아마존은 Fauna를 인수하여 50명의 직원과 함께 50,000달러의 3.5피트 높이의 댄싱 휴머노이드를 확보했다. 이후 Pinto는 전 Nvidia 연구원인 Xiaolong Wang과 함께 Assured Robot Intelligence를 공동 설립했다. 이로써 메타는 모바일 시장을 놓치고 휴머노이드 운영 체제 개발에 집중하고 있다.",
+      "keywords": [
+        "메타",
+        "휴머노이드",
+        "로봇"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T18:19:27.000Z",
+      "url": "https://thenextweb.com/news/meta-acquires-assured-robot-intelligence-humanoid",
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "frontend",
+      "title": "HTML-in-Canvas, 육각형 맵, 전자 잉크 최적화 등",
+      "summary": "개발자들이 HTML-in-Canvas와 육각형 세계 맵 분석 기능, 전자 잉크 장치용 웹 기반 운영 체제 등을 실험하고 있다.",
+      "summary_full": "HTML-in-Canvas는 시각 효과가 있는 실제 의미론적 HTML을 <canvas>에 렌더링할 수 있게 해주는 새로운 API이다. 이 기술은 현재 많은 관심을 받고 있으며, img src를 콘텐츠로 대체하는 방법도 논의되고 있다. 이 외에도 다양한 실험들이 진행되고 있다.",
+      "keywords": [
+        "HTML-in-Canvas",
+        "육각형 맵",
+        "전자 잉크 최적화"
+      ],
+      "source": "css-tricks.com",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T13:43:26.000Z",
+      "url": "https://css-tricks.com/whats-important-10/",
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "industry",
+      "title": "사용성, 접근성, 그리고 인간-AI 패러다임",
+      "summary": "AI 시대에서 사용성과 접근성의 차이를 다룬다. 프로젝트 관리자의 대화 중 개발 리더가 개입하여 상황을 진전시키려는 이야기를 나눈다.",
+      "summary_full": "AI와 관련된 사용성과 접근성의 차이를 탐구하는 내용이다. 프로젝트 관리자의 접근성에 대한 논의 중 개발 리더가 개입하여 대화가 진행된다. 이 과정에서 인간과 AI의 상호작용에 대한 새로운 시각이 제시된다. 사용성과 접근성을 동시에 고려하는 것이 중요하다는 메시지를 전달한다.",
+      "keywords": [
+        "사용성",
+        "접근성",
+        "인간-AI 상호작용"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T11:19:38.000Z",
+      "url": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "design",
+      "title": "스트리밍 콘텐츠를 위한 안정적인 인터페이스 설계",
+      "summary": "실시간 데이터가 생성되는 동안 인터페이스가 동적으로 업데이트된다. 이는 채팅 앱, 로그, 전사 도구 등에서 볼 수 있다.",
+      "summary_full": "현대의 인터페이스는 응답이 생성되는 동안에도 렌더링된다. UI는 초기 상태에서 시작하여 새로운 데이터가 들어오면서 업데이트된다. 이러한 변화는 고정된 상태가 아닌 지속적으로 변하는 인터페이스를 요구한다. 특히, 콘텐츠가 추가됨에 따라 라인이 길어지고 새로운 블록이 나타나는 경우가 많다.",
+      "keywords": [
+        "인터페이스 설계",
+        "스트리밍 콘텐츠",
+        "실시간 시스템"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "design",
@@ -115,6 +259,22 @@
       "collectedAt": "2026-05-01"
     },
     {
+      "category": "figma",
+      "title": "Figma 데스크탑 앱에서 파일 간 원활하게 이동하기",
+      "summary": "Figma 데스크탑 앱에서 파일 간 이동 시 지연 없이 원활하게 작업할 수 있습니다. 링크는 현재 위치에서 열리고, 최근 작업은 검색을 통해 쉽게 접근할 수 있습니다.",
+      "summary_full": "Figma 데스크탑 앱에서는 파일 간 이동 시 지연 없이 원활하게 작업할 수 있습니다. 링크는 사용자가 현재 위치에서 열리며, 최근 작업은 검색을 통해 쉽게 찾을 수 있습니다. 다음 작업은 사용자가 도착하기 전에 미리 로드됩니다. 탭 오버플로 메뉴에서 이름으로 열린 탭과 최근 닫은 탭을 검색할 수 있습니다.",
+      "keywords": [
+        "Figma",
+        "파일 이동",
+        "사용자 경험"
+      ],
+      "source": "Figma Release Notes",
+      "date": "5월 1일",
+      "publishedAt": "2026-05-01T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-05-02"
+    },
+    {
       "category": "industry",
       "title": "색 이론에 혼란스러운 생성 AI",
       "summary": "이 기사는 색 이론을 이해하는 데 어려움을 겪는 생성 AI의 관점을 다룬다. 접근 가능한 지각 균일 삼각형을 구축하기 위한 방법론을 제시한다.",
@@ -148,19 +308,19 @@
     },
     {
       "category": "ai",
-      "title": "AI 공동 임상의 도입으로 의료 모델 혁신",
-      "summary": "AI를 활용한 의료 서비스 향상 방안에 대한 연구이다. AI 공동 임상 의사의 개발과 적용을 다룬다.",
-      "summary_full": "AI를 통한 의료 서비스의 향상을 위한 새로운 모델을 연구하고 있다. 이 연구는 AI 공동 임상 의사의 개발을 중심으로 진행된다. AI 기술이 의료 분야에 어떻게 통합될 수 있는지를 탐구한다. 궁극적으로 환자 치료의 질을 높이는 것을 목표로 한다.",
+      "title": "AI 공동 임상의사로 의료 혁신하기",
+      "summary": "AI를 활용한 의료 모델을 연구하고 있다. AI 공동 임상의사의 개발을 통해 향상된 치료를 목표로 한다.",
+      "summary_full": "AI를 활용한 새로운 의료 모델을 구축하는 연구가 진행되고 있다. 이 연구는 AI 공동 임상의사의 개발을 포함하여, 의료 서비스의 질을 향상시키는 데 중점을 두고 있다. AI 기술이 의료 분야에 통합됨으로써, 환자 치료에 있어 보다 효과적인 접근이 가능해질 것으로 기대된다. 이러한 혁신은 의료진과 AI의 협업을 통해 이루어질 예정이다.",
       "keywords": [
         "AI",
-        "의료",
-        "공동 임상 의사"
+        "의료 혁신",
+        "공동 임상의사"
       ],
       "source": "Google DeepMind Blog",
       "date": "4월 30일",
       "publishedAt": "2026-04-30T12:14:15.000Z",
       "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "design",
@@ -180,19 +340,19 @@
     },
     {
       "category": "industry",
-      "title": "AI가 브랜드 인식을 높이는 방법",
-      "summary": "AI 전환 커머스 2026을 통해 브랜드 노출 방안을 모색합니다. 챗GPT와 같은 AI 서비스에서 잠재 고객을 유치하는 방법을 논의합니다.",
-      "summary_full": "커머스BN 독자들은 AI가 브랜드를 어떻게 인식하는지에 대한 고민이 많습니다. 이를 위해 'AI 전환 커머스 2026' 기획을 진행하며, 브랜드가 AI에 잘 노출될 수 있는 방법을 탐구합니다. 발행된 기사들을 소개하고, AI 서비스에서 잠재 고객을 유치하는 전략을 확인합니다.",
+      "title": "AI와 커머스: 브랜드 노출 전략",
+      "summary": "AI가 브랜드 인지도를 높이는 방법을 탐구하는 기사입니다. 챗GPT와 같은 AI 서비스에서 브랜드가 어떻게 잘 노출될 수 있는지를 논의합니다.",
+      "summary_full": "이 기사는 AI 전환 커머스 2026 기획의 일환으로, 브랜드가 AI 서비스에 잘 노출될 수 있는 전략을 다룹니다. 독자들은 AI를 활용하여 잠재 고객을 유치하는 방법에 대한 통찰을 얻을 수 있습니다. 또한, 이전에 발행된 관련 기사들을 통해 추가 정보를 제공합니다. AI와 커머스의 융합에 대한 고민을 함께 나누는 내용입니다.",
       "keywords": [
         "AI",
         "브랜드 노출",
-        "커머스"
+        "커머스 전략"
       ],
       "source": "바이라인네트워크",
       "date": "4월 30일",
       "publishedAt": "2026-04-30T10:04:39.000Z",
       "url": "https://byline.network/2026/04/30_1298874/",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "frontend",
@@ -275,26 +435,10 @@
       "collectedAt": "2026-04-30"
     },
     {
-      "category": "figma",
-      "title": "Make, 빌드 중 더 많은 제어 및 맥락을 위한 새로운 기능 도입",
-      "summary": "Make는 음성 인식 기능을 통해 사용자가 직접 텍스트를 입력할 수 있는 새로운 기능을 도입했습니다. 이 기능은 제출 전에 정리된 텍스트를 검토할 수 있도록 지원합니다.",
-      "summary_full": "Make는 사용자가 빌드하는 과정에서 더 많은 제어와 맥락을 제공하기 위해 새로운 기능을 도입했습니다. 음성 인식 기능을 통해 사용자는 Make 채팅에서 직접 프롬프트를 입력할 수 있습니다. 이 기능은 제출하기 전에 정리된 텍스트를 검토할 수 있도록 도와줍니다. 음성 인식에 대한 자세한 내용을 확인해보세요.",
-      "keywords": [
-        "Make",
-        "음성 인식",
-        "텍스트 입력"
-      ],
-      "source": "Figma Release Notes",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-01"
-    },
-    {
       "category": "ai",
       "title": "고급 계정 보안 소개",
-      "summary": "고급 계정 보안 기능을 소개합니다. 피싱 저항 로그인, 강화된 복구 기능 및 민감한 데이터를 보호하고 계정 탈취를 방지하기 위한 향상된 보호 기능이 포함됩니다.",
-      "summary_full": "고급 계정 보안 기능이 도입되었습니다. 이 기능은 피싱 저항 로그인, 더 강력한 계정 복구 방법 및 민감한 데이터를 보호하기 위한 다양한 보호 조치를 제공합니다. 이를 통해 사용자 계정의 안전성을 높이고, 계정 탈취를 예방할 수 있습니다. 새로운 보안 기능을 통해 더욱 안전한 온라인 환경을 제공합니다.",
+      "summary": "고급 계정 보안 기능을 소개합니다. 피싱에 저항하는 로그인, 강화된 복구 기능 및 민감한 데이터를 보호하고 계정 탈취를 방지하는 향상된 보호 기능이 포함됩니다.",
+      "summary_full": "고급 계정 보안 기능이 도입되었습니다. 이 기능은 피싱에 저항하는 로그인 방식을 제공하여 사용자의 계정을 더욱 안전하게 보호합니다. 또한, 강화된 복구 기능을 통해 계정 접근을 보다 쉽게 관리할 수 있습니다. 민감한 데이터를 보호하고 계정 탈취를 예방하기 위한 다양한 향상된 보호 기능이 포함되어 있습니다.",
       "keywords": [
         "계정 보안",
         "피싱 방지",
@@ -304,13 +448,13 @@
       "date": "4월 30일",
       "publishedAt": "2026-04-30T00:00:00.000Z",
       "url": "https://openai.com/index/advanced-account-security",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "ai",
       "title": "클로드에게 개인적인 조언을 요청하는 방법",
-      "summary": "사람들이 클로드에게 개인적인 지도를 요청하는 방식에 대해 논의한다. 이 과정에서 사회적 영향과 개인의 요구가 어떻게 상호작용하는지를 살펴본다.",
-      "summary_full": "2026년 4월 30일, 클로드에게 개인적인 조언을 요청하는 다양한 방법이 소개된다. 사람들은 클로드의 지도를 통해 자신들의 문제를 해결하고자 하며, 이러한 요청은 사회적 맥락에서 중요한 의미를 가진다. 개인의 요구와 사회적 영향이 어떻게 연결되는지를 탐구하는 내용이다. 이 글은 클로드와의 상호작용이 개인에게 미치는 영향을 조명한다.",
+      "summary": "사람들이 클로드에게 개인적인 조언을 요청하는 방식에 대한 사회적 영향이 논의된다. 이 과정에서 다양한 접근 방식과 그에 따른 결과가 분석된다.",
+      "summary_full": "클로드에게 개인적인 조언을 요청하는 방법은 사회적 상호작용에 중요한 영향을 미친다. 사람들은 각기 다른 방식으로 클로드에게 접근하며, 이러한 접근 방식은 개인의 필요와 상황에 따라 달라진다. 이 연구는 그러한 요청이 개인의 삶에 미치는 영향과 사회적 맥락을 탐구한다. 결국, 클로드와의 상호작용은 사람들에게 중요한 지침을 제공할 수 있다.",
       "keywords": [
         "클로드",
         "개인적 조언",
@@ -320,7 +464,7 @@
       "date": "4월 30일",
       "publishedAt": "2026-04-30T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-personal-guidance",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "ai",
@@ -341,18 +485,18 @@
     {
       "category": "ai",
       "title": "AI 평가가 새로운 컴퓨팅 병목 현상이 되고 있다",
-      "summary": "AI 평가가 컴퓨팅 자원의 새로운 병목 현상으로 떠오르고 있다. 이는 AI 모델의 성능 평가 과정에서 발생하는 문제를 의미한다.",
-      "summary_full": "AI 평가가 현재 컴퓨팅 자원의 주요 병목 현상으로 부각되고 있다. 이는 AI 모델의 성능을 평가하는 과정에서 발생하는 지연과 자원 소모를 나타낸다. 이러한 병목 현상은 AI 개발 및 배포에 있어 효율성을 저하시킬 수 있다. 따라서 AI 평가 방식을 개선하는 것이 중요하다.",
+      "summary": "AI 평가 과정이 컴퓨팅 자원의 주요 병목 현상으로 떠오르고 있다. 이는 AI 모델의 효율적인 개발과 배포에 영향을 미친다.",
+      "summary_full": "AI 평가가 점점 더 많은 컴퓨팅 자원을 소모하고 있어 새로운 병목 현상이 되고 있다. 이러한 현상은 AI 모델의 성능을 평가하고 최적화하는 데 필요한 시간과 비용을 증가시킨다. 결과적으로, AI 개발자들은 평가 프로세스를 개선하고 효율성을 높이기 위한 새로운 방법을 모색해야 한다. 이로 인해 AI 기술의 발전 속도에 영향을 미칠 수 있다.",
       "keywords": [
         "AI 평가",
         "컴퓨팅 병목",
-        "모델 성능"
+        "모델 최적화"
       ],
       "source": "HuggingFace Blog",
       "date": "4월 29일",
       "publishedAt": "2026-04-29T16:45:09.000Z",
       "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "industry",
@@ -533,8 +677,8 @@
     {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 지원합니다. 복잡한 작업을 위한 Le Chat의 새로운 작업 모드도 추가되었습니다.",
-      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 제공합니다. 이를 통해 사용자는 다양한 작업을 원격으로 수행할 수 있습니다. 또한, Le Chat에 새로운 작업 모드가 추가되어 복잡한 작업을 보다 효율적으로 처리할 수 있습니다. 이러한 기능들은 사용자 경험을 향상시키고 작업의 효율성을 높이는 데 기여합니다.",
+      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 지원합니다. Le Chat의 새로운 작업 모드는 복잡한 작업을 처리하는 데 도움을 줍니다.",
+      "summary_full": "Mistral Medium 3.5가 Vibe에서 원격 코딩 에이전트를 도입합니다. 이 새로운 기능은 사용자가 더 효율적으로 작업할 수 있도록 돕습니다. 또한, Le Chat의 새로운 작업 모드는 복잡한 작업을 처리하는 데 최적화되어 있습니다. 이를 통해 사용자들은 다양한 작업을 보다 쉽게 수행할 수 있습니다.",
       "keywords": [
         "원격 에이전트",
         "Mistral Medium 3.5",
@@ -544,7 +688,7 @@
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "ai",
@@ -953,8 +1097,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "웹사이트 접근성의 중요성을 논의하며, 디자이너의 역할에 대한 개인적인 견해를 공유한다.",
-      "summary_full": "이 글은 웹사이트 디자인에서 접근성이 가장 중요하다는 점을 강조한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 숙제를 제안한다. 디자이너는 좋은 사람이며, 그들의 의도를 이해하는 것이 중요하다. 개인적인 의견이지만, 디자이너의 책임감 있는 태도에 대해 이야기하고자 한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 웹사이트 개선을 위한 과제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로 여겨진다. 이 글은 다른 A List Apart 기사와는 달리 혁신적인 통찰력보다는 독자에게 숙제를 제안한다. 저자는 디자이너들이 좋은 사람이라고 믿으며, 그들의 의견이 웹사이트 개선에 기여할 수 있다고 주장한다. 디자이너들이 웹사이트의 접근성을 고려해야 한다는 점을 강조한다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -964,23 +1108,25 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "frontend",
       "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 일할 수 있도록 지원합니다. AI를 활용해 데이터 민주주의를 실현하고, 필요한 데이터를 즉시 확인할 수 있는 환경을 제공합니다.",
-      "summary_full": "토스플레이스의 Data Analysis Team Leader 김윤아와 Data Analytics Engineer 정이을이 기획한 데이터봇 ‘판다(PANDA)’는 팀원들이 데이터 전문가처럼 업무를 수행할 수 있도록 돕습니다. 이 도구는 대시보드를 찾거나 요청을 기다리지 않고도 필요한 데이터를 즉시 활용할 수 있게 합니다. AI를 통해 데이터 민주주의를 실현하고, 효율적인 데이터 분석 환경을 제공합니다. ‘판다’는 Place Analytics & Data의 약자로, 데이터 분석의 접근성을 높이는 데 기여하고자 합니다.",
+      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 일할 수 있도록 지원합니다. AI를 활용해 데이터 민주주의를 실현하는 것을 목표로 하고 있습니다.",
+      "summary_full": "토스플레이스의 데이터 분석 팀이 개발한 데이터봇 ‘판다(PANDA)’는 팀원들이 필요한 데이터를 신속하게 확인할 수 있도록 돕습니다. 이 시스템은 대시보드나 요청 대기 없이 즉시 데이터에 접근할 수 있는 환경을 제공합니다. 판다는 Place Analytics & Data의 약자로, 데이터 민주주의를 실현하기 위해 만들어졌습니다. 이를 통해 모든 팀원이 데이터 전문가처럼 업무를 수행할 수 있는 기회를 제공합니다.",
       "keywords": [
         "토스플레이스",
         "데이터봇",
-        "AI"
+        "판다",
+        "AI",
+        "데이터 민주주의"
       ],
       "source": "toss.tech",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T03:28:00.000Z",
       "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "ai",
@@ -1001,8 +1147,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 방향성을 제시하는 9가지 트렌드를 소개한다. 이 트렌드는 사용자 경험을 개선하고 혁신을 이끌어낼 것으로 기대된다.",
-      "summary_full": "2026년을 대비한 UX 디자인의 9가지 주요 트렌드를 살펴본다. 이 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있으며, 디자인의 미래를 형성하는 데 중요한 역할을 할 것이다. 각 트렌드는 사용자 경험을 향상시키고, 기업의 경쟁력을 높이는 데 기여할 것으로 보인다. UX 디자인 분야의 전문가와 기업들이 주목해야 할 필수 요소들이다.",
+      "summary": "2026년의 UX 디자인 트렌드를 살펴보는 기사입니다. 향후 사용자 경험에 영향을 미칠 주요 요소들을 다룹니다.",
+      "summary_full": "이 기사는 2026년 UX 디자인의 주요 트렌드 9가지를 소개합니다. 각 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제안합니다. 디지털 환경의 변화에 따라 UX 디자인이 어떻게 발전할지를 탐구합니다. 이러한 트렌드는 기업들이 사용자와의 상호작용을 개선하는 데 중요한 역할을 할 것입니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -1012,7 +1158,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-01"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "ai",
@@ -1034,8 +1180,8 @@
     {
       "category": "ai",
       "title": "딥시크 차세대 LLM ‘V4’ 출시 임박",
-      "summary": "딥시크가 차세대 LLM ‘V4’의 출시를 앞두고 있으며, 이는 오픈AI와 구글의 성능을 뛰어넘을 가능성이 있다.",
-      "summary_full": "딥시크는 차세대 LLM ‘V4’의 출시를 임박하게 하며, 이 모델은 기존의 오픈AI와 구글의 성능을 초월할 수 있을지 주목받고 있다. 새로운 기술이 적용된 V4는 더욱 향상된 자연어 처리 능력을 제공할 것으로 기대된다. 업계에서는 이 모델이 AI 시장에 미칠 영향에 대해 큰 관심을 보이고 있다. 출시 일정과 구체적인 성능은 아직 공개되지 않았다.",
+      "summary": "딥시크의 차세대 대형 언어 모델 V4가 곧 출시될 예정이다. 이 모델은 오픈AI와 구글의 성능을 뛰어넘을 가능성이 있다.",
+      "summary_full": "딥시크는 차세대 대형 언어 모델 V4의 출시를 앞두고 있다. 이 모델은 기존의 오픈AI와 구글의 LLM 성능을 초월할 수 있는 잠재력을 지니고 있다. 업계의 관심이 집중되고 있으며, 향후 AI 기술 경쟁에 큰 영향을 미칠 것으로 예상된다. V4의 성능이 실제로 얼마나 뛰어난지에 대한 기대감이 커지고 있다.",
       "keywords": [
         "딥시크",
         "LLM",
@@ -1045,7 +1191,7 @@
       "date": "2월 18일",
       "publishedAt": "2026-02-18T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OWEtZjAzbkh1LUctcVJVTHlkRll4X2tiUi1LRFhaQWxlWDlqLUR0M2JmdWFLcjA5Y1o4NFNsUDVDWU5pOWJyMWJHSjRQb2lsUUQxZ0NsNkZPYm5LUmVubQ?oc=5",
-      "collectedAt": "2026-04-30"
+      "collectedAt": "2026-05-02"
     },
     {
       "category": "frontend",
