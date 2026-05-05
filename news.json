@@ -1,7 +1,167 @@
 {
-  "updated": "2026년 5월 4일 AM 09:08",
-  "count": 89,
+  "updated": "2026년 5월 5일 AM 07:34",
+  "count": 99,
   "articles": [
+    {
+      "category": "industry",
+      "title": "디자이너의 감각과 AI의 만남",
+      "summary": "그래픽 디자이너가 이미지봇을 활용해 200개의 아이콘을 제작하며 AI와 디자인의 융합을 경험했다. 이 과정에서 디자이너의 직관이 AI 시스템으로 발전하는 가능성을 깨달았다.",
+      "summary_full": "이 기사에서는 그래픽 디자이너가 AI 이미지봇을 통해 200개의 아이콘을 제작한 경험을 다룬다. 디자이너는 이 과정을 통해 자신의 감각이 AI와 결합하여 새로운 시스템으로 발전할 수 있음을 깨달았다. AI가 디자인 프로세스에 미치는 영향과 디자이너의 역할 변화에 대한 통찰을 제공한다. 이러한 경험은 디자이너와 AI의 협업이 어떻게 이루어질 수 있는지를 보여준다.",
+      "keywords": [
+        "디자인",
+        "AI",
+        "아이콘 제작"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "5월 5일",
+      "publishedAt": "2026-05-05T07:32:52.612Z",
+      "url": "https://www.bucketplace.com/post/2026-04-24-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%98-%E2%80%98%EA%B0%90%EA%B0%81%E2%80%99%EC%9D%B4-ai%EB%A5%BC-%EB%A7%8C%EB%82%98-%E2%80%98%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%99%EC%9D%B4-%EB%90%A0-%EB%95%8C/",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "design",
+      "title": "검색 가능한 과거, 사라지는 맥락",
+      "summary": "디지털 시대에 과거의 정보가 검색 가능해지면서 맥락이 사라지고 있다. 이는 개인의 기억과 사회적 기억에 영향을 미친다.",
+      "summary_full": "디지털 시대의 발전으로 인해 과거의 정보는 쉽게 검색할 수 있게 되었지만, 이로 인해 그 정보의 맥락이 소실되고 있다. 검색 가능한 데이터는 개인의 기억뿐만 아니라 사회적 기억에도 영향을 미치며, 이는 우리의 역사 인식에 변화를 가져온다. 이러한 현상은 정보의 양이 증가할수록 더욱 두드러지며, 우리는 과거를 어떻게 기억하고 해석할 것인지에 대한 새로운 도전에 직면하고 있다. 따라서, 정보의 맥락을 유지하는 것이 중요하다는 논의가 필요하다.",
+      "keywords": [
+        "디지털 시대",
+        "정보 검색",
+        "사회적 기억"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 5일",
+      "publishedAt": "2026-05-05T07:32:45.031Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-742/",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "frontend",
+      "title": "useEffect를 이렇게 사용하지 마세요: 당신의 React 앱을 조용히 망치는 5가지 패턴",
+      "summary": "코드 리뷰 중 발견한 문제로, 5개의 useEffect 훅이 사용된 컴포넌트에서 미세한 버그가 발생했습니다. 이 버그는 사용자 네비게이션 시에만 나타났습니다.",
+      "summary_full": "동료의 코드 리뷰 중 5개의 useEffect 훅이 사용된 컴포넌트를 발견했습니다. 콘솔에 오류나 경고는 없었고, PM의 승인을 받아 3개월간 운영되었습니다. 그러나 사용자 네비게이션 시에만 나타나는 미세한 버그가 있었습니다. 이 글에서는 이러한 문제를 피하기 위한 5가지 패턴을 소개합니다.",
+      "keywords": [
+        "useEffect",
+        "React",
+        "버그"
+      ],
+      "source": "dev.to",
+      "date": "5월 5일",
+      "publishedAt": "2026-05-05T07:30:00.000Z",
+      "url": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "trend",
+      "title": "스프링 부트 MVC 설명: 모델-뷰-컨트롤러로 더 스마트한 웹 앱 구축하기",
+      "summary": "스프링 부트를 사용하여 애플리케이션을 구축할 때 MVC 아키텍처 패턴이 중요하다. 많은 개발자들이 MVC를 사용한다고 주장하지만, 실제로는 책임 분리를 이해하지 못하고 주석만 사용하는 경우가 많다.",
+      "summary_full": "스프링 부트를 사용하여 애플리케이션을 구축할 때 가장 중요한 아키텍처 패턴 중 하나는 MVC(모델-뷰-컨트롤러)이다. 많은 개발자들이 MVC를 사용한다고 주장하지만, 실제로는 @RestController와 같은 주석만 사용하며 책임 분리를 이해하지 못하는 경우가 많다. 이 글에서는 MVC의 개념과 이를 통해 더 스마트한 웹 애플리케이션을 구축하는 방법에 대해 설명한다. MVC 패턴을 올바르게 이해하고 활용하는 것이 중요하다.",
+      "keywords": [
+        "스프링 부트",
+        "MVC",
+        "웹 애플리케이션"
+      ],
+      "source": "dev.to",
+      "date": "5월 5일",
+      "publishedAt": "2026-05-05T07:19:52.000Z",
+      "url": "https://dev.to/aj_arul/spring-boot-mvc-explained-build-smarter-web-apps-with-model-view-controller-b4c",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "trend",
+      "title": "루프 이어플러그 할인 코드: 40% 할인",
+      "summary": "루프 이어플러그에서 40% 할인 혜택을 제공합니다. 조용한 수면과 집중력을 향상시키는 인기 있는 선물 세트를 포함합니다.",
+      "summary_full": "루프 이어플러그의 할인 코드로 40%를 절약할 수 있습니다. Quiet 2 모델과 함께 다양한 인기 선물 세트가 포함되어 있습니다. 이 제품들은 수면, 집중, 편안함을 개선하는 데 도움을 줍니다. 지금 할인 혜택을 이용해 보세요.",
+      "keywords": [
+        "루프 이어플러그",
+        "할인 코드",
+        "수면 개선"
+      ],
+      "source": "wired.com",
+      "date": "5월 5일",
+      "publishedAt": "2026-05-05T05:00:00.000Z",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "industry",
+      "title": "성 아우구스티누스와 AI의 잘못된 약속",
+      "summary": "인공지능에 대한 현재의 서사는 더 나은 예측과 결과를 제공하겠다는 약속에 기반하고 있다. AI는 불확실성을 줄이고 최적의 질서에 가까워지도록 돕는 시스템으로 자리잡고 있다.",
+      "summary_full": "성 아우구스티누스의 고대 진단이 현대의 환상에 대한 통찰을 제공한다. 인공지능에 대한 현재의 서사는 더 나은 예측과 결과를 제공하겠다는 약속에 기반하고 있다. AI는 불확실성을 줄이고 최적의 질서에 가까워지도록 돕는 시스템으로 자리잡고 있다. 그러나 이러한 약속은 현실에서의 한계와 도전에 직면하고 있다.",
+      "keywords": [
+        "인공지능",
+        "성 아우구스티누스",
+        "불확실성"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 4일",
+      "publishedAt": "2026-05-04T23:05:20.000Z",
+      "url": "https://uxdesign.cc/st-augustine-and-ais-false-promise-4f67c75b3275?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "industry",
+      "title": "핀터레스트, 분기 매출 10억 달러 돌파",
+      "summary": "핀터레스트가 2026년 첫 분기 매출 10억 달러를 기록했다. 사용자 수가 6억 3100만 명에 달하며, 지속적인 성장세를 보이고 있다.",
+      "summary_full": "핀터레스트는 2026년 첫 3개월 동안 매출이 10억 8000만 달러에 달하며 전년 대비 18% 증가했다. 월간 활성 사용자 수는 6억 3100만 명에 이르며, 10분기 연속 두 자릿수 성장률을 기록했다. 주가는 2분기 매출이 11억 3300만 달러에 이를 것이라는 전망에 따라 상승했다. 핀터레스트의 성공은 소셜 미디어가 아닌 검색에 기반한 전략 덕분이다.",
+      "keywords": [
+        "핀터레스트",
+        "분기 매출",
+        "사용자 성장"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 4일",
+      "publishedAt": "2026-05-04T21:32:19.000Z",
+      "url": "https://thenextweb.com/news/pinterest-billion-revenue-visual-search-advertising",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "ai",
+      "title": "OpenAI와 PwC, CFO 사무실 혁신을 위한 협력",
+      "summary": "OpenAI와 PwC가 협력하여 기업들이 AI 에이전트를 활용해 재무 업무를 자동화하고 예측을 개선하도록 돕고 있다.",
+      "summary_full": "OpenAI와 PwC는 기업들이 AI 에이전트를 통해 재무 워크플로우를 자동화하고 예측 능력을 향상시키며 통제를 강화할 수 있도록 지원하고 있다. 이 협력은 CFO 기능을 현대화하는 데 중점을 두고 있다. AI 기술을 활용하여 재무 관리의 효율성을 높이는 것이 목표이다. 이러한 혁신은 기업의 재무 운영을 보다 스마트하게 변화시킬 것으로 기대된다.",
+      "keywords": [
+        "OpenAI",
+        "PwC",
+        "CFO"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 4일",
+      "publishedAt": "2026-05-04T21:00:00.000Z",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "frontend",
+      "title": "고정 높이 카드: 보이는 것보다 더 취약하다",
+      "summary": "고정 높이 카드는 겉보기에는 안전한 선택처럼 보이지만, 내용이 변경되면 문제가 발생할 수 있다. 디자인이 정확히 구현되더라도, 편집이나 번역으로 인해 카드의 내용이 길어지면 레이아웃이 깨질 수 있다.",
+      "summary_full": "고정 높이 카드는 디자이너가 제공한 모형에서 모든 카드가 완벽하게 정렬되어 안정적으로 보인다. 그러나 내용이 변경되면, 예를 들어 편집자가 복사를 업데이트하거나 번역이 긴 단어를 추가할 경우, 카드의 레이아웃이 무너질 수 있다. 이러한 문제는 고정 높이 카드가 실제로는 예상보다 더 취약하다는 것을 보여준다. 따라서 디자인을 구현할 때는 내용의 변동성을 고려해야 한다.",
+      "keywords": [
+        "고정 높이 카드",
+        "디자인",
+        "레이아웃 문제"
+      ],
+      "source": "css-tricks.com",
+      "date": "5월 4일",
+      "publishedAt": "2026-05-04T14:01:36.000Z",
+      "url": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "industry",
+      "title": "애스크닷컴, 30년 만에 폐업",
+      "summary": "애스크닷컴은 1997년에 등장한 1세대 검색엔진으로, 사용자의 질문에 완성된 정답을 제공하는 것을 목표로 했다. 최근 챗GPT와 같은 AI 기술의 발전으로 인해 애스크닷컴이 역사 속으로 사라지게 되었다.",
+      "summary_full": "애스크닷컴은 30년 전, 사용자의 질문에 대한 완성된 정답을 제공하는 검색엔진으로 시작되었다. 이는 현대의 챗GPT와 같은 AI 기술의 원조 개념으로 볼 수 있다. 그러나 기술의 발전과 변화하는 사용자 요구에 따라 애스크닷컴은 결국 폐업하게 되었다. 이러한 변화는 검색엔진의 진화와 AI의 중요성을 보여준다.",
+      "keywords": [
+        "애스크닷컴",
+        "챗GPT",
+        "검색엔진"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 4일",
+      "publishedAt": "2026-05-04T09:51:55.000Z",
+      "url": "https://byline.network/2026/05/0504-2/",
+      "collectedAt": "2026-05-05"
+    },
     {
       "category": "frontend",
       "title": "2026년 맞춤형 소프트웨어 개발: 실제로 변화한 것",
@@ -16,22 +176,6 @@
       "date": "5월 4일",
       "publishedAt": "2026-05-04T09:07:11.000Z",
       "url": "https://dev.to/modsen_company/custom-software-development-in-2026-what-actually-changed-3ilg",
-      "collectedAt": "2026-05-04"
-    },
-    {
-      "category": "industry",
-      "title": "디자이너의 감각과 AI의 만남",
-      "summary": "그래픽 디자이너가 AI 이미지봇을 활용해 200개의 아이콘을 제작하며 새로운 통찰을 얻었다. 이 과정에서 디자이너의 직관이 AI 시스템과 결합하여 창의적인 결과물을 만들어내는 방법을 탐구했다.",
-      "summary_full": "그래픽 디자이너가 AI 이미지봇과 협력하여 200개의 아이콘을 제작하는 경험을 통해 디자이너의 감각이 AI와 결합할 때의 가능성을 발견했다. 이 과정에서 디자이너는 AI가 제공하는 시스템적 접근이 자신의 창의성을 어떻게 확장할 수 있는지를 깨달았다. 디자이너의 직관과 AI의 분석력이 결합되어 새로운 디자인 패러다임이 형성될 수 있음을 보여준다. 이러한 경험은 디자이너와 AI 간의 협업이 미래 디자인에 미치는 영향을 시사한다.",
-      "keywords": [
-        "디자인",
-        "AI",
-        "아이콘 제작"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "5월 4일",
-      "publishedAt": "2026-05-04T09:06:50.729Z",
-      "url": "https://www.bucketplace.com/post/2026-04-24-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%98-%E2%80%98%EA%B0%90%EA%B0%81%E2%80%99%EC%9D%B4-ai%EB%A5%BC-%EB%A7%8C%EB%82%98-%E2%80%98%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%99%EC%9D%B4-%EB%90%A0-%EB%95%8C/",
       "collectedAt": "2026-05-04"
     },
     {
@@ -357,8 +501,8 @@
     {
       "category": "design",
       "title": "스트리밍 콘텐츠를 위한 안정적인 인터페이스 설계",
-      "summary": "실시간 데이터가 생성되는 동안 인터페이스가 지속적으로 업데이트된다. 이는 채팅 앱, 로그, 전사 도구 등에서 볼 수 있다.",
-      "summary_full": "인터페이스는 고정된 상태가 아니라 새로운 콘텐츠가 들어오면서 계속 변화한다. 데이터가 추가됨에 따라 인터페이스는 길어지고 새로운 블록이 나타난다. 이러한 동적인 변화는 사용자 경험에 도전 과제를 제기한다. 따라서 안정적인 인터페이스 설계가 중요하다.",
+      "summary": "실시간 데이터가 생성되는 동안 인터페이스가 동적으로 업데이트된다. 이는 채팅 앱, 로그, 전사 도구 등에서 볼 수 있는 특징이다.",
+      "summary_full": "인터페이스는 고정된 상태가 아니며, 새로운 콘텐츠가 들어오면서 계속 변화한다. 이로 인해 길어지는 줄과 새로운 블록이 나타나는 등 UI가 성장한다. 이러한 동적 변화는 사용자 경험에 영향을 미칠 수 있다. 따라서 안정적인 인터페이스 설계가 중요하다.",
       "keywords": [
         "인터페이스 설계",
         "스트리밍 콘텐츠",
@@ -368,7 +512,7 @@
       "date": "5월 1일",
       "publishedAt": "2026-05-01T08:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "design",
@@ -468,9 +612,9 @@
     },
     {
       "category": "figma",
-      "title": "피그마 데스크탑 앱에서 파일 간 원활한 이동",
-      "summary": "피그마 데스크탑 앱에서 파일 간 이동 시 방해 요소 없이 효율적으로 작업할 수 있습니다. 링크는 현재 위치에서 열리고, 최근 작업은 쉽게 검색할 수 있으며, 다음 작업은 미리 로드됩니다.",
-      "summary_full": "피그마 데스크탑 앱에서 파일 간 이동 시 방해 요소 없이 효율적으로 작업할 수 있습니다. 링크는 현재 위치에서 열리고, 최근 작업은 쉽게 검색할 수 있습니다. 또한, 다음 작업은 미리 로드되어 사용자가 원하는 작업을 빠르게 진행할 수 있습니다. 탭 오버플로우 메뉴를 통해 열린 탭과 최근 닫은 탭을 이름으로 검색할 수 있습니다.",
+      "title": "피그마 데스크탑 앱에서 파일 간 원활하게 이동하기",
+      "summary": "피그마 데스크탑 앱에서 파일 간 이동 시 지연 없이 빠르게 작업할 수 있습니다. 링크는 현재 위치에서 열리고, 최근 작업은 쉽게 검색할 수 있으며, 다음 작업은 미리 로드됩니다.",
+      "summary_full": "피그마 데스크탑 앱에서 파일 간 이동 시 지연 없이 빠르게 작업할 수 있습니다. 링크는 현재 위치에서 열리고, 최근 작업은 쉽게 검색할 수 있습니다. 또한, 다음 작업은 미리 로드되어 사용자가 이동하기 전에 준비됩니다. 탭 오버플로우 메뉴에서 이름으로 열린 탭과 최근 닫은 탭을 검색할 수 있습니다.",
       "keywords": [
         "피그마",
         "파일 이동",
@@ -480,7 +624,7 @@
       "date": "5월 1일",
       "publishedAt": "2026-05-01T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "industry",
@@ -516,19 +660,19 @@
     },
     {
       "category": "ai",
-      "title": "AI 공동 임상의 도입으로 의료 모델 혁신",
-      "summary": "AI를 활용한 의료 서비스 향상 방안에 대해 연구하고 있다. AI 공동 임상 의사의 개발을 통해 새로운 치료 모델을 제시하고자 한다.",
-      "summary_full": "이 연구는 AI를 통해 의료 서비스를 증강하는 경로를 탐구하고 있다. 특히, AI 공동 임상의 개발을 통해 의료 분야의 혁신을 목표로 하고 있다. AI 기술을 활용하여 의료진의 진단 및 치료 과정을 지원하는 새로운 모델이 제안되고 있다. 이러한 접근은 환자 치료의 질을 높이고 의료 시스템의 효율성을 개선할 것으로 기대된다.",
+      "title": "AI 공동 임상의사로 의료 혁신하기",
+      "summary": "AI를 활용한 의료 모델 개발에 대한 연구를 다룬다. AI 공동 임상의사와 함께하는 향상된 진료 경로를 모색한다.",
+      "summary_full": "이 기사는 AI를 활용한 새로운 의료 모델을 개발하는 과정을 탐구한다. AI 공동 임상의사는 의료진과 협력하여 환자 치료를 지원하는 역할을 한다. 연구는 AI가 어떻게 진료를 향상시킬 수 있는지를 분석한다. 궁극적으로 AI의 도입이 의료 서비스의 질을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "AI",
         "의료 혁신",
-        "공동 임상 의사"
+        "공동 임상의사"
       ],
       "source": "Google DeepMind Blog",
       "date": "4월 30일",
       "publishedAt": "2026-04-30T12:14:15.000Z",
       "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "design",
@@ -644,6 +788,22 @@
     },
     {
       "category": "ai",
+      "title": "클로드에게 개인적 조언 요청하는 방법",
+      "summary": "사람들이 클로드에게 개인적인 조언을 요청하는 방식에 대해 다룬다. 이 글은 사회적 영향과 관련된 내용을 포함하고 있다.",
+      "summary_full": "클로드는 개인적 조언을 제공하는 AI로, 사람들은 다양한 방법으로 그에게 도움을 요청한다. 이러한 요청 방식은 사회적 상호작용에 큰 영향을 미치고 있다. 이 글에서는 사람들이 클로드에게 접근하는 방식과 그로 인한 사회적 변화에 대해 논의한다. 클로드의 역할이 개인의 결정과 삶에 미치는 영향을 탐구한다.",
+      "keywords": [
+        "클로드",
+        "개인적 조언",
+        "사회적 영향"
+      ],
+      "source": "Anthropic Research",
+      "date": "4월 30일",
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/claude-personal-guidance",
+      "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "ai",
       "title": "고급 계정 보안 소개",
       "summary": "피싱 저항 로그인과 강력한 복구 기능을 통해 민감한 데이터를 보호합니다.",
       "summary_full": "고급 계정 보안이 도입되었습니다. 이 기능은 피싱 저항 로그인, 강력한 복구 시스템 및 민감한 데이터를 보호하기 위한 향상된 보호 기능을 제공합니다. 이를 통해 계정 탈취를 방지하고 사용자 정보를 안전하게 지킬 수 있습니다. 보안 강화로 사용자 경험이 개선될 것입니다.",
@@ -656,22 +816,6 @@
       "date": "4월 30일",
       "publishedAt": "2026-04-30T00:00:00.000Z",
       "url": "https://openai.com/index/advanced-account-security",
-      "collectedAt": "2026-05-04"
-    },
-    {
-      "category": "ai",
-      "title": "클로드에게 개인적인 조언을 요청하는 방법",
-      "summary": "사람들이 클로드에게 개인적인 조언을 요청하는 방식에 대해 다룬다. 이 글에서는 사회적 영향과 관련된 다양한 사례를 소개한다.",
-      "summary_full": "이 글은 사람들이 클로드에게 개인적인 조언을 요청하는 다양한 방법을 탐구한다. 사회적 영향에 대한 논의와 함께, 사람들이 어떻게 클로드에게 접근하는지를 설명한다. 또한, 이러한 요청이 개인의 삶에 미치는 영향을 분석한다. 마지막으로, 클로드의 역할과 그에 대한 사회적 인식을 조명한다.",
-      "keywords": [
-        "클로드",
-        "개인적 조언",
-        "사회적 영향"
-      ],
-      "source": "Anthropic Research",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/claude-personal-guidance",
       "collectedAt": "2026-05-04"
     },
     {
@@ -693,18 +837,18 @@
     {
       "category": "ai",
       "title": "AI 평가가 새로운 컴퓨팅 병목 현상이 되고 있다",
-      "summary": "AI 평가가 컴퓨팅 자원의 새로운 병목 현상으로 떠오르고 있다. 이는 AI 모델의 성능 평가와 최적화 과정에서 발생하는 문제를 의미한다.",
-      "summary_full": "AI 평가가 현재 컴퓨팅 자원에서 가장 큰 병목 현상으로 자리잡고 있다. 이는 AI 모델의 성능을 평가하고 최적화하는 과정에서 필요한 계산량이 급증하고 있음을 나타낸다. 이러한 상황은 AI 기술의 발전과 함께 더욱 심화될 것으로 예상된다. 따라서 효율적인 평가 방법과 자원 관리가 필요하다.",
+      "summary": "AI 평가가 컴퓨팅 자원의 주요 병목 현상으로 떠오르고 있다. 이는 AI 모델의 성능을 평가하는 과정에서 발생하는 문제를 의미한다.",
+      "summary_full": "AI 평가가 새로운 컴퓨팅 병목 현상으로 자리잡고 있다. 이는 AI 모델의 성능을 평가하는 데 필요한 자원이 증가하면서 발생하는 문제를 나타낸다. 이러한 병목 현상은 AI 개발 및 배포 과정에서 효율성을 저하시킬 수 있다. 따라서 AI 평가 방식을 개선하는 것이 중요하다.",
       "keywords": [
-        "AI 평가",
+        "AI",
         "컴퓨팅 병목",
-        "모델 최적화"
+        "모델 평가"
       ],
       "source": "HuggingFace Blog",
       "date": "4월 29일",
       "publishedAt": "2026-04-29T16:45:09.000Z",
       "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "industry",
@@ -885,8 +1029,8 @@
     {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 도입합니다. 또한 복잡한 작업을 위한 Le Chat의 새로운 작업 모드를 제공합니다.",
-      "summary_full": "Mistral Medium 3.5가 출시되어 Vibe에서 원격 코딩 에이전트를 사용할 수 있게 되었습니다. 이 새로운 기능은 사용자들이 더 효율적으로 작업할 수 있도록 돕습니다. 또한 Le Chat에서는 복잡한 작업을 수행하기 위한 새로운 작업 모드가 추가되었습니다. 이를 통해 팀 협업과 생산성이 향상될 것으로 기대됩니다.",
+      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 제공한다. 또한 Le Chat의 새로운 작업 모드가 복잡한 작업을 지원한다.",
+      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 도입한다. 이를 통해 사용자들은 보다 효율적으로 작업을 수행할 수 있다. 또한 Le Chat에 새롭게 추가된 작업 모드는 복잡한 작업을 보다 쉽게 처리할 수 있도록 돕는다. 이로 인해 팀의 생산성이 향상될 것으로 기대된다.",
       "keywords": [
         "원격 에이전트",
         "Mistral Medium 3.5",
@@ -896,7 +1040,7 @@
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "ai",
@@ -1305,34 +1449,34 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "웹사이트 접근성의 중요성을 논의하며, 디자이너의 책임을 강조한다.",
-      "summary_full": "웹사이트 디자인에서 접근성이 가장 중요하다는 점을 강조한다. 이 글은 디자이너들이 고려해야 할 과제를 제시한다. 디자이너들은 대체로 좋은 사람들로, 그들의 역할에 대한 인식을 높이는 것이 필요하다. 개인적인 의견이지만, 이러한 관점은 유익할 것이다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 좋은 웹사이트를 만들기 위한 과제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글에서는 디자이너들이 이를 어떻게 고려해야 하는지를 논의한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 실질적인 과제를 제시한다. 디자이너들은 본질적으로 좋은 사람들로, 이들은 웹사이트의 접근성을 중요하게 여겨야 한다. 개인적인 의견이지만, 이 주제에 대한 논의는 매우 중요하다.",
       "keywords": [
         "접근성",
         "웹사이트 디자인",
-        "디자이너의 책임"
+        "디자이너"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "frontend",
       "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스는 데이터 분석 어시스턴트 ‘판다(PANDA)’를 통해 팀원들이 데이터 전문가처럼 일할 수 있는 환경을 제공합니다. AI를 활용하여 필요한 데이터를 즉시 확인할 수 있는 시스템을 구현했습니다.",
-      "summary_full": "토스플레이스의 Data Analysis Team은 데이터 민주주의를 실현하기 위해 ‘판다(PANDA)’를 개발했습니다. 이 데이터봇은 Place Analytics & Data의 약자로, 팀원들이 대시보드나 요청 없이도 필요한 데이터를 쉽게 접근할 수 있도록 돕습니다. 판다는 AI 기술을 활용하여 데이터 분석의 효율성을 높이고, 모든 팀원이 데이터 전문가처럼 업무를 수행할 수 있도록 지원합니다. 이를 통해 데이터 기반 의사결정을 촉진하고, 업무 환경을 혁신하고자 합니다.",
+      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 데이터 민주주의를 실현하고자 하였다. 이를 통해 팀원들이 데이터 전문가처럼 쉽게 필요한 데이터를 활용할 수 있도록 지원한다.",
+      "summary_full": "토스플레이스의 데이터 조직은 AI를 활용하여 데이터 접근성을 높이고, 팀원들이 필요한 데이터를 빠르게 확인할 수 있는 환경을 조성하고자 했다. 그 결과로 탄생한 데이터 분석 어시스턴트 ‘판다(PANDA)’는 Place Analytics & Data의 약자로, 데이터 민주주의를 실현하기 위한 도구로 개발되었다. 판다는 사용자가 대시보드에 접근하거나 요청을 기다리지 않고도 필요한 데이터를 즉시 활용할 수 있도록 돕는다. 이를 통해 모든 팀원이 데이터 전문가처럼 일할 수 있는 방법을 제시한다.",
       "keywords": [
         "토스플레이스",
         "데이터봇",
-        "AI 데이터 분석"
+        "판다"
       ],
       "source": "toss.tech",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T03:28:00.000Z",
       "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "ai",
@@ -1353,8 +1497,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 다루고 있습니다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시합니다.",
-      "summary_full": "2026년을 대비한 UX 디자인의 9가지 주요 트렌드를 소개합니다. 이 트렌드는 기술 발전과 사용자 요구에 기반하여 발전하고 있습니다. 각 트렌드는 사용자 경험을 향상시키기 위한 다양한 전략과 접근 방식을 포함하고 있습니다. 디지털 환경에서의 경쟁력을 높이기 위해 이러한 트렌드를 이해하고 적용하는 것이 중요합니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 기술 발전과 사용자 요구에 맞춰 변화하는 디자인 방향성을 제시합니다. 특히, 개인화, 접근성, 지속 가능성 등이 주요 키워드로 부각됩니다. 이러한 트렌드는 향후 UX 디자인의 패러다임을 변화시킬 것으로 예상됩니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -1364,24 +1508,23 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "ai",
       "title": "알리바바, 저가 AI 코딩 요금제 출시",
-      "summary": "알리바바가 저렴한 AI 코딩 요금제를 출시했다. 이 요금제는 4종의 대형 언어 모델(LLM)을 지원한다.",
-      "summary_full": "알리바바는 새로운 저가 AI 코딩 요금제를 발표했다. 이 서비스는 사용자가 저렴한 비용으로 AI 코딩 도구를 이용할 수 있도록 설계되었다. 특히, 4종의 대형 언어 모델(LLM)을 지원하여 다양한 개발 요구를 충족할 수 있다. 이를 통해 개발자들은 비용 효율적으로 AI 기술을 활용할 수 있게 되었다.",
+      "summary": "알리바바가 저가의 AI 코딩 요금제를 출시했다. 이 요금제는 4종의 대형 언어 모델(LLM)을 지원한다.",
+      "summary_full": "알리바바가 새로운 저가 AI 코딩 요금제를 출시했다. 이 요금제는 다양한 사용자에게 접근성을 제공하며, 4종의 대형 언어 모델(LLM)을 지원한다. 이를 통해 개발자들은 보다 저렴한 비용으로 AI 코딩 서비스를 이용할 수 있게 된다. 알리바바는 AI 기술의 대중화를 목표로 하고 있다.",
       "keywords": [
         "알리바바",
         "AI 코딩",
-        "저가 요금제",
-        "대형 언어 모델"
+        "저가 요금제"
       ],
       "source": "Google News AI (KR)",
       "date": "2월 26일",
       "publishedAt": "2026-02-26T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tQkV2UXRuWTFSZ1JKalRIU0htYUZtRXUycFdYX3I1THZ6bUdCaGpwZnlpVy1hSDVkUGpXd0xvbTBaeTRYVXVuZ2VEZW05UQ?oc=5",
-      "collectedAt": "2026-05-04"
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "ai",
@@ -1398,6 +1541,22 @@
       "publishedAt": "2026-02-18T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OWEtZjAzbkh1LUctcVJVTHlkRll4X2tiUi1LRFhaQWxlWDlqLUR0M2JmdWFLcjA5Y1o4NFNsUDVDWU5pOWJyMWJHSjRQb2lsUUQxZ0NsNkZPYm5LUmVubQ?oc=5",
       "collectedAt": "2026-05-02"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic Claude AI 공격: SOC 팀을 위한 실행 가능한 보고서",
+      "summary": "이 보고서는 SOC 팀을 위한 Anthropic Claude AI 공격에 대한 실행 가능한 정보를 제공합니다. 공격의 특성과 대응 전략을 다룹니다.",
+      "summary_full": "이 보고서는 SOC 팀을 위해 Anthropic Claude AI 공격의 세부 사항과 대응 방안을 제시합니다. 공격의 유형과 발생 원인을 분석하며, 효과적인 방어 전략을 제안합니다. 또한, SOC 팀이 실질적으로 적용할 수 있는 실행 가능한 조치를 포함하고 있습니다. 이를 통해 보안 팀이 AI 기반 공격에 효과적으로 대응할 수 있도록 지원합니다.",
+      "keywords": [
+        "AI 공격",
+        "SOC 팀",
+        "보안 전략"
+      ],
+      "source": "Google News Anthropic",
+      "date": "12월 14일",
+      "publishedAt": "2025-12-14T09:41:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGtDMTdmZVdCNTJqNXZscjZwN3QxdllSa2p0dnpCSGxCS2owZUNYZ0VjVUpWT2VpSmtXVzNwSF9hc1JYZnRteUZTcEdibUxpUHFWNmtYa3lQMjJraVJEczdlX1VTcmxLWEFVdFd4ZWwzeWltd0doVUVpeDdtLXlraUpBWUZIOGlKWU1fdGpycjFEaTVQVEVnNmFDaUN0RFZGRzJwRGY2OFV0bUpsQk5Nbl9BSQ?oc=5",
+      "collectedAt": "2026-05-05"
     },
     {
       "category": "frontend",
