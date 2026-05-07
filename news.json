@@ -1,7 +1,231 @@
 {
-  "updated": "2026년 5월 5일 AM 07:34",
-  "count": 99,
+  "updated": "2026년 5월 7일 AM 09:47",
+  "count": 113,
   "articles": [
+    {
+      "category": "industry",
+      "title": "디자이너의 AI 활용법",
+      "summary": "디자이너가 AI를 활용하여 더 빠르게 아이디어를 구상하고 깊이 있는 검증을 수행하는 방법을 소개한다. Figma Make, Claude Code, MCP 등의 도구를 통해 초안 방향 설정부터 UT 세팅까지의 노하우를 공유한다.",
+      "summary_full": "디자이너가 AI를 활용하는 방법에 대해 설명한다. 이를 통해 고민의 속도를 높이고 검증의 깊이를 더할 수 있다. Figma Make, Claude Code, MCP와 같은 도구를 사용하여 초안 방향 잡기부터 사용자 테스트 세팅까지의 과정이 포함된다. AI의 활용이 디자인 프로세스에 미치는 긍정적인 영향을 강조한다.",
+      "keywords": [
+        "디자인",
+        "AI 활용",
+        "Figma"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T09:45:18.838Z",
+      "url": "https://www.bucketplace.com/post/2026-05-06-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-ai%EB%A5%BC-%EC%93%B0%EB%8A%94-%EB%B2%95-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B3%A0-%EB%8D%94-%EA%B9%8A%EA%B2%8C-%EA%B2%80%EC%A6%9D%ED%95%98%EA%B8%B0/",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "design",
+      "title": "20대부터 나이 드는 영상 제작",
+      "summary": "이 영상은 20대부터 나이 드는 과정을 시각적으로 표현하는 방법을 소개한다. GPT 이미지와 Seedance 기술을 활용하여 창의적인 콘텐츠를 제작하는 방법을 설명한다.",
+      "summary_full": "이 영상은 20대부터 나이 드는 과정을 시각적으로 표현하는 방법을 소개한다. GPT 이미지와 Seedance 기술을 활용하여 창의적인 콘텐츠를 제작하는 방법을 설명한다. 다양한 기술적 접근을 통해 나이 드는 과정을 효과적으로 전달할 수 있는 방법을 제시한다. 이를 통해 시청자들은 영상 제작의 새로운 가능성을 탐색할 수 있다.",
+      "keywords": [
+        "영상 제작",
+        "GPT 이미지",
+        "Seedance 기술"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T09:45:12.016Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-744/",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "frontend",
+      "title": "이미지 용량 줄이는 5가지 빠른 방법",
+      "summary": "이메일로 사진을 보내야 하지만 용량이 너무 커서 문제가 발생할 수 있다. 이 기사에서는 이미지 파일 크기를 줄이는 다양한 방법을 소개한다.",
+      "summary_full": "이메일 첨부파일의 용량 제한이나 웹사이트 업로드 제한 때문에 이미지 파일 크기를 줄이는 방법이 필요하다. 이 기사에서는 이미지의 MB를 줄이는 5가지 빠른 방법을 설명한다. 파일 크기와 해상도를 조절하는 방법이 포함되어 있다. 간단한 팁을 통해 이미지 용량을 효과적으로 줄일 수 있다.",
+      "keywords": [
+        "이미지 압축",
+        "파일 크기 줄이기",
+        "사진 최적화"
+      ],
+      "source": "dev.to",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T09:32:23.000Z",
+      "url": "https://dev.to/pixotter/how-to-make-an-image-mb-smaller-5-fast-methods-47h",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "trend",
+      "title": "모두가 저렴한 유선 헤드폰을 여행할 때 가져가야 하는 이유",
+      "summary": "블루투스 헤드폰의 배터리를 잊고 충전하지 않는 일이 빈번하다. 저렴한 유선 헤드폰을 가지고 다니는 것이 유용하다.",
+      "summary_full": "여행 중 블루투스 헤드폰의 배터리를 잊고 충전하지 않는 것은 흔한 일이다. 이로 인해 음악이나 영화를 즐길 수 없는 상황이 발생할 수 있다. 저렴한 유선 헤드폰을 함께 가져가면 이러한 문제를 피할 수 있다. 따라서 여행 시 유선 헤드폰을 챙기는 것이 좋다.",
+      "keywords": [
+        "여행",
+        "유선 헤드폰",
+        "블루투스 헤드폰"
+      ],
+      "source": "wired.com",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T09:31:00.000Z",
+      "url": "https://www.wired.com/story/cheap-wired-headphones-rave/",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "trend",
+      "title": "텍스트 필드가 새로운 대시보드가 되다",
+      "summary": "텍스트 필드는 사용자 인터페이스에서 중요한 역할을 하며, 데이터 입력과 상호작용을 간소화한다. 이는 개발자와 사용자 간의 소통을 더욱 원활하게 만든다.",
+      "summary_full": "최근 텍스트 필드가 대시보드의 역할을 대체하고 있다는 주장이 제기되고 있다. 텍스트 필드는 단순한 데이터 입력을 넘어, 사용자 경험을 개선하는 데 기여한다. 이를 통해 개발자들은 더 직관적이고 효율적인 인터페이스를 제공할 수 있다. 결국, 텍스트 필드는 현대 웹 애플리케이션의 핵심 요소로 자리잡고 있다.",
+      "keywords": [
+        "텍스트 필드",
+        "대시보드",
+        "사용자 경험"
+      ],
+      "source": "dev.to",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T09:17:56.000Z",
+      "url": "https://dev.to/vedangvatsa/the-text-field-is-the-new-dashboard-51bo",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "industry",
+      "title": "퀀텀 모션, EU의 첫 대규모 투자 유치",
+      "summary": "런던에 본사를 둔 퀀텀 모션이 EU의 첫 대규모 후속 투자로 1억 6천만 달러를 유치했다. 이 투자는 포스트 브렉시트 이후 발표된 유럽연합의 새로운 Scaleup Europe Fund의 첫 투자로 주목받고 있다.",
+      "summary_full": "퀀텀 모션은 실리콘-CMOS 스핀 큐비트를 개발하는 회사로, 유럽 양자 하드웨어 분야에서 기술적 신뢰도가 높다. 이번 투자는 EU의 첫 대규모 후속 투자로, 런던에 본사를 둔 이 회사에 1억 6천만 달러가 투자된다. Scaleup Europe Fund는 유럽연합의 새로운 투자 기금으로, 포스트 브렉시트 이후 첫 번째 투자를 발표했다. 이로 인해 유럽의 양자 기술 발전에 긍정적인 영향을 미칠 것으로 기대된다.",
+      "keywords": [
+        "퀀텀 모션",
+        "EU 투자",
+        "양자 하드웨어"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T08:39:03.000Z",
+      "url": "https://thenextweb.com/news/quantum-motion-160m-eu-scaleup-europe-fund-first-investment",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "industry",
+      "title": "첫 번째 기쁨의 맛",
+      "summary": "프라이와 치킨, 초보자의 마음이 기쁜 디자인의 첫 번째 수업이 되었다. 이 경험을 통해 디자인의 즐거움을 배웠다.",
+      "summary_full": "프라이와 치킨, 그리고 초보자의 마음이 만나 기쁜 디자인의 첫 수업을 경험했다. 이 과정에서 단순한 음식이 어떻게 기쁨을 줄 수 있는지를 깨달았다. 디자인의 즐거움은 일상 속 작은 것들에서 시작될 수 있음을 보여준다. 기쁜 디자인은 우리의 경험을 풍부하게 만들어준다.",
+      "keywords": [
+        "기쁜 디자인",
+        "UX 디자인",
+        "일상 경험"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T05:57:29.000Z",
+      "url": "https://uxdesign.cc/the-first-taste-of-joy-02f81408ac8a?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "ai",
+      "title": "사이냅소프트, AI 데이터 처리 서비스 출시",
+      "summary": "사이냅소프트가 LLM과 RAG 데이터 처리를 자동화하는 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이고 사용자 편의를 제공하는 것을 목표로 한다.",
+      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 대규모 언어 모델(LLM)과 회수 증강 생성(RAG) 기술을 활용하여 데이터 처리 과정을 간소화한다. 이를 통해 기업들은 데이터 관리의 효율성을 높이고, 보다 나은 의사결정을 지원받을 수 있다. 사이냅소프트는 이 서비스를 통해 사용자에게 더 나은 경험을 제공하고자 한다.",
+      "keywords": [
+        "사이냅소프트",
+        "AI Data Foundry",
+        "데이터 처리 자동화"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T01:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jR25STlpXTHFSU1dTc3prYWVKMV83aUJQbGNhSk04X1JZQ2JWeU56SHRUeGhzRFoyZWszaURyM2FSeV9tTUtVSzl5Zm55eUVuR3V0VUQzc05ZM1RkTHhYXzNjLWR4Sm1IV1E?oc=5",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude 사용자에게 SpaceX 슈퍼컴퓨터 활용",
+      "summary": "Anthropic은 Claude 사용자에게 더 넓은 작업 공간을 제공하기 위해 SpaceX의 슈퍼컴퓨터를 활용하고 있다. 이로 인해 사용자 경험이 향상될 것으로 기대된다.",
+      "summary_full": "Anthropic은 AI 모델인 Claude의 사용자들에게 더 넓은 작업 공간을 제공하기 위해 SpaceX의 슈퍼컴퓨터를 활용하고 있다. 이 협력은 Claude의 성능을 개선하고 사용자 경험을 향상시키기 위한 노력의 일환이다. SpaceX의 슈퍼컴퓨터는 고성능 컴퓨팅을 통해 더 빠르고 효율적인 작업 처리를 가능하게 한다. 이러한 기술적 발전은 AI 분야에서의 경쟁력을 높이는 데 기여할 것으로 보인다.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "SpaceX 슈퍼컴퓨터"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 6일",
+      "publishedAt": "2026-05-06T23:12:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WaFMzVDd3Q08wOUlmRTZpZ2F1TUNyTEdUMm95NHAxYjkyMHZKNkZiTWNuNlpMdHozUWtIOG85V0d0UWl0NU1pdEhkeTE4dGxJYUZzczV4LV9VNEM1YzhZT0dtdW1ZUWM4Mnh2d3I5QUxqOTdPd0lCNWEtMGhlZw?oc=5",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "frontend",
+      "title": "구글의 프롬프트 API",
+      "summary": "구글이 크롬 사용자에게 Gemini Nano를 자동으로 전송하고 있다. 이는 독립 제품이지만 크롬의 일부로 간주되고 있다.",
+      "summary_full": "구글이 크롬 사용자에게 Gemini Nano라는 4GB 전송 파일을 허가 없이 자동으로 배포하고 있다. 사용자가 이를 제거하면 크롬이 다시 다운로드한다. Gemini Nano는 독립적인 제품이지만 현재 크롬의 일부로 간주되고 있는 것으로 보인다. 이러한 변화의 이유는 명확하지 않다.",
+      "keywords": [
+        "구글",
+        "크롬",
+        "Gemini Nano"
+      ],
+      "source": "css-tricks.com",
+      "date": "5월 6일",
+      "publishedAt": "2026-05-06T19:41:29.000Z",
+      "url": "https://css-tricks.com/googles-prompt-api/",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "ai",
+      "title": "vLLM V0에서 V1로: RL에서 수정 이전의 정확성",
+      "summary": "vLLM의 버전 업그레이드 과정에서 정확성을 우선시하는 접근 방식을 다룬다. 이 과정은 강화 학습(RL)에서의 성능 향상에 기여한다.",
+      "summary_full": "vLLM의 버전 0에서 버전 1로의 전환 과정은 정확성을 강조하는 것이 핵심이다. 이 연구는 강화 학습(RL)에서의 오류 수정 이전에 정확한 결과를 도출하는 방법을 제시한다. 이를 통해 vLLM의 성능이 어떻게 개선되는지를 설명한다. 최종적으로, 이러한 접근 방식은 RL의 효율성을 높이는 데 중요한 역할을 한다.",
+      "keywords": [
+        "vLLM",
+        "강화 학습",
+        "정확성"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "5월 6일",
+      "publishedAt": "2026-05-06T19:06:55.000Z",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "design",
+      "title": "로컬 우선 웹 개발의 구조",
+      "summary": "프로젝트 관리 도구를 시연하기 전날, 호텔 Wi-Fi 문제로 앱이 작동하지 않는 상황을 경험했다. 이 사건은 로컬 우선 접근 방식의 필요성을 강조한다.",
+      "summary_full": "지난 10월, 리스본의 호텔에서 프로젝트 관리 도구를 시연하기 전날 Wi-Fi 문제로 앱이 작동하지 않았다. 이로 인해 빈 화면과 타임아웃 오류를 경험하며, 팀이 4개월 동안 노력한 결과물이 제대로 작동하지 않는 상황을 목격했다. 이러한 경험은 로컬 우선 웹 개발의 중요성을 깨닫게 했다. 로컬 우선 접근 방식은 인터넷 연결이 불안정한 상황에서도 사용자에게 원활한 경험을 제공할 수 있다.",
+      "keywords": [
+        "로컬 우선",
+        "웹 개발",
+        "프로젝트 관리 도구"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "5월 6일",
+      "publishedAt": "2026-05-06T10:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "industry",
+      "title": "클라우드 빅3, 1분기 실적 분석",
+      "summary": "이번 주간 리포트에서는 클라우드 빅3의 1분기 실적을 다루고 있습니다. IT 분야의 주요 이슈와 트렌드를 확인할 수 있습니다.",
+      "summary_full": "바이라인 주간 프리미엄 트렌드 리포트 459호에서는 클라우드 빅3의 1분기 실적을 심층 분석합니다. 전기·전자, 인터넷·콘텐츠·게임 등 다양한 IT 분야의 핫토픽과 이슈를 다루고 있습니다. 독자들은 이번 호를 통해 최신 트렌드와 주요 이슈를 놓치지 않고 확인할 수 있습니다. 딥다이브 섹션에서 더욱 자세한 내용을 확인하세요.",
+      "keywords": [
+        "클라우드",
+        "1분기 실적",
+        "IT 이슈"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 6일",
+      "publishedAt": "2026-05-06T04:53:22.000Z",
+      "url": "https://byline.network/2026/05/6-382/",
+      "collectedAt": "2026-05-07"
+    },
+    {
+      "category": "ai",
+      "title": "챗GPT 미래 인재 2026학번 소개",
+      "summary": "챗GPT 미래 인재 2026학번은 AI를 활용해 실제 세계에 영향을 미치는 혁신적인 학생들입니다. 이 세대는 챗GPT와 함께 학습, 창의성, 기회의 정의를 새롭게 하고 있습니다.",
+      "summary_full": "챗GPT 미래 인재 2026학번은 26명의 학생 혁신가들로 구성되어 있습니다. 이들은 AI를 통해 연구하고 실제 세계에 긍정적인 영향을 미치고 있습니다. 챗GPT와 함께 이들은 학습과 창의성의 새로운 패러다임을 제시하고 있습니다. 이 프로그램은 미래의 기회를 재정의하는 데 중점을 두고 있습니다.",
+      "keywords": [
+        "챗GPT",
+        "학생 혁신가",
+        "AI 활용"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 6일",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "collectedAt": "2026-05-07"
+    },
     {
       "category": "industry",
       "title": "디자이너의 감각과 AI의 만남",
@@ -81,6 +305,22 @@
       "publishedAt": "2026-05-05T05:00:00.000Z",
       "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
       "collectedAt": "2026-05-05"
+    },
+    {
+      "category": "figma",
+      "title": "Figma 최신 업데이트",
+      "summary": "Figma의 최신 업데이트를 다룬 릴리스 노트를 소개합니다. AI 에이전트와 함께 협업하여 디자인 시스템을 코드와 연결하고, 프로토타입을 발전시키는 방법을 보여줍니다.",
+      "summary_full": "Figma의 최신 릴리스 노트에서는 AI 에이전트와 협업하여 제품 팀들이 어떻게 디자인하는지를 보여주는 라이브 데모를 포함하고 있습니다. 이 업데이트는 프로토타입을 더욱 발전시키고, 디자인 시스템을 코드에 연결하며, 아이디어를 빠르게 실현할 수 있는 방법을 제공합니다. 이를 통해 사용자들은 더 나은 디자인 작업을 수행할 수 있습니다. Figma의 혁신적인 기능을 통해 협업의 새로운 가능성을 탐색해보세요.",
+      "keywords": [
+        "Figma",
+        "AI 에이전트",
+        "디자인 시스템"
+      ],
+      "source": "Figma Release Notes",
+      "date": "5월 5일",
+      "publishedAt": "2026-05-05T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-05-07"
     },
     {
       "category": "industry",
@@ -611,22 +851,6 @@
       "collectedAt": "2026-05-03"
     },
     {
-      "category": "figma",
-      "title": "피그마 데스크탑 앱에서 파일 간 원활하게 이동하기",
-      "summary": "피그마 데스크탑 앱에서 파일 간 이동 시 지연 없이 빠르게 작업할 수 있습니다. 링크는 현재 위치에서 열리고, 최근 작업은 쉽게 검색할 수 있으며, 다음 작업은 미리 로드됩니다.",
-      "summary_full": "피그마 데스크탑 앱에서 파일 간 이동 시 지연 없이 빠르게 작업할 수 있습니다. 링크는 현재 위치에서 열리고, 최근 작업은 쉽게 검색할 수 있습니다. 또한, 다음 작업은 미리 로드되어 사용자가 이동하기 전에 준비됩니다. 탭 오버플로우 메뉴에서 이름으로 열린 탭과 최근 닫은 탭을 검색할 수 있습니다.",
-      "keywords": [
-        "피그마",
-        "파일 이동",
-        "사용자 경험"
-      ],
-      "source": "Figma Release Notes",
-      "date": "5월 1일",
-      "publishedAt": "2026-05-01T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-05"
-    },
-    {
       "category": "industry",
       "title": "색 이론에 혼란스러운 생성 AI",
       "summary": "이 기사는 색 이론을 이해하는 데 어려움을 겪는 생성 AI의 관점을 다룬다. 접근 가능한 지각 균일 삼각형을 구축하기 위한 방법론을 제시한다.",
@@ -660,19 +884,19 @@
     },
     {
       "category": "ai",
-      "title": "AI 공동 임상의사로 의료 혁신하기",
-      "summary": "AI를 활용한 의료 모델 개발에 대한 연구를 다룬다. AI 공동 임상의사와 함께하는 향상된 진료 경로를 모색한다.",
-      "summary_full": "이 기사는 AI를 활용한 새로운 의료 모델을 개발하는 과정을 탐구한다. AI 공동 임상의사는 의료진과 협력하여 환자 치료를 지원하는 역할을 한다. 연구는 AI가 어떻게 진료를 향상시킬 수 있는지를 분석한다. 궁극적으로 AI의 도입이 의료 서비스의 질을 높이는 데 기여할 것으로 기대된다.",
+      "title": "AI 공동 임상의 도입으로 혁신하는 헬스케어 모델",
+      "summary": "AI를 활용한 의료 서비스의 발전 경로를 연구한다. AI 공동 임상의 개발을 통해 헬스케어의 새로운 모델을 제시한다.",
+      "summary_full": "AI를 활용한 헬스케어의 발전 경로를 탐구하고 있다. 연구는 AI 공동 임상의 개발에 초점을 맞추고 있다. 이를 통해 의료 서비스의 질을 향상시키고 환자 치료를 지원하는 새로운 모델을 제안한다. AI와의 협력을 통해 의료진의 역량을 강화하는 방향으로 나아가고 있다.",
       "keywords": [
         "AI",
-        "의료 혁신",
-        "공동 임상의사"
+        "헬스케어",
+        "공동 임상"
       ],
       "source": "Google DeepMind Blog",
       "date": "4월 30일",
       "publishedAt": "2026-04-30T12:14:15.000Z",
       "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "collectedAt": "2026-05-05"
+      "collectedAt": "2026-05-07"
     },
     {
       "category": "design",
@@ -788,9 +1012,9 @@
     },
     {
       "category": "ai",
-      "title": "클로드에게 개인적 조언 요청하는 방법",
-      "summary": "사람들이 클로드에게 개인적인 조언을 요청하는 방식에 대해 다룬다. 이 글은 사회적 영향과 관련된 내용을 포함하고 있다.",
-      "summary_full": "클로드는 개인적 조언을 제공하는 AI로, 사람들은 다양한 방법으로 그에게 도움을 요청한다. 이러한 요청 방식은 사회적 상호작용에 큰 영향을 미치고 있다. 이 글에서는 사람들이 클로드에게 접근하는 방식과 그로 인한 사회적 변화에 대해 논의한다. 클로드의 역할이 개인의 결정과 삶에 미치는 영향을 탐구한다.",
+      "title": "클로드에게 개인적인 조언을 요청하는 방법",
+      "summary": "사람들이 클로드에게 개인적인 조언을 요청하는 방식에 대해 다룬다. 이 과정에서 사회적 영향도 함께 논의된다.",
+      "summary_full": "클로드는 개인적인 조언을 제공하는 AI로, 사용자들은 다양한 방법으로 그의 도움을 요청한다. 이 글에서는 사람들이 클로드에게 접근하는 방식과 그로 인해 발생하는 사회적 영향을 탐구한다. 또한, 이러한 상호작용이 개인의 삶에 미치는 긍정적 및 부정적 측면을 분석한다. AI와의 소통이 개인화된 조언을 어떻게 변화시키고 있는지에 대한 통찰을 제공한다.",
       "keywords": [
         "클로드",
         "개인적 조언",
@@ -800,7 +1024,7 @@
       "date": "4월 30일",
       "publishedAt": "2026-04-30T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-personal-guidance",
-      "collectedAt": "2026-05-05"
+      "collectedAt": "2026-05-07"
     },
     {
       "category": "ai",
@@ -1029,8 +1253,8 @@
     {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 제공한다. 또한 Le Chat의 새로운 작업 모드가 복잡한 작업을 지원한다.",
-      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 도입한다. 이를 통해 사용자들은 보다 효율적으로 작업을 수행할 수 있다. 또한 Le Chat에 새롭게 추가된 작업 모드는 복잡한 작업을 보다 쉽게 처리할 수 있도록 돕는다. 이로 인해 팀의 생산성이 향상될 것으로 기대된다.",
+      "summary": "Mistral Medium 3.5와 Vibe의 원격 코딩 에이전트를 소개합니다. 복잡한 작업을 위한 Le Chat의 새로운 작업 모드도 추가되었습니다.",
+      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 지원합니다. 이를 통해 사용자들은 더 효율적으로 작업을 수행할 수 있습니다. 또한, Le Chat에서는 복잡한 작업을 위한 새로운 작업 모드가 도입되었습니다. 이로 인해 팀워크와 생산성이 향상될 것으로 기대됩니다.",
       "keywords": [
         "원격 에이전트",
         "Mistral Medium 3.5",
@@ -1040,7 +1264,7 @@
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-05"
+      "collectedAt": "2026-05-07"
     },
     {
       "category": "ai",
@@ -1449,34 +1673,34 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 좋은 웹사이트를 만들기 위한 과제를 제시한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글에서는 디자이너들이 이를 어떻게 고려해야 하는지를 논의한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 실질적인 과제를 제시한다. 디자이너들은 본질적으로 좋은 사람들로, 이들은 웹사이트의 접근성을 중요하게 여겨야 한다. 개인적인 의견이지만, 이 주제에 대한 논의는 매우 중요하다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글은 디자이너들이 이를 어떻게 개선할 수 있는지에 대한 제안을 담고 있다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자들에게 숙제를 제시한다. 저자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 의견이 중요하다고 주장한다. 이 글은 웹사이트 디자인의 개선을 위한 실질적인 조언을 제공한다.",
       "keywords": [
         "접근성",
         "웹사이트 디자인",
-        "디자이너"
+        "디자이너 의견"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-05"
+      "collectedAt": "2026-05-07"
     },
     {
       "category": "frontend",
       "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 데이터 민주주의를 실현하고자 하였다. 이를 통해 팀원들이 데이터 전문가처럼 쉽게 필요한 데이터를 활용할 수 있도록 지원한다.",
-      "summary_full": "토스플레이스의 데이터 조직은 AI를 활용하여 데이터 접근성을 높이고, 팀원들이 필요한 데이터를 빠르게 확인할 수 있는 환경을 조성하고자 했다. 그 결과로 탄생한 데이터 분석 어시스턴트 ‘판다(PANDA)’는 Place Analytics & Data의 약자로, 데이터 민주주의를 실현하기 위한 도구로 개발되었다. 판다는 사용자가 대시보드에 접근하거나 요청을 기다리지 않고도 필요한 데이터를 즉시 활용할 수 있도록 돕는다. 이를 통해 모든 팀원이 데이터 전문가처럼 일할 수 있는 방법을 제시한다.",
+      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 업무를 수행할 수 있도록 지원합니다. AI를 활용해 필요한 데이터를 신속하게 확인할 수 있는 환경을 제공합니다.",
+      "summary_full": "토스플레이스의 데이터 조직은 데이터 민주주의를 실현하기 위해 AI 기반의 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발했습니다. 이 도구는 팀원들이 대시보드를 찾거나 요청을 기다리지 않고도 필요한 데이터를 즉시 사용할 수 있게 돕습니다. ‘판다’는 Place Analytics & Data의 약자로, 데이터 활용의 효율성을 높이는 데 기여합니다. 이를 통해 모든 팀원이 데이터 전문가처럼 일할 수 있는 환경을 조성하고자 합니다.",
       "keywords": [
         "토스플레이스",
         "데이터봇",
-        "판다"
+        "AI 데이터 분석"
       ],
       "source": "toss.tech",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T03:28:00.000Z",
       "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-05-05"
+      "collectedAt": "2026-05-07"
     },
     {
       "category": "ai",
@@ -1498,7 +1722,7 @@
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
       "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 기술 발전과 사용자 요구에 맞춰 변화하는 디자인 방향성을 제시합니다. 특히, 개인화, 접근성, 지속 가능성 등이 주요 키워드로 부각됩니다. 이러한 트렌드는 향후 UX 디자인의 패러다임을 변화시킬 것으로 예상됩니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드를 살펴봅니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시합니다. 각 트렌드는 사용자 경험을 향상시키기 위한 전략으로, 기업들이 주목해야 할 요소들입니다. UX 디자인의 미래를 이해하고 준비하는 데 도움이 될 것입니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -1508,7 +1732,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-05"
+      "collectedAt": "2026-05-07"
     },
     {
       "category": "ai",
