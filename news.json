@@ -1,22 +1,182 @@
 {
-  "updated": "2026년 5월 7일 AM 09:47",
-  "count": 113,
+  "updated": "2026년 5월 8일 AM 06:20",
+  "count": 125,
   "articles": [
     {
       "category": "industry",
       "title": "디자이너의 AI 활용법",
-      "summary": "디자이너가 AI를 활용하여 더 빠르게 아이디어를 구상하고 깊이 있는 검증을 수행하는 방법을 소개한다. Figma Make, Claude Code, MCP 등의 도구를 통해 초안 방향 설정부터 UT 세팅까지의 노하우를 공유한다.",
-      "summary_full": "디자이너가 AI를 활용하는 방법에 대해 설명한다. 이를 통해 고민의 속도를 높이고 검증의 깊이를 더할 수 있다. Figma Make, Claude Code, MCP와 같은 도구를 사용하여 초안 방향 잡기부터 사용자 테스트 세팅까지의 과정이 포함된다. AI의 활용이 디자인 프로세스에 미치는 긍정적인 영향을 강조한다.",
+      "summary": "디자이너들이 AI를 활용하여 작업 속도를 높이고 검증 과정을 심화하는 방법을 소개한다. Figma Make, Claude Code, MCP 등의 도구를 통해 초안 방향 설정과 UT 세팅을 효과적으로 수행할 수 있다.",
+      "summary_full": "디자이너들이 AI를 활용하여 더 빠르게 고민하고 깊이 있는 검증을 할 수 있는 방법을 다룬다. 초안 방향 잡기부터 유저 테스트 세팅까지 다양한 과정에서 AI 도구를 활용하는 노하우를 공유한다. Figma Make, Claude Code, MCP와 같은 도구를 통해 디자인 프로세스를 효율적으로 개선할 수 있다. 이 글은 디자이너들이 AI를 통해 작업의 질과 속도를 동시에 향상시킬 수 있는 방법을 제시한다.",
       "keywords": [
         "디자인",
         "AI 활용",
         "Figma"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 7일",
-      "publishedAt": "2026-05-07T09:45:18.838Z",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T06:18:51.226Z",
       "url": "https://www.bucketplace.com/post/2026-05-06-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-ai%EB%A5%BC-%EC%93%B0%EB%8A%94-%EB%B2%95-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B3%A0-%EB%8D%94-%EA%B9%8A%EA%B2%8C-%EA%B2%80%EC%A6%9D%ED%95%98%EA%B8%B0/",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "frontend",
+      "title": "로스앤젤레스의 AI 기반 모바일 앱 개발 회사",
+      "summary": "AI를 활용한 빠른 앱 출시가 중요하다. 하지만 실제로 작동하는 애플리케이션을 만드는 것은 확장 가능한 디지털 제품을 구축하는 것과 다르다.",
+      "summary_full": "오늘날 기업들은 전통적인 모바일 앱 개발 회사 이상의 것을 찾고 있다. 그들은 AI 기반 실행과 강력한 제품 사고, 확장 가능한 아키텍처를 결합한 파트너를 필요로 한다. 이러한 요구는 앱 개발의 복잡성을 반영한다. 따라서 AI를 활용한 앱 개발은 필수적인 요소로 자리 잡고 있다.",
+      "keywords": [
+        "AI",
+        "모바일 앱 개발",
+        "로스앤젤레스"
+      ],
+      "source": "dev.to",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T06:18:50.000Z",
+      "url": "https://dev.to/varsha_ojha_5b45cb023937b/top-ai-powered-mobile-app-development-company-in-los-angeles-43e1",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "design",
+      "title": "코덱스를 활용한 개인 음성 대화 앱 제작",
+      "summary": "코덱스를 이용하여 나만의 음성 대화 앱을 만드는 방법을 소개합니다. GPT-Realtime-2 기술을 활용하여 실시간 음성 대화를 구현하는 과정에 대해 설명합니다.",
+      "summary_full": "이 기사에서는 코덱스를 활용하여 개인화된 음성 대화 앱을 만드는 방법을 다룹니다. GPT-Realtime-2 기술을 통해 실시간으로 음성을 처리하고 대화할 수 있는 기능을 구현하는 과정을 설명합니다. 또한, 개발에 필요한 기본적인 설정과 코드 예시를 제공합니다. 최종적으로, 사용자 맞춤형 음성 대화 경험을 제공하는 앱을 만드는 데 필요한 모든 요소를 포괄적으로 안내합니다.",
+      "keywords": [
+        "코덱스",
+        "음성 대화 앱",
+        "GPT-Realtime-2"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T06:18:44.464Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-745/",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "trend",
+      "title": "히어로 섹션 UX: 올바른 제품 비주얼 선택을 위한 실용 체크리스트",
+      "summary": "랜딩 페이지의 히어로 섹션은 주목을 끌어야 행동을 요청할 수 있다. SaaS 팀과 제품 마케터에게 첫 화면은 제안을 이해하기 쉽고 신뢰할 수 있으며 행동하기 쉽게 만들어야 한다.",
+      "summary_full": "랜딩 페이지의 히어로 섹션은 사용자의 주목을 끌어야만 다음 행동을 유도할 수 있다. SaaS 팀과 제품 마케터에게 첫 화면은 제안을 명확하고 신뢰성 있게 전달해야 한다. Maverick Frame Studio에서는 이 과정에서 포지셔닝과 UI/UX 디자인이 중요하게 작용한다. 따라서 효과적인 제품 비주얼 선택을 위한 체크리스트가 필요하다.",
+      "keywords": [
+        "히어로 섹션",
+        "UX 디자인",
+        "랜딩 페이지"
+      ],
+      "source": "dev.to",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T06:00:00.000Z",
+      "url": "https://dev.to/maverickframe/hero-section-ux-a-practical-checklist-for-choosing-the-right-product-visual-4m0f",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "trend",
+      "title": "캔버스 해킹, 새로운 랜섬웨어 사태",
+      "summary": "미국 전역의 수천 개 학교가 해커 그룹 '샤이니헌터스'의 공격으로 교육 기술 회사 인스트럭처의 캔버스 플랫폼 접근이 차단되었다. 이로 인해 교육 시스템이 마비되었다.",
+      "summary_full": "미국의 수천 개 학교가 인스트럭처의 캔버스 플랫폼 접근 차단으로 큰 혼란을 겪었다. 이는 해커 그룹 '샤이니헌터스'의 공격으로 발생한 사건이다. 교육 기관들은 이로 인해 수업 및 행정 업무에 심각한 영향을 받았다. 랜섬웨어 공격이 교육 시스템에 미치는 위험성을 다시 한번 부각시켰다.",
+      "keywords": [
+        "랜섬웨어",
+        "해킹",
+        "교육 기술"
+      ],
+      "source": "wired.com",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T05:02:40.000Z",
+      "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "industry",
+      "title": "클로드 코드가 피그마 디자인 시스템을 따르게 만드는 방법",
+      "summary": "클로드 코드가 피그마 캔버스에 직접 작성할 수 있게 되어 디자인 시스템의 가치를 구현할 수 있다. 자연어로 인터페이스를 설명하면 픽셀 완벽한 결과물을 생성할 수 있다.",
+      "summary_full": "클로드 코드가 피그마 MCP를 통해 피그마 캔버스에 직접 작성할 수 있게 되었다. 이를 통해 디자인 시스템의 가치를 구현하고 반복할 수 있는 4가지 기술이 필요하다. 자연어로 인터페이스를 설명하면 클로드가 이를 시각적으로 생성하며, 결과물은 픽셀 완벽하게 만들어진다. 그러나 각 레이어를 클릭하면 색상이나 텍스트 정의가 정확하지 않은 경우가 발견된다.",
+      "keywords": [
+        "클로드 코드",
+        "피그마",
+        "디자인 시스템"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T22:43:14.000Z",
+      "url": "https://uxdesign.cc/how-to-make-claude-code-follow-your-design-system-in-figma-559618cffaa9?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "industry",
+      "title": "제프 베조스의 대표가 14억 달러를 모금한 스타트업 이사회에서 퇴임",
+      "summary": "제프 베조스와 연결된 전기차 스타트업의 이사 멜린다 루이슨이 퇴임했다. 첫 트럭이 출시되기 전 이사회에서의 퇴임이 주목받고 있다.",
+      "summary_full": "제프 베조스와 가장 야심찬 전기차 스타트업 중 하나인 슬레이트 오토의 이사 멜린다 루이슨이 이사회에서 퇴임했다. 그녀는 베조스 가족 사무소를 관리하며 스타트업의 이사로 등록되어 있었다. 첫 트럭이 출시되기 몇 달 전 퇴임한 것이 주목받고 있다. 이 이야기는 더 넥스트 웹에서 계속된다.",
+      "keywords": [
+        "제프 베조스",
+        "슬레이트 오토",
+        "전기차 스타트업"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T20:31:22.000Z",
+      "url": "https://thenextweb.com/news/slate-auto-bezos-board-departure-ev-truck",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "ai",
+      "title": "꿈꾸는 Claude AI 에이전트 공개",
+      "summary": "Anthropic이 경험 학습을 통해 자율성을 강화한 Claude AI 에이전트를 공개했다. 이는 OpenAI 등 경쟁사와의 기업 채택 경쟁을 가속화하는 트렌드를 반영한다.",
+      "summary_full": "Anthropic이 새로운 Claude AI 에이전트를 공개하며 경험 학습 기능을 추가했다. 이 에이전트는 자율성을 강화하여 다양한 금융 업무에 활용될 수 있다. 이러한 변화는 OpenAI와 같은 경쟁사와의 경쟁을 더욱 치열하게 만들고 있다. 최근 공개된 금융 에이전트와 함께 AI 기술의 발전을 보여준다.",
+      "keywords": [
+        "Claude AI",
+        "경험 학습",
+        "자율성 강화"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T15:40:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1yYjdfVGZSOERCNW1KZTJaTFR3amYyM3htU3Rva2hudXRsNDJLQ1gwWHpTRC14X2p3ZzRDcEJoZ3o?oc=5",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "frontend",
+      "title": "2026년 어머니의 날을 위한 스크롤텔링 선물",
+      "summary": "어머니는 논리를 사랑하셨고, 힘든 시대에 태어나셨습니다. 2011년 암으로 세상을 떠나셨지만, 이번 어머니의 날에 그녀를 기억하고자 합니다.",
+      "summary_full": "어머니는 1945년, 제2차 세계대전이 끝난 해에 태어나셨습니다. 그녀는 기근, 인종차별, 불행과 싸우며 살아왔고, 결국 2011년에 암으로 세상을 떠나셨습니다. 하지만 이번 어머니의 날을 맞아 그녀의 기억을 되살리고자 합니다. 스크롤텔링 형식으로 그녀의 이야기를 전하려 합니다.",
+      "keywords": [
+        "어머니의 날",
+        "스크롤텔링",
+        "기억"
+      ],
+      "source": "css-tricks.com",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T14:22:38.000Z",
+      "url": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "industry",
+      "title": "AI 시대 생존법",
+      "summary": "인간의 문제 해결 역할이 문제 제기로 변화하고 있다. 비즈니스 성공을 위해서는 남들이 보지 못하는 문제를 발견하는 능력이 중요하다.",
+      "summary_full": "인공지능(AI) 시대에 인간의 역할이 문제 해결에서 문제 제기로 이동하고 있다. 이제는 정답을 찾는 것보다 문제를 발견하는 능력이 비즈니스의 성패를 좌우한다. 이러한 변화 속에서 인간이 가져야 할 역량은 비관론적 사고로, 기본 상식에 반하는 시각이 필요하다는 주장이 제기되었다.",
+      "keywords": [
+        "AI 시대",
+        "문제 해결",
+        "비관론"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T13:43:57.000Z",
+      "url": "https://byline.network/2026/05/0507-2/",
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "ai",
+      "title": "GPT-5.5와 GPT-5.5-Cyber를 통한 사이버 신뢰 접근 확장",
+      "summary": "OpenAI가 GPT-5.5와 GPT-5.5-Cyber를 통해 사이버 신뢰 접근을 확장합니다. 이는 검증된 방어자들이 취약점 연구를 가속화하고 중요한 인프라를 보호하는 데 도움을 줍니다.",
+      "summary_full": "OpenAI가 GPT-5.5와 GPT-5.5-Cyber를 통해 사이버 신뢰 접근을 확장합니다. 이 새로운 기능은 검증된 방어자들이 사이버 공격에 대한 취약점 연구를 더욱 신속하게 수행할 수 있도록 지원합니다. 또한, 중요한 인프라를 보호하는 데 필수적인 역할을 합니다. 이를 통해 사이버 보안의 신뢰성을 높이는 데 기여하고 있습니다.",
+      "keywords": [
+        "GPT-5.5",
+        "사이버 보안",
+        "취약점 연구"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T13:00:00.000Z",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "design",
@@ -116,9 +276,9 @@
     },
     {
       "category": "ai",
-      "title": "사이냅소프트, AI 데이터 처리 서비스 출시",
-      "summary": "사이냅소프트가 LLM과 RAG 데이터 처리를 자동화하는 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이고 사용자 편의를 제공하는 것을 목표로 한다.",
-      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 대규모 언어 모델(LLM)과 회수 증강 생성(RAG) 기술을 활용하여 데이터 처리 과정을 간소화한다. 이를 통해 기업들은 데이터 관리의 효율성을 높이고, 보다 나은 의사결정을 지원받을 수 있다. 사이냅소프트는 이 서비스를 통해 사용자에게 더 나은 경험을 제공하고자 한다.",
+      "title": "사이냅소프트, AI 데이터 처리 자동화 서비스 출시",
+      "summary": "사이냅소프트가 LLM과 RAG 기반의 데이터 처리 자동화 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 관리의 효율성을 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 LLM(대형 언어 모델)과 RAG(정보 검색 기반 생성 모델)를 활용하여 데이터 처리 과정을 자동화한다. 이를 통해 기업들은 데이터 관리의 효율성을 크게 향상시킬 수 있을 것으로 보인다. 사이냅소프트는 이 서비스를 통해 다양한 산업 분야에서의 데이터 활용을 지원할 계획이다.",
       "keywords": [
         "사이냅소프트",
         "AI Data Foundry",
@@ -128,7 +288,23 @@
       "date": "5월 7일",
       "publishedAt": "2026-05-07T01:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jR25STlpXTHFSU1dTc3prYWVKMV83aUJQbGNhSk04X1JZQ2JWeU56SHRUeGhzRFoyZWszaURyM2FSeV9tTUtVSzl5Zm55eUVuR3V0VUQzc05ZM1RkTHhYXzNjLWR4Sm1IV1E?oc=5",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽 연구소의 정책 초점 분야",
+      "summary": "앤트로픽 연구소의 정책 초점 분야에 대한 논의가 진행된다. 2026년 5월 7일에 발표된 이 내용은 연구소의 미래 방향성을 제시한다.",
+      "summary_full": "앤트로픽 연구소는 2026년 5월 7일에 정책 초점 분야를 발표하였다. 이 발표는 연구소의 연구 및 개발 방향성을 설정하는 데 중요한 역할을 한다. 정책 초점 분야는 인공지능과 관련된 윤리적, 사회적 문제를 다룰 예정이다. 이를 통해 연구소는 지속 가능한 기술 발전을 도모하고자 한다.",
+      "keywords": [
+        "앤트로픽 연구소",
+        "정책 초점",
+        "인공지능 윤리"
+      ],
+      "source": "Anthropic Research",
+      "date": "5월 7일",
+      "publishedAt": "2026-05-07T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/anthropic-institute-agenda",
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "ai",
@@ -165,8 +341,8 @@
     {
       "category": "ai",
       "title": "vLLM V0에서 V1로: RL에서 수정 이전의 정확성",
-      "summary": "vLLM의 버전 업그레이드 과정에서 정확성을 우선시하는 접근 방식을 다룬다. 이 과정은 강화 학습(RL)에서의 성능 향상에 기여한다.",
-      "summary_full": "vLLM의 버전 0에서 버전 1로의 전환 과정은 정확성을 강조하는 것이 핵심이다. 이 연구는 강화 학습(RL)에서의 오류 수정 이전에 정확한 결과를 도출하는 방법을 제시한다. 이를 통해 vLLM의 성능이 어떻게 개선되는지를 설명한다. 최종적으로, 이러한 접근 방식은 RL의 효율성을 높이는 데 중요한 역할을 한다.",
+      "summary": "vLLM의 버전 0에서 1로의 발전 과정에서 RL의 정확성을 강조한다. 수정 작업보다 정확성을 우선시하는 접근 방식을 다룬다.",
+      "summary_full": "vLLM의 버전 0에서 1로의 전환 과정에서, 강화 학습(RL)에서의 정확성을 중시하는 중요성을 설명한다. 이 과정에서는 수정 작업을 진행하기 전에 정확성을 확보하는 것이 필수적임을 강조한다. 이러한 접근은 모델의 신뢰성을 높이고, 최종 성능을 개선하는 데 기여한다. 따라서, vLLM의 발전은 단순한 수정이 아닌 근본적인 정확성 확보에 중점을 두고 있다.",
       "keywords": [
         "vLLM",
         "강화 학습",
@@ -176,13 +352,29 @@
       "date": "5월 6일",
       "publishedAt": "2026-05-06T19:06:55.000Z",
       "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "ai",
+      "title": "알파이볼브: 제미니 기반 코딩 에이전트의 영향력 확장",
+      "summary": "알파이볼브의 제미니 기반 알고리즘이 비즈니스, 인프라, 과학 분야에서의 영향을 확대하고 있다. 이 기술이 다양한 분야에서 어떻게 활용되고 있는지 살펴본다.",
+      "summary_full": "알파이볼브는 제미니 기반 알고리즘을 통해 비즈니스, 인프라, 과학 등 여러 분야에서 긍정적인 영향을 미치고 있다. 이 코딩 에이전트는 각 분야의 문제를 해결하고 효율성을 높이는 데 기여하고 있다. 기술의 발전이 어떻게 다양한 산업에 적용되고 있는지를 탐구한다. 알파이볼브의 혁신적인 접근 방식은 앞으로의 발전 가능성을 제시한다.",
+      "keywords": [
+        "알파이볼브",
+        "제미니",
+        "코딩 에이전트"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "5월 6일",
+      "publishedAt": "2026-05-06T10:43:49.000Z",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "design",
       "title": "로컬 우선 웹 개발의 구조",
-      "summary": "프로젝트 관리 도구를 시연하기 전날, 호텔 Wi-Fi 문제로 앱이 작동하지 않는 상황을 경험했다. 이 사건은 로컬 우선 접근 방식의 필요성을 강조한다.",
-      "summary_full": "지난 10월, 리스본의 호텔에서 프로젝트 관리 도구를 시연하기 전날 Wi-Fi 문제로 앱이 작동하지 않았다. 이로 인해 빈 화면과 타임아웃 오류를 경험하며, 팀이 4개월 동안 노력한 결과물이 제대로 작동하지 않는 상황을 목격했다. 이러한 경험은 로컬 우선 웹 개발의 중요성을 깨닫게 했다. 로컬 우선 접근 방식은 인터넷 연결이 불안정한 상황에서도 사용자에게 원활한 경험을 제공할 수 있다.",
+      "summary": "프로젝트 관리 도구를 시연하기 전날, 리스본의 호텔에서 Wi-Fi 문제로 앱이 작동하지 않는 상황을 경험했다. 이로 인해 로컬 우선 개발 방식의 중요성을 깨닫게 되었다.",
+      "summary_full": "지난 10월, 리스본의 호텔에서 프로젝트 관리 도구를 시연하기 전날 Wi-Fi 문제로 앱이 작동하지 않는 상황을 겪었다. 이 경험은 내가 자랑스럽게 생각했던 앱이 빈 화면과 타임아웃 오류를 보여주면서 발생했다. 결국, 로컬 우선 개발 방식의 필요성을 느끼게 되었다. 이러한 접근 방식은 인터넷 연결이 불안정한 상황에서도 사용자 경험을 개선할 수 있는 방법을 제시한다.",
       "keywords": [
         "로컬 우선",
         "웹 개발",
@@ -192,7 +384,7 @@
       "date": "5월 6일",
       "publishedAt": "2026-05-06T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "industry",
@@ -308,11 +500,11 @@
     },
     {
       "category": "figma",
-      "title": "Figma 최신 업데이트",
-      "summary": "Figma의 최신 업데이트를 다룬 릴리스 노트를 소개합니다. AI 에이전트와 함께 협업하여 디자인 시스템을 코드와 연결하고, 프로토타입을 발전시키는 방법을 보여줍니다.",
-      "summary_full": "Figma의 최신 릴리스 노트에서는 AI 에이전트와 협업하여 제품 팀들이 어떻게 디자인하는지를 보여주는 라이브 데모를 포함하고 있습니다. 이 업데이트는 프로토타입을 더욱 발전시키고, 디자인 시스템을 코드에 연결하며, 아이디어를 빠르게 실현할 수 있는 방법을 제공합니다. 이를 통해 사용자들은 더 나은 디자인 작업을 수행할 수 있습니다. Figma의 혁신적인 기능을 통해 협업의 새로운 가능성을 탐색해보세요.",
+      "title": "피그마 최신 업데이트",
+      "summary": "피그마의 최신 업데이트를 다룬 릴리스 노트를 소개합니다. AI 에이전트와 함께 협업하여 디자인 시스템을 코드에 연결하고, 프로토타입을 발전시키는 방법을 보여줍니다.",
+      "summary_full": "피그마의 최신 릴리스 노트에서는 AI 에이전트와 협업하는 방법을 포함한 새로운 업데이트를 소개합니다. 주요 제품 팀들이 어떻게 공동 디자인을 진행하는지에 대한 라이브 데모도 포함되어 있습니다. 이 업데이트는 디자인 시스템을 코드에 연결하고, 프로토타입을 더욱 발전시키며, 아이디어를 신속하게 실현하는 방법을 제공합니다. 피그마를 통해 더 나은 결과물을 만들어낼 수 있는 기회를 제공합니다.",
       "keywords": [
-        "Figma",
+        "피그마",
         "AI 에이전트",
         "디자인 시스템"
       ],
@@ -320,7 +512,7 @@
       "date": "5월 5일",
       "publishedAt": "2026-05-05T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "industry",
@@ -1253,8 +1445,8 @@
     {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5와 Vibe의 원격 코딩 에이전트를 소개합니다. 복잡한 작업을 위한 Le Chat의 새로운 작업 모드도 추가되었습니다.",
-      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 지원합니다. 이를 통해 사용자들은 더 효율적으로 작업을 수행할 수 있습니다. 또한, Le Chat에서는 복잡한 작업을 위한 새로운 작업 모드가 도입되었습니다. 이로 인해 팀워크와 생산성이 향상될 것으로 기대됩니다.",
+      "summary": "Mistral Medium 3.5와 함께 Vibe에서 원격 코딩 에이전트를 소개합니다. Le Chat의 새로운 작업 모드가 복잡한 작업을 지원합니다.",
+      "summary_full": "Mistral Medium 3.5가 Vibe에서 원격 코딩 에이전트를 도입합니다. 이 시스템은 효율적인 원격 작업을 가능하게 합니다. 또한, Le Chat에서는 복잡한 작업을 위한 새로운 작업 모드가 추가되었습니다. 이를 통해 사용자들은 더욱 다양한 작업을 수행할 수 있습니다.",
       "keywords": [
         "원격 에이전트",
         "Mistral Medium 3.5",
@@ -1264,7 +1456,7 @@
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "ai",
@@ -1673,34 +1865,34 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글은 디자이너들이 이를 어떻게 개선할 수 있는지에 대한 제안을 담고 있다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자들에게 숙제를 제시한다. 저자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 의견이 중요하다고 주장한다. 이 글은 웹사이트 디자인의 개선을 위한 실질적인 조언을 제공한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 책임과 역할에 대해 논의한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 디자이너들이 이를 간과해서는 안 된다. 이 글은 디자이너들이 직면한 과제를 제시하며, 그들의 선한 의도를 강조한다. 디자이너들은 혁신적인 아이디어를 제공하지만, 실질적인 실행이 필요하다. 이 글은 디자이너들에게 숙제를 제안하며, 그들의 역할을 재조명한다.",
       "keywords": [
-        "접근성",
-        "웹사이트 디자인",
-        "디자이너 의견"
+        "디자인",
+        "웹사이트",
+        "접근성"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "frontend",
       "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 업무를 수행할 수 있도록 지원합니다. AI를 활용해 필요한 데이터를 신속하게 확인할 수 있는 환경을 제공합니다.",
-      "summary_full": "토스플레이스의 데이터 조직은 데이터 민주주의를 실현하기 위해 AI 기반의 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발했습니다. 이 도구는 팀원들이 대시보드를 찾거나 요청을 기다리지 않고도 필요한 데이터를 즉시 사용할 수 있게 돕습니다. ‘판다’는 Place Analytics & Data의 약자로, 데이터 활용의 효율성을 높이는 데 기여합니다. 이를 통해 모든 팀원이 데이터 전문가처럼 일할 수 있는 환경을 조성하고자 합니다.",
+      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 데이터 접근성을 높이고 데이터 민주주의를 실현하고자 하였다.",
+      "summary_full": "토스플레이스의 데이터 조직은 AI를 활용하여 팀원들이 필요한 데이터를 즉시 확인할 수 있는 환경을 만들기 위해 ‘판다(PANDA)’를 개발하였다. 판다는 Place Analytics & Data의 약자로, 데이터 분석을 더 쉽게 할 수 있도록 돕는 역할을 한다. 이를 통해 모든 팀원이 데이터 전문가처럼 일할 수 있는 기회를 제공하고자 한다. 판다의 도입으로 데이터 분석의 효율성이 크게 향상될 것으로 기대된다.",
       "keywords": [
-        "토스플레이스",
         "데이터봇",
-        "AI 데이터 분석"
+        "AI",
+        "데이터 민주주의"
       ],
       "source": "toss.tech",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T03:28:00.000Z",
       "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "ai",
@@ -1722,7 +1914,7 @@
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
       "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드를 살펴봅니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시합니다. 각 트렌드는 사용자 경험을 향상시키기 위한 전략으로, 기업들이 주목해야 할 요소들입니다. UX 디자인의 미래를 이해하고 준비하는 데 도움이 될 것입니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 사용자 경험을 향상시키고, 기술의 발전에 따라 변화하는 소비자 요구를 반영합니다. 각 트렌드는 디자인의 접근성과 효율성을 높이는 데 중점을 두고 있습니다. 이러한 변화는 기업의 경쟁력에도 큰 영향을 미칠 것으로 보입니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -1732,7 +1924,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-07"
+      "collectedAt": "2026-05-08"
     },
     {
       "category": "ai",
