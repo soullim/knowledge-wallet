@@ -1,7 +1,199 @@
 {
-  "updated": "2026년 5월 8일 AM 06:20",
-  "count": 125,
+  "updated": "2026년 5월 9일 AM 07:25",
+  "count": 137,
   "articles": [
+    {
+      "category": "industry",
+      "title": "AI 파도를 타고 앞서나가는 사람들의 이야기",
+      "summary": "재무 데이터의 활용을 통해 AI 기술을 적용하는 방법을 탐구한다. 이 시리즈는 AI의 발전과 그에 따른 변화에 대한 통찰을 제공한다.",
+      "summary_full": "이 기사는 재무 분야에서 AI 기술을 활용하여 데이터의 가치를 극대화하는 방법에 대해 논의한다. AI의 발전이 재무 관리에 미치는 영향과 이를 통해 얻을 수 있는 이점들을 소개한다. 또한, AI를 활용한 혁신적인 사례들을 통해 독자들에게 영감을 주고자 한다. 이 시리즈는 AI의 미래와 그에 따른 새로운 기회에 대한 통찰을 제공한다.",
+      "keywords": [
+        "AI",
+        "재무",
+        "데이터 분석"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T07:23:30.766Z",
+      "url": "https://www.bucketplace.com/post/2026-05-08-%EC%9E%AC%EB%AC%B4%EC%9D%98-%EB%B9%97%EC%9E%A5%EC%9D%84-%ED%92%80%EC%96%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%ED%98%B8%EC%88%98%EB%A1%9C/",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "design",
+      "title": "코덱스로 나만의 음성 대화 앱 만들기",
+      "summary": "코덱스를 활용하여 개인 맞춤형 음성 대화 애플리케이션을 개발하는 방법을 소개한다. 이 과정에서는 GPT-Realtime-2 기술을 사용하여 실시간 음성 인식 및 대화 기능을 구현한다.",
+      "summary_full": "이 영상에서는 코덱스를 이용하여 나만의 음성 대화 앱을 만드는 방법을 자세히 설명한다. GPT-Realtime-2 기술을 통해 실시간으로 음성을 인식하고 대화할 수 있는 기능을 구현하는 과정이 포함된다. 개발자들이 쉽게 따라할 수 있도록 단계별로 안내하며, 필요한 도구와 라이브러리도 소개한다. 이를 통해 개인화된 음성 대화 경험을 제공하는 앱을 만들 수 있다.",
+      "keywords": [
+        "코덱스",
+        "음성 대화 앱",
+        "GPT-Realtime-2"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T07:23:21.343Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-745/",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "frontend",
+      "title": "SaveTube 리뷰 - 오프라인 아카이브를 위한 무료 유튜브 비디오 다운로더",
+      "summary": "SaveTube는 교육 및 컨퍼런스 영상을 로컬에 저장할 수 있는 유용한 도구입니다. 여러 브라우저 확장 프로그램과 데스크탑 앱을 시도한 끝에 안정적인 기능을 제공하는 SaveTube를 선택하게 되었습니다.",
+      "summary_full": "SaveTube는 유튜브에서 교육 및 컨퍼런스 영상을 다운로드하여 오프라인에서 보관할 수 있는 무료 비디오 다운로더입니다. 비행기나 불안정한 와이파이 환경에서 영상을 보기 위해 로컬 복사본을 유지하는 것을 선호합니다. 여러 다른 도구들이 유튜브 업데이트 후 작동하지 않거나 신뢰할 수 없는 소프트웨어 설치를 요구했지만, SaveTube는 안정적인 성능을 제공합니다. 이로 인해 SaveTube를 계속 사용하게 되었습니다.",
+      "keywords": [
+        "SaveTube",
+        "유튜브 다운로드",
+        "오프라인 비디오"
+      ],
+      "source": "dev.to",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T07:20:37.000Z",
+      "url": "https://dev.to/savetubedev2026/savetube-review-free-youtube-video-downloader-i-use-for-offline-archive-1lmj",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "trend",
+      "title": "특정 물체가 공간의 느낌을 변화시키는 이유",
+      "summary": "공간이 집중력, 기분, 일상 행동에 미치는 영향을 관찰해왔다. 최근에는 특정 물체가 방의 전체적인 느낌을 변화시키는 것을 발견했다.",
+      "summary_full": "최근 몇 주 동안 공간이 집중력, 기분, 일상 행동에 미치는 영향을 더 주의 깊게 살펴보았다. 그러던 중 특정 물체가 방의 전체적인 느낌을 변화시키는 것을 발견했다. 이러한 변화는 물체의 가격이나 유용성 때문이 아니다. 오히려 물체의 특성이나 디자인이 공간의 분위기를 좌우하는 것으로 보인다.",
+      "keywords": [
+        "공간 디자인",
+        "물체의 영향",
+        "감정 변화"
+      ],
+      "source": "dev.to",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T06:33:20.000Z",
+      "url": "https://dev.to/healingjewelrydaily/why-certain-objects-change-the-feeling-of-a-space-5efi",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "trend",
+      "title": "인스타카트 프로모션 코드: 15달러 할인 | 2026년 5월",
+      "summary": "2026년 5월에 사용할 수 있는 인스타카트 프로모션 코드를 찾아보세요. 대규모 절약을 위한 최고의 기회를 제공합니다.",
+      "summary_full": "2026년 5월에 인스타카트에서 사용할 수 있는 프로모션 코드를 소개합니다. 이 코드를 통해 최대 15달러를 절약할 수 있습니다. 다양한 할인 혜택을 통해 쇼핑을 더욱 경제적으로 즐길 수 있습니다. 지금 바로 프로모션 코드를 확인해 보세요.",
+      "keywords": [
+        "인스타카트",
+        "프로모션 코드",
+        "할인"
+      ],
+      "source": "wired.com",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T05:00:00.000Z",
+      "url": "https://www.wired.com/story/instacart-promo/code/",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "industry",
+      "title": "내가 AI에 대해 아는 모든 것은 지니에게서 배웠다",
+      "summary": "AI에 대한 내용을 지니의 비유를 통해 설명한다. 콘텐츠 디자이너가 바람을 낭비하지 않기 위한 가이드를 제공한다.",
+      "summary_full": "AI에 대한 통찰을 지니의 이야기로 풀어낸다. 콘텐츠 디자이너가 바람을 현명하게 사용하는 방법을 제시한다. 동화의 교훈을 통해 AI의 활용 방안을 탐구한다. 독자들에게 실질적인 조언을 제공하는 글이다.",
+      "keywords": [
+        "AI",
+        "콘텐츠 디자인",
+        "지니"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T20:55:36.000Z",
+      "url": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "industry",
+      "title": "NHTSA, 테슬라 모델 Y가 새로운 안전 테스트를 통과했다고 발표",
+      "summary": "NHTSA는 테슬라 모델 Y가 새로운 고급 운전 보조 안전 테스트를 통과한 첫 번째 차량이라고 발표했다. 동시에 320만 대의 테슬라 차량이 자율주행 시스템 사용 중 사고와 관련해 조사받고 있다.",
+      "summary_full": "NHTSA는 트럼프 행정부가 발표한 바에 따르면, 테슬라 모델 Y가 새로운 고급 운전 보조 안전 테스트를 통과한 첫 번째 차량이라고 밝혔다. 이 테스트는 차량의 안전성을 측정하는 중요한 기준이 된다. 그러나 NHTSA는 동시에 320만 대의 테슬라 차량이 자율주행 시스템을 사용할 때 발생한 사고에 대해 조사 중이다. 이 발표는 테슬라의 안전성에 대한 긍정적인 평가와 함께 현재 진행 중인 조사와의 대조를 보여준다.",
+      "keywords": [
+        "NHTSA",
+        "테슬라 모델 Y",
+        "안전 테스트"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T19:55:06.000Z",
+      "url": "https://thenextweb.com/news/tesla-model-y-nhtsa-adas-safety-benchmark",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, SpaceX와의 Colossus 1 계약 체결로 컴퓨팅 확장",
+      "summary": "앤트로픽이 SpaceX와의 계약을 통해 컴퓨팅 능력을 크게 확장했습니다. 이는 클라우드 기반의 AI 서비스 제공에 중요한 이정표가 될 것입니다.",
+      "summary_full": "앤트로픽이 SpaceX와 Colossus 1 계약을 체결하여 주요 컴퓨팅 확장을 확보했습니다. 이 계약은 앤트로픽의 AI 서비스 제공 능력을 강화하는 데 중요한 역할을 할 것으로 기대됩니다. SpaceX의 기술력과 앤트로픽의 혁신이 결합되어 새로운 가능성을 열어줄 것입니다. 향후 AI 분야에서의 경쟁력 강화에 기여할 것으로 보입니다.",
+      "keywords": [
+        "앤트로픽",
+        "SpaceX",
+        "컴퓨팅 확장"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T19:46:53.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzlGU2xGUkViRzAwcjQxbHZJQnN1MTNPTmtZN21mOWxNQXpHdGVRcVpRTC14Vkd0Y2JrR3JoS2VuSGxUbEZHbWhuMUdMSWpTQVlBbno4LXEtLTVpTUhvVURvdmxBVjgwUzJGTXV3ZkZ4Ynp6UnVRVmowSzJ1bmNrVEd6cFN0bHJKTUw1UDY4dEFvZFdOeG1KUExYRThMZnBpelNnTVN5ZzhYT2R6VWhNQtIBtgFBVV95cUxOMlg0RWR3ZkdtbjJ4RmFpeVNydGVGNVhVSVphVUF5cllCYW1BNTJ5WGFkTThHb19HdmxIS184WmFxeE5ucjYzSHFFX1JOdFdYZS1WVlNzYURqZ0ZWVXRDRThQSjVIdHRvUnEyaWM4U0pJcURjaVZ2c1Y0VGdGTlJOalkydkYtZ0Z3amh4ak1vOFNKSU1yeDVqXzBVUG52Zy1sQ2lRa05SV3ZZa2xOaEVhbnJmUWE4QQ?oc=5",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "ai",
+      "title": "사이버 보안을 위한 소형 전문 모델의 필요성",
+      "summary": "사이버 보안 분야에서는 소형화되고 전문화된 모델이 필요하다. 이러한 모델은 로컬에서 실행 가능하여 방어적 사이버 보안에 효과적이다.",
+      "summary_full": "사이버 보안에서 방어적 접근 방식은 소형화되고 전문화된 모델을 요구하고 있다. CyberSecQwen-4B는 이러한 요구를 충족시키기 위해 설계되었다. 로컬에서 실행 가능한 이 모델은 효율성과 효과성을 높인다. 따라서 사이버 공격에 대한 방어를 강화하는 데 기여할 수 있다.",
+      "keywords": [
+        "사이버 보안",
+        "전문 모델",
+        "로컬 실행"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T17:41:05.000Z",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "frontend",
+      "title": "CSS 코너 모양을 이용한 접힌 코너 디자인",
+      "summary": "Kitty Giraudel의 접힌 코너 기법을 소개합니다. CSS clip-path를 활용하여 독특한 디자인을 구현할 수 있습니다.",
+      "summary_full": "Kitty Giraudel의 접힌 코너 기법은 CSS clip-path를 활용하여 멋진 디자인을 만드는 방법입니다. 최근 웹 브라우저들이 shape() 함수를 지원하면서 clip-path가 주목받고 있습니다. 필자는 최근 코너 모양에 대한 관심이 높아졌으며, 관련된 애니메이션 기법도 소개하고 있습니다. 이 기법을 통해 웹 디자인에 새로운 변화를 줄 수 있습니다.",
+      "keywords": [
+        "CSS",
+        "clip-path",
+        "디자인"
+      ],
+      "source": "css-tricks.com",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T13:54:10.000Z",
+      "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "ai",
+      "title": "OpenAI에서 Codex 안전하게 실행하기",
+      "summary": "OpenAI는 Codex를 안전하게 실행하기 위해 샌드박스, 승인, 네트워크 정책 및 에이전트 네이티브 텔레메트리를 활용합니다. 이러한 방법들은 안전하고 규정을 준수하는 코딩 에이전트 채택을 지원합니다.",
+      "summary_full": "OpenAI는 Codex의 안전한 실행을 위해 여러 가지 보안 조치를 취하고 있습니다. 샌드박스 환경을 통해 코드 실행을 격리하고, 승인 절차를 통해 위험 요소를 관리합니다. 또한, 네트워크 정책을 통해 외부와의 연결을 제어하며, 에이전트 네이티브 텔레메트리를 통해 실시간으로 모니터링합니다. 이러한 종합적인 접근 방식은 안전하고 규정을 준수하는 코딩 에이전트의 채택을 지원합니다.",
+      "keywords": [
+        "Codex",
+        "안전성",
+        "코딩 에이전트"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T12:30:00.000Z",
+      "url": "https://openai.com/index/running-codex-safely",
+      "collectedAt": "2026-05-09"
+    },
+    {
+      "category": "industry",
+      "title": "오픈AI, 사이버보안 특화 모델 ‘GPT-5.5-사이버’ 제한 공개",
+      "summary": "오픈AI가 사이버 보안에 특화된 AI 모델인 ‘GPT-5.5-사이버’를 제한적으로 공개했다. 이는 신뢰 기반 접근 프로그램을 확장하는 일환이다.",
+      "summary_full": "오픈AI는 사이버 보안에 특화된 인공지능 모델인 ‘GPT-5.5-사이버(Cyber)’를 발표했다. 이 모델은 일반 공개가 아닌 제한된 프리뷰 형태로 제공된다. 이번 발표는 GPT-5.5 사이버보안 접근 프로그램의 일환으로 진행되며, 신뢰 기반 접근(TAC)을 확장하는 목적을 가지고 있다. 오픈AI는 사이버 보안 분야에서의 AI 활용을 더욱 강화할 계획이다.",
+      "keywords": [
+        "오픈AI",
+        "GPT-5.5-사이버",
+        "사이버 보안"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T10:02:38.000Z",
+      "url": "https://byline.network/2026/05/8-463/",
+      "collectedAt": "2026-05-09"
+    },
     {
       "category": "industry",
       "title": "디자이너의 AI 활용법",
@@ -35,22 +227,6 @@
       "collectedAt": "2026-05-08"
     },
     {
-      "category": "design",
-      "title": "코덱스를 활용한 개인 음성 대화 앱 제작",
-      "summary": "코덱스를 이용하여 나만의 음성 대화 앱을 만드는 방법을 소개합니다. GPT-Realtime-2 기술을 활용하여 실시간 음성 대화를 구현하는 과정에 대해 설명합니다.",
-      "summary_full": "이 기사에서는 코덱스를 활용하여 개인화된 음성 대화 앱을 만드는 방법을 다룹니다. GPT-Realtime-2 기술을 통해 실시간으로 음성을 처리하고 대화할 수 있는 기능을 구현하는 과정을 설명합니다. 또한, 개발에 필요한 기본적인 설정과 코드 예시를 제공합니다. 최종적으로, 사용자 맞춤형 음성 대화 경험을 제공하는 앱을 만드는 데 필요한 모든 요소를 포괄적으로 안내합니다.",
-      "keywords": [
-        "코덱스",
-        "음성 대화 앱",
-        "GPT-Realtime-2"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 8일",
-      "publishedAt": "2026-05-08T06:18:44.464Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-745/",
-      "collectedAt": "2026-05-08"
-    },
-    {
       "category": "trend",
       "title": "히어로 섹션 UX: 올바른 제품 비주얼 선택을 위한 실용 체크리스트",
       "summary": "랜딩 페이지의 히어로 섹션은 주목을 끌어야 행동을 요청할 수 있다. SaaS 팀과 제품 마케터에게 첫 화면은 제안을 이해하기 쉽고 신뢰할 수 있으며 행동하기 쉽게 만들어야 한다.",
@@ -81,6 +257,22 @@
       "publishedAt": "2026-05-08T05:02:40.000Z",
       "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
       "collectedAt": "2026-05-08"
+    },
+    {
+      "category": "ai",
+      "title": "정렬",
+      "summary": "새로운 연구를 통해 에이전틱 비정렬을 줄이는 방법을 제시한다. Claude에게 그 이유를 가르치는 과정이 포함된다.",
+      "summary_full": "2026년 5월 8일 발표된 연구에서는 에이전틱 비정렬을 줄이는 방법에 대해 다룬다. 이 연구는 Claude에게 왜 이러한 접근이 필요한지를 교육하는 내용을 포함하고 있다. 연구 결과는 인공지능의 정렬 문제 해결에 기여할 것으로 기대된다. 향후 AI 개발에 중요한 시사점을 제공할 것이다.",
+      "keywords": [
+        "정렬",
+        "에이전틱 비정렬",
+        "AI 연구"
+      ],
+      "source": "Anthropic Research",
+      "date": "5월 8일",
+      "publishedAt": "2026-05-08T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "industry",
@@ -277,8 +469,8 @@
     {
       "category": "ai",
       "title": "사이냅소프트, AI 데이터 처리 자동화 서비스 출시",
-      "summary": "사이냅소프트가 LLM과 RAG 기반의 데이터 처리 자동화 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 관리의 효율성을 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 LLM(대형 언어 모델)과 RAG(정보 검색 기반 생성 모델)를 활용하여 데이터 처리 과정을 자동화한다. 이를 통해 기업들은 데이터 관리의 효율성을 크게 향상시킬 수 있을 것으로 보인다. 사이냅소프트는 이 서비스를 통해 다양한 산업 분야에서의 데이터 활용을 지원할 계획이다.",
+      "summary": "사이냅소프트가 LLM과 RAG 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 LLM과 RAG 기술을 활용하여 데이터 처리 과정을 자동화한다. 이를 통해 기업들은 데이터 처리의 효율성을 크게 향상시킬 수 있을 것으로 보인다. 사이냅소프트는 이 서비스를 통해 다양한 산업에서의 데이터 활용을 지원할 계획이다.",
       "keywords": [
         "사이냅소프트",
         "AI Data Foundry",
@@ -288,7 +480,7 @@
       "date": "5월 7일",
       "publishedAt": "2026-05-07T01:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jR25STlpXTHFSU1dTc3prYWVKMV83aUJQbGNhSk04X1JZQ2JWeU56SHRUeGhzRFoyZWszaURyM2FSeV9tTUtVSzl5Zm55eUVuR3V0VUQzc05ZM1RkTHhYXzNjLWR4Sm1IV1E?oc=5",
-      "collectedAt": "2026-05-08"
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "ai",
@@ -356,9 +548,9 @@
     },
     {
       "category": "ai",
-      "title": "알파이볼브: 제미니 기반 코딩 에이전트의 영향력 확장",
-      "summary": "알파이볼브의 제미니 기반 알고리즘이 비즈니스, 인프라, 과학 분야에서의 영향을 확대하고 있다. 이 기술이 다양한 분야에서 어떻게 활용되고 있는지 살펴본다.",
-      "summary_full": "알파이볼브는 제미니 기반 알고리즘을 통해 비즈니스, 인프라, 과학 등 여러 분야에서 긍정적인 영향을 미치고 있다. 이 코딩 에이전트는 각 분야의 문제를 해결하고 효율성을 높이는 데 기여하고 있다. 기술의 발전이 어떻게 다양한 산업에 적용되고 있는지를 탐구한다. 알파이볼브의 혁신적인 접근 방식은 앞으로의 발전 가능성을 제시한다.",
+      "title": "알파이볼브: 제미니 기반 코딩 에이전트의 영향력 확대",
+      "summary": "알파이볼브의 제미니 기반 알고리즘이 비즈니스, 인프라, 과학 분야에서 영향력을 확대하고 있다. 이 기술은 다양한 분야에서 혁신을 이끌고 있다.",
+      "summary_full": "알파이볼브는 제미니 기반 알고리즘을 통해 비즈니스, 인프라, 과학 등 여러 분야에서 긍정적인 영향을 미치고 있다. 이 코딩 에이전트는 효율성을 높이고 문제 해결을 지원하는 데 중점을 두고 있다. 다양한 산업에서의 적용 사례를 통해 그 가능성을 보여주고 있다. 앞으로도 지속적인 발전이 기대된다.",
       "keywords": [
         "알파이볼브",
         "제미니",
@@ -368,23 +560,23 @@
       "date": "5월 6일",
       "publishedAt": "2026-05-06T10:43:49.000Z",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "collectedAt": "2026-05-08"
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "design",
       "title": "로컬 우선 웹 개발의 구조",
-      "summary": "프로젝트 관리 도구를 시연하기 전날, 리스본의 호텔에서 Wi-Fi 문제로 앱이 작동하지 않는 상황을 경험했다. 이로 인해 로컬 우선 개발 방식의 중요성을 깨닫게 되었다.",
-      "summary_full": "지난 10월, 리스본의 호텔에서 프로젝트 관리 도구를 시연하기 전날 Wi-Fi 문제로 앱이 작동하지 않는 상황을 겪었다. 이 경험은 내가 자랑스럽게 생각했던 앱이 빈 화면과 타임아웃 오류를 보여주면서 발생했다. 결국, 로컬 우선 개발 방식의 필요성을 느끼게 되었다. 이러한 접근 방식은 인터넷 연결이 불안정한 상황에서도 사용자 경험을 개선할 수 있는 방법을 제시한다.",
+      "summary": "프로젝트 관리 도구를 시연하기 전날, 호텔 Wi-Fi 문제로 앱이 작동하지 않는 경험을 공유한다. 이 경험을 통해 로컬 우선 접근 방식의 중요성을 강조한다.",
+      "summary_full": "지난 10월, 리스본의 호텔에서 프로젝트 관리 도구를 시연하기 전날 Wi-Fi 문제로 앱이 작동하지 않는 상황을 겪었다. 이로 인해 팀이 4개월 동안 노력한 결과물이 공백 화면과 타임아웃 오류로 이어졌다. 이러한 경험은 로컬 우선 웹 개발의 필요성을 깨닫게 해준다. 로컬 우선 접근 방식은 사용자 경험을 향상시키고 연결 문제를 극복하는 데 도움을 줄 수 있다.",
       "keywords": [
         "로컬 우선",
         "웹 개발",
-        "프로젝트 관리 도구"
+        "사용자 경험"
       ],
       "source": "smashingmagazine.com",
       "date": "5월 6일",
       "publishedAt": "2026-05-06T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-      "collectedAt": "2026-05-08"
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "industry",
@@ -500,11 +692,11 @@
     },
     {
       "category": "figma",
-      "title": "피그마 최신 업데이트",
-      "summary": "피그마의 최신 업데이트를 다룬 릴리스 노트를 소개합니다. AI 에이전트와 함께 협업하여 디자인 시스템을 코드에 연결하고, 프로토타입을 발전시키는 방법을 보여줍니다.",
-      "summary_full": "피그마의 최신 릴리스 노트에서는 AI 에이전트와 협업하는 방법을 포함한 새로운 업데이트를 소개합니다. 주요 제품 팀들이 어떻게 공동 디자인을 진행하는지에 대한 라이브 데모도 포함되어 있습니다. 이 업데이트는 디자인 시스템을 코드에 연결하고, 프로토타입을 더욱 발전시키며, 아이디어를 신속하게 실현하는 방법을 제공합니다. 피그마를 통해 더 나은 결과물을 만들어낼 수 있는 기회를 제공합니다.",
+      "title": "Figma 최신 업데이트",
+      "summary": "Figma의 최신 업데이트를 다루며 AI 에이전트와 함께 공동 디자인하는 방법을 소개합니다. 프로토타입을 발전시키고, 디자인 시스템을 코드에 연결하며, 아이디어를 빠르게 구현하는 방법을 보여줍니다.",
+      "summary_full": "최신 릴리스 노트에서는 Figma의 새로운 업데이트를 다루고 있습니다. 여기에는 선도적인 제품 팀들이 AI 에이전트와 협력하여 공동 디자인하는 방법에 대한 라이브 데모가 포함되어 있습니다. 사용자는 프로토타입을 발전시키고, 디자인 시스템을 코드에 연결하며, 최고의 아이디어를 신속하게 구현할 수 있는 방법을 배울 수 있습니다. 이러한 기능들은 디자인 프로세스를 더욱 효율적으로 만들어 줍니다.",
       "keywords": [
-        "피그마",
+        "Figma",
         "AI 에이전트",
         "디자인 시스템"
       ],
@@ -512,7 +704,7 @@
       "date": "5월 5일",
       "publishedAt": "2026-05-05T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-08"
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "industry",
@@ -1445,8 +1637,8 @@
     {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5와 함께 Vibe에서 원격 코딩 에이전트를 소개합니다. Le Chat의 새로운 작업 모드가 복잡한 작업을 지원합니다.",
-      "summary_full": "Mistral Medium 3.5가 Vibe에서 원격 코딩 에이전트를 도입합니다. 이 시스템은 효율적인 원격 작업을 가능하게 합니다. 또한, Le Chat에서는 복잡한 작업을 위한 새로운 작업 모드가 추가되었습니다. 이를 통해 사용자들은 더욱 다양한 작업을 수행할 수 있습니다.",
+      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 활용할 수 있게 되었다. 또한 Le Chat의 새로운 작업 모드가 복잡한 작업을 지원한다.",
+      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 도입하여 사용자에게 더 나은 작업 환경을 제공한다. 이 새로운 기능은 복잡한 작업을 보다 효율적으로 처리할 수 있도록 돕는다. Le Chat의 새로운 작업 모드는 이러한 복잡한 작업을 지원하는 데 중점을 두고 있다. 이를 통해 사용자들은 다양한 작업을 원활하게 수행할 수 있다.",
       "keywords": [
         "원격 에이전트",
         "Mistral Medium 3.5",
@@ -1456,7 +1648,7 @@
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-08"
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "ai",
@@ -1865,8 +2057,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 책임과 역할에 대해 논의한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 디자이너들이 이를 간과해서는 안 된다. 이 글은 디자이너들이 직면한 과제를 제시하며, 그들의 선한 의도를 강조한다. 디자이너들은 혁신적인 아이디어를 제공하지만, 실질적인 실행이 필요하다. 이 글은 디자이너들에게 숙제를 제안하며, 그들의 역할을 재조명한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 고려해야 할 과제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이며, 이 글은 디자이너들이 이를 고려해야 한다고 강조한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 숙제를 준다. 저자의 개인적인 견해를 바탕으로 디자이너들이 좋은 사람이라는 점을 강조하며 시작한다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -1876,23 +2068,23 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-08"
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "frontend",
       "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 데이터 접근성을 높이고 데이터 민주주의를 실현하고자 하였다.",
-      "summary_full": "토스플레이스의 데이터 조직은 AI를 활용하여 팀원들이 필요한 데이터를 즉시 확인할 수 있는 환경을 만들기 위해 ‘판다(PANDA)’를 개발하였다. 판다는 Place Analytics & Data의 약자로, 데이터 분석을 더 쉽게 할 수 있도록 돕는 역할을 한다. 이를 통해 모든 팀원이 데이터 전문가처럼 일할 수 있는 기회를 제공하고자 한다. 판다의 도입으로 데이터 분석의 효율성이 크게 향상될 것으로 기대된다.",
+      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 일할 수 있도록 지원합니다. AI를 활용해 데이터 민주주의를 실현하는 것을 목표로 합니다.",
+      "summary_full": "토스플레이스의 Data Analysis Team Leader 김윤아와 Data Analytics Engineer 정이을이 기획한 데이터봇 ‘판다(PANDA)’는 팀원들이 필요한 데이터를 신속하게 접근할 수 있도록 돕습니다. 이를 통해 대시보드나 요청 대기 없이 즉시 데이터 활용이 가능해집니다. AI를 활용하여 데이터 민주주의를 실현하고자 하는 토스플레이스의 비전이 담겨 있습니다. ‘판다’는 Place Analytics & Data의 약자로, 데이터 분석을 보다 쉽게 만들어줍니다.",
       "keywords": [
+        "토스플레이스",
         "데이터봇",
-        "AI",
-        "데이터 민주주의"
+        "AI 분석"
       ],
       "source": "toss.tech",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T03:28:00.000Z",
       "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-05-08"
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "ai",
@@ -1913,8 +2105,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 사용자 경험을 향상시키고, 기술의 발전에 따라 변화하는 소비자 요구를 반영합니다. 각 트렌드는 디자인의 접근성과 효율성을 높이는 데 중점을 두고 있습니다. 이러한 변화는 기업의 경쟁력에도 큰 영향을 미칠 것으로 보입니다.",
+      "summary": "2026년을 대비한 UX 디자인의 주요 트렌드를 소개한다. 이 트렌드는 사용자 경험을 혁신하고 향상시키는 데 중점을 둔다.",
+      "summary_full": "2026년을 좌우할 9가지 UX 디자인 트렌드가 소개된다. 이 트렌드는 사용자 경험을 혁신하고 향상시키는 데 중점을 두며, 기술 발전과 사용자 요구에 따라 변화하는 디자인 방향성을 제시한다. 각 트렌드는 실질적인 사례와 함께 설명되어, 디자이너와 기업들이 참고할 수 있는 유용한 정보를 제공한다. 이러한 트렌드를 통해 UX 디자인의 미래를 예측하고 준비할 수 있다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -1924,7 +2116,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-08"
+      "collectedAt": "2026-05-09"
     },
     {
       "category": "ai",
