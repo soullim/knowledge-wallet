@@ -1,38 +1,166 @@
 {
-  "updated": "2026년 5월 9일 AM 07:25",
-  "count": 137,
+  "updated": "2026년 5월 10일 AM 07:50",
+  "count": 145,
   "articles": [
     {
       "category": "industry",
-      "title": "AI 파도를 타고 앞서나가는 사람들의 이야기",
-      "summary": "재무 데이터의 활용을 통해 AI 기술을 적용하는 방법을 탐구한다. 이 시리즈는 AI의 발전과 그에 따른 변화에 대한 통찰을 제공한다.",
-      "summary_full": "이 기사는 재무 분야에서 AI 기술을 활용하여 데이터의 가치를 극대화하는 방법에 대해 논의한다. AI의 발전이 재무 관리에 미치는 영향과 이를 통해 얻을 수 있는 이점들을 소개한다. 또한, AI를 활용한 혁신적인 사례들을 통해 독자들에게 영감을 주고자 한다. 이 시리즈는 AI의 미래와 그에 따른 새로운 기회에 대한 통찰을 제공한다.",
+      "title": "AI 파도를 타고 데이터 활용하기",
+      "summary": "재무 분야에서 AI 기술을 활용하여 데이터의 가치를 극대화하는 방법을 탐구한다. 이 시리즈는 AI를 통해 혁신을 이루는 사람들의 이야기를 담고 있다.",
+      "summary_full": "이 기사는 AI 기술이 재무 분야에 미치는 영향과 데이터 활용의 중요성을 강조한다. 다양한 사례를 통해 AI를 활용한 혁신적인 접근 방식을 소개한다. 또한, AI 파도를 타고 앞서나가는 사람들의 경험담을 공유하며, 독자들에게 영감을 준다. 이 시리즈는 AI의 미래 가능성을 탐구하는 데 중점을 둔다.",
       "keywords": [
         "AI",
         "재무",
-        "데이터 분석"
+        "데이터 활용"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 9일",
-      "publishedAt": "2026-05-09T07:23:30.766Z",
+      "date": "5월 10일",
+      "publishedAt": "2026-05-10T07:48:39.414Z",
       "url": "https://www.bucketplace.com/post/2026-05-08-%EC%9E%AC%EB%AC%B4%EC%9D%98-%EB%B9%97%EC%9E%A5%EC%9D%84-%ED%92%80%EC%96%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%ED%98%B8%EC%88%98%EB%A1%9C/",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "design",
-      "title": "코덱스로 나만의 음성 대화 앱 만들기",
-      "summary": "코덱스를 활용하여 개인 맞춤형 음성 대화 애플리케이션을 개발하는 방법을 소개한다. 이 과정에서는 GPT-Realtime-2 기술을 사용하여 실시간 음성 인식 및 대화 기능을 구현한다.",
-      "summary_full": "이 영상에서는 코덱스를 이용하여 나만의 음성 대화 앱을 만드는 방법을 자세히 설명한다. GPT-Realtime-2 기술을 통해 실시간으로 음성을 인식하고 대화할 수 있는 기능을 구현하는 과정이 포함된다. 개발자들이 쉽게 따라할 수 있도록 단계별로 안내하며, 필요한 도구와 라이브러리도 소개한다. 이를 통해 개인화된 음성 대화 경험을 제공하는 앱을 만들 수 있다.",
+      "title": "코덱스로 음성 대화 앱 만들기",
+      "summary": "코덱스를 활용하여 개인 맞춤형 음성 대화 앱을 개발하는 방법을 소개한다. GPT-Realtime-2를 기반으로 실시간 음성 인식 및 대화 기능을 구현할 수 있다.",
+      "summary_full": "이 영상에서는 코덱스를 이용해 나만의 음성 대화 앱을 만드는 과정을 설명한다. GPT-Realtime-2 기술을 활용하여 실시간으로 음성을 인식하고 대화하는 기능을 구현하는 방법을 배울 수 있다. 또한, 개발 과정에서 필요한 도구와 설정 방법에 대해서도 자세히 안내한다. 이 앱은 개인화된 음성 대화 경험을 제공할 수 있는 가능성을 가지고 있다.",
       "keywords": [
         "코덱스",
         "음성 대화 앱",
         "GPT-Realtime-2"
       ],
       "source": "Secondbrush Blog",
-      "date": "5월 9일",
-      "publishedAt": "2026-05-09T07:23:21.343Z",
+      "date": "5월 10일",
+      "publishedAt": "2026-05-10T07:48:31.592Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-745/",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
+    },
+    {
+      "category": "frontend",
+      "title": "AI 빌더를 활용한 앱 배포 기간 단축 방법",
+      "summary": "AI 빌더를 도입한다고 해서 자동으로 앱 배포 기간이 단축되는 것은 아니다. 많은 팀들이 여전히 기존의 6개월 주기를 따르며, 단지 시작 단계에 프롬프트를 추가하는 것에 그친다.",
+      "summary_full": "2023년에 6개월이 걸린 앱이 2026년에는 3주 만에 배포될 것으로 예상된다. 창립자와 제품 팀들은 이러한 변화를 시도하지만, AI 빌더를 채택한다고 해서 타임라인이 자동으로 단축되는 것은 아니다. 많은 팀들이 여전히 같은 6개월 주기를 따르며, 단지 시작 단계에 프롬프트를 추가하는 것에 그친다. 따라서 앱 배포 기간을 단축하기 위해서는 보다 효과적인 접근이 필요하다.",
+      "keywords": [
+        "AI 빌더",
+        "앱 배포",
+        "기간 단축"
+      ],
+      "source": "dev.to",
+      "date": "5월 10일",
+      "publishedAt": "2026-05-10T07:40:00.000Z",
+      "url": "https://dev.to/fan-song/how-to-compress-app-delivery-from-months-to-weeks-using-an-ai-builder-29ja",
+      "collectedAt": "2026-05-10"
+    },
+    {
+      "category": "industry",
+      "title": "AI의 거짓말, 절반으로 줄었다…챗GPT ‘GPT-5.5 인스턴트’ 전면 도입",
+      "summary": "AI의 환각 현상이 줄어들고 있다. 오픈AI가 새로운 챗GPT 모델을 도입하여 거짓 정보 제공을 감소시켰다.",
+      "summary_full": "AI가 제공하는 거짓 정보가 줄어들고 있는 가운데, 오픈AI는 새로운 챗GPT 모델을 출시했다. 이 모델은 법률 및 금융과 같은 전문 분야에서 발생할 수 있는 치명적인 오류를 줄이는 데 중점을 두었다. 환각 현상은 AI가 사실이 아닌 내용을 진짜처럼 만들어내는 문제로, 이를 해결하기 위한 노력이 이어지고 있다. 새로운 모델은 이러한 문제를 절반 이상 감소시키는 성과를 보였다.",
+      "keywords": [
+        "AI",
+        "챗GPT",
+        "환각 현상"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 10일",
+      "publishedAt": "2026-05-10T07:21:30.000Z",
+      "url": "https://byline.network/2026/05/0506-4/",
+      "collectedAt": "2026-05-10"
+    },
+    {
+      "category": "trend",
+      "title": "ZSky AI와 Recraft 비교: 벡터 및 브랜드 스타일 생성",
+      "summary": "Recraft는 디자이너를 위한 강력한 브랜드 스타일 제어 기능을 갖춘 벡터 그래픽 AI 생성에 특화되어 있다. ZSky AI는 보다 넓은 대상을 위한 무료 무제한 일반 AI 서비스이다.",
+      "summary_full": "Recraft는 AI 생성에서 벡터 그래픽을 출력하며, 디자이너를 위한 브랜드 스타일 제어에 중점을 두고 있다. 반면 ZSky AI는 더 넓은 사용자층을 대상으로 하는 무료 무제한 서비스이다. 두 서비스를 선택할 때는 제작하는 콘텐츠에 따라 결정해야 한다. 이 글에서는 두 서비스의 장단점을 솔직하게 비교한다.",
+      "keywords": [
+        "ZSky AI",
+        "Recraft",
+        "AI 생성"
+      ],
+      "source": "dev.to",
+      "date": "5월 10일",
+      "publishedAt": "2026-05-10T04:16:39.000Z",
+      "url": "https://dev.to/zsky/zsky-ai-vs-recraft-vector-and-brand-style-generation-compared-104k",
+      "collectedAt": "2026-05-10"
+    },
+    {
+      "category": "ai",
+      "title": "마이크로소프트 오피스에 클로드가 추가되다",
+      "summary": "앤트로픽이 4억 5천만 사용자 규모의 직장 시장에 진입했다.",
+      "summary_full": "앤트로픽이 자사의 AI 모델인 클로드를 마이크로소프트 오피스에 통합하여 사용자 경험을 향상시키고 있다. 이는 오픈AI와의 경쟁을 더욱 치열하게 만들며, 기업 고객들에게 새로운 선택지를 제공한다. 클로드의 도입은 AI 기술의 발전을 보여주는 사례로, 직장 내 AI 활용이 증가하고 있음을 나타낸다. 앞으로의 시장 변화가 기대된다.",
+      "keywords": [
+        "마이크로소프트 오피스",
+        "앤트로픽",
+        "AI 기술"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 10일",
+      "publishedAt": "2026-05-10T00:25:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KY0txNmI1cFlCeGxvNV9FT2gzMlRtV1VHTVh3eGhZSWlPaU5UbDlzNmkxc05oMEpmNlc2TjFXSkd4X1V3ME9MbDlRQ1BiNjkxd1pFTm1RR3B1TS0yLU01bjZaM05hdUdTUWVR?oc=5",
+      "collectedAt": "2026-05-10"
+    },
+    {
+      "category": "ai",
+      "title": "온코에이전트: 프라이버시 보호를 위한 이중 계층 다중 에이전트 프레임워크",
+      "summary": "온코에이전트는 암 임상 결정 지원을 위한 프라이버시 보호 기능을 갖춘 이중 계층 다중 에이전트 프레임워크이다. 이 시스템은 환자의 개인 정보를 안전하게 보호하면서도 효과적인 의사 결정을 지원한다.",
+      "summary_full": "온코에이전트는 암 치료에 있어 의사 결정 지원을 위한 혁신적인 프레임워크로, 개인 정보 보호를 최우선으로 한다. 이 프레임워크는 두 개의 계층으로 구성되어 있으며, 각 계층은 다중 에이전트 시스템을 통해 협력한다. 이를 통해 의료진은 환자의 민감한 정보를 안전하게 관리하면서도 최적의 치료 옵션을 제시받을 수 있다. 궁극적으로, 온코에이전트는 암 치료의 효율성을 높이고 환자의 프라이버시를 보장하는 데 기여한다.",
+      "keywords": [
+        "온코에이전트",
+        "암 치료",
+        "프라이버시 보호"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T18:09:28.000Z",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "collectedAt": "2026-05-10"
+    },
+    {
+      "category": "industry",
+      "title": "AI가 수동 침투 테스트를 대체하다",
+      "summary": "수동 침투 테스트는 10,000에서 50,000달러의 비용이 들며, 몇 주가 걸려 예약하고 며칠이 걸려 실행된다. 런던의 사이버 보안 회사 Intruder는 AI 침투 테스트 에이전트를 출시하여 인간의 방법론을 모방한다.",
+      "summary_full": "수동 침투 테스트는 10,000에서 50,000달러의 비용이 들며, 예약하는 데 몇 주, 실행하는 데 며칠이 걸린다. 이러한 테스트는 보고서가 작성되기 전에 이미 구식이 되는 문제점이 있다. 런던에 본사를 둔 사이버 보안 회사 Intruder는 GCHQ의 사이버 액셀러레이터를 졸업한 후, AI 침투 테스트 에이전트를 출시하였다. 이 AI는 인간의 방법론을 모방하여 신속하게 테스트를 수행할 수 있다.",
+      "keywords": [
+        "침투 테스트",
+        "AI",
+        "사이버 보안"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T11:20:37.000Z",
+      "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4",
+      "collectedAt": "2026-05-10"
+    },
+    {
+      "category": "trend",
+      "title": "최고의 실시간 자막 스마트 안경 (2026), WIRED 테스트",
+      "summary": "이제 실제 대화에서도 자막을 켤 수 있습니다. 청각 장애인이나 대화 내용을 이해하기 어려운 사람들에게 유용한 기술입니다.",
+      "summary_full": "WIRED에서 테스트한 최고의 실시간 자막 스마트 안경을 소개합니다. 이 안경은 대화 중에 자막을 제공하여 청각 장애인이나 대화 내용을 이해하기 어려운 사람들에게 큰 도움을 줍니다. 실시간으로 자막을 생성하여 사용자가 대화 내용을 쉽게 따라갈 수 있게 합니다. 2026년의 최신 기술을 통해 사람들의 소통 방식을 혁신적으로 변화시킬 수 있습니다.",
+      "keywords": [
+        "스마트 안경",
+        "실시간 자막",
+        "청각 장애인"
+      ],
+      "source": "wired.com",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T11:00:00.000Z",
+      "url": "https://www.wired.com/gallery/best-captioning-glasses/",
+      "collectedAt": "2026-05-10"
+    },
+    {
+      "category": "industry",
+      "title": "왼손잡이 로프",
+      "summary": "신성한 디자인 패턴과 작은 반전의 긴 여정에 대한 이야기이다.",
+      "summary_full": "이 글은 신성한 디자인 패턴에 대해 탐구하며, 작은 반전들이 어떻게 큰 영향을 미칠 수 있는지를 설명한다. 디자인에서의 왼손잡이적 접근이 주는 의미와 그 중요성에 대해 논의한다. 또한, 이러한 접근이 사용자 경험에 미치는 영향을 살펴본다.",
+      "keywords": [
+        "디자인 패턴",
+        "사용자 경험",
+        "반전"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 9일",
+      "publishedAt": "2026-05-09T09:48:25.000Z",
+      "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "frontend",
@@ -148,9 +276,9 @@
     },
     {
       "category": "frontend",
-      "title": "CSS 코너 모양을 이용한 접힌 코너 디자인",
-      "summary": "Kitty Giraudel의 접힌 코너 기법을 소개합니다. CSS clip-path를 활용하여 독특한 디자인을 구현할 수 있습니다.",
-      "summary_full": "Kitty Giraudel의 접힌 코너 기법은 CSS clip-path를 활용하여 멋진 디자인을 만드는 방법입니다. 최근 웹 브라우저들이 shape() 함수를 지원하면서 clip-path가 주목받고 있습니다. 필자는 최근 코너 모양에 대한 관심이 높아졌으며, 관련된 애니메이션 기법도 소개하고 있습니다. 이 기법을 통해 웹 디자인에 새로운 변화를 줄 수 있습니다.",
+      "title": "CSS 코너 모양을 이용한 접힌 모서리",
+      "summary": "Kitty Giraudel의 접힌 모서리 기법은 CSS clip-path를 활용하여 멋진 효과를 만들어낸다. 최근 웹 브라우저들이 shape() 함수를 지원하면서 clip-path가 주목받고 있다.",
+      "summary_full": "Kitty Giraudel의 접힌 모서리 기법은 CSS clip-path를 활용하여 독특한 디자인을 구현하는 방법이다. 이 기법은 최근 웹 브라우저의 shape() 함수 지원 덕분에 인기를 끌고 있다. 필자는 최근 코너 모양에 대한 관심이 높아져 다양한 애니메이션과 기법을 탐구하고 있다. 이 글에서는 clip-path를 이용한 접힌 모서리 기법에 대해 소개한다.",
       "keywords": [
         "CSS",
         "clip-path",
@@ -160,23 +288,23 @@
       "date": "5월 8일",
       "publishedAt": "2026-05-08T13:54:10.000Z",
       "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "ai",
-      "title": "OpenAI에서 Codex 안전하게 실행하기",
-      "summary": "OpenAI는 Codex를 안전하게 실행하기 위해 샌드박스, 승인, 네트워크 정책 및 에이전트 네이티브 텔레메트리를 활용합니다. 이러한 방법들은 안전하고 규정을 준수하는 코딩 에이전트 채택을 지원합니다.",
-      "summary_full": "OpenAI는 Codex의 안전한 실행을 위해 여러 가지 보안 조치를 취하고 있습니다. 샌드박스 환경을 통해 코드 실행을 격리하고, 승인 절차를 통해 위험 요소를 관리합니다. 또한, 네트워크 정책을 통해 외부와의 연결을 제어하며, 에이전트 네이티브 텔레메트리를 통해 실시간으로 모니터링합니다. 이러한 종합적인 접근 방식은 안전하고 규정을 준수하는 코딩 에이전트의 채택을 지원합니다.",
+      "title": "OpenAI에서 Codex 안전하게 운영하기",
+      "summary": "OpenAI는 Codex를 안전하게 운영하기 위해 샌드박스, 승인, 네트워크 정책 및 에이전트 고유의 텔레메트리를 활용합니다. 이러한 방법들은 안전하고 규정을 준수하는 코딩 에이전트 채택을 지원합니다.",
+      "summary_full": "OpenAI는 Codex를 안전하게 운영하기 위해 여러 가지 보안 조치를 취하고 있습니다. 샌드박스 환경을 통해 코드 실행을 격리하고, 승인 절차를 통해 안전성을 높입니다. 또한, 네트워크 정책과 에이전트 고유의 텔레메트리를 활용하여 시스템의 안전성을 지속적으로 모니터링합니다. 이러한 접근 방식은 안전하고 규정을 준수하는 코딩 에이전트의 채택을 지원합니다.",
       "keywords": [
         "Codex",
-        "안전성",
-        "코딩 에이전트"
+        "OpenAI",
+        "안전한 코딩"
       ],
       "source": "OpenAI News",
       "date": "5월 8일",
       "publishedAt": "2026-05-08T12:30:00.000Z",
       "url": "https://openai.com/index/running-codex-safely",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "industry",
@@ -261,18 +389,18 @@
     {
       "category": "ai",
       "title": "정렬",
-      "summary": "새로운 연구를 통해 에이전틱 비정렬을 줄이는 방법을 제시한다. Claude에게 그 이유를 가르치는 과정이 포함된다.",
-      "summary_full": "2026년 5월 8일 발표된 연구에서는 에이전틱 비정렬을 줄이는 방법에 대해 다룬다. 이 연구는 Claude에게 왜 이러한 접근이 필요한지를 교육하는 내용을 포함하고 있다. 연구 결과는 인공지능의 정렬 문제 해결에 기여할 것으로 기대된다. 향후 AI 개발에 중요한 시사점을 제공할 것이다.",
+      "summary": "새로운 연구를 통해 에이전틱 불일치를 줄이는 방법을 제시한다. 클로드에게 그 이유를 가르치는 내용이다.",
+      "summary_full": "이 연구는 에이전틱 불일치를 줄이기 위한 새로운 접근 방식을 탐구한다. 클로드라는 인공지능에게 왜 이러한 방법이 필요한지를 설명하는 데 중점을 둔다. 연구 결과는 인공지능의 정렬 문제 해결에 기여할 수 있는 중요한 통찰을 제공한다. 이는 향후 인공지능 개발에 있어 중요한 이정표가 될 것이다.",
       "keywords": [
         "정렬",
-        "에이전틱 비정렬",
-        "AI 연구"
+        "에이전틱 불일치",
+        "인공지능"
       ],
       "source": "Anthropic Research",
       "date": "5월 8일",
       "publishedAt": "2026-05-08T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "industry",
@@ -548,9 +676,9 @@
     },
     {
       "category": "ai",
-      "title": "알파이볼브: 제미니 기반 코딩 에이전트의 영향력 확대",
+      "title": "알파이볼브: 제미니 기반 코딩 에이전트의 영향력 확장",
       "summary": "알파이볼브의 제미니 기반 알고리즘이 비즈니스, 인프라, 과학 분야에서 영향력을 확대하고 있다. 이 기술은 다양한 분야에서 혁신을 이끌고 있다.",
-      "summary_full": "알파이볼브는 제미니 기반 알고리즘을 통해 비즈니스, 인프라, 과학 등 여러 분야에서 긍정적인 영향을 미치고 있다. 이 코딩 에이전트는 효율성을 높이고 문제 해결을 지원하는 데 중점을 두고 있다. 다양한 산업에서의 적용 사례를 통해 그 가능성을 보여주고 있다. 앞으로도 지속적인 발전이 기대된다.",
+      "summary_full": "알파이볼브는 제미니 기반의 알고리즘을 통해 여러 분야에서 긍정적인 변화를 만들어내고 있다. 이러한 기술은 비즈니스 운영을 최적화하고, 인프라의 효율성을 높이며, 과학적 연구를 촉진하는 데 기여하고 있다. 각 분야에서의 적용 사례를 통해 그 효과를 입증하고 있다. 앞으로도 다양한 분야에서의 활용 가능성이 기대된다.",
       "keywords": [
         "알파이볼브",
         "제미니",
@@ -560,23 +688,23 @@
       "date": "5월 6일",
       "publishedAt": "2026-05-06T10:43:49.000Z",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "design",
       "title": "로컬 우선 웹 개발의 구조",
-      "summary": "프로젝트 관리 도구를 시연하기 전날, 호텔 Wi-Fi 문제로 앱이 작동하지 않는 경험을 공유한다. 이 경험을 통해 로컬 우선 접근 방식의 중요성을 강조한다.",
-      "summary_full": "지난 10월, 리스본의 호텔에서 프로젝트 관리 도구를 시연하기 전날 Wi-Fi 문제로 앱이 작동하지 않는 상황을 겪었다. 이로 인해 팀이 4개월 동안 노력한 결과물이 공백 화면과 타임아웃 오류로 이어졌다. 이러한 경험은 로컬 우선 웹 개발의 필요성을 깨닫게 해준다. 로컬 우선 접근 방식은 사용자 경험을 향상시키고 연결 문제를 극복하는 데 도움을 줄 수 있다.",
+      "summary": "프로젝트 관리 도구를 시연하기 전날, 리스본의 호텔에서 인터넷 연결 문제로 앱이 작동하지 않는 상황을 경험했다. 이 사건은 로컬 우선 접근 방식의 필요성을 강조한다.",
+      "summary_full": "지난 10월, 리스본의 호텔에서 프로젝트 관리 도구를 시연하기 전날 인터넷 연결이 불안정한 상황을 겪었다. 이로 인해 자랑스럽게 만든 앱이 빈 화면과 타임아웃 오류를 보여주었다. 이러한 경험은 로컬 우선 웹 개발의 중요성을 일깨워준다. 로컬 우선 접근 방식은 오프라인에서도 원활한 사용자 경험을 제공할 수 있는 방법을 제시한다.",
       "keywords": [
         "로컬 우선",
         "웹 개발",
-        "사용자 경험"
+        "오프라인"
       ],
       "source": "smashingmagazine.com",
       "date": "5월 6일",
       "publishedAt": "2026-05-06T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "industry",
@@ -693,8 +821,8 @@
     {
       "category": "figma",
       "title": "Figma 최신 업데이트",
-      "summary": "Figma의 최신 업데이트를 다루며 AI 에이전트와 함께 공동 디자인하는 방법을 소개합니다. 프로토타입을 발전시키고, 디자인 시스템을 코드에 연결하며, 아이디어를 빠르게 구현하는 방법을 보여줍니다.",
-      "summary_full": "최신 릴리스 노트에서는 Figma의 새로운 업데이트를 다루고 있습니다. 여기에는 선도적인 제품 팀들이 AI 에이전트와 협력하여 공동 디자인하는 방법에 대한 라이브 데모가 포함되어 있습니다. 사용자는 프로토타입을 발전시키고, 디자인 시스템을 코드에 연결하며, 최고의 아이디어를 신속하게 구현할 수 있는 방법을 배울 수 있습니다. 이러한 기능들은 디자인 프로세스를 더욱 효율적으로 만들어 줍니다.",
+      "summary": "Figma의 최신 업데이트를 다루었습니다. AI 에이전트와 함께 협업하는 방법을 보여주는 라이브 데모도 포함되어 있습니다.",
+      "summary_full": "Figma의 최신 릴리스 노트에서는 새로운 업데이트를 소개합니다. 여기에는 AI 에이전트와 협업하여 디자인하는 방법을 보여주는 라이브 데모가 포함되어 있습니다. 사용자는 프로토타입을 더욱 발전시키고, 디자인 시스템을 코드와 연결하며, 아이디어를 신속하게 구현할 수 있습니다.",
       "keywords": [
         "Figma",
         "AI 에이전트",
@@ -704,7 +832,7 @@
       "date": "5월 5일",
       "publishedAt": "2026-05-05T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "industry",
@@ -1638,7 +1766,7 @@
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
       "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 활용할 수 있게 되었다. 또한 Le Chat의 새로운 작업 모드가 복잡한 작업을 지원한다.",
-      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 도입하여 사용자에게 더 나은 작업 환경을 제공한다. 이 새로운 기능은 복잡한 작업을 보다 효율적으로 처리할 수 있도록 돕는다. Le Chat의 새로운 작업 모드는 이러한 복잡한 작업을 지원하는 데 중점을 두고 있다. 이를 통해 사용자들은 다양한 작업을 원활하게 수행할 수 있다.",
+      "summary_full": "Mistral Medium 3.5가 도입되어 Vibe에서 원격 코딩 에이전트를 사용할 수 있게 되었다. 이로 인해 사용자는 다양한 작업을 보다 효율적으로 수행할 수 있다. 또한 Le Chat에서는 복잡한 작업을 위한 새로운 작업 모드가 추가되어 기능이 확장되었다. 이러한 변화는 협업과 생산성을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "원격 에이전트",
         "Mistral Medium 3.5",
@@ -1648,7 +1776,7 @@
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "ai",
@@ -2057,34 +2185,36 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 고려해야 할 과제를 제시한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이며, 이 글은 디자이너들이 이를 고려해야 한다고 강조한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 숙제를 준다. 저자의 개인적인 견해를 바탕으로 디자이너들이 좋은 사람이라는 점을 강조하며 시작한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 웹사이트의 개선점을 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글은 디자이너들이 고려해야 할 점들을 제안한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 실질적인 과제를 제시한다. 저자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 역할에 대한 개인적인 의견을 공유한다. 디자이너들이 웹사이트의 접근성을 개선하기 위해 어떤 노력을 해야 하는지를 논의한다.",
       "keywords": [
         "디자인",
-        "웹사이트",
-        "접근성"
+        "접근성",
+        "웹사이트 개선"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "frontend",
       "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 팀원들이 데이터 전문가처럼 일할 수 있도록 지원합니다. AI를 활용해 데이터 민주주의를 실현하는 것을 목표로 합니다.",
-      "summary_full": "토스플레이스의 Data Analysis Team Leader 김윤아와 Data Analytics Engineer 정이을이 기획한 데이터봇 ‘판다(PANDA)’는 팀원들이 필요한 데이터를 신속하게 접근할 수 있도록 돕습니다. 이를 통해 대시보드나 요청 대기 없이 즉시 데이터 활용이 가능해집니다. AI를 활용하여 데이터 민주주의를 실현하고자 하는 토스플레이스의 비전이 담겨 있습니다. ‘판다’는 Place Analytics & Data의 약자로, 데이터 분석을 보다 쉽게 만들어줍니다.",
+      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발했습니다. 이를 통해 모든 팀원이 데이터 전문가처럼 신속하게 데이터를 활용할 수 있습니다.",
+      "summary_full": "토스플레이스의 데이터 조직은 AI를 활용하여 데이터 민주주의를 실현하고자 했습니다. 그 결과, 데이터 분석 어시스턴트 ‘판다(PANDA)’가 탄생했습니다. 판다는 Place Analytics & Data의 약자로, 팀원들이 필요한 데이터를 즉시 확인할 수 있도록 돕습니다. 이를 통해 업무 효율성을 높이고 데이터 접근성을 개선하고자 합니다.",
       "keywords": [
         "토스플레이스",
         "데이터봇",
-        "AI 분석"
+        "판다",
+        "AI",
+        "데이터 민주주의"
       ],
       "source": "toss.tech",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T03:28:00.000Z",
       "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "ai",
@@ -2105,8 +2235,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년을 대비한 UX 디자인의 주요 트렌드를 소개한다. 이 트렌드는 사용자 경험을 혁신하고 향상시키는 데 중점을 둔다.",
-      "summary_full": "2026년을 좌우할 9가지 UX 디자인 트렌드가 소개된다. 이 트렌드는 사용자 경험을 혁신하고 향상시키는 데 중점을 두며, 기술 발전과 사용자 요구에 따라 변화하는 디자인 방향성을 제시한다. 각 트렌드는 실질적인 사례와 함께 설명되어, 디자이너와 기업들이 참고할 수 있는 유용한 정보를 제공한다. 이러한 트렌드를 통해 UX 디자인의 미래를 예측하고 준비할 수 있다.",
+      "summary": "2026년의 UX 디자인 트렌드를 9가지로 정리했다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대된다.",
+      "summary_full": "2026년을 대비한 UX 디자인의 주요 트렌드 9가지를 소개한다. 이 트렌드는 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시한다. 특히, 개인화, 접근성, 지속 가능성 등이 강조되고 있다. 이러한 트렌드는 향후 UX 디자인의 핵심 요소로 자리잡을 것이다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -2116,13 +2246,13 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-09"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "ai",
       "title": "알리바바, 저가 AI 코딩 요금제 출시",
-      "summary": "알리바바가 저가의 AI 코딩 요금제를 출시했다. 이 요금제는 4종의 대형 언어 모델(LLM)을 지원한다.",
-      "summary_full": "알리바바가 새로운 저가 AI 코딩 요금제를 출시했다. 이 요금제는 다양한 사용자에게 접근성을 제공하며, 4종의 대형 언어 모델(LLM)을 지원한다. 이를 통해 개발자들은 보다 저렴한 비용으로 AI 코딩 서비스를 이용할 수 있게 된다. 알리바바는 AI 기술의 대중화를 목표로 하고 있다.",
+      "summary": "알리바바가 저렴한 AI 코딩 요금제를 출시했다. 이 요금제는 4종의 대형 언어 모델(LLM)을 지원한다.",
+      "summary_full": "알리바바가 저가의 AI 코딩 요금제를 새롭게 선보였다. 이 요금제는 다양한 사용자에게 접근성을 높이기 위해 설계되었다. 특히, 4종의 대형 언어 모델(LLM)을 지원하여 개발자들이 보다 효율적으로 코딩할 수 있도록 돕는다. 이러한 서비스는 AI 기술의 활용을 촉진할 것으로 기대된다.",
       "keywords": [
         "알리바바",
         "AI 코딩",
@@ -2132,7 +2262,7 @@
       "date": "2월 26일",
       "publishedAt": "2026-02-26T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tQkV2UXRuWTFSZ1JKalRIU0htYUZtRXUycFdYX3I1THZ6bUdCaGpwZnlpVy1hSDVkUGpXd0xvbTBaeTRYVXVuZ2VEZW05UQ?oc=5",
-      "collectedAt": "2026-05-05"
+      "collectedAt": "2026-05-10"
     },
     {
       "category": "ai",
