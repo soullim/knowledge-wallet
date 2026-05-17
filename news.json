@@ -1,38 +1,118 @@
 {
-  "updated": "2026년 5월 16일 AM 07:33",
-  "count": 180,
+  "updated": "2026년 5월 17일 AM 08:36",
+  "count": 186,
   "articles": [
     {
       "category": "industry",
       "title": "브랜딩 프로모션의 세계관 설계",
-      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법을 다룬다. AI와 1000번의 테스트를 통해 완성된 프로모션 디자인에 대한 이야기이다.",
-      "summary_full": "브랜딩 프로모션을 하나의 ‘세계관’으로 설계하는 과정에 대해 설명한다. KV에서 VMD까지의 과정을 포함하며, AI 기술을 활용한 혁신적인 접근 방식을 제시한다. 1000번의 테스트를 통해 완성된 프로모션 디자인의 결과를 공유한다. 이 기사는 AI와 디자인의 융합을 통해 새로운 가능성을 탐구한다.",
+      "summary": "AI와 1000번의 테스트를 통해 브랜딩 프로모션을 하나의 세계관으로 디자인하는 방법을 탐구한다.",
+      "summary_full": "이 기사는 브랜딩 프로모션을 KV에서 VMD까지 통합적으로 설계하는 과정에 대해 설명한다. AI 기술을 활용하여 1000번의 테스트를 거쳐 최적의 프로모션 디자인을 완성하는 과정을 다룬다. 이를 통해 브랜드의 메시지를 효과적으로 전달하고 소비자와의 연결을 강화하는 방법을 제시한다. 최종적으로, 이러한 접근 방식이 브랜드의 성공에 미치는 영향을 분석한다.",
       "keywords": [
         "브랜딩",
-        "프로모션",
-        "AI 디자인"
+        "프로모션 디자인",
+        "AI 기술"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 16일",
-      "publishedAt": "2026-05-16T07:32:03.478Z",
+      "date": "5월 17일",
+      "publishedAt": "2026-05-17T08:34:32.835Z",
       "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "design",
       "title": "에이전트, 숏폼 영상 제작",
-      "summary": "Runway Agent는 숏폼 영상을 쉽게 제작할 수 있는 도구입니다. 이 플랫폼은 사용자에게 다양한 기능을 제공하여 창의적인 콘텐츠를 생성하도록 돕습니다.",
-      "summary_full": "Runway Agent는 사용자가 숏폼 영상을 간편하게 만들 수 있도록 지원하는 혁신적인 도구입니다. 이 플랫폼은 직관적인 인터페이스와 다양한 편집 기능을 제공하여 누구나 쉽게 사용할 수 있습니다. 또한, 창의적인 콘텐츠 제작을 위한 다양한 템플릿과 효과를 지원합니다. 결과적으로, Runway Agent는 영상 제작의 접근성을 높이고 창작의 자유를 제공합니다.",
+      "summary": "Runway Agent는 숏폼 영상을 제작하는 도구입니다. 이 플랫폼은 사용자가 쉽게 영상 콘텐츠를 생성할 수 있도록 돕습니다.",
+      "summary_full": "Runway Agent는 숏폼 영상을 제작하는 혁신적인 도구입니다. 사용자는 간편한 인터페이스를 통해 창의적인 콘텐츠를 손쉽게 만들 수 있습니다. 이 플랫폼은 다양한 기능을 제공하여 영상 제작 과정을 간소화합니다. 결과적으로, 사용자들은 빠르고 효율적으로 고품질의 숏폼 영상을 제작할 수 있습니다.",
       "keywords": [
         "Runway Agent",
         "숏폼 영상",
         "영상 제작 도구"
       ],
       "source": "Secondbrush Blog",
-      "date": "5월 16일",
-      "publishedAt": "2026-05-16T07:31:56.466Z",
+      "date": "5월 17일",
+      "publishedAt": "2026-05-17T08:34:27.191Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-750/",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
+    },
+    {
+      "category": "frontend",
+      "title": "3초 만에 12개 프로젝트 템플릿을 생성하는 CLI 구축기",
+      "summary": "개발자들은 아이디어를 떠올린 후 보일러플레이트 설정에 많은 시간을 소모하는 고통을 겪는다. 이 글에서는 이를 해결하기 위해 3초 만에 12개의 프로젝트 템플릿을 생성하는 CLI를 구축한 과정을 소개한다.",
+      "summary_full": "개발자들은 종종 아이디어를 떠올린 후 터미널을 열고 보일러플레이트 설정에 많은 시간을 소모하는 고통을 경험한다. 이 문제를 해결하기 위해 저자는 3초 만에 12개의 프로젝트 템플릿을 생성할 수 있는 CLI를 개발했다. 이 과정에서 사용된 기술과 방법론을 상세히 설명한다. 이를 통해 개발자들이 더 효율적으로 작업할 수 있도록 돕고자 한다.",
+      "keywords": [
+        "CLI",
+        "프로젝트 템플릿",
+        "개발 도구"
+      ],
+      "source": "dev.to",
+      "date": "5월 17일",
+      "publishedAt": "2026-05-17T08:22:51.000Z",
+      "url": "https://dev.to/ke_jia_24bb2f9f84f14f728a/how-i-built-a-cli-that-generates-12-project-templates-in-3-seconds-18nk",
+      "collectedAt": "2026-05-17"
+    },
+    {
+      "category": "trend",
+      "title": "클리핑 패스가 온라인 판매 증가에 미치는 영향",
+      "summary": "클리핑 패스는 전자상거래에서 제품 이미지의 품질을 향상시켜 고객의 신뢰를 구축하는 데 중요한 역할을 한다. 전문적인 이미지로 첫인상을 강화하고 쇼핑 경험을 개선할 수 있다.",
+      "summary_full": "전자상거래에서 제품 이미지는 고객의 결정에 큰 영향을 미친다. 온라인 쇼핑객은 제품을 직접 검사할 수 없기 때문에, 시각적 요소가 신뢰 구축과 참여 유도에 중요한 역할을 한다. 깔끔하고 전문적인 제품 이미지는 브랜드의 첫인상을 강화하고 전반적인 쇼핑 경험을 개선하는 데 기여한다. 따라서 클리핑 패스를 활용한 이미지 편집은 판매 증가에 긍정적인 영향을 미친다.",
+      "keywords": [
+        "클리핑 패스",
+        "온라인 판매",
+        "제품 이미지"
+      ],
+      "source": "dev.to",
+      "date": "5월 17일",
+      "publishedAt": "2026-05-17T08:00:01.000Z",
+      "url": "https://dev.to/mark_williams_b294a743b9e/how-clipping-path-helps-increase-online-sales-1kd5",
+      "collectedAt": "2026-05-17"
+    },
+    {
+      "category": "industry",
+      "title": "기계에 친절해야 할까?",
+      "summary": "AI는 의식이 없지만 우리는 여전히 기계에게 예의를 갖춘다. 기술과의 대화 방식은 우리의 인간성을 반영한다.",
+      "summary_full": "AI는 감정이나 선호가 없는 비의식적인 존재임에도 불구하고, 우리는 여전히 기계에게 '제발'과 '감사합니다'라고 말한다. 기술과의 대화 방식은 과거의 명령형에서 현재의 대화형으로 변화하며, 이는 우리의 인간성을 드러낸다. 기계와의 상호작용이 점점 더 복잡해짐에 따라, 우리는 기계에 대한 태도를 다시 생각해야 할 필요가 있다.",
+      "keywords": [
+        "AI",
+        "기계와의 대화",
+        "인간성"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 16일",
+      "publishedAt": "2026-05-16T19:11:51.000Z",
+      "url": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-17"
+    },
+    {
+      "category": "industry",
+      "title": "파라데이 퓨처, 로봇 사업 전환을 위해 2,500만 달러 모금",
+      "summary": "파라데이 퓨처는 전환사채를 통해 2,500만 달러를 모금했다고 발표했다. 이번 자금은 2026년 말까지 로봇 사업 계획의 1단계를 지원하는 데 충분하다고 회사는 주장했다.",
+      "summary_full": "파라데이 퓨처는 목요일에 전환사채를 통해 2,500만 달러를 모금했다고 발표했다. 이번 자금 조달로 지난 두 달 동안 총 7,000만 달러를 확보하게 되었다. 회사는 이 자본이 2026년 말까지 로봇 사업 계획의 1단계를 지원하는 데 충분하다고 밝혔다. 그러나 주식 거래에 대한 세부 사항은 다소 다른 이야기를 전하고 있다.",
+      "keywords": [
+        "파라데이 퓨처",
+        "로봇 사업",
+        "자금 조달"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 16일",
+      "publishedAt": "2026-05-16T12:21:58.000Z",
+      "url": "https://thenextweb.com/news/faraday-future-25-million-robotics-pivot",
+      "collectedAt": "2026-05-17"
+    },
+    {
+      "category": "trend",
+      "title": "오래된 석유 및 가스 우물, 청정 에너지 생산으로 재활용 가능성",
+      "summary": "미국의 여러 주에서 주요 오염원인 오래된 석유 및 가스 우물을 활용하여 필요한 전력을 생산하려고 하고 있다. 이는 청정 에너지 전환에 기여할 수 있는 새로운 방법으로 주목받고 있다.",
+      "summary_full": "미국의 여러 주에서는 오래된 석유 및 가스 우물을 청정 에너지를 생산하는 데 활용하려는 노력이 진행되고 있다. 이러한 우물들은 오랜 기간 동안 환경에 해로운 오염을 발생시켜 왔지만, 이제는 이를 재활용하여 전력을 생산할 수 있는 가능성이 제기되고 있다. 이 접근 방식은 청정 에너지로의 전환을 가속화하고, 동시에 환경 문제를 해결하는 데 기여할 수 있다. 각 주에서는 이러한 프로젝트를 통해 에너지 자립성을 높이고, 지속 가능한 미래를 위한 기반을 마련하고자 하고 있다.",
+      "keywords": [
+        "석유 우물",
+        "가스 우물",
+        "청정 에너지"
+      ],
+      "source": "wired.com",
+      "date": "5월 16일",
+      "publishedAt": "2026-05-16T11:00:00.000Z",
+      "url": "https://www.wired.com/story/oil-wells-second-life-clean-energy/",
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "frontend",
@@ -83,6 +163,22 @@
       "collectedAt": "2026-05-16"
     },
     {
+      "category": "ai",
+      "title": "OpenAI와 몰타, 모든 시민에게 ChatGPT Plus 제공",
+      "summary": "OpenAI와 몰타가 협력하여 AI 접근성을 확대하고, 시민들에게 ChatGPT Plus와 AI 활용 교육을 제공합니다. 이를 통해 시민들이 실용적인 AI 기술을 습득하고 책임감 있게 AI를 사용할 수 있도록 지원합니다.",
+      "summary_full": "OpenAI와 몰타가 협력하여 모든 시민에게 ChatGPT Plus를 제공하기 위한 프로젝트를 시작했습니다. 이 파트너십은 시민들이 AI에 접근할 수 있도록 하고, AI 기술을 활용하는 방법에 대한 교육을 제공합니다. 이를 통해 시민들은 실용적인 AI 기술을 배우고, AI를 책임감 있게 사용할 수 있는 능력을 갖추게 됩니다. 몰타는 이러한 노력을 통해 AI 기술의 혜택을 모든 시민이 누릴 수 있도록 할 계획입니다.",
+      "keywords": [
+        "OpenAI",
+        "몰타",
+        "ChatGPT Plus"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 16일",
+      "publishedAt": "2026-05-16T00:00:00.000Z",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "collectedAt": "2026-05-17"
+    },
+    {
       "category": "industry",
       "title": "앤트로픽과 게이츠 재단, AI의 가능성에 2억 달러 투자",
       "summary": "앤트로픽이 게이츠 재단과 협력하여 2억 달러를 투자한다. 이 자금은 글로벌 건강, 생명과학, 교육 프로그램에 사용될 예정이다.",
@@ -117,18 +213,18 @@
     {
       "category": "design",
       "title": "사용자 경험 ROI의 10가지 데이터 기반 진실",
-      "summary": "오늘날의 경제에서 사용자 경험의 중요성이 증가하고 있다. 디자인은 더 이상 단순한 미적 선호가 아니라 비즈니스 가치에 큰 영향을 미친다.",
-      "summary_full": "오늘날의 고위험 경제에서 마찰이 많은 인터페이스의 비용은 단순한 '클릭 손실'이 아니라 수백만 달러의 엔지니어링 낭비와 비즈니스 가치 손실로 이어질 수 있다. 경험이 풍부한 UX 디자이너로서, 나는 비즈니스 리더들이 디자인을 '미적 선호'로 보는 것에서 사용자 경험의 중요성을 인식하는 방향으로 변화하는 것을 지켜보았다. 이러한 변화는 기업의 성공에 필수적인 요소로 자리 잡고 있다.",
+      "summary": "오늘날의 경제에서 마찰이 많은 인터페이스의 비용은 단순한 '잃어버린 클릭'이 아니라 수백만 달러의 엔지니어링 비용과 비즈니스 가치 손실로 이어질 수 있다. UX 디자인이 단순한 미적 선호가 아닌 비즈니스 전략으로 인식되고 있다.",
+      "summary_full": "현대 경제에서 사용자 경험의 중요성이 강조되고 있다. 마찰이 많은 인터페이스는 단순한 클릭 손실을 넘어 막대한 비용을 초래할 수 있다. UX 디자이너로서, 디자인이 비즈니스 전략의 핵심 요소로 자리 잡는 과정을 목격해왔다. 이는 기업들이 사용자 경험을 중시하게 만드는 중요한 변화이다.",
       "keywords": [
         "사용자 경험",
         "ROI",
-        "디자인 가치"
+        "디자인 전략"
       ],
       "source": "smashingmagazine.com",
       "date": "5월 15일",
       "publishedAt": "2026-05-15T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "frontend",
@@ -195,10 +291,26 @@
       "collectedAt": "2026-05-15"
     },
     {
+      "category": "ai",
+      "title": "AWS의 Claude 플랫폼 소개",
+      "summary": "AWS 계정을 통해 Anthropic의 Claude 플랫폼을 시작하는 방법을 소개합니다. 이 플랫폼은 클라우드 기반의 AI 솔루션을 제공합니다.",
+      "summary_full": "AWS는 Anthropic의 네이티브 Claude 플랫폼을 소개하며, 사용자가 AWS 계정을 통해 쉽게 접근할 수 있도록 안내합니다. Claude 플랫폼은 인공지능 기술을 활용하여 다양한 비즈니스 솔루션을 제공합니다. 이 플랫폼은 사용자가 AI 모델을 쉽게 구축하고 배포할 수 있는 환경을 제공합니다. AWS의 인프라를 통해 안정적이고 확장 가능한 서비스를 이용할 수 있습니다.",
+      "keywords": [
+        "AWS",
+        "Claude 플랫폼",
+        "Anthropic"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 15일",
+      "publishedAt": "2026-05-15T08:57:04.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1dkbkRGcng3MndPSkdOWHMzT3B3bHhUcHlzcmptbnY0OTJmdy1BbVlQTXRUclFyblpJaTJJRmk3MlBSWFp0b29idDlGaGg2aWJ2UmF3WFZ6ejlTZ1RxdEZTT0xxVVRJT21PblU5YWhMVVhaNmNrcEx1VlZWaXhPZXRhTjl5OV84OTZlMlFfNUFNZTE5aU41am9DODN5RFlQWEFrSzFBVDBWX0pQc3NrTGd1MXUtekZBeEJnZGpJTFJQZw?oc=5",
+      "collectedAt": "2026-05-17"
+    },
+    {
       "category": "industry",
       "title": "AI 보안의 출발점은 거버넌스",
-      "summary": "윤두식 이로운앤컴퍼니 대표는 기업 AI 보안의 핵심이 거버넌스에 있다고 강조했다. 이는 AI 모델 사용과 데이터 입력, 응답을 투명하게 관리하는 시스템을 의미한다.",
-      "summary_full": "윤두식 이로운앤컴퍼니 대표는 미토스 이후 기업 AI 보안의 핵심을 '거버넌스'에서 찾았다. 거버넌스는 누가 어떤 AI 모델을 사용하고, 어떤 데이터를 입력했는지 가시적으로 관리하는 체계를 의미한다. 민감정보 필터링, 유해 프롬프트 분류, 권한 관리, 사용량 및 비용 관리, 감사 로그의 결합이 필요하다고 설명했다. 이를 통해 실제 통제가 가능하다고 강조했다.",
+      "summary": "윤두식 대표는 기업 AI 보안의 핵심이 거버넌스에 있다고 강조했다. 이는 AI 모델 사용과 데이터 입력, 결과 확인을 가능하게 하는 가시성 체계를 의미한다.",
+      "summary_full": "윤두식 이로운앤컴퍼니 대표는 미토스 이후 기업 AI 보안의 핵심을 ‘거버넌스’에서 찾았다. 거버넌스는 AI 모델 사용, 데이터 입력, 결과 확인을 가능하게 하는 가시성 체계를 의미한다. 민감정보 필터링, 유해 프롬프트 분류, 권한 관리, 사용량 및 비용 관리, 감사 로그의 결합이 필요하다고 설명했다. 이를 통해 실제 통제가 가능하다고 강조했다.",
       "keywords": [
         "AI 보안",
         "거버넌스",
@@ -208,23 +320,7 @@
       "date": "5월 15일",
       "publishedAt": "2026-05-15T08:11:52.000Z",
       "url": "https://byline.network/2026/05/15-590/",
-      "collectedAt": "2026-05-16"
-    },
-    {
-      "category": "ai",
-      "title": "AWS의 Claude 플랫폼 소개",
-      "summary": "AWS 계정을 통해 Anthropic의 Claude 플랫폼을 시작하는 방법을 소개합니다. 이 플랫폼은 클라우드 기반의 AI 솔루션을 제공합니다.",
-      "summary_full": "AWS는 Anthropic의 네이티브 Claude 플랫폼을 소개하며, 사용자가 AWS 계정을 통해 쉽게 접근할 수 있도록 안내합니다. Claude 플랫폼은 인공지능 기술을 활용하여 다양한 비즈니스 요구를 충족시키는 데 도움을 줍니다. 이 플랫폼은 사용자 친화적인 인터페이스와 강력한 기능을 제공하여 기업들이 AI를 활용할 수 있는 기회를 확대합니다. AWS의 클라우드 인프라를 통해 안정적이고 확장 가능한 AI 솔루션을 제공합니다.",
-      "keywords": [
-        "AWS",
-        "Claude 플랫폼",
-        "Anthropic"
-      ],
-      "source": "Google News Anthropic",
-      "date": "5월 15일",
-      "publishedAt": "2026-05-15T06:44:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1dkbkRGcng3MndPSkdOWHMzT3B3bHhUcHlzcmptbnY0OTJmdy1BbVlQTXRUclFyblpJaTJJRmk3MlBSWFp0b29idDlGaGg2aWJ2UmF3WFZ6ejlTZ1RxdEZTT0xxVVRJT21PblU5YWhMVVhaNmNrcEx1VlZWaXhPZXRhTjl5OV84OTZlMlFfNUFNZTE5aU41am9DODN5RFlQWEFrSzFBVDBWX0pQc3NrTGd1MXUtekZBeEJnZGpJTFJQZw?oc=5",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "ai",
@@ -276,19 +372,19 @@
     },
     {
       "category": "ai",
-      "title": "Granite 다국어 임베딩 R2",
-      "summary": "Granite 다국어 임베딩 R2는 32K 컨텍스트를 지원하는 오픈 소스 다국어 임베딩을 제공합니다. 이 모델은 1억 미만의 검색 품질에서 최고의 성능을 자랑합니다.",
-      "summary_full": "Granite 다국어 임베딩 R2는 Apache 2.0 라이선스 하에 제공되는 다국어 임베딩 모델입니다. 이 모델은 32K의 컨텍스트를 지원하여 다양한 언어 처리 작업에 적합합니다. 특히, 1억 미만의 데이터셋에서 최고의 검색 품질을 제공합니다. 이는 다국어 검색 및 정보 검색 시스템에 유용하게 활용될 수 있습니다.",
+      "title": "그라나이트 임베딩 다국어 R2",
+      "summary": "그라나이트 임베딩 다국어 R2는 32K 컨텍스트를 지원하는 오픈 아파치 2.0 다국어 임베딩을 제공합니다. 이 기술은 1억 이하의 검색 품질에서 최고의 성능을 자랑합니다.",
+      "summary_full": "그라나이트 임베딩 다국어 R2는 32K 컨텍스트를 지원하는 오픈 아파치 2.0 다국어 임베딩을 제공합니다. 이 임베딩은 다양한 언어를 지원하며, 특히 1억 이하의 검색 품질에서 최고의 성능을 자랑합니다. 이를 통해 다국어 데이터 처리에 있어 효율성을 높일 수 있습니다. 이 기술은 연구자와 개발자들에게 유용한 도구가 될 것입니다.",
       "keywords": [
+        "그라나이트",
         "다국어 임베딩",
-        "Granite",
         "검색 품질"
       ],
       "source": "HuggingFace Blog",
       "date": "5월 14일",
       "publishedAt": "2026-05-14T18:55:01.000Z",
       "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "frontend",
@@ -420,25 +516,25 @@
     },
     {
       "category": "ai",
-      "title": "락게이트코어, AI 보안점검 플랫폼 모무스AI 출시",
-      "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 '모무스AI'를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 효율성을 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼인 '모무스AI'를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검을 자동화하는 기능을 제공한다. 이를 통해 기업들은 보안 점검의 효율성을 높이고 인적 오류를 줄일 수 있을 것으로 보인다. 모무스AI는 다양한 산업 분야에서 활용될 수 있는 가능성을 지니고 있다.",
+      "title": "락게이트코어, LLM 기반 AI 보안점검 플랫폼 `모무스AI` 출시",
+      "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 `모무스AI`를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 효율성을 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼인 `모무스AI`를 출시했다. 이 플랫폼은 대형 언어 모델(LLM)을 기반으로 하여 보안 점검 과정을 자동화한다. 이를 통해 기업들은 보안 점검의 효율성을 크게 향상시킬 수 있을 것으로 보인다. `모무스AI`는 다양한 보안 위협을 실시간으로 분석하고 대응할 수 있는 기능을 제공한다.",
       "keywords": [
-        "AI",
-        "보안점검",
-        "모무스AI"
+        "AI 보안",
+        "모무스AI",
+        "락게이트코어"
       ],
       "source": "Google News AI (KR)",
       "date": "5월 14일",
       "publishedAt": "2026-05-14T05:40:12.000Z",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBORzEtRVdMRE01NmgtZ0RVcmtBR3NTMmJqZl81UGJvUWF1Tl8yV25fVzh1ZnRPZkQzZ0pnZnFWNENST1FJbVlYRnRLb2d1OEthNXN1NnV6ZzJIVVFRZnhwTEVHdHE?oc=5",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "ai",
       "title": "2028년 글로벌 AI 리더십을 위한 두 가지 시나리오",
       "summary": "2028년을 대비한 글로벌 AI 리더십에 대한 두 가지 시나리오를 제시한다. 이 정책은 AI 기술의 발전과 국제 경쟁력을 고려한다.",
-      "summary_full": "2028년을 목표로 하는 정책은 글로벌 AI 리더십을 위한 두 가지 가능한 시나리오를 탐구한다. 첫 번째 시나리오는 기술 혁신과 협력을 통한 리더십 강화에 초점을 맞춘다. 두 번째 시나리오는 경쟁과 갈등 속에서의 AI 기술 발전을 다룬다. 이러한 시나리오는 각국의 정책 결정에 중요한 영향을 미칠 것으로 예상된다.",
+      "summary_full": "2028년을 목표로 하는 글로벌 AI 리더십에 대한 두 가지 가능한 시나리오를 탐구한다. 첫 번째 시나리오는 기술 혁신과 협력을 통해 AI 분야에서의 선두주자가 되는 것을 강조한다. 두 번째 시나리오는 경쟁과 규제를 중심으로 한 접근 방식을 제안하며, 각국의 정책 방향에 따라 달라질 수 있음을 시사한다. 이러한 시나리오는 향후 AI 정책 결정에 중요한 기초 자료가 될 것이다.",
       "keywords": [
         "AI 리더십",
         "정책 시나리오",
@@ -448,13 +544,13 @@
       "date": "5월 14일",
       "publishedAt": "2026-05-14T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/2028-ai-leadership",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "frontend",
       "title": "AI 시대, 성과 내는 조직일수록 토스식 TPM이 필요한 이유",
-      "summary": "한국 Tech 업계에서 TPM의 필요성이 증가하고 있다. 효과적인 Cross-Functional 협업과 리스크 관리가 중요하다.",
-      "summary_full": "한국의 Tech 업계에서 TPM(Technical Program Manager)의 수가 적지만, 주요 Tech 회사에서 중요한 역할을 하고 있다. 이들은 Cross-Functional 협업, 이해관계자 조율, 리스크 관리, 일정 관리 등을 통해 큰 프로그램을 이끌고 있다. 그러나 단순한 일정 관리로는 해결되지 않는 복잡한 문제들이 존재한다. 따라서 더 큰 임팩트를 위해서는 TPM의 역할이 필수적이다.",
+      "summary": "한국 Tech 업계에서 TPM의 필요성이 증가하고 있으며, 이 역할은 Cross-Functional 협업과 리스크 관리 등 다양한 기능을 포함한다.",
+      "summary_full": "TPM은 Tech 회사에서 중요한 역할을 하며, 여러 팀 간의 협업과 이해관계자 조율을 통해 큰 프로그램을 성공적으로 이끌어낸다. 그러나 일정 관리만으로는 해결할 수 없는 복잡한 문제들이 존재한다. 이러한 문제들은 책임 소재가 불분명하고 실행 구조가 부족한 경우가 많다. 따라서 TPM의 역할을 강화하는 것이 필요하다.",
       "keywords": [
         "TPM",
         "Tech 업계",
@@ -464,7 +560,7 @@
       "date": "5월 14일",
       "publishedAt": "2026-05-14T00:00:00.000Z",
       "url": "https://toss.tech/article/toss-tpm",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "frontend",
@@ -932,9 +1028,9 @@
     },
     {
       "category": "figma",
-      "title": "스킬은 반복적으로 사용하는 규칙과 워크플로우를 정리한 마크다운 파일입니다.",
-      "summary": "스킬을 통해 프로토타입을 표준에 맞춰 더 적은 프롬프트로 생성할 수 있습니다. 기존 스킬을 가져오거나 Make에서 새로 만들고, 슬래시 명령어로 호출하여 재사용 가능한 컨텍스트를 추가할 수 있습니다.",
-      "summary_full": "스킬은 반복적으로 사용하는 규칙과 워크플로우를 정리한 마크다운 파일입니다. 이를 통해 프로토타입을 표준에 맞춰 더 적은 프롬프트로 생성할 수 있습니다. 기존 스킬을 가져오거나 Make에서 새로 만들 수 있으며, 슬래시 명령어로 호출하여 재사용 가능한 컨텍스트를 추가할 수 있습니다. 예를 들어, /insert-sample-data 명령어를 사용하여 회사 승인 테스트 데이터를 삽입할 수 있습니다.",
+      "title": "스킬을 활용한 반복 작업 최적화",
+      "summary": "스킬은 반복적으로 사용하는 규칙과 워크플로우를 정리한 마크다운 파일입니다. 이를 통해 프로토타입을 더 적은 프롬프트로 기준에 맞게 생성할 수 있습니다.",
+      "summary_full": "스킬은 반복적으로 사용하는 규칙과 워크플로우를 정리한 마크다운 파일입니다. 기존 스킬을 가져오거나 Make에서 새로 생성할 수 있으며, 슬래시 명령어로 호출할 수 있습니다. 이를 통해 모든 Make 파일에서 재사용 가능한 컨텍스트를 가져올 수 있습니다. 예를 들어, /insert-sample-data 명령어를 사용하여 회사 승인 테스트 데이터를 쉽게 삽입할 수 있습니다.",
       "keywords": [
         "스킬",
         "마크다운 파일",
@@ -944,7 +1040,7 @@
       "date": "5월 11일",
       "publishedAt": "2026-05-11T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "ai",
@@ -1621,8 +1717,8 @@
     {
       "category": "ai",
       "title": "알파이볼브: 제미니 기반 코딩 에이전트의 영향력 확대",
-      "summary": "알파이볼브의 제미니 기반 알고리즘이 비즈니스, 인프라, 과학 분야에서 영향력을 확대하고 있다. 다양한 분야에서의 적용 사례를 통해 그 효과를 살펴본다.",
-      "summary_full": "알파이볼브는 제미니 기반의 알고리즘을 통해 여러 분야에서 긍정적인 영향을 미치고 있다. 비즈니스, 인프라, 과학 등 다양한 분야에서 이 기술이 어떻게 활용되고 있는지를 탐구한다. 이러한 알고리즘은 효율성을 높이고 혁신을 촉진하는 데 기여하고 있다. 앞으로의 발전 가능성에 대한 기대감도 커지고 있다.",
+      "summary": "알파이볼브의 제미니 기반 알고리즘이 비즈니스, 인프라, 과학 분야에서 영향력을 확대하고 있다. 이 기술이 다양한 분야에 미치는 긍정적인 영향을 살펴본다.",
+      "summary_full": "알파이볼브는 제미니 기반 알고리즘을 통해 여러 분야에서 혁신적인 변화를 이끌고 있다. 이 기술은 비즈니스 운영을 최적화하고, 인프라 구축을 지원하며, 과학 연구에 기여하고 있다. 다양한 산업에서의 적용 사례를 통해 그 효과를 입증하고 있다. 앞으로의 발전 가능성에 대한 기대도 크다.",
       "keywords": [
         "알파이볼브",
         "제미니",
@@ -1632,7 +1728,7 @@
       "date": "5월 6일",
       "publishedAt": "2026-05-06T10:43:49.000Z",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "design",
@@ -2420,19 +2516,19 @@
     },
     {
       "category": "ai",
-      "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 지원합니다. 복잡한 작업을 위한 Le Chat의 새로운 작업 모드도 추가되었습니다.",
-      "summary_full": "Mistral Medium 3.5가 출시되어 Vibe에서 원격 코딩 에이전트를 사용할 수 있게 되었습니다. 이 새로운 기능은 사용자들이 복잡한 작업을 보다 효율적으로 수행할 수 있도록 돕습니다. 또한, Le Chat에서는 새로운 작업 모드가 도입되어 다양한 작업을 지원합니다. 이러한 변화는 개발자와 사용자 간의 협업을 더욱 원활하게 만들어 줄 것입니다.",
+      "title": "Vibe의 원격 에이전트",
+      "summary": "Mistral Medium 3.5를 소개합니다. Le Chat의 새로운 작업 모드가 복잡한 작업을 지원합니다.",
+      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 제공합니다. 이 새로운 기능은 복잡한 작업을 처리하기 위해 Le Chat의 작업 모드를 포함합니다. 이를 통해 사용자들은 효율적으로 작업을 수행할 수 있습니다. Mistral Medium 3.5는 혁신적인 솔루션을 제공합니다.",
       "keywords": [
-        "원격 에이전트",
         "Mistral Medium 3.5",
+        "원격 에이전트",
         "Le Chat"
       ],
       "source": "Mistral AI",
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "ai",
@@ -2725,8 +2821,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 어떻게 더 나은 웹사이트를 만들 수 있는지에 대한 개인적인 의견을 제시한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 어떻게 더 나은 웹사이트를 만들 수 있는지에 대한 개인적인 의견을 제시한다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자들에게 숙제를 준다. 디자이너들은 좋은 사람이며, 그들의 의도가 중요하다는 점을 강조한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 고려해야 할 과제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글에서는 디자이너들이 반드시 숙지해야 할 과제를 제시한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 개인적인 의견을 바탕으로 실질적인 조언을 한다. 디자이너들은 본질적으로 좋은 사람들이다. 이 글은 디자인의 중요성과 웹사이트 접근성에 대한 인식을 높이기 위한 내용을 담고 있다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -2736,7 +2832,7 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "frontend",
@@ -2774,7 +2870,7 @@
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
       "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 사용자 경험을 향상시키고, 기술의 발전에 발맞춰 변화하는 방향성을 제시합니다. 각 트렌드는 디자인의 접근성과 효율성을 높이는 데 중점을 두고 있습니다. 이러한 변화는 기업의 경쟁력을 강화하는 데 중요한 역할을 할 것입니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 변화하는 디자인 방향성을 제시합니다. 각 트렌드는 사용자 경험을 향상시키고, 기업의 경쟁력을 높이는 데 기여할 것입니다. 향후 UX 디자인의 미래를 엿볼 수 있는 기회입니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -2784,7 +2880,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-16"
+      "collectedAt": "2026-05-17"
     },
     {
       "category": "design",
