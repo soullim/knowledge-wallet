@@ -1,7 +1,169 @@
 {
-  "updated": "2026년 5월 19일 AM 11:44",
-  "count": 202,
+  "updated": "2026년 5월 20일 AM 10:39",
+  "count": 213,
   "articles": [
+    {
+      "category": "frontend",
+      "title": "2026년 구글 AI 에이전트, 강력한 검색 도구 도입",
+      "summary": "구글 I/O 2026에서 새로운 검색 상자와 Gemini 3.5 Flash 업그레이드가 주목받았다. 구글의 새로운 정보 에이전트는 24시간 웹을 스캔하며 관련 알림을 전송한다.",
+      "summary_full": "구글 I/O 2026에서는 새로운 검색 상자와 Gemini 3.5 Flash 업그레이드에 대한 많은 보도가 있었다. 하지만 일상 습관을 변화시키는 중요한 점은 구글의 새로운 정보 에이전트가 24시간 웹을 스캔하고 있다는 것이다. 이 에이전트는 사용자가 원하는 정보가 생길 때마다 푸시 알림을 보내준다. AI 모드는 출시 1년 만에 월간 사용자 수가 10억을 넘었다.",
+      "keywords": [
+        "구글",
+        "AI 에이전트",
+        "검색 도구"
+      ],
+      "source": "dev.to",
+      "date": "5월 20일",
+      "publishedAt": "2026-05-20T10:38:35.000Z",
+      "url": "https://dev.to/pixelaura_tech/google-ai-agents-get-powerful-new-search-tools-in-2026-2hbm",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "industry",
+      "title": "브랜딩 프로모션의 세계관 설계",
+      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법을 다룬다. AI와 1000번의 테스트를 통해 완성된 디자인 프로세스를 소개한다.",
+      "summary_full": "브랜딩 프로모션을 세계관으로 설계하는 과정에 대해 설명한다. KV에서 VMD까지의 통합적인 접근 방식을 강조한다. AI 기술을 활용하여 1000번의 테스트를 거쳐 최적의 디자인을 완성하였다. 이러한 혁신적인 프로모션 디자인은 브랜드의 정체성을 강화하는 데 기여한다.",
+      "keywords": [
+        "브랜딩",
+        "프로모션",
+        "AI 디자인"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "5월 20일",
+      "publishedAt": "2026-05-20T10:38:01.229Z",
+      "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "design",
+      "title": "이미지로부터 효과음 생성하기",
+      "summary": "VARCO Sound를 이용해 이미지에서 효과음을 생성하는 방법을 소개합니다. 이 기술은 시각적 요소를 소리로 변환하여 새로운 경험을 제공합니다.",
+      "summary_full": "이 기사에서는 VARCO Sound라는 기술을 통해 이미지를 효과음으로 변환하는 과정을 설명합니다. 이미지의 특징을 분석하여 그에 맞는 소리를 생성하는 방식입니다. 이를 통해 사용자는 시각적 콘텐츠를 청각적으로도 경험할 수 있습니다. 이 기술은 다양한 분야에서 활용될 수 있는 가능성을 지니고 있습니다.",
+      "keywords": [
+        "효과음",
+        "이미지",
+        "VARCO Sound"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 20일",
+      "publishedAt": "2026-05-20T10:37:55.893Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-753/",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "trend",
+      "title": "아우라 빌드 AI 디자인 도구: 더 빠른 제품 팀을 위한 스마트 UI 디자인",
+      "summary": "현대 웹사이트 프로젝트는 디자인과 개발이 분리되어 있어 진행 속도가 느리다. 아우라 빌드 AI 디자인 도구는 AI로 생성된 UI와 즉시 사용할 수 있는 코드를 제공하여 이러한 문제를 해결한다.",
+      "summary_full": "현대 웹사이트 프로젝트는 디자인과 개발이 분리되어 있어 팀이 레이아웃을 재구성하고 반응성을 수정하는 데 많은 시간을 소모한다. 아우라 빌드 AI 디자인 도구는 AI로 생성된 UI와 즉시 사용할 수 있는 코드를 통해 이러한 문제를 해결한다. 이를 통해 제품 팀은 반복적인 작업을 줄이고 더 빠르게 작업할 수 있다. 이 도구는 디자인과 개발의 경계를 허물어 효율성을 높인다.",
+      "keywords": [
+        "AI 디자인 도구",
+        "UI 디자인",
+        "웹사이트 프로젝트"
+      ],
+      "source": "dev.to",
+      "date": "5월 20일",
+      "publishedAt": "2026-05-20T10:22:59.000Z",
+      "url": "https://dev.to/designmonks/aura-build-ai-design-tool-smarter-ui-design-for-faster-product-teams-d4b",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "trend",
+      "title": "선거 관리들이 투표소에 ICE가 나타날 준비를 하고 있다",
+      "summary": "트럼프 행정부는 연방 요원들이 선거를 감독하겠다고 위협하고 있다. 주 및 지방 관리들은 이에 대비하고 있으며, 체포될 경우의 상황도 시뮬레이션하고 있다.",
+      "summary_full": "트럼프 행정부는 연방 요원들이 선거 현장에 나타날 것이라고 지속적으로 위협하고 있다. 이에 따라 주 및 지방 선거 관리들은 이러한 상황에 대비하고 있다. 그들은 만약 체포될 경우 어떻게 대처할지를 시뮬레이션하고 있다. 이러한 준비는 선거의 공정성과 안전성을 확보하기 위한 노력의 일환이다.",
+      "keywords": [
+        "선거",
+        "ICE",
+        "트럼프 행정부"
+      ],
+      "source": "wired.com",
+      "date": "5월 20일",
+      "publishedAt": "2026-05-20T10:00:00.000Z",
+      "url": "https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "industry",
+      "title": "구글, 정밀 편집을 겨냥한 워크스페이스 네이티브 AI 이미지 생성기 Pics 발표",
+      "summary": "구글은 Nano Banana 2를 기반으로 한 AI 이미지 생성기 Pics를 발표했다. 이 도구는 사용자가 텍스트 프롬프트로 이미지를 생성하고 개별 요소를 이동, 크기 조정, 변환할 수 있게 해준다.",
+      "summary_full": "구글은 I/O 2026 개발자 회의에서 Pics를 공개했다. 이 AI 이미지 생성기는 사용자가 텍스트 프롬프트를 통해 이미지를 생성하고, 전체 구성을 다시 만들지 않고도 개별 요소를 조정할 수 있도록 한다. Pics는 Workspace Business Standard 이상 및 Google AI Pro와 Ultra 구독자에게 향후 몇 달 내에 제공될 예정이다. 이는 Canva와의 경쟁을 염두에 둔 기능이다.",
+      "keywords": [
+        "구글",
+        "AI 이미지 생성기",
+        "정밀 편집"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 20일",
+      "publishedAt": "2026-05-20T09:56:32.000Z",
+      "url": "https://thenextweb.com/news/google-pics-workspace-ai-image-generator-nano-banana-2",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "industry",
+      "title": "피지컬 AI의 엔진 ‘VLA’",
+      "summary": "피지컬 AI가 AI 기술 트렌드의 중심으로 떠오르고 있으며, VLA는 이 시장의 핵심 엔진으로 주목받고 있다. 그러나 안전성보다 속도를 우선시하는 개발 관행이 지속될 경우, VLA는 인류에게 위협이 될 수 있다.",
+      "summary_full": "인공지능 기술의 발전이 에이전틱 AI에서 피지컬 AI로 이동하고 있다. VLA는 피지컬 AI 시장에서 중요한 역할을 하는 엔진으로 평가받고 있다. 하지만 개발 과정에서 안전성을 간과하고 속도를 중시하는 관행이 쌓이면, VLA는 인류에게 위험한 존재가 될 가능성이 있다. 따라서 안전성과 윤리를 고려한 개발이 필요하다.",
+      "keywords": [
+        "피지컬 AI",
+        "VLA",
+        "안전성",
+        "AI 기술",
+        "개발 관행"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 20일",
+      "publishedAt": "2026-05-20T08:52:37.000Z",
+      "url": "https://byline.network/2026/05/18-582/",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "ai",
+      "title": "OpenAI의 국가 교육 다음 단계",
+      "summary": "OpenAI는 국가 교육을 발전시키며 학교에서 AI 채택을 확대하고 있다. 새로운 파트너십, 교사 교육, 도구를 통해 글로벌 학습 성과를 개선하고 있다.",
+      "summary_full": "OpenAI는 국가 교육을 위한 새로운 단계를 추진하고 있다. 이는 학교에서 인공지능(AI)의 채택을 확대하는 것을 목표로 한다. 새로운 파트너십과 교사 교육 프로그램, 다양한 도구를 통해 전 세계의 학습 성과를 개선하고자 한다. 이러한 노력은 교육의 질을 높이고, 학생들에게 더 나은 학습 경험을 제공하는 데 기여할 것이다.",
+      "keywords": [
+        "OpenAI",
+        "교육",
+        "인공지능"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 20일",
+      "publishedAt": "2026-05-20T00:00:00.000Z",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "industry",
+      "title": "윤리적 인터페이스 디자인에서 가톨릭 철학의 필요성",
+      "summary": "가톨릭 철학이 윤리적 디자인의 기초를 제공할 수 있다는 주장을 다룬다. AI와 형이상학을 통해 도덕적 기반을 탐구하는 내용이다.",
+      "summary_full": "가톨릭 철학이 윤리적 디자인에 필요한 기초를 제공할 수 있다는 주장을 제시한다. 저자는 이 주장을 제기하게 된 배경과 자신의 생각의 변화를 설명한다. AI와 형이상학을 통해 디자인의 도덕적 기반을 찾는 과정이 중요하다고 강조한다. 이러한 논의는 점점 더 많은 사람들에게 공감을 얻고 있다.",
+      "keywords": [
+        "가톨릭 철학",
+        "윤리적 디자인",
+        "AI와 형이상학"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 19일",
+      "publishedAt": "2026-05-19T21:54:23.000Z",
+      "url": "https://uxdesign.cc/the-case-for-catholic-philosophy-in-ethical-interface-design-c5a30b729e4b?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "ai",
+      "title": "OlmoEarth v1.1: 더 효율적인 모델 가족",
+      "summary": "OlmoEarth v1.1은 더 효율적인 모델을 제공하는 업데이트입니다. 이 버전은 성능 향상과 자원 절약을 목표로 하고 있습니다.",
+      "summary_full": "OlmoEarth v1.1은 모델의 효율성을 높이기 위해 설계된 업데이트입니다. 새로운 기능과 개선 사항이 포함되어 있어 사용자에게 더 나은 경험을 제공합니다. 이 버전은 성능을 향상시키고 자원 사용을 줄이는 데 중점을 두고 있습니다. 결과적으로, OlmoEarth v1.1은 다양한 응용 프로그램에서 더 나은 결과를 제공합니다.",
+      "keywords": [
+        "OlmoEarth",
+        "모델",
+        "효율성"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "5월 19일",
+      "publishedAt": "2026-05-19T18:38:09.000Z",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "collectedAt": "2026-05-20"
+    },
     {
       "category": "frontend",
       "title": "Shopify와 WooCommerce: UAE 전자상거래 스토어에 적합한 플랫폼은?",
@@ -16,22 +178,6 @@
       "date": "5월 19일",
       "publishedAt": "2026-05-19T11:44:02.000Z",
       "url": "https://dev.to/anastanveer/shopify-vs-woocommerce-which-one-for-your-uae-e-commerce-store-411b",
-      "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "industry",
-      "title": "브랜딩 프로모션의 세계관 설계",
-      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법에 대해 다룬다. AI와 수많은 테스트를 통해 완성된 프로모션 디자인의 과정을 소개한다.",
-      "summary_full": "브랜딩 프로모션을 세계관으로 설계하는 과정이 설명된다. KV에서 VMD까지의 통합적 접근이 강조된다. AI와 1000번의 테스트를 통해 최적화된 디자인이 완성되었다. 이 과정은 현대 마케팅의 혁신적인 변화를 보여준다.",
-      "keywords": [
-        "브랜딩",
-        "프로모션",
-        "AI 디자인"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "5월 19일",
-      "publishedAt": "2026-05-19T11:43:00.590Z",
-      "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
       "collectedAt": "2026-05-19"
     },
     {
@@ -116,6 +262,22 @@
     },
     {
       "category": "ai",
+      "title": "유전적 단서를 빠르게 추적하여 세포 노화 역전",
+      "summary": "생물학자들이 Co-Scientist를 사용하여 인간 세포를 성공적으로 젊어지게 하는 새로운 요인을 발견했다. 이 연구는 세포 노화의 역전 가능성을 제시한다.",
+      "summary_full": "생물학자들이 Co-Scientist라는 도구를 활용하여 인간 세포를 젊어지게 하는 혁신적인 요인을 찾아냈다. 이 발견은 세포 노화를 역전시키는 새로운 접근법을 제시한다. 연구진은 다양한 유전적 단서를 분석하여 효과적인 젊어짐을 이끌어내는 요소들을 규명했다. 이 연구는 향후 노화 관련 질환 치료에 중요한 기초 자료가 될 것으로 기대된다.",
+      "keywords": [
+        "유전자",
+        "세포 노화",
+        "재생 의학"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "5월 18일",
+      "publishedAt": "2026-05-18T18:21:39.000Z",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "ai",
       "title": "로봇 비디오 생성을 위한 NVIDIA Cosmos Predict 2.5의 LoRA/DoRA 미세 조정",
       "summary": "NVIDIA Cosmos Predict 2.5를 LoRA와 DoRA 기법으로 미세 조정하여 로봇 비디오 생성의 효율성을 높인다. 이 기술은 로봇의 비디오 생성 능력을 향상시키는 데 기여한다.",
       "summary_full": "이 연구에서는 NVIDIA Cosmos Predict 2.5 모델을 LoRA 및 DoRA 기법으로 미세 조정하여 로봇 비디오 생성의 성능을 극대화하는 방법을 제시한다. LoRA와 DoRA는 모델의 파라미터 수를 줄이면서도 높은 성능을 유지하는 데 도움을 준다. 이를 통해 로봇이 보다 자연스럽고 현실적인 비디오를 생성할 수 있도록 지원한다. 이 기술은 로봇 비디오 생성 분야에서의 혁신적인 접근법으로 평가된다.",
@@ -132,9 +294,9 @@
     },
     {
       "category": "frontend",
-      "title": "문서 간 뷰 전환: 아무도 언급하지 않는 주의사항",
-      "summary": "문서 간 뷰 전환에 대한 실수와 주의사항을 다룬다. 개발자가 경험한 어려움과 해결책을 공유한다.",
-      "summary_full": "이 글에서는 문서 간 뷰 전환을 구현하는 과정에서 겪은 문제점들을 설명한다. 특히, 개발자가 경험한 실수와 그로 인해 소중한 시간을 낭비한 사례를 다룬다. 또한, 이러한 전환을 효과적으로 구현하기 위한 팁과 주의사항을 제공한다. 이 글은 개발자들에게 유용한 정보를 제공하여 더 나은 결과를 도출할 수 있도록 돕는다.",
+      "title": "문서 간 뷰 전환: 누가 언급하지 않는 문제점들",
+      "summary": "문서 간 뷰 전환에 대한 실험에서 예상치 못한 문제를 경험했다. 이 기술이 실제로 존재하고 매끄러운 페이지 전환을 제공할 수 있다는 것을 알고 있었지만, 구현 과정에서 어려움을 겪었다.",
+      "summary_full": "이 글에서는 문서 간 뷰 전환을 구현하는 과정에서 발생할 수 있는 다양한 문제점들을 다룬다. 저자는 이 기술에 대한 기대와 실제 경험의 차이를 강조하며, 특히 주의해야 할 점들을 설명한다. 또한, 이러한 문제들이 개발자들에게 어떻게 영향을 미칠 수 있는지를 논의한다. 마지막으로, 성공적인 구현을 위한 팁과 조언을 제공한다.",
       "keywords": [
         "뷰 전환",
         "웹 개발",
@@ -144,7 +306,7 @@
       "date": "5월 18일",
       "publishedAt": "2026-05-18T13:47:19.000Z",
       "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "design",
@@ -280,19 +442,19 @@
     },
     {
       "category": "figma",
-      "title": "Figma Slides에 섹션 추가",
-      "summary": "Figma Slides에 섹션 기능이 추가되어 프레젠테이션을 더 쉽게 구성하고 탐색할 수 있게 되었습니다. 슬라이드 행의 이름을 지정하고, 순서를 변경하며, 발표자 또는 청중 보기에서 섹션 간에 직접 이동할 수 있습니다.",
-      "summary_full": "Figma Slides에 새로운 섹션 기능이 도입되어 사용자가 프레젠테이션을 보다 효율적으로 정리하고 탐색할 수 있게 되었습니다. 사용자는 슬라이드 행의 이름을 지정하고, 드래그하여 순서를 변경할 수 있으며, 발표자 또는 청중 보기에서 섹션 간에 직접 이동할 수 있습니다. 또한, 디자인 모드의 레이어 패널에서도 섹션이 표시되어 프레젠테이션이 커져도 쉽게 탐색할 수 있습니다. 이 기능은 오늘부터 배포됩니다.",
+      "title": "Figma 슬라이드에 섹션 추가",
+      "summary": "Figma 슬라이드에 섹션 기능이 추가되어 프레젠테이션을 더 쉽게 조직하고 탐색할 수 있게 되었습니다. 슬라이드 행 이름을 지정하고, 순서를 변경하며, 발표자 또는 청중 보기에서 섹션 간에 직접 이동할 수 있습니다.",
+      "summary_full": "Figma 슬라이드에 섹션 기능이 추가되어 프레젠테이션을 더 쉽게 조직하고 탐색할 수 있게 되었습니다. 사용자는 슬라이드 행 이름을 지정하고, 드래그하여 순서를 변경할 수 있습니다. 발표자 또는 청중 보기에서 섹션 간에 직접 이동할 수 있으며, 디자인 모드의 레이어 패널에서도 섹션을 확인할 수 있습니다. 이러한 기능은 프레젠테이션이 커져도 쉽게 탐색할 수 있도록 도와줍니다.",
       "keywords": [
         "Figma",
-        "프레젠테이션",
-        "섹션 기능"
+        "슬라이드",
+        "프레젠테이션"
       ],
       "source": "Figma Release Notes",
       "date": "5월 18일",
       "publishedAt": "2026-05-18T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "design",
@@ -489,8 +651,8 @@
     {
       "category": "design",
       "title": "사용자 경험 ROI의 10가지 데이터 기반 진실",
-      "summary": "오늘날의 경제에서 불편한 인터페이스는 단순한 클릭 손실이 아니라 수백만 달러의 낭비로 이어질 수 있다. UX 디자인이 단순한 미적 선호가 아닌 비즈니스 가치에 중요한 요소로 인식되고 있다.",
-      "summary_full": "현대 경제에서 불편한 인터페이스는 단순한 클릭 손실을 넘어 수백만 달러의 엔지니어링 비용 낭비와 비즈니스 가치 손실로 이어질 수 있다. 경험이 풍부한 UX 디자이너로서, 나는 비즈니스 리더들이 디자인을 단순한 미적 선호로 여기던 시절에서 사용자 경험의 중요성을 인식하게 되는 변화를 목격해왔다. 사용자 경험이 비즈니스 성공에 미치는 영향을 강조하는 데이터 기반의 진실들이 제시되고 있다. 이러한 진실들은 기업들이 디자인에 대한 접근 방식을 재고하도록 유도하고 있다.",
+      "summary": "오늘날의 경제에서 마찰이 많은 인터페이스는 단순한 '잃어버린 클릭'이 아니라 수백만 달러의 엔지니어링 비용 낭비와 비즈니스 가치 손실로 이어질 수 있다. UX 디자인이 단순한 미적 선호가 아닌 비즈니스 성공의 핵심으로 인식되고 있다.",
+      "summary_full": "오늘날의 경제에서 마찰이 많은 인터페이스는 단순한 '잃어버린 클릭'이 아니라 수백만 달러의 엔지니어링 비용 낭비와 비즈니스 가치 손실로 이어질 수 있다. UX 디자이너로서, 디자인이 단순한 미적 선호가 아닌 사용자 경험의 중요성을 인식하는 방향으로 비즈니스 리더들이 변화하는 모습을 지켜보았다. 이는 사용자 경험이 비즈니스 성공에 미치는 영향을 강조하며, 디자인의 가치를 재조명하고 있다. 따라서 기업들은 UX 개선에 투자함으로써 더 큰 ROI를 기대할 수 있다.",
       "keywords": [
         "사용자 경험",
         "ROI",
@@ -500,7 +662,7 @@
       "date": "5월 15일",
       "publishedAt": "2026-05-15T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "frontend",
@@ -568,19 +730,19 @@
     },
     {
       "category": "ai",
-      "title": "AWS의 Claude Platform 소개",
-      "summary": "AWS 계정을 통해 Anthropic의 Claude Platform을 시작하는 방법을 소개한다.",
-      "summary_full": "이 기사는 AWS의 Claude Platform을 활용하는 방법에 대해 설명한다. 사용자는 AWS 계정을 통해 Anthropic의 네이티브 플랫폼에 접근할 수 있다. Claude Platform은 다양한 AI 기능을 제공하며, 클라우드 기반의 솔루션을 통해 효율성을 높일 수 있다. 이 플랫폼의 사용법과 장점에 대해 자세히 알아본다.",
+      "title": "AWS의 Claude 플랫폼 소개",
+      "summary": "AWS 계정을 통해 Anthropic의 Claude 플랫폼을 시작하는 방법을 소개합니다. 이 플랫폼은 클라우드 기반 AI 솔루션을 제공합니다.",
+      "summary_full": "AWS에서 Anthropic의 네이티브 Claude 플랫폼을 사용하는 방법을 설명합니다. 사용자는 AWS 계정을 통해 쉽게 접근할 수 있으며, 이 플랫폼은 다양한 AI 기능을 지원합니다. Claude 플랫폼은 사용자가 AI 모델을 활용하여 비즈니스에 적용할 수 있도록 돕습니다. AWS와 Anthropic의 협업을 통해 더욱 향상된 AI 경험을 제공합니다.",
       "keywords": [
         "AWS",
-        "Claude Platform",
+        "Claude 플랫폼",
         "Anthropic"
       ],
       "source": "Google News Anthropic",
       "date": "5월 15일",
       "publishedAt": "2026-05-15T08:57:04.000Z",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1dkbkRGcng3MndPSkdOWHMzT3B3bHhUcHlzcmptbnY0OTJmdy1BbVlQTXRUclFyblpJaTJJRmk3MlBSWFp0b29idDlGaGg2aWJ2UmF3WFZ6ejlTZ1RxdEZTT0xxVVRJT21PblU5YWhMVVhaNmNrcEx1VlZWaXhPZXRhTjl5OV84OTZlMlFfNUFNZTE5aU41am9DODN5RFlQWEFrSzFBVDBWX0pQc3NrTGd1MXUtekZBeEJnZGpJTFJQZw?oc=5",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "industry",
@@ -793,6 +955,22 @@
     {
       "category": "ai",
       "title": "락게이트코어, LLM 기반 AI 보안점검 플랫폼 `모무스AI` 출시",
+      "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 '모무스AI'를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 기업의 사이버 보안을 강화하는 데 기여할 예정이다.",
+      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 '모무스AI'를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검을 자동화한다. 이를 통해 기업들은 사이버 보안 위협에 보다 효과적으로 대응할 수 있게 된다. '모무스AI'는 사용자의 보안 점검 프로세스를 간소화하고 효율성을 높이는 데 중점을 두고 개발되었다.",
+      "keywords": [
+        "AI 보안",
+        "모무스AI",
+        "락게이트코어"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "5월 14일",
+      "publishedAt": "2026-05-14T05:40:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XS01aa3FrcnFFVFZuNTlfZ25TeGZFU2lmTXF1VC1GUzk0dHVGRnVOLUlydHA2MGNuVm9sS05vYXdzWE1WUlAtb1hLSktrM0VGeW8wR2lZaWdRU1MtUUc5b2hn?oc=5",
+      "collectedAt": "2026-05-20"
+    },
+    {
+      "category": "ai",
+      "title": "락게이트코어, LLM 기반 AI 보안점검 플랫폼 `모무스AI` 출시",
       "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 `모무스AI`를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 효율성을 높이는 데 기여할 것으로 기대된다.",
       "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 `모무스AI`를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검 프로세스를 자동화한다. 이를 통해 기업들은 보안 점검의 효율성을 높이고 리스크를 줄일 수 있을 것으로 보인다. `모무스AI`는 다양한 산업에서 활용될 수 있는 가능성을 지니고 있다.",
       "keywords": [
@@ -809,24 +987,24 @@
     {
       "category": "ai",
       "title": "2028년 글로벌 AI 리더십을 위한 두 가지 시나리오",
-      "summary": "2028년을 대비한 글로벌 AI 리더십에 대한 두 가지 시나리오를 제시한다. 이 정책은 AI 기술의 발전과 국제적 경쟁을 고려한다.",
-      "summary_full": "2028년을 목표로 하는 이 정책은 글로벌 AI 리더십을 위한 두 가지 가능한 시나리오를 탐구한다. 첫 번째 시나리오는 기술 혁신과 협력을 통한 리더십을 강조하며, 두 번째 시나리오는 경쟁과 규제의 필요성을 강조한다. 이러한 시나리오는 AI 기술의 발전이 국가 간의 관계에 미치는 영향을 분석한다. 궁극적으로, 이 정책은 AI 분야에서의 글로벌 리더십을 확보하기 위한 전략을 제안한다.",
+      "summary": "2028년을 대비한 글로벌 AI 리더십의 두 가지 가능성을 탐구한다. 이 시나리오는 AI 기술의 발전과 국가 간 경쟁을 고려한다.",
+      "summary_full": "2028년을 목표로 하는 정책 제안에서 글로벌 AI 리더십을 위한 두 가지 시나리오를 제시한다. 첫 번째 시나리오는 기술 혁신을 통해 AI 분야에서 선도적인 위치를 차지하는 국가의 모습을 그린다. 두 번째 시나리오는 국제 협력을 통해 AI의 윤리적 사용과 규제를 강화하는 방향을 제안한다. 이러한 시나리오는 미래의 AI 정책 결정에 중요한 기초 자료가 될 것이다.",
       "keywords": [
         "AI 리더십",
-        "정책 시나리오",
-        "글로벌 경쟁"
+        "정책 제안",
+        "기술 혁신"
       ],
       "source": "Anthropic Research",
       "date": "5월 14일",
       "publishedAt": "2026-05-14T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/2028-ai-leadership",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "frontend",
       "title": "AI 시대, 성과 내는 조직일수록 토스식 TPM이 필요한 이유",
-      "summary": "한국 Tech 업계에서 TPM의 필요성이 증가하고 있다. 효과적인 Cross-Functional 협업과 리스크 관리가 중요하다.",
-      "summary_full": "한국의 Tech 업계에서 TPM(Technical Program Manager)의 수가 적지만, 주요 Tech 회사에서 중요한 역할을 하고 있다. 이들은 Cross-Functional 협업, 이해관계자 조율, 리스크 관리, 일정 관리 등 다양한 기능을 수행한다. 그러나 단순한 일정 관리로는 해결되지 않는 복잡한 문제들이 존재한다. 이러한 문제를 해결하기 위해서는 더 나은 실행 구조가 필요하다.",
+      "summary": "한국의 Tech 업계에서 TPM의 필요성이 증가하고 있다. 효과적인 Cross-Functional 협업과 리스크 관리가 중요하다.",
+      "summary_full": "한국의 Tech 업계에서 TPM(Technical Program Manager)의 수가 적지만, 주요 Tech 회사에서 활약하는 이들이 있다. 이들은 Cross-Functional 협업, 이해관계자 조율, 리스크 관리, 일정 관리 등 중요한 역할을 수행한다. 그러나 일정 관리만으로는 해결되지 않는 문제들이 존재하며, 실행 구조의 필요성이 대두되고 있다. 따라서 AI 시대에 성과를 내기 위해서는 토스식 TPM의 도입이 필요하다.",
       "keywords": [
         "TPM",
         "Tech 업계",
@@ -836,7 +1014,7 @@
       "date": "5월 14일",
       "publishedAt": "2026-05-14T00:00:00.000Z",
       "url": "https://toss.tech/article/toss-tpm",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "frontend",
@@ -2777,18 +2955,18 @@
     {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5를 통해 Vibe에서 원격 코딩 에이전트를 소개합니다. Le Chat의 새로운 작업 모드는 복잡한 작업을 지원합니다.",
-      "summary_full": "Mistral Medium 3.5는 Vibe에서 원격 코딩 에이전트를 도입합니다. 이 기술은 사용자들이 더욱 효율적으로 작업할 수 있도록 돕습니다. 또한, Le Chat의 새로운 작업 모드는 복잡한 작업을 처리하는 데 필요한 기능을 제공합니다. 이를 통해 팀의 생산성을 높일 수 있습니다.",
+      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 활용할 수 있게 되었다. 또한 Le Chat에서 복잡한 작업을 위한 새로운 작업 모드가 추가되었다.",
+      "summary_full": "Mistral Medium 3.5가 출시되어 Vibe에서 원격 코딩 에이전트를 도입하였다. 이로 인해 사용자들은 더욱 효율적으로 작업을 수행할 수 있게 되었다. 또한 Le Chat에서는 복잡한 작업을 지원하는 새로운 작업 모드가 추가되어 사용자 편의성이 향상되었다. 이러한 기능들은 팀 협업과 생산성을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
-        "원격 에이전트",
         "Mistral Medium 3.5",
+        "원격 에이전트",
         "Le Chat"
       ],
       "source": "Mistral AI",
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "ai",
@@ -3081,18 +3259,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "웹사이트 접근성의 중요성을 논의하고자 한다. 디자이너들은 좋은 사람들이다.",
-      "summary_full": "웹사이트를 만들 때 접근성은 가장 중요한 요소이다. 이 글은 개인적인 의견을 바탕으로 작성되었으며, 디자이너들이 좋은 사람이라는 점을 강조한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 숙제를 준다. 디자이너들이 웹사이트의 품질을 높이기 위해 노력해야 한다는 메시지를 전달하고자 한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 과제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 필수적인 요소로 강조된다. 이 글은 디자이너가 좋은 사람이라는 점을 인정하며, 웹사이트 디자인에 대한 개인적인 의견을 공유한다. 또한, 다른 A List Apart 기사들과는 달리 실질적인 과제를 제안하여 독자들이 개선할 수 있도록 유도한다. 디자이너들이 웹사이트의 접근성을 높이는 데 기여할 수 있는 방법에 대해 논의한다.",
       "keywords": [
-        "접근성",
         "디자인",
-        "웹사이트"
+        "접근성",
+        "웹사이트 개선"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "frontend",
@@ -3130,7 +3308,7 @@
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
       "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드를 다룹니다. 이 트렌드는 기술의 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시합니다. 사용자 경험을 향상시키기 위한 다양한 접근 방식이 포함되어 있습니다. 이러한 트렌드는 향후 UX 디자인의 핵심 요소로 자리잡을 것입니다.",
+      "summary_full": "2026년을 맞이하여 UX 디자인 분야에서 주목해야 할 9가지 트렌드를 분석합니다. 이러한 트렌드는 기술 발전과 사용자 요구에 기반하여 발전하고 있으며, 디자인의 방향성을 제시합니다. 기업들은 이러한 트렌드를 통해 경쟁력을 강화하고 사용자 만족도를 높일 수 있을 것입니다. UX 디자인의 미래를 선도할 이 트렌드들을 살펴보세요.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -3140,7 +3318,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-19"
+      "collectedAt": "2026-05-20"
     },
     {
       "category": "design",
