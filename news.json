@@ -1,7 +1,183 @@
 {
-  "updated": "2026년 5월 21일 AM 11:57",
-  "count": 221,
+  "updated": "2026년 5월 22일 AM 10:38",
+  "count": 232,
   "articles": [
+    {
+      "category": "industry",
+      "title": "브랜딩 프로모션의 세계관 설계",
+      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법을 다룬다. AI와 1000번의 테스트를 통해 완성된 프로모션 디자인에 대한 내용을 포함한다.",
+      "summary_full": "브랜딩 프로모션을 세계관으로 설계하는 과정에 대해 설명한다. KV에서 VMD까지의 통합적인 접근 방식을 강조한다. AI 기술을 활용하여 1000번의 테스트를 거쳐 최종 디자인을 완성했다. 이 과정에서의 혁신적인 아이디어와 결과를 공유한다.",
+      "keywords": [
+        "브랜딩",
+        "프로모션",
+        "AI 디자인"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T10:36:59.037Z",
+      "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "design",
+      "title": "Runway Aleph 2.0 사용 후기",
+      "summary": "Runway Aleph 2.0을 실제로 사용해본 경험을 공유합니다. 이 도구의 기능과 성능에 대한 개인적인 의견을 담았습니다.",
+      "summary_full": "Runway Aleph 2.0은 다양한 기능을 제공하는 도구로, 사용해본 결과 매우 유용하다는 느낌을 받았습니다. 특히, 사용자 인터페이스가 직관적이고 접근성이 좋았습니다. 또한, 성능 면에서도 만족스러웠으며, 다양한 작업에 적합하다고 생각합니다. 앞으로도 지속적으로 활용할 계획입니다.",
+      "keywords": [
+        "Runway Aleph 2.0",
+        "사용 후기",
+        "기능 리뷰"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T10:36:52.595Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-755/",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "frontend",
+      "title": "마케팅 전문가들이 고급 AI를 배우는 이유",
+      "summary": "마케팅 분야는 현재 다른 직업보다 빠르게 변화하고 있다. AI를 효과적으로 활용하는 마케터들은 더 빠르고 나은 결과를 만들어내고 있다.",
+      "summary_full": "마케팅은 현재 거의 모든 직업보다 빠르게 변화하고 있다. 콘텐츠 제작, 청중 연구, 캠페인 계획, 분석, 커뮤니케이션, 프레젠테이션 및 실행 워크플로우가 모두 AI의 영향을 받고 있다. AI를 효과적으로 사용하는 마케터들은 이미 더 빠르게 움직이고 더 나은 결과물을 생산하고 있다.",
+      "keywords": [
+        "마케팅",
+        "AI",
+        "전문가"
+      ],
+      "source": "dev.to",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T10:34:00.000Z",
+      "url": "https://dev.to/varun_shukla_a033730c0c31/why-marketing-professionals-are-learning-advanced-ai-4c1h",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "trend",
+      "title": "밸브 스팀 컨트롤러 리뷰 (2026): 스팀 머신을 기다려라",
+      "summary": "밸브의 스팀 머신이 아직 출시되지 않아 이 컨트롤러는 플레이어에게 완전한 매력을 발휘하지 못한다. 스팀 머신의 맥락이 없이는 이 컨트롤러의 진가를 알기 어렵다.",
+      "summary_full": "밸브의 스팀 머신이 여전히 출시되지 않아 이 스팀 컨트롤러는 플레이어들에게 기대 이상의 경험을 제공하지 못하고 있다. 현재로서는 스팀 머신과의 연계가 없이는 이 컨트롤러의 매력을 온전히 느끼기 어렵다. 따라서 스팀 머신의 출시를 기다리는 것이 좋을 것으로 보인다. 이 컨트롤러는 향후 스팀 머신과 함께할 때 진정한 가치를 발휘할 가능성이 있다.",
+      "keywords": [
+        "밸브",
+        "스팀 컨트롤러",
+        "스팀 머신"
+      ],
+      "source": "wired.com",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T10:30:00.000Z",
+      "url": "https://www.wired.com/review/valve-steam-controller-2026/",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "industry",
+      "title": "오스트리아 스타트업 REPS, 도로 교통을 전기로 변환하기 위해 2360만 달러 모금",
+      "summary": "REPS는 함부르크 항구에 첫 번째 '도로 발전소'를 설치했다. 이 기술이 다른 지역에서도 경제성이 유지될 수 있을지가 다음 시험대다.",
+      "summary_full": "타이롤에 본사를 둔 REPS는 도로에 슬랩을 설치하고 트럭이 그 위를 지나가면서 발생하는 에너지를 수확하는 기술을 개발했다. 이들은 2360만 달러를 모금하여 기술을 확장할 계획이다. 첫 번째 발전소는 함부르크 항구에 연결되었으며, 향후 다른 지역에서도 이 기술이 경제적으로 viable한지 테스트할 예정이다. 이 이야기는 The Next Web에서 계속됩니다.",
+      "keywords": [
+        "REPS",
+        "도로 발전소",
+        "에너지 수확"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T09:57:16.000Z",
+      "url": "https://thenextweb.com/news/austrian-startup-reps-raises-23-6m-to-turn-road-traffic-into-electricity",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "industry",
+      "title": "AI 시대의 책임 있는 이용 논의 필요성",
+      "summary": "최경진 교수는 AI가 사이버보안에 미치는 영향을 논의하며, 책임 있는 이용에 대한 논의가 시작되어야 한다고 강조했다.",
+      "summary_full": "최경진 교수는 앤트로픽의 AI 모델 ‘클로드 미토스’가 사이버보안에 미치는 영향에 대한 우려를 언급했다. 그는 AI가 공격 경로를 설계하는 능력과 방어 체계의 대응 가능성에 대한 논의가 필요하다고 주장했다. 또한, AI의 책임 있는 이용에 대한 논의가 시급하다고 강조했다. 이번 인터뷰는 ‘미토스 이후, 전문가에게 듣는다’ 시리즈의 일환으로 진행되었다.",
+      "keywords": [
+        "AI",
+        "사이버보안",
+        "책임 있는 이용"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T08:56:03.000Z",
+      "url": "https://byline.network/2026/05/22-557/",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "trend",
+      "title": "프로필에서 파이프라인으로: 프리랜서 UI/UX 디자이너의 링크드인 플레이북",
+      "summary": "프리랜서 UI/UX 디자이너에게 링크드인은 단순한 이력서가 아닌 비즈니스 운영 능력을 증명하는 플랫폼이다. 최적화된 링크드인을 전략적으로 활용하면 고객 유치에 효과적이다.",
+      "summary_full": "프리랜서 UI/UX 디자이너는 포트폴리오로 디자인 능력을 증명하지만, 링크드인 프로필은 비즈니스 운영 능력을 보여준다. 많은 디자이너가 링크드인을 디지털 이력서나 드리블 미러처럼 사용하지만, 사실 링크드인은 고객 유치 엔진이다. 링크드인을 최적화하고 전략적으로 사용하면 지속적으로 고객 파이프라인을 구축할 수 있다.",
+      "keywords": [
+        "프리랜서",
+        "UI/UX 디자인",
+        "링크드인"
+      ],
+      "source": "dev.to",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T07:47:53.000Z",
+      "url": "https://dev.to/nafizmahmud_94/from-profile-to-pipeline-the-freelance-uiux-designers-linkedin-playbook-2026--2olc",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "frontend",
+      "title": "크로스 기능 기술 문제 해결을 위한 역량 성장 팁",
+      "summary": "기술 조직의 성장에 따라 팀 간의 협력 부족으로 발생하는 문제를 해결하는 방법을 제시한다. 단순한 협업을 넘어 다양한 영역에서의 접근이 필요하다.",
+      "summary_full": "기술 조직이 커질수록 팀 간의 협력 부족으로 인해 발생하는 문제들이 많아진다. 각 팀은 자신의 역할을 잘 수행하지만, 전체적으로는 중요한 공백이 생기게 된다. 이러한 크로스 기능, 크로스 도메인 기술 문제를 해결하기 위해서는 단순히 협업을 잘하는 것만으로는 부족하다. 회의 진행 및 다양한 접근 방식을 통해 문제를 해결해야 한다.",
+      "keywords": [
+        "크로스 기능",
+        "기술 문제",
+        "조직 협력"
+      ],
+      "source": "toss.tech",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T01:00:00.000Z",
+      "url": "https://toss.tech/article/cross-functional-tpm-tip",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "ai",
+      "title": "구글 딥마인드 아시아 태평양 액셀러레이터 프로그램 출시",
+      "summary": "구글 딥마인드가 아시아 태평양에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 중점을 둡니다.",
+      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시합니다. 이 프로그램은 다양한 스타트업과 협력하여 지속 가능한 기술 개발을 지원합니다. 참가자들은 구글의 자원과 전문 지식을 활용하여 혁신적인 솔루션을 모색하게 됩니다. 이를 통해 환경 문제 해결에 기여하고자 합니다.",
+      "keywords": [
+        "구글 딥마인드",
+        "액셀러레이터 프로그램",
+        "환경 위험"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "5월 21일",
+      "publishedAt": "2026-05-21T19:46:42.000Z",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "ai",
+      "title": "펜타곤, Anthropic의 Claude 대체 위해 AI 모델 테스트 중",
+      "summary": "펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이는 군사 및 정보 분야에서의 AI 활용도를 높이기 위한 노력의 일환이다.",
+      "summary_full": "미국 펜타곤이 Anthropic의 AI 모델 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 군사 및 정보 분야에서 AI의 활용도를 극대화하기 위한 전략의 일환으로 진행되고 있다. 펜타곤은 AI 기술의 발전이 국가 안보에 미치는 영향을 고려하고 있으며, 이를 통해 더 효과적인 의사결정 지원 시스템을 구축하고자 한다. 이러한 노력은 AI 기술의 경쟁력을 높이고, 미래의 군사 작전에서의 효율성을 향상시키기 위한 것이다.",
+      "keywords": [
+        "펜타곤",
+        "AI 모델",
+        "Claude 대체"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 21일",
+      "publishedAt": "2026-05-21T17:55:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SjVNbjRET2c0OVREZjhxMy03RVozMDdDaEdBa1BOZ0xBYjQwdTBWZ055M2xWcnhjOW1seEs2OHJRcnFNLTZNVWU2dGRxV0VTTEszd0RVN29xVThhbDY1R2JtSUdJRTRuelE?oc=5",
+      "collectedAt": "2026-05-22"
+    },
+    {
+      "category": "ai",
+      "title": "AdventHealth, OpenAI로 전인적 돌봄 강화",
+      "summary": "AdventHealth는 ChatGPT를 활용하여 업무 흐름을 간소화하고 행정 부담을 줄이며 환자 돌봄에 더 많은 시간을 할애하고 있습니다. 이를 통해 전인적 돌봄을 실현하고 있습니다.",
+      "summary_full": "AdventHealth는 ChatGPT를 통해 의료 분야에서의 업무 흐름을 효율적으로 개선하고 있습니다. 이 기술은 행정적인 부담을 줄여 의료진이 환자에게 더 많은 시간을 할애할 수 있도록 돕습니다. 결과적으로, AdventHealth는 전인적 돌봄을 강화하고 있습니다. 이러한 혁신적인 접근 방식은 환자 치료의 질을 높이는 데 기여하고 있습니다.",
+      "keywords": [
+        "AdventHealth",
+        "ChatGPT",
+        "전인적 돌봄"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 21일",
+      "publishedAt": "2026-05-21T12:00:00.000Z",
+      "url": "https://openai.com/index/adventhealth",
+      "collectedAt": "2026-05-22"
+    },
     {
       "category": "frontend",
       "title": "포괄적 결제 시스템의 잘못된 약속",
@@ -16,22 +192,6 @@
       "date": "5월 21일",
       "publishedAt": "2026-05-21T11:57:36.000Z",
       "url": "https://dev.to/global-creator-lab/the-false-promise-of-inclusive-payment-systems-5hnf",
-      "collectedAt": "2026-05-21"
-    },
-    {
-      "category": "industry",
-      "title": "브랜딩 프로모션의 세계관 설계",
-      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법을 다룬다. AI와 1000번의 테스트를 통해 완성된 프로모션 디자인에 대한 이야기이다.",
-      "summary_full": "브랜딩 프로모션을 하나의 ‘세계관’으로 설계하는 과정에 대해 설명한다. 이 과정은 KV에서 VMD까지의 모든 단계를 포함한다. AI 기술을 활용하고 1000번의 테스트를 거쳐 최종적으로 완성된 프로모션 디자인에 대한 통찰을 제공한다. 이러한 접근 방식은 브랜드의 일관성과 소비자 경험을 극대화하는 데 기여한다.",
-      "keywords": [
-        "브랜딩",
-        "프로모션 디자인",
-        "AI 기술"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "5월 21일",
-      "publishedAt": "2026-05-21T11:56:09.808Z",
-      "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
       "collectedAt": "2026-05-21"
     },
     {
@@ -101,36 +261,52 @@
       "collectedAt": "2026-05-21"
     },
     {
+      "category": "design",
+      "title": "고급 트리 카운팅: `sibling-index()`와 `sibling-count()`를 활용한 수학적 레이아웃",
+      "summary": "카드 그리드에서 요소들이 순차적으로 페이드 인되는 효과를 구현하는 방법에 대해 설명합니다. 현재 사양은 모든 형제 요소를 카운트하지만, CSSWG는 향후 확장 계획을 문서화했습니다.",
+      "summary_full": "이 글에서는 카드 그리드에서 요소들이 순차적으로 나타나는 스태거드 캐스케이드 효과를 구현하는 방법을 다룹니다. 구현 과정에서 느끼는 어려움과 그에 대한 고민을 공유합니다. 현재 CSS 사양은 모든 형제 요소를 카운트하는 방식이지만, CSSWG는 이와 관련된 확장 계획을 문서화했습니다. 이는 향후 CSS의 발전에 중요한 기여를 할 것으로 기대됩니다.",
+      "keywords": [
+        "CSS",
+        "형제 요소",
+        "트리 카운팅"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "5월 21일",
+      "publishedAt": "2026-05-21T08:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+      "collectedAt": "2026-05-22"
+    },
+    {
       "category": "industry",
       "title": "인간+AI 시스템 설계",
-      "summary": "새로운 제품 지침에 대한 논의가 진행된다. UX Collective에서 계속 읽어보세요.",
-      "summary_full": "이 기사는 인간과 AI의 협업을 위한 시스템 설계에 대한 새로운 접근 방식을 제시한다. 제품 개발에 있어 AI의 역할과 인간의 필요를 조화롭게 통합하는 방법을 탐구한다. 사용자 경험을 개선하기 위한 혁신적인 아이디어와 전략이 포함되어 있다. UX Collective에서 더 많은 정보를 확인할 수 있다.",
+      "summary": "새로운 제품 지침에 대한 논의이다. UX Collective에서 더 읽어보세요.",
+      "summary_full": "이 기사는 인간과 AI의 통합 시스템 설계에 대한 새로운 접근 방식을 제시한다. 제품 개발 과정에서 AI의 역할과 인간의 상호작용을 강조한다. UX 디자인의 중요성을 언급하며, 사용자 경험을 개선하기 위한 전략을 논의한다. UX Collective에서 더 자세한 내용을 확인할 수 있다.",
       "keywords": [
         "AI 시스템",
-        "제품 설계",
-        "사용자 경험"
+        "UX 디자인",
+        "제품 개발"
       ],
       "source": "uxdesign.cc",
       "date": "5월 21일",
       "publishedAt": "2026-05-21T01:17:18.000Z",
       "url": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "frontend",
-      "title": "스택 오버플로우: 질문을 멈출 때",
-      "summary": "질문을 멈추는 시점에 대한 심각한 통찰을 다룬다. 그래프를 통해 나타나는 급격한 감소는 우리에게 중요한 메시지를 전달한다.",
-      "summary_full": "이 글은 질문을 멈추는 순간에 대한 경각심을 일깨운다. 그래프는 단순한 데이터가 아닌, 우리가 직면한 심각한 현실을 보여준다. 제목에서 이미 힌트를 주었지만, 그 내용은 여전히 충격적이다. 질문을 하지 않는 것이 가져오는 결과에 대해 깊이 생각해보게 한다.",
+      "title": "스택 오버플로우: 우리가 질문을 멈출 때",
+      "summary": "질문을 멈추는 시점에 대한 논의입니다. 그래프를 통해 그 심각성을 전달합니다.",
+      "summary_full": "이 기사는 질문을 멈추는 것이 어떤 의미인지에 대해 다룹니다. 그래프를 통해 그 경향을 시각적으로 설명하고 있습니다. 질문을 하지 않는 것이 가져오는 부정적인 결과를 강조합니다. 결국, 이는 기술 커뮤니티에 중요한 메시지를 전달합니다.",
       "keywords": [
         "스택 오버플로우",
         "질문",
-        "데이터"
+        "기술 커뮤니티"
       ],
       "source": "css-tricks.com",
       "date": "5월 20일",
       "publishedAt": "2026-05-20T13:51:34.000Z",
       "url": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "frontend",
@@ -232,11 +408,11 @@
     },
     {
       "category": "figma",
-      "title": "Figma의 맞춤형 에이전트, 디자인 환경에 통합",
-      "summary": "Figma의 맞춤형 에이전트는 디자인 작업이 이루어지는 곳에 내장되어 있습니다. 이 에이전트는 디자인 생성 및 리믹스, 반복 작업 자동화, 기본 디자인 시스템 준수를 지원합니다.",
-      "summary_full": "Figma의 맞춤형 에이전트는 디자인 환경에 통합되어 있어, 사용자들이 자연스럽게 디자인 작업을 수행할 수 있도록 돕습니다. 이 에이전트는 디자인을 생성하고 리믹스할 수 있으며, 반복적인 작업을 자동화하여 효율성을 높입니다. 또한, 기본적으로 제공되는 디자인 시스템을 존중하여 일관된 디자인을 유지합니다. 이러한 기능들은 디자이너들이 더 창의적인 작업에 집중할 수 있게 합니다.",
+      "title": "피그마의 목적 맞춤형 에이전트, 디자인 환경에 통합",
+      "summary": "피그마의 에이전트는 디자인 작업 중에 내장되어 디자인 생성 및 리믹스를 지원합니다. 반복 작업을 자동화하고 기본적으로 디자인 시스템을 존중합니다.",
+      "summary_full": "피그마의 목적 맞춤형 에이전트는 디자인이 이루어지는 곳에 통합되어 있습니다. 이 에이전트는 디자인을 생성하고 리믹스하며, 반복적인 작업을 자동화합니다. 또한, 기본적으로 디자인 시스템을 존중하여 사용자에게 편리함을 제공합니다. 이를 통해 디자이너들은 더 창의적인 작업에 집중할 수 있게 됩니다.",
       "keywords": [
-        "Figma",
+        "피그마",
         "디자인 에이전트",
         "자동화"
       ],
@@ -244,7 +420,7 @@
       "date": "5월 20일",
       "publishedAt": "2026-05-20T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "ai",
@@ -297,18 +473,18 @@
     {
       "category": "ai",
       "title": "OlmoEarth v1.1: 더 효율적인 지구 관측 모델",
-      "summary": "OlmoEarth v1.1은 지구 관측 모델의 효율성을 향상시킨 새로운 버전이다. 이 모델은 다양한 환경 데이터를 보다 효과적으로 처리할 수 있도록 설계되었다.",
-      "summary_full": "OlmoEarth v1.1은 지구 관측을 위한 모델의 효율성을 크게 개선한 버전이다. 이 모델은 데이터 처리 속도와 정확성을 높여 다양한 환경 정보를 보다 효과적으로 수집하고 분석할 수 있도록 돕는다. 또한, 사용자 친화적인 인터페이스를 제공하여 연구자들이 쉽게 활용할 수 있도록 설계되었다. 이러한 개선은 지구 환경 모니터링 및 연구에 중요한 기여를 할 것으로 기대된다.",
+      "summary": "OlmoEarth v1.1은 지구 관측 모델의 효율성을 개선한 새로운 버전이다. 이 모델은 데이터 처리 속도와 정확성을 향상시켜 다양한 응용 분야에 활용될 수 있다.",
+      "summary_full": "OlmoEarth v1.1은 지구 관측 모델의 효율성을 높인 최신 버전이다. 이 모델은 이전 버전보다 데이터 처리 속도와 정확성을 크게 향상시켰다. 이를 통해 환경 모니터링, 기후 변화 연구 등 다양한 분야에서 활용 가능성이 높아진다. OlmoEarth v1.1은 사용자에게 더 나은 성능과 신뢰성을 제공한다.",
       "keywords": [
+        "OlmoEarth",
         "지구 관측",
-        "모델 효율성",
-        "환경 데이터"
+        "모델 개선"
       ],
       "source": "HuggingFace Blog",
       "date": "5월 19일",
       "publishedAt": "2026-05-19T18:38:09.000Z",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "frontend",
@@ -1116,19 +1292,19 @@
     },
     {
       "category": "ai",
-      "title": "2028년 정책: 글로벌 AI 리더십을 위한 두 가지 시나리오",
-      "summary": "이 문서는 2028년을 대비한 글로벌 AI 리더십의 두 가지 가능한 시나리오를 제시합니다. 각 시나리오는 AI 기술의 발전과 국가 간 경쟁의 변화를 반영합니다.",
-      "summary_full": "2028년을 목표로 한 정책 제안으로, 글로벌 AI 리더십을 확보하기 위한 두 가지 시나리오를 탐구합니다. 첫 번째 시나리오는 기술 혁신을 통해 AI 분야에서의 우위를 점하는 국가의 모습을 그립니다. 두 번째 시나리오는 국제 협력을 통해 AI의 윤리적 사용과 규제를 강조하는 방향을 제시합니다. 이러한 시나리오는 향후 AI 정책 결정에 중요한 참고자료가 될 것입니다.",
+      "title": "2028년 글로벌 AI 리더십을 위한 두 가지 시나리오",
+      "summary": "2028년을 대비한 글로벌 AI 리더십에 대한 두 가지 시나리오를 제시한다. 이 정책은 AI 기술의 발전과 국제 경쟁력을 고려한다.",
+      "summary_full": "2028년을 목표로 하는 글로벌 AI 리더십에 대한 두 가지 주요 시나리오를 탐구한다. 첫 번째 시나리오는 특정 국가가 AI 기술을 선도하는 경우를 다루고, 두 번째는 다국적 협력이 강화되는 상황을 제시한다. 이러한 시나리오는 AI 기술의 발전이 세계 경제와 정치에 미치는 영향을 분석한다. 정책 입안자들에게는 향후 AI 전략을 수립하는 데 중요한 통찰을 제공할 것이다.",
       "keywords": [
         "AI 리더십",
         "정책 시나리오",
-        "글로벌 경쟁"
+        "글로벌 경쟁력"
       ],
       "source": "Anthropic Research",
       "date": "5월 14일",
       "publishedAt": "2026-05-14T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/2028-ai-leadership",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "frontend",
@@ -2189,8 +2365,8 @@
     {
       "category": "ai",
       "title": "사이냅소프트, AI 데이터 처리 자동화 서비스 출시",
-      "summary": "사이냅소프트가 LLM과 RAG 기반의 데이터 처리 자동화 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이고, 사용자에게 더 나은 경험을 제공할 것으로 기대된다.",
-      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 대규모 언어 모델(LLM)과 관련된 데이터 처리 기술을 활용하여, 사용자들이 보다 쉽게 데이터를 관리하고 활용할 수 있도록 돕는다. 또한, RAG(정보 검색 기반 생성) 기술을 통해 정보 검색과 생성의 효율성을 높인다. 이로 인해 기업들은 데이터 처리 과정에서의 시간과 비용을 절감할 수 있을 것으로 보인다.",
+      "summary": "사이냅소프트가 LLM과 RAG 기반의 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리 과정을 효율적으로 자동화하여 기업의 생산성을 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "사이냅소프트가 최신 AI 기술을 활용한 데이터 처리 자동화 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 대규모 언어 모델(LLM)과 회수 기반 생성(RAG) 기술을 결합하여 데이터 처리의 효율성을 극대화한다. 기업들은 이 서비스를 통해 데이터 관리 및 분석을 보다 간편하게 수행할 수 있다. 향후 다양한 산업 분야에서 활용될 것으로 예상된다.",
       "keywords": [
         "사이냅소프트",
         "AI Data Foundry",
@@ -2200,7 +2376,7 @@
       "date": "5월 7일",
       "publishedAt": "2026-05-07T01:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jR25STlpXTHFSU1dTc3prYWVKMV83aUJQbGNhSk04X1JZQ2JWeU56SHRUeGhzRFoyZWszaURyM2FSeV9tTUtVSzl5Zm55eUVuR3V0VUQzc05ZM1RkTHhYXzNjLWR4Sm1IV1E?oc=5",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "ai",
@@ -3085,8 +3261,8 @@
     {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 제공한다. 복잡한 작업을 위한 Le Chat의 새로운 작업 모드도 추가되었다.",
-      "summary_full": "Mistral Medium 3.5가 Vibe에서 원격 코딩 에이전트를 도입한다. 이를 통해 사용자들은 더욱 효율적으로 작업을 수행할 수 있다. 또한, Le Chat에서는 복잡한 작업을 지원하는 새로운 작업 모드가 추가되어 기능이 강화되었다. 이로 인해 다양한 작업 환경에서의 생산성이 향상될 것으로 기대된다.",
+      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 활용합니다. Le Chat의 새로운 작업 모드가 복잡한 작업을 지원합니다.",
+      "summary_full": "Mistral Medium 3.5가 Vibe에서 원격 코딩 에이전트를 도입합니다. 이를 통해 사용자들은 더욱 효율적으로 작업을 수행할 수 있습니다. 또한, Le Chat의 새로운 작업 모드는 복잡한 작업을 보다 쉽게 처리할 수 있도록 돕습니다. 이로 인해 팀워크와 생산성이 향상될 것으로 기대됩니다.",
       "keywords": [
         "원격 에이전트",
         "Mistral Medium 3.5",
@@ -3096,7 +3272,7 @@
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "ai",
@@ -3389,18 +3565,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 웹사이트의 개선점을 제안한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이며, 이 글은 디자이너들이 고려해야 할 점들을 제시한다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자들에게 숙제를 준다. 저자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 역할에 대한 중요성을 논의한다. 디자이너들이 웹사이트의 접근성을 높이는 데 기여해야 한다고 주장한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소다. 이 글은 디자이너의 책임과 역할에 대해 논의한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 디자이너는 이를 고려해야 한다. 다른 A List Apart의 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 숙제를 준다. 디자이너는 좋은 사람들로, 그들의 의도가 중요하다는 점을 강조한다. 개인적인 의견이지만, 디자이너들이 웹사이트의 접근성을 개선해야 한다는 주장을 펼친다.",
       "keywords": [
         "접근성",
-        "웹사이트",
-        "디자인"
+        "웹디자인",
+        "디자이너의 역할"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "frontend",
@@ -3437,8 +3613,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비하여 주목해야 할 9가지 UX 디자인 트렌드를 다룹니다. 이 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있습니다. 각 트렌드는 사용자 경험을 향상시키고, 기업의 경쟁력을 높이는 데 기여할 것입니다. 디지털 환경에서의 UX 디자인의 중요성이 더욱 커질 것으로 예상됩니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드를 살펴봅니다. 이러한 트렌드는 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시합니다. 각 트렌드는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함하고 있습니다. 이 정보를 통해 디자이너와 기업은 미래의 UX 전략을 수립할 수 있습니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -3448,7 +3624,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-21"
+      "collectedAt": "2026-05-22"
     },
     {
       "category": "design",
