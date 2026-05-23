@@ -1,38 +1,152 @@
 {
-  "updated": "2026년 5월 22일 AM 10:38",
-  "count": 232,
+  "updated": "2026년 5월 23일 AM 08:34",
+  "count": 241,
   "articles": [
+    {
+      "category": "frontend",
+      "title": "미치지 않는 보물찾기 엔진 디자인: 현장에서 배운 교훈",
+      "summary": "보물찾기 시스템을 설계하는 과정에서 사용자 수, 퍼즐 생성 및 관리, 실시간 업데이트의 복잡성을 이해하게 되었다.",
+      "summary_full": "처음에는 많은 사용자를 처리하고 보물찾기 퍼즐을 생성 및 관리하며 실시간 업데이트를 제공하는 시스템을 만드는 것이 간단해 보였다. 그러나 깊이 파고들수록 실제 문제는 더 복잡하다는 것을 깨달았다. 우리는 확장성과 관련된 독특한 조합을 다루고 있었다. 이 과정에서 얻은 교훈은 보물찾기 엔진 디자인에 큰 도움이 되었다.",
+      "keywords": [
+        "보물찾기",
+        "시스템 디자인",
+        "확장성"
+      ],
+      "source": "dev.to",
+      "date": "5월 23일",
+      "publishedAt": "2026-05-23T08:33:48.000Z",
+      "url": "https://dev.to/dev-architecture-blog/designing-a-treasure-hunt-engine-that-doesnt-drive-you-mad-lessons-from-the-front-lines-12oi",
+      "collectedAt": "2026-05-23"
+    },
     {
       "category": "industry",
       "title": "브랜딩 프로모션의 세계관 설계",
-      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법을 다룬다. AI와 1000번의 테스트를 통해 완성된 프로모션 디자인에 대한 내용을 포함한다.",
-      "summary_full": "브랜딩 프로모션을 세계관으로 설계하는 과정에 대해 설명한다. KV에서 VMD까지의 통합적인 접근 방식을 강조한다. AI 기술을 활용하여 1000번의 테스트를 거쳐 최종 디자인을 완성했다. 이 과정에서의 혁신적인 아이디어와 결과를 공유한다.",
+      "summary": "AI와 1000번의 테스트를 통해 브랜딩 프로모션을 하나의 세계관으로 설계하는 방법을 다룬다. KV에서 VMD까지의 과정을 통해 완성된 프로모션 디자인을 소개한다.",
+      "summary_full": "브랜딩 프로모션을 하나의 세계관으로 설계하는 과정에 대해 설명한다. 이 과정은 KV에서 VMD까지의 다양한 단계로 나뉘며, AI 기술을 활용하여 1000번의 테스트를 거쳐 최종 디자인이 완성된다. 이러한 접근 방식은 브랜드의 일관성을 높이고 소비자에게 강력한 인상을 남길 수 있도록 돕는다. AI와의 협업을 통해 혁신적인 디자인 솔루션을 제시하는 것이 핵심이다.",
       "keywords": [
         "브랜딩",
-        "프로모션",
-        "AI 디자인"
+        "프로모션 디자인",
+        "AI 기술"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 22일",
-      "publishedAt": "2026-05-22T10:36:59.037Z",
+      "date": "5월 23일",
+      "publishedAt": "2026-05-23T08:32:29.393Z",
       "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "design",
       "title": "Runway Aleph 2.0 사용 후기",
-      "summary": "Runway Aleph 2.0을 실제로 사용해본 경험을 공유합니다. 이 도구의 기능과 성능에 대한 개인적인 의견을 담았습니다.",
-      "summary_full": "Runway Aleph 2.0은 다양한 기능을 제공하는 도구로, 사용해본 결과 매우 유용하다는 느낌을 받았습니다. 특히, 사용자 인터페이스가 직관적이고 접근성이 좋았습니다. 또한, 성능 면에서도 만족스러웠으며, 다양한 작업에 적합하다고 생각합니다. 앞으로도 지속적으로 활용할 계획입니다.",
+      "summary": "Runway Aleph 2.0을 직접 사용해본 경험을 공유합니다. 이 도구의 기능과 성능에 대한 개인적인 평가를 담고 있습니다.",
+      "summary_full": "Runway Aleph 2.0은 최신 AI 도구로, 다양한 기능을 제공합니다. 사용해본 결과, 인터페이스가 직관적이고 사용하기 쉬웠습니다. 성능 면에서도 기대 이상이었으며, 특히 창작 작업에 유용했습니다. 전반적으로 매우 만족스러운 경험이었습니다.",
       "keywords": [
         "Runway Aleph 2.0",
-        "사용 후기",
-        "기능 리뷰"
+        "AI 도구",
+        "사용 후기"
       ],
       "source": "Secondbrush Blog",
-      "date": "5월 22일",
-      "publishedAt": "2026-05-22T10:36:52.595Z",
+      "date": "5월 23일",
+      "publishedAt": "2026-05-23T08:32:22.744Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-755/",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "trend",
+      "title": "손으로 그린 QR 코드 생성기 — 연필 스케치 스타일",
+      "summary": "최근 한 사용자가 그래프 용지에 손으로 그린 QR 코드가 화제가 되었다. 이 QR 코드가 실제로 스캔되는지에 대한 질문이 많았다.",
+      "summary_full": "최근 한 사용자가 그래프 용지에 손으로 그린 QR 코드가 화제가 되었다. 이 QR 코드는 연필로 세밀하게 그려졌고, 많은 사람들이 실제로 스캔이 가능한지 궁금해했다. 댓글에는 이 QR 코드를 쉽게 만들 수 있는 방법에 대한 질문이 많았다. 이와 관련된 도구를 제공하는 웹사이트도 소개되었다.",
+      "keywords": [
+        "QR 코드",
+        "손으로 그리기",
+        "그래프 용지"
+      ],
+      "source": "dev.to",
+      "date": "5월 23일",
+      "publishedAt": "2026-05-23T07:27:22.000Z",
+      "url": "https://dev.to/shaishav_patel_271fdcd61a/free-hand-drawn-qr-code-generator-pencil-sketch-style-16lo",
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "trend",
+      "title": "EU, 모든 차량에 음주 측정기 장착 의무화",
+      "summary": "EU는 2050년까지 음주 운전으로 인한 사망 및 부상을 없애기 위한 전략의 일환으로 모든 차량이 음주 측정기에 연결될 수 있도록 해야 한다.",
+      "summary_full": "유럽연합(EU)은 2050년까지 음주 운전으로 인한 모든 사망 및 부상을 없애기 위한 목표를 설정했다. 이를 위해 모든 차량이 음주 측정기에 연결될 수 있는 기능을 갖추도록 의무화하는 조치를 도입하고 있다. 이 정책은 음주 운전 예방을 위한 중요한 단계로 평가받고 있다. EU의 이러한 노력은 교통 안전을 크게 향상시킬 것으로 기대된다.",
+      "keywords": [
+        "EU",
+        "음주 측정기",
+        "교통 안전"
+      ],
+      "source": "wired.com",
+      "date": "5월 23일",
+      "publishedAt": "2026-05-23T07:00:00.000Z",
+      "url": "https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/",
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "ai",
+      "title": "빛의 속도로 텍스트 생성하기: 네모트론-랩스 확산 언어 모델",
+      "summary": "네모트론-랩스의 확산 언어 모델을 통해 빛의 속도로 텍스트를 생성하는 방법을 탐구한다. 이 기술은 텍스트 생성의 속도를 혁신적으로 향상시킬 수 있는 가능성을 제시한다.",
+      "summary_full": "이 연구는 네모트론-랩스의 확산 언어 모델을 활용하여 텍스트 생성의 속도를 극대화하는 방법을 제안한다. 기존의 텍스트 생성 방식보다 훨씬 빠른 속도로 결과물을 생성할 수 있는 가능성을 탐구한다. 이를 통해 자연어 처리 분야에서의 혁신적인 발전을 기대할 수 있다. 이 모델은 특히 실시간 응답이 필요한 애플리케이션에서 유용할 것으로 보인다.",
+      "keywords": [
+        "텍스트 생성",
+        "확산 언어 모델",
+        "자연어 처리"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "5월 23일",
+      "publishedAt": "2026-05-23T00:02:03.000Z",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "industry",
+      "title": "LLM의 부상은 우연이 아니다",
+      "summary": "소비자 행동의 변화가 30년 이상 이어져 왔으며, 현재의 변화는 이전과는 다르다. 마케팅 전문가들은 이러한 변화를 공감하고 있다.",
+      "summary_full": "30년 동안 텔레비전, 검색, 소셜 미디어를 통한 소비자 행동의 변화를 지켜보았다. 각 변화는 전술을 바꾸었지만 의사 결정의 기본 논리는 변하지 않았다. 현재 일어나고 있는 변화는 다르며, 많은 마케팅 전문가들이 이를 공유하고 있다. 이는 LLM의 부상이 우연이 아님을 시사한다.",
+      "keywords": [
+        "LLM",
+        "소비자 행동",
+        "마케팅 전문가"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T16:52:35.000Z",
+      "url": "https://thenextweb.com/news/ai-era-consumer-trust-verification-marketing-shift",
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "frontend",
+      "title": "2026년 CSS 중앙 정렬 현황",
+      "summary": "CSS에서 중앙 정렬을 하는 방법에 대한 혼란을 다룬다. flex나 grid를 사용하여 align-items 또는 justify-content를 설정하는 것 외에도 margin: auto를 활용하는 방법을 설명한다.",
+      "summary_full": "이 글은 CSS에서 중앙 정렬을 구현하는 다양한 방법과 그에 따른 혼란을 다룬다. display: flex나 grid를 사용하여 align-items와 justify-content를 설정하는 것이 일반적이지만, margin: auto를 활용하는 방법도 항상 유효하다. 많은 온라인 자료가 존재하지만, 여전히 많은 사람들이 중앙 정렬에 대해 혼란을 겪고 있다. 이 글은 이러한 문제를 해결하기 위한 가이드를 제공한다.",
+      "keywords": [
+        "CSS",
+        "중앙 정렬",
+        "flex",
+        "grid",
+        "margin: auto"
+      ],
+      "source": "css-tricks.com",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T13:44:40.000Z",
+      "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "design",
+      "title": "고객 이해의 네 가지 수준",
+      "summary": "많은 기업들이 고객의 요구와 의사결정을 잘 이해하고 있다고 생각하지만, 실제로는 큰 가정과 직감에 의존하는 경우가 많다. 고객을 이해하기 위해서는 네 가지 수준의 고객 이해를 통해 종합적으로 접근해야 한다.",
+      "summary_full": "기업들은 고객의 필요를 잘 알고 있다고 믿지만, 이는 종종 잘못된 가정에 기반한다. 고객의 의사결정 과정은 복잡하며, 단순한 이유만으로 설명될 수 없다. 고객을 깊이 이해하기 위해서는 다양한 관점에서 접근해야 한다. 이를 위해 네 가지 수준의 고객 이해를 활용해야 한다.",
+      "keywords": [
+        "고객 이해",
+        "의사결정",
+        "시장 조사"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T13:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "frontend",
@@ -85,8 +199,8 @@
     {
       "category": "industry",
       "title": "AI 시대의 책임 있는 이용 논의 필요성",
-      "summary": "최경진 교수는 AI가 사이버보안에 미치는 영향을 논의하며, 책임 있는 이용에 대한 논의가 시작되어야 한다고 강조했다.",
-      "summary_full": "최경진 교수는 앤트로픽의 AI 모델 ‘클로드 미토스’가 사이버보안에 미치는 영향에 대한 우려를 언급했다. 그는 AI가 공격 경로를 설계하는 능력과 방어 체계의 대응 가능성에 대한 논의가 필요하다고 주장했다. 또한, AI의 책임 있는 이용에 대한 논의가 시급하다고 강조했다. 이번 인터뷰는 ‘미토스 이후, 전문가에게 듣는다’ 시리즈의 일환으로 진행되었다.",
+      "summary": "최경진 교수는 AI가 사이버보안에 미치는 영향과 이에 대한 대응 방안을 논의해야 한다고 강조했다. AI의 취약점 탐지 및 공격 설계 능력에 대한 우려가 커지고 있다.",
+      "summary_full": "최경진 가천대 교수는 AI 시대에 '책임 있는 이용'에 대한 논의가 필요하다고 주장했다. 앤트로픽의 AI 모델 '클로드 미토스'의 등장은 사이버보안 분야에서 AI의 역할에 대한 우려를 불러일으키고 있다. AI가 취약점을 찾고 공격 경로를 설계하는 능력에 대한 논의가 필요하며, 방어 체계가 이를 따라갈 수 있는지에 대한 질문이 제기되고 있다. 최 교수는 한국인공지능법학회 회장으로서 이러한 문제에 대한 중요성을 강조하고 있다.",
       "keywords": [
         "AI",
         "사이버보안",
@@ -96,7 +210,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T08:56:03.000Z",
       "url": "https://byline.network/2026/05/22-557/",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "trend",
@@ -116,41 +230,91 @@
     },
     {
       "category": "frontend",
-      "title": "크로스 기능 기술 문제 해결을 위한 역량 성장 팁",
-      "summary": "기술 조직의 성장에 따라 팀 간의 협력 부족으로 발생하는 문제를 해결하는 방법을 제시한다. 단순한 협업을 넘어 다양한 영역에서의 접근이 필요하다.",
-      "summary_full": "기술 조직이 커질수록 팀 간의 협력 부족으로 인해 발생하는 문제들이 많아진다. 각 팀은 자신의 역할을 잘 수행하지만, 전체적으로는 중요한 공백이 생기게 된다. 이러한 크로스 기능, 크로스 도메인 기술 문제를 해결하기 위해서는 단순히 협업을 잘하는 것만으로는 부족하다. 회의 진행 및 다양한 접근 방식을 통해 문제를 해결해야 한다.",
+      "title": "Cross Functional 기술 문제 해결을 위한 역량 성장 팁",
+      "summary": "기술 조직이 커질수록 팀 간의 협업이 중요한 문제로 대두된다. 이러한 문제는 단순한 협업을 넘어 다양한 영역에서의 접근이 필요하다.",
+      "summary_full": "기술 조직이 성장함에 따라 팀 간의 협업이 필수적이지만, 각 팀의 역할이 잘 수행되더라도 전체적으로는 중요한 공백이 발생할 수 있다. Cross Functional 기술 문제는 인프라, 제품, 기술 전략, 운영 방식, 조직 구조 등 다양한 요소와 관련이 있다. 따라서 이러한 문제를 해결하기 위해서는 단순한 회의 진행을 넘어서, 각 영역의 통합적 접근이 필요하다. 책임을 지는 사람이 없고 변화가 더디기 때문에, 효과적인 해결책을 모색해야 한다.",
       "keywords": [
-        "크로스 기능",
+        "Cross Functional",
         "기술 문제",
-        "조직 협력"
+        "조직 협업"
       ],
       "source": "toss.tech",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T01:00:00.000Z",
       "url": "https://toss.tech/article/cross-functional-tpm-tip",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "figma",
+      "title": "Figma Buzz에서 캠페인 자산 대량 편집 및 크기 조정",
+      "summary": "Figma Buzz를 사용하여 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성하고, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠 및 디자인 속성을 관리합니다.",
+      "summary_full": "Figma Buzz를 통해 대량으로 캠페인 자산을 편집하고 크기를 조정하는 기능을 제공합니다. 사용자는 스프레드시트를 업로드하여 자산을 생성한 후, 테이블 뷰에서 여러 셀을 선택하여 크기 및 브랜드 이미지와 같은 디자인 속성을 관리할 수 있습니다. 단일 자산 또는 전체 세트를 선택하여 미리 설정된 채널 크기 중에서 선택하거나 직접 추가할 수 있습니다. 이를 통해 한 번의 작업으로 다채널 캠페인을 출력할 수 있습니다.",
+      "keywords": [
+        "Figma Buzz",
+        "캠페인 자산",
+        "대량 편집"
+      ],
+      "source": "Figma Release Notes",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "ai",
-      "title": "구글 딥마인드 아시아 태평양 액셀러레이터 프로그램 출시",
-      "summary": "구글 딥마인드가 아시아 태평양에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 중점을 둡니다.",
-      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시합니다. 이 프로그램은 다양한 스타트업과 협력하여 지속 가능한 기술 개발을 지원합니다. 참가자들은 구글의 자원과 전문 지식을 활용하여 혁신적인 솔루션을 모색하게 됩니다. 이를 통해 환경 문제 해결에 기여하고자 합니다.",
+      "title": "OpenAI, 가트너 기업 코딩 에이전트 분야 리더로 선정",
+      "summary": "OpenAI가 2026년 가트너 매직 쿼드런트에서 기업 AI 코딩 에이전트 분야의 리더로 선정되었습니다. Codex는 혁신성과 기업 규모 배포에서 인정받았습니다.",
+      "summary_full": "OpenAI는 2026년 가트너 매직 쿼드런트에서 기업 AI 코딩 에이전트 분야의 리더로 선정되었습니다. 이 보고서에서 Codex는 혁신성과 기업 규모의 배포에서 높은 평가를 받았습니다. 이는 OpenAI의 기술이 기업 환경에서 효과적으로 활용될 수 있음을 보여줍니다. 이러한 성과는 OpenAI의 지속적인 발전과 혁신을 반영합니다.",
       "keywords": [
-        "구글 딥마인드",
-        "액셀러레이터 프로그램",
+        "OpenAI",
+        "가트너",
+        "Codex",
+        "AI 코딩 에이전트",
+        "기업 기술"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "ai",
+      "title": "프로젝트 글래스윙: 초기 업데이트",
+      "summary": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트를 다룹니다. 이 업데이트는 프로젝트의 진행 상황과 향후 계획을 포함합니다.",
+      "summary_full": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트입니다. 이 발표는 프로젝트의 현재 진행 상황을 설명하고, 향후 계획에 대한 정보를 제공합니다. 프로젝트 글래스윙은 혁신적인 기술 개발을 목표로 하고 있으며, 다양한 분야에서의 응용 가능성을 탐구하고 있습니다. 이번 업데이트는 프로젝트 팀의 노력과 성과를 공유하는 중요한 기회입니다.",
+      "keywords": [
+        "프로젝트 글래스윙",
+        "업데이트",
+        "기술 개발"
+      ],
+      "source": "Anthropic Research",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "collectedAt": "2026-05-23"
+    },
+    {
+      "category": "ai",
+      "title": "아시아 태평양에서 환경 위험 대응을 위한 Google DeepMind Accelerator 프로그램 출범",
+      "summary": "Google DeepMind가 아시아 태평양에서 환경 위험을 해결하기 위한 Accelerator 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 발전을 도모할 것입니다.",
+      "summary_full": "Google DeepMind는 아시아 태평양 지역에서 환경 위험을 해결하기 위해 Accelerator 프로그램을 출범합니다. 이 프로그램은 다양한 혁신적인 기술과 솔루션을 통해 지속 가능한 발전을 지원하는 데 중점을 두고 있습니다. 참가자들은 환경 문제 해결을 위한 자원과 지원을 받게 됩니다. 이는 지역 사회와 환경에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "keywords": [
+        "Google DeepMind",
+        "Accelerator 프로그램",
         "환경 위험"
       ],
       "source": "Google DeepMind Blog",
       "date": "5월 21일",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "ai",
       "title": "펜타곤, Anthropic의 Claude 대체 위해 AI 모델 테스트 중",
-      "summary": "펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이는 군사 및 정보 분야에서의 AI 활용도를 높이기 위한 노력의 일환이다.",
-      "summary_full": "미국 펜타곤이 Anthropic의 AI 모델 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 군사 및 정보 분야에서 AI의 활용도를 극대화하기 위한 전략의 일환으로 진행되고 있다. 펜타곤은 AI 기술의 발전이 국가 안보에 미치는 영향을 고려하고 있으며, 이를 통해 더 효과적인 의사결정 지원 시스템을 구축하고자 한다. 이러한 노력은 AI 기술의 경쟁력을 높이고, 미래의 군사 작전에서의 효율성을 향상시키기 위한 것이다.",
+      "summary": "펜타곤이 AI 모델을 테스트하여 Anthropic의 Claude를 대체하려고 하고 있다. 이 프로젝트는 국방 분야에서의 AI 활용을 강화하기 위한 노력의 일환이다.",
+      "summary_full": "펜타곤은 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 국방 분야에서 AI 기술의 활용도를 높이기 위한 전략의 일환으로 진행되고 있다. AI 기술의 발전은 군사 작전의 효율성을 향상시킬 것으로 기대된다. 펜타곤은 이러한 모델이 실제 상황에서 어떻게 작동하는지를 평가하고 있다.",
       "keywords": [
         "펜타곤",
         "AI 모델",
@@ -160,7 +324,7 @@
       "date": "5월 21일",
       "publishedAt": "2026-05-21T17:55:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SjVNbjRET2c0OVREZjhxMy03RVozMDdDaEdBa1BOZ0xBYjQwdTBWZ055M2xWcnhjOW1seEs2OHJRcnFNLTZNVWU2dGRxV0VTTEszd0RVN29xVThhbDY1R2JtSUdJRTRuelE?oc=5",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "ai",
@@ -279,8 +443,8 @@
     {
       "category": "industry",
       "title": "인간+AI 시스템 설계",
-      "summary": "새로운 제품 지침에 대한 논의이다. UX Collective에서 더 읽어보세요.",
-      "summary_full": "이 기사는 인간과 AI의 통합 시스템 설계에 대한 새로운 접근 방식을 제시한다. 제품 개발 과정에서 AI의 역할과 인간의 상호작용을 강조한다. UX 디자인의 중요성을 언급하며, 사용자 경험을 개선하기 위한 전략을 논의한다. UX Collective에서 더 자세한 내용을 확인할 수 있다.",
+      "summary": "새로운 제품 지침에 대한 논의입니다. UX Collective에서 더 읽어보세요.",
+      "summary_full": "이 글은 인간과 AI의 협업 시스템을 설계하는 방법에 대해 다룹니다. 새로운 제품 개발을 위한 지침이 제시됩니다. UX 디자인의 중요성도 강조됩니다. UX Collective에서 더 많은 정보를 확인할 수 있습니다.",
       "keywords": [
         "AI 시스템",
         "UX 디자인",
@@ -290,7 +454,7 @@
       "date": "5월 21일",
       "publishedAt": "2026-05-21T01:17:18.000Z",
       "url": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "frontend",
@@ -405,22 +569,6 @@
       "publishedAt": "2026-05-20T08:52:37.000Z",
       "url": "https://byline.network/2026/05/18-582/",
       "collectedAt": "2026-05-20"
-    },
-    {
-      "category": "figma",
-      "title": "피그마의 목적 맞춤형 에이전트, 디자인 환경에 통합",
-      "summary": "피그마의 에이전트는 디자인 작업 중에 내장되어 디자인 생성 및 리믹스를 지원합니다. 반복 작업을 자동화하고 기본적으로 디자인 시스템을 존중합니다.",
-      "summary_full": "피그마의 목적 맞춤형 에이전트는 디자인이 이루어지는 곳에 통합되어 있습니다. 이 에이전트는 디자인을 생성하고 리믹스하며, 반복적인 작업을 자동화합니다. 또한, 기본적으로 디자인 시스템을 존중하여 사용자에게 편리함을 제공합니다. 이를 통해 디자이너들은 더 창의적인 작업에 집중할 수 있게 됩니다.",
-      "keywords": [
-        "피그마",
-        "디자인 에이전트",
-        "자동화"
-      ],
-      "source": "Figma Release Notes",
-      "date": "5월 20일",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-22"
     },
     {
       "category": "ai",
@@ -1262,7 +1410,7 @@
       "category": "ai",
       "title": "락게이트코어, LLM 기반 AI 보안점검 플랫폼 `모무스AI` 출시",
       "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 '모무스AI'를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 기업의 사이버 보안을 강화하는 데 기여할 예정이다.",
-      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 '모무스AI'를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검을 자동화한다. 이를 통해 기업들은 사이버 보안 위협에 보다 효과적으로 대응할 수 있게 된다. '모무스AI'는 사용자의 보안 점검 프로세스를 간소화하고 효율성을 높이는 데 중점을 두고 개발되었다.",
+      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 '모무스AI'를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검을 자동화한다. 이를 통해 기업들은 보다 효율적으로 사이버 보안을 관리할 수 있게 된다. 모무스AI는 다양한 보안 위협에 대한 대응력을 높이는 데 중점을 두고 개발되었다.",
       "keywords": [
         "AI 보안",
         "모무스AI",
@@ -1272,7 +1420,7 @@
       "date": "5월 14일",
       "publishedAt": "2026-05-14T05:40:12.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XS01aa3FrcnFFVFZuNTlfZ25TeGZFU2lmTXF1VC1GUzk0dHVGRnVOLUlydHA2MGNuVm9sS05vYXdzWE1WUlAtb1hLSktrM0VGeW8wR2lZaWdRU1MtUUc5b2hn?oc=5",
-      "collectedAt": "2026-05-20"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "ai",
@@ -3261,8 +3409,8 @@
     {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
-      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 활용합니다. Le Chat의 새로운 작업 모드가 복잡한 작업을 지원합니다.",
-      "summary_full": "Mistral Medium 3.5가 Vibe에서 원격 코딩 에이전트를 도입합니다. 이를 통해 사용자들은 더욱 효율적으로 작업을 수행할 수 있습니다. 또한, Le Chat의 새로운 작업 모드는 복잡한 작업을 보다 쉽게 처리할 수 있도록 돕습니다. 이로 인해 팀워크와 생산성이 향상될 것으로 기대됩니다.",
+      "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 지원합니다. 또한 Le Chat에서 복잡한 작업을 위한 새로운 작업 모드를 추가했습니다.",
+      "summary_full": "Mistral Medium 3.5가 Vibe에서 원격 코딩 에이전트를 도입합니다. 이로 인해 사용자들은 더욱 효율적으로 작업을 수행할 수 있습니다. 또한 Le Chat에는 복잡한 작업을 처리하기 위한 새로운 작업 모드가 추가되었습니다. 이러한 기능들은 사용자 경험을 향상시키는 데 기여할 것입니다.",
       "keywords": [
         "원격 에이전트",
         "Mistral Medium 3.5",
@@ -3272,7 +3420,7 @@
       "date": "4월 29일",
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "ai",
@@ -3565,18 +3713,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소다. 이 글은 디자이너의 책임과 역할에 대해 논의한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 디자이너는 이를 고려해야 한다. 다른 A List Apart의 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자들에게 숙제를 준다. 디자이너는 좋은 사람들로, 그들의 의도가 중요하다는 점을 강조한다. 개인적인 의견이지만, 디자이너들이 웹사이트의 접근성을 개선해야 한다는 주장을 펼친다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 과제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글에서는 다른 A List Apart 기사들이 혁신과 통찰을 제공하는 반면, 이 글은 독자들에게 숙제를 제안한다. 디자이너는 좋은 사람이며, 그들의 의도를 이해하는 것이 중요하다. 이 글은 웹사이트 디자인의 개선을 위한 개인적인 관점을 공유한다.",
       "keywords": [
         "접근성",
-        "웹디자인",
-        "디자이너의 역할"
+        "웹사이트 디자인",
+        "디자이너"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "frontend",
@@ -3613,8 +3761,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드를 살펴봅니다. 이러한 트렌드는 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시합니다. 각 트렌드는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함하고 있습니다. 이 정보를 통해 디자이너와 기업은 미래의 UX 전략을 수립할 수 있습니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
+      "summary_full": "2026년을 대비한 UX 디자인의 9가지 주요 트렌드를 다룹니다. 이러한 트렌드는 기술 발전과 사용자 요구에 따라 진화하고 있습니다. 특히, 개인화, 접근성, 그리고 지속 가능성이 강조되고 있습니다. 이 트렌드들은 향후 디자인 전략에 큰 영향을 미칠 것입니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -3624,7 +3772,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-22"
+      "collectedAt": "2026-05-23"
     },
     {
       "category": "design",
