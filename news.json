@@ -1,7 +1,119 @@
 {
-  "updated": "2026년 5월 23일 AM 08:34",
-  "count": 241,
+  "updated": "2026년 5월 24일 AM 09:11",
+  "count": 247,
   "articles": [
+    {
+      "category": "industry",
+      "title": "브랜딩 프로모션의 세계관 설계",
+      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법을 다룬다. AI와 1000번의 테스트를 통해 완성된 디자인 프로세스를 소개한다.",
+      "summary_full": "브랜딩 프로모션을 하나의 ‘세계관’으로 설계하는 과정에 대해 설명한다. KV에서 VMD까지의 통합적인 접근 방식을 통해 브랜드의 메시지를 효과적으로 전달할 수 있다. AI 기술을 활용하여 1000번의 테스트를 거쳐 최적의 프로모션 디자인을 완성하였다. 이러한 과정은 브랜드의 정체성을 강화하고 소비자와의 연결을 심화시키는 데 기여한다.",
+      "keywords": [
+        "브랜딩",
+        "프로모션 디자인",
+        "AI 기술"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "5월 24일",
+      "publishedAt": "2026-05-24T09:09:42.715Z",
+      "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
+      "collectedAt": "2026-05-24"
+    },
+    {
+      "category": "design",
+      "title": "Runway Aleph 2.0 사용 후기",
+      "summary": "Runway Aleph 2.0을 직접 사용해본 경험을 공유합니다. 이 도구의 기능과 성능에 대한 개인적인 의견을 담았습니다.",
+      "summary_full": "Runway Aleph 2.0을 실제로 사용해보며 느낀 점을 정리했습니다. 이 도구는 다양한 기능을 제공하며, 사용자가 쉽게 접근할 수 있도록 설계되었습니다. 성능 면에서도 만족스러운 결과를 보여주었고, 여러 작업에 유용하게 활용될 수 있습니다. 전반적으로 긍정적인 경험을 했습니다.",
+      "keywords": [
+        "Runway Aleph 2.0",
+        "사용 후기",
+        "기능 리뷰"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 24일",
+      "publishedAt": "2026-05-24T09:09:36.858Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-755/",
+      "collectedAt": "2026-05-24"
+    },
+    {
+      "category": "frontend",
+      "title": "Veltrix 설정 문제 해결",
+      "summary": "Hytale 서버의 성능 향상과 설정 복잡성 감소를 목표로 했던 작업이 예상보다 어려웠다.",
+      "summary_full": "Veltrix에서 Hytale 서버의 성능을 개선하고 설정 복잡성을 줄이는 작업이 시작되었다. 그러나 이 과정은 단순한 최적화 작업이 아닌 Veltrix 설정의 복잡성에 대한 깊은 탐구로 변모했다. 결국, 한 가지 중요한 문제를 해결하면서 상황이 개선되었다.",
+      "keywords": [
+        "Hytale",
+        "Veltrix",
+        "서버 성능"
+      ],
+      "source": "dev.to",
+      "date": "5월 24일",
+      "publishedAt": "2026-05-24T09:09:22.000Z",
+      "url": "https://dev.to/dev-architecture-blog/veltrix-configuration-was-a-black-hole-for-our-hytale-operators-until-we-fixed-one-crucial-thing-bfm",
+      "collectedAt": "2026-05-24"
+    },
+    {
+      "category": "trend",
+      "title": "마늘이 모기를 쫓고 번식을 막는 이유",
+      "summary": "마늘은 모기를 쫓는 효과가 있으며, 번식과 알을 낳는 것을 완전히 차단한다. 이 효과는 다이알릴 디설파이드 덕분이다.",
+      "summary_full": "마늘은 오래전부터 모기를 쫓는 효과가 있다고 알려져 있다. 최근 연구에 따르면, 마늘은 모기가 짝짓기하고 알을 낳는 것을 완전히 차단하는 것으로 나타났다. 이 효과의 주된 성분은 다이알릴 디설파이드이다. 따라서 마늘은 자연적인 모기 퇴치제로서의 역할을 한다.",
+      "keywords": [
+        "마늘",
+        "모기 퇴치",
+        "다이알릴 디설파이드"
+      ],
+      "source": "wired.com",
+      "date": "5월 24일",
+      "publishedAt": "2026-05-24T09:00:00.000Z",
+      "url": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
+      "collectedAt": "2026-05-24"
+    },
+    {
+      "category": "industry",
+      "title": "DeepSeek, 75% 할인 영구화 - AI 가격 전쟁 격화",
+      "summary": "DeepSeek는 V4 Pro 모델의 75% 할인 가격을 영구적으로 유지하기로 결정했다. 이로 인해 가격이 대폭 인하되어 경쟁이 심화되고 있다.",
+      "summary_full": "DeepSeek는 자사의 V4 Pro 모델에 대해 75%의 가격 할인을 영구화했다. 이 할인은 원래 5월 31일에 종료될 예정이었으나, 지속적으로 유지되기로 했다. 새로운 가격은 백만 토큰당 $0.003625에서 $0.87로 인하되었으며, 이는 이전 가격인 $0.0145에서 $3.48보다 크게 낮아진 것이다. 이러한 가격 변동은 OpenAI의 GPT-5와 비교할 때 더욱 주목받고 있다.",
+      "keywords": [
+        "DeepSeek",
+        "AI 가격전쟁",
+        "V4 Pro 모델"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 24일",
+      "publishedAt": "2026-05-24T07:48:42.000Z",
+      "url": "https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent",
+      "collectedAt": "2026-05-24"
+    },
+    {
+      "category": "trend",
+      "title": "명확하고 캠페인 준비가 된 소셜 미디어 크리에이티브 구축 방법",
+      "summary": "소셜 미디어 크리에이티브는 첫 게시물 전부터 실패하는 경우가 많다. 이는 개별 자산이 괜찮아 보이더라도 메시지, 형식, 크롭, 모션, 랜딩 페이지의 연속성을 위한 재사용 가능한 시스템이 부족하기 때문이다.",
+      "summary_full": "소셜 미디어 크리에이티브는 종종 첫 게시물 전부터 실패하는데, 이는 단순한 디자인 문제만이 아니다. 개별 자산이 독립적으로는 괜찮아 보일 수 있지만, 더 깊은 문제는 메시지와 형식, 크롭, 모션, 랜딩 페이지의 연속성을 위한 재사용 가능한 시스템이 없다는 것이다. 이러한 시스템이 없으면 캠페인 준비가 제대로 이루어지지 않는다. 따라서 효과적인 소셜 미디어 크리에이티브를 위해서는 이러한 요소들을 통합하는 것이 중요하다.",
+      "keywords": [
+        "소셜 미디어",
+        "크리에이티브",
+        "캠페인 준비"
+      ],
+      "source": "dev.to",
+      "date": "5월 24일",
+      "publishedAt": "2026-05-24T06:00:00.000Z",
+      "url": "https://dev.to/maverickframe/how-to-build-social-media-creative-that-stays-clear-and-campaign-ready-2930",
+      "collectedAt": "2026-05-24"
+    },
+    {
+      "category": "industry",
+      "title": "디자이너가 AI를 마스터하는 방법 설계하기",
+      "summary": "AI 도구를 마스터하는 것은 올바른 사용법을 배우는 것이 아니라, 자신의 사고 방식에 맞게 도구를 조정하는 것이다. 이러한 마스터리는 개인적이고 다양하며 결코 완성되지 않는다.",
+      "summary_full": "AI 도구를 마스터하는 것은 단순히 올바른 사용법을 배우는 것이 아니다. 이는 디자이너가 자신의 사고 방식에 맞게 도구를 조정하는 과정을 포함한다. 각 디자이너는 동일한 도구를 가지고도 다섯 가지의 독특한 결과물을 만들어낼 수 있다. 따라서 AI 도구의 마스터리는 개인적이고 다양하며, 지속적으로 발전하는 과정이다.",
+      "keywords": [
+        "AI 마스터리",
+        "디자인",
+        "개인적 접근"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 23일",
+      "publishedAt": "2026-05-23T20:42:12.000Z",
+      "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-24"
+    },
     {
       "category": "frontend",
       "title": "미치지 않는 보물찾기 엔진 디자인: 현장에서 배운 교훈",
@@ -16,38 +128,6 @@
       "date": "5월 23일",
       "publishedAt": "2026-05-23T08:33:48.000Z",
       "url": "https://dev.to/dev-architecture-blog/designing-a-treasure-hunt-engine-that-doesnt-drive-you-mad-lessons-from-the-front-lines-12oi",
-      "collectedAt": "2026-05-23"
-    },
-    {
-      "category": "industry",
-      "title": "브랜딩 프로모션의 세계관 설계",
-      "summary": "AI와 1000번의 테스트를 통해 브랜딩 프로모션을 하나의 세계관으로 설계하는 방법을 다룬다. KV에서 VMD까지의 과정을 통해 완성된 프로모션 디자인을 소개한다.",
-      "summary_full": "브랜딩 프로모션을 하나의 세계관으로 설계하는 과정에 대해 설명한다. 이 과정은 KV에서 VMD까지의 다양한 단계로 나뉘며, AI 기술을 활용하여 1000번의 테스트를 거쳐 최종 디자인이 완성된다. 이러한 접근 방식은 브랜드의 일관성을 높이고 소비자에게 강력한 인상을 남길 수 있도록 돕는다. AI와의 협업을 통해 혁신적인 디자인 솔루션을 제시하는 것이 핵심이다.",
-      "keywords": [
-        "브랜딩",
-        "프로모션 디자인",
-        "AI 기술"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "5월 23일",
-      "publishedAt": "2026-05-23T08:32:29.393Z",
-      "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
-      "collectedAt": "2026-05-23"
-    },
-    {
-      "category": "design",
-      "title": "Runway Aleph 2.0 사용 후기",
-      "summary": "Runway Aleph 2.0을 직접 사용해본 경험을 공유합니다. 이 도구의 기능과 성능에 대한 개인적인 평가를 담고 있습니다.",
-      "summary_full": "Runway Aleph 2.0은 최신 AI 도구로, 다양한 기능을 제공합니다. 사용해본 결과, 인터페이스가 직관적이고 사용하기 쉬웠습니다. 성능 면에서도 기대 이상이었으며, 특히 창작 작업에 유용했습니다. 전반적으로 매우 만족스러운 경험이었습니다.",
-      "keywords": [
-        "Runway Aleph 2.0",
-        "AI 도구",
-        "사용 후기"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 23일",
-      "publishedAt": "2026-05-23T08:32:22.744Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-755/",
       "collectedAt": "2026-05-23"
     },
     {
@@ -85,18 +165,18 @@
     {
       "category": "ai",
       "title": "빛의 속도로 텍스트 생성하기: 네모트론-랩스 확산 언어 모델",
-      "summary": "네모트론-랩스의 확산 언어 모델을 통해 빛의 속도로 텍스트를 생성하는 방법을 탐구한다. 이 기술은 텍스트 생성의 속도를 혁신적으로 향상시킬 수 있는 가능성을 제시한다.",
-      "summary_full": "이 연구는 네모트론-랩스의 확산 언어 모델을 활용하여 텍스트 생성의 속도를 극대화하는 방법을 제안한다. 기존의 텍스트 생성 방식보다 훨씬 빠른 속도로 결과물을 생성할 수 있는 가능성을 탐구한다. 이를 통해 자연어 처리 분야에서의 혁신적인 발전을 기대할 수 있다. 이 모델은 특히 실시간 응답이 필요한 애플리케이션에서 유용할 것으로 보인다.",
+      "summary": "네모트론-랩스의 확산 언어 모델을 통해 텍스트 생성 속도를 극대화하는 연구이다. 이 모델은 빠른 응답 시간을 목표로 하여 언어 생성의 새로운 가능성을 제시한다.",
+      "summary_full": "이 연구는 네모트론-랩스의 확산 언어 모델을 활용하여 텍스트 생성의 속도를 극대화하는 방법을 탐구한다. 모델은 기존의 언어 생성 방식보다 빠른 응답 시간을 제공하는 것을 목표로 한다. 이를 통해 실시간으로 고품질의 텍스트를 생성할 수 있는 가능성을 제시한다. 연구 결과는 다양한 응용 분야에서의 활용 가능성을 열어준다.",
       "keywords": [
         "텍스트 생성",
         "확산 언어 모델",
-        "자연어 처리"
+        "네모트론-랩스"
       ],
       "source": "HuggingFace Blog",
       "date": "5월 23일",
       "publishedAt": "2026-05-23T00:02:03.000Z",
       "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "industry",
@@ -117,36 +197,36 @@
     {
       "category": "frontend",
       "title": "2026년 CSS 중앙 정렬 현황",
-      "summary": "CSS에서 중앙 정렬을 하는 방법에 대한 혼란을 다룬다. flex나 grid를 사용하여 align-items 또는 justify-content를 설정하는 것 외에도 margin: auto를 활용하는 방법을 설명한다.",
-      "summary_full": "이 글은 CSS에서 중앙 정렬을 구현하는 다양한 방법과 그에 따른 혼란을 다룬다. display: flex나 grid를 사용하여 align-items와 justify-content를 설정하는 것이 일반적이지만, margin: auto를 활용하는 방법도 항상 유효하다. 많은 온라인 자료가 존재하지만, 여전히 많은 사람들이 중앙 정렬에 대해 혼란을 겪고 있다. 이 글은 이러한 문제를 해결하기 위한 가이드를 제공한다.",
+      "summary": "CSS 중앙 정렬에 대한 다양한 방법과 혼란을 다룬 기사이다. flex와 grid를 사용한 정렬 방법이 주로 언급된다.",
+      "summary_full": "CSS 중앙 정렬은 여전히 많은 개발자들에게 혼란을 주고 있다. flex와 grid를 사용하여 align-items와 justify-content를 설정하는 방법이 있지만, margin: auto를 사용하는 것도 효과적이다. 이 기사에서는 이러한 다양한 방법들을 정리하고, 개발자들이 겪는 혼란을 해소하고자 한다. 온라인 자료가 풍부하지만, 여전히 많은 사람들이 중앙 정렬에 어려움을 겪고 있다.",
       "keywords": [
         "CSS",
         "중앙 정렬",
         "flex",
         "grid",
-        "margin: auto"
+        "웹 디자인"
       ],
       "source": "css-tricks.com",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T13:44:40.000Z",
       "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "design",
       "title": "고객 이해의 네 가지 수준",
-      "summary": "많은 기업들이 고객의 요구와 의사결정을 잘 이해하고 있다고 생각하지만, 실제로는 큰 가정과 직감에 의존하는 경우가 많다. 고객을 이해하기 위해서는 네 가지 수준의 고객 이해를 통해 종합적으로 접근해야 한다.",
-      "summary_full": "기업들은 고객의 필요를 잘 알고 있다고 믿지만, 이는 종종 잘못된 가정에 기반한다. 고객의 의사결정 과정은 복잡하며, 단순한 이유만으로 설명될 수 없다. 고객을 깊이 이해하기 위해서는 다양한 관점에서 접근해야 한다. 이를 위해 네 가지 수준의 고객 이해를 활용해야 한다.",
+      "summary": "많은 기업들이 고객의 요구와 결정을 잘 이해하고 있다고 생각하지만, 실제로는 큰 가정과 직감에 의존하는 경우가 많다. 고객을 제대로 이해하기 위해서는 네 가지 수준에서 삼각 측량을 해야 한다.",
+      "summary_full": "기업들은 고객의 필요와 결정 과정을 잘 알고 있다고 믿지만, 이는 종종 근거 없는 추측에 불과하다. 명백한 이유가 사실일 수 있지만, 전체 그림을 그리기에는 부족하다. 고객을 이해하기 위해서는 네 가지 수준의 고객 이해를 통해 접근해야 한다. 이를 통해 보다 정확한 고객 통찰을 얻을 수 있다.",
       "keywords": [
         "고객 이해",
-        "의사결정",
-        "시장 조사"
+        "기업 전략",
+        "고객 통찰"
       ],
       "source": "smashingmagazine.com",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "frontend",
@@ -199,8 +279,8 @@
     {
       "category": "industry",
       "title": "AI 시대의 책임 있는 이용 논의 필요성",
-      "summary": "최경진 교수는 AI가 사이버보안에 미치는 영향과 이에 대한 대응 방안을 논의해야 한다고 강조했다. AI의 취약점 탐지 및 공격 설계 능력에 대한 우려가 커지고 있다.",
-      "summary_full": "최경진 가천대 교수는 AI 시대에 '책임 있는 이용'에 대한 논의가 필요하다고 주장했다. 앤트로픽의 AI 모델 '클로드 미토스'의 등장은 사이버보안 분야에서 AI의 역할에 대한 우려를 불러일으키고 있다. AI가 취약점을 찾고 공격 경로를 설계하는 능력에 대한 논의가 필요하며, 방어 체계가 이를 따라갈 수 있는지에 대한 질문이 제기되고 있다. 최 교수는 한국인공지능법학회 회장으로서 이러한 문제에 대한 중요성을 강조하고 있다.",
+      "summary": "AI 모델 '클로드 미토스'의 등장으로 사이버보안 분야에서 AI의 영향에 대한 논의가 증가하고 있다. 최경진 교수는 AI의 취약점 탐지 및 공격 경로 설계 능력에 대한 우려를 표명하며, 이에 대한 방어 체계의 필요성을 강조했다.",
+      "summary_full": "앤트로픽의 AI 모델 '클로드 미토스'가 사이버보안에 미치는 영향에 대한 논의가 활발해지고 있다. 최경진 가천대 교수는 AI가 취약점을 찾고 공격 경로를 설계하는 능력에 대한 우려를 제기했다. 그는 방어 체계가 이러한 AI의 발전에 따라갈 수 있는지에 대한 문제를 지적하며, 책임 있는 AI 이용에 대한 논의가 필요하다고 주장했다. 이 인터뷰는 '미토스 이후, 전문가에게 듣는다' 시리즈의 일환으로 진행되었다.",
       "keywords": [
         "AI",
         "사이버보안",
@@ -210,7 +290,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T08:56:03.000Z",
       "url": "https://byline.network/2026/05/22-557/",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "trend",
@@ -230,11 +310,11 @@
     },
     {
       "category": "frontend",
-      "title": "Cross Functional 기술 문제 해결을 위한 역량 성장 팁",
-      "summary": "기술 조직이 커질수록 팀 간의 협업이 중요한 문제로 대두된다. 이러한 문제는 단순한 협업을 넘어 다양한 영역에서의 접근이 필요하다.",
-      "summary_full": "기술 조직이 성장함에 따라 팀 간의 협업이 필수적이지만, 각 팀의 역할이 잘 수행되더라도 전체적으로는 중요한 공백이 발생할 수 있다. Cross Functional 기술 문제는 인프라, 제품, 기술 전략, 운영 방식, 조직 구조 등 다양한 요소와 관련이 있다. 따라서 이러한 문제를 해결하기 위해서는 단순한 회의 진행을 넘어서, 각 영역의 통합적 접근이 필요하다. 책임을 지는 사람이 없고 변화가 더디기 때문에, 효과적인 해결책을 모색해야 한다.",
+      "title": "크로스 기능 기술 문제 해결을 위한 역량 성장 팁",
+      "summary": "기술 조직의 성장에 따라 팀 간의 협업이 중요해진다. 복잡한 문제는 단순한 협업으로 해결되지 않으며, 전반적인 접근이 필요하다.",
+      "summary_full": "기술 조직이 커질수록 팀 간의 협업이 필수적이다. 각 팀은 자신의 역할을 잘 수행하지만, 전체적으로는 중요한 공백이 발생한다. 이러한 크로스 기능 문제는 단순한 협업을 넘어 다양한 영역에서의 접근이 필요하다. 문제 해결을 위해서는 회의 진행뿐만 아니라 조직 구조와 역할 정의까지 재검토해야 한다.",
       "keywords": [
-        "Cross Functional",
+        "크로스 기능",
         "기술 문제",
         "조직 협업"
       ],
@@ -242,13 +322,13 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T01:00:00.000Z",
       "url": "https://toss.tech/article/cross-functional-tpm-tip",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "figma",
-      "title": "Figma Buzz에서 캠페인 자산 대량 편집 및 크기 조정",
-      "summary": "Figma Buzz를 사용하여 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성하고, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠 및 디자인 속성을 관리합니다.",
-      "summary_full": "Figma Buzz를 통해 대량으로 캠페인 자산을 편집하고 크기를 조정하는 기능을 제공합니다. 사용자는 스프레드시트를 업로드하여 자산을 생성한 후, 테이블 뷰에서 여러 셀을 선택하여 크기 및 브랜드 이미지와 같은 디자인 속성을 관리할 수 있습니다. 단일 자산 또는 전체 세트를 선택하여 미리 설정된 채널 크기 중에서 선택하거나 직접 추가할 수 있습니다. 이를 통해 한 번의 작업으로 다채널 캠페인을 출력할 수 있습니다.",
+      "title": "Figma Buzz에서 캠페인 자산을 대량 편집 및 크기 조정하기",
+      "summary": "Figma Buzz를 통해 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성하고, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠와 디자인 속성을 관리합니다.",
+      "summary_full": "Figma Buzz를 사용하면 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성한 후, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠 및 디자인 속성을 관리할 수 있습니다. 단일 자산 또는 전체 세트를 선택하여 미리 설정된 채널 크기 중에서 선택하거나 직접 추가할 수 있습니다. 이를 통해 한 번에 전체 다채널 캠페인을 출력할 수 있습니다.",
       "keywords": [
         "Figma Buzz",
         "캠페인 자산",
@@ -258,63 +338,77 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "ai",
-      "title": "OpenAI, 가트너 기업 코딩 에이전트 분야 리더로 선정",
-      "summary": "OpenAI가 2026년 가트너 매직 쿼드런트에서 기업 AI 코딩 에이전트 분야의 리더로 선정되었습니다. Codex는 혁신성과 기업 규모 배포에서 인정받았습니다.",
-      "summary_full": "OpenAI는 2026년 가트너 매직 쿼드런트에서 기업 AI 코딩 에이전트 분야의 리더로 선정되었습니다. 이 보고서에서 Codex는 혁신성과 기업 규모의 배포에서 높은 평가를 받았습니다. 이는 OpenAI의 기술이 기업 환경에서 효과적으로 활용될 수 있음을 보여줍니다. 이러한 성과는 OpenAI의 지속적인 발전과 혁신을 반영합니다.",
+      "title": "OpenAI, 기업 코딩 에이전트 분야에서 가트너 리더로 선정",
+      "summary": "OpenAI가 2026년 가트너 매직 쿼드런트에서 기업 AI 코딩 에이전트 분야의 리더로 선정되었습니다. Codex는 혁신성과 대규모 배포에서 인정받았습니다.",
+      "summary_full": "OpenAI가 2026년 가트너 매직 쿼드런트에서 기업 AI 코딩 에이전트 분야의 리더로 선정되었습니다. 이 보고서에서 Codex는 혁신성과 대규모 배포에서 두각을 나타냈습니다. 이는 OpenAI의 기술이 기업 환경에서 효과적으로 활용될 수 있음을 보여줍니다. 이러한 인정은 OpenAI의 지속적인 발전과 시장에서의 입지를 강화하는 데 기여할 것입니다.",
       "keywords": [
         "OpenAI",
         "가트너",
-        "Codex",
-        "AI 코딩 에이전트",
-        "기업 기술"
+        "Codex"
       ],
       "source": "OpenAI News",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
+    },
+    {
+      "category": "ai",
+      "title": "엠미, 미스트랄과 함께 AI 네이티브 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 AI 네이티브 산업의 성장을 위해 미스트랄과 손잡았다. 이 협력은 AI 기술의 혁신과 발전을 가속화하는 데 중점을 두고 있다. 양사는 공동으로 새로운 솔루션을 개발하고 시장에 도입할 예정이다. 이러한 파트너십은 AI 분야의 경쟁력을 높이는 데 기여할 것으로 보인다.",
+      "keywords": [
+        "엠미",
+        "미스트랄",
+        "AI 네이티브 산업"
+      ],
+      "source": "Mistral AI",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "url": "https://mistral.ai/news/accelerate-ai-native-industry",
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "ai",
       "title": "프로젝트 글래스윙: 초기 업데이트",
-      "summary": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트를 다룹니다. 이 업데이트는 프로젝트의 진행 상황과 향후 계획을 포함합니다.",
-      "summary_full": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트입니다. 이 발표는 프로젝트의 현재 진행 상황을 설명하고, 향후 계획에 대한 정보를 제공합니다. 프로젝트 글래스윙은 혁신적인 기술 개발을 목표로 하고 있으며, 다양한 분야에서의 응용 가능성을 탐구하고 있습니다. 이번 업데이트는 프로젝트 팀의 노력과 성과를 공유하는 중요한 기회입니다.",
+      "summary": "2026년 5월 22일 프로젝트 글래스윙에 대한 초기 업데이트가 발표되었습니다. 이 발표는 프로젝트의 진행 상황과 향후 계획을 포함합니다.",
+      "summary_full": "2026년 5월 22일, 프로젝트 글래스윙에 대한 초기 업데이트가 이루어졌습니다. 이 업데이트는 프로젝트의 현재 상태와 향후 방향성을 제시합니다. 또한, 프로젝트 관련 주요 사항들이 포함되어 있습니다. 앞으로의 진행 상황에 대한 기대감을 높이는 내용입니다.",
       "keywords": [
         "프로젝트 글래스윙",
         "업데이트",
-        "기술 개발"
+        "진행 상황"
       ],
       "source": "Anthropic Research",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "ai",
-      "title": "아시아 태평양에서 환경 위험 대응을 위한 Google DeepMind Accelerator 프로그램 출범",
-      "summary": "Google DeepMind가 아시아 태평양에서 환경 위험을 해결하기 위한 Accelerator 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 발전을 도모할 것입니다.",
-      "summary_full": "Google DeepMind는 아시아 태평양 지역에서 환경 위험을 해결하기 위해 Accelerator 프로그램을 출범합니다. 이 프로그램은 다양한 혁신적인 기술과 솔루션을 통해 지속 가능한 발전을 지원하는 데 중점을 두고 있습니다. 참가자들은 환경 문제 해결을 위한 자원과 지원을 받게 됩니다. 이는 지역 사회와 환경에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "title": "구글 딥마인드 아시아 태평양 액셀러레이터 프로그램 출시",
+      "summary": "구글 딥마인드가 아시아 태평양에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 것을 목표로 합니다.",
+      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시합니다. 이 프로그램은 스타트업과 기업들이 지속 가능한 기술을 개발하도록 지원할 것입니다. 참가자들은 구글의 자원과 전문 지식을 활용하여 혁신적인 솔루션을 모색하게 됩니다. 이를 통해 환경 문제에 대한 대응력을 높이고 지속 가능한 발전을 촉진할 계획입니다.",
       "keywords": [
-        "Google DeepMind",
-        "Accelerator 프로그램",
+        "구글 딥마인드",
+        "액셀러레이터 프로그램",
         "환경 위험"
       ],
       "source": "Google DeepMind Blog",
       "date": "5월 21일",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "ai",
-      "title": "펜타곤, Anthropic의 Claude 대체 위해 AI 모델 테스트 중",
-      "summary": "펜타곤이 AI 모델을 테스트하여 Anthropic의 Claude를 대체하려고 하고 있다. 이 프로젝트는 국방 분야에서의 AI 활용을 강화하기 위한 노력의 일환이다.",
-      "summary_full": "펜타곤은 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 국방 분야에서 AI 기술의 활용도를 높이기 위한 전략의 일환으로 진행되고 있다. AI 기술의 발전은 군사 작전의 효율성을 향상시킬 것으로 기대된다. 펜타곤은 이러한 모델이 실제 상황에서 어떻게 작동하는지를 평가하고 있다.",
+      "title": "펜타곤, AI 모델 테스트",
+      "summary": "펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 군사적 목적과 효율성을 높이기 위한 노력의 일환이다.",
+      "summary_full": "미국 펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 군사적 목적을 위한 AI의 활용 가능성을 탐색하는 과정으로, 효율성과 성능 개선을 목표로 하고 있다. 펜타곤은 AI 기술을 통해 군사 작전의 혁신을 도모하고 있으며, 향후 AI 모델의 도입 여부에 대한 결정이 내려질 예정이다. 이러한 움직임은 AI 기술의 발전과 군사적 필요성이 맞물려 이루어지고 있다.",
       "keywords": [
         "펜타곤",
         "AI 모델",
@@ -324,7 +418,7 @@
       "date": "5월 21일",
       "publishedAt": "2026-05-21T17:55:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SjVNbjRET2c0OVREZjhxMy03RVozMDdDaEdBa1BOZ0xBYjQwdTBWZ055M2xWcnhjOW1seEs2OHJRcnFNLTZNVWU2dGRxV0VTTEszd0RVN29xVThhbDY1R2JtSUdJRTRuelE?oc=5",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "ai",
@@ -1409,10 +1503,10 @@
     {
       "category": "ai",
       "title": "락게이트코어, LLM 기반 AI 보안점검 플랫폼 `모무스AI` 출시",
-      "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 '모무스AI'를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 기업의 사이버 보안을 강화하는 데 기여할 예정이다.",
-      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 '모무스AI'를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검을 자동화한다. 이를 통해 기업들은 보다 효율적으로 사이버 보안을 관리할 수 있게 된다. 모무스AI는 다양한 보안 위협에 대한 대응력을 높이는 데 중점을 두고 개발되었다.",
+      "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 `모무스AI`를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 효율성을 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 `모무스AI`를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검을 자동화하는 기능을 제공한다. 이를 통해 기업들은 보안 점검의 효율성을 높이고, 잠재적인 위협을 신속하게 식별할 수 있게 된다. `모무스AI`는 다양한 산업에서 활용될 수 있을 것으로 보인다.",
       "keywords": [
-        "AI 보안",
+        "AI 보안점검",
         "모무스AI",
         "락게이트코어"
       ],
@@ -1420,7 +1514,7 @@
       "date": "5월 14일",
       "publishedAt": "2026-05-14T05:40:12.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XS01aa3FrcnFFVFZuNTlfZ25TeGZFU2lmTXF1VC1GUzk0dHVGRnVOLUlydHA2MGNuVm9sS05vYXdzWE1WUlAtb1hLSktrM0VGeW8wR2lZaWdRU1MtUUc5b2hn?oc=5",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "ai",
@@ -3713,8 +3807,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 과제를 제시한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글에서는 다른 A List Apart 기사들이 혁신과 통찰을 제공하는 반면, 이 글은 독자들에게 숙제를 제안한다. 디자이너는 좋은 사람이며, 그들의 의도를 이해하는 것이 중요하다. 이 글은 웹사이트 디자인의 개선을 위한 개인적인 관점을 공유한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 고려해야 할 숙제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 디자이너들이 반드시 고려해야 할 사항이다. 이 글은 개인적인 의견을 바탕으로 디자이너들이 더 나은 웹사이트를 만들기 위해 해야 할 숙제를 제안한다. 디자이너들은 일반적으로 좋은 사람들로, 사용자 경험을 향상시키기 위해 노력해야 한다. 이 글은 디자이너들에게 혁신적인 통찰력을 제공하는 다른 자료들과는 다르게 실질적인 과제를 제시한다.",
       "keywords": [
         "접근성",
         "웹사이트 디자인",
@@ -3724,7 +3818,7 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "frontend",
@@ -3761,8 +3855,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 UX 디자인의 9가지 주요 트렌드를 다룹니다. 이러한 트렌드는 기술 발전과 사용자 요구에 따라 진화하고 있습니다. 특히, 개인화, 접근성, 그리고 지속 가능성이 강조되고 있습니다. 이 트렌드들은 향후 디자인 전략에 큰 영향을 미칠 것입니다.",
+      "summary": "2026년을 대비한 UX 디자인의 주요 트렌드 9가지를 소개한다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대된다.",
+      "summary_full": "2026년을 좌우할 UX 디자인 트렌드 9가지를 다룬다. 이 트렌드는 기술 발전과 사용자 요구에 따라 진화하고 있으며, 기업들이 경쟁력을 유지하기 위해 반드시 알아야 할 요소들이다. 특히, 개인화, 접근성, 지속 가능성 등이 주요 키워드로 부각된다. 이러한 트렌드는 향후 UX 디자인의 방향성을 제시할 것이다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -3772,7 +3866,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-23"
+      "collectedAt": "2026-05-24"
     },
     {
       "category": "design",
