@@ -1,22 +1,150 @@
 {
-  "updated": "2026년 5월 25일 AM 03:42",
-  "count": 252,
+  "updated": "2026년 5월 26일 AM 03:27",
+  "count": 262,
   "articles": [
     {
       "category": "industry",
       "title": "브랜딩 프로모션의 세계관 설계",
-      "summary": "AI와 1000번의 테스트를 통해 브랜딩 프로모션 디자인을 완성했다. KV에서 VMD까지 통합된 접근 방식이 특징이다.",
-      "summary_full": "브랜딩 프로모션을 하나의 ‘세계관’으로 설계하는 과정이 소개된다. 이 과정에서는 AI 기술과 1000번의 테스트를 통해 최적의 디자인을 도출하였다. KV(키 비주얼)에서 VMD(비주얼 머천다이징)까지의 통합적 접근이 강조된다. 이러한 혁신적인 프로모션 디자인은 브랜드의 정체성을 강화하는 데 기여한다.",
+      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법에 대해 다룬다. AI와 수천 번의 테스트를 통해 완성된 디자인 프로세스를 소개한다.",
+      "summary_full": "브랜딩 프로모션을 하나의 ‘세계관’으로 설계하는 과정이 설명된다. KV에서 VMD까지의 전반적인 디자인 전략이 포함된다. AI 기술과 1000번의 테스트를 통해 최적화된 프로모션 디자인을 제시한다. 이 과정은 브랜드의 정체성을 강화하는 데 중요한 역할을 한다.",
       "keywords": [
         "브랜딩",
         "프로모션 디자인",
         "AI 기술"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 25일",
-      "publishedAt": "2026-05-25T03:40:31.541Z",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T03:25:29.069Z",
       "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "design",
+      "title": "연휴 고양이 사진 힐링",
+      "summary": "연휴 동안 고양이 사진을 감상하며 힐링할 수 있는 방법을 소개합니다. 고양이의 귀여운 모습이 스트레스를 줄여줄 것입니다.",
+      "summary_full": "연휴에는 고양이 사진을 통해 마음의 안정을 찾는 것이 좋습니다. 귀여운 고양이들의 다양한 모습은 스트레스를 해소하는 데 큰 도움이 됩니다. 이 기사는 고양이 사진을 감상하며 힐링하는 방법에 대해 설명합니다. 고양이와 함께하는 시간은 소중한 힐링의 순간이 될 것입니다.",
+      "keywords": [
+        "고양이",
+        "힐링",
+        "연휴"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T03:25:21.488Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-756/",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "frontend",
+      "title": "내가 계산해봤다: 당신의 SerpAPI 청구서가 10배 비쌉니다",
+      "summary": "SerpAPI는 월 500달러로 제공되지만, 같은 데이터를 스크래핑하면 3달러에 가능하다. 하지만 직접 스크래퍼를 만들면 유지보수의 어려움이 따른다.",
+      "summary_full": "최근 한 개발자가 SerpAPI의 높은 비용을 지적하며, 직접 데이터를 스크래핑하는 것이 훨씬 저렴하다고 밝혔다. 많은 개발자들이 이 문제에 공감하며, 직접 스크래퍼를 만드는 것이 비용 절감에 도움이 될 수 있지만, 유지보수의 복잡함이 따른다는 점은 간과되고 있다. 프록시 회전, CAPTCHA 진화, 구글의 변화 등으로 인해 직접 스크래핑하는 것이 쉽지 않다. 따라서 비용과 유지보수의 균형을 잘 고려해야 한다.",
+      "keywords": [
+        "SerpAPI",
+        "스크래핑",
+        "비용"
+      ],
+      "source": "dev.to",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T03:18:34.000Z",
+      "url": "https://dev.to/leo_o_f54073165eadd8c5e2d/i-did-the-math-your-serpapi-bill-is-10x-what-it-should-be-48ch",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "trend",
+      "title": "온라인에서 이미지 회전 및 뒤집기 무료 서비스",
+      "summary": "이미지의 방향을 수정하는 것이 가장 일반적인 편집 작업이다. 포토샵 없이도 다양한 각도로 이미지를 회전할 수 있는 방법을 소개한다.",
+      "summary_full": "사진이 옆으로 찍히거나 스캔한 문서가 거꾸로 나오는 경우가 많다. 이러한 문제를 해결하기 위해 포토샵 없이도 온라인에서 간편하게 이미지를 회전하고 뒤집을 수 있는 방법을 제공한다. 이 서비스는 90도, 180도 및 임의의 각도로 이미지를 조정할 수 있도록 돕는다. 사용자는 간단한 클릭만으로 원하는 방향으로 이미지를 수정할 수 있다.",
+      "keywords": [
+        "이미지 편집",
+        "회전",
+        "온라인 서비스"
+      ],
+      "source": "dev.to",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T02:23:40.000Z",
+      "url": "https://dev.to/shaishav_patel_271fdcd61a/free-flip-rotate-image-online-90deg-180deg-any-angle-no-photoshop-4jbp",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "trend",
+      "title": "전기 페라리 루체가 드디어 공개됐다",
+      "summary": "페라리 루체는 가장 기대되는 전기차로, 이탈리아 자동차 제조사의 전통적인 미적 기준을 완전히 깨뜨린다.",
+      "summary_full": "페라리 루체가 드디어 공개되었다. 이 전기차는 자동차 애호가들 사이에서 큰 기대를 모았다. 루체는 기존 페라리의 디자인 언어와는 전혀 다른 새로운 미적 접근을 보여준다. 이는 전기차 시장에서 페라리의 혁신적인 변화를 상징한다.",
+      "keywords": [
+        "페라리",
+        "전기차",
+        "루체"
+      ],
+      "source": "wired.com",
+      "date": "5월 25일",
+      "publishedAt": "2026-05-25T21:03:01.000Z",
+      "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here/",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "industry",
+      "title": "마이크로소프트, 코파일트 앱 완전 제거 기능 추가",
+      "summary": "마이크로소프트가 윈도우 11에서 코파일트 앱을 완전히 제거할 수 있는 기능을 추가했다. 이번 변화는 2026년 4월 업데이트에 포함되어 기업 관리자와 일반 사용자 모두에게 적용된다.",
+      "summary_full": "마이크로소프트는 윈도우 11에서 코파일트 앱을 완전히 제거할 수 있는 기능을 추가했다. 이 변화는 2026년 4월 업데이트에 포함되어 기업 관리자와 일반 사용자 모두가 설정을 통해 앱을 제거할 수 있게 되었다. IT 관리자들을 위한 새로운 정책은 '마이크로소프트 제거'로 명명되었다. 이는 사용자들이 코파일트를 선택적으로 사용할 수 있도록 해준다.",
+      "keywords": [
+        "마이크로소프트",
+        "코파일트",
+        "윈도우 11"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 25일",
+      "publishedAt": "2026-05-25T19:10:35.000Z",
+      "url": "https://thenextweb.com/news/only-3-3-per-cent-of-users-pay-for-copilot-so-microsoft-is-finally-making-it-optional",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "industry",
+      "title": "인간을 위한 디자인인가, 기계를 위한 디자인인가?",
+      "summary": "UX 디자인의 개념이 변화하고 있다. 이제는 사용자뿐만 아니라 에이전트와 자동화를 고려해야 한다.",
+      "summary_full": "전통적으로 '사용자'는 사람을 의미했다. 그러나 UX/UI 디자인은 인간과 제품 간의 마찰을 줄이는 것에서 에이전트와 자동화에 대한 고려로 진화하고 있다. 디자인 시스템에서 새로운 접근 방식이 필요하다. 이는 UX 디자인의 미래 방향성을 제시한다.",
+      "keywords": [
+        "UX 디자인",
+        "자동화",
+        "디자인 시스템"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 25일",
+      "publishedAt": "2026-05-25T18:46:44.000Z",
+      "url": "https://uxdesign.cc/should-i-design-for-humans-or-machines-3b8d3addd006?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "frontend",
+      "title": "문서 간 전환: 수백 개 요소에 대한 확장",
+      "summary": "첫 번째 파트에서는 전환에서 발생할 수 있는 문제들을 다루었습니다. 여기에는 사용되지 않는 메타 태그, 전환을 중단시키는 4초 타임아웃, 이미지 왜곡, 전환 생명주기에 대한 이벤트가 포함됩니다.",
+      "summary_full": "첫 번째 파트에서는 전환에서 발생할 수 있는 여러 문제들을 다루었습니다. 사용되지 않는 메타 태그는 아무런 효과가 없고, 4초의 타임아웃은 전환을 중단시킵니다. 또한, 이미지 왜곡은 모든 비율 변경을 불필요하게 만듭니다. 마지막으로, pagereveal/pageswap 이벤트는 전환 생명주기에 대한 훅을 제공합니다.",
+      "keywords": [
+        "전환",
+        "문서 간 전환",
+        "UI/UX"
+      ],
+      "source": "css-tricks.com",
+      "date": "5월 25일",
+      "publishedAt": "2026-05-25T13:46:54.000Z",
+      "url": "https://css-tricks.com/cross-document-view-transitions-part-2/",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "industry",
+      "title": "에이전트 모먼트와 이커머스의 변화",
+      "summary": "에이전트의 실행이 본격화되면서 커머스 생태계가 변화할 가능성이 제기되고 있다. 전문가들은 올해 하반기부터 전 세계적으로 큰 변화가 일어날 것이라고 전망하고 있다.",
+      "summary_full": "현재 에이전트의 실행이 본격화되면서 커머스 생태계도 변화할 수 있다는 의견이 나오고 있다. 한국 인터넷 1세대 전문가인 허진호 대표는 클로드코드2.0과 오푸스4.5가 컨슈머 인터넷을 재편할 잠재력이 있다고 평가했다. 이미 변화의 요소는 모두 갖춰져 있으며, 미국, 중국, 한국을 포함한 전 세계에서 올해 하반기부터 본격적인 변화가 시작될 것이라는 진단이다.",
+      "keywords": [
+        "에이전트",
+        "이커머스",
+        "변화"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 25일",
+      "publishedAt": "2026-05-25T07:49:52.000Z",
+      "url": "https://byline.network/2026/05/24_10298834/",
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "design",
@@ -65,6 +193,38 @@
       "publishedAt": "2026-05-25T03:06:24.000Z",
       "url": "https://dev.to/joseph_anady_214bacedf939/webflow-seo-implementation-1aa9",
       "collectedAt": "2026-05-25"
+    },
+    {
+      "category": "ai",
+      "title": "OpenAI, Grupo Folha 및 Grupo UOL 전략적 콘텐츠 파트너십 발표",
+      "summary": "OpenAI가 Grupo Folha 및 Grupo UOL과 협력하여 신뢰할 수 있는 브라질 저널리즘을 ChatGPT에 도입합니다. 이를 통해 뉴스 접근성을 확대하고 출처와 투명성을 강화합니다.",
+      "summary_full": "OpenAI는 Grupo Folha 및 Grupo UOL과의 파트너십을 통해 브라질의 신뢰할 수 있는 저널리즘을 ChatGPT에 통합합니다. 이 협력은 사용자들에게 더 나은 뉴스 접근성을 제공하고, 정보의 출처를 명확히 하여 투명성을 높이는 데 기여합니다. 이를 통해 ChatGPT는 브라질 사용자들에게 더욱 풍부한 정보 경험을 제공할 수 있게 됩니다. OpenAI는 이러한 파트너십을 통해 글로벌 뉴스 생태계에 긍정적인 영향을 미치고자 합니다.",
+      "keywords": [
+        "OpenAI",
+        "Grupo Folha",
+        "Grupo UOL"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 25일",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "ai",
+      "title": "하네스, 스캐폴드, AI 에이전트 용어 정립의 중요성",
+      "summary": "하네스와 스캐폴드, AI 에이전트와 관련된 용어를 정확히 이해하는 것이 중요하다. 이러한 용어들은 AI 기술의 발전과 활용에 필수적이다.",
+      "summary_full": "하네스와 스캐폴드는 AI 시스템의 구조와 기능을 이해하는 데 중요한 개념이다. AI 에이전트와 관련된 용어를 명확히 정의하는 것은 기술의 발전에 기여할 수 있다. 이 글에서는 이러한 용어들이 왜 중요한지에 대해 논의한다. 올바른 용어 사용은 AI 기술의 효과적인 적용을 가능하게 한다.",
+      "keywords": [
+        "하네스",
+        "스캐폴드",
+        "AI 에이전트"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "5월 25일",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "industry",
@@ -293,18 +453,18 @@
     {
       "category": "design",
       "title": "고객 이해의 네 가지 수준",
-      "summary": "많은 기업들이 고객의 요구와 결정 과정을 잘 알고 있다고 생각하지만, 실제로는 큰 가정에 불과한 경우가 많다. 고객을 이해하기 위해서는 네 가지 수준의 고객 이해를 통해 다각적으로 접근해야 한다.",
-      "summary_full": "기업들은 고객의 필요를 잘 이해하고 있다고 믿지만, 이는 종종 근거 없는 추측에 불과하다. 고객의 행동을 이해하기 위해서는 단순한 관찰 이상의 깊이 있는 분석이 필요하다. 고객의 진정한 요구를 파악하기 위해서는 다양한 관점에서 접근해야 한다. 이를 통해 기업은 고객의 실제 요구를 보다 정확하게 이해할 수 있다.",
+      "summary": "많은 기업들이 고객의 요구와 결정 과정을 잘 알고 있다고 생각하지만, 실제로는 큰 가정과 직감에 의존하는 경우가 많다. 고객을 이해하기 위해서는 네 가지 수준에서 삼각 측량을 해야 한다.",
+      "summary_full": "많은 기업들이 고객의 요구와 필요를 잘 알고 있다고 믿지만, 이는 종종 실질적인 증거가 부족한 큰 가정에 불과하다. 명백한 이유들이 사실일 수 있지만, 전체 그림을 그리기에는 부족하다. 고객을 제대로 이해하기 위해서는 네 가지 수준의 고객 이해를 통해 접근해야 한다. 이를 통해 보다 정확한 고객 통찰을 얻을 수 있다.",
       "keywords": [
         "고객 이해",
         "기업 전략",
-        "사용자 요구"
+        "고객 통찰"
       ],
       "source": "smashingmagazine.com",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "frontend",
@@ -389,26 +549,26 @@
     {
       "category": "frontend",
       "title": "크로스 기능 기술 문제 해결을 위한 역량 성장 팁",
-      "summary": "기술 조직의 성장에 따라 팀 간의 협력이 중요해진다. 다양한 문제를 해결하기 위해서는 단순한 협업을 넘어서는 접근이 필요하다.",
-      "summary_full": "기술 조직이 커질수록 팀 간의 협력이 필수적이다. 각 팀이 자신의 역할을 잘 수행하더라도 전체적으로는 중요한 공백이 발생할 수 있다. 이러한 크로스 기능 기술 문제는 단순한 협업으로 해결되지 않으며, 회의 진행 등 다양한 접근이 필요하다. 문제의 본질을 이해하고, 조직 구조와 역할 정의를 재검토하는 것이 중요하다.",
+      "summary": "기술 조직이 성장함에 따라 팀 간의 협업이 중요해진다. 각 팀이 자신의 역할을 잘 수행하더라도 전체적인 문제 해결에는 한계가 있다.",
+      "summary_full": "기술 조직이 커질수록 팀 간의 협업이 필수적이다. 각 팀은 자신의 역할을 잘 수행하지만, 전체적으로 중요한 공백이 발생할 수 있다. 이러한 크로스 기능 기술 문제는 단순한 협업만으로 해결되지 않으며, 다양한 접근이 필요하다. 문제 해결을 위해서는 회의 진행, 역할 정의, 운영 방식 재설계 등이 필요하다.",
       "keywords": [
         "크로스 기능",
         "기술 문제",
-        "조직 협력"
+        "조직 협업"
       ],
       "source": "toss.tech",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T01:00:00.000Z",
       "url": "https://toss.tech/article/cross-functional-tpm-tip",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "figma",
       "title": "Figma Buzz에서 캠페인 자산 대량 편집 및 크기 조정",
-      "summary": "Figma Buzz를 사용하여 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성하고, 테이블 보기에서 여러 셀을 선택하여 콘텐츠 및 디자인 속성을 관리합니다.",
-      "summary_full": "Figma Buzz를 통해 대량으로 캠페인 자산을 편집하고 크기를 조정하는 기능이 추가되었습니다. 사용자는 스프레드시트를 업로드하여 자산을 생성한 후, 테이블 보기에서 여러 셀을 선택하여 크기 및 브랜드 이미지를 포함한 디자인 속성을 관리할 수 있습니다. 또한, 단일 자산 또는 전체 세트를 선택하여 미리 설정된 채널 크기에서 선택하거나 자신만의 크기를 추가하여 대규모 캠페인을 한 번에 출력할 수 있습니다. 이를 통해 수백 개의 변형을 효율적으로 관리할 수 있습니다.",
+      "summary": "Figma Buzz를 통해 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성하고, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠와 디자인 속성을 관리할 수 있습니다.",
+      "summary_full": "Figma Buzz를 사용하면 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성한 후, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠와 디자인 속성을 동시에 관리할 수 있습니다. 단일 자산이나 전체 세트를 선택하여 미리 설정된 채널 크기 중에서 선택하거나 자신만의 크기를 추가하여 대량 크기 조정이 가능합니다. 이를 통해 하나의 작업으로 전체 다채널 캠페인을 출력할 수 있습니다.",
       "keywords": [
-        "Figma",
+        "Figma Buzz",
         "캠페인 자산",
         "대량 편집"
       ],
@@ -416,7 +576,39 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "ai",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션을 개발하는 데 중점을 둔다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화하기로 했다. 이 협력은 AI 기술의 혁신을 촉진하고, 다양한 산업에 적용 가능한 솔루션을 개발하는 데 초점을 맞춘다. 양사는 서로의 기술적 강점을 활용하여 시장에서의 경쟁력을 높일 계획이다. 이를 통해 AI 기술의 상용화와 산업 전반의 디지털 전환을 지원할 예정이다.",
+      "keywords": [
+        "엠미",
+        "미스트랄",
+        "AI 네이티브 산업"
+      ],
+      "source": "Mistral AI",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "url": "https://mistral.ai/news/accelerate-ai-native-industry",
+      "collectedAt": "2026-05-26"
+    },
+    {
+      "category": "ai",
+      "title": "프로젝트 글래스윙: 초기 업데이트",
+      "summary": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트에 대한 내용이다. 이 업데이트는 프로젝트의 진행 상황을 간략히 소개한다.",
+      "summary_full": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트에 대한 내용이다. 이 업데이트는 프로젝트의 진행 상황을 간략히 소개하며, 향후 계획과 목표에 대한 정보도 포함될 예정이다. 프로젝트의 주요 성과와 도전 과제에 대한 논의가 이루어질 것으로 기대된다. 이를 통해 프로젝트의 투명성을 높이고 이해관계자와의 소통을 강화할 계획이다.",
+      "keywords": [
+        "프로젝트",
+        "업데이트",
+        "글래스윙"
+      ],
+      "source": "Anthropic Research",
+      "date": "5월 22일",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "ai",
@@ -436,41 +628,9 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 협력은 인공지능 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 파트너십을 체결했다. 이 협력은 인공지능 기술의 혁신과 발전을 목표로 하고 있다. 양사는 공동으로 연구 및 개발을 진행하며, 시장의 요구에 부응하는 솔루션을 제공할 예정이다. 이를 통해 AI 기술의 상용화와 산업 전반에 걸친 변화를 이끌어낼 것으로 보인다.",
-      "keywords": [
-        "엠미",
-        "미스트랄",
-        "AI 네이티브 산업"
-      ],
-      "source": "Mistral AI",
-      "date": "5월 22일",
-      "publishedAt": "2026-05-22T00:00:00.000Z",
-      "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-05-25"
-    },
-    {
-      "category": "ai",
-      "title": "프로젝트 글래스윙: 초기 업데이트",
-      "summary": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트입니다. 이 업데이트는 프로젝트의 진행 상황과 향후 계획에 대한 정보를 제공합니다.",
-      "summary_full": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트입니다. 이 업데이트는 프로젝트의 진행 상황과 향후 계획에 대한 정보를 제공합니다. 프로젝트의 목표와 주요 성과에 대한 설명이 포함되어 있습니다. 또한, 다음 단계에 대한 기대와 일정도 언급되고 있습니다.",
-      "keywords": [
-        "프로젝트 글래스윙",
-        "업데이트",
-        "진행 상황"
-      ],
-      "source": "Anthropic Research",
-      "date": "5월 22일",
-      "publishedAt": "2026-05-22T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "collectedAt": "2026-05-25"
-    },
-    {
-      "category": "ai",
       "title": "구글 딥마인드 아시아 태평양 액셀러레이터 프로그램 출시",
-      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 시작한다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 초점을 맞춘다.",
-      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시한다. 이 프로그램은 지역 스타트업과 협력하여 지속 가능한 기술을 개발하는 데 도움을 줄 예정이다. 참가자들은 구글의 자원과 전문 지식을 활용하여 혁신적인 솔루션을 모색할 수 있다. 이를 통해 환경 문제 해결에 기여하고 지속 가능한 미래를 위한 기반을 마련하고자 한다.",
+      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 시작한다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 중점을 둔다.",
+      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 출시한다. 이 프로그램은 스타트업과 기업들이 혁신적인 기술을 활용하여 지속 가능한 솔루션을 개발하도록 지원할 예정이다. 참여자들은 환경 문제를 해결하기 위한 다양한 프로젝트에 참여할 수 있는 기회를 가지게 된다. 이는 지역 사회와 환경에 긍정적인 영향을 미치는 것을 목표로 한다.",
       "keywords": [
         "구글 딥마인드",
         "액셀러레이터 프로그램",
@@ -480,13 +640,13 @@
       "date": "5월 21일",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "ai",
       "title": "펜타곤, Anthropic의 Claude 대체 위해 AI 모델 테스트 중",
-      "summary": "펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 국방 분야에서의 AI 활용을 강화하기 위한 노력의 일환으로 진행되고 있다.",
-      "summary_full": "미국 펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 시험하고 있다. 이 조치는 국방 분야에서의 인공지능 활용을 증대시키기 위한 전략의 일환으로, AI 기술의 발전을 통해 군사 작전의 효율성을 높이려는 목표를 가지고 있다. 펜타곤은 다양한 AI 솔루션을 탐색하며, 최적의 모델을 찾기 위해 여러 테스트를 진행하고 있다. 이러한 노력은 AI 기술의 군사적 응용 가능성을 더욱 확대할 것으로 기대된다.",
+      "summary": "펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 군사적 필요에 따라 AI 기술의 발전을 목표로 하고 있다.",
+      "summary_full": "펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 군사적 필요에 따라 AI 기술의 발전을 목표로 하고 있으며, AI의 효율성과 안전성을 평가하는 데 중점을 두고 있다. 펜타곤은 AI 기술이 군사 작전에서 중요한 역할을 할 것으로 기대하고 있다. 이러한 노력은 AI 기술의 경쟁력을 높이고, 군사적 우위를 확보하기 위한 전략의 일환으로 진행되고 있다.",
       "keywords": [
         "펜타곤",
         "AI 모델",
@@ -496,7 +656,7 @@
       "date": "5월 21일",
       "publishedAt": "2026-05-21T17:55:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SjVNbjRET2c0OVREZjhxMy03RVozMDdDaEdBa1BOZ0xBYjQwdTBWZ055M2xWcnhjOW1seEs2OHJRcnFNLTZNVWU2dGRxV0VTTEszd0RVN29xVThhbDY1R2JtSUdJRTRuelE?oc=5",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "ai",
@@ -1566,7 +1726,7 @@
       "category": "ai",
       "title": "락게이트코어, LLM 기반 AI 보안점검 플랫폼 `모무스AI` 출시",
       "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 '모무스AI'를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 효율성을 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "락게이트코어가 LLM(대형 언어 모델) 기반의 AI 보안점검 플랫폼 '모무스AI'를 출시했다. 이 플랫폼은 기업의 보안 점검을 자동화하여 시간과 비용을 절감할 수 있도록 설계되었다. 모무스AI는 다양한 보안 위협을 실시간으로 분석하고 대응할 수 있는 기능을 갖추고 있다. 이를 통해 기업들은 보다 안전한 IT 환경을 구축할 수 있을 것으로 보인다.",
+      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 '모무스AI'를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검 과정을 자동화한다. 이를 통해 기업들이 보안 점검을 보다 효율적으로 수행할 수 있도록 지원할 예정이다. '모무스AI'는 최신 AI 기술을 활용하여 보안 문제를 신속하게 식별하고 대응할 수 있는 기능을 제공한다.",
       "keywords": [
         "AI 보안점검",
         "모무스AI",
@@ -1576,7 +1736,7 @@
       "date": "5월 14일",
       "publishedAt": "2026-05-14T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XS01aa3FrcnFFVFZuNTlfZ25TeGZFU2lmTXF1VC1GUzk0dHVGRnVOLUlydHA2MGNuVm9sS05vYXdzWE1WUlAtb1hLSktrM0VGeW8wR2lZaWdRU1MtUUc5b2hn?oc=5",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "industry",
@@ -3885,18 +4045,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이를 통해 더 나은 사용자 경험을 제공할 수 있다. 이 글은 디자이너들이 반드시 고려해야 할 점들을 제시하며, 독자들에게 실질적인 숙제를 제안한다. 디자이너들은 대체로 좋은 사람들로, 웹사이트의 품질을 높이기 위해 노력해야 한다. 이 글은 디자이너들에게 혁신적인 통찰력뿐만 아니라 실천 가능한 조언을 제공한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 과제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글에서는 디자이너들이 고려해야 할 점들을 강조한다. 다른 A List Apart 기사가 혁신과 통찰을 제공하는 반면, 이 글은 독자들에게 실질적인 과제를 제안한다. 저자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 역할에 대한 개인적인 견해를 공유한다. 이는 웹사이트의 품질을 높이기 위한 중요한 논의로 이어질 수 있다.",
       "keywords": [
         "접근성",
         "웹사이트 디자인",
-        "디자이너"
+        "디자이너 의견"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "frontend",
@@ -3933,18 +4093,18 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 살펴봅니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 기술 발전과 사용자 요구에 맞춰 진화하며, 디자인의 방향성을 제시합니다. 사용자 경험을 향상시키기 위한 다양한 접근 방식이 포함되어 있습니다. 이러한 트렌드는 기업과 디자이너에게 중요한 참고자료가 될 것입니다.",
+      "summary": "2026년의 UX 디자인을 이끌 주요 트렌드 9가지를 소개한다. 이 트렌드들은 사용자 경험을 혁신적으로 변화시킬 것으로 기대된다.",
+      "summary_full": "2026년 UX 디자인의 방향성을 제시하는 9가지 주요 트렌드가 소개된다. 이 트렌드들은 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 접근성과 효율성을 높이는 데 중점을 둔다. 특히, 인공지능과 개인화된 경험이 중요한 요소로 부각된다. 이러한 변화는 기업들이 사용자와의 관계를 강화하는 데 기여할 것이다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
-        "사용자 경험"
+        "2026년"
       ],
       "source": "Google News Design (KR)",
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-25"
+      "collectedAt": "2026-05-26"
     },
     {
       "category": "design",
