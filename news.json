@@ -1,22 +1,166 @@
 {
-  "updated": "2026년 5월 26일 AM 03:27",
-  "count": 262,
+  "updated": "2026년 5월 27일 AM 03:41",
+  "count": 272,
   "articles": [
     {
+      "category": "frontend",
+      "title": "무료 인터랙티브 GitHub 학습 플랫폼 구축",
+      "summary": "무료 브라우저 기반 GitHub 학습 앱을 구축하여 웹 가이드, 터미널 가이드, Git 참조 및 인터랙티브 CLI 샌드박스를 제공한다.",
+      "summary_full": "Git은 복잡하다는 인식이 있다. 이를 해결하기 위해 웹 가이드, 터미널 가이드, Git 참조 모드와 실제 Git 파일 상태 전환을 시뮬레이션하는 인터랙티브 CLI 샌드박스를 포함한 무료 학습 앱을 개발했다. 이 앱은 사용자에게 Git 사용법을 쉽게 배울 수 있는 기회를 제공한다.",
+      "keywords": [
+        "GitHub",
+        "학습 플랫폼",
+        "CLI 샌드박스"
+      ],
+      "source": "dev.to",
+      "date": "5월 27일",
+      "publishedAt": "2026-05-27T03:39:48.000Z",
+      "url": "https://dev.to/ayanpal98/i-built-a-free-interactive-github-learning-platform-web-guide-terminal-guide-git-reference--1oml",
+      "collectedAt": "2026-05-27"
+    },
+    {
       "category": "industry",
-      "title": "브랜딩 프로모션의 세계관 설계",
-      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 방법에 대해 다룬다. AI와 수천 번의 테스트를 통해 완성된 디자인 프로세스를 소개한다.",
-      "summary_full": "브랜딩 프로모션을 하나의 ‘세계관’으로 설계하는 과정이 설명된다. KV에서 VMD까지의 전반적인 디자인 전략이 포함된다. AI 기술과 1000번의 테스트를 통해 최적화된 프로모션 디자인을 제시한다. 이 과정은 브랜드의 정체성을 강화하는 데 중요한 역할을 한다.",
+      "title": "브랜딩 프로모션을 세계관으로 설계하기",
+      "summary": "AI와 1000번의 테스트를 통해 브랜딩 프로모션 디자인이 완성되었다. KV에서 VMD까지의 과정을 통해 새로운 접근법이 제시된다.",
+      "summary_full": "브랜딩 프로모션을 하나의 '세계관'으로 설계하는 방법에 대해 다룬다. AI 기술과 1000번의 테스트를 통해 프로모션 디자인이 완성되었다. 이 과정은 KV에서 VMD까지의 다양한 단계를 포함한다. 새로운 접근법이 브랜드 경험을 혁신할 수 있는 가능성을 보여준다.",
       "keywords": [
         "브랜딩",
         "프로모션 디자인",
         "AI 기술"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 26일",
-      "publishedAt": "2026-05-26T03:25:29.069Z",
+      "date": "5월 27일",
+      "publishedAt": "2026-05-27T03:39:39.048Z",
       "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
+    },
+    {
+      "category": "design",
+      "title": "Google AI Studio로 SNS 프로필 사이트 만들기",
+      "summary": "Google AI Studio를 활용하여 SNS 프로필 사이트를 만드는 방법을 소개합니다. 이 도구를 사용하면 손쉽게 개인화된 프로필 페이지를 제작할 수 있습니다.",
+      "summary_full": "이 기사에서는 Google AI Studio를 이용해 SNS 프로필 사이트를 만드는 과정을 자세히 설명합니다. 사용자는 이 플랫폼을 통해 간편하게 프로필 페이지를 디자인하고 기능을 추가할 수 있습니다. 다양한 템플릿과 AI 기능을 활용하여 독창적인 사이트를 구축할 수 있는 방법을 제시합니다. 최종적으로, 사용자 맞춤형 프로필 사이트를 손쉽게 제작할 수 있는 유용한 팁을 제공합니다.",
+      "keywords": [
+        "Google AI Studio",
+        "SNS 프로필",
+        "웹사이트 제작"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 27일",
+      "publishedAt": "2026-05-27T03:39:30.260Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-757/",
+      "collectedAt": "2026-05-27"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, 한국 대표 선임",
+      "summary": "앤트로픽이 전 스노우플레이크 한국 총괄을 한국 대표로 선임했다. 이를 통해 국내 사업을 본격화할 계획이다.",
+      "summary_full": "앤트로픽이 한국 시장에서의 입지를 강화하기 위해 전 스노우플레이크 한국 총괄을 한국 대표로 임명했다. 이 인사는 앤트로픽의 국내 사업 확장을 위한 중요한 발판이 될 것으로 기대된다. 앤트로픽은 인공지능 및 클라우드 서비스 분야에서의 성장을 목표로 하고 있다. 새로운 대표의 리더십 아래, 한국 시장에서의 전략적 접근이 이루어질 예정이다.",
+      "keywords": [
+        "앤트로픽",
+        "스노우플레이크",
+        "한국 사업"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 27일",
+      "publishedAt": "2026-05-27T00:47:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xcEU1NzQ1N2pydzlZaDdRRFQwQ29COXFiZnhidGhmTWVtUDJScGdTSmtneTFRMXh3eTI1Z1lHOGtmQmtINmJkOGhia2xLbHNYNFAtU3J3bGNhRVlhMERzTzZDMGRDZlFNQzdHT3Q0NEU?oc=5",
+      "collectedAt": "2026-05-27"
+    },
+    {
+      "category": "trend",
+      "title": "교황 레오가 기술 기업가들에게 톨킨을 가르치다",
+      "summary": "교황이 AI에 관한 회칙에서 반지의 제왕을 언급했다. 이는 시리즈를 잘못 해석하는 기술 억만장자들을 겨냥한 의도치 않은 트롤이다.",
+      "summary_full": "교황이 AI에 대한 회칙에서 반지의 제왕을 인용했다. 이는 기술 기업가들이 이 시리즈를 잘못 해석하는 것을 겨냥한 것이다. 교황의 발언은 톨킨의 메시지를 재조명하는 계기가 되었다. 기술과 문학의 교차점에서 중요한 논의를 이끌어낼 수 있다.",
+      "keywords": [
+        "교황",
+        "AI",
+        "톨킨"
+      ],
+      "source": "wired.com",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T23:19:03.000Z",
+      "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+      "collectedAt": "2026-05-27"
+    },
+    {
+      "category": "industry",
+      "title": "미국 상무부, 반도체과학법으로 IBM에 1조5063억원 투자",
+      "summary": "미국 상무부가 반도체과학법에 따라 IBM에 20억1300만달러를 투자하기로 했다. 이는 미국의 반도체 산업 공급망 안정화와 중국 견제를 위한 조치로, 2022년에 제정된 법안에 기반한다.",
+      "summary_full": "미국 상무부는 반도체과학법(CHIPS and Science Act)에 따라 IBM에 20억1300만달러(3조273억원)의 투자 지원금을 제공하기 위해 9건의 투자의향서(LOI)를 체결했다고 발표했다. 반도체과학법은 미국의 반도체 산업 공급망 안정화와 중국의 성장 견제를 위해 미국 내 자체 생산 능력을 향상시키기 위해 2022년 제정됐다. 또한, 트럼프 행정부는 양자 컴퓨팅을 인공지능(AI) 발전과 연관된 경제 및 국가 안보의 주요 과제로 선정해 산업 초기부터 투자를 지원하고 있다.",
+      "keywords": [
+        "미국 상무부",
+        "반도체과학법",
+        "IBM 투자"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T22:27:39.000Z",
+      "url": "https://byline.network/2026/05/526-2/",
+      "collectedAt": "2026-05-27"
+    },
+    {
+      "category": "industry",
+      "title": "관계적 객체로서의 책 표지",
+      "summary": "책 표지 디자인은 미적 요소를 넘어 독자의 행동을 예측하는 과정이다. 이 글에서는 디자인 접근 방식을 설명하면서도 책의 내용을 과도하게 노출하지 않으려는 고민을 담고 있다.",
+      "summary_full": "책 표지 디자인은 단순한 미적 요소가 아니라 독자의 행동을 고려해야 하는 중요한 과정이다. 저자는 자신의 디자인 접근 방식을 설명하면서도 독서 경험을 해치지 않기 위해 신중을 기하고 있다. 이 글은 독자에게 책의 전체 생애 주기를 고려한 디자인의 중요성을 강조한다. 디자인의 복잡성과 독서 경험을 동시에 고려하는 것이 핵심이다.",
+      "keywords": [
+        "책 표지",
+        "디자인",
+        "독자 경험"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T22:06:23.000Z",
+      "url": "https://uxdesign.cc/the-book-cover-as-a-relational-object-288fb15deff1?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-27"
+    },
+    {
+      "category": "trend",
+      "title": "효과적인 대화형 인터페이스 디자인",
+      "summary": "사용자를 참여시키는 대화형 인터페이스 개발은 디자인 원칙과 사용자 행동에 대한 깊은 이해를 요구한다. 효과적인 대화형 인터페이스를 만들기 위해서는 디자인에서 사용되는 톤과 언어를 고려하는 것이 중요하다.",
+      "summary_full": "대화형 인터페이스를 개발하기 위해서는 사용자 중심 접근 방식을 채택해야 한다. 이는 사용자가 시스템과 상호작용할 때의 맥락과 감정적 요구에 집중하는 것을 포함한다. 디자인에서 사용되는 톤과 언어는 효과적인 사용자 경험을 위해 필수적이다. 따라서, 사용자 행동을 이해하고 디자인 원칙을 적용하는 것이 중요하다.",
+      "keywords": [
+        "대화형 인터페이스",
+        "디자인 원칙",
+        "사용자 행동"
+      ],
+      "source": "dev.to",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T20:31:09.000Z",
+      "url": "https://dev.to/sinan_khan_336440/designing-effective-conversational-interfaces-f5k",
+      "collectedAt": "2026-05-27"
+    },
+    {
+      "category": "industry",
+      "title": "네덜란드, 미국 기업의 디지털 신원 클라우드 제공업체 인수 차단",
+      "summary": "네덜란드 정부는 Kyndryl이 Solvinity를 인수하는 것을 완전히 금지했다. 이 거래는 미국 기업이 네덜란드의 디지털 신원 시스템인 DigiD를 운영하는 플랫폼을 통제하게 할 수 있었다.",
+      "summary_full": "네덜란드 정부는 Kyndryl이 네덜란드 클라우드 제공업체 Solvinity를 인수하는 것을 금지했다. 이 거래는 약 1억 유로의 가치가 있었으며, 미국 본사의 기업이 DigiD 플랫폼을 통제하게 될 수 있었다. DigiD는 네덜란드에서 사용되는 디지털 신원 시스템이다. 정부는 국가의 디지털 보안을 우선시하여 이 결정을 내렸다.",
+      "keywords": [
+        "네덜란드",
+        "Kyndryl",
+        "Solvinity"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T16:40:25.000Z",
+      "url": "https://thenextweb.com/news/the-netherlands-just-blocked-a-us-company-from-buying-the-cloud-provider-that-runs-dutch-digital-identity",
+      "collectedAt": "2026-05-27"
+    },
+    {
+      "category": "frontend",
+      "title": "AI 시대의 기술 문서 작성",
+      "summary": "업계에 대한 무관심이 커지고 있으며, 많은 존경받는 전문가들이 소통의 단절을 느끼고 있다.",
+      "summary_full": "기술 문서 작성 분야에서 많은 전문가들이 소통의 단절을 경험하고 있으며, 이로 인해 동기 부여가 감소하고 있다. 이러한 현상은 업계에 대한 무관심이 심화되고 있음을 나타낸다. 전문가들은 자신의 경험과 지식을 공유하고자 하지만, 그들의 목소리가 무시당하는 듯한 느낌을 받고 있다. 결과적으로, 이들은 지속적으로 활동하기 위한 동기를 잃어가고 있다.",
+      "keywords": [
+        "기술 문서 작성",
+        "AI 시대",
+        "전문가 의견"
+      ],
+      "source": "css-tricks.com",
+      "date": "5월 26일",
+      "publishedAt": "2026-05-26T13:49:28.000Z",
+      "url": "https://css-tricks.com/technical-writing-in-the-ai-age/",
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "design",
@@ -131,6 +275,22 @@
       "collectedAt": "2026-05-26"
     },
     {
+      "category": "design",
+      "title": "프로토타입이 사용자에게 솔직하지 않은 이유와 해결 방법",
+      "summary": "사용자 테스트 중 참가자가 로그인 화면에서 멈추고 올바르게 입력하고 있는지 확인하는 순간이 있다. 이는 프로토타입이 실제 앱이 아님을 인식하게 되어, 이후 수집되는 데이터가 왜곡될 수 있음을 나타낸다.",
+      "summary_full": "사용자 테스트에서 참가자가 로그인 화면에서 멈추고 입력 후 확인하는 순간은 프로토타입이 실제 앱이 아님을 인식하게 만든다. 이 인식은 이후의 모든 데이터 수집에 영향을 미친다. 특히 금융 제품과 같은 경우, 이러한 왜곡은 사용자 경험에 큰 영향을 줄 수 있다. 따라서 프로토타입의 신뢰성을 높이는 방법이 필요하다.",
+      "keywords": [
+        "프로토타입",
+        "사용자 경험",
+        "신뢰성"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "5월 25일",
+      "publishedAt": "2026-05-25T12:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
+      "collectedAt": "2026-05-27"
+    },
+    {
       "category": "industry",
       "title": "에이전트 모먼트와 이커머스의 변화",
       "summary": "에이전트의 실행이 본격화되면서 커머스 생태계가 변화할 가능성이 제기되고 있다. 전문가들은 올해 하반기부터 전 세계적으로 큰 변화가 일어날 것이라고 전망하고 있다.",
@@ -197,34 +357,36 @@
     {
       "category": "ai",
       "title": "OpenAI, Grupo Folha 및 Grupo UOL 전략적 콘텐츠 파트너십 발표",
-      "summary": "OpenAI가 Grupo Folha 및 Grupo UOL과 협력하여 신뢰할 수 있는 브라질 저널리즘을 ChatGPT에 도입합니다. 이를 통해 뉴스 접근성을 확대하고 출처와 투명성을 강화합니다.",
-      "summary_full": "OpenAI는 Grupo Folha 및 Grupo UOL과의 파트너십을 통해 브라질의 신뢰할 수 있는 저널리즘을 ChatGPT에 통합합니다. 이 협력은 사용자들에게 더 나은 뉴스 접근성을 제공하고, 정보의 출처를 명확히 하여 투명성을 높이는 데 기여합니다. 이를 통해 ChatGPT는 브라질 사용자들에게 더욱 풍부한 정보 경험을 제공할 수 있게 됩니다. OpenAI는 이러한 파트너십을 통해 글로벌 뉴스 생태계에 긍정적인 영향을 미치고자 합니다.",
+      "summary": "OpenAI가 Grupo Folha 및 Grupo UOL과 파트너십을 체결하여 ChatGPT에 신뢰할 수 있는 브라질 저널리즘을 제공합니다. 이를 통해 뉴스 접근성을 확대하고 출처와 투명성을 보장합니다.",
+      "summary_full": "OpenAI는 Grupo Folha 및 Grupo UOL과 협력하여 브라질의 신뢰할 수 있는 저널리즘을 ChatGPT에 통합합니다. 이 파트너십은 사용자에게 더 나은 뉴스 접근성을 제공하는 것을 목표로 합니다. 또한, 뉴스 콘텐츠에 대한 출처와 투명성을 보장하여 신뢰성을 높입니다. 이를 통해 브라질 내에서 정보의 질을 향상시키려는 노력을 기울이고 있습니다.",
       "keywords": [
         "OpenAI",
         "Grupo Folha",
-        "Grupo UOL"
+        "Grupo UOL",
+        "브라질 저널리즘",
+        "ChatGPT"
       ],
       "source": "OpenAI News",
       "date": "5월 25일",
       "publishedAt": "2026-05-25T00:00:00.000Z",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "ai",
-      "title": "하네스, 스캐폴드, AI 에이전트 용어 정립의 중요성",
-      "summary": "하네스와 스캐폴드, AI 에이전트와 관련된 용어를 정확히 이해하는 것이 중요하다. 이러한 용어들은 AI 기술의 발전과 활용에 필수적이다.",
-      "summary_full": "하네스와 스캐폴드는 AI 시스템의 구조와 기능을 이해하는 데 중요한 개념이다. AI 에이전트와 관련된 용어를 명확히 정의하는 것은 기술의 발전에 기여할 수 있다. 이 글에서는 이러한 용어들이 왜 중요한지에 대해 논의한다. 올바른 용어 사용은 AI 기술의 효과적인 적용을 가능하게 한다.",
+      "title": "AI 에이전트 용어의 중요성",
+      "summary": "AI 에이전트와 관련된 용어인 Harness와 Scaffold의 정확한 이해가 필요하다. 이러한 용어들은 AI 기술의 발전과 적용에 있어 중요한 역할을 한다.",
+      "summary_full": "AI 에이전트의 발전을 위해 Harness와 Scaffold와 같은 용어를 올바르게 이해하는 것이 중요하다. 이들 용어는 AI 시스템의 구조와 기능을 설명하는 데 필수적이다. 따라서, 기술자와 연구자들은 이러한 용어를 명확히 하고 올바르게 사용할 필요가 있다. 이는 AI 기술의 효과적인 활용과 발전에 기여할 것이다.",
       "keywords": [
-        "하네스",
-        "스캐폴드",
-        "AI 에이전트"
+        "AI 에이전트",
+        "Harness",
+        "Scaffold"
       ],
       "source": "HuggingFace Blog",
       "date": "5월 25일",
       "publishedAt": "2026-05-25T00:00:00.000Z",
       "url": "https://huggingface.co/blog/agent-glossary",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "industry",
@@ -549,8 +711,8 @@
     {
       "category": "frontend",
       "title": "크로스 기능 기술 문제 해결을 위한 역량 성장 팁",
-      "summary": "기술 조직이 성장함에 따라 팀 간의 협업이 중요해진다. 각 팀이 자신의 역할을 잘 수행하더라도 전체적인 문제 해결에는 한계가 있다.",
-      "summary_full": "기술 조직이 커질수록 팀 간의 협업이 필수적이다. 각 팀은 자신의 역할을 잘 수행하지만, 전체적으로 중요한 공백이 발생할 수 있다. 이러한 크로스 기능 기술 문제는 단순한 협업만으로 해결되지 않으며, 다양한 접근이 필요하다. 문제 해결을 위해서는 회의 진행, 역할 정의, 운영 방식 재설계 등이 필요하다.",
+      "summary": "기술 조직의 성장에 따라 팀 간의 협업이 중요해지며, 크로스 기능 문제를 해결하기 위한 노력이 필요하다. 단순한 협업을 넘어, 조직 구조와 역할 정의까지 재검토해야 한다.",
+      "summary_full": "기술 조직이 성장함에 따라 팀 간의 협업이 필수적이며, 크로스 기능 문제는 각 팀의 역할이 잘 수행되고 있음에도 불구하고 발생한다. 이러한 문제는 인프라, 제품, 기술 전략, 운영 방식 등 다양한 영역에서 발생할 수 있다. 문제 해결을 위해서는 단순한 협업을 넘어, 회의 진행 및 조직 구조와 역할 정의를 재검토해야 한다. 따라서 효과적인 문제 해결을 위해서는 다각적인 접근이 필요하다.",
       "keywords": [
         "크로스 기능",
         "기술 문제",
@@ -560,13 +722,13 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T01:00:00.000Z",
       "url": "https://toss.tech/article/cross-functional-tpm-tip",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "figma",
       "title": "Figma Buzz에서 캠페인 자산 대량 편집 및 크기 조정",
-      "summary": "Figma Buzz를 통해 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성하고, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠와 디자인 속성을 관리할 수 있습니다.",
-      "summary_full": "Figma Buzz를 사용하면 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성한 후, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠와 디자인 속성을 동시에 관리할 수 있습니다. 단일 자산이나 전체 세트를 선택하여 미리 설정된 채널 크기 중에서 선택하거나 자신만의 크기를 추가하여 대량 크기 조정이 가능합니다. 이를 통해 하나의 작업으로 전체 다채널 캠페인을 출력할 수 있습니다.",
+      "summary": "Figma Buzz에서 스프레드시트를 업로드하여 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 테이블 뷰에서 여러 셀을 선택하여 콘텐츠와 디자인 속성을 관리할 수 있습니다.",
+      "summary_full": "Figma Buzz는 사용자가 스프레드시트를 업로드하여 캠페인 자산을 대량으로 생성하고 편집할 수 있는 기능을 제공합니다. 사용자는 테이블 뷰에서 여러 셀을 선택하여 크기와 브랜드 이미지를 포함한 디자인 속성을 동시에 관리할 수 있습니다. 또한, 단일 자산이나 전체 세트를 선택하여 미리 설정된 채널 크기 또는 사용자 정의 크기로 대량 크기 조정이 가능합니다. 이를 통해 한 번의 작업으로 전체 멀티채널 캠페인을 출력할 수 있습니다.",
       "keywords": [
         "Figma Buzz",
         "캠페인 자산",
@@ -576,13 +738,13 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "ai",
       "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션을 개발하는 데 중점을 둔다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화하기로 했다. 이 협력은 AI 기술의 혁신을 촉진하고, 다양한 산업에 적용 가능한 솔루션을 개발하는 데 초점을 맞춘다. 양사는 서로의 기술적 강점을 활용하여 시장에서의 경쟁력을 높일 계획이다. 이를 통해 AI 기술의 상용화와 산업 전반의 디지털 전환을 지원할 예정이다.",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진하는 데 중점을 둔다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 협력을 시작했다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 두 회사는 함께 AI 솔루션을 개발하고 시장에 도입할 계획이다. 이를 통해 AI 산업의 성장과 경쟁력을 높이는 것을 목표로 한다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -592,23 +754,23 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "ai",
       "title": "프로젝트 글래스윙: 초기 업데이트",
-      "summary": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트에 대한 내용이다. 이 업데이트는 프로젝트의 진행 상황을 간략히 소개한다.",
-      "summary_full": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트에 대한 내용이다. 이 업데이트는 프로젝트의 진행 상황을 간략히 소개하며, 향후 계획과 목표에 대한 정보도 포함될 예정이다. 프로젝트의 주요 성과와 도전 과제에 대한 논의가 이루어질 것으로 기대된다. 이를 통해 프로젝트의 투명성을 높이고 이해관계자와의 소통을 강화할 계획이다.",
+      "summary": "2026년 5월 22일 프로젝트 글래스윙에 대한 초기 업데이트가 발표되었습니다. 이 업데이트는 프로젝트의 진행 상황을 공유합니다.",
+      "summary_full": "2026년 5월 22일에 발표된 프로젝트 글래스윙의 초기 업데이트는 프로젝트의 현재 상태와 향후 계획을 포함하고 있습니다. 이 발표는 프로젝트 팀이 목표를 향해 나아가고 있음을 보여줍니다. 또한, 프로젝트의 주요 이정표와 성과에 대한 정보도 제공됩니다. 앞으로의 발전에 대한 기대감이 커지고 있습니다.",
       "keywords": [
-        "프로젝트",
+        "프로젝트 글래스윙",
         "업데이트",
-        "글래스윙"
+        "진행 상황"
       ],
       "source": "Anthropic Research",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "ai",
@@ -628,19 +790,19 @@
     },
     {
       "category": "ai",
-      "title": "구글 딥마인드 아시아 태평양 액셀러레이터 프로그램 출시",
-      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 시작한다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 중점을 둔다.",
-      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 출시한다. 이 프로그램은 스타트업과 기업들이 혁신적인 기술을 활용하여 지속 가능한 솔루션을 개발하도록 지원할 예정이다. 참여자들은 환경 문제를 해결하기 위한 다양한 프로젝트에 참여할 수 있는 기회를 가지게 된다. 이는 지역 사회와 환경에 긍정적인 영향을 미치는 것을 목표로 한다.",
+      "title": "아시아 태평양에서 환경 위험 대응을 위한 Google DeepMind Accelerator 프로그램 출시",
+      "summary": "Google DeepMind Accelerator 프로그램이 아시아 태평양 지역에서 시작됩니다. 이 프로그램은 환경 위험 문제를 해결하는 데 중점을 둡니다.",
+      "summary_full": "Google은 아시아 태평양 지역에서 환경 위험을 해결하기 위해 DeepMind Accelerator 프로그램을 출시합니다. 이 프로그램은 혁신적인 기술과 연구를 통해 지속 가능한 솔루션을 개발하는 것을 목표로 합니다. 다양한 스타트업과 협력하여 환경 문제에 대한 효과적인 대응 방안을 모색할 예정입니다. 이를 통해 지역 사회와 환경에 긍정적인 영향을 미치고자 합니다.",
       "keywords": [
-        "구글 딥마인드",
-        "액셀러레이터 프로그램",
+        "Google",
+        "DeepMind",
         "환경 위험"
       ],
       "source": "Google DeepMind Blog",
       "date": "5월 21일",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "ai",
@@ -1726,17 +1888,17 @@
       "category": "ai",
       "title": "락게이트코어, LLM 기반 AI 보안점검 플랫폼 `모무스AI` 출시",
       "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 '모무스AI'를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 효율성을 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 '모무스AI'를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검 과정을 자동화한다. 이를 통해 기업들이 보안 점검을 보다 효율적으로 수행할 수 있도록 지원할 예정이다. '모무스AI'는 최신 AI 기술을 활용하여 보안 문제를 신속하게 식별하고 대응할 수 있는 기능을 제공한다.",
+      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼인 '모무스AI'를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검 과정을 자동화한다. 이를 통해 기업들이 보안 점검을 보다 효율적으로 수행할 수 있도록 지원할 예정이다. 모무스AI는 향후 다양한 산업에 적용될 가능성이 있다.",
       "keywords": [
-        "AI 보안점검",
-        "모무스AI",
-        "락게이트코어"
+        "AI",
+        "보안점검",
+        "모무스AI"
       ],
       "source": "Google News AI (KR)",
       "date": "5월 14일",
       "publishedAt": "2026-05-14T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XS01aa3FrcnFFVFZuNTlfZ25TeGZFU2lmTXF1VC1GUzk0dHVGRnVOLUlydHA2MGNuVm9sS05vYXdzWE1WUlAtb1hLSktrM0VGeW8wR2lZaWdRU1MtUUc5b2hn?oc=5",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "industry",
@@ -4045,18 +4207,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 과제를 제시한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글에서는 디자이너들이 고려해야 할 점들을 강조한다. 다른 A List Apart 기사가 혁신과 통찰을 제공하는 반면, 이 글은 독자들에게 실질적인 과제를 제안한다. 저자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 역할에 대한 개인적인 견해를 공유한다. 이는 웹사이트의 품질을 높이기 위한 중요한 논의로 이어질 수 있다.",
+      "summary": "접근성은 웹사이트 제작에 있어 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에 있어 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다. 디자이너는 좋은 사람들로, 그들의 의견은 웹사이트의 질을 높이는 데 기여할 수 있다. 이 글은 독자들에게 웹사이트 접근성을 높이기 위한 실질적인 조언을 제공한다.",
       "keywords": [
-        "접근성",
-        "웹사이트 디자인",
-        "디자이너 의견"
+        "디자인",
+        "웹사이트",
+        "접근성"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "frontend",
@@ -4093,18 +4255,18 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인을 이끌 주요 트렌드 9가지를 소개한다. 이 트렌드들은 사용자 경험을 혁신적으로 변화시킬 것으로 기대된다.",
-      "summary_full": "2026년 UX 디자인의 방향성을 제시하는 9가지 주요 트렌드가 소개된다. 이 트렌드들은 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 접근성과 효율성을 높이는 데 중점을 둔다. 특히, 인공지능과 개인화된 경험이 중요한 요소로 부각된다. 이러한 변화는 기업들이 사용자와의 관계를 강화하는 데 기여할 것이다.",
+      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
+      "summary_full": "2026년을 대비하여 주목해야 할 9가지 UX 디자인 트렌드를 다룹니다. 이 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있습니다. 각 트렌드는 디자인 접근 방식과 사용자 상호작용에 중요한 영향을 미칠 것입니다. UX 디자이너와 기업은 이러한 트렌드를 통해 경쟁력을 강화할 수 있습니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
-        "2026년"
+        "사용자 경험"
       ],
       "source": "Google News Design (KR)",
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-26"
+      "collectedAt": "2026-05-27"
     },
     {
       "category": "design",
