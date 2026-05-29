@@ -1,22 +1,184 @@
 {
-  "updated": "2026년 5월 28일 AM 03:01",
-  "count": 284,
+  "updated": "2026년 5월 29일 AM 03:30",
+  "count": 289,
   "articles": [
     {
       "category": "industry",
       "title": "브랜딩 프로모션의 세계관 설계",
-      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 과정에 대해 설명한다. AI와 1000번의 테스트를 통해 완성된 프로모션 디자인을 다룬다.",
-      "summary_full": "브랜딩 프로모션을 하나의 ‘세계관’으로 설계하는 방법을 탐구한다. 이 과정에서 KV(키 비주얼)에서 VMD(비주얼 머천다이징)까지의 통합적인 접근이 강조된다. AI 기술을 활용하고 1000번의 테스트를 거쳐 최종적으로 완성된 프로모션 디자인을 소개한다. 이러한 혁신적인 접근이 브랜드 경험을 어떻게 변화시키는지를 논의한다.",
+      "summary": "브랜딩 프로모션을 하나의 세계관으로 설계하는 과정에 대해 설명한다. AI와 수천 번의 테스트를 통해 완성된 디자인 전략을 다룬다.",
+      "summary_full": "브랜딩 프로모션을 세계관으로 설계하는 방법에 대해 논의한다. KV에서 VMD까지의 과정을 포함하며, AI 기술을 활용한 혁신적인 접근 방식을 제시한다. 1000번의 테스트를 통해 최적화된 프로모션 디자인을 소개한다. 이러한 과정은 브랜드의 정체성을 강화하는 데 기여한다.",
       "keywords": [
         "브랜딩",
-        "프로모션 디자인",
-        "AI 기술"
+        "프로모션",
+        "AI 디자인"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 28일",
-      "publishedAt": "2026-05-28T02:59:03.136Z",
+      "date": "5월 29일",
+      "publishedAt": "2026-05-29T03:28:38.392Z",
       "url": "https://www.bucketplace.com/post/2026-05-11-%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%9D%84-%ED%95%98%EB%82%98%EC%9D%98-%E2%80%98%EC%84%B8%EA%B3%84%EA%B4%80%E2%80%99%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83/",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "design",
+      "title": "ChatGPT에서 Seedance 2.0으로 영상 생성하기",
+      "summary": "ChatGPT를 활용하여 Seedance 2.0으로 영상을 생성하는 방법을 소개한다. 이 과정에서 필요한 도구와 기술을 설명한다.",
+      "summary_full": "이 기사에서는 ChatGPT를 이용해 Seedance 2.0으로 영상을 생성하는 방법을 다룬다. Seedance 2.0의 기능과 장점을 설명하며, 실제 영상 제작 과정에서의 활용 사례를 제시한다. 독자들은 이 기술을 통해 창의적인 영상 콘텐츠를 제작할 수 있는 방법을 배울 수 있다. 또한, 필요한 도구와 설정에 대한 정보도 제공된다.",
+      "keywords": [
+        "ChatGPT",
+        "Seedance 2.0",
+        "영상 생성"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "5월 29일",
+      "publishedAt": "2026-05-29T03:28:32.640Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-759/",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "frontend",
+      "title": "스팸 봇으로부터 내 이메일을 보호한 방법",
+      "summary": "개발자와 창작자들이 정적 사이트와 랜딩 페이지를 만들 때, 사용자 피드백과 판매 리드를 수집하는 것이 중요하다. 스팸 봇으로부터 이메일을 보호하는 방법을 공유한다.",
+      "summary_full": "개발자, 인디 해커, 솔로 창립자들은 정적 사이트와 랜딩 페이지를 많이 출시한다. 이러한 배포는 사용자 피드백, 판매 리드, 버그 보고서를 수집하는 신뢰할 수 있는 경로가 필요하다. 스팸 봇으로부터 이메일을 보호하기 위해 여러 가지 방법을 적용했다. 이 글에서는 그 방법을 자세히 설명한다.",
+      "keywords": [
+        "스팸 방지",
+        "랜딩 페이지",
+        "사용자 피드백"
+      ],
+      "source": "dev.to",
+      "date": "5월 29일",
+      "publishedAt": "2026-05-29T03:17:27.000Z",
+      "url": "https://dev.to/ysykzheng/how-i-protected-my-inbox-from-spam-bots-while-building-landing-pages-3doh",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "industry",
+      "title": "네이버, 카카오, 배달의민족의 AI 활용",
+      "summary": "한국의 주요 서비스들이 AI를 어떻게 활용하고 있는지 살펴본다. 이들 서비스의 AI 적용 결과가 실제로 수치로 나타나는지 분석한다.",
+      "summary_full": "네이버, 카카오, 배달의민족은 각각 검색, 메신저, 배달 서비스에서 AI 기술을 적용하고 있다. 이들 플랫폼에서 AI의 활용이 사용자 경험에 어떤 영향을 미치는지 탐구한다. 또한, AI의 도입이 실제로 매출이나 사용자 수치에 긍정적인 변화를 가져오는지에 대한 데이터를 분석한다. 이를 통해 한국의 커머스 환경에서 AI의 중요성을 강조한다.",
+      "keywords": [
+        "AI",
+        "네이버",
+        "카카오",
+        "배달의민족",
+        "커머스"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 29일",
+      "publishedAt": "2026-05-29T02:40:04.000Z",
+      "url": "https://byline.network/2026/05/29_19292883/",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "industry",
+      "title": "AI를 위한 디자인은 1999년처럼 디자인하는 것",
+      "summary": "1999년의 웹 디자인을 돌아보며 AI를 위한 디자인을 재구성하는 방법을 탐구한다. 이는 수작업으로 만들어진 웹의 감성을 되살리는 과정이다.",
+      "summary_full": "1999년의 웹 디자인을 회상하며 AI를 위한 디자인의 방향성을 모색한다. 당시의 웹은 수작업으로 만들어졌고, 많은 디자이너들이 Notepad와 같은 WYSIWYG 편집기를 사용했다. 이러한 회고는 현재 우리가 AI를 위해 어떻게 디자인할지를 재정의하는 데 도움을 준다. Hamster Dance와 같은 문화적 요소가 그 시절의 감성을 상기시킨다.",
+      "keywords": [
+        "AI 디자인",
+        "1999년 웹",
+        "수작업 디자인"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 29일",
+      "publishedAt": "2026-05-29T00:29:39.000Z",
+      "url": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "trend",
+      "title": "GOP의 제임스 탈라리코 공격은 인셀 핸드북에서 나온 것",
+      "summary": "GOP의 제임스 탈라리코에 대한 공격은 인셀 문화에서 유래한 것으로 보인다. 저조한 테스토스테론과 비건에 대한 허위 주장 등이 온라인 극우 세력에게는 통할 수 있지만, 선거에서 승리할 수 있을지는 의문이다.",
+      "summary_full": "제임스 탈라리코에 대한 GOP의 공격은 인셀 문화에서 영감을 받은 것으로 분석된다. 이들은 저조한 테스토스테론 수치와 비건이라는 허위 주장 등을 활용하고 있다. 이러한 전략이 온라인 극우 커뮤니티에서는 효과를 볼 수 있지만, 실제 선거에서는 성공할 가능성이 낮다. 따라서 이러한 공격이 정치적 결과에 어떤 영향을 미칠지는 불확실하다.",
+      "keywords": [
+        "GOP",
+        "제임스 탈라리코",
+        "인셀"
+      ],
+      "source": "wired.com",
+      "date": "5월 28일",
+      "publishedAt": "2026-05-28T23:49:53.000Z",
+      "url": "https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "trend",
+      "title": "일관성과 명확성으로 디자인하기",
+      "summary": "프리랜서 디자이너에게 일관된 브랜드 목소리와 시각적 정체성을 만드는 것은 지속적인 도전이다. 디자인 요소 간의 일관성을 유지하는 것이 중요하다.",
+      "summary_full": "프리랜서 디자이너에게 일관된 브랜드 목소리와 시각적 정체성을 만드는 것은 지속적인 도전이다. 디자인 요소 간의 일관성을 유지하는 것이 중요하며, 여기에는 타이포그래피, 색상 팔레트, 이미지가 포함된다. 이러한 요소들이 조화롭게 작용할 때, 브랜드의 핵심 메시지를 강화하고 목표 청중과 공감할 수 있다. 잘 디자인된 로고는 이러한 일관성을 더욱 돋보이게 한다.",
+      "keywords": [
+        "디자인",
+        "브랜드",
+        "일관성"
+      ],
+      "source": "dev.to",
+      "date": "5월 28일",
+      "publishedAt": "2026-05-28T21:17:53.000Z",
+      "url": "https://dev.to/sinan_khan_336440/designing-with-consistency-and-clarity-49kn",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "industry",
+      "title": "BYD, 중국 최초의 4nm 자율주행 칩 개발 및 10,000달러 차량에 LiDAR 탑재",
+      "summary": "BYD가 자율주행 차량을 위한 중국 최초의 자동차 등급 4nm 칩을 공개했다. 이 칩은 동급 대비 전력 소비가 약 20% 낮아 효율성이 높다.",
+      "summary_full": "BYD는 자율주행 차량을 위한 중국 최초의 4nm 자동차 등급 칩인 Xuanji A3를 발표했다. CEO 왕촨푸는 이 칩이 동급 반도체보다 전력 소비가 약 20% 낮다고 밝혔다. 이 칩은 높은 효율성을 자랑하며, BYD는 이를 10,000달러 차량에 LiDAR와 함께 탑재할 예정이다. 이로써 자율주행 기술의 대중화에 기여할 것으로 기대된다.",
+      "keywords": [
+        "BYD",
+        "4nm 칩",
+        "자율주행 차량"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 28일",
+      "publishedAt": "2026-05-28T18:42:20.000Z",
+      "url": "https://thenextweb.com/news/byd-has-built-chinas-first-4nm-driving-chip-and-its-putting-lidar-on-a-10000-car",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "ai",
+      "title": "Claude Opus 4.8 출시",
+      "summary": "Anthropic이 코딩 및 추론 능력을 강화한 Claude Opus 4.8을 출시했다. 이 업데이트는 AI의 성능을 한층 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "Anthropic이 새로운 버전의 AI 모델인 Claude Opus 4.8을 출시했다. 이번 업데이트는 코딩 및 추론 능력을 강화하여 사용자에게 더 나은 경험을 제공할 예정이다. AI의 성능 향상은 다양한 분야에서 활용 가능성을 높인다. Claude Opus 4.8은 특히 개발자와 연구자들에게 유용할 것으로 보인다.",
+      "keywords": [
+        "Anthropic",
+        "Claude Opus 4.8",
+        "AI 모델"
+      ],
+      "source": "Google News Anthropic",
+      "date": "5월 28일",
+      "publishedAt": "2026-05-28T17:11:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kUXNOcnRqamdKMll6QzB0dmc5cm91UnZoOE5jTFJCRmhkNjlITlh0Zk1tUEh3dTFwSHkybWRyNk5JQkRfS0xqa1FUWFQ4MXk3RFUyUnZ1Z0p6V3gtazRYUV9HaWs1cmhtNURkeTZ1bWc?oc=5",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "design",
+      "title": "알고리즘 테마 엔진: `contrast-color()`로 자기 수정 색상 시스템 구축하기",
+      "summary": "HTTP Archive Web Almanac에 따르면, 웹사이트의 색상 대비 실패율이 여전히 높다. 2025년까지 70%의 웹사이트가 기본 WCAG 대비 검사를 통과하지 못할 것으로 예상된다.",
+      "summary_full": "HTTP Archive Web Almanac은 색상 대비 실패를 수년간 추적해왔으며, 그 수치는 거의 변화가 없다. 디자인 시스템 도구와 접근성 린터, 자바스크립트 라이브러리가 등장했음에도 불구하고, 2025년까지 70%의 웹사이트가 기본 WCAG 대비 검사를 통과하지 못할 것으로 보인다. WebAIM Million의 데이터는 더욱 암울한 상황을 보여주며, 83.9%의 홈페이지가 문제로 지적되었다. 이러한 문제를 해결하기 위한 알고리즘 테마 엔진의 필요성이 대두되고 있다.",
+      "keywords": [
+        "색상 대비",
+        "접근성",
+        "WCAG"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "5월 28일",
+      "publishedAt": "2026-05-28T13:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+      "collectedAt": "2026-05-29"
+    },
+    {
+      "category": "ai",
+      "title": "Endava의 Codex를 통한 자율 조직 구축",
+      "summary": "Endava는 Codex를 활용하여 자율적인 조직을 구축하고 있습니다. 이를 통해 소프트웨어 전달 속도를 높이고 요구 사항 분석 시간을 주에서 시간 단위로 단축합니다.",
+      "summary_full": "Endava는 Codex를 사용하여 자율적인 조직을 만들고 있습니다. 이 접근 방식은 소프트웨어 전달을 가속화하고 요구 사항 분석을 몇 주에서 몇 시간으로 단축하는 데 기여합니다. Codex의 도입으로 팀의 효율성이 향상되며, 빠른 의사결정이 가능해집니다. 결과적으로 Endava는 고객에게 더 나은 서비스를 제공할 수 있게 됩니다.",
+      "keywords": [
+        "Endava",
+        "Codex",
+        "소프트웨어 전달"
+      ],
+      "source": "OpenAI News",
+      "date": "5월 28일",
+      "publishedAt": "2026-05-28T12:00:00.000Z",
+      "url": "https://openai.com/index/endava",
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "design",
@@ -65,6 +227,22 @@
       "publishedAt": "2026-05-28T00:10:42.000Z",
       "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
       "collectedAt": "2026-05-28"
+    },
+    {
+      "category": "figma",
+      "title": "로컬 코드베이스와 Make 연결하기",
+      "summary": "Make를 로컬 코드베이스에 연결하여 특정 요소에 대한 맥락적 프롬프트를 제공하고, Figma 편집 패널을 통해 속성을 조정할 수 있다.",
+      "summary_full": "Make를 로컬 코드베이스에 연결하면 특정 요소에 대한 맥락적 프롬프트를 제공하고, Figma 편집 패널을 통해 속성을 조정하거나 채팅으로 변경 사항을 설명할 수 있다. AI 코딩 에이전트가 해당 코드 수정을 수행하며, 결과가 만족스러우면 터미널을 사용하지 않고도 변경 사항을 커밋하고 풀 리퀘스트를 열 수 있다. 이 기능은 클로즈드 베타 출시 시점에서 제공된다.",
+      "keywords": [
+        "로컬 코드베이스",
+        "AI 코딩 에이전트",
+        "Figma 편집 패널"
+      ],
+      "source": "Figma Release Notes",
+      "date": "5월 28일",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "industry",
@@ -116,19 +294,19 @@
     },
     {
       "category": "ai",
-      "title": "ITBench-AA: 에이전틱 기업 IT 작업을 위한 첫 벤치마크에서 프론티어 모델이 50% 미만 점수 기록",
-      "summary": "ITBench-AA 벤치마크에서 프론티어 모델들이 50% 미만의 점수를 기록했다. 이는 에이전틱 기업 IT 작업에 대한 첫 번째 평가 결과이다.",
-      "summary_full": "ITBench-AA는 인공지능 분석과 IBM이 공동으로 진행한 연구로, 프론티어 모델들이 에이전틱 기업 IT 작업에 대한 첫 벤치마크에서 50% 미만의 점수를 기록했다. 이 결과는 해당 모델들이 실제 기업 환경에서의 IT 작업 수행 능력이 부족함을 나타낸다. 연구는 기업 IT 작업의 효율성을 평가하기 위한 중요한 기준을 제시하고 있다. 향후 개선이 필요한 부분을 강조하는 결과로 해석될 수 있다.",
+      "title": "ITBench-AA: 에이전틱 기업 IT 작업을 위한 첫 벤치마크에서 프론티어 모델 50% 미달",
+      "summary": "ITBench-AA에서 프론티어 모델들이 에이전틱 기업 IT 작업의 첫 벤치마크에서 50% 이하의 점수를 기록했다. 이는 인공지능 분석과 IBM의 공동 연구 결과로, 기업 IT 작업의 효율성에 대한 우려를 낳고 있다.",
+      "summary_full": "ITBench-AA는 프론티어 모델들이 에이전틱 기업 IT 작업을 수행하는 데 있어 첫 번째 벤치마크에서 50% 미만의 점수를 기록했다고 발표했다. 이 연구는 인공지능 분석과 IBM의 협력으로 이루어졌으며, 기업의 IT 작업에서 이러한 모델의 성능이 기대에 미치지 못하고 있음을 보여준다. 이는 기업들이 AI 도구를 활용하는 데 있어 신중함이 필요함을 시사한다. 향후 이러한 모델의 개선이 필요할 것으로 보인다.",
       "keywords": [
         "ITBench-AA",
         "프론티어 모델",
-        "기업 IT 작업"
+        "에이전틱 기업 IT 작업"
       ],
       "source": "HuggingFace Blog",
       "date": "5월 27일",
       "publishedAt": "2026-05-27T17:20:29.000Z",
       "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "industry",
@@ -149,8 +327,8 @@
     {
       "category": "frontend",
       "title": "CSS 글자 간격으로 텍스트 드러내기",
-      "summary": "CSS에서 글자 간격 속성을 활용하여 텍스트 효과를 구현하는 방법을 설명한다.",
-      "summary_full": "CSS에서는 개별 문자를 타겟팅하기 어려운 경우가 많지만, 글자 간격(letter-spacing) 속성을 사용하여 텍스트 효과를 시도할 수 있다. 이 기사는 CSS의 기본 기능을 활용하여 텍스트를 드러내는 몇 가지 방법을 제안한다.",
+      "summary": "CSS에서 글자 간격 속성을 사용하여 텍스트 효과를 구현하는 방법을 설명한다. 개별 문자를 타겟팅하는 것이 어렵지만, 기존의 CSS 속성을 활용할 수 있는 방법을 제시한다.",
+      "summary_full": "CSS에서는 개별 문자를 타겟팅하는 것이 어렵지만, 글자 간격(letter-spacing) 속성을 활용하여 텍스트 효과를 구현할 수 있다. 현재로서는 ::nth-letter()와 같은 기능은 없지만, ::first-letter와 같은 속성을 통해 일부 효과를 낼 수 있다. 이 글에서는 기존의 CSS 속성을 사용하여 텍스트를 드러내는 방법에 대해 논의한다. CSS의 글자 간격 속성을 활용하는 다양한 기법을 소개한다.",
       "keywords": [
         "CSS",
         "글자 간격",
@@ -160,7 +338,7 @@
       "date": "5월 27일",
       "publishedAt": "2026-05-27T12:37:33.000Z",
       "url": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "ai",
@@ -247,18 +425,18 @@
     {
       "category": "ai",
       "title": "사회과학에서의 코딩 에이전트",
-      "summary": "사회과학 분야에서 코딩 에이전트의 중요성을 다룬다. 이 연구는 사회적 상호작용을 분석하는 데 있어 코딩의 역할을 강조한다.",
-      "summary_full": "이 연구는 사회과학에서 코딩 에이전트의 활용을 탐구한다. 코딩은 데이터를 구조화하고 분석하는 데 필수적인 도구로 자리잡고 있다. 연구자들은 코딩을 통해 사회적 상호작용의 복잡성을 이해하고자 한다. 이 과정에서 코딩 기술의 발전이 연구 결과에 미치는 영향을 논의한다.",
+      "summary": "사회과학 분야에서 코딩 에이전트의 역할을 탐구한다. 이 연구는 데이터 분석과 사회적 상호작용의 연결을 강조한다.",
+      "summary_full": "이 연구는 사회과학에서 코딩 에이전트의 중요성을 다룬다. 코딩 에이전트는 데이터 분석을 통해 사회적 현상을 이해하는 데 기여한다. 또한, 이들은 인간 행동과 상호작용을 모델링하는 데 필수적이다. 연구 결과는 사회과학 연구의 방법론적 발전에 기여할 것으로 기대된다.",
       "keywords": [
         "사회과학",
-        "코딩",
-        "에이전트"
+        "코딩 에이전트",
+        "데이터 분석"
       ],
       "source": "Anthropic Research",
       "date": "5월 27일",
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/coding-agents-social-sciences",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "trend",
@@ -904,11 +1082,11 @@
     },
     {
       "category": "frontend",
-      "title": "크로스 기능 기술 문제 해결을 위한 역량 성장 팁",
-      "summary": "기술 조직의 성장에 따라 팀 간의 협업이 필요한 복잡한 문제가 발생한다. 이러한 문제는 단순한 협업을 넘어 다양한 영역에서의 접근이 필요하다.",
-      "summary_full": "기술 조직이 커질수록 팀 간의 협업이 필요한 복잡한 문제가 발생하게 된다. 각 팀은 자신의 역할을 잘 수행하지만, 전체적으로는 중요한 공백이 생긴다. 이러한 문제는 인프라, 제품, 기술 전략, 운영 방식, 조직 구조 등 다양한 영역에서 발생할 수 있다. 따라서 크로스 기능 및 크로스 도메인 문제를 해결하기 위해서는 단순한 협업을 넘어서는 접근이 필요하다.",
+      "title": "Cross Functional 기술 문제 해결을 위한 역량 성장 팁",
+      "summary": "기술 조직의 성장으로 인해 팀 간의 협업이 필요해진다. 이러한 문제는 단순한 협업을 넘어 다양한 영역에서의 접근이 요구된다.",
+      "summary_full": "기술 조직이 커질수록 팀 간의 협업이 필수적이다. 각 팀이 자신의 역할을 잘 수행하더라도, 전체적으로는 중요한 공백이 발생할 수 있다. Cross Functional 기술 문제는 인프라, 제품, 기술 전략, 운영 방식, 조직 구조 등 다양한 요소와 연관되어 있다. 이러한 문제를 해결하기 위해서는 단순한 협업을 넘어서 깊이 있는 접근이 필요하다.",
       "keywords": [
-        "크로스 기능",
+        "Cross Functional",
         "기술 문제",
         "조직 협업"
       ],
@@ -916,29 +1094,13 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T01:00:00.000Z",
       "url": "https://toss.tech/article/cross-functional-tpm-tip",
-      "collectedAt": "2026-05-28"
-    },
-    {
-      "category": "figma",
-      "title": "Figma Buzz에서 캠페인 자산 대량 편집 및 크기 조정",
-      "summary": "Figma Buzz를 사용하여 캠페인 자산을 대량으로 편집하고 크기를 조정할 수 있습니다. 스프레드시트를 업로드하여 자산을 생성하고, 테이블 뷰에서 여러 셀을 선택하여 콘텐츠와 디자인 속성을 관리합니다.",
-      "summary_full": "Figma Buzz를 통해 대량으로 캠페인 자산을 편집하고 크기를 조정하는 방법을 소개합니다. 사용자는 스프레드시트를 업로드하여 자산을 생성한 후, 테이블 뷰에서 여러 셀을 선택하여 크기와 브랜드 이미지를 포함한 다양한 속성을 동시에 관리할 수 있습니다. 단일 자산이나 전체 세트를 선택하여 미리 설정된 채널 크기를 선택하거나 자신만의 크기를 추가하여 대량 크기 조정이 가능합니다. 이를 통해 한 번의 작업으로 전체 다채널 캠페인을 출력할 수 있습니다.",
-      "keywords": [
-        "Figma Buzz",
-        "캠페인 자산",
-        "대량 편집"
-      ],
-      "source": "Figma Release Notes",
-      "date": "5월 22일",
-      "publishedAt": "2026-05-22T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "ai",
-      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 AI 네이티브 산업의 성장을 위해 미스트랄과 협력하게 되었다. 이 협력은 AI 기술의 혁신과 발전을 가속화하는 데 중점을 두고 있다. 양사는 AI 솔루션의 개발과 적용을 통해 산업 전반에 긍정적인 영향을 미칠 계획이다. 이러한 파트너십은 AI 기술의 상용화와 시장 확장을 촉진할 것으로 예상된다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 협력은 AI 기술의 혁신을 가속화하는 데 기여할 예정이다.",
+      "summary_full": "엠미가 미스트랄과 파트너십을 체결하여 AI 네이티브 산업을 가속화하려고 한다. 이 협력은 AI 기술의 발전을 촉진하고, 새로운 혁신을 창출하는 데 중점을 두고 있다. 양사는 AI 솔루션의 상용화를 통해 산업 전반에 걸쳐 긍정적인 영향을 미칠 것으로 기대하고 있다. 이를 통해 AI 기술의 활용 범위가 더욱 넓어질 전망이다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -948,7 +1110,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "ai",
@@ -985,8 +1147,8 @@
     {
       "category": "ai",
       "title": "구글 딥마인드 아시아 태평양 액셀러레이터 프로그램 출시",
-      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술과 아이디어를 통해 지속 가능한 환경을 조성하는 데 기여할 것입니다.",
-      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시합니다. 이 프로그램은 스타트업과 기업가들이 지속 가능한 솔루션을 개발하도록 지원할 것입니다. 참가자들은 구글의 리소스와 전문 지식을 활용하여 환경 문제에 대한 혁신적인 접근 방식을 모색할 수 있습니다. 이를 통해 지역 사회와 환경에 긍정적인 영향을 미치는 프로젝트들이 촉진될 것으로 기대됩니다.",
+      "summary": "구글 딥마인드가 아시아 태평양에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 시작한다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 것을 목표로 한다.",
+      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시한다. 이 프로그램은 스타트업과 기업들이 혁신적인 기술을 활용하여 지속 가능한 솔루션을 개발하도록 지원할 예정이다. 참가자들은 멘토링, 자금 지원 및 네트워킹 기회를 통해 성장할 수 있는 기회를 갖게 된다. 이를 통해 환경 문제 해결에 기여하고 지속 가능한 미래를 위한 노력을 강화할 계획이다.",
       "keywords": [
         "구글",
         "딥마인드",
@@ -996,7 +1158,7 @@
       "date": "5월 21일",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "ai",
@@ -4144,22 +4306,6 @@
     },
     {
       "category": "industry",
-      "title": "구글, 펜타곤과 기밀 AI 계약 체결",
-      "summary": "구글이 펜타곤과 기밀 AI 계약을 체결하여 국방부가 구글의 AI 모델을 사용할 수 있게 되었다.",
-      "summary_full": "구글이 펜타곤과 기밀 AI 계약을 체결했다. 구글은 OpenAI와 xAI와 함께 미국 군대에 기밀 AI 기능을 공급하는 최신 기업이 되었다.",
-      "keywords": [
-        "구글",
-        "펜타곤",
-        "AI 계약"
-      ],
-      "source": "thenextweb.com",
-      "date": "4월 28일",
-      "publishedAt": "2026-04-28T21:24:36.000Z",
-      "url": "https://thenextweb.com/news/google-pentagon-classified-ai-deal",
-      "collectedAt": "2026-04-28"
-    },
-    {
-      "category": "industry",
       "title": "남아프리카공화국, AI 정책 작성을 위한 AI 활용했으나 인용은 허위",
       "summary": "남아프리카공화국의 통신 및 디지털 기술부가 국가 인공지능 정책을 작성하는 데 몇 달을 소요했다.",
       "summary_full": "남아프리카공화국의 통신 및 디지털 기술부는 국가 인공지능 정책을 작성하는 데 몇 달을 소요했다. 그러나 이 과정에서 사용된 인용 자료는 허위로 밝혀졌다.",
@@ -4223,22 +4369,6 @@
       "collectedAt": "2026-04-29"
     },
     {
-      "category": "industry",
-      "title": "앤트로픽과 월스트리트 협력",
-      "summary": "앤트로픽이 월스트리트 주요 사모펀드들과 AI 솔루션 공급 파이프라인을 구축한다.",
-      "summary_full": "앤트로픽은 블랙스톤 등 주요 사모펀드와 협력하여 기업 포트폴리오에 AI를 통합하는 새로운 모델을 시도하고 있다.",
-      "keywords": [
-        "앤트로픽",
-        "사모펀드",
-        "AI 협력"
-      ],
-      "source": "thenextweb.com",
-      "date": "4월 28일",
-      "publishedAt": "2026-04-28T07:56:50.000Z",
-      "url": "https://thenextweb.com/news/anthropic-15-billion-wall-street-joint-venture",
-      "collectedAt": "2026-04-28"
-    },
-    {
       "category": "ai",
       "title": "OpenAI 모델, Codex 및 관리형 에이전트가 AWS에 도입됨",
       "summary": "OpenAI의 GPT 모델, Codex 및 관리형 에이전트가 AWS에서 제공됩니다.",
@@ -4269,22 +4399,6 @@
       "publishedAt": "2026-04-28T00:00:00.000Z",
       "url": "https://openai.com/index/our-commitment-to-community-safety",
       "collectedAt": "2026-04-29"
-    },
-    {
-      "category": "figma",
-      "title": "Figma에서 Flutter로: 30개 앱에 걸쳐 확장 가능한 시스템 디자인",
-      "summary": "Xenotix Labs는 D2C 상거래, 실시간 스포츠, 에듀테크 등 다양한 분야에서 30개 이상의 Flutter 앱을 출시했다.",
-      "summary_full": "Xenotix Labs는 30개 이상의 Flutter 앱을 출시했다. 모든 프로젝트는 동일한 방식으로 시작되며, Figma 파일을 기반으로 디자인 시스템과 컴포넌트 라이브러리를 구축한 후 코딩이 진행된다.",
-      "keywords": [
-        "Figma",
-        "Flutter",
-        "디자인 시스템"
-      ],
-      "source": "dev.to",
-      "date": "4월 28일",
-      "publishedAt": "2026-04-28T00:00:00.000Z",
-      "url": "https://dev.to/ujjawal_tyagi_c5a84255da4/from-figma-to-flutter-designing-a-system-that-scales-across-30-apps-3431",
-      "collectedAt": "2026-04-28"
     },
     {
       "category": "frontend",
@@ -4336,22 +4450,6 @@
     },
     {
       "category": "ai",
-      "title": "OpenAI, FedRAMP Moderate 인증 획득",
-      "summary": "OpenAI는 ChatGPT Enterprise와 OpenAI API에 대해 FedRAMP Moderate 인증을 받았다.",
-      "summary_full": "OpenAI는 ChatGPT Enterprise와 OpenAI API에 대해 FedRAMP Moderate 인증을 획득했다. 이 인증은 미국 연방 기관들이 AI를 안전하게 채택할 수 있도록 지원한다.",
-      "keywords": [
-        "OpenAI",
-        "FedRAMP Moderate",
-        "AI 도입"
-      ],
-      "source": "OpenAI News",
-      "date": "4월 27일",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "collectedAt": "2026-04-28"
-    },
-    {
-      "category": "ai",
       "title": "비즈니스를 운영하는 워크플로우",
       "summary": "워크플로우가 이제 공개 미리보기 단계에 들어갔다.",
       "summary_full": "워크플로우는 비즈니스 운영에 필수적인 작업 흐름을 개선하기 위해 설계되었다. 현재 공개 미리보기 단계에 있으며, 다양한 비즈니스 프로세스를 자동화할 수 있다.",
@@ -4365,22 +4463,6 @@
       "publishedAt": "2026-04-27T00:00:00.000Z",
       "url": "https://mistral.ai/news/workflows",
       "collectedAt": "2026-04-29"
-    },
-    {
-      "category": "industry",
-      "title": "OpenAI, 앱을 대체할 스마트폰 개발 중",
-      "summary": "OpenAI가 AI 에이전트를 중심으로 한 스마트폰을 개발하고 있다.",
-      "summary_full": "OpenAI는 앱 대신 AI 에이전트를 중심으로 한 스마트폰을 개발하고 있다. Qualcomm과 MediaTek이 공동 설계한 맞춤형 프로세서를 탑재할 예정이다.",
-      "keywords": [
-        "OpenAI",
-        "스마트폰",
-        "AI 에이전트"
-      ],
-      "source": "thenextweb.com",
-      "date": "4월 27일",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "url": "https://thenextweb.com/news/openai-qualcomm-ai-phone-agents-replace-apps",
-      "collectedAt": "2026-04-28"
     },
     {
       "category": "ai",
@@ -4401,8 +4483,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 고려해야 할 과제를 제시한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글은 디자이너들이 이를 어떻게 개선할 수 있는지에 대한 개인적인 의견을 제시한다. 다른 A List Apart 기사들이 혁신과 통찰을 제공하는 반면, 이 글은 실질적인 과제를 제안한다. 디자이너들은 일반적으로 좋은 사람들로, 그들의 의도가 중요하다는 점을 강조하고 있다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자들에게 숙제를 준다. 디자이너들은 좋은 사람들로, 그들의 의견은 웹사이트의 질을 높이는 데 기여할 수 있다. 이 글은 디자이너들이 웹사이트 접근성을 고려해야 한다는 점을 강조한다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -4412,7 +4494,7 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "frontend",
@@ -4449,8 +4531,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인을 변화시킬 9가지 주요 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있습니다.",
-      "summary_full": "2026년을 대비하여 UX 디자인 분야에서 주목해야 할 9가지 트렌드를 분석합니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 변화하는 디자인 방향성을 제시합니다. 각 트렌드는 사용자 경험을 최적화하고, 기업의 경쟁력을 강화하는 데 기여할 것으로 기대됩니다. 이러한 트렌드를 이해하고 적용하는 것이 향후 디자인 전략에 중요한 요소가 될 것입니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 사용자 경험을 향상시키고, 기업의 디지털 전략에 큰 영향을 미칠 것으로 예상됩니다. 각 트렌드는 기술 발전과 사용자 요구에 기반하여 발전하고 있습니다. UX 디자이너들은 이러한 트렌드를 반영하여 더 나은 제품과 서비스를 제공해야 합니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4460,7 +4542,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-28"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "design",
@@ -4497,18 +4579,18 @@
     {
       "category": "ai",
       "title": "딥시크 차세대 LLM ‘V4’ 출시 임박",
-      "summary": "딥시크의 새로운 LLM 모델 V4가 곧 출시될 예정이다. 이 모델은 오픈AI와 구글의 성능을 뛰어넘을 가능성을 가지고 있다.",
-      "summary_full": "딥시크가 차세대 LLM 모델 V4의 출시를 앞두고 있다. 이 모델은 기존의 오픈AI와 구글의 성능을 넘볼 수 있을지 주목받고 있다. V4는 더 향상된 기능과 성능을 제공할 것으로 기대된다. 업계의 관심이 집중되고 있는 가운데, 향후 경쟁 구도가 어떻게 변화할지 귀추가 주목된다.",
+      "summary": "딥시크가 차세대 LLM ‘V4’의 출시를 앞두고 있다. 이 모델은 오픈AI와 구글의 성능을 뛰어넘을 가능성이 있다.",
+      "summary_full": "딥시크가 차세대 LLM ‘V4’의 출시를 임박하게 했다. 이 새로운 모델은 오픈AI와 구글의 성능을 초월할 수 있는 잠재력을 가지고 있다. 업계의 관심이 집중되고 있으며, 향후 AI 시장에 큰 영향을 미칠 것으로 예상된다. 기술 발전에 따른 경쟁이 더욱 치열해질 전망이다.",
       "keywords": [
         "딥시크",
         "LLM",
-        "V4"
+        "AI"
       ],
       "source": "Google News AI (KR)",
       "date": "2월 18일",
       "publishedAt": "2026-02-18T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OWEtZjAzbkh1LUctcVJVTHlkRll4X2tiUi1LRFhaQWxlWDlqLUR0M2JmdWFLcjA5Y1o4NFNsUDVDWU5pOWJyMWJHSjRQb2lsUUQxZ0NsNkZPYm5LUmVubQ?oc=5",
-      "collectedAt": "2026-05-13"
+      "collectedAt": "2026-05-29"
     },
     {
       "category": "ai",
