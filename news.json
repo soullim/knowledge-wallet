@@ -1,22 +1,150 @@
 {
-  "updated": "2026년 5월 31일 AM 03:42",
-  "count": 284,
+  "updated": "2026년 6월 1일 AM 03:57",
+  "count": 286,
   "articles": [
     {
       "category": "industry",
       "title": "어드민 디자인 자동화의 가능성",
-      "summary": "디자이너의 기준을 바탕으로 반복되는 어드민 디자인을 자동화할 수 있는 방법을 탐구한다. '누구나 디자인하는 환경'을 실현하기 위한 AI의 역할을 살펴본다.",
-      "summary_full": "이 기사는 반복되는 어드민 디자인을 PRD를 통해 얼마나 자동화할 수 있는지를 논의한다. 디자이너의 단단한 기준 위에서 '누구나 디자인하는 환경'을 구현하는 방법을 제시한다. AI 기술이 이러한 자동화 과정에서 어떤 기여를 할 수 있는지를 분석한다. 최종적으로, 디자인의 접근성을 높이는 방안을 모색한다.",
+      "summary": "디자이너의 기준을 바탕으로 반복되는 어드민 디자인을 자동화하는 방법을 탐구한다. '누구나 디자인하는 환경'을 실현하기 위한 AI의 역할에 대해 논의한다.",
+      "summary_full": "반복되는 어드민 디자인을 PRD를 통해 얼마나 자동화할 수 있는지를 살펴본다. 디자이너의 단단한 기준 위에서 '누구나 디자인하는 환경'을 만드는 것이 목표이다. AI 기술이 이 과정에서 어떤 기여를 할 수 있는지에 대한 논의가 이어진다. 궁극적으로 디자인의 접근성을 높이는 방안을 모색한다.",
       "keywords": [
         "어드민 디자인",
         "자동화",
         "AI 기술"
       ],
       "source": "오늘의집 Culture",
-      "date": "5월 31일",
-      "publishedAt": "2026-05-31T03:40:56.544Z",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T03:55:55.950Z",
       "url": "https://www.bucketplace.com/post/2026-05-29-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EC%96%B4%EB%93%9C%EB%AF%BC-%EB%94%94%EC%9E%90%EC%9D%B8-prd%EB%A1%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "design",
+      "title": "Codex Computer Use로 SNS 게시글 작성하기",
+      "summary": "Codex Computer Use를 활용하여 SNS에 게시글을 올리는 방법을 소개합니다. 이 과정에서 필요한 도구와 팁을 제공합니다.",
+      "summary_full": "이 글에서는 Codex Computer Use를 사용하여 SNS에 게시글을 작성하는 방법을 자세히 설명합니다. 사용자가 쉽게 따라할 수 있도록 단계별 가이드를 제공합니다. 또한, 효과적인 게시글 작성을 위한 유용한 팁과 도구를 소개합니다. SNS 활용을 극대화하기 위한 전략도 포함되어 있습니다.",
+      "keywords": [
+        "Codex Computer Use",
+        "SNS 게시글",
+        "작성 방법"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T03:55:50.406Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-761/",
+      "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "frontend",
+      "title": "구글 맵 리뷰 스크래퍼: 고객 피드백 추출 및 분석 방법",
+      "summary": "구글 맵 리뷰는 고객 감정, 경쟁자의 약점 및 시장의 공백을 파악하는 데 유용한 비즈니스 인사이트를 제공합니다. 이 가이드는 수동 추출, 브라우저 확장, 파이썬 스크립트, 클라우드 플랫폼 및 CoreClaw와 같은 관리 서비스를 통한 리뷰 스크래핑 방법을 다룹니다.",
+      "summary_full": "구글 맵 리뷰는 고객의 감정과 경쟁사의 약점을 파악하는 데 중요한 정보를 제공합니다. 이 가이드는 리뷰를 수동으로 추출하는 방법부터 브라우저 확장, 파이썬 스크립트, 클라우드 플랫폼을 활용한 방법까지 다양한 방법을 설명합니다. 또한, CoreClaw와 같은 관리 서비스를 통해 월 $99에 확장 가능한 리뷰 스크래핑 솔루션을 제공합니다. 이러한 정보는 비즈니스 전략 수립에 큰 도움이 될 수 있습니다.",
+      "keywords": [
+        "구글 맵",
+        "리뷰 스크래핑",
+        "고객 피드백"
+      ],
+      "source": "dev.to",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T03:55:26.000Z",
+      "url": "https://dev.to/lynn7777/google-maps-review-scraper-how-to-extract-and-analyze-customer-feedback-557h",
+      "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "trend",
+      "title": "전문가의 역설: 더 많이 아는 것이 아니라 다르게 보기",
+      "summary": "연구에 따르면 경험이 풍부한 전문가들은 상황을 밀리초 안에 인식하며, 이는 빠른 사고가 아니라 훈련된 인식 덕분이다.",
+      "summary_full": "전문가의 역설은 다양한 분야에서 나타나는 일관된 패턴을 보여준다. 경험이 많은 전문가들은 상황을 빠르게 인식하는 능력을 가지고 있으며, 이는 훈련된 인식에 기인한다. 예를 들어, 소방관 지휘관들은 80%의 정확도로 상황을 인식할 수 있다. 이러한 능력은 단순히 더 많은 지식을 갖는 것이 아니라, 특정 상황을 다르게 보는 데서 비롯된다.",
+      "keywords": [
+        "전문가",
+        "인식",
+        "훈련된 지각"
+      ],
+      "source": "dev.to",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T00:01:22.000Z",
+      "url": "https://dev.to/a3e_ecosystem/-the-expertise-paradox-seeing-differently-not-just-knowing-more-2ok2",
+      "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "trend",
+      "title": "모두가 맥북 네오를 겨냥하다",
+      "summary": "델과 마이크로소프트 등 여러 업체가 네오와 직접 경쟁하기 위해 새로운 노트북을 출시하고 있다. 그러나 이들 중 일부는 애플의 성공적인 전략을 제대로 배우지 못하고 있다.",
+      "summary_full": "델, 마이크로소프트 등 여러 기업이 맥북 네오와의 경쟁을 위해 새로운 노트북을 선보이고 있다. 이들은 애플의 성공적인 제품 전략을 모방하려 하지만, 그 과정에서 중요한 교훈을 놓치고 있다. 경쟁이 치열해지는 가운데, 각 기업은 소비자들의 기대를 충족시키기 위해 노력하고 있다. 그러나 애플의 독창성과 브랜드 충성도를 따라잡기란 쉽지 않은 상황이다.",
+      "keywords": [
+        "맥북 네오",
+        "노트북 경쟁",
+        "애플 전략"
+      ],
+      "source": "wired.com",
+      "date": "5월 31일",
+      "publishedAt": "2026-05-31T23:00:00.000Z",
+      "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
+      "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "industry",
+      "title": "교황의 AI 정치적 입장에 대한 질문",
+      "summary": "레오 14세 교황이 회칙 ‘위대한 인간성’을 발표하며 AI에 정치적 입장이 필요하다는 질문을 던졌다. 이 회칙은 기술과 인간성에 대한 비전을 제시하며 가톨릭 신자들에게 영향을 미칠 것으로 예상된다.",
+      "summary_full": "레오 14세 교황은 회칙 ‘위대한 인간성’을 통해 AI에 정치적 입장이 있어야 하는지에 대한 질문을 제기했다. 이 회칙은 전 세계 14억 가톨릭 신자를 대상으로 하며, 기술과 인간성에 대한 비전을 담고 있다. 발표된 내용은 향후 AI 관련 여론에 영향을 미칠 것으로 보인다. 가톨릭 교회의 AI에 대한 기조가 확립되는 계기가 될 전망이다.",
+      "keywords": [
+        "교황",
+        "AI",
+        "정치적 입장"
+      ],
+      "source": "바이라인네트워크",
+      "date": "5월 31일",
+      "publishedAt": "2026-05-31T22:34:55.000Z",
+      "url": "https://byline.network/2026/06/531/",
+      "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "industry",
+      "title": "중국, 기술 대기업에 가격 경쟁 중단 및 AI 투자 촉구",
+      "summary": "중국 공산당의 고위 간행물이 인터넷 플랫폼에 대한 새로운 규제 방향을 제시했다. 기업들은 가격 경쟁을 중단하고 AI에 투자해야 한다는 메시지가 전달되었다.",
+      "summary_full": "중국 공산당의 주요 간행물인 '치우시'에서 인터넷 플랫폼에 대한 새로운 규제 방향이 발표되었다. 이 논평은 성장을 지원하면서도 규제를 강화하는 균형을 강조하고 있다. 알리바바, 메이투안 등 대기업들이 이 메시지의 대상이 되고 있다. 중국 정부는 기술 기업들이 가격 경쟁을 중단하고 AI에 대한 투자를 늘리도록 촉구하고 있다.",
+      "keywords": [
+        "중국",
+        "AI",
+        "기술 대기업"
+      ],
+      "source": "thenextweb.com",
+      "date": "5월 31일",
+      "publishedAt": "2026-05-31T16:49:15.000Z",
+      "url": "https://thenextweb.com/news/china-platform-regulation-ai-investment-qiushi-signal",
+      "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "industry",
+      "title": "AI 토큰 희소성과 아케이드 경제학",
+      "summary": "컴퓨팅 비용 상승이 디자이너의 기대를 재평가하게 하고 있다. 이는 아케이드 경제 모델에 영향을 미치고 있다.",
+      "summary_full": "AI 토큰의 희소성이 아케이드 경제에 미치는 영향을 다룬다. 컴퓨팅 비용의 상승은 디자이너들이 기존의 기대를 다시 생각하게 만든다. 이러한 변화는 경제 모델에 새로운 접근 방식을 요구한다. 따라서 디자이너들은 새로운 경제적 환경에 적응해야 할 필요성이 커지고 있다.",
+      "keywords": [
+        "AI",
+        "토큰",
+        "경제학"
+      ],
+      "source": "uxdesign.cc",
+      "date": "5월 31일",
+      "publishedAt": "2026-05-31T12:22:00.000Z",
+      "url": "https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "design",
+      "title": "6월은 탐험의 달 (2026 배경화면 에디션)",
+      "summary": "모든 사람은 창의적인 재능을 가지고 있다. 이번 월간 배경화면 시리즈는 숨겨진 재능을 발견할 기회를 제공한다.",
+      "summary_full": "모든 사람은 창의적인 재능을 가지고 있으며, 디지털 도구나 카메라, 종이와 펜을 통해 아이디어를 실현할 수 있다. 자신을 창의적이지 않다고 생각하는 사람도 숨겨진 재능이 있을 수 있다. 이번 월간 배경화면 시리즈는 이러한 창의력을 탐험할 기회를 제공한다. 다양한 방법으로 자신의 창의성을 표현해보는 것을 권장한다.",
+      "keywords": [
+        "창의성",
+        "배경화면",
+        "탐험"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "5월 31일",
+      "publishedAt": "2026-05-31T08:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "design",
@@ -181,9 +309,9 @@
     },
     {
       "category": "frontend",
-      "title": "What’s !important #12: Safari 테스트, ::checkmark, HTML 앵커 위치 조정 등",
-      "summary": "이 기사에서는 Safari에서 테스트하는 방법과 ::checkmark, HTML을 활용한 앵커 위치 조정 등을 다룹니다. Safari는 애플 사용자에게만 제공되는 인기 웹 브라우저입니다.",
-      "summary_full": "What’s !important #12는 Safari에서 테스트하는 방법, 새로운 ::checkmark 기능, HTML을 사용한 앵커 위치 조정 등을 포함한 다양한 주제를 다룹니다. Safari는 애플 사용자에게만 제공되는 두 번째로 인기 있는 웹 브라우저입니다. 이 기사에서는 Safari를 사용할 수 없는 상황에서의 테스트 방법에 대한 정보도 제공합니다. 다양한 웹 개발 관련 팁과 기술을 제공하니 주목해 보세요.",
+      "title": "!important #12: Safari 테스트, ::checkmark, HTML 앵커 위치 조정 등",
+      "summary": "이번 에피소드는 Safari에서의 테스트, 새로운 ::checkmark, HTML을 활용한 앵커 위치 조정 등을 다룹니다.",
+      "summary_full": "이번 에피소드는 Safari에서의 테스트 방법, 새로운 ::checkmark 기능, HTML을 이용한 앵커 위치 조정 등 다양한 주제를 포함하고 있습니다. Safari는 애플 사용자에게만 제공되는 인기 있는 웹 브라우저입니다. 이 에피소드를 통해 웹 개발자들이 알아야 할 최신 정보와 기술을 배울 수 있습니다.",
       "keywords": [
         "Safari",
         "HTML",
@@ -193,23 +321,23 @@
       "date": "5월 29일",
       "publishedAt": "2026-05-29T13:25:38.000Z",
       "url": "https://css-tricks.com/whats-important-12/",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "ai",
-      "title": "보스턴 아동병원, AI를 활용해 새로운 진단을 열다",
-      "summary": "보스턴 아동병원이 OpenAI 기술을 활용하여 환자 치료를 개선하고 운영 부담을 줄이며 40개 이상의 희귀 질환 사례를 진단하는 데 도움을 주고 있다.",
-      "summary_full": "보스턴 아동병원은 OpenAI 기술을 도입하여 환자 치료의 질을 높이고 있다. 이 기술은 의료진의 업무 부담을 줄이는 데 기여하고 있다. 또한, 병원은 이를 통해 40개 이상의 희귀 질환을 진단하는 데 성공하고 있다. 이러한 혁신은 환자들에게 더 나은 의료 서비스를 제공하는 데 중요한 역할을 하고 있다.",
+      "title": "보스턴 아동병원, AI로 새로운 진단 가능성 열다",
+      "summary": "보스턴 아동병원이 OpenAI 기술을 활용해 환자 치료를 개선하고 운영 부담을 줄이며 40개 이상의 희귀 질환 사례를 진단하는 데 도움을 주고 있다.",
+      "summary_full": "보스턴 아동병원은 OpenAI 기술을 통해 환자 치료의 질을 향상시키고 있다. 이 기술은 의료진의 운영 부담을 줄이는 데 기여하고 있다. 또한, 병원은 이 기술을 활용하여 40개 이상의 희귀 질환 사례를 진단하는 데 성공했다. 이러한 혁신은 환자들에게 더 나은 의료 서비스를 제공하는 데 중요한 역할을 하고 있다.",
       "keywords": [
-        "AI",
-        "희귀 질환",
-        "환자 치료"
+        "보스턴 아동병원",
+        "AI 진단",
+        "희귀 질환"
       ],
       "source": "OpenAI News",
       "date": "5월 29일",
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "url": "https://openai.com/index/boston-childrens-hospital",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "industry",
@@ -327,9 +455,9 @@
     },
     {
       "category": "ai",
-      "title": "PyTorch에서의 프로파일링 (1부): torch.profiler 초보자 가이드",
-      "summary": "이 글은 PyTorch에서 성능 분석을 수행하는 방법에 대해 설명합니다. torch.profiler를 사용하여 모델의 성능을 개선하는 기초적인 방법을 소개합니다.",
-      "summary_full": "이 글은 PyTorch에서의 프로파일링 기법을 다루고 있습니다. 특히 초보자를 위해 torch.profiler의 사용법을 상세히 설명합니다. 성능 분석을 통해 모델의 효율성을 높이는 방법을 배울 수 있습니다. 이 시리즈는 프로파일링의 기초부터 심화 내용까지 다룰 예정입니다.",
+      "title": "PyTorch 프로파일링 (1부): torch.profiler 초보자 가이드",
+      "summary": "이 글은 PyTorch에서 성능 분석을 위한 torch.profiler 사용법을 소개합니다. 초보자도 쉽게 이해할 수 있도록 단계별로 설명합니다.",
+      "summary_full": "이 글은 PyTorch에서 성능 분석을 위한 torch.profiler의 기본 사용법을 다룹니다. 초보자를 위해 프로파일링의 중요성과 기본 개념을 설명하며, 실제 코드 예제를 통해 이해를 돕습니다. 또한, 성능 최적화를 위한 다양한 팁과 기법을 제공합니다. 이 시리즈는 PyTorch를 사용하는 개발자들에게 유용한 정보를 제공합니다.",
       "keywords": [
         "PyTorch",
         "프로파일링",
@@ -339,7 +467,7 @@
       "date": "5월 29일",
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "url": "https://huggingface.co/blog/torch-profiler",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "trend",
@@ -359,19 +487,19 @@
     },
     {
       "category": "ai",
-      "title": "Claude Opus 4.8: 오류 인정에 중점 둔 모델",
-      "summary": "Claude Opus 4.8은 Anthropic이 개발한 모델로, 자신의 오류를 정직하게 인정하는 데 중점을 두고 있다. 이 모델은 인공지능의 신뢰성을 높이기 위한 노력의 일환으로 보인다.",
-      "summary_full": "Claude Opus 4.8은 Anthropic이 출시한 최신 모델로, 인공지능의 오류를 솔직하게 인정하는 기능에 중점을 두고 있다. 이는 사용자와의 신뢰를 구축하고, 인공지능의 투명성을 높이기 위한 중요한 단계로 평가된다. 이러한 접근은 AI 기술의 발전에 긍정적인 영향을 미칠 것으로 기대된다. 따라서, Claude Opus 4.8은 인공지능의 신뢰성을 강화하는 데 기여할 것으로 보인다.",
+      "title": "Claude Opus 4.8: 오류를 인정하는 AI 모델",
+      "summary": "Anthropic의 Claude Opus 4.8은 자신의 오류를 정직하게 인정하는 모델에 중점을 두고 있다. 이 접근법은 AI의 신뢰성을 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "Claude Opus 4.8은 Anthropic이 개발한 AI 모델로, 사용자와의 상호작용에서 발생할 수 있는 오류를 솔직하게 인정하는 데 중점을 두고 있다. 이러한 접근은 AI의 투명성을 높이고, 사용자에게 더 나은 경험을 제공하기 위한 노력의 일환으로 볼 수 있다. 또한, 이는 AI의 신뢰성을 향상시키고, 사용자와의 관계를 강화하는 데 중요한 역할을 할 것으로 예상된다. 결국, 이러한 모델은 AI 기술의 발전에 긍정적인 영향을 미칠 것으로 기대된다.",
       "keywords": [
         "Claude Opus 4.8",
         "Anthropic",
-        "인공지능 오류 인정"
+        "AI 신뢰성"
       ],
       "source": "Google News Anthropic",
       "date": "5월 28일",
       "publishedAt": "2026-05-28T22:44:20.000Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55QUVwd0ZHd0RfYUtpeGRYamNabzR4ZlVPbml3dVY4eEN1OHJpcFhoTnhhYU9Cci1JS0ViRmhFd05wMVFRSHBUNWtjb0daUDdYQWJEMXR4YXliby1hM1pfYVNRZ2dianc?oc=5",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "trend",
@@ -505,17 +633,17 @@
       "category": "figma",
       "title": "로컬 코드베이스와 Make 연결하기",
       "summary": "Make를 로컬 코드베이스에 연결하여 특정 요소에 대해 맥락적으로 프롬프트를 제공하고, Figma 편집 패널을 통해 속성을 조정할 수 있다.",
-      "summary_full": "Make를 로컬 코드베이스에 연결하면 특정 요소에 대해 맥락적으로 프롬프트를 제공하고, Figma 편집 패널을 통해 속성을 조정할 수 있다. AI 코딩 에이전트가 해당 코드 수정을 자동으로 수행하며, 결과가 만족스러우면 터미널을 사용하지 않고도 변경 사항을 커밋하고 풀 리퀘스트를 열 수 있다. 현재 클로즈드 베타에서 제공되는 주요 기능에는 직접 편집 기능이 포함된다.",
+      "summary_full": "Make를 로컬 코드베이스에 연결하면 특정 요소에 대한 맥락적 프롬프트를 제공하고, Figma 편집 패널을 통해 속성을 조정할 수 있다. AI 코딩 에이전트가 해당 코드 수정을 자동으로 수행하며, 결과가 만족스러우면 터미널을 사용하지 않고도 변경 사항을 커밋하고 풀 리퀘스트를 열 수 있다. 이 기능은 클로즈드 베타 출시 시점에서 제공된다.",
       "keywords": [
-        "Make",
         "로컬 코드베이스",
-        "AI 코딩 에이전트"
+        "AI 코딩 에이전트",
+        "Figma 편집 패널"
       ],
       "source": "Figma Release Notes",
       "date": "5월 28일",
       "publishedAt": "2026-05-28T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "industry",
@@ -697,9 +825,9 @@
     },
     {
       "category": "ai",
-      "title": "사회과학에서의 코딩 에이전트",
-      "summary": "사회과학 분야에서 코딩 에이전트의 중요성이 강조되고 있다. 이 연구는 사회적 데이터 분석을 위한 새로운 접근 방식을 제안한다.",
-      "summary_full": "사회과학에서 코딩 에이전트는 데이터 분석의 효율성을 높이는 데 기여하고 있다. 이러한 에이전트는 복잡한 사회적 상호작용을 모델링하는 데 사용된다. 연구 결과는 사회과학 연구자들에게 유용한 도구로 작용할 것으로 기대된다. 이 접근 방식은 향후 연구에 새로운 방향을 제시할 수 있다.",
+      "title": "사회과학의 코딩 에이전트",
+      "summary": "사회과학 분야에서 코딩 에이전트의 역할과 중요성을 다룬 연구이다. 이 연구는 데이터 분석과 사회적 현상 이해에 기여하는 방법을 탐구한다.",
+      "summary_full": "이 연구는 사회과학에서 코딩 에이전트의 활용을 분석한다. 코딩 에이전트는 데이터 분석을 통해 사회적 현상을 이해하는 데 중요한 역할을 한다. 연구는 이들의 기능과 효과를 평가하며, 사회과학 연구의 발전에 기여할 수 있는 가능성을 제시한다. 또한, 코딩 에이전트의 사용이 연구 결과에 미치는 영향을 논의한다.",
       "keywords": [
         "사회과학",
         "코딩 에이전트",
@@ -709,7 +837,7 @@
       "date": "5월 27일",
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/coding-agents-social-sciences",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "trend",
@@ -1356,8 +1484,8 @@
     {
       "category": "frontend",
       "title": "크로스 기능 기술 문제 해결을 위한 역량 성장 팁",
-      "summary": "기술 조직의 성장에 따라 팀 간의 협업이 중요해진다. 각 팀이 역할을 잘 수행하더라도 전체적인 문제 해결이 필요하다.",
-      "summary_full": "기술 조직이 커질수록 팀 간의 협업이 필수적이다. 각 팀은 자신의 역할을 잘 수행하지만, 전체적으로 중요한 문제는 해결되지 않는다. 이러한 크로스 기능 문제는 단순한 협업으로 해결되지 않으며, 다양한 영역에서의 접근이 필요하다. 따라서, 문제 해결을 위해서는 회의 진행과 협업 능력뿐만 아니라 조직 구조와 역할 정의까지 재검토해야 한다.",
+      "summary": "기술 조직의 성장에 따라 팀 간의 협업이 중요해진다. 문제 해결을 위해서는 단순한 협업을 넘어서는 접근이 필요하다.",
+      "summary_full": "기술 조직이 커질수록 팀 간의 협업이 필수적이다. 각 팀이 자신의 역할을 잘 수행하더라도, 전체적으로 중요한 공백이 발생할 수 있다. 이러한 크로스 기능 기술 문제는 단순한 협업으로 해결되지 않으며, 회의 진행 및 다양한 접근 방식이 필요하다. 문제의 본질을 이해하고, 조직 구조와 역할 정의를 재검토해야 할 때도 있다.",
       "keywords": [
         "크로스 기능",
         "기술 문제",
@@ -1367,23 +1495,23 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T01:00:00.000Z",
       "url": "https://toss.tech/article/cross-functional-tpm-tip",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하는 데 나선다. 이번 협력은 AI 기술의 혁신과 발전을 촉진하기 위한 전략의 일환이다. 양사는 AI 솔루션의 효율성을 높이고, 새로운 시장 기회를 창출할 계획이다. 이를 통해 AI 산업의 경쟁력을 강화할 것으로 보인다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 발전을 촉진하고, 산업 내 혁신을 이끌 것으로 예상된다. 양사는 AI 솔루션의 효율성을 높이고, 시장의 요구에 부응하기 위해 공동으로 노력할 예정이다. 이러한 협력은 AI 기반 기술의 상용화에 중요한 이정표가 될 것이다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 네이티브 산업"
+        "AI 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "ai",
@@ -1419,19 +1547,19 @@
     },
     {
       "category": "ai",
-      "title": "아시아 태평양에서 환경 위험 대응을 위한 Google DeepMind Accelerator 프로그램 출시",
-      "summary": "Google DeepMind Accelerator 프로그램이 아시아 태평양 지역에서 시작됩니다. 이 프로그램은 환경 위험 문제를 해결하기 위해 설계되었습니다.",
-      "summary_full": "Google은 아시아 태평양 지역에서 환경 위험에 대응하기 위해 DeepMind Accelerator 프로그램을 출시합니다. 이 프로그램은 혁신적인 기술과 솔루션을 통해 환경 문제를 해결하는 데 중점을 둡니다. 참여 기업과 연구자들은 지속 가능한 발전을 위한 다양한 프로젝트에 참여할 수 있습니다. 이를 통해 지역 사회와 환경에 긍정적인 영향을 미치는 것을 목표로 합니다.",
+      "title": "구글 딥마인드 액셀러레이터 프로그램 아시아 태평양 출시",
+      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 중점을 둡니다.",
+      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시합니다. 이 프로그램은 지역 내 스타트업과 기업들이 지속 가능한 기술을 개발하도록 지원하는 것을 목표로 합니다. 참가자들은 구글의 자원과 전문 지식을 활용하여 혁신적인 솔루션을 모색할 수 있습니다. 이를 통해 환경 문제 해결에 기여하고 지속 가능한 발전을 촉진할 계획입니다.",
       "keywords": [
-        "Google",
-        "DeepMind",
+        "구글",
+        "딥마인드",
         "환경 위험"
       ],
       "source": "Google DeepMind Blog",
       "date": "5월 21일",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "ai",
@@ -3636,8 +3764,8 @@
     {
       "category": "ai",
       "title": "사이냅소프트, AI 데이터 처리 자동화 서비스 출시",
-      "summary": "사이냅소프트가 LLM과 RAG 기반의 데이터 처리 자동화 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이고, 사용자에게 보다 나은 경험을 제공하는 것을 목표로 한다.",
-      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 LLM(대형 언어 모델)과 RAG(정보 검색 기반 생성) 기술을 활용하여 데이터 처리 과정을 자동화한다. 이를 통해 기업은 데이터 처리의 효율성을 높일 수 있으며, 사용자에게 더 나은 경험을 제공할 수 있다. 사이냅소프트는 이 서비스를 통해 다양한 산업 분야에서 데이터 활용을 촉진할 계획이다.",
+      "summary": "사이냅소프트가 LLM과 RAG를 활용한 데이터 처리 자동화 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이고, 다양한 산업에 적용 가능하다.",
+      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 대규모 언어 모델(LLM)과 회수 기반 생성(RAG) 기술을 활용하여 데이터 처리 과정을 간소화한다. 이를 통해 기업들은 데이터 처리의 효율성을 높일 수 있으며, 다양한 산업 분야에 적용할 수 있는 가능성을 지닌다. 사이냅소프트는 이 서비스를 통해 데이터 관리의 혁신을 선도할 계획이다.",
       "keywords": [
         "사이냅소프트",
         "AI Data Foundry",
@@ -3647,7 +3775,7 @@
       "date": "5월 7일",
       "publishedAt": "2026-05-07T01:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jR25STlpXTHFSU1dTc3prYWVKMV83aUJQbGNhSk04X1JZQ2JWeU56SHRUeGhzRFoyZWszaURyM2FSeV9tTUtVSzl5Zm55eUVuR3V0VUQzc05ZM1RkTHhYXzNjLWR4Sm1IV1E?oc=5",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "ai",
@@ -4226,54 +4354,6 @@
       "collectedAt": "2026-05-05"
     },
     {
-      "category": "design",
-      "title": "테일러 스위프트, 목소리와 사진으로 상표 출원",
-      "summary": "테일러 스위프트가 자신의 목소리와 사진을 상표로 출원했다.",
-      "summary_full": "테일러 스위프트가 자신의 목소리와 사진을 상표로 출원한 사실이 알려졌다. 이번 상표 출원은 그녀의 브랜드 관리 전략의 일환으로 해석된다.",
-      "keywords": [
-        "테일러 스위프트",
-        "상표 출원",
-        "브랜드 보호"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 1일",
-      "publishedAt": "2026-05-01T07:53:55.263Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-739/",
-      "collectedAt": "2026-05-01"
-    },
-    {
-      "category": "trend",
-      "title": "AI 모델, 창의적 프로젝트를 완수할 수 없다",
-      "summary": "Contra Labs는 15개의 AI 모델을 93개의 프롬프트로 5개 창의적 분야에서 테스트했다.",
-      "summary_full": "Contra Labs는 15개의 AI 모델을 93개의 프롬프트를 통해 5개 창의적 분야에서 평가했다. 어떤 단일 도구도 프로젝트의 개념부터 최종 결과물까지 완수할 수 없다는 결론에 도달했다.",
-      "keywords": [
-        "AI 모델",
-        "창의적 프로젝트",
-        "Contra Labs"
-      ],
-      "source": "dev.to",
-      "date": "5월 1일",
-      "publishedAt": "2026-05-01T06:52:15.000Z",
-      "url": "https://dev.to/igorgridel/no-ai-model-can-carry-a-creative-project-end-to-end-the-hcb-just-proved-it-1pf3",
-      "collectedAt": "2026-05-01"
-    },
-    {
-      "category": "industry",
-      "title": "뉴스 출판사들이 AI 기업의 사용을 막기 위해 인터넷 아카이브의 웨이백 머신 차단",
-      "summary": "뉴욕 타임스, CNN, USA 투데이 등 241개 이상의 뉴스 조직이 인터넷 아카이브의 크롤러를 제한하기로 결정했다.",
-      "summary_full": "뉴욕 타임스, CNN, USA 투데이, 가디언 등 241개 이상의 뉴스 조직이 인터넷 아카이브의 크롤러를 차단하기로 했다. 이 결정은 AI 기업들이 아카이브를 사용하는 것을 막기 위한 것이다.",
-      "keywords": [
-        "인터넷 아카이브",
-        "웨이백 머신",
-        "뉴스 출판사"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 1일",
-      "publishedAt": "2026-05-01T06:39:54.000Z",
-      "url": "https://thenextweb.com/news/news-publishers-are-blocking-the-internet-archives-wayback-machine-to-stop-ai-companies-from-using-it",
-      "collectedAt": "2026-05-01"
-    },
-    {
       "category": "ai",
       "title": "Splice, Ableton에 Claude 연동해 음악 작업에 AI 지원 가능",
       "summary": "Splice가 Ableton과 Claude를 연동하여 음악 작업에 AI 지원을 제공한다.",
@@ -4290,38 +4370,6 @@
       "collectedAt": "2026-05-03"
     },
     {
-      "category": "industry",
-      "title": "색 이론에 혼란스러운 생성 AI",
-      "summary": "이 기사는 색 이론을 이해하는 데 어려움을 겪는 생성 AI의 관점을 다룬다.",
-      "summary_full": "이 글에서는 생성 AI가 색 이론에 대해 느끼는 혼란을 탐구한다. 지각 균일 삼각형을 구축하는 데 있어 Perplexity를 활용하는 방법을 설명한다.",
-      "keywords": [
-        "생성 AI",
-        "색 이론",
-        "UX 디자인"
-      ],
-      "source": "uxdesign.cc",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T22:08:49.000Z",
-      "url": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10",
-      "collectedAt": "2026-05-01"
-    },
-    {
-      "category": "frontend",
-      "title": "CSS에서 네이티브 랜덤성의 중요성",
-      "summary": "CSS의 새로운 랜덤 함수와 그 작동 방식에 대해 다룹니다.",
-      "summary_full": "최근 CSS에 도입된 새로운 랜덤 함수에 대해 설명합니다. CSS에서 랜덤성의 도전 과제와 개념의 진화를 탐구하고, 이 네이티브 기능이 왜 중요한지 설명합니다.",
-      "keywords": [
-        "CSS",
-        "랜덤성",
-        "웹 개발"
-      ],
-      "source": "css-tricks.com",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T15:26:18.000Z",
-      "url": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
-      "collectedAt": "2026-05-01"
-    },
-    {
       "category": "ai",
       "title": "AI 공동 임상의 도입으로 혁신하는 헬스케어 모델",
       "summary": "AI를 활용한 의료 서비스의 발전 경로를 연구한다.",
@@ -4336,22 +4384,6 @@
       "publishedAt": "2026-04-30T12:14:15.000Z",
       "url": "https://deepmind.google/blog/ai-co-clinician/",
       "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "design",
-      "title": "5월의 새로운 시선 (2026 배경화면 에디션)",
-      "summary": "5월은 긴 낮과 부드러운 빛, 여름의 첫 기운을 느끼게 해준다.",
-      "summary_full": "5월은 긴 낮과 부드러운 빛, 여름의 첫 기운을 느끼게 해준다. 매달 제공되는 배경화면 시리즈가 영감을 주는 역할을 한다.",
-      "keywords": [
-        "5월",
-        "배경화면",
-        "영감"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T11:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-      "collectedAt": "2026-05-01"
     },
     {
       "category": "ai",
@@ -4420,18 +4452,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 고려해야 할 점들을 제시한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 고려해야 할 점들을 제시하며, 개인적인 의견을 바탕으로 작성되었다. 디자이너들은 좋은 사람이며, 그들의 역할에 대한 인식을 높이기 위한 제안이 포함되어 있다. 독자들에게는 숙제를 주는 형태로, 웹사이트 개선을 위한 실천적 조언이 담겨 있다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자에게 숙제를 제안한다. 필자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 의견을 존중한다. 웹사이트의 품질을 높이기 위해 디자이너들이 고려해야 할 사항들을 논의한다.",
       "keywords": [
         "디자인",
-        "접근성",
-        "웹사이트 개선"
+        "웹사이트",
+        "접근성"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "frontend",
@@ -4452,8 +4484,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함합니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드를 다룹니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 변화하는 디자인 패러다임을 반영합니다. 각 트렌드는 사용자 경험을 개선하고, 더 나은 상호작용을 제공하기 위해 설계되었습니다. UX 디자이너와 기업이 주목해야 할 중요한 요소들이 포함되어 있습니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 다룬 기사로, 향후 디자인 방향성을 제시한다.",
+      "summary_full": "이 기사는 2026년을 대비한 9가지 UX 디자인 트렌드를 소개하고 있다. 각 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있으며, 디지털 환경의 변화에 적응하는 방법을 제안한다. 이러한 트렌드는 기업들이 사용자 중심의 디자인을 구현하는 데 중요한 역할을 할 것으로 예상된다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4463,7 +4495,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-05-31"
+      "collectedAt": "2026-06-01"
     },
     {
       "category": "design",
