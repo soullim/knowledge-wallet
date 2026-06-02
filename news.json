@@ -1,22 +1,182 @@
 {
-  "updated": "2026년 6월 1일 AM 03:57",
-  "count": 286,
+  "updated": "2026년 6월 2일 AM 03:52",
+  "count": 290,
   "articles": [
     {
       "category": "industry",
-      "title": "어드민 디자인 자동화의 가능성",
-      "summary": "디자이너의 기준을 바탕으로 반복되는 어드민 디자인을 자동화하는 방법을 탐구한다. '누구나 디자인하는 환경'을 실현하기 위한 AI의 역할에 대해 논의한다.",
-      "summary_full": "반복되는 어드민 디자인을 PRD를 통해 얼마나 자동화할 수 있는지를 살펴본다. 디자이너의 단단한 기준 위에서 '누구나 디자인하는 환경'을 만드는 것이 목표이다. AI 기술이 이 과정에서 어떤 기여를 할 수 있는지에 대한 논의가 이어진다. 궁극적으로 디자인의 접근성을 높이는 방안을 모색한다.",
+      "title": "어드민 디자인 자동화의 한계와 가능성",
+      "summary": "디자이너의 기준에 따라 반복되는 어드민 디자인을 PRD로 자동화할 수 있는 방법을 탐구한다. 누구나 디자인할 수 있는 환경을 만드는 AI의 역할에 대해 논의한다.",
+      "summary_full": "이 글에서는 반복되는 어드민 디자인을 PRD를 통해 얼마나 자동화할 수 있는지를 살펴본다. 디자이너의 단단한 기준을 바탕으로, 누구나 디자인할 수 있는 환경을 실현하는 방법에 대해 논의한다. AI 기술이 이러한 환경을 어떻게 지원할 수 있는지에 대한 통찰을 제공한다. 궁극적으로, 디자인 자동화의 미래에 대한 전망을 제시한다.",
       "keywords": [
         "어드민 디자인",
         "자동화",
-        "AI 기술"
+        "디자인 환경"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 1일",
-      "publishedAt": "2026-06-01T03:55:55.950Z",
+      "date": "6월 2일",
+      "publishedAt": "2026-06-02T03:50:45.812Z",
       "url": "https://www.bucketplace.com/post/2026-05-29-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EC%96%B4%EB%93%9C%EB%AF%BC-%EB%94%94%EC%9E%90%EC%9D%B8-prd%EB%A1%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "design",
+      "title": "일레븐 뮤직 v2로 음악 생성하기",
+      "summary": "일레븐 뮤직 v2를 사용하여 음악을 생성하는 방법을 소개합니다. 이 도구는 사용자 친화적인 인터페이스를 제공하여 누구나 쉽게 음악을 만들 수 있도록 돕습니다.",
+      "summary_full": "일레븐 뮤직 v2는 혁신적인 음악 생성 도구로, 다양한 기능을 통해 사용자들이 창의적으로 음악을 만들 수 있게 지원합니다. 이 기사에서는 일레븐 뮤직 v2의 주요 기능과 사용 방법에 대해 설명합니다. 특히, 직관적인 인터페이스와 다양한 템플릿을 활용하여 초보자도 쉽게 음악을 제작할 수 있는 방법을 제시합니다. 음악 제작에 관심 있는 모든 이들에게 유용한 정보를 제공합니다.",
+      "keywords": [
+        "일레븐 뮤직",
+        "음악 생성",
+        "음악 제작"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 2일",
+      "publishedAt": "2026-06-02T03:50:38.209Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-762/",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "frontend",
+      "title": "AI API 비용 절감을 위한 개발자 가이드",
+      "summary": "AI 모델을 활용한 프로젝트에서 비용 관리의 중요성을 강조한다. 특히, 초기 프로젝트에서 발생할 수 있는 예상치 못한 비용에 대한 경각심을 일깨운다.",
+      "summary_full": "AI 모델을 활용한 프로젝트에서 개발자들이 비용을 관리하는 방법에 대해 설명한다. 첫 프로젝트로 챗봇을 개발한 경험을 통해, 실제 사용 시 발생할 수 있는 비용에 대한 경각심을 일깨운다. AI API 사용 시 예산 초과를 방지하기 위한 전략과 팁을 제공한다. 개발자들이 AI 기술을 활용하면서 경제적인 부담을 줄일 수 있는 방법을 모색한다.",
+      "keywords": [
+        "AI API",
+        "비용 관리",
+        "개발자 가이드"
+      ],
+      "source": "dev.to",
+      "date": "6월 2일",
+      "publishedAt": "2026-06-02T03:45:14.000Z",
+      "url": "https://dev.to/loyaldash/the-developers-guide-to-not-going-broke-on-ai-apis-14kc",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "industry",
+      "title": "게임 플랫폼 ‘풍요 속 빈곤’",
+      "summary": "게임 출시가 증가하면서 이용자가 원하는 게임을 찾기 어려워지고 있다. 콘텐츠 과잉으로 유저 피로도가 높아지고 인디 게임의 노출이 어려워졌다.",
+      "summary_full": "매년 출시되는 게임 수가 증가하고, AI 활용 게임도 늘어나면서 사용자들이 원하는 게임을 찾기 힘들어지고 있다. 콘텐츠의 과잉 공급으로 인해 유저 피로도가 상승하고, 인디 게임은 노출되기 어려운 환경이 조성되고 있다. 이러한 문제를 해결하기 위해 게임 탐색 경험 개선을 위한 제도 정비가 필요하다는 목소리가 나오고 있다.",
+      "keywords": [
+        "게임 출시",
+        "AI 게임",
+        "콘텐츠 과잉"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 2일",
+      "publishedAt": "2026-06-02T03:25:06.000Z",
+      "url": "https://byline.network/2026/06/2-409/",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "trend",
+      "title": "REST API 디자인: 개발자들이 사랑하는 API 구축하기 (2026)",
+      "summary": "훌륭한 API는 사용하기 즐거운 반면, 형편없는 API는 개발자들을 포기하게 만든다. 이 글에서는 훌륭한 API를 만드는 방법에 대해 설명한다.",
+      "summary_full": "REST API 디자인에 대한 이 글은 개발자들이 사랑하는 API를 구축하는 방법을 다룬다. 훌륭한 API는 사용하기 즐겁고, 형편없는 API는 개발자들에게 실망을 안겨준다. 핵심 디자인 원칙으로는 일관성이 강조되며, 이를 통해 사용자 경험을 개선할 수 있다. API 설계의 중요성과 최적의 접근 방식을 이해하는 데 도움을 준다.",
+      "keywords": [
+        "REST API",
+        "API 디자인",
+        "개발자 경험"
+      ],
+      "source": "dev.to",
+      "date": "6월 2일",
+      "publishedAt": "2026-06-02T00:40:53.000Z",
+      "url": "https://dev.to/armorbreak/rest-api-design-building-apis-developers-love-2026-1d79",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "industry",
+      "title": "AI와 스터전의 법칙",
+      "summary": "더 많은 콘텐츠가 반드시 더 높은 품질을 의미하지 않는 이유를 탐구한다.",
+      "summary_full": "AI 기술의 발전과 함께 콘텐츠의 양이 증가하고 있지만, 이는 항상 품질 향상으로 이어지지 않는다. 스터전의 법칙에 따르면, 모든 분야에서 생성되는 콘텐츠의 90%는 저품질이다. 따라서 콘텐츠의 양과 질은 별개의 문제로, 품질을 높이기 위한 노력이 필요하다. 이 글에서는 이러한 문제를 심층적으로 분석한다.",
+      "keywords": [
+        "AI",
+        "스터전의 법칙",
+        "콘텐츠 품질"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T22:53:56.000Z",
+      "url": "https://uxdesign.cc/ai-meets-sturgeons-law-21d17488fc48?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽 클로드 오푸스 4.8 출시",
+      "summary": "앤트로픽이 클로드 오푸스 4.8을 출시했다. 가격은 유지되면서 성능이 향상되었다.",
+      "summary_full": "앤트로픽이 클로드 오푸스 4.8을 새롭게 출시했다. 이번 버전은 기존 가격을 유지하면서도 성능이 개선된 점이 특징이다. 사용자들은 향상된 기능을 통해 더 나은 경험을 할 수 있을 것으로 기대된다. 이 업데이트는 인공지능 기술의 발전을 반영하고 있다.",
+      "keywords": [
+        "앤트로픽",
+        "클로드 오푸스",
+        "AI 성능 향상"
+      ],
+      "source": "Google News Anthropic",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T21:59:17.000Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GUTJfbGI2QVMtdWgxcllLMndWQzVhUUNkSGZ2aVE2TEY0dUdKSUxtMGtyM2hyQ0s4aGFzbmVlQTRxWTBCOG5qVzEtalFFY21yOEREdmloalQwSUNBTlQwajZKZkFKbzg5ZEdz?oc=5",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "industry",
+      "title": "고프로, 생존에 대한 중대한 의구심 표명",
+      "summary": "고프로는 회사의 지속 가능성에 대한 중대한 의구심을 표명했다. 1분기 매출이 26% 감소했으며, 여러 대출 약속을 위반할 것으로 예상하고 있다.",
+      "summary_full": "고프로는 회사의 지속 가능성에 대한 중대한 의구심을 표명하며, 1분기 매출이 26% 감소했다고 보고했다. 이로 인해 주가는 최대 14% 하락했다. 회사는 메모리 문제로 인해 수익 전망이 크게 영향을 받았다고 밝혔다. 이러한 상황은 소비자가 직접 사용하는 제품을 만드는 기업들에게 심각한 타격을 주고 있다.",
+      "keywords": [
+        "고프로",
+        "메모리 문제",
+        "재무 경고"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T20:17:56.000Z",
+      "url": "https://thenextweb.com/news/gopro-going-concern-ai-memory-crisis-default",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "trend",
+      "title": "앤트로픽, 역대 최대 IPO 신청",
+      "summary": "AI 기업 앤트로픽이 IPO 신청서를 제출했다. 이는 스페이스X의 IPO 발표 이후 불과 몇 주 만에 이루어진 일이다.",
+      "summary_full": "AI 기업 앤트로픽이 자사의 AI 모델 클로드를 기반으로 한 IPO 신청서를 제출했다. 이번 IPO는 역대 최대 규모가 될 가능성이 있다. 앤트로픽의 신청은 스페이스X의 IPO 발표 이후 몇 주 만에 이루어졌다. 이는 AI 산업의 성장과 투자자들의 관심을 반영하는 중요한 사건이다.",
+      "keywords": [
+        "앤트로픽",
+        "IPO",
+        "AI 산업"
+      ],
+      "source": "wired.com",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T17:17:58.000Z",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "ai",
+      "title": "AI 정책 및 정치적 옹호에 대한 우리의 견해",
+      "summary": "AI 정책과 정치적 옹호에 대한 접근 방식을 설명합니다. 투명성과 신중한 규제 및 AI 안전에 대한 지원을 강조합니다.",
+      "summary_full": "AI 정책과 정치적 옹호에 대한 우리의 접근 방식은 투명성을 중시합니다. 우리는 신중한 규제와 AI 안전을 지원하며, 외부 정치 단체가 회사의 입장을 대변하지 않도록 합니다. 이러한 원칙은 AI 기술의 책임 있는 발전을 위한 기반이 됩니다. 우리의 목표는 공정하고 안전한 AI 환경을 조성하는 것입니다.",
+      "keywords": [
+        "AI 정책",
+        "정치적 옹호",
+        "AI 안전"
+      ],
+      "source": "OpenAI News",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T17:00:00.000Z",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "collectedAt": "2026-06-02"
+    },
+    {
+      "category": "ai",
+      "title": "Mellum2 소개: JetBrains의 12B 혼합 전문가 모델",
+      "summary": "JetBrains에서 개발한 Mellum2는 120억 개의 매개변수를 가진 혼합 전문가 모델입니다. 이 모델은 다양한 작업에 최적화되어 있어 효율적인 성능을 제공합니다.",
+      "summary_full": "Mellum2는 JetBrains에서 발표한 최신 AI 모델로, 12B의 매개변수를 가진 혼합 전문가 시스템입니다. 이 모델은 여러 전문가가 협력하여 다양한 문제를 해결할 수 있도록 설계되었습니다. Mellum2는 특히 자연어 처리와 같은 복잡한 작업에서 뛰어난 성능을 발휘합니다. JetBrains는 이 모델을 통해 AI 기술의 발전에 기여하고자 합니다.",
+      "keywords": [
+        "Mellum2",
+        "JetBrains",
+        "혼합 전문가 모델"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T15:45:17.000Z",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "design",
@@ -65,6 +225,22 @@
       "publishedAt": "2026-06-01T00:01:22.000Z",
       "url": "https://dev.to/a3e_ecosystem/-the-expertise-paradox-seeing-differently-not-just-knowing-more-2ok2",
       "collectedAt": "2026-06-01"
+    },
+    {
+      "category": "figma",
+      "title": "새 슬롯 설정으로 가드레일 및 기본 동작 설정",
+      "summary": "새 슬롯 설정을 통해 구성 요소 사용 방식을 안내할 수 있습니다. 최소 및 최대 레이어를 설정하여 슬롯에 담길 항목 수를 정의할 수 있습니다.",
+      "summary_full": "새 슬롯 설정을 통해 구성 요소 사용 방식을 안내할 수 있습니다. 최소 및 최대 레이어를 설정하여 슬롯에 담길 항목 수를 정의할 수 있으며, 선호하는 인스턴스만 허용하여 슬롯에 들어갈 항목을 제한할 수 있습니다. 기본적으로 빈 슬롯을 표시하여 캔버스에서 슬롯이 보이도록 하고, 콘텐츠가 자동으로 공간을 채우도록 기본값을 설정할 수 있습니다. 슬롯은 일반적으로 다양한 구성 요소를 담기 위해 사용됩니다.",
+      "keywords": [
+        "슬롯 설정",
+        "가드레일",
+        "기본 동작"
+      ],
+      "source": "Figma Release Notes",
+      "date": "6월 1일",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "trend",
@@ -133,8 +309,8 @@
     {
       "category": "design",
       "title": "6월은 탐험의 달 (2026 배경화면 에디션)",
-      "summary": "모든 사람은 창의적인 재능을 가지고 있다. 이번 월간 배경화면 시리즈는 숨겨진 재능을 발견할 기회를 제공한다.",
-      "summary_full": "모든 사람은 창의적인 재능을 가지고 있으며, 디지털 도구나 카메라, 종이와 펜을 통해 아이디어를 실현할 수 있다. 자신을 창의적이지 않다고 생각하는 사람도 숨겨진 재능이 있을 수 있다. 이번 월간 배경화면 시리즈는 이러한 창의력을 탐험할 기회를 제공한다. 다양한 방법으로 자신의 창의성을 표현해보는 것을 권장한다.",
+      "summary": "모든 사람은 창의적인 재능을 가지고 있다. 이 시리즈는 매달 새로운 배경화면을 통해 숨겨진 재능을 발견할 기회를 제공한다.",
+      "summary_full": "모든 사람은 창의적인 재능을 가지고 있으며, 이를 디지털 도구나 카메라, 또는 종이에 그림을 그리는 방식으로 표현할 수 있다. 자신이 특별히 창의적이지 않다고 생각하는 사람도 숨겨진 재능이 있을 수 있다. 이 시리즈는 매달 새로운 배경화면을 통해 이러한 재능을 발견할 기회를 제공한다. 2026년의 배경화면 에디션은 탐험과 창의성을 강조한다.",
       "keywords": [
         "창의성",
         "배경화면",
@@ -144,7 +320,7 @@
       "date": "5월 31일",
       "publishedAt": "2026-05-31T08:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "design",
@@ -630,22 +806,6 @@
       "collectedAt": "2026-05-28"
     },
     {
-      "category": "figma",
-      "title": "로컬 코드베이스와 Make 연결하기",
-      "summary": "Make를 로컬 코드베이스에 연결하여 특정 요소에 대해 맥락적으로 프롬프트를 제공하고, Figma 편집 패널을 통해 속성을 조정할 수 있다.",
-      "summary_full": "Make를 로컬 코드베이스에 연결하면 특정 요소에 대한 맥락적 프롬프트를 제공하고, Figma 편집 패널을 통해 속성을 조정할 수 있다. AI 코딩 에이전트가 해당 코드 수정을 자동으로 수행하며, 결과가 만족스러우면 터미널을 사용하지 않고도 변경 사항을 커밋하고 풀 리퀘스트를 열 수 있다. 이 기능은 클로즈드 베타 출시 시점에서 제공된다.",
-      "keywords": [
-        "로컬 코드베이스",
-        "AI 코딩 에이전트",
-        "Figma 편집 패널"
-      ],
-      "source": "Figma Release Notes",
-      "date": "5월 28일",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-01"
-    },
-    {
       "category": "industry",
       "title": "공감의 전투는 아직 끝나지 않았다",
       "summary": "디자인을 위해 사람들을 이해하는 과정의 중요성을 다룬 글이다. AI와 존재감에 대한 성찰을 통해 공감의 필요성을 강조한다.",
@@ -825,9 +985,9 @@
     },
     {
       "category": "ai",
-      "title": "사회과학의 코딩 에이전트",
-      "summary": "사회과학 분야에서 코딩 에이전트의 역할과 중요성을 다룬 연구이다. 이 연구는 데이터 분석과 사회적 현상 이해에 기여하는 방법을 탐구한다.",
-      "summary_full": "이 연구는 사회과학에서 코딩 에이전트의 활용을 분석한다. 코딩 에이전트는 데이터 분석을 통해 사회적 현상을 이해하는 데 중요한 역할을 한다. 연구는 이들의 기능과 효과를 평가하며, 사회과학 연구의 발전에 기여할 수 있는 가능성을 제시한다. 또한, 코딩 에이전트의 사용이 연구 결과에 미치는 영향을 논의한다.",
+      "title": "사회과학에서의 코딩 에이전트",
+      "summary": "사회과학 분야에서 코딩 에이전트의 역할을 탐구한다. 이 연구는 데이터 분석과 사회적 상호작용의 관계를 분석한다.",
+      "summary_full": "이 연구는 사회과학에서 코딩 에이전트의 중요성을 강조한다. 코딩 에이전트는 데이터 분석을 통해 사회적 패턴을 이해하는 데 기여한다. 연구는 다양한 사회적 상호작용을 분석하고, 이를 통해 사회과학 연구의 새로운 방향을 제시한다. 결과적으로, 코딩 에이전트는 사회과학 연구의 혁신적인 도구로 자리 잡을 가능성이 있다.",
       "keywords": [
         "사회과학",
         "코딩 에이전트",
@@ -837,7 +997,7 @@
       "date": "5월 27일",
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/coding-agents-social-sciences",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "trend",
@@ -1484,24 +1644,24 @@
     {
       "category": "frontend",
       "title": "크로스 기능 기술 문제 해결을 위한 역량 성장 팁",
-      "summary": "기술 조직의 성장에 따라 팀 간의 협업이 중요해진다. 문제 해결을 위해서는 단순한 협업을 넘어서는 접근이 필요하다.",
-      "summary_full": "기술 조직이 커질수록 팀 간의 협업이 필수적이다. 각 팀이 자신의 역할을 잘 수행하더라도, 전체적으로 중요한 공백이 발생할 수 있다. 이러한 크로스 기능 기술 문제는 단순한 협업으로 해결되지 않으며, 회의 진행 및 다양한 접근 방식이 필요하다. 문제의 본질을 이해하고, 조직 구조와 역할 정의를 재검토해야 할 때도 있다.",
+      "summary": "기술 조직이 커짐에 따라 팀 간의 협력이 필요한 복잡한 문제가 발생한다. 이러한 문제는 단순한 협업으로 해결할 수 없으며, 다양한 영역에서의 접근이 필요하다.",
+      "summary_full": "기술 조직이 성장함에 따라 팀 간의 협력이 필요한 복잡한 문제가 발생한다. 각 팀은 자신의 역할을 잘 수행하지만, 전체적으로 보면 중요한 공백이 생긴다. 이러한 문제는 인프라, 제품, 기술 전략, 운영 방식 등 여러 영역에서 발생할 수 있으며, 단순한 협업으로 해결하기 어렵다. 따라서 효과적인 문제 해결을 위해서는 다양한 접근 방식과 책임 있는 태도가 필요하다.",
       "keywords": [
         "크로스 기능",
         "기술 문제",
-        "조직 협업"
+        "조직 협력"
       ],
       "source": "toss.tech",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T01:00:00.000Z",
       "url": "https://toss.tech/article/cross-functional-tpm-tip",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "ai",
       "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 발전을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 발전을 촉진하고, 산업 내 혁신을 이끌 것으로 예상된다. 양사는 AI 솔루션의 효율성을 높이고, 시장의 요구에 부응하기 위해 공동으로 노력할 예정이다. 이러한 협력은 AI 기반 기술의 상용화에 중요한 이정표가 될 것이다.",
+      "summary": "엠미가 미스트랄과 협력하여 AI 기반 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진하는 데 중점을 두고 있다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 원주율 산업의 성장을 가속화하기 위한 협력 관계를 맺었다. 이 협업은 AI 기술의 혁신과 발전을 도모하는 데 중점을 두고 있다. 양사는 AI 솔루션의 개발과 적용을 통해 산업 전반에 걸쳐 효율성을 높일 계획이다. 이러한 협력이 AI 생태계에 긍정적인 영향을 미칠 것으로 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -1511,7 +1671,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "ai",
@@ -1547,19 +1707,19 @@
     },
     {
       "category": "ai",
-      "title": "구글 딥마인드 액셀러레이터 프로그램 아시아 태평양 출시",
-      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 중점을 둡니다.",
-      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시합니다. 이 프로그램은 지역 내 스타트업과 기업들이 지속 가능한 기술을 개발하도록 지원하는 것을 목표로 합니다. 참가자들은 구글의 자원과 전문 지식을 활용하여 혁신적인 솔루션을 모색할 수 있습니다. 이를 통해 환경 문제 해결에 기여하고 지속 가능한 발전을 촉진할 계획입니다.",
+      "title": "구글 딥마인드 아시아 태평양 액셀러레이터 프로그램 출시",
+      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 중점을 둡니다.",
+      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험 문제를 해결하기 위해 액셀러레이터 프로그램을 출시합니다. 이 프로그램은 스타트업과 기업들이 지속 가능한 기술 솔루션을 개발하도록 지원합니다. 참여 기업들은 환경 문제 해결을 위한 혁신적인 아이디어를 제안하고, 구글의 자원과 네트워크를 활용할 수 있습니다. 이를 통해 지역 사회와 환경에 긍정적인 영향을 미치는 것을 목표로 합니다.",
       "keywords": [
-        "구글",
-        "딥마인드",
-        "환경 위험"
+        "구글 딥마인드",
+        "환경 위험",
+        "액셀러레이터 프로그램"
       ],
       "source": "Google DeepMind Blog",
       "date": "5월 21일",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "ai",
@@ -3764,8 +3924,8 @@
     {
       "category": "ai",
       "title": "사이냅소프트, AI 데이터 처리 자동화 서비스 출시",
-      "summary": "사이냅소프트가 LLM과 RAG를 활용한 데이터 처리 자동화 서비스 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이고, 다양한 산업에 적용 가능하다.",
-      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 대규모 언어 모델(LLM)과 회수 기반 생성(RAG) 기술을 활용하여 데이터 처리 과정을 간소화한다. 이를 통해 기업들은 데이터 처리의 효율성을 높일 수 있으며, 다양한 산업 분야에 적용할 수 있는 가능성을 지닌다. 사이냅소프트는 이 서비스를 통해 데이터 관리의 혁신을 선도할 계획이다.",
+      "summary": "사이냅소프트가 LLM과 RAG 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이고 자동화를 통해 사용자 편의를 제공한다.",
+      "summary_full": "사이냅소프트가 새로운 데이터 처리 자동화 서비스인 'AI Data Foundry'를 발표했다. 이 서비스는 LLM과 RAG 기술을 활용하여 데이터 처리 과정을 자동화한다. 이를 통해 기업들은 데이터 관리의 효율성을 높일 수 있으며, 사용자 경험을 개선할 수 있다. 사이냅소프트는 이러한 혁신적인 솔루션을 통해 시장에서의 경쟁력을 강화할 계획이다.",
       "keywords": [
         "사이냅소프트",
         "AI Data Foundry",
@@ -3775,7 +3935,7 @@
       "date": "5월 7일",
       "publishedAt": "2026-05-07T01:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jR25STlpXTHFSU1dTc3prYWVKMV83aUJQbGNhSk04X1JZQ2JWeU56SHRUeGhzRFoyZWszaURyM2FSeV9tTUtVSzl5Zm55eUVuR3V0VUQzc05ZM1RkTHhYXzNjLWR4Sm1IV1E?oc=5",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "ai",
@@ -4243,70 +4403,6 @@
     },
     {
       "category": "frontend",
-      "title": "인도 선거 보조 앱: 차세대 유권자 Empowerment",
-      "summary": "인도에서 민주주의는 참여에 기반하고 있으며, 젊은 유권자들이 선거 과정에 처음 참여할 때 어려움을 겪을 수 있다.",
-      "summary_full": "인도는 광범위하고 다양한 국가로, 민주주의는 참여를 통해 번창한다. 인도 선거 보조 앱은 젊은 유권자들을 돕기 위해 설계되었다.",
-      "keywords": [
-        "인도",
-        "선거",
-        "유권자"
-      ],
-      "source": "dev.to",
-      "date": "5월 2일",
-      "publishedAt": "2026-05-02T06:26:02.000Z",
-      "url": "https://dev.to/spiraltortilla12/indian-elections-assistant-empowering-the-next-generation-of-voters-1j42",
-      "collectedAt": "2026-05-02"
-    },
-    {
-      "category": "trend",
-      "title": "파워포인트 .pptx 파일을 Figma로 직접 가져오는 플러그인 개발",
-      "summary": "디자이너들을 위해 .pptx 파일을 Figma로 한 번의 클릭으로 가져올 수 있는 플러그인을 개발했습니다.",
-      "summary_full": "디자이너들을 위해 .pptx 파일을 Figma로 한 번의 클릭으로 가져올 수 있는 플러그인을 개발했습니다. 이 플러그인은 시각적 효과를 유지하며, 기존의 파일을 재구성하는 번거로움을 덜어줍니다.",
-      "keywords": [
-        "Figma",
-        "파워포인트",
-        "플러그인"
-      ],
-      "source": "dev.to",
-      "date": "5월 2일",
-      "publishedAt": "2026-05-02T05:57:24.000Z",
-      "url": "https://dev.to/xxxiii/i-build-a-plugin-so-you-can-now-directly-import-powerpoint-pptx-to-figma-58l2",
-      "collectedAt": "2026-05-02"
-    },
-    {
-      "category": "ai",
-      "title": "앤트로픽, 미토스를 '봉인'한 이유는? AI 지배의 첫 사례가 될까?",
-      "summary": "앤트로픽이 미토스를 봉인한 이유와 그 배경에 대해 논의한다.",
-      "summary_full": "앤트로픽이 미토스를 봉인한 이유는 AI의 잠재적 위험성을 줄이기 위해서이다. 이 사건은 AI가 인간을 초월하는 첫 번째 사례가 될 수 있다는 우려를 불러일으킨다.",
-      "keywords": [
-        "앤트로픽",
-        "AI 지배",
-        "미토스 봉인"
-      ],
-      "source": "Google News Anthropic",
-      "date": "5월 1일",
-      "publishedAt": "2026-05-01T19:55:00.000Z",
-      "url": "https://news.google.com/",
-      "collectedAt": "2026-05-02"
-    },
-    {
-      "category": "industry",
-      "title": "메타, 모바일 시장을 놓치고 휴머노이드 운영 체제를 구축하다",
-      "summary": "Lerrel Pinto는 Fauna Robotics를 공동 설립하여 친근한 이족 보행 로봇 Sprout를 개발했다.",
-      "summary_full": "Lerrel Pinto는 Fauna Robotics를 공동 설립하여 친근한 이족 보행 로봇 Sprout를 개발했다. 이후 아마존이 Fauna를 인수하며 소비자 로봇 시장에 진출했다.",
-      "keywords": [
-        "메타",
-        "휴머노이드",
-        "로봇"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 1일",
-      "publishedAt": "2026-05-01T18:19:27.000Z",
-      "url": "https://thenextweb.com/news/meta-acquires-assured-robot-intelligence-humanoid",
-      "collectedAt": "2026-05-02"
-    },
-    {
-      "category": "frontend",
       "title": "HTML-캔버스, 육각형 맵, 전자잉크 최적화 등",
       "summary": "개발자들이 HTML-캔버스와 육각형 세계 맵 분석 기능, 전자잉크 장치용 웹 기반 운영체제 등을 실험하고 있다.",
       "summary_full": "HTML-캔버스는 시각 효과와 함께 실제 의미론적 HTML을 렌더링할 수 있는 새로운 API로 주목받고 있다. 전자잉크 장치에 최적화된 웹 기반 운영체제 개발이 이루어지고 있다.",
@@ -4320,22 +4416,6 @@
       "publishedAt": "2026-05-01T13:43:26.000Z",
       "url": "https://css-tricks.com/whats-important-10/",
       "collectedAt": "2026-05-04"
-    },
-    {
-      "category": "industry",
-      "title": "사용성, 접근성, 그리고 인간-AI 패러다임",
-      "summary": "AI 시대에서 사용성과 접근성의 차이를 다룬다.",
-      "summary_full": "AI와 관련된 사용성과 접근성의 차이를 탐구하는 내용이다. 인간과 AI의 상호작용에 대한 새로운 시각이 제시된다.",
-      "keywords": [
-        "사용성",
-        "접근성",
-        "인간-AI 상호작용"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 1일",
-      "publishedAt": "2026-05-01T11:19:38.000Z",
-      "url": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56",
-      "collectedAt": "2026-05-02"
     },
     {
       "category": "design",
@@ -4452,18 +4532,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자에게 숙제를 제안한다. 필자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 의견을 존중한다. 웹사이트의 품질을 높이기 위해 디자이너들이 고려해야 할 사항들을 논의한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 접근성에 대한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이를 통해 사용자 경험을 향상시킬 수 있다. 이 글은 디자이너들이 고려해야 할 접근성에 대한 개인적인 의견을 공유하며, 독자들에게 숙제를 제안한다. 디자이너들은 대체로 좋은 사람들로, 그들의 의도를 이해하는 것이 중요하다. 이 글은 독자들에게 웹사이트 디자인에 대한 새로운 시각을 제공할 것이다.",
       "keywords": [
-        "디자인",
-        "웹사이트",
-        "접근성"
+        "접근성",
+        "웹사이트 디자인",
+        "디자이너 의견"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "frontend",
@@ -4484,18 +4564,18 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 다룬 기사로, 향후 디자인 방향성을 제시한다.",
-      "summary_full": "이 기사는 2026년을 대비한 9가지 UX 디자인 트렌드를 소개하고 있다. 각 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있으며, 디지털 환경의 변화에 적응하는 방법을 제안한다. 이러한 트렌드는 기업들이 사용자 중심의 디자인을 구현하는 데 중요한 역할을 할 것으로 예상된다.",
+      "summary": "2026년의 UX 디자인 방향성을 제시하는 9가지 주요 트렌드를 소개한다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대된다.",
+      "summary_full": "2026년을 대비하여 UX 디자인의 9가지 주요 트렌드를 살펴본다. 이 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있으며, 디자인의 접근성과 개인화를 강조한다. 또한, 지속 가능한 디자인과 인공지능의 통합 등도 중요한 요소로 부각되고 있다. 이러한 트렌드는 향후 UX 디자인의 방향성을 결정짓는 데 큰 영향을 미칠 것이다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
-        "사용자 경험"
+        "2026년"
       ],
       "source": "Google News Design (KR)",
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-06-01"
+      "collectedAt": "2026-06-02"
     },
     {
       "category": "design",
@@ -4544,22 +4624,6 @@
       "publishedAt": "2026-02-18T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OWEtZjAzbkh1LUctcVJVTHlkRll4X2tiUi1LRFhaQWxlWDlqLUR0M2JmdWFLcjA5Y1o4NFNsUDVDWU5pOWJyMWJHSjRQb2lsUUQxZ0NsNkZPYm5LUmVubQ?oc=5",
       "collectedAt": "2026-05-29"
-    },
-    {
-      "category": "ai",
-      "title": "딥시크 차세대 LLM 'V4' 출시 임박",
-      "summary": "딥시크의 차세대 대형 언어 모델 V4가 곧 출시될 예정이다.",
-      "summary_full": "딥시크는 차세대 대형 언어 모델 V4의 출시를 앞두고 있다. 이 모델은 기존의 오픈AI와 구글의 LLM 성능을 초월할 수 있는 잠재력을 지니고 있다.",
-      "keywords": [
-        "딥시크",
-        "LLM",
-        "V4"
-      ],
-      "source": "Google News AI (KR)",
-      "date": "2월 18일",
-      "publishedAt": "2026-02-18T08:00:00.000Z",
-      "url": "https://news.google.com/",
-      "collectedAt": "2026-05-02"
     },
     {
       "category": "ai",
