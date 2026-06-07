@@ -1,38 +1,134 @@
 {
-  "updated": "2026년 6월 6일 AM 02:59",
-  "count": 302,
+  "updated": "2026년 6월 7일 AM 03:46",
+  "count": 297,
   "articles": [
     {
       "category": "industry",
-      "title": "어드민 디자인 자동화의 한계와 가능성",
-      "summary": "어드민 디자인의 반복성을 줄이기 위해 PRD를 활용한 자동화의 범위를 탐구한다. 디자이너의 기준을 바탕으로 모든 사용자가 디자인할 수 있는 환경을 조성하는 방법을 논의한다.",
-      "summary_full": "어드민 디자인의 반복적인 작업을 PRD를 통해 얼마나 자동화할 수 있는지를 살펴본다. 디자이너의 확고한 기준 위에서 '누구나 디자인하는 환경'을 실현하는 방안을 제시한다. AI 기술의 발전이 디자인 프로세스에 미치는 영향을 분석한다. 이러한 접근 방식이 디자인의 접근성을 어떻게 변화시킬 수 있는지를 탐구한다.",
+      "title": "어드민 디자인 자동화",
+      "summary": "어드민 디자인의 반복성을 줄이기 위해 PRD를 활용한 자동화 가능성을 탐구한다. 디자이너의 기준을 바탕으로 누구나 디자인할 수 있는 환경을 조성하는 방법을 논의한다.",
+      "summary_full": "어드민 디자인의 반복적인 작업을 PRD를 통해 얼마나 자동화할 수 있는지를 분석한다. 디자이너의 기준을 기반으로 한 접근 방식으로, 모든 사용자가 디자인할 수 있는 환경을 만드는 것이 목표이다. AI 기술을 활용하여 디자인 프로세스를 혁신하는 방법을 제시한다. 이로써 디자인의 접근성을 높이고 효율성을 향상시키는 방안을 모색한다.",
       "keywords": [
         "어드민 디자인",
         "자동화",
         "디자인 접근성"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 6일",
-      "publishedAt": "2026-06-06T02:58:22.665Z",
+      "date": "6월 7일",
+      "publishedAt": "2026-06-07T03:45:04.696Z",
       "url": "https://www.bucketplace.com/post/2026-05-29-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EC%96%B4%EB%93%9C%EB%AF%BC-%EB%94%94%EC%9E%90%EC%9D%B8-prd%EB%A1%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "design",
       "title": "ChatGPT로 올리브영 제품 추천받기",
-      "summary": "ChatGPT를 활용하여 올리브영에서 원하는 제품을 추천받는 방법을 소개합니다. 이 과정을 통해 개인의 필요에 맞는 상품을 쉽게 찾을 수 있습니다.",
-      "summary_full": "이 글에서는 ChatGPT를 이용해 올리브영 제품을 추천받는 방법을 설명합니다. 사용자는 자신의 선호도나 필요에 따라 질문을 입력하여 맞춤형 추천을 받을 수 있습니다. ChatGPT는 다양한 제품 정보를 바탕으로 최적의 선택지를 제시합니다. 이를 통해 소비자는 더 효율적으로 쇼핑할 수 있습니다.",
+      "summary": "ChatGPT를 활용하여 올리브영에서 제품 추천을 받을 수 있는 방법을 소개한다. 사용자의 필요에 맞는 제품을 쉽게 찾을 수 있는 팁을 제공한다.",
+      "summary_full": "이 글에서는 ChatGPT를 통해 올리브영 제품을 추천받는 방법을 설명한다. 사용자가 원하는 제품의 유형이나 필요를 입력하면, ChatGPT가 적절한 제품을 제안해준다. 이를 통해 소비자는 보다 효율적으로 쇼핑할 수 있다. 또한, 추천받은 제품에 대한 추가 정보도 쉽게 확인할 수 있다.",
       "keywords": [
         "ChatGPT",
         "올리브영",
         "제품추천"
       ],
       "source": "Secondbrush Blog",
-      "date": "6월 6일",
-      "publishedAt": "2026-06-06T02:58:17.937Z",
+      "date": "6월 7일",
+      "publishedAt": "2026-06-07T03:45:00.054Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-765/",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
+    },
+    {
+      "category": "frontend",
+      "title": "소프트웨어 엔지니어의 급여 협상 방법: 실용 가이드",
+      "summary": "급여 협상은 경력에서 가장 중요한 대화 중 하나입니다. 효과적인 협상은 연간 인상보다 더 많은 수익을 가져올 수 있습니다.",
+      "summary_full": "급여 협상은 경력에서 가장 높은 레버리지를 가진 대화입니다. 단 한 번의 효과적인 협상으로 수년 간의 연간 인상보다 더 많은 돈을 벌 수 있습니다. 그러나 대부분의 엔지니어는 협상에 대한 불편함으로 인해 상당한 금액을 놓치고 있습니다. 협상 기술을 배우는 것은 경력을 정의하는 중요한 요소입니다.",
+      "keywords": [
+        "급여 협상",
+        "소프트웨어 엔지니어",
+        "경력 개발"
+      ],
+      "source": "dev.to",
+      "date": "6월 7일",
+      "publishedAt": "2026-06-07T03:40:20.000Z",
+      "url": "https://dev.to/therizwansaleem/how-to-negotiate-your-salary-as-a-software-engineer-a-practical-guide-1n1b",
+      "collectedAt": "2026-06-07"
+    },
+    {
+      "category": "industry",
+      "title": "아우디의 1,001 PS 누볼라리, 가장 빠른 차",
+      "summary": "아우디가 역사상 가장 빠르고 강력한 생산 차량인 누볼라리를 공개했다. 이 하이브리드 슈퍼카는 4.0리터 V8 비트urbo 엔진과 세 개의 축 방향 플럭스 전기 모터를 결합해 1,001 PS의 출력을 낸다.",
+      "summary_full": "아우디가 역사상 가장 빠르고 강력한 생산 차량인 누볼라리를 공개했다. 이 하이브리드 슈퍼카는 4.0리터 V8 비트urbo 엔진과 세 개의 축 방향 플럭스 전기 모터를 결합해 1,001 PS의 출력을 낸다. V8 엔진만으로도 800 PS를 발휘하며, 최대 회전수는 10,000 rpm에 달한다. 총 499대만 생산되며 가격은 60만 유로부터 시작한다.",
+      "keywords": [
+        "아우디",
+        "누볼라리",
+        "하이브리드 슈퍼카"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 6일",
+      "publishedAt": "2026-06-06T20:57:03.000Z",
+      "url": "https://thenextweb.com/news/audi-nuvolari-supercar-hybrid-1001ps",
+      "collectedAt": "2026-06-07"
+    },
+    {
+      "category": "trend",
+      "title": "검증된 차임 뱅킹 시작하기",
+      "summary": "신뢰할 수 있는 플랫폼에서 검증된 차임 계좌를 구매하는 것이 온라인 거래를 원활하게 처리하는 스마트한 선택입니다. 이를 통해 사용자들은 갑작스러운 계좌 정지나 신원 확인 없이 즉시 거래를 진행할 수 있습니다.",
+      "summary_full": "온라인 거래를 처리할 때 갑작스러운 정지나 신원 확인을 피하고 싶다면, 신뢰할 수 있는 플랫폼에서 검증된 차임 계좌를 구매하는 것이 매우 현명한 선택입니다. 이러한 완전 검증된 금융 설정은 일상 사용자들이 즉시 거래를 진행할 수 있도록 도와줍니다. www.BuyGo2Bank.Com과 같은 플랫폼을 이용하면 안전하게 거래를 시작할 수 있습니다. 검증된 계좌를 통해 더 나은 금융 경험을 누릴 수 있습니다.",
+      "keywords": [
+        "차임 뱅킹",
+        "검증된 계좌",
+        "온라인 거래"
+      ],
+      "source": "dev.to",
+      "date": "6월 6일",
+      "publishedAt": "2026-06-06T19:33:00.000Z",
+      "url": "https://dev.to/doverjhg/i-will-help-you-get-started-with-buy-verified-chime-banking-4ml",
+      "collectedAt": "2026-06-07"
+    },
+    {
+      "category": "ai",
+      "title": "다섯 개의 연구소, 다섯 개의 사고: 소형 모델을 활용한 다중 모델 금융 드라마 구축",
+      "summary": "이 기사는 소형 모델을 기반으로 한 다중 모델 금융 드라마를 만드는 과정에 대해 설명합니다. 다섯 개의 연구소와 다양한 사고 방식이 결합되어 혁신적인 결과를 도출하는 방법을 탐구합니다.",
+      "summary_full": "이 기사는 소형 모델을 활용하여 다중 모델 금융 드라마를 구축하는 과정을 다룹니다. 다섯 개의 연구소에서 각각의 독특한 사고 방식이 결합되어 새로운 아이디어와 접근 방식을 창출합니다. 이러한 협업은 금융 분야에서의 혁신을 가능하게 하며, 다양한 모델을 통해 복잡한 문제를 해결하는 데 기여합니다. 최종적으로, 이 프로젝트는 다중 모델 접근 방식의 중요성을 강조합니다.",
+      "keywords": [
+        "금융 드라마",
+        "소형 모델",
+        "다중 모델"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "6월 6일",
+      "publishedAt": "2026-06-06T19:02:33.000Z",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "collectedAt": "2026-06-07"
+    },
+    {
+      "category": "trend",
+      "title": "테스트한 최고의 3-in-1 애플 충전 스테이션",
+      "summary": "최고의 3-in-1 애플 충전 스테이션을 찾기 위해 여러 모델을 시험해보았습니다. 이 도킹 시스템으로 아이폰, 애플 워치, 에어팟을 간편하게 충전할 수 있습니다.",
+      "summary_full": "다양한 모델을 테스트하여 최고의 3-in-1 애플 충전 스테이션을 선정했습니다. WIRED에서 검증한 이 도킹 시스템은 아이폰, 애플 워치, 에어팟을 동시에 충전할 수 있는 편리함을 제공합니다. 각 모델의 성능과 디자인을 비교하여 최적의 선택을 도와줍니다. 충전의 효율성을 높이고 공간을 절약할 수 있는 제품들입니다.",
+      "keywords": [
+        "애플 충전 스테이션",
+        "3-in-1 충전기",
+        "WIRED 테스트"
+      ],
+      "source": "wired.com",
+      "date": "6월 6일",
+      "publishedAt": "2026-06-06T14:00:00.000Z",
+      "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+      "collectedAt": "2026-06-07"
+    },
+    {
+      "category": "industry",
+      "title": "빠르게 움직이는 것의 심리적 비용",
+      "summary": "AI 시대에도 발견이 중요한 이유를 설명한다. 초기 UX 작업에 대한 투자가 비용 절감 노력으로 여겨졌던 과거와 달리, 현재는 상황이 달라졌다.",
+      "summary_full": "AI의 발전으로 인해 발견의 중요성이 여전히 강조되고 있다. 과거에는 초기 UX 작업에 대한 투자를 통해 잘못된 제품 개발을 방지하는 것이 비용 절감으로 이어졌다. 그러나 현재는 자율 AI의 출현으로 이러한 계산이 변화하고 있다. 따라서 올바른 목표를 설정하는 것이 더욱 중요해졌다.",
+      "keywords": [
+        "심리적 비용",
+        "AI 시대",
+        "UX 작업"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 6일",
+      "publishedAt": "2026-06-06T12:15:43.000Z",
+      "url": "https://uxdesign.cc/the-psychological-cost-of-moving-too-fast-867fb3830722?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "frontend",
@@ -133,8 +229,8 @@
     {
       "category": "industry",
       "title": "아마존 물류 로봇, 자연어로 작업 지시 받는다",
-      "summary": "아마존이 자연어 인식 기능을 갖춘 물류 로봇 '프로테우스'를 공개했다. 이 로봇은 복잡한 코딩 없이 일상적인 언어로 작업 지시를 받을 수 있다.",
-      "summary_full": "아마존은 '딜리버링 더 퓨처' 행사에서 차세대 자율주행 물류 로봇 '프로테우스'를 소개했다. 이 로봇은 인공지능(AI)을 활용하여 자연어를 인식하는 기능이 특징이다. 이를 통해 사용자는 복잡한 코딩이나 전용 소프트웨어 없이도 로봇에게 작업을 지시할 수 있다. 이는 물류 작업의 효율성을 크게 향상시킬 것으로 기대된다.",
+      "summary": "아마존이 자연어로 작업 지시를 받을 수 있는 물류 로봇 '프로테우스'를 공개했다. 이 로봇은 인공지능을 활용해 복잡한 코딩 없이 일상적인 언어로 지시를 수행할 수 있다.",
+      "summary_full": "아마존은 영국 런던에서 '딜리버링 더 퓨처' 행사를 통해 차세대 자율주행 물류 로봇 '프로테우스'를 소개했다. 이 로봇은 인공지능(AI)을 탑재하여 자연어를 인식하는 기능이 특징이다. 복잡한 코딩이나 전용 소프트웨어 없이도 일상적인 언어로 작업 지시를 내릴 수 있다. 이는 물류 작업의 효율성을 크게 향상시킬 것으로 기대된다.",
       "keywords": [
         "아마존",
         "물류 로봇",
@@ -144,7 +240,7 @@
       "date": "6월 5일",
       "publishedAt": "2026-06-05T05:50:37.000Z",
       "url": "https://byline.network/2026/06/0605-6/",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "frontend",
@@ -164,35 +260,35 @@
     },
     {
       "category": "frontend",
-      "title": "AI Surf Day: 토스팀의 AI 대응 전략",
-      "summary": "토스팀은 AI 기술의 빠른 변화에 대응하기 위해 다양한 직군에서 AI 활용 방안을 모색하고 있다. 이를 통해 직원들은 새로운 기술을 탐구하고 업무에 적용하는 데 힘쓰고 있다.",
-      "summary_full": "토스팀은 AI의 급속한 발전에 맞춰 모든 직군에서 AI 활용 방법을 고민하고 있다. 기술 직군뿐만 아니라 PO, 디자이너, 스태프 등 다양한 분야의 직원들이 AI를 어떻게 적용할 수 있을지 탐구하고 있다. 이러한 노력은 새로운 기술을 선도적으로 수용하고, 업무에 효과적으로 적용하기 위한 것이다. AI Surf Day를 통해 팀원들은 서로의 경험을 공유하며 성장하고 있다.",
+      "title": "AI Surf Day: 토스팀의 AI 활용 방안",
+      "summary": "토스팀은 AI 기술의 빠른 변화에 대응하기 위해 다양한 직군에서 AI 활용 방안을 모색하고 있다. 기술 직군뿐만 아니라 PO, 디자이너 등 다양한 분야의 직원들이 AI를 업무에 적용하려는 노력을 하고 있다.",
+      "summary_full": "토스의 Developer Relations Manager 신유라는 AI의 빠른 변화에 대한 독자들의 시각을 묻고 있다. 지난해부터 토스에서는 AI와 기술에 대한 관심이 높아지며, 다양한 직군에서 AI 활용을 고민하는 직원들이 늘어나고 있다. 특히, 기술 직군 외에도 PO와 디자이너 등 여러 분야에서 AI를 업무에 적용하려는 시도가 활발히 이루어지고 있다. 이러한 변화는 토스의 기술 문화에 긍정적인 영향을 미치고 있다.",
       "keywords": [
         "AI",
-        "토스팀",
+        "토스",
         "기술문화"
       ],
       "source": "toss.tech",
       "date": "6월 5일",
       "publishedAt": "2026-06-05T01:00:00.000Z",
       "url": "https://toss.tech/article/ai-surf-day",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "ai",
       "title": "클로드를 화학자로 만들기",
-      "summary": "클로드가 화학자로 성장하는 과정을 다룬 기사이다. 과학적 접근과 실험을 통해 클로드의 능력을 개발하는 방법을 설명한다.",
-      "summary_full": "이 기사는 클로드라는 인물이 화학자로 성장하는 과정을 조명한다. 다양한 과학적 접근과 실험을 통해 그의 능력을 개발하는 방법을 제시한다. 또한, 화학의 기초 개념과 실험 기술을 배우는 중요성을 강조한다. 클로드의 여정을 통해 독자들은 화학에 대한 흥미를 느낄 수 있을 것이다.",
+      "summary": "클로드가 화학자로 성장하는 과정을 다룬다. 과학의 발전과 클로드의 역할에 대해 설명한다.",
+      "summary_full": "이 기사는 클로드가 화학자로서의 능력을 키워가는 여정을 소개한다. 다양한 실험과 연구를 통해 클로드는 화학의 기초를 배우고, 이를 바탕으로 새로운 발견을 하게 된다. 또한, 과학의 발전이 클로드의 성장에 미치는 영향을 분석한다. 결국, 클로드는 화학 분야에서 중요한 인물로 자리매김하게 된다.",
       "keywords": [
         "클로드",
         "화학",
-        "과학적 접근"
+        "과학 발전"
       ],
       "source": "Anthropic Research",
       "date": "6월 5일",
       "publishedAt": "2026-06-05T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "trend",
@@ -276,9 +372,9 @@
     },
     {
       "category": "frontend",
-      "title": "완벽한 CSS 파이 차트에 대한 또 다른 시도... 자바스크립트 없이!",
-      "summary": "Juan Diego Rodríguez가 CSS를 활용하여 자바스크립트를 최소화한 세멘틱하고 커스터마이즈 가능한 파이 차트를 만드는 방법을 탐구하는 기사를 발표했다.",
-      "summary_full": "이 기사에서는 자바스크립트를 최대한 피하면서 파이 차트를 만드는 방법을 시도한다. Juan은 파이 차트를 손으로 그릴 때 겪는 주요 문제들을 해결하는 데 집중한다. CSS의 가능성을 극대화하여 완벽한 파이 차트를 만드는 것을 목표로 한다. 이 과정에서 자바스크립트의 사용을 최소화하는 방법을 제시한다.",
+      "title": "완벽한 CSS 파이 차트 만들기, 자바스크립트 없이!",
+      "summary": "CSS를 활용해 세멘틱하고 커스터마이즈 가능한 파이 차트를 만드는 방법을 탐구한다. 자바스크립트를 최소화하면서 파이 차트를 작성할 때의 주요 문제들을 해결하는 방법을 제시한다.",
+      "summary_full": "최근 후안 디에고 로드리게스는 자바스크립트를 최소화하면서도 세멘틱하고 커스터마이즈 가능한 파이 차트를 만드는 방법에 대한 훌륭한 기사를 발표했다. 이 기사에서는 완벽한 CSS 파이 차트를 만드는 방법을 시도하며, 자바스크립트를 가능한 한 피하는 것을 목표로 한다. 또한, 파이 차트를 손으로 작성할 때 발생하는 주요 문제들을 다루고 있다. CSS의 한계를 극복하며 디자인의 가능성을 확장하는 방법을 제시한다.",
       "keywords": [
         "CSS",
         "파이 차트",
@@ -288,13 +384,13 @@
       "date": "6월 4일",
       "publishedAt": "2026-06-04T13:14:49.000Z",
       "url": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "ai",
       "title": "엔다바가 AI 에이전트를 중심으로 소프트웨어 전달 방식을 재설계하는 방법",
-      "summary": "엔다바는 AI 에이전트와 ChatGPT Enterprise, Codex를 활용하여 소프트웨어 전달 속도를 높이고 워크플로우를 자동화하고 있습니다. 이를 통해 기업 전반에 걸쳐 AI 중심의 문화를 구축하고 있습니다.",
-      "summary_full": "엔다바는 AI 에이전트와 ChatGPT Enterprise, Codex를 통해 소프트웨어 전달 과정을 가속화하고 있습니다. 이들은 워크플로우 자동화를 지원하며, 기업 내 AI 중심의 문화를 조성하는 데 기여하고 있습니다. 이러한 접근 방식은 소프트웨어 개발의 효율성을 높이고, 혁신적인 솔루션을 제공하는 데 중요한 역할을 합니다. 엔다바의 사례는 AI 기술이 기업 운영에 어떻게 통합될 수 있는지를 보여줍니다.",
+      "summary": "엔다바는 AI 에이전트와 ChatGPT Enterprise, Codex를 활용하여 소프트웨어 전달을 가속화하고 워크플로우를 자동화하고 있습니다. 이를 통해 기업 전반에 AI 네이티브 문화를 구축하고 있습니다.",
+      "summary_full": "엔다바는 AI 에이전트를 활용하여 소프트웨어 전달 방식을 혁신하고 있습니다. ChatGPT Enterprise와 Codex를 통해 워크플로우를 자동화하고, 소프트웨어 개발의 속도를 높이고 있습니다. 이러한 접근은 기업 내에서 AI 중심의 문화를 조성하는 데 기여하고 있습니다. 결과적으로, 엔다바는 소프트웨어 개발의 효율성을 극대화하고 있습니다.",
       "keywords": [
         "AI 에이전트",
         "소프트웨어 전달",
@@ -304,7 +400,7 @@
       "date": "6월 4일",
       "publishedAt": "2026-06-04T12:00:00.000Z",
       "url": "https://openai.com/index/endava-frontiers",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "industry",
@@ -372,19 +468,19 @@
     },
     {
       "category": "figma",
-      "title": "디자인 체크 기능",
-      "summary": "Check designs는 디자인을 디자인 시스템과 비교하여 문제를 식별하고 한 번의 클릭으로 수정 제안을 제공합니다. 작업 중에 변화를 감지하고, 인계 전에 QA 검사를 실행하여 모든 파일을 디자인 시스템에 맞게 유지합니다.",
-      "summary_full": "Check designs는 사용자의 디자인을 디자인 시스템과 비교하여 잘못된 부분을 표시하고, 올바른 수정안을 한 번의 클릭으로 제안합니다. 이를 통해 작업 중에 변화를 감지하고, 인계 전에 품질 검사를 수행하여 모든 파일이 디자인 시스템에 일치하도록 유지할 수 있습니다. 이 기능은 변수 및 스타일 제안, 하드코딩된 색상, 텍스트, 반경 및 간격 값을 올바른 디자인 시스템 토큰으로 대체하는 기능을 포함합니다. 접근성 향상도 지원합니다.",
+      "title": "디자인 시스템에 맞춰 디자인 비교",
+      "summary": "Check designs는 디자인을 디자인 시스템과 비교하여 오류를 표시하고, 한 번의 클릭으로 수정 제안을 제공합니다.",
+      "summary_full": "Check designs는 작업 중에 디자인의 변화를 감지하고, 인계 전에 품질 검사를 수행하여 모든 파일이 디자인 시스템에 맞도록 유지합니다. 이 도구는 하드코딩된 색상, 텍스트, 반경 및 간격 값을 올바른 디자인 시스템 토큰으로 대체하는 스타일 제안 기능을 제공합니다. 또한 접근성 관련 기능도 포함되어 있어 사용자 경험을 향상시킵니다.",
       "keywords": [
         "디자인 시스템",
-        "QA 검사",
+        "품질 검사",
         "접근성"
       ],
       "source": "Figma Release Notes",
       "date": "6월 4일",
       "publishedAt": "2026-06-04T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "trend",
@@ -438,7 +534,7 @@
       "category": "design",
       "title": "디자인 시스템을 AI 준비 상태로 만드는 방법",
       "summary": "AI 생성 프로토타입의 일관성이 떨어지는 이유는 디자인 시스템 내의 작은 불일치 때문이다. 문서화되지 않은 결정이나 정리되지 않은 하드코딩 값이 문제를 일으킨다.",
-      "summary_full": "AI 생성 프로토타입은 디자인 시스템의 작은 불일치로 인해 일관된 결과를 제공하지 못한다. 문서화되지 않은 결정이나 정리되지 않은 하드코딩 값이 문제를 일으키며, AI가 모형이나 디자인 흐름을 스스로 이해하는 데 의존하는 경향이 있다. Atlassian의 Hardik Pandya가 제공한 유용한 실용 가이드를 통해 이러한 문제를 줄이는 방법을 찾을 수 있다. 이 가이드는 디자인 시스템을 AI 친화적으로 만드는 데 필요한 조치를 설명한다.",
+      "summary_full": "AI 생성 프로토타입은 디자인 시스템 내의 작은 불일치로 인해 일관된 결과를 제공하지 못한다. 이는 문서화되지 않은 결정이나 정리되지 않은 하드코딩 값, AI가 스스로 모형이나 디자인 흐름을 이해하는 데 과도하게 의존하는 것에서 비롯된다. Atlassian의 Hardik Pandya가 제공한 유용한 실용 가이드를 통해 이러한 문제를 줄이는 방법을 배울 수 있다. 이 가이드는 디자인 시스템을 AI에 적합하게 만드는 방법을 제시한다.",
       "keywords": [
         "디자인 시스템",
         "AI 준비",
@@ -448,7 +544,7 @@
       "date": "6월 3일",
       "publishedAt": "2026-06-03T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "ai",
@@ -613,18 +709,18 @@
     {
       "category": "design",
       "title": "2026 하반기 UX·UI 트렌드 및 AI 네이티브 실무 전략 세미나",
-      "summary": "2026년 하반기 UX·UI 트렌드와 AI 네이티브 실무 전략에 대한 세미나가 6월 18일에 개최된다. 이 세미나는 최신 디자인 트렌드와 AI 활용 방안을 다룰 예정이다.",
-      "summary_full": "2026년 하반기 UX·UI 트렌드 및 AI 네이티브 실무 전략을 주제로 한 세미나가 6월 18일에 열린다. 이번 세미나는 UX·UI 디자인의 최신 트렌드와 AI 기술의 실무적 활용 방안을 심도 있게 논의할 예정이다. 전문가들이 참여하여 다양한 인사이트를 제공할 계획이다. 참석자들은 실무에 적용 가능한 전략을 배울 수 있는 기회를 갖게 된다.",
+      "summary": "2026년 하반기 UX·UI 트렌드와 AI 네이티브 실무 전략에 대한 세미나가 6월 18일에 개최된다. 이번 세미나는 최신 디자인 트렌드와 실무 적용 방안을 논의할 예정이다.",
+      "summary_full": "2026년 하반기 UX·UI 트렌드와 AI 네이티브 실무 전략을 주제로 한 세미나가 6월 18일에 열린다. 세미나에서는 최신 디자인 트렌드와 AI 기술의 실무 적용 방안에 대해 전문가들이 발표할 예정이다. 참석자들은 UX·UI 분야의 변화와 발전 방향에 대한 인사이트를 얻을 수 있을 것이다. 이 행사는 디자인 및 기술 분야의 전문가들에게 유익한 기회가 될 것이다.",
       "keywords": [
-        "UX/UI",
-        "AI 네이티브",
-        "세미나"
+        "UX",
+        "UI",
+        "AI 네이티브"
       ],
       "source": "Google News Design (KR)",
       "date": "6월 2일",
       "publishedAt": "2026-06-02T06:39:40.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qXzlRQ3E3T1dIVGhzZ1QweUpBNG5UNUVnVzRPMUg1Z0dQWWZrcG9nb0cycVN1R1dfWXNPZXpYZGR6WGhXUnV0NE55UnZYUQ?oc=5",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "industry",
@@ -1351,19 +1447,19 @@
     },
     {
       "category": "ai",
-      "title": "Claude Opus 4.8: 오류 인정 모델",
-      "summary": "Anthropic의 Claude Opus 4.8은 자신의 오류를 정직하게 인정하는 데 중점을 두고 있다. 이 모델은 신뢰성을 높이기 위한 혁신적인 접근 방식을 제시한다.",
-      "summary_full": "Claude Opus 4.8은 Anthropic이 개발한 모델로, 오류를 솔직하게 인정하는 기능을 강조하고 있다. 이는 AI의 신뢰성을 높이는 데 중요한 역할을 한다. 사용자는 이 모델을 통해 더 나은 의사결정을 할 수 있을 것으로 기대된다. 이러한 접근 방식은 AI 기술의 발전에 기여할 것으로 보인다.",
+      "title": "Claude Opus 4.8: Anthropic의 정직한 오류 인정 모델",
+      "summary": "Claude Opus 4.8은 Anthropic이 개발한 모델로, 자신의 오류를 솔직하게 인정하는 데 중점을 두고 있다. 이 모델은 인공지능의 신뢰성을 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "Claude Opus 4.8은 Anthropic이 발표한 최신 모델로, 인공지능이 자신의 오류를 정직하게 인정하는 기능에 중점을 두고 있다. 이는 사용자와의 신뢰를 구축하고, 인공지능의 투명성을 높이는 데 중요한 역할을 할 것으로 보인다. 이러한 접근은 인공지능의 윤리적 사용을 촉진하고, 보다 안전한 AI 시스템을 만드는 데 기여할 수 있다. 따라서 Claude Opus 4.8은 AI 기술의 발전에 있어 중요한 이정표가 될 것으로 예상된다.",
       "keywords": [
-        "Claude Opus",
+        "Claude Opus 4.8",
         "Anthropic",
-        "AI 신뢰성"
+        "인공지능 오류 인정"
       ],
       "source": "Google News Anthropic",
       "date": "5월 28일",
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55QUVwd0ZHd0RfYUtpeGRYamNabzR4ZlVPbml3dVY4eEN1OHJpcFhoTnhhYU9Cci1JS0ViRmhFd05wMVFRSHBUNWtjb0daUDdYQWJEMXR4YXliby1hM1pfYVNRZ2dianc?oc=5",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "design",
@@ -2268,8 +2364,8 @@
     {
       "category": "ai",
       "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 발전을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 원주율 산업의 발전을 가속화하기 위한 협력을 시작했다. 이 파트너십은 AI 기술의 혁신을 촉진하고 산업 전반에 걸쳐 새로운 기회를 창출할 것으로 예상된다. 두 회사는 AI 솔루션의 개발과 상용화를 통해 시장에서의 경쟁력을 강화할 계획이다. 이러한 협력은 AI 기술이 다양한 산업에 통합되는 데 중요한 역할을 할 것이다.",
+      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 예정이다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 원주율 산업의 성장을 가속화하기 위한 협력을 시작했다. 두 회사는 AI 기술의 혁신을 통해 산업 전반에 걸쳐 효율성을 높이고 새로운 기회를 창출할 계획이다. 이 파트너십은 AI 솔루션의 개발과 적용을 촉진할 것으로 기대된다. 향후 AI 기반의 다양한 응용 프로그램이 등장할 가능성이 높다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -2279,7 +2375,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "ai",
@@ -2315,9 +2411,9 @@
     },
     {
       "category": "ai",
-      "title": "구글 딥마인드 아시아 태평양 액셀러레이터 프로그램 출시",
-      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 혁신적인 기술을 통해 지속 가능한 솔루션을 개발하는 데 중점을 둡니다.",
-      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험을 해결하기 위한 액셀러레이터 프로그램을 출시합니다. 이 프로그램은 스타트업과 기업들이 지속 가능한 기술을 개발하도록 지원할 것입니다. 참가자들은 환경 문제를 해결하기 위한 혁신적인 아이디어와 솔루션을 제시해야 합니다. 이를 통해 구글은 환경 보호와 지속 가능한 발전에 기여하고자 합니다.",
+      "title": "구글 딥마인드 액셀러레이터 프로그램 아시아 태평양 출시",
+      "summary": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 시작한다. 이 프로그램은 혁신적인 기술과 아이디어를 지원하여 지속 가능한 발전을 도모할 예정이다.",
+      "summary_full": "구글 딥마인드가 아시아 태평양 지역에서 환경 위험 문제를 해결하기 위한 액셀러레이터 프로그램을 출시한다. 이 프로그램은 스타트업과 기업들이 지속 가능한 솔루션을 개발하도록 지원하는 데 초점을 맞춘다. 참가자들은 다양한 자원과 멘토링을 통해 혁신적인 아이디어를 실현할 수 있는 기회를 갖게 된다. 궁극적으로, 이 프로그램은 지역 사회와 환경에 긍정적인 영향을 미치는 것을 목표로 한다.",
       "keywords": [
         "구글",
         "딥마인드",
@@ -2327,7 +2423,7 @@
       "date": "5월 21일",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "ai",
@@ -4450,86 +4546,6 @@
       "collectedAt": "2026-05-08"
     },
     {
-      "category": "design",
-      "title": "20대부터 나이 드는 영상 제작",
-      "summary": "이 영상은 20대부터 나이 드는 과정을 시각적으로 표현하는 방법을 소개한다.",
-      "summary_full": "이 영상에서는 20대부터 나이 드는 과정을 시각적으로 표현하는 방법을 소개한다. GPT 이미지와 Seedance 기술을 활용하여 창의적인 콘텐츠를 제작하는 방법을 설명한다.",
-      "keywords": [
-        "영상 제작",
-        "GPT 이미지",
-        "Seedance 기술"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 7일",
-      "publishedAt": "2026-05-07T09:45:12.016Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-744/",
-      "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "frontend",
-      "title": "이미지 용량 줄이는 5가지 빠른 방법",
-      "summary": "이메일로 사진을 보내야 하지만 용량이 너무 커서 문제가 발생할 수 있다.",
-      "summary_full": "이메일 첨부파일의 용량 제한이나 웹사이트 업로드 제한 때문에 이미지 파일 크기를 줄이는 방법이 필요하다. 이 기사에서는 이미지의 MB를 줄이는 5가지 빠른 방법을 설명한다.",
-      "keywords": [
-        "이미지 압축",
-        "파일 크기 줄이기",
-        "사진 최적화"
-      ],
-      "source": "dev.to",
-      "date": "5월 7일",
-      "publishedAt": "2026-05-07T09:32:23.000Z",
-      "url": "https://dev.to/pixotter/how-to-make-an-image-mb-smaller-5-fast-methods-47h",
-      "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "trend",
-      "title": "텍스트 필드가 새로운 대시보드가 되다",
-      "summary": "텍스트 필드는 사용자 인터페이스에서 중요한 역할을 하며, 데이터 입력과 상호작용을 간소화한다.",
-      "summary_full": "최근 텍스트 필드가 대시보드의 역할을 대체하고 있다는 주장이 제기되고 있다. 텍스트 필드는 단순한 데이터 입력을 넘어, 사용자 경험을 개선하는 데 기여한다.",
-      "keywords": [
-        "텍스트 필드",
-        "대시보드",
-        "사용자 경험"
-      ],
-      "source": "dev.to",
-      "date": "5월 7일",
-      "publishedAt": "2026-05-07T09:17:56.000Z",
-      "url": "https://dev.to/vedangvatsa/the-text-field-is-the-new-dashboard-51bo",
-      "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "industry",
-      "title": "퀀텀 모션, EU의 첫 대규모 투자 유치",
-      "summary": "런던에 본사를 둔 퀀텀 모션이 EU의 첫 대규모 후속 투자로 1억 6천만 달러를 유치했다.",
-      "summary_full": "퀀텀 모션은 실리콘-CMOS 스핀 큐비트를 개발하는 회사로, 유럽 양자 하드웨어 분야에서 기술적 신뢰도가 높다. Scaleup Europe Fund는 유럽연합의 새로운 투자 기금으로 첫 번째 투자를 발표했다.",
-      "keywords": [
-        "퀀텀 모션",
-        "EU 투자",
-        "양자 하드웨어"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 7일",
-      "publishedAt": "2026-05-07T08:39:03.000Z",
-      "url": "https://thenextweb.com/news/quantum-motion-160m-eu-scaleup-europe-fund-first-investment",
-      "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "industry",
-      "title": "첫 번째 기쁨의 맛",
-      "summary": "프라이와 치킨, 초보자의 마음이 기쁜 디자인의 첫 번째 수업이 되었다.",
-      "summary_full": "프라이와 치킨, 그리고 초보자의 마음이 만나 기쁜 디자인의 첫 수업을 경험했다. 기쁜 디자인은 우리의 경험을 풍부하게 만들어준다.",
-      "keywords": [
-        "기쁜 디자인",
-        "UX 디자인",
-        "일상 경험"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 7일",
-      "publishedAt": "2026-05-07T05:57:29.000Z",
-      "url": "https://uxdesign.cc/the-first-taste-of-joy-02f81408ac8a",
-      "collectedAt": "2026-05-07"
-    },
-    {
       "category": "ai",
       "title": "사이냅소프트, AI 데이터 처리 자동화 서비스 출시",
       "summary": "사이냅소프트가 LLM과 RAG 데이터 처리 자동화 서비스인 'AI Data Foundry'를 출시했다. 이 서비스는 데이터 처리의 효율성을 높이고 자동화를 통해 사용자 편의를 제공한다.",
@@ -4576,38 +4592,6 @@
       "publishedAt": "2026-05-07T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/anthropic-institute-agenda",
       "collectedAt": "2026-05-08"
-    },
-    {
-      "category": "ai",
-      "title": "Anthropic, Claude 사용자에게 SpaceX 슈퍼컴퓨터 활용",
-      "summary": "Anthropic은 Claude 사용자에게 더 넓은 작업 공간을 제공하기 위해 SpaceX의 슈퍼컴퓨터를 활용하고 있다.",
-      "summary_full": "Anthropic은 AI 모델인 Claude의 사용자들에게 더 넓은 작업 공간을 제공하기 위해 SpaceX의 슈퍼컴퓨터를 활용하고 있다. SpaceX의 고성능 컴퓨팅으로 더 빠른 작업 처리가 가능해진다.",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "SpaceX 슈퍼컴퓨터"
-      ],
-      "source": "Google News Anthropic",
-      "date": "5월 6일",
-      "publishedAt": "2026-05-06T23:12:07.000Z",
-      "url": "https://news.google.com/",
-      "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "frontend",
-      "title": "구글의 프롬프트 API",
-      "summary": "구글이 크롬 사용자에게 Gemini Nano를 자동으로 전송하고 있다.",
-      "summary_full": "구글이 크롬 사용자에게 Gemini Nano라는 4GB 전송 파일을 허가 없이 자동으로 배포하고 있다. 사용자가 이를 제거하면 크롬이 다시 다운로드한다.",
-      "keywords": [
-        "구글",
-        "크롬",
-        "Gemini Nano"
-      ],
-      "source": "css-tricks.com",
-      "date": "5월 6일",
-      "publishedAt": "2026-05-06T19:41:29.000Z",
-      "url": "https://css-tricks.com/googles-prompt-api/",
-      "collectedAt": "2026-05-07"
     },
     {
       "category": "ai",
@@ -4658,70 +4642,6 @@
       "collectedAt": "2026-05-13"
     },
     {
-      "category": "industry",
-      "title": "클라우드 빅3, 1분기 실적 분석",
-      "summary": "이번 주간 리포트에서는 클라우드 빅3의 1분기 실적을 다루고 있습니다.",
-      "summary_full": "바이라인 주간 프리미엄 트렌드 리포트에서는 클라우드 빅3의 1분기 실적을 심층 분석합니다. 다양한 IT 분야의 핫토픽과 이슈를 다루고 있습니다.",
-      "keywords": [
-        "클라우드",
-        "1분기 실적",
-        "IT 이슈"
-      ],
-      "source": "바이라인네트워크",
-      "date": "5월 6일",
-      "publishedAt": "2026-05-06T04:53:22.000Z",
-      "url": "https://byline.network/2026/05/6-382/",
-      "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "ai",
-      "title": "챗GPT 미래 인재 2026학번 소개",
-      "summary": "챗GPT 미래 인재 2026학번은 AI를 활용해 실제 세계에 영향을 미치는 혁신적인 학생들입니다.",
-      "summary_full": "챗GPT 미래 인재 2026학번은 26명의 학생 혁신가들로 구성되어 있습니다. 이들은 AI를 통해 연구하고 실제 세계에 긍정적인 영향을 미치고 있습니다.",
-      "keywords": [
-        "챗GPT",
-        "학생 혁신가",
-        "AI 활용"
-      ],
-      "source": "OpenAI News",
-      "date": "5월 6일",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "ai",
-      "title": "AI 공동 임상의 도입으로 혁신하는 헬스케어 모델",
-      "summary": "AI를 활용한 의료 서비스의 발전 경로를 연구한다.",
-      "summary_full": "AI를 활용한 헬스케어의 발전 경로를 탐구하고 있다. AI 공동 임상의 개발을 통해 의료 서비스의 질을 향상시키고 환자 치료를 지원하는 새로운 모델을 제안한다.",
-      "keywords": [
-        "AI",
-        "헬스케어",
-        "공동 임상"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T12:14:15.000Z",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "collectedAt": "2026-05-07"
-    },
-    {
-      "category": "ai",
-      "title": "클로드에게 개인적인 조언을 요청하는 방법",
-      "summary": "사람들이 클로드에게 개인적인 조언을 요청하는 방식에 대해 다룬다.",
-      "summary_full": "클로드는 개인적인 조언을 제공하는 AI로, 사용자들은 다양한 방법으로 그의 도움을 요청한다. AI와의 소통이 개인화된 조언을 어떻게 변화시키고 있는지에 대한 통찰을 제공한다.",
-      "keywords": [
-        "클로드",
-        "개인적 조언",
-        "사회적 영향"
-      ],
-      "source": "Anthropic Research",
-      "date": "4월 30일",
-      "publishedAt": "2026-04-30T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/claude-personal-guidance",
-      "collectedAt": "2026-05-07"
-    },
-    {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
       "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 지원합니다. 또한 Le Chat에서 복잡한 작업을 위한 새로운 작업 모드를 추가했습니다.",
@@ -4740,18 +4660,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
-      "summary_full": "웹사이트 제작에서 접근성은 매우 중요하다. 이 글은 디자이너들이 웹사이트를 개선하기 위해 고려해야 할 사항들을 제안한다. 저자는 디자이너들이 좋은 사람이라는 점을 강조하며, 그들의 역할에 대한 개인적인 견해를 공유한다. 이 글은 디자이너들에게 실질적인 과제를 제공하여 웹사이트의 품질을 높이려는 목적을 가지고 있다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 고려해야 할 과제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 모든 디자이너가 이를 염두에 두어야 한다. 이 글은 디자이너들에게 혁신적인 통찰력을 제공하는 다른 A List Apart 기사들과는 달리, 실질적인 과제를 제안한다. 디자이너들은 좋은 사람들로, 그들의 의도가 중요하다는 점을 강조하고 있다. 개인적인 의견이지만, 이러한 접근이 웹사이트의 품질을 높이는 데 기여할 것이라고 믿는다.",
       "keywords": [
-        "디자인",
         "접근성",
-        "웹사이트 개선"
+        "웹사이트",
+        "디자인"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "frontend",
@@ -4772,8 +4692,8 @@
     {
       "category": "ai",
       "title": "엑셈, LLM 운영 플랫폼 '엑셈블' 출시",
-      "summary": "엑셈이 LLM 운영 플랫폼인 '엑셈블'을 출시했다. 이 플랫폼은 AI 밸류 체인을 완성하는 데 기여할 것으로 기대된다.",
-      "summary_full": "엑셈이 새로운 LLM 운영 플랫폼인 '엑셈블'을 출시했다. 이 플랫폼은 AI 기술의 전체 가치 사슬을 통합하여 제공할 예정이다. 이를 통해 기업들이 AI 솔루션을 보다 효율적으로 운영할 수 있을 것으로 보인다. 엑셈은 이 플랫폼을 통해 AI 분야에서의 경쟁력을 강화할 계획이다.",
+      "summary": "엑셈이 LLM 운영 플랫폼인 '엑셈블'을 출시했다. 이를 통해 AI 밸류 체인을 완성했다.",
+      "summary_full": "엑셈이 새로운 LLM 운영 플랫폼 '엑셈블'을 출시하였다. 이 플랫폼은 AI 기술의 통합적 운영을 지원하며, 기업의 AI 활용을 극대화하는 데 기여할 예정이다. '엑셈블'은 AI 밸류 체인의 모든 단계를 아우르는 솔루션으로 자리매김할 계획이다. 이를 통해 엑셈은 AI 시장에서의 경쟁력을 더욱 강화할 것으로 기대된다.",
       "keywords": [
         "엑셈",
         "LLM 운영 플랫폼",
@@ -4783,7 +4703,7 @@
       "date": "4월 20일",
       "publishedAt": "2026-04-20T18:54:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBEUGZhQlp5SlJLUzl6YmtTSlAwNUNyS1BCWE5XZGk5ZHdZb0s2OGxVOFdza01Yck41R0ZsdzNSMA?oc=5",
-      "collectedAt": "2026-06-06"
+      "collectedAt": "2026-06-07"
     },
     {
       "category": "design",
