@@ -1,7 +1,199 @@
 {
-  "updated": "2026년 6월 12일 AM 03:51",
-  "count": 301,
+  "updated": "2026년 6월 13일 AM 03:36",
+  "count": 300,
   "articles": [
+    {
+      "category": "industry",
+      "title": "프로덕트 디자이너가 던져야 할 질문",
+      "summary": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기에서 디자인의 본질을 탐구한다. 디자이너들이 60점을 넘는 제품을 만들기 위해 고려해야 할 질문들을 제시한다.",
+      "summary_full": "오늘의집 프로덕트 디자인팀은 AI Frontier 시리즈의 두 번째 이야기에서 디자인의 새로운 패러다임을 제안한다. 누구나 쉽게 60점을 만드는 시대에, 진정한 가치를 창출하기 위해 프로덕트 디자이너가 던져야 할 질문들을 탐구한다. 이 과정에서 디자인의 깊이와 의미를 되새기고, 혁신적인 접근 방식을 모색한다. 디자이너들이 직면한 도전과 기회를 조명하며, 더 나은 제품을 위한 방향성을 제시한다.",
+      "keywords": [
+        "프로덕트 디자인",
+        "AI Frontier",
+        "디자인 질문"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "6월 13일",
+      "publishedAt": "2026-06-13T03:35:10.746Z",
+      "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "design",
+      "title": "Fable 5로 1인칭 우주선 게임 제작하기",
+      "summary": "Fable 5를 활용하여 1인칭 우주선 게임을 만드는 방법을 소개한다. 이 과정에서 필요한 기술과 디자인 요소를 설명한다.",
+      "summary_full": "Fable 5를 사용하여 1인칭 우주선 게임을 개발하는 방법을 다룬다. 게임 제작에 필요한 기본적인 기술과 디자인 요소를 단계별로 설명한다. 또한, 게임의 비주얼과 인터페이스 디자인에 대한 팁도 제공한다. 이 튜토리얼은 초보자와 경험자 모두에게 유용하다.",
+      "keywords": [
+        "Fable 5",
+        "1인칭 게임",
+        "우주선 게임"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 13일",
+      "publishedAt": "2026-06-13T03:35:06.246Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-770/",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "frontend",
+      "title": "AI 거버넌스, 스페이스X 자본 시장, Web3 규제의 전환점",
+      "summary": "미국 정부가 Anthropic의 Claude 모델을 회수하라는 지시를 내린 것은 AI 산업에 중대한 영향을 미칠 수 있는 사건이다. 이는 국가가 AI 모델을 회수하는 첫 사례로 기록될 가능성이 있다.",
+      "summary_full": "미국 정부의 Anthropic Claude 모델 회수 지시는 AI 산업에서 중요한 전환점을 나타낸다. 이는 AI 거버넌스와 관련된 법적 기준을 새롭게 설정할 수 있는 기회가 될 수 있다. 만약 이 조치가 확정된다면, 이는 국가가 AI 기술에 대한 통제를 행사한 첫 번째 사례로 기록될 것이다. 이러한 변화는 향후 AI 규제 및 관리 방식에 큰 영향을 미칠 것으로 예상된다.",
+      "keywords": [
+        "AI 거버넌스",
+        "스페이스X",
+        "Web3 규제"
+      ],
+      "source": "dev.to",
+      "date": "6월 13일",
+      "publishedAt": "2026-06-13T03:27:56.000Z",
+      "url": "https://dev.to/chantpulse/ai-governance-spacex-capital-markets-and-the-web3-regulatory-reckoning-three-inflection-points-4db0",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "trend",
+      "title": "앤트로픽, 미국 정부 명령에 따라 클로드 파블 5 오프라인 전환",
+      "summary": "앤트로픽은 미국 정부의 명령에 따라 클로드 파블 5를 오프라인으로 전환한다고 발표했다. 정부는 파블 5를 우회하는 방법이 발견되었다고 주장하고 있다.",
+      "summary_full": "앤트로픽은 블로그 게시물을 통해 클로드 파블 5를 오프라인으로 전환한다고 밝혔다. 이는 미국 정부의 명령에 따른 조치이다. 정부는 파블 5를 '탈옥'할 수 있는 방법이 발견되었다고 주장하고 있다. 이에 따라 안전성을 확보하기 위한 조치로 보인다.",
+      "keywords": [
+        "앤트로픽",
+        "클로드 파블 5",
+        "미국 정부"
+      ],
+      "source": "wired.com",
+      "date": "6월 13일",
+      "publishedAt": "2026-06-13T02:26:10.000Z",
+      "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "industry",
+      "title": "텍사스 주민 80명, 스페이스X에 소송 제기",
+      "summary": "텍사스의 스페이스X 스타베이스 시설 인근 주민들이 로켓 발사가 집을 파괴하고 있다며 소송을 제기했다. 이들은 스페이스X의 과실과 불법 침입을 주장하고 있다.",
+      "summary_full": "남부 텍사스의 스페이스X 스타베이스 시설 근처에 사는 80명의 주민들이 로켓 발사가 그들의 집을 물리적으로 파괴하고 있다고 주장하며 집단 소송을 제기했다. 이 소송은 1984년 상업 우주 발사법에 근거하여 스페이스X의 과실, 중과실 및 불법 침입을 고발하고 있다. 한 원고는 로이터에 자신의 집을 보여주며 피해 상황을 설명했다. 주민들은 스페이스X의 지속적인 로켓 발사가 그들의 삶에 미치는 영향을 호소하고 있다.",
+      "keywords": [
+        "스페이스X",
+        "소송",
+        "로켓 발사"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T20:31:33.000Z",
+      "url": "https://thenextweb.com/news/spacex-starbase-class-action-homes-damaged-launches",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "trend",
+      "title": "UI 디자인이란 무엇인가? 초보자를 위한 솔직한 가이드",
+      "summary": "UI 디자인은 버튼 하나하나에 담긴 색상, 크기, 간격, 반응 방식을 포함한 사용자 인터페이스 설계이다. UI 디자인을 이해하는 것은 이 분야에 대한 감사를 느끼거나 경력을 쌓기 위한 첫걸음이다.",
+      "summary_full": "UI 디자인은 사용자 인터페이스의 시각적 요소를 설계하는 과정으로, 사용자가 앱이나 웹사이트를 사용할 때 경험하는 모든 요소를 포함한다. 버튼의 색상, 크기, 간격, 반응 방식 등 세심한 고려가 필요하다. UI 디자인을 이해하는 것은 이 분야에 대한 감사를 느끼거나 경력을 쌓기 위한 첫걸음이다. 따라서 UI 디자인의 기본 개념을 이해하는 것이 중요하다.",
+      "keywords": [
+        "UI 디자인",
+        "사용자 인터페이스",
+        "디자인 가이드"
+      ],
+      "source": "dev.to",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T20:29:36.000Z",
+      "url": "https://dev.to/ilyas_elaissi/what-is-ui-design-the-honest-beginners-guide-to-how-it-works-opg",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "ai",
+      "title": "olmo-eval: 모델 개발 루프를 위한 평가 작업대",
+      "summary": "olmo-eval은 모델 개발 과정에서 평가를 지원하는 도구이다. 이 작업대는 모델의 성능을 체계적으로 분석하고 개선하는 데 도움을 준다.",
+      "summary_full": "olmo-eval은 모델 개발 루프에서 평가를 수행하기 위한 작업대이다. 이 도구는 다양한 평가 지표를 제공하여 모델의 성능을 정량적으로 분석할 수 있게 한다. 사용자는 이를 통해 모델 개선을 위한 인사이트를 얻을 수 있다. 또한, olmo-eval은 사용자 친화적인 인터페이스를 통해 쉽게 접근할 수 있도록 설계되었다.",
+      "keywords": [
+        "모델 개발",
+        "평가 도구",
+        "성능 분석"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T15:56:10.000Z",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic의 Claude Fable 5 출시 임박, Mythos 위기 다시 주목받다",
+      "summary": "Anthropic의 새로운 AI 모델 Claude Fable 5의 출시가 가까워지면서 Mythos 위기에 대한 관심이 다시 높아지고 있다.",
+      "summary_full": "Anthropic이 새로운 AI 모델인 Claude Fable 5의 출시를 앞두고 있다. 이로 인해 Mythos 위기에 대한 논의가 재조명되고 있으며, 업계의 관심이 집중되고 있다. Claude Fable 5는 AI 기술의 발전을 보여주는 중요한 사례로 평가받고 있다. 이러한 변화는 AI와 관련된 다양한 이슈를 다시 한번 부각시키고 있다.",
+      "keywords": [
+        "Claude Fable 5",
+        "Anthropic",
+        "Mythos 위기"
+      ],
+      "source": "Google News Anthropic",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T15:34:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcHRVZmgyZi1DczltYzNFazh3aDRVZ0NYQlJxTlE1SlBRVjFoQWh5TW5YdFdhVmFuekt6NEVkS0REYW9fYlM1UVNXbjVGSUFTUGgzR0FDVkZyQ1JGVVlOb2pKMWhaeEN1M2ZXQ1JJU0NfLTdtQXdYbDFoRWpPdUVhOUE5VWVTT1BmR1d4Q1UzVjdqZ0hBdzRjLV96TGlvRTMyUjRNOElZWXZHalhJS1JrUE40bnpMRkNYTXp0azUyOU9fTUlIWEROeTdpN2xIZk5ydTkzSHZWVm1kNHl0MnNZTmVKSHhNQndCcndwWW1YdXVTd1Qz?oc=5",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "frontend",
+      "title": "3D 뷰 전환이 작동하지 않는 이유",
+      "summary": "3D 전환이 두 페이지 간에 제대로 작동하지 않는 이유를 설명합니다. 브라우저가 먼저 요소를 평면화해야 한다는 점이 핵심입니다.",
+      "summary_full": "3D 전환이 두 페이지 간에 원활하게 작동하지 않는 문제를 다룹니다. 특히 이미지 요소가 브라우저의 스냅샷과 유사하게 작동하는 방식을 예로 들고 있습니다. 뷰 전환을 시도할 때 브라우저가 요소를 평면화하는 과정이 필요하다는 점을 강조합니다. 이로 인해 3D 전환이 기대한 대로 작동하지 않을 수 있습니다.",
+      "keywords": [
+        "3D 전환",
+        "뷰 전환",
+        "브라우저 문제"
+      ],
+      "source": "css-tricks.com",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T15:09:00.000Z",
+      "url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "ai",
+      "title": "새로운 OpenAI 아카데미 과정: 다음 시대의 일에 대비하기",
+      "summary": "OpenAI가 실용적인 AI 기술을 개발하고 반복 가능한 작업 흐름을 만드는 데 도움을 주는 세 가지 아카데미 과정을 소개합니다. 이 과정들은 일상 업무에 에이전트를 적용하는 방법을 안내합니다.",
+      "summary_full": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고 반복 가능한 작업 흐름을 만들 수 있도록 돕는 세 가지 아카데미 과정을 새롭게 소개합니다. 이 과정들은 AI를 활용하여 업무의 효율성을 높이는 방법을 제시합니다. 또한, 참가자들은 일상 업무에 AI 에이전트를 적용하는 방법을 배울 수 있습니다. 이러한 교육은 다음 시대의 일에 대비할 수 있는 중요한 기회를 제공합니다.",
+      "keywords": [
+        "OpenAI",
+        "AI 기술",
+        "아카데미 과정"
+      ],
+      "source": "OpenAI News",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "industry",
+      "title": "카스퍼스키, AI·인프라 보안으로 한국 B2B 시장 공략",
+      "summary": "카스퍼스키가 AI 기반 보안 솔루션으로 한국 B2B 시장을 강화한다. 2025년 글로벌 실적과 아태 지역 사업 전략을 발표했다.",
+      "summary_full": "카스퍼스키는 AI 기반 보안 솔루션과 파트너 생태계를 통해 한국 B2B 시장을 공략할 계획이다. 12일 서울에서 기자간담회를 열고 2025년 글로벌 실적과 아태 지역 사업 전략을 공개했다. 한국 시장에 대한 구체적인 공략 방향도 제시했다. 이를 통해 아시아태평양 지역에서의 입지를 강화할 예정이다.",
+      "keywords": [
+        "카스퍼스키",
+        "AI 보안",
+        "B2B 시장"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T09:31:36.000Z",
+      "url": "https://byline.network/2026/06/12-612/",
+      "collectedAt": "2026-06-13"
+    },
+    {
+      "category": "design",
+      "title": "휴머노이드 로봇이 인류에 미치는 영향",
+      "summary": "휴머노이드 로봇의 발전이 인간과 기계의 경계를 모호하게 만들고 있다. 이는 심리적, 경제적, 존재론적 변화에 대한 새로운 도전을 제기한다.",
+      "summary_full": "과거 수십 년간 과학 소설은 '안드로이드 혁명'이 먼 미래의 환상이라고 여겨왔다. 그러나 현실은 빠르게 전개되고 있으며, 인간과 기계의 경계가 흐려지고 있다. 이러한 변화는 심리적, 경제적, 존재론적 측면에서 인류에게 중대한 영향을 미칠 것으로 예상된다. 최근 한 유튜브 영상을 보고 휴머노이드 로봇의 모습과 행동에 큰 충격을 받았다.",
+      "keywords": [
+        "휴머노이드 로봇",
+        "인류",
+        "기계와 인간의 경계"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T08:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+      "collectedAt": "2026-06-13"
+    },
     {
       "category": "frontend",
       "title": "자바스크립트 오류 처리 패턴: try-catch에서 타입 결과 및 Either 모나드까지",
@@ -83,6 +275,22 @@
       "collectedAt": "2026-06-12"
     },
     {
+      "category": "figma",
+      "title": "Figma 커뮤니티 프로필 새단장",
+      "summary": "Figma 커뮤니티 프로필이 새롭게 단장되어 자신을 더 잘 보여줄 수 있게 되었습니다. 역할, 경험, 기술 스택 및 개인 맞춤 FigPal을 추가할 수 있습니다.",
+      "summary_full": "Figma 커뮤니티 프로필이 새롭게 업데이트되어 사용자가 자신의 정체성과 작업 과정을 더 효과적으로 표현할 수 있게 되었습니다. 이제 사용자는 자신의 역할, 경력, 기술 스택을 명시할 수 있으며, 개인 맞춤형 FigPal을 추가하여 프로필을 더욱 풍부하게 만들 수 있습니다. 이러한 변화는 사용자들이 자신의 전문성을 강조하고, 서로의 작업을 더 잘 이해할 수 있도록 돕습니다. Figma의 커뮤니티는 이제 더 많은 창의성과 협업을 촉진할 수 있는 플랫폼으로 발전하고 있습니다.",
+      "keywords": [
+        "Figma",
+        "커뮤니티 프로필",
+        "디자인"
+      ],
+      "source": "Figma Release Notes",
+      "date": "6월 12일",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-06-13"
+    },
+    {
       "category": "industry",
       "title": "앤트로픽, 비영리단체에 1,000명의 AI 펠로우 배치 위해 1억 5천만 달러 투자",
       "summary": "앤트로픽이 미국 전역의 비영리단체에 1,000명의 AI 펠로우를 배치하기 위해 1억 5천만 달러를 기부한다. 이 프로그램은 학위가 필요 없는 초기 경력 근로자에게 연간 8만 5천 달러의 급여와 복리후생을 제공한다.",
@@ -100,19 +308,19 @@
     },
     {
       "category": "industry",
-      "title": "우리는 클릭을 멈췄고, AI가 인터넷이 되었다",
-      "summary": "AI의 발전으로 인해 인터넷이 인간의 것이 아닌 봇의 지배를 받게 되었다. 이는 우리가 인터넷의 변화를 인식하지 못하게 만들었다.",
-      "summary_full": "AI의 발전과 봇의 증가로 인해 2026년에는 웹 트래픽의 절반 이상이 인간이 아닌 봇에 의해 생성될 예정이다. 이는 인터넷의 본질이 변화하고 있음을 시사하며, 많은 사람들이 이러한 변화를 인식하지 못하고 있다. 1990년대 초반, 사용자는 명령어를 입력하고 정보를 즉시 얻었지만, 현재는 그 과정이 사라지고 있다. 결국, 우리는 인터넷의 소유권을 잃어버린 것일지도 모른다.",
+      "title": "우리가 클릭을 멈추고, AI가 인터넷이 되었다",
+      "summary": "편리함과 인터넷의 침식에 대한 이야기. 2026년에는 웹 트래픽의 절반 이상이 인간이 아닌 봇에 의해 생성될 것이다.",
+      "summary_full": "인터넷은 죽어가고 있지 않지만, 우리는 인터넷이 더 이상 우리의 것이 아닐 때를 인식하지 못했다. 1990년대 초반, 명령어를 입력하고 엔터를 누르면 정보가 나타났다. 그러나 이제는 봇이 대부분의 트래픽을 차지하게 되었다. 이는 인터넷의 본질적인 변화와 우리의 무관심을 드러낸다.",
       "keywords": [
         "AI",
         "인터넷",
-        "봇"
+        "웹 트래픽"
       ],
       "source": "uxdesign.cc",
       "date": "6월 11일",
       "publishedAt": "2026-06-11T21:46:16.000Z",
       "url": "https://uxdesign.cc/we-stopped-clicking-and-ai-became-the-internet-df61a0c79d91?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-06-12"
+      "collectedAt": "2026-06-13"
     },
     {
       "category": "ai",
@@ -197,22 +405,6 @@
       "collectedAt": "2026-06-11"
     },
     {
-      "category": "figma",
-      "title": "Figma 크롬 확장으로 웹사이트를 캔버스에 구조화된 레이어로 가져오기",
-      "summary": "이제 Figma 크롬 확장을 통해 웹사이트를 구조화된 레이어로 캔버스에 가져올 수 있습니다. 전체 페이지나 선택한 요소를 복사하여 Figma에 붙여넣고 디자인을 참조하거나 수정할 수 있습니다.",
-      "summary_full": "Figma 크롬 확장을 사용하면 웹사이트를 구조화된 레이어로 캔버스에 가져올 수 있습니다. 사용자는 전체 페이지 또는 선택한 요소를 복사하여 Figma에 붙여넣을 수 있으며, 코딩 에이전트 없이 디자인을 수정할 수 있습니다. 디자인 시스템을 활용한 디자인 생성 기능도 곧 제공될 예정입니다. 시작하려면 확장을 설치하고 Figma 계정으로 로그인하면 됩니다.",
-      "keywords": [
-        "Figma",
-        "크롬 확장",
-        "웹사이트 디자인"
-      ],
-      "source": "Figma Release Notes",
-      "date": "6월 11일",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-12"
-    },
-    {
       "category": "ai",
       "title": "천체물리학자가 코덱스를 활용해 블랙홀 시뮬레이션을 만드는 방법",
       "summary": "천체물리학자 치관 찬은 코덱스를 이용해 블랙홀 시뮬레이션을 구축한다. 이를 통해 과학자들은 극한 물리학을 연구하고 아인슈타인의 일반 상대성 이론을 검증할 수 있다.",
@@ -295,8 +487,8 @@
     {
       "category": "ai",
       "title": "DiffusionGemma: 4배 빠른 텍스트 생성",
-      "summary": "DiffusionGemma는 텍스트 생성 속도를 4배 향상시킨 기술이다. 이 기술은 효율적인 데이터 처리로 빠른 결과를 제공한다.",
-      "summary_full": "DiffusionGemma는 텍스트 생성 속도를 4배 향상시킨 혁신적인 시스템이다. 이 기술은 고급 알고리즘을 사용하여 데이터 처리의 효율성을 극대화한다. 결과적으로, 사용자는 더 빠르고 정확한 텍스트 생성을 경험할 수 있다. 이는 다양한 응용 프로그램에서 유용하게 활용될 수 있다.",
+      "summary": "DiffusionGemma는 텍스트 생성 속도를 4배 향상시킵니다. 이 기술은 효율적인 텍스트 생성 방법을 제시합니다.",
+      "summary_full": "DiffusionGemma는 최신 기술을 활용하여 텍스트 생성 속도를 4배 향상시킵니다. 이 시스템은 기존의 텍스트 생성 방식보다 더 빠르고 효율적인 결과를 제공합니다. 이를 통해 사용자들은 더 짧은 시간 안에 원하는 텍스트를 생성할 수 있습니다. DiffusionGemma는 텍스트 생성의 새로운 가능성을 열어줍니다.",
       "keywords": [
         "DiffusionGemma",
         "텍스트 생성",
@@ -306,7 +498,7 @@
       "date": "6월 10일",
       "publishedAt": "2026-06-10T16:24:11.000Z",
       "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "collectedAt": "2026-06-12"
+      "collectedAt": "2026-06-13"
     },
     {
       "category": "ai",
@@ -486,22 +678,6 @@
     },
     {
       "category": "ai",
-      "title": "Anthropic의 Claude Fable 5 출시 임박, Mythos 위기 다시 부각",
-      "summary": "Anthropic의 새로운 AI 모델 Claude Fable 5의 출시가 임박하면서 Mythos의 위기가 다시 주목받고 있다. 이로 인해 AI 기술의 경쟁이 더욱 치열해질 전망이다.",
-      "summary_full": "Anthropic이 새로운 AI 모델인 Claude Fable 5를 곧 출시할 예정이다. 이로 인해 Mythos의 위기가 다시 부각되고 있으며, AI 기술의 발전과 경쟁이 심화될 것으로 예상된다. Claude Fable 5는 이전 모델들보다 더 향상된 기능을 제공할 것으로 기대된다. 이러한 변화는 AI 산업 전반에 큰 영향을 미칠 수 있다.",
-      "keywords": [
-        "Claude Fable 5",
-        "Anthropic",
-        "AI 기술"
-      ],
-      "source": "Google News Anthropic",
-      "date": "6월 9일",
-      "publishedAt": "2026-06-09T15:40:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcHRVZmgyZi1DczltYzNFazh3aDRVZ0NYQlJxTlE1SlBRVjFoQWh5TW5YdFdhVmFuekt6NEVkS0REYW9fYlM1UVNXbjVGSUFTUGgzR0FDVkZyQ1JGVVlOb2pKMWhaeEN1M2ZXQ1JJU0NfLTdtQXdYbDFoRWpPdUVhOUE5VWVTT1BmR1d4Q1UzVjdqZ0hBdzRjLV96TGlvRTMyUjRNOElZWXZHalhJS1JrUE40bnpMRkNYTXp0azUyOU9fTUlIWEROeTdpN2xIZk5ydTkzSHZWVm1kNHl0MnNZTmVKSHhNQndCcndwWW1YdXVTd1Qz?oc=5",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "ai",
       "title": "자연스러운 음성 번역, Gemini 3.5 라이브 번역",
       "summary": "Gemini 3.5 라이브 번역은 구글 AI 스튜디오, 구글 번역, 구글 미트에서 거의 실시간으로 자연스러운 음성 번역을 제공합니다.",
       "summary_full": "Gemini 3.5 라이브 번역은 구글의 최신 기술로, 사용자가 자연스럽게 대화할 수 있도록 지원합니다. 이 기능은 특히 다국적 회의나 소통이 필요한 상황에서 유용합니다. 구글 AI 스튜디오와 통합되어 있어 다양한 플랫폼에서 활용할 수 있습니다. 실시간 번역을 통해 언어 장벽을 허물고, 더 원활한 소통을 가능하게 합니다.",
@@ -554,7 +730,7 @@
       "category": "ai",
       "title": "와탭랩스, LLM 옵저버빌리티 출시",
       "summary": "와탭랩스가 AI 운영비와 성능을 통합 분석할 수 있는 LLM 옵저버빌리티를 출시했다. 이 솔루션은 AI 시스템의 효율성을 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "와탭랩스가 새로운 LLM 옵저버빌리티 솔루션을 출시했다. 이 솔루션은 AI 운영비와 성능을 통합 분석하여 효율적인 운영을 지원한다. 이를 통해 기업들은 AI 시스템의 성능을 최적화할 수 있을 것으로 보인다. 와탭랩스는 이 기술이 AI 운영의 혁신을 가져올 것이라고 강조하고 있다.",
+      "summary_full": "와탭랩스가 새로운 LLM 옵저버빌리티 솔루션을 출시했다. 이 솔루션은 AI 운영비와 성능을 통합 분석하여 운영 효율성을 향상시키는 데 중점을 두고 있다. 기업들은 이를 통해 AI 시스템의 성능을 더욱 효과적으로 관리할 수 있을 것으로 보인다. 또한, AI 기술의 발전에 따라 운영비 절감에도 기여할 것으로 예상된다.",
       "keywords": [
         "와탭랩스",
         "LLM 옵저버빌리티",
@@ -564,7 +740,7 @@
       "date": "6월 9일",
       "publishedAt": "2026-06-09T05:56:28.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMFJJS2lXajZuNVp2ZTA1V2l5SEI3T0QtaUUxSEQxVTBjVWg1a21GUGJsSEFZY09uWlk4U2xBMFdjMU1pSkZpYUlwSDdiTGp0SV9fYjJXVHItd2fSAWBBVV95cUxOYUxMQ05PUnN5LVdlSmVMX1VVS1lvdzAwWjVRTWVsVG1WeURDQlhkQjQtencwWUlFUzh1cDVLQ2tSWlNVWHU5NElkUFY3RWRIYlMzME5Oc1RrbE9MLWZrOHU?oc=5",
-      "collectedAt": "2026-06-12"
+      "collectedAt": "2026-06-13"
     },
     {
       "category": "ai",
@@ -793,24 +969,24 @@
     {
       "category": "frontend",
       "title": "Skill 품질 관리를 위한 Rubric 설계와 시스템 구현",
-      "summary": "토스 AI DX Team의 조민규가 개발한 Skill의 품질 문제를 해결하기 위한 Rubric 설계와 시스템 구현에 대해 설명한다.",
-      "summary_full": "토스 AI DX Team의 Server Developer 조민규는 개발자 도구로서의 Skill 품질 문제를 인식하고 이를 해결하기 위한 시스템을 설계하고 구현하고 있다. 많은 Skill이 만들어지고 공유되지만, 실제로 호출되지 않는 경우가 많아 품질 문제가 발생하고 있다. 이를 해결하기 위해 Rubric을 통해 Skill의 품질을 관리하고자 한다.",
+      "summary": "토스 AI DX Team의 조민규가 Skill 품질 문제를 해결하기 위한 Rubric 설계와 시스템 구현을 다룹니다. 개발 단계에서 유용한 Skill의 품질을 높이기 위한 접근 방식을 제안합니다.",
+      "summary_full": "토스 AI DX Team의 Server Developer 조민규가 Skill 품질 문제를 인식하고 이를 해결하기 위한 Rubric 설계와 시스템 구현을 소개합니다. Skill은 개발자가 코딩 에이전트로 사용할 수 있는 도구로, 내부에서 많은 Skill이 공유되고 있지만 품질 문제가 발생하고 있습니다. 이 문제를 해결하기 위해 다양한 사용 사례와 트리거 키워드를 설정했음에도 불구하고 호출되지 않는 경우가 많았습니다. 따라서 Skill의 품질을 높이는 방안이 필요하다는 점을 강조합니다.",
       "keywords": [
-        "Skill",
-        "품질 관리",
-        "Rubric"
+        "Skill 품질",
+        "Rubric 설계",
+        "시스템 구현"
       ],
       "source": "toss.tech",
       "date": "6월 8일",
       "publishedAt": "2026-06-08T01:00:00.000Z",
       "url": "https://toss.tech/article/skill-quality-rubric",
-      "collectedAt": "2026-06-12"
+      "collectedAt": "2026-06-13"
     },
     {
       "category": "ai",
-      "title": "생물학의 에이전트를 위한 길을 열다",
-      "summary": "이 연구는 생물학적 에이전트의 개발을 위한 새로운 접근법을 제시한다. 이를 통해 생물학적 시스템의 이해와 활용이 증진될 것으로 기대된다.",
-      "summary_full": "이 연구는 생물학적 에이전트의 개발을 위한 새로운 접근법을 제시한다. 이러한 접근법은 생물학적 시스템의 복잡성을 해결하는 데 기여할 수 있다. 연구자들은 이 기술이 다양한 생물학적 응용 분야에서 활용될 수 있을 것으로 보고 있다. 결과적으로, 생물학적 에이전트의 발전은 생명과학 연구에 중요한 영향을 미칠 것으로 예상된다.",
+      "title": "생물학에서의 에이전트 개발",
+      "summary": "이 연구는 생물학적 에이전트를 위한 새로운 길을 열고 있다. 다양한 생물학적 시스템에서 에이전트의 적용 가능성을 탐구한다.",
+      "summary_full": "이 연구는 생물학적 에이전트의 개발을 위한 혁신적인 접근 방식을 제시한다. 에이전트는 생물학적 시스템에서 중요한 역할을 할 수 있으며, 이를 통해 새로운 연구 방향이 열릴 것으로 기대된다. 연구팀은 다양한 생물학적 환경에서 에이전트를 실험하고 그 효과를 분석하고 있다. 이러한 연구는 생물학적 에이전트의 응용 가능성을 넓히고, 미래의 생명과학 연구에 기여할 것이다.",
       "keywords": [
         "생물학",
         "에이전트",
@@ -820,7 +996,7 @@
       "date": "6월 8일",
       "publishedAt": "2026-06-08T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/agents-in-biology",
-      "collectedAt": "2026-06-12"
+      "collectedAt": "2026-06-13"
     },
     {
       "category": "ai",
@@ -3215,19 +3391,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, AI 원주율 산업 가속화를 위해 미스트랄에 합류",
-      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업의 발전을 가속화한다. 이 협업은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄에 합류하여 AI 원주율 산업을 가속화하는 데 기여한다. 이 파트너십은 AI 기술의 발전과 혁신을 목표로 하고 있다. 두 회사는 협력을 통해 새로운 솔루션과 서비스를 개발할 예정이다. 이러한 노력은 AI 산업의 성장에 긍정적인 영향을 미칠 것이다.",
+      "title": "엠미, 미스트랄과 함께 AI 네이티브 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 협업은 AI 기술의 혁신과 응용을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 파트너십을 맺고 AI 네이티브 산업의 성장을 가속화하기로 했다. 이번 협력은 AI 기술의 혁신을 촉진하고, 다양한 산업 분야에서의 응용 가능성을 높이는 데 중점을 둔다. 두 회사는 AI 솔루션의 개발과 상용화를 통해 시장에서의 경쟁력을 강화할 계획이다. 이로 인해 AI 기술이 더욱 빠르게 발전하고, 산업 전반에 긍정적인 영향을 미칠 것으로 예상된다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 산업"
+        "AI 네이티브 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-12"
+      "collectedAt": "2026-06-13"
     },
     {
       "category": "ai",
@@ -4486,166 +4662,6 @@
       "collectedAt": "2026-05-14"
     },
     {
-      "category": "design",
-      "title": "ChatGPT에서 아이콘.svg 만들기",
-      "summary": "ChatGPT를 활용하여 아이콘 파일을 생성하는 방법을 소개한다. 이 과정에서는 SVG 형식의 아이콘을 만드는 단계별 절차를 설명한다.",
-      "summary_full": "이 글에서는 ChatGPT를 사용하여 SVG 형식의 아이콘을 만드는 방법을 자세히 설명한다. 사용자는 필요한 디자인 요소를 입력하면 ChatGPT가 이를 기반으로 아이콘을 생성한다. 또한, 생성된 아이콘을 수정하고 활용하는 방법에 대해서도 안내한다. 이를 통해 사용자들은 손쉽게 자신만의 아이콘을 만들 수 있다.",
-      "keywords": [
-        "ChatGPT",
-        "아이콘 생성",
-        "SVG 파일"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 13일",
-      "publishedAt": "2026-05-13T10:01:31.332Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-748/",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "industry",
-      "title": "금융권 AI 확산…금보원, 안전성·신뢰성 평가 기준 만든다",
-      "summary": "금융권에서 AI의 활용이 확대되고 있으며, 금융보안원이 안전성 및 신뢰성 평가 기준을 마련한다. 7월부터 희망 금융회사를 대상으로 시범 평가를 실시할 예정이다.",
-      "summary_full": "금융권에서 인공지능(AI) 활용 범위가 고객 응대, 대출 심사, 결제 업무 등으로 넓어지고 있다. 이에 따라 금융보안원은 '금융 AI 안전성·신뢰성 평가 기준'을 마련하고, 7월부터 희망 금융회사를 대상으로 시범 평가를 진행할 계획이다. 이는 AI의 안전성과 신뢰성을 높이기 위한 노력으로 해석된다. 금융업계의 AI 도입이 가속화되는 가운데, 이러한 기준이 중요한 역할을 할 것으로 기대된다.",
-      "keywords": [
-        "금융권",
-        "AI",
-        "안전성 평가"
-      ],
-      "source": "바이라인네트워크",
-      "date": "5월 13일",
-      "publishedAt": "2026-05-13T10:01:06.000Z",
-      "url": "https://byline.network/2026/05/13-674/",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "frontend",
-      "title": "내가 개발한 개발자 도움 사이트에 대한 반응을 보고 싶어요",
-      "summary": "자신이 개발한 사이트 www.allfiletools.com에 대한 피드백을 요청하고 있습니다. 개선할 부분에 대한 친절한 조언을 부탁하고 있습니다.",
-      "summary_full": "개발자가 만든 도움 사이트에 대한 사용자 반응을 알고 싶어 합니다. 사이트 주소는 www.allfiletools.com입니다. 피드백을 통해 자신을 개선할 수 있는 부분을 찾고자 합니다. 사용자들의 솔직한 의견을 기다리고 있습니다.",
-      "keywords": [
-        "개발자 사이트",
-        "피드백 요청",
-        "웹사이트 개선"
-      ],
-      "source": "dev.to",
-      "date": "5월 13일",
-      "publishedAt": "2026-05-13T09:43:43.000Z",
-      "url": "https://dev.to/tech_innov_world/i-just-wanna-see-peoples-reaction-on-one-of-my-own-developed-dev-helping-site-3f6a",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "trend",
-      "title": "온 러닝 라이트스프레이 클라우드몬스터 3 하이퍼 리뷰",
-      "summary": "스웨덴 신발 제조사 온 러닝의 라이트스프레이 클라우드몬스터 3 하이퍼는 레이스가 없는 경량 슈퍼 슈즈입니다. 이 신발은 편안함과 성능을 동시에 제공합니다.",
-      "summary_full": "온 러닝의 라이트스프레이 클라우드몬스터 3 하이퍼는 레이스가 없는 디자인으로 편리함을 강조합니다. 이 신발은 경량 소재로 제작되어 뛰어난 성능을 자랑합니다. 또한, 혁신적인 기술이 적용되어 장시간 착용에도 편안함을 유지합니다. 슈퍼 슈즈로서의 기능을 갖춘 이 제품은 러너들에게 최적의 선택이 될 것입니다.",
-      "keywords": [
-        "온 러닝",
-        "클라우드몬스터 3",
-        "슈퍼 슈즈"
-      ],
-      "source": "wired.com",
-      "date": "5월 13일",
-      "publishedAt": "2026-05-13T09:30:00.000Z",
-      "url": "https://www.wired.com/review/on-running-lightspray-cloudmonster-3-hyper/",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "industry",
-      "title": "미토스, 도쿄로 간다: 일본 은행들이 앤트로픽의 취약점 탐지 AI를 도입하다",
-      "summary": "MUFG, 미즈호, SMFG가 앤트로픽의 제한된 프로젝트 글래스윙에 처음으로 추가된다. 이들 일본의 3대 메가뱅크는 약 2주 내에 앤트로픽의 취약점 탐지 AI 모델인 클로드 미토스에 접근할 예정이다.",
-      "summary_full": "MUFG, 미즈호, SMFG가 앤트로픽의 제한된 프로젝트 글래스윙에 처음으로 추가된다. 이들 일본의 3대 메가뱅크는 약 2주 내에 앤트로픽의 취약점 탐지 AI 모델인 클로드 미토스에 접근할 예정이다. 이 소식은 로이터에 의해 보도되었으며, 일본의 금융 기관들이 최신 AI 기술을 도입하는 첫 사례로 주목받고 있다. 앤트로픽의 AI는 보안 취약점을 탐지하는 데 중점을 두고 있다.",
-      "keywords": [
-        "앤트로픽",
-        "AI",
-        "일본은행"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 13일",
-      "publishedAt": "2026-05-13T09:25:30.000Z",
-      "url": "https://thenextweb.com/news/anthropic-mythos-japan-megabanks-access",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "trend",
-      "title": "주말 동안 Claude Code로 윈도우 색상 선택기를 만들고 출시했습니다. 무슨 일이 있었는지 알려드릴게요.",
-      "summary": "화면에서 색상을 쉽게 얻기 위해 윈도우 색상 선택기를 개발했습니다. 개발 배경이 없는 제가 문제 해결을 위해 도구를 활용했습니다.",
-      "summary_full": "화면에서 색상을 얻기 위해 DevTools나 Photoshop을 열어야 하는 불편함을 느꼈습니다. 그래서 이를 해결하기 위해 윈도우 색상 선택기를 만들기로 결심했습니다. 개발 경험이 없는 제가 Claude Code를 사용하여 앱을 개발했습니다. 아이디어를 통해 앱을 방향성 있게 발전시켰습니다.",
-      "keywords": [
-        "윈도우 색상 선택기",
-        "Claude Code",
-        "개발 경험 없음"
-      ],
-      "source": "dev.to",
-      "date": "5월 13일",
-      "publishedAt": "2026-05-13T08:17:50.000Z",
-      "url": "https://dev.to/alvarop/i-built-and-launched-a-windows-color-picker-in-a-weekend-using-claude-code-heres-what-happened-3g24",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "ai",
-      "title": "AI를 위한 팀 스포츠로 변모하는 코딩: Anthropic, Claude Code에 에이전트 뷰 추가",
-      "summary": "Anthropic이 Claude Code에 새로운 에이전트 뷰 기능을 추가하여 AI 코딩을 팀워크 중심으로 발전시키고 있다. 이는 AI와 인간의 협업을 강화하고, 효율적인 코딩 환경을 조성하는 데 기여할 것으로 기대된다.",
-      "summary_full": "Anthropic이 AI 코딩 환경을 개선하기 위해 Claude Code에 에이전트 뷰 기능을 도입했다. 이 새로운 기능은 AI와 인간 개발자 간의 협업을 촉진하여 코딩을 팀 스포츠처럼 만들고 있다. 이를 통해 개발자들은 더 나은 결과를 도출할 수 있을 것으로 보인다. AI의 역할이 점점 더 중요해짐에 따라, 이러한 변화는 코딩의 미래에 큰 영향을 미칠 것으로 예상된다.",
-      "keywords": [
-        "AI",
-        "코딩",
-        "협업"
-      ],
-      "source": "Google News Anthropic",
-      "date": "5월 13일",
-      "publishedAt": "2026-05-13T04:38:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjX1hTUVY5M3V0dWg4Sk1pVFAtMG5HUjZDd2hmNlVLWjd1aEVqZk00VGlxa0xfbVZCOXltNElDTUxrNWtOWnF2X05SZVh5Tmcta0QtSmtOTDFxaV90dWlhNTNlcE42SGxKaGZ3?oc=5",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "industry",
-      "title": "작은 프로젝트에서 최고의 디자인 작업을 어떻게 활용할까?",
-      "summary": "작은 프로젝트에서도 큰 영향을 미칠 수 있는 방법에 대해 논의한다. 6개의 이모지를 통해 디자인의 중요성을 전달하는 방법을 배운다.",
-      "summary_full": "작은 프로젝트가 최고의 디자인 작업으로 평가받을 수 있는 방법을 탐구한다. 이모지를 활용하여 디자인의 영향력을 효과적으로 전달하는 방법을 제시한다. 디자인 작업이 작더라도 그 가치는 크며, 이를 통해 사용자 경험을 향상시킬 수 있다. 결국, 작은 프로젝트도 큰 변화를 이끌어낼 수 있는 기회를 제공한다.",
-      "keywords": [
-        "디자인",
-        "작은 프로젝트",
-        "사용자 경험"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 12일",
-      "publishedAt": "2026-05-12T22:14:34.000Z",
-      "url": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "ai",
-      "title": "재무 팀의 Codex 활용법",
-      "summary": "재무 팀이 Codex를 사용하여 MBR, 보고서 패키지, 변동 분석, 모델 검증 및 계획 시나리오를 구축하는 방법을 소개합니다. 실제 작업 입력을 기반으로 한 다양한 활용 사례를 보여줍니다.",
-      "summary_full": "이 기사에서는 재무 팀이 Codex를 활용하여 다양한 재무 보고서를 작성하는 방법을 설명합니다. MBR, 보고서 패키지, 변동 분석, 모델 검증 및 계획 시나리오를 포함한 여러 작업을 수행할 수 있습니다. 실제 작업 입력을 통해 Codex의 유용성을 강조하며, 재무 팀의 효율성을 높이는 데 기여합니다. Codex를 통해 재무 데이터 관리 및 분석을 보다 간편하게 할 수 있습니다.",
-      "keywords": [
-        "재무 팀",
-        "Codex",
-        "보고서 작성"
-      ],
-      "source": "OpenAI News",
-      "date": "5월 12일",
-      "publishedAt": "2026-05-12T15:00:00.000Z",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "collectedAt": "2026-05-13"
-    },
-    {
-      "category": "frontend",
-      "title": "드디어 자바스크립트를 그림자 영역으로 추방할 수 있을까",
-      "summary": "TC39의 최신 작업인 그림자 영역(ShadowRealm)에 대한 논의가 진행되고 있다. 이는 자바스크립트의 표준을 개발하고 유지하는 기구의 중요한 발전이다.",
-      "summary_full": "TC39는 자바스크립트의 표준을 관리하는 기구로, 최근 그림자 영역(ShadowRealm)에 대한 작업을 진행하고 있다. 이 기술은 자바스크립트의 기능을 확장하고, 보다 안전한 코드 실행 환경을 제공할 것으로 기대된다. 많은 개발자들이 이 변화에 주목하고 있으며, 자바스크립트의 미래에 긍정적인 영향을 미칠 것으로 보인다. 이와 관련된 논의와 개발이 계속되고 있다.",
-      "keywords": [
-        "자바스크립트",
-        "TC39",
-        "그림자 영역"
-      ],
-      "source": "css-tricks.com",
-      "date": "5월 12일",
-      "publishedAt": "2026-05-12T13:59:35.000Z",
-      "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
-      "collectedAt": "2026-05-13"
-    },
-    {
       "category": "ai",
       "title": "AWS에서의 기초 모델 훈련 및 추론을 위한 구성 요소",
       "summary": "AWS에서 기초 모델을 훈련하고 추론하기 위한 기본 구성 요소를 소개한다. 이 자료는 AWS의 다양한 서비스와 도구를 활용하여 효율적인 모델 개발을 지원한다.",
@@ -4726,22 +4742,6 @@
       "collectedAt": "2026-05-19"
     },
     {
-      "category": "design",
-      "title": "로컬 우선 웹 개발의 구조",
-      "summary": "리스본에서 프로젝트 관리 도구를 시연하기 전날, 호텔 Wi-Fi 문제로 앱이 작동하지 않는 상황을 겪었다. 이 경험을 통해 로컬 우선 개발의 중요성을 깨달았다.",
-      "summary_full": "지난 10월, 리스본의 호텔에서 프로젝트 관리 도구를 시연하기 전날 Wi-Fi 문제로 앱이 작동하지 않았다. 이로 인해 빈 화면과 타임아웃 오류를 경험하며, 팀이 4개월 동안 노력한 결과물이 제대로 작동하지 않는 상황을 목격했다. 이러한 경험을 통해 로컬 우선 웹 개발의 필요성과 장점을 깨닫게 되었다. 이는 사용자 경험을 개선하고 오프라인에서도 원활한 작업을 가능하게 한다.",
-      "keywords": [
-        "로컬 우선",
-        "웹 개발",
-        "프로젝트 관리 도구"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "5월 6일",
-      "publishedAt": "2026-05-06T10:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-      "collectedAt": "2026-05-13"
-    },
-    {
       "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
       "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 지원합니다. 또한 Le Chat에서 복잡한 작업을 위한 새로운 작업 모드를 추가했습니다.",
@@ -4760,34 +4760,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 책임과 역할에 대해 논의한다.",
-      "summary_full": "웹사이트 제작에서 접근성은 필수적이며, 이를 통해 더 나은 사용자 경험을 제공할 수 있다. 디자이너는 일반적으로 좋은 사람들로, 그들의 작업이 사용자에게 미치는 영향을 깊이 이해해야 한다. 이 글은 디자이너들에게 숙제를 주며, 접근성을 고려한 디자인의 중요성을 강조한다. 개인적인 의견이지만, 디자이너들은 웹사이트의 품질을 높이는 데 중요한 역할을 한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 웹사이트의 접근성을 개선하기 위한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너들이 웹사이트의 접근성을 개선하기 위한 숙제를 제안한다. 저자는 디자이너들이 좋은 사람이라고 믿으며, 이 글은 개인적인 의견을 바탕으로 한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 실질적인 과제를 제시한다.",
       "keywords": [
         "디자인",
-        "접근성",
-        "웹사이트"
+        "웹사이트",
+        "접근성"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-12"
-    },
-    {
-      "category": "frontend",
-      "title": "토스플레이스 데이터봇 ‘판다(PANDA)’ 소개",
-      "summary": "토스플레이스에서 데이터 분석 어시스턴트 ‘판다(PANDA)’를 개발하여 데이터 민주주의를 실현하고자 했다. 이를 통해 팀원들이 데이터 전문가처럼 업무를 수행할 수 있는 환경을 제공한다.",
-      "summary_full": "토스플레이스의 Data Analysis Team이 기획한 데이터봇 ‘판다(PANDA)’는 팀원들이 필요한 데이터를 신속하게 접근할 수 있도록 돕는다. AI를 활용하여 데이터 민주주의를 실현하는 것을 목표로 하고 있다. ‘판다’는 Place Analytics & Data의 약자로, 데이터 분석의 효율성을 높이기 위해 개발되었다. 이를 통해 모든 팀원이 데이터 전문가처럼 일할 수 있는 환경을 조성하고자 한다.",
-      "keywords": [
-        "데이터봇",
-        "판다",
-        "데이터 민주주의"
-      ],
-      "source": "toss.tech",
-      "date": "4월 23일",
-      "publishedAt": "2026-04-23T03:28:00.000Z",
-      "url": "https://toss.tech/article/da-assistant-panda",
-      "collectedAt": "2026-05-13"
+      "collectedAt": "2026-06-13"
     },
     {
       "category": "ai",
@@ -4809,7 +4793,7 @@
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
       "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시합니다. 사용자 경험을 향상시키기 위한 다양한 접근 방식이 포함되어 있습니다. 이러한 트렌드는 향후 UX 디자인의 핵심 요소로 자리잡을 것입니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 진화하며, 디자인의 방향성을 제시합니다. 각 트렌드는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함하고 있습니다. 이러한 변화는 UX 디자인 분야에 큰 영향을 미칠 것입니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4819,7 +4803,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-06-12"
+      "collectedAt": "2026-06-13"
     },
     {
       "category": "ai",
