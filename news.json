@@ -1,22 +1,166 @@
 {
-  "updated": "2026년 6월 15일 AM 04:10",
-  "count": 296,
+  "updated": "2026년 6월 16일 AM 03:59",
+  "count": 299,
   "articles": [
     {
+      "category": "frontend",
+      "title": "Next.js와 SVG로 만드는 숨기기 게임",
+      "summary": "PC 파티 게임 Meccha Chameleon에서 영감을 받아, 숨는 사람들이 벽이나 상자와 같은 표면에 맞춰 몸을 칠하는 게임을 개발했다.",
+      "summary_full": "Meccha Chameleon이라는 PC 파티 게임에서 영감을 받아, 숨는 사람들이 벽이나 상자와 같은 표면에 맞춰 몸을 칠하고 얼어붙는 게임 아이디어에 집착하게 되었다. 이 프로젝트의 첫 번째 부분은 camo 'lab'로, 사용자가 표면을 선택하면 정확한 색상, 패턴, 포즈를 제공한다. 이 과정은 인라인 SVG를 활용하여 구현되었다.",
+      "keywords": [
+        "Next.js",
+        "SVG",
+        "게임 개발"
+      ],
+      "source": "dev.to",
+      "date": "6월 16일",
+      "publishedAt": "2026-06-16T03:58:42.000Z",
+      "url": "https://dev.to/hblai_filmlook/building-a-paint-to-hide-browser-minigame-with-nextjs-and-svg-18fn",
+      "collectedAt": "2026-06-16"
+    },
+    {
       "category": "industry",
-      "title": "프로덕트 디자이너의 진짜 질문",
-      "summary": "오늘의집 프로덕트 디자인팀이 AI 시대에 디자이너가 던져야 할 질문을 탐구한다.",
-      "summary_full": "AI 기술이 발전하면서 누구나 쉽게 60점을 만들 수 있는 시대가 도래했다. 이에 따라 프로덕트 디자이너는 단순한 디자인을 넘어 깊이 있는 질문을 던져야 한다. 이 글에서는 디자이너가 직면한 새로운 도전과 그에 대한 접근 방식을 논의한다. AI Frontier 시리즈의 두 번째 이야기로, 오늘의집의 사례를 통해 살펴본다.",
+      "title": "프로덕트 디자이너가 던져야 할 질문",
+      "summary": "오늘의집 프로덕트 디자인팀이 AI 시대에 필요한 질문을 탐구한다.",
+      "summary_full": "AI 기술이 발전하면서 누구나 쉽게 디자인할 수 있는 시대가 왔다. 그러나 진정한 프로덕트 디자이너는 이러한 환경 속에서 어떤 질문을 던져야 할지 고민해야 한다. 이 글에서는 프로덕트 디자인의 본질과 AI의 영향을 탐구한다.",
       "keywords": [
         "프로덕트 디자인",
         "AI 시대",
         "디자인 질문"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 15일",
-      "publishedAt": "2026-06-15T04:08:38.687Z",
+      "date": "6월 16일",
+      "publishedAt": "2026-06-16T03:58:14.410Z",
       "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
+    },
+    {
+      "category": "design",
+      "title": "AI 에이전트로 브랜드 로고 모션 제작",
+      "summary": "AI 에이전트를 활용하여 브랜드 로고의 모션을 만드는 방법을 소개합니다. Lottie를 이용한 효과적인 애니메이션 제작 과정이 설명됩니다.",
+      "summary_full": "이 영상에서는 AI 에이전트를 사용하여 브랜드 로고에 애니메이션을 추가하는 방법을 다룹니다. Lottie라는 도구를 통해 쉽게 모션을 구현할 수 있는 기술을 배울 수 있습니다. 다양한 예시와 함께 실습을 통해 이해를 돕습니다. 브랜드 아이덴티티를 강화하는 데 유용한 정보가 포함되어 있습니다.",
+      "keywords": [
+        "AI 에이전트",
+        "브랜드 로고",
+        "Lottie"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 16일",
+      "publishedAt": "2026-06-16T03:58:08.796Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-772/",
+      "collectedAt": "2026-06-16"
+    },
+    {
+      "category": "trend",
+      "title": "xAI, 국가 안보에 필수적이라는 DOJ 변호사 주장",
+      "summary": "xAI의 오염 가스 터빈에 대한 소송을 기각하기 위해 법무부는 이 회사가 군사 작전에 필수적이라고 주장했다. 이 주장은 이란 전쟁을 포함한 여러 군사 작전과 관련이 있다.",
+      "summary_full": "미국 법무부는 xAI의 오염 가스 터빈에 대한 소송을 기각하기 위해 이 회사가 국가 안보에 필수적이라고 주장했다. 변호사들은 xAI가 군사 작전에서 중요한 역할을 하고 있다고 강조했다. 특히 이란 전쟁과 같은 군사 작전에서의 중요성을 언급했다. 이러한 주장은 xAI의 법적 문제와 국가 안보의 연관성을 부각시키고 있다.",
+      "keywords": [
+        "xAI",
+        "국가 안보",
+        "법무부 소송"
+      ],
+      "source": "wired.com",
+      "date": "6월 16일",
+      "publishedAt": "2026-06-16T03:06:37.000Z",
+      "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+      "collectedAt": "2026-06-16"
+    },
+    {
+      "category": "trend",
+      "title": "웹은 Material You를 위해 만들어지지 않았다 (하지만 우리는 그렇게 만든다)",
+      "summary": "구글의 Material Design 3는 안드로이드에서 매끄럽고 유동적으로 보인다. 그러나 웹 개발자에게는 이러한 디자인 요소를 브라우저에 적용하는 것이 큰 기술적 도전이다.",
+      "summary_full": "구글의 Material Design 3는 안드로이드에서 자연스럽고 유동적인 디자인을 제공한다. 하지만 웹 개발자들은 이러한 표현적인 테마와 동적인 색상, 둥근 형태를 웹에 구현하는 데 어려움을 겪고 있다. 이 블로그 글에서는 MD3를 웹으로 이전하는 과정에서의 기술적 장애물에 대해 깊이 있게 탐구한다. 웹에서 Material You를 구현하기 위한 다양한 도전과 해결책을 논의한다.",
+      "keywords": [
+        "Material Design 3",
+        "웹 개발",
+        "디자인 도전"
+      ],
+      "source": "dev.to",
+      "date": "6월 16일",
+      "publishedAt": "2026-06-16T02:42:12.000Z",
+      "url": "https://dev.to/matin676/the-web-wasnt-built-for-material-you-but-we-build-it-anyway-2gdc",
+      "collectedAt": "2026-06-16"
+    },
+    {
+      "category": "industry",
+      "title": "오픈라우터, 멀티 AI 모델 병렬 실행 도구 ‘퓨전’ 출시",
+      "summary": "오픈라우터가 멀티 AI 모델을 병렬로 실행할 수 있는 도구 ‘퓨전’을 출시했다. 이를 통해 비용 절감과 성능 향상을 기대할 수 있다.",
+      "summary_full": "오픈라우터는 12일 멀티 AI 모델 채택을 지원하는 도구 ‘퓨전’을 출시했다. 이 도구는 여러 AI 모델을 병렬로 실행할 수 있도록 설계되었다. 오픈라우터는 이를 통해 클로드 페이블5를 단독으로 사용하는 것보다 비용을 크게 절감할 수 있다고 밝혔다. 또한, 더 나은 성능을 경험할 수 있다고 강조했다.",
+      "keywords": [
+        "오픈라우터",
+        "퓨전",
+        "AI 모델"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 16일",
+      "publishedAt": "2026-06-16T01:13:25.000Z",
+      "url": "https://byline.network/2026/06/16-653/",
+      "collectedAt": "2026-06-16"
+    },
+    {
+      "category": "frontend",
+      "title": "디자이너가 시안 대신 앱을 만든 이유",
+      "summary": "디자이너는 AI를 활용해 직접 동작하는 시안을 만들 수 있게 되었다. 이로 인해 디자인과 개발 사이의 번역 과정이 줄어들었다.",
+      "summary_full": "디자인 과정에서 AI의 도입으로 디자이너는 시안을 넘어 실제 앱을 제작할 수 있게 되었다. 과거에는 디자인 후 문서화하고 개발자가 구현하는 과정이 필요했지만, AI와 함께 코드를 다루면서 이 과정이 간소화되었다. 특히, 토스의 underlay 컴포넌트를 제작하며 이러한 변화를 경험했다. 앱의 데드엔드 화면을 단순한 종료가 아닌 새로운 경험으로 변화시키려는 시도를 했다.",
+      "keywords": [
+        "디자인",
+        "AI",
+        "앱 개발"
+      ],
+      "source": "toss.tech",
+      "date": "6월 16일",
+      "publishedAt": "2026-06-16T01:06:00.000Z",
+      "url": "https://toss.tech/article/deadend",
+      "collectedAt": "2026-06-16"
+    },
+    {
+      "category": "ai",
+      "title": "정부, 한국형 챗GPT ‘모두의 AI’ 연내 출시",
+      "summary": "정부가 한국형 챗GPT인 ‘모두의 AI’를 올해 안에 출시할 계획이다. 이를 위해 국산 LLM을 총동원할 예정이다.",
+      "summary_full": "정부는 한국형 챗GPT인 ‘모두의 AI’를 연내에 출시하겠다고 발표했다. 이 프로젝트는 국산 대규모 언어 모델(LLM)을 활용하여 진행된다. ‘모두의 AI’는 다양한 분야에서 활용될 것으로 기대된다. 정부는 AI 기술의 발전을 통해 국가 경쟁력을 높이겠다는 목표를 가지고 있다.",
+      "keywords": [
+        "한국형 챗GPT",
+        "모두의 AI",
+        "국산 LLM"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "6월 16일",
+      "publishedAt": "2026-06-16T01:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdFBwcW9ha2hCbjJpZTJYakVoTlJ5LVRDVWtLb2JHOEZqTEtzRXdCZUNxQmxmVVE0SmczdnVpdmpJMi1XZ0hES09xUW9tQkJwT1HSAVNBVV95cUxOc1Fqa3VEY0NFN3A2ck5KUjBWalNZWHlJUkdLcmlZZUp4Mlp4NFNmd1pZN3pzelRDNmlHOW1yRG9CUVF2MTNpOURZQmYxYjhEbm92bw?oc=5",
+      "collectedAt": "2026-06-16"
+    },
+    {
+      "category": "industry",
+      "title": "캐나다, 기업의 개인 데이터 이용으로 인한 가격 차별 금지 법안 도입",
+      "summary": "캐나다 정부는 개인 데이터를 이용해 소비자에게 더 높은 가격을 부과하는 기업에 대한 새로운 제한을 포함한 법안을 발표했다. 이 법안은 1998년에 제정된 개인정보 보호법을 대체할 예정이다.",
+      "summary_full": "캐나다 정부는 개인 정보를 이용한 가격 차별을 금지하는 법안을 도입했다. 새로운 법안인 C-36은 개인정보 보호 및 소비자 데이터 보호를 목표로 하고 있다. 이 법안은 1998년에 제정된 기존 법률을 대체할 예정이다. 그러나 구체적인 세부사항은 아직 공개되지 않았다.",
+      "keywords": [
+        "캐나다",
+        "개인정보 보호",
+        "소비자 데이터"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 15일",
+      "publishedAt": "2026-06-15T23:50:49.000Z",
+      "url": "https://thenextweb.com/news/canada-surveillance-pricing-privacy-bill-carney-pipeda-replacement",
+      "collectedAt": "2026-06-16"
+    },
+    {
+      "category": "industry",
+      "title": "게임이 아닌 보드",
+      "summary": "AI 제품은 조각, 카드, 화면으로 구성되어 있다. 그러나 이 게임은 아무도 디자인하지 않았다.",
+      "summary_full": "AI 제품은 다양한 구성 요소로 이루어져 있지만, 그 게임의 규칙이나 디자인은 존재하지 않는다. 이는 사용자 경험(UX) 디자인의 중요성을 강조한다. 게임을 설계하는 과정이 필요하며, 이를 통해 더 나은 사용자 경험을 제공할 수 있다. 결국, 제품의 성공은 게임의 설계에 달려 있다.",
+      "keywords": [
+        "AI 제품",
+        "UX 디자인",
+        "게임 설계"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 15일",
+      "publishedAt": "2026-06-15T22:18:47.000Z",
+      "url": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "design",
@@ -67,6 +211,22 @@
       "collectedAt": "2026-06-15"
     },
     {
+      "category": "figma",
+      "title": "Figma 데스크탑 앱의 탭 그룹 기능",
+      "summary": "Figma 데스크탑 앱에서 탭 그룹을 사용하여 탭을 그룹화하고 색상을 지정하며 확장 및 축소할 수 있습니다. 이를 통해 파일을 쉽게 관리하고 작업에 집중할 수 있습니다.",
+      "summary_full": "Figma 데스크탑 앱에서는 탭 그룹 기능을 통해 탭을 그룹화하고 색상을 지정할 수 있습니다. 사용자는 프로젝트, 테마 또는 워크플로우에 따라 그룹에 레이블을 붙일 수 있습니다. 색상 코드를 통해 그룹을 쉽게 구분할 수 있으며, 그룹을 축소하거나 확장하여 작업에 집중할 수 있습니다. 이 기능은 모든 데스크탑 사용자에게 제공됩니다.",
+      "keywords": [
+        "Figma",
+        "탭 그룹",
+        "디자인 도구"
+      ],
+      "source": "Figma Release Notes",
+      "date": "6월 15일",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-06-16"
+    },
+    {
       "category": "industry",
       "title": "접근은 숙련이 아니다",
       "summary": "GUI는 컴퓨팅을 민주화했다. 프롬프트 인터페이스는 GUI를 민주화했다.",
@@ -101,18 +261,18 @@
     {
       "category": "ai",
       "title": "OpenAI 파트너 네트워크 소개",
-      "summary": "OpenAI가 파트너 네트워크를 출시했습니다. 이를 통해 글로벌 파트너들이 기업 AI 채택과 변환을 가속화할 수 있도록 1억 5천만 달러를 투자합니다.",
-      "summary_full": "OpenAI는 파트너 네트워크를 새롭게 출시했습니다. 이 네트워크는 기업들이 AI를 채택하고 배포하며 변환하는 과정을 지원하기 위해 설계되었습니다. OpenAI는 이를 위해 총 1억 5천만 달러를 투자할 계획입니다. 이로써 글로벌 파트너들이 AI 기술을 더욱 효과적으로 활용할 수 있도록 돕고자 합니다.",
+      "summary": "OpenAI가 파트너 네트워크를 출시했습니다. 이를 통해 전 세계 파트너들이 기업 AI 도입과 변화를 가속화할 수 있도록 1억 5천만 달러를 투자합니다.",
+      "summary_full": "OpenAI는 파트너 네트워크를 새롭게 출시하며, 이를 통해 글로벌 파트너들이 기업 AI의 도입과 배포, 변화를 가속화할 수 있도록 지원합니다. 이 네트워크를 위해 OpenAI는 총 1억 5천만 달러를 투자할 예정입니다. 이는 기업들이 AI 기술을 효과적으로 활용할 수 있도록 돕기 위한 전략의 일환입니다. OpenAI는 파트너들과 협력하여 AI 혁신을 촉진하고자 합니다.",
       "keywords": [
         "OpenAI",
         "파트너 네트워크",
-        "AI 채택"
+        "AI 도입"
       ],
       "source": "OpenAI News",
       "date": "6월 14일",
       "publishedAt": "2026-06-14T17:00:00.000Z",
       "url": "https://openai.com/index/introducing-openai-partner-network",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "trend",
@@ -325,8 +485,8 @@
     {
       "category": "ai",
       "title": "olmo-eval: 모델 개발 루프를 위한 평가 작업대",
-      "summary": "olmo-eval은 모델 개발 과정에서 평가를 지원하는 도구이다. 이 작업대는 모델의 성능을 체계적으로 분석하고 개선하는 데 도움을 준다.",
-      "summary_full": "olmo-eval은 모델 개발 루프를 위한 평가 작업대이다. 이 도구는 다양한 모델의 성능을 평가하고, 이를 통해 개발자들이 모델을 개선할 수 있도록 지원한다. 사용자는 olmo-eval을 통해 실험 결과를 시각화하고, 비교 분석할 수 있다. 결과적으로, olmo-eval은 모델 개발의 효율성을 높이는 데 기여한다.",
+      "summary": "olmo-eval은 모델 개발 과정에서 평가를 지원하는 도구입니다. 이 작업대는 모델의 성능을 체계적으로 분석하고 개선하는 데 도움을 줍니다.",
+      "summary_full": "olmo-eval은 모델 개발 루프를 위한 평가 작업대입니다. 이 도구는 모델의 성능을 평가하고 분석하는 데 필요한 다양한 기능을 제공합니다. 사용자는 olmo-eval을 통해 모델의 강점과 약점을 파악하고, 이를 바탕으로 모델을 개선할 수 있습니다. 결과적으로, olmo-eval은 더 나은 모델 개발을 위한 필수적인 도구로 자리잡고 있습니다.",
       "keywords": [
         "모델 개발",
         "평가 도구",
@@ -336,7 +496,7 @@
       "date": "6월 12일",
       "publishedAt": "2026-06-12T15:56:10.000Z",
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "ai",
@@ -405,18 +565,18 @@
     {
       "category": "design",
       "title": "휴머노이드 로봇이 인류에 미치는 영향",
-      "summary": "휴머노이드 로봇의 발전이 인류에게 미치는 심리적, 경제적, 존재론적 변화에 대한 논의가 필요하다. 인간과 기계의 경계가 모호해짐에 따라 우리는 새로운 현실에 직면하고 있다.",
-      "summary_full": "과거 수십 년간 과학 소설은 '안드로이드 혁명'이 먼 미래의 환상이라고 여겼다. 그러나 현재 그 현실이 빠르게 다가오고 있다. 인간과 기계의 경계가 흐려지면서 우리는 심리적, 경제적, 존재론적 변화에 직면하게 되었다. 최근 한 유튜브 영상에서 휴머노이드 로봇의 모습과 행동을 보고 큰 충격을 받았다.",
+      "summary": "휴머노이드 로봇의 발전이 인류의 심리적, 경제적, 존재론적 변화를 초래하고 있다. 인간과 기계의 경계가 모호해짐에 따라 우리는 새로운 현실에 직면하고 있다.",
+      "summary_full": "과거 수십 년간 공상과학 소설은 '안드로이드 혁명'이 먼 미래의 환상이라고 여겼다. 그러나 현재는 그 현실이 빠르게 다가오고 있다. 인간과 기계의 경계가 흐려지면서 우리는 심리적, 경제적, 존재론적 변화에 직면하게 되었다. 최근에 본 휴머노이드 로봇의 모습은 나에게 큰 충격을 주었다.",
       "keywords": [
         "휴머노이드 로봇",
-        "인류",
-        "기술 발전"
+        "인류의 변화",
+        "기계와 인간의 경계"
       ],
       "source": "smashingmagazine.com",
       "date": "6월 12일",
       "publishedAt": "2026-06-12T08:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "frontend",
@@ -499,22 +659,6 @@
       "collectedAt": "2026-06-12"
     },
     {
-      "category": "figma",
-      "title": "Figma 커뮤니티 프로필 리뉴얼",
-      "summary": "Figma 커뮤니티 프로필이 새롭게 단장하여 사용자들이 자신을 더 잘 표현할 수 있게 되었습니다. 역할, 경험, 기술 스택 및 개인 맞춤형 FigPal을 추가할 수 있습니다.",
-      "summary_full": "Figma 커뮤니티 프로필이 리뉴얼되어 사용자들이 자신을 더 효과적으로 보여줄 수 있는 기회를 제공합니다. 이제 사용자는 자신의 역할, 경험, 기술 스택을 추가할 수 있으며, 개인 맞춤형 FigPal을 설정할 수 있습니다. 이러한 변화는 사용자들이 자신의 작업과 프로세스를 더욱 잘 표현할 수 있도록 돕습니다. Figma는 커뮤니티의 다양성과 창의성을 강조하고 있습니다.",
-      "keywords": [
-        "Figma",
-        "커뮤니티 프로필",
-        "디자인"
-      ],
-      "source": "Figma Release Notes",
-      "date": "6월 12일",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-15"
-    },
-    {
       "category": "industry",
       "title": "앤트로픽, 비영리단체에 1,000명의 AI 펠로우 배치 위해 1억 5천만 달러 투자",
       "summary": "앤트로픽이 미국 전역의 비영리단체에 1,000명의 AI 펠로우를 배치하기 위해 1억 5천만 달러를 기부한다. 이 프로그램은 학위가 필요 없는 초기 경력 근로자에게 연간 8만 5천 달러의 급여와 복리후생을 제공한다.",
@@ -583,8 +727,8 @@
     {
       "category": "ai",
       "title": "에콜랩의 리테일 인텔리전스 재구축",
-      "summary": "에콜랩이 Databricks와 Anthropic Claude를 활용하여 리테일 인텔리전스를 혁신적으로 재구축했다. 이를 통해 데이터 분석과 인공지능 기술을 접목하여 효율성을 높이고 있다.",
-      "summary_full": "에콜랩은 Databricks와 Anthropic Claude를 기반으로 리테일 인텔리전스를 재구축하는 프로젝트를 진행하고 있다. 이 과정에서 데이터 분석 및 인공지능 기술을 활용하여 비즈니스 인사이트를 강화하고 있다. 이러한 혁신은 리테일 분야에서의 경쟁력을 높이는 데 기여하고 있다. 에콜랩은 지속적인 기술 발전을 통해 고객에게 더 나은 서비스를 제공할 계획이다.",
+      "summary": "에콜랩이 Databricks와 Anthropic Claude를 활용하여 리테일 인텔리전스를 혁신적으로 재구축했다.",
+      "summary_full": "에콜랩은 최신 기술인 Databricks와 Anthropic Claude를 활용하여 리테일 인텔리전스를 새롭게 재구축하였다. 이를 통해 데이터 분석과 인공지능을 접목하여 효율성을 높이고, 고객 맞춤형 서비스를 제공할 수 있는 기반을 마련하였다. 이러한 변화는 리테일 업계에서의 경쟁력을 강화하는 데 중요한 역할을 할 것으로 기대된다.",
       "keywords": [
         "에콜랩",
         "리테일 인텔리전스",
@@ -596,7 +740,7 @@
       "date": "6월 11일",
       "publishedAt": "2026-06-11T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU19oY2c5ZE5KTFphU3NGTXpuTnpUOVlxN2EtbnQ1dzVjWGdzMXJlNTVOTXZicnk2cDdVcEJsREV3eDhVZlhObHdwMGMtYy1LZVFBcWFJUEtCcFNtRDl0VHBNVXhCWUJaZk1DejUtQ0pmSWh5XzZiQ05BdGhtOElhLW5lZm5GWWlfb29aTlU5QTFfbWhQc2dHZlR0aEMzSnc3VTczUUZfUjE?oc=5",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "design",
@@ -729,18 +873,18 @@
     {
       "category": "ai",
       "title": "DiffusionGemma: 4배 빠른 텍스트 생성",
-      "summary": "DiffusionGemma는 텍스트 생성 속도를 4배 향상시킵니다. 이 기술은 효율적인 텍스트 생성 방법을 제시합니다.",
-      "summary_full": "DiffusionGemma는 최신 기술을 활용하여 텍스트 생성 속도를 4배 향상시킵니다. 이를 통해 사용자들은 더 빠르고 효율적으로 콘텐츠를 생성할 수 있습니다. 이 시스템은 기존의 텍스트 생성 모델보다 뛰어난 성능을 보여줍니다. DiffusionGemma는 다양한 응용 분야에서 활용될 수 있는 가능성을 지니고 있습니다.",
+      "summary": "DiffusionGemma는 텍스트 생성을 4배 빠르게 수행하는 기술이다. 이 기술은 효율성을 극대화하여 더 빠른 결과를 제공한다.",
+      "summary_full": "DiffusionGemma는 최신 기술을 활용하여 텍스트 생성 속도를 4배 향상시킨다. 이를 통해 사용자들은 더 짧은 시간 안에 원하는 텍스트를 생성할 수 있다. 이 기술은 다양한 분야에서 활용 가능하며, 특히 콘텐츠 제작에 유용하다. 효율적인 텍스트 생성은 생산성을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "DiffusionGemma",
         "텍스트 생성",
-        "AI 기술"
+        "속도 향상"
       ],
       "source": "Google DeepMind Blog",
       "date": "6월 10일",
       "publishedAt": "2026-06-10T16:24:11.000Z",
       "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "ai",
@@ -1226,9 +1370,9 @@
     },
     {
       "category": "ai",
-      "title": "생물학에서의 에이전트 발전",
-      "summary": "생물학 분야에서 에이전트의 발전을 위한 새로운 길이 열리고 있다. 이 연구는 생물학적 시스템에서 에이전트의 역할을 탐구한다.",
-      "summary_full": "2026년 6월 8일 발표된 연구는 생물학적 에이전트의 발전을 위한 기초를 다지고 있다. 이 연구는 생물학적 시스템 내에서 에이전트가 어떻게 작용하는지를 분석하고, 그 가능성을 제시한다. 에이전트 기술은 생물학적 연구와 응용에 중요한 영향을 미칠 것으로 기대된다. 이는 생명과학 분야의 혁신을 촉진할 수 있는 중요한 기회가 될 것이다.",
+      "title": "생물학에서의 에이전트 개발",
+      "summary": "생물학 분야에서 에이전트의 발전을 위한 기초가 마련되고 있다. 이는 생물학적 시스템의 이해를 높이고 새로운 기술 개발에 기여할 것으로 기대된다.",
+      "summary_full": "생물학적 에이전트의 발전이 생물학 연구에 중요한 기여를 할 것으로 보인다. 이러한 에이전트는 생물학적 시스템의 복잡성을 이해하는 데 도움을 줄 수 있다. 또한, 새로운 기술과 응용 프로그램의 개발을 촉진할 것으로 예상된다. 이 연구는 생물학적 에이전트의 미래 가능성을 제시하고 있다.",
       "keywords": [
         "생물학",
         "에이전트",
@@ -1238,7 +1382,7 @@
       "date": "6월 8일",
       "publishedAt": "2026-06-08T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/agents-in-biology",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "ai",
@@ -3634,8 +3778,8 @@
     {
       "category": "ai",
       "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 혁신과 발전을 목표로 하고 있다. 두 회사는 AI 솔루션의 개발과 상용화를 위해 긴밀히 협력할 예정이다. 이를 통해 AI 산업의 성장을 촉진하고 새로운 기회를 창출할 것으로 보인다.",
+      "summary": "엠미가 미스트랄과 손잡고 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화하기로 했다. 이 파트너십은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 AI 솔루션의 개발과 상용화를 통해 시장 경쟁력을 높일 계획이다. 이러한 협력은 AI 산업의 성장에 긍정적인 영향을 미칠 것으로 예상된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -3645,7 +3789,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "ai",
@@ -4392,54 +4536,6 @@
       "collectedAt": "2026-05-17"
     },
     {
-      "category": "frontend",
-      "title": "모의 면접이 학생들에게 IT 직업 취업에 도움을 주는 방법",
-      "summary": "모의 면접은 학생들이 IT 직업을 찾는 데 중요한 역할을 한다. 기술적 지식 외에도 자신감과 의사소통 능력이 필요하다.",
-      "summary_full": "IT 산업에서 취업은 단순한 기술적 지식만으로 이루어지지 않는다. 프로그래밍 언어와 기술적 기술을 마스터하는 것 외에도, 면접 중 자신감과 문제 해결 능력을 보여주는 것이 채용 결정에 큰 영향을 미친다. 이러한 이유로 모의 면접은 학생들에게 매우 중요한 준비 과정이 된다. 학생들은 모의 면접을 통해 실제 면접에서의 성과를 높일 수 있다.",
-      "keywords": [
-        "모의 면접",
-        "IT 취업",
-        "면접 준비"
-      ],
-      "source": "dev.to",
-      "date": "5월 16일",
-      "publishedAt": "2026-05-16T07:25:21.000Z",
-      "url": "https://dev.to/thaslima_7ac8bf023988b5e7/how-mock-interviews-help-students-crack-it-jobs-4f2k",
-      "collectedAt": "2026-05-16"
-    },
-    {
-      "category": "trend",
-      "title": "출시, 광고 및 디지털 캠페인을 위한 3D 차량 렌더링",
-      "summary": "자동차는 단순한 제품 이미지 이상의 의미를 지닌다. 자동차 CGI는 사진 촬영이 어렵거나 불가능할 때 차량 비주얼을 생성하는 데 도움을 준다.",
-      "summary_full": "자동차는 단순한 제품 이미지 문제를 넘어 형태, 재료 시스템, 인터페이스, 움직임, 브랜드 약속을 포함한다. 이러한 요소들은 구매자가 차량에 탑승하기 전에 명확하게 느껴져야 한다. 자동차 CGI는 출시 팀, 에이전시 및 모빌리티 브랜드가 차량 비주얼을 통제된 방식으로 생성할 수 있도록 도와준다. 이는 사진 촬영이 너무 이르거나 제한적이거나 어렵게 될 때 특히 유용하다.",
-      "keywords": [
-        "3D 렌더링",
-        "자동차 CGI",
-        "디지털 캠페인"
-      ],
-      "source": "dev.to",
-      "date": "5월 16일",
-      "publishedAt": "2026-05-16T06:00:00.000Z",
-      "url": "https://dev.to/maverickframe/3d-vehicle-rendering-for-launches-ads-and-digital-campaigns-4e2d",
-      "collectedAt": "2026-05-16"
-    },
-    {
-      "category": "trend",
-      "title": "스포츠맨 창고 프로모션 코드: 2026년 5월 할인",
-      "summary": "이번 달 스포츠맨 창고 쿠폰을 사용하여 사냥, 캠핑, 보트 장비 구매 시 절약하세요. 다양한 제품을 할인된 가격에 만나볼 수 있습니다.",
-      "summary_full": "스포츠맨 창고에서 제공하는 프로모션 코드를 통해 2026년 5월에 특별 할인을 받을 수 있습니다. 사냥용 총기, 캠핑 용품, 보트 장비 등을 구매할 때 유용한 쿠폰입니다. 이 기회를 통해 필요한 장비를 더 저렴하게 구입할 수 있습니다. 다양한 할인 혜택을 활용하여 최대한의 절약을 경험해 보세요.",
-      "keywords": [
-        "스포츠맨 창고",
-        "할인 코드",
-        "사냥 용품"
-      ],
-      "source": "wired.com",
-      "date": "5월 16일",
-      "publishedAt": "2026-05-16T05:00:00.000Z",
-      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-      "collectedAt": "2026-05-16"
-    },
-    {
       "category": "ai",
       "title": "OpenAI와 몰타, 모든 시민에게 ChatGPT Plus 제공",
       "summary": "OpenAI와 몰타가 협력하여 AI 접근성을 확대하고, 시민들에게 ChatGPT Plus와 AI 기술 교육을 제공합니다. 이를 통해 시민들이 실용적인 AI 기술을 배우고 책임감 있게 AI를 활용할 수 있도록 지원합니다.",
@@ -4454,22 +4550,6 @@
       "publishedAt": "2026-05-16T00:00:00.000Z",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "collectedAt": "2026-05-18"
-    },
-    {
-      "category": "industry",
-      "title": "앤트로픽과 게이츠 재단, AI의 가능성에 2억 달러 투자",
-      "summary": "앤트로픽이 게이츠 재단과 협력하여 2억 달러를 투자한다. 이 자금은 글로벌 건강, 생명과학, 교육 프로그램에 사용될 예정이다.",
-      "summary_full": "앤트로픽은 게이츠 재단과의 파트너십을 통해 4년 동안 2억 달러를 투자하기로 했다. 이는 AI 기업과 글로벌 자선단체 간의 최대 규모의 거래로, 자금은 보조금, 클로드 사용 크레딧, 기술 지원을 포함한다. 이 자금은 글로벌 건강, 생명과학 및 교육 프로그램을 지원하는 데 사용될 예정이다. AI가 단순히 돈을 버는 것을 넘어 더 많은 일을 할 수 있다는 가능성에 대한 투자이다.",
-      "keywords": [
-        "앤트로픽",
-        "게이츠 재단",
-        "AI 투자"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 15일",
-      "publishedAt": "2026-05-15T18:16:39.000Z",
-      "url": "https://thenextweb.com/news/anthropic-gates-foundation-ai-health-education-partnership",
-      "collectedAt": "2026-05-16"
     },
     {
       "category": "frontend",
@@ -4534,38 +4614,6 @@
       "publishedAt": "2026-05-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1dkbkRGcng3MndPSkdOWHMzT3B3bHhUcHlzcmptbnY0OTJmdy1BbVlQTXRUclFyblpJaTJJRmk3MlBSWFp0b29idDlGaGg2aWJ2UmF3WFZ6ejlTZ1RxdEZTT0xxVVRJT21PblU5YWhMVVhaNmNrcEx1VlZWaXhPZXRhTjl5OV84OTZlMlFfNUFNZTE5aU41am9DODN5RFlQWEFrSzFBVDBWX0pQc3NrTGd1MXUtekZBeEJnZGpJTFJQZw?oc=5",
       "collectedAt": "2026-06-05"
-    },
-    {
-      "category": "ai",
-      "title": "세일즈 팀의 Codex 활용법",
-      "summary": "세일즈 팀이 Codex를 활용하여 다양한 업무 자료를 생성하는 방법을 소개합니다. 이를 통해 파이프라인 브리프, 회의 준비 자료, 예측 리뷰 등을 효율적으로 만들 수 있습니다.",
-      "summary_full": "이 기사에서는 세일즈 팀이 Codex를 사용하여 어떻게 파이프라인 브리프, 회의 준비 자료, 예측 리뷰, 계정 계획 및 거래 지연 진단을 생성하는지를 설명합니다. 실제 작업 입력을 기반으로 하여 이러한 자료를 효율적으로 작성할 수 있는 방법을 제시합니다. Codex의 활용은 세일즈 팀의 업무 효율성을 높이는 데 기여합니다. 다양한 상황에서의 활용 사례를 통해 Codex의 유용성을 강조합니다.",
-      "keywords": [
-        "세일즈 팀",
-        "Codex",
-        "업무 효율성"
-      ],
-      "source": "OpenAI News",
-      "date": "5월 15일",
-      "publishedAt": "2026-05-15T00:00:00.000Z",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "collectedAt": "2026-05-16"
-    },
-    {
-      "category": "industry",
-      "title": "고차원 마음 사이의 일차원 파이프",
-      "summary": "AI와 프롬프트에 대한 논의와 두 고차원 마음 간의 이상한 비대칭성에 대해 다룬다.",
-      "summary_full": "이 글은 인공지능과 프롬프트의 관계를 탐구하며, 두 고차원 마음 사이의 상호작용에서 발생하는 비대칭성을 설명한다. 특히, 이러한 비대칭성이 어떻게 우리의 사고와 의사소통 방식에 영향을 미치는지를 논의한다. AI의 발전이 인간의 사고 방식에 미치는 영향과 그로 인해 발생하는 새로운 문제들에 대해 성찰한다. UX 디자인 관점에서도 이 주제를 다루며, 사용자 경험에 미치는 영향을 분석한다.",
-      "keywords": [
-        "AI",
-        "프롬프트",
-        "고차원 마음"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 14일",
-      "publishedAt": "2026-05-14T23:03:44.000Z",
-      "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-16"
     },
     {
       "category": "ai",
@@ -4698,18 +4746,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "웹사이트 접근성의 중요성을 논의한다. 디자이너는 좋은 사람이며, 이 글은 개인적인 견해를 바탕으로 한다.",
-      "summary_full": "이 글에서는 웹사이트 접근성이 가장 중요하다고 강조한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 글은 독자에게 숙제를 준다. 디자이너는 좋은 사람이라는 점에 동의할 것이다. 개인적인 의견이지만, 이 글이 유익할 것이라고 믿는다.",
+      "summary": "웹사이트 접근성의 중요성에 대해 논의한다. 디자이너는 좋은 사람들이다.",
+      "summary_full": "웹사이트 제작에서 접근성이 가장 중요하다는 점을 강조한다. 다른 A List Apart 기사들은 혁신과 통찰을 제공하지만, 이 기사는 독자에게 숙제를 준다. 개인적인 의견이지만, 디자이너들은 대체로 선한 의도를 가지고 있다. 디자이너가 웹사이트 접근성을 신경 쓰지 않는 경우는 없다는 점을 강조한다.",
       "keywords": [
-        "디자인",
         "웹사이트",
-        "접근성"
+        "접근성",
+        "디자인"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "ai",
@@ -4730,8 +4778,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 살펴봅니다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시합니다.",
-      "summary_full": "2026년을 대비하여 UX 디자인의 9가지 주요 트렌드를 소개합니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 변화하는 디자인 패턴을 반영하고 있습니다. 각 트렌드는 사용자 경험을 극대화하기 위한 전략을 포함하고 있으며, 기업들이 경쟁력을 유지하는 데 중요한 역할을 할 것입니다. UX 디자인의 미래를 이해하고 준비하는 데 도움이 될 것입니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 살펴봅니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 소개됩니다. 이 트렌드는 기술 발전과 사용자 요구에 맞춰 변화하고 있습니다. 특히, 개인화, 접근성, 지속 가능성 등이 중요한 요소로 부각되고 있습니다. 이러한 트렌드는 향후 디자인 전략에 큰 영향을 미칠 것으로 예상됩니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4741,7 +4789,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-06-15"
+      "collectedAt": "2026-06-16"
     },
     {
       "category": "ai",
