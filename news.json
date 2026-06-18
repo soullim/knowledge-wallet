@@ -1,22 +1,214 @@
 {
-  "updated": "2026년 6월 17일 AM 04:00",
-  "count": 302,
+  "updated": "2026년 6월 18일 AM 03:51",
+  "count": 304,
   "articles": [
     {
       "category": "industry",
-      "title": "프로덕트 디자이너의 진짜 질문",
-      "summary": "프로덕트 디자이너는 누구나 쉽게 60점을 만들 수 있는 시대에 진정한 질문을 던져야 한다. AI Frontier 시리즈의 두 번째 이야기로, 오늘의집 디자인팀의 접근 방식을 다룬다.",
-      "summary_full": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기에서 프로덕트 디자이너가 던져야 할 진짜 질문에 대해 논의한다. 누구나 60점을 만드는 시대에 디자이너는 어떻게 차별화된 가치를 창출할 수 있을까? 이 글은 디자인의 본질과 AI 기술의 융합을 탐구한다. 디자이너의 역할과 책임에 대한 깊은 통찰을 제공한다.",
+      "title": "프로덕트 디자이너가 던져야 할 질문",
+      "summary": "오늘의집 프로덕트 디자인팀이 AI 시대에 필요한 질문을 다룬다. 디자인의 질을 높이기 위한 새로운 접근법을 제시한다.",
+      "summary_full": "AI 시대에 모든 디자이너가 평균적인 결과를 내는 상황에서, 프로덕트 디자이너는 더 깊은 질문을 던져야 한다. 오늘의집의 디자인팀이 이러한 질문을 통해 디자인의 질을 향상시키고자 한다. 이 글은 AI Frontier 시리즈의 두 번째 이야기로, 디자인의 미래를 탐구한다. 디자이너들이 직면한 도전과 기회를 조명한다.",
       "keywords": [
         "프로덕트 디자인",
-        "AI Frontier",
-        "오늘의집"
+        "AI 시대",
+        "디자인 질문"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 17일",
-      "publishedAt": "2026-06-17T03:59:00.233Z",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T03:49:44.299Z",
       "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
-      "collectedAt": "2026-06-17"
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "design",
+      "title": "AI 코딩 에이전트로 카드 애니메이션 만들기",
+      "summary": "AI 코딩 에이전트를 활용하여 Lottie 형식의 카드 애니메이션을 제작하는 방법을 소개합니다. 이 과정에서 필요한 도구와 기술을 설명합니다.",
+      "summary_full": "이 영상에서는 AI 코딩 에이전트를 사용하여 카드 애니메이션을 만드는 방법을 단계별로 안내합니다. Lottie 파일 형식을 통해 애니메이션을 구현하며, 필요한 소스와 코드 예제를 제공합니다. 또한, 애니메이션 디자인의 기본 원칙과 최적화 방법에 대해서도 설명합니다. 이 튜토리얼은 초보자부터 중급자까지 모두에게 유용한 정보를 제공합니다.",
+      "keywords": [
+        "AI 코딩 에이전트",
+        "카드 애니메이션",
+        "Lottie"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T03:49:38.690Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-773/",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "frontend",
+      "title": "BWS 모바일 비밀번호 3회 오류 시 안전하게 차단 해제하는 방법",
+      "summary": "BWS 모바일 비밀번호를 3회 잘못 입력했을 때, 고객센터에 연락하거나 앱에서 '아이디/비밀번호 찾기' 옵션을 사용할 수 있다.",
+      "summary_full": "BWS 모바일 비밀번호를 3회 잘못 입력하면 차단될 수 있다. 이 경우, 고객센터에 연락하거나 앱에서 '아이디/비밀번호 찾기' 옵션을 사용할 수 있다. 필요한 경우, 가까운 지점을 방문하여 도움을 받을 수 있다. 개인 정보를 준비하는 것이 중요하다.",
+      "keywords": [
+        "BWS",
+        "비밀번호 차단 해제",
+        "고객센터 연락"
+      ],
+      "source": "dev.to",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T03:38:11.000Z",
+      "url": "https://dev.to/bubar_bubar_07102da2e9126/cara-aman-buka-blokir-bws-mobile-salah-pin-3-kali-3fmj",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "ai",
+      "title": "AI 시대의 판단 설계",
+      "summary": "AI 시대에 누가 판단을 설계하는지에 대한 논의가 필요하다.",
+      "summary_full": "AI 기술의 발전과 함께 판단의 설계가 중요해지고 있다. 이는 사회적, 윤리적 책임을 동반하며, 다양한 이해관계자의 참여가 요구된다. AI의 결정 과정에서 인간의 역할과 책임이 어떻게 변화할지에 대한 고민이 필요하다. 이러한 논의는 에너지 경제 분야에서도 중요한 이슈로 부각되고 있다.",
+      "keywords": [
+        "AI",
+        "판단 설계",
+        "에너지 경제"
+      ],
+      "source": "Google News Anthropic",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T01:59:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oOUNlNnJQbFdiRjdWdFpRenNvUC1YQW5LbDNhUkhxenQzTGRCR2dIVlpyM2JfOVc4d3VVam1CdzNKWDRuWGRzaXZyMEZxbVZOMEIweUJ5X0NRWmc?oc=5",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "industry",
+      "title": "파라핀, 아마존과 도어대시, 월마트에 대출 서비스 통합을 위한 골드만삭스 신용 시설 확보",
+      "summary": "파라핀은 골드만삭스와 원 윌리엄 스트리트 캐피탈 매니지먼트의 주도로 새로운 신용 시설을 확보했다. 이 시설은 아마존, 도어대시, 구스토, 틱톡 샵, 월마트와 같은 플랫폼을 통해 중소기업의 대출 접근성을 확대할 예정이다.",
+      "summary_full": "파라핀은 2026 포브스 핀테크 50 리스트에 오른 임베디드 금융 인프라 기업으로, 골드만삭스와 원 윌리엄 스트리트 캐피탈 매니지먼트의 주도로 새로운 신용 시설을 확보했다. 이번 신용 시설은 아마존, 도어대시, 구스토, 틱톡 샵, 월마트와 같은 플랫폼을 통해 중소기업의 대출 접근성을 확대하는 데 기여할 예정이다. 파라핀의 모델은 간단하며, 이를 통해 더 많은 소상공인들이 금융 서비스를 이용할 수 있게 된다. 이로 인해 임베디드 대출 서비스의 가능성이 더욱 넓어질 것으로 ��대된다.",
+      "keywords": [
+        "파라핀",
+        "골드만삭스",
+        "임베디드 대출"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T23:40:11.000Z",
+      "url": "https://thenextweb.com/news/parafin-goldman-sachs-credit-facility-embedded-lending",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "industry",
+      "title": "앤트로픽 서울 오피스 개소",
+      "summary": "앤트로픽이 서울 여의도에서 오피스를 공식 개소했다. 한국 AI 생태계와의 협력을 확대할 계획이다.",
+      "summary_full": "앤트로픽은 서울 여의도 콘래드 호텔에서 기자간담회를 열고 서울 오피스의 공식 개소를 발표했다. 이 자리에서 한국 사업 전략도 함께 발표되었다. 앤트로픽은 국내 주요 기업, 스타트업, AI 연구기관과의 협력을 통해 한국 AI 생태계를 지원할 예정이다. 앞으로 다양한 협력 방안을 모색할 계획이다.",
+      "keywords": [
+        "앤트로픽",
+        "서울 오피스",
+        "AI 생태계"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T23:32:14.000Z",
+      "url": "https://byline.network/2026/06/18-583/",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "industry",
+      "title": "A2UI의 내부: 급진적으로 적응하는 UI를 위한 디자인",
+      "summary": "디자이너를 위한 소개로, A2UI는 아직 많은 디자이너에게 알려지지 않은 개념이다. 이 새로운 아이디어는 UI 디자인의 접근 방식을 변화시킬 가능성이 있다.",
+      "summary_full": "A2UI는 디자이너들이 잘 알지 못하는 개념으로, 주로 개발자들 사이에서 논의되고 있다. 이 디자인 접근법은 UI의 적응성을 혁신적으로 변화시킬 수 있는 잠재력을 지니고 있다. 디자이너로서 이 개념을 조기에 이해하는 것이 중요하다. A2UI는 우리가 UI를 설계하는 방식을 근본적으로 변화시킬 수 있는 아이디어이다.",
+      "keywords": [
+        "A2UI",
+        "디자인",
+        "적응형 UI"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T22:59:32.000Z",
+      "url": "https://uxdesign.cc/a2ui-under-the-hood-designing-for-the-new-era-of-radically-adaptive-ui-cebbf5f32fbe?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "trend",
+      "title": "안트로픽 신화 논란의 중심에 있는 한국 통신 대기업",
+      "summary": "안트로픽이 가장 발전된 AI 모델을 오프라인으로 전환하기 며칠 전, 백악관은 SK텔레콤의 클로드 신화 접근을 철회하라고 명령했다. 이는 중국과의 연관성에 대한 주장 때문이었다.",
+      "summary_full": "안트로픽이 가장 발전된 AI 모델을 오프라인으로 전환하기 며칠 전, 백악관은 SK텔레콤의 클로드 신화 접근을 철회하라고 명령했다. 이는 SK텔레콤이 중국과의 연관성이 있다는 주장에 기인한 것이다. 이 사건은 AI 기술의 글로벌 경쟁과 관련된 복잡한 문제를 드러내고 있다. 한국의 통신 대기업이 이러한 논란의 중심에 서게 되면서, 기술과 정치의 경계가 더욱 모호해지고 있다.",
+      "keywords": [
+        "안트로픽",
+        "SK텔레콤",
+        "AI모델"
+      ],
+      "source": "wired.com",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T22:52:00.000Z",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "trend",
+      "title": "개발과 디자인의 만남, devdevbuilds 구축하기",
+      "summary": "devdevbuilds는 백엔드 프로젝트와 사이버 보안 학습, 디자인 자산을 결합한 브랜드이다. DEV 커뮤니티를 통해 자신의 개발 과정과 학습 내용을 문서화하고 있다.",
+      "summary_full": "devdevbuilds는 프리랜서 중심의 개발 및 디자인 브랜드로, 백엔드 개발과 디자인을 통합하고 있다. 이 프로젝트는 사이버 보안 학습과 디자인 자산을 포함하여 다양한 요소를 결합하고 있다. 현재 DEV 커뮤니티를 활용하여 자신의 작업과 학습 과정을 기록하고 있다. 이를 통해 프로젝트의 발전 과정을 공유하고자 한다.",
+      "keywords": [
+        "개발",
+        "디자인",
+        "사이버 보안"
+      ],
+      "source": "dev.to",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T22:14:32.000Z",
+      "url": "https://dev.to/devdevbuilds/building-devdevbuilds-where-backend-development-meets-design-1di2",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "frontend",
+      "title": "ariaNotify()의 매력",
+      "summary": "새로운 웹 플랫폼 기능에 대해 소개합니다. 이 기능은 이해하기 쉬운 문법으로 강력한 솔루션을 제공합니다.",
+      "summary_full": "이번에 소개할 기능은 오랫동안 기다려온 웹 플랫폼의 새로운 기능입니다. 이 기능은 더 나은 솔루션이 절실히 필요했던 사용 사례를 충족합니다. 또한 즉각적으로 이해할 수 있는 문법을 통해 강력한 성능을 발휘합니다. 개발자들에게 매력적인 요소가 될 것입니다.",
+      "keywords": [
+        "웹 플랫폼",
+        "기능",
+        "개발자"
+      ],
+      "source": "css-tricks.com",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T15:32:30.000Z",
+      "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "ai",
+      "title": "몰모모션: 언어 기반 3D 동작 예측",
+      "summary": "몰모모션은 언어 정보를 활용하여 3D 동작을 예측하는 기술이다. 이 시스템은 다양한 상황에서의 동작을 보다 정확하게 예측할 수 있도록 설계되었다.",
+      "summary_full": "몰모모션은 언어 정보를 기반으로 3D 동작을 예측하는 혁신적인 기술이다. 이 연구는 자연어 처리와 컴퓨터 비전의 융합을 통해 동작 예측의 정확성을 높이고자 한다. 다양한 시나리오에서의 동작을 이해하고 예측하는 데 도움을 주며, 실제 응용 가능성이 크다. 향후 로봇 공학 및 가상 현실 분야에서의 활용이 기대된다.",
+      "keywords": [
+        "3D 동작 예측",
+        "언어 기반 기술",
+        "컴퓨터 비전"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T15:26:44.000Z",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "ai",
+      "title": "준자율 AI 화학자가 의약 화학의 어려운 반응을 개선하다",
+      "summary": "OpenAI와 Molecule.one이 GPT-5.4를 활용한 준자율 AI 화학자가 주요 약물 제조 반응을 개선한 사례를 보여준다. 이는 의약 화학 연구의 발전에 기여하고 있다.",
+      "summary_full": "OpenAI와 Molecule.one이 협력하여 개발한 준자율 AI 화학자가 의약 화학에서 중요한 약물 제조 반응을 개선했다. 이 AI 화학자는 GPT-5.4를 기반으로 하여 복잡한 화학 반응을 효율적으로 처리할 수 있다. 이러한 발전은 의약 화학 연구의 진전을 촉진하며, 새로운 약물 개발에 기여할 것으로 기대된다. AI의 활용이 화학 분야에 미치는 영향이 점차 커지고 있다.",
+      "keywords": [
+        "AI 화학자",
+        "의약 화학",
+        "약물 제조"
+      ],
+      "source": "OpenAI News",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T10:00:00.000Z",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "frontend",
+      "title": "AI로 바꾼 제품 설계의 순서",
+      "summary": "토스 고객센터 AI 챗봇 설계 과정에서의 새로운 접근 방식을 소개합니다. 사용자의 이탈 문제를 해결하기 위한 설계 구조 개선이 주요 내용입니다.",
+      "summary_full": "토스의 Product Designer 김유라가 고객센터 AI 챗봇 설계 경험을 공유합니다. 고객센터 방문자는 월 60만 명이며, 그 중 17만 명이 채팅 상담을 시도하지만 60%가 이탈하는 문제를 겪고 있습니다. 챗봇의 복잡한 구조가 이탈의 주된 원인으로 지적되며, 사용자가 원하는 답을 찾기 위해 메뉴를 탐색해야 하는 불편함이 있습니다. 이 글에서는 이러한 문제를 해결하기 위한 새로운 설계 방식을 논의합니다.",
+      "keywords": [
+        "AI 챗봇",
+        "제품 설계",
+        "고객센터"
+      ],
+      "source": "toss.tech",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T04:56:00.000Z",
+      "url": "https://toss.tech/article/chatbot",
+      "collectedAt": "2026-06-18"
     },
     {
       "category": "frontend",
@@ -67,6 +259,22 @@
       "collectedAt": "2026-06-17"
     },
     {
+      "category": "figma",
+      "title": "AI 사용 크레딧 데이터 API 제공",
+      "summary": "기업 고객은 새로운 AI 사용 크레딧 API를 통해 AI 크레딧 사용 데이터를 프로그래밍 방식으로 접근할 수 있습니다. 이 API를 사용하면 사용자, 제품, 작업 공간 및 팀별로 일일 크레딧 소비를 쉽게 추적할 수 있습니다.",
+      "summary_full": "기업 고객은 이제 새로운 AI 사용 크레딧 API를 통해 AI 크레딧 사용 데이터를 프로그래밍적으로 접근할 수 있게 되었습니다. 이 API 엔드포인트를 사용하면 사용자, 제품(디자인, 제작, FigJam 등), 작업 공간 및 팀별로 일일 크레딧 소비를 확인할 수 있습니다. 이를 통해 내부 보고서를 작성하고 조직 내 채택 진행 상황을 추적하는 것이 더 쉬워집니다. API 문서를 참조하여 시작해 보세요.",
+      "keywords": [
+        "AI 크레딧",
+        "API",
+        "기업 고객"
+      ],
+      "source": "Figma Release Notes",
+      "date": "6월 17일",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-06-18"
+    },
+    {
       "category": "trend",
       "title": "최고의 휴대용 선풍기와 착용형 선풍기 (2026)",
       "summary": "여름철 축제, 테니스 경기, 결혼식 등에서 유용한 휴대용 선풍기와 착용형 냉각 장치들을 소개합니다. 이 제품들은 더위를 견디는 데 큰 도움이 될 것입니다.",
@@ -100,19 +308,19 @@
     },
     {
       "category": "ai",
-      "title": "AI 가속화 계획으로 영국 주택 건설 혁신",
-      "summary": "영국 정부가 Google DeepMind와 협력하여 빠른 주택 결정을 위한 AI 기반 프로토타입을 개발하고 있다. 이 프로젝트는 주택 건설을 가속화하는 데 중점을 두고 있다.",
-      "summary_full": "영국 정부가 Google DeepMind와 협력하여 새로운 AI 기반 프로토타입을 개발하고 있다. 이 프로토타입은 주택 건설 결정을 더 빠르고 효율적으로 할 수 있도록 설계되었다. AI 기술을 활용하여 주택 건설 프로세스를 혁신하고자 하는 목표를 가지고 있다. 이는 영국의 주택 문제 해결에 기여할 것으로 기대된다.",
+      "title": "AI로 가속화된 영국 주택 건설 계획",
+      "summary": "영국 정부가 Google DeepMind와 협력하여 주택 결정을 빠르게 할 수 있는 AI 기반 프로토타입을 개발하고 있다. 이 프로젝트는 주택 건설을 촉진하는 데 중점을 두고 있다.",
+      "summary_full": "영국 정부는 Google DeepMind와 협력하여 AI로 가속화된 주택 건설 계획을 추진하고 있다. 새로운 프로토타입은 주택 결정을 더 신속하게 내릴 수 있도록 설계되었다. 이 기술은 주택 건설의 효율성을 높이고, 필요한 주택 공급을 신속하게 충족하는 데 기여할 것으로 기대된다. AI의 도입은 영국의 주택 문제 해결에 중요한 역할을 할 수 있다.",
       "keywords": [
         "AI",
         "주택 건설",
-        "Google DeepMind"
+        "영국 정부"
       ],
       "source": "Google DeepMind Blog",
       "date": "6월 16일",
       "publishedAt": "2026-06-16T21:29:50.000Z",
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "collectedAt": "2026-06-17"
+      "collectedAt": "2026-06-18"
     },
     {
       "category": "industry",
@@ -132,9 +340,9 @@
     },
     {
       "category": "design",
-      "title": "불확실성을 디자인하다: AI가 확률적 사고를 강화하는 방법",
-      "summary": "2024년, 에어캐나다 고객이 챗봇에 장례 운임에 대해 문의했으나 챗봇은 존재하지 않는 환불 정책을 제시했다. 이 사건은 AI의 예측이 실제 정책으로 잘못 해석될 수 있는 위험을 드러낸다.",
-      "summary_full": "2024년 에어캐나다 고객이 챗봇에 장례 운임에 대해 문의했으나 챗봇은 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 법원은 고객의 손을 들어주었다. 이 사건은 챗봇이 훈련 데이터의 패턴을 기반으로 예측한 답변이 실제 정책으로 잘못 해석될 수 있는 위험을 보여준다. 이는 디자인 과정에서 불확실성을 고려해야 하는 중요한 교훈을 제공한다.",
+      "title": "불확실성 속 디자인: AI가 확률적 사고를 강화하는 방법",
+      "summary": "AI 챗봇이 잘못된 환불 정책을 제시하여 고객과 항공사 간의 분쟁이 발생했다. 이는 AI의 예측이 실제 정책으로 오해될 수 있는 위험성을 보여준다.",
+      "summary_full": "2024년, 에어캐나다 고객이 챗봇에게 장례식 요금에 대해 문의했으나, 챗봇은 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 법원은 고객의 손을 들어주었다. 챗봇은 훈련 데이터의 패턴을 기반으로 답변을 예측했을 뿐이며, 이는 정책으로 오인되었다. 이러한 사례는 디자인 과정에서 AI의 예측이 어떻게 위험 요소가 될 수 있는지를 보여준다.",
       "keywords": [
         "AI",
         "불확실성",
@@ -144,7 +352,7 @@
       "date": "6월 16일",
       "publishedAt": "2026-06-16T15:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-      "collectedAt": "2026-06-17"
+      "collectedAt": "2026-06-18"
     },
     {
       "category": "frontend",
@@ -244,9 +452,9 @@
     },
     {
       "category": "ai",
-      "title": "한국형 챗GPT ‘모두의 AI’ 연내 출시",
-      "summary": "정부가 한국형 챗GPT인 ‘모두의 AI’를 올해 안에 출시할 계획이다. 이를 위해 국산 LLM을 총동원할 예정이다.",
-      "summary_full": "정부는 한국형 챗GPT인 ‘모두의 AI’를 연내에 출시할 예정이라고 발표했다. 이 프로젝트는 국내에서 개발된 대규모 언어 모델(LLM)을 활용하여 진행된다. ‘모두의 AI’는 다양한 분야에서 활용될 것으로 기대되며, 한국어 처리 능력을 강화하는 데 중점을 두고 있다. 이는 한국의 AI 기술 발전에 중요한 이정표가 될 것이다.",
+      "title": "정부, 한국형 챗GPT ‘모두의 AI’ 출시",
+      "summary": "정부가 한국형 챗GPT인 ‘모두의 AI’를 올해 안에 출시할 계획이다. 이를 위해 국산 LLM이 총동원된다.",
+      "summary_full": "한국 정부는 한국형 챗GPT인 ‘모두의 AI’를 연내에 출시할 예정이다. 이 프로젝트는 국내에서 개발된 대규모 언어 모델(LLM)을 활용하여 진행된다. 정부는 AI 기술의 발전을 통해 다양한 분야에서 활용할 수 있도록 할 계획이다. 이는 한국의 AI 산업 발전에도 기여할 것으로 기대된다.",
       "keywords": [
         "한국형 챗GPT",
         "모두의 AI",
@@ -256,23 +464,23 @@
       "date": "6월 16일",
       "publishedAt": "2026-06-16T01:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdFBwcW9ha2hCbjJpZTJYakVoTlJ5LVRDVWtLb2JHOEZqTEtzRXdCZUNxQmxmVVE0SmczdnVpdmpJMi1XZ0hES09xUW9tQkJwT1HSAVNBVV95cUxOc1Fqa3VEY0NFN3A2ck5KUjBWalNZWHlJUkdLcmlZZUp4Mlp4NFNmd1pZN3pzelRDNmlHOW1yRG9CUVF2MTNpOURZQmYxYjhEbm92bw?oc=5",
-      "collectedAt": "2026-06-17"
+      "collectedAt": "2026-06-18"
     },
     {
-      "category": "figma",
-      "title": "Figma MCP 서버의 네 가지 업데이트",
-      "summary": "Figma MCP 서버에 대한 네 가지 업데이트가 오늘 제공됩니다. 외부 에이전트가 사용자의 템플릿으로 만든 슬라이드 프레젠테이션을 생성하고 업데이트할 수 있습니다.",
-      "summary_full": "Figma MCP 서버에 대한 네 가지 업데이트가 오늘 제공됩니다. 이 업데이트에는 Figma Slides에서 외부 에이전트가 사용자의 템플릿을 기반으로 슬라이드 프레젠테이션을 생성하고 업데이트할 수 있는 기능이 포함됩니다. 이를 통해 사용자들은 더 많은 협업과 효율성을 경험할 수 있습니다. Figma의 기능이 더욱 확장되었습니다.",
+      "category": "ai",
+      "title": "대리 코딩과 전문성의 지속적 수익",
+      "summary": "대리 코딩이란 개인의 전문성을 활용하여 지속적인 수익을 창출하는 방법을 설명한다. 이 연구는 전문성이 경제적 성과에 미치는 영향을 분석한다.",
+      "summary_full": "대리 코딩은 개인의 전문성을 통해 경제적 이익을 극대화하는 접근 방식을 제시한다. 연구는 전문성이 시간이 지남에 따라 어떻게 지속적인 수익으로 이어지는지를 탐구한다. 또한, 이러한 전문성의 축적이 개인의 경력 발전에 미치는 긍정적인 영향을 강조한다. 이를 통해 대리 코딩의 중요성과 경제적 가치가 부각된다.",
       "keywords": [
-        "Figma",
-        "MCP 서버",
-        "슬라이드 프레젠테이션"
+        "대리 코딩",
+        "전문성",
+        "경제적 수익"
       ],
-      "source": "Figma Release Notes",
+      "source": "Anthropic Research",
       "date": "6월 16일",
       "publishedAt": "2026-06-16T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-17"
+      "url": "https://www.anthropic.com/research/claude-code-expertise",
+      "collectedAt": "2026-06-18"
     },
     {
       "category": "ai",
@@ -288,22 +496,6 @@
       "date": "6월 16일",
       "publishedAt": "2026-06-16T00:00:00.000Z",
       "url": "https://openai.com/index/deployment-simulation",
-      "collectedAt": "2026-06-17"
-    },
-    {
-      "category": "ai",
-      "title": "대리 코딩과 전문성의 지속적인 수익",
-      "summary": "대리 코딩은 전문성을 활용하여 경제적 이익을 창출하는 방법이다. 이 연구는 전문성이 지속적으로 수익을 가져오는 메커니즘을 탐구한다.",
-      "summary_full": "대리 코딩은 개인의 전문성을 통해 경제적 가치를 극대화하는 전략이다. 이 연구는 전문성이 어떻게 지속적으로 수익을 창출하는지를 분석한다. 또한, 경제적 연구의 관점에서 대리 코딩의 중요성을 강조한다. 결과적으로, 전문성의 활용이 경제적 성공에 미치는 영향을 조명한다.",
-      "keywords": [
-        "대리 코딩",
-        "전문성",
-        "경제적 수익"
-      ],
-      "source": "Anthropic Research",
-      "date": "6월 16일",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/claude-code-expertise",
       "collectedAt": "2026-06-17"
     },
     {
@@ -3938,8 +4130,8 @@
     {
       "category": "ai",
       "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 예정이다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 가속화하기 위한 협력을 시작했다. 이 협업은 AI 기술의 혁신을 촉진하고, 산업 전반에 걸쳐 새로운 기회를 창출할 것으로 기대된다. 양사는 AI 솔루션의 개발과 적용에 있어 시너지를 낼 계획이다. 이를 통해 AI 기술의 상용화와 발전에 기여할 예정이다.",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 협력은 AI 기술의 혁신을 가속화하는 데 중점을 둔다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화하기 위한 전략적 파트너십을 체결했다. 이 협력은 AI 기술의 혁신을 촉진하고, 산업 전반에 걸쳐 AI 솔루션의 적용을 확대하는 데 중점을 둔다. 양사는 AI 기술의 발전을 통해 새로운 시장 기회를 창출하고, 경쟁력을 강화할 계획이다. 이러한 협력은 AI 산업의 미래를 밝히는 중요한 이정표가 될 것으로 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -3949,7 +4141,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-17"
+      "collectedAt": "2026-06-18"
     },
     {
       "category": "ai",
@@ -4468,120 +4660,6 @@
       "collectedAt": "2026-05-20"
     },
     {
-      "category": "design",
-      "title": "생각만으로 그림을 그리는 시대",
-      "summary": "Neuralink 기술을 통해 사용자가 생각만으로 그림을 그릴 수 있는 가능성이 열리고 있다. 이는 뇌-컴퓨터 인터페이스의 발전을 보여주는 사례로, 창의력의 새로운 경계를 탐험하게 한다.",
-      "summary_full": "Neuralink는 뇌-컴퓨터 인터페이스 기술을 활용하여 사용자가 자신의 생각을 직접 그림으로 표현할 수 있는 시대를 열고 있다. 이 기술은 뇌의 신호를 해석하여 시각적 이미지를 생성하는 방식으로 작동한다. 이는 예술과 창의성의 새로운 차원을 제공하며, 다양한 분야에서 혁신적인 변화를 가져올 것으로 기대된다. 앞으로의 발전에 따라 이러한 기술이 더욱 정교해지고 접근 가능해질 것이다.",
-      "keywords": [
-        "Neuralink",
-        "뇌-컴퓨터 인터페이스",
-        "창의성"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T12:52:02.603Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-751/",
-      "collectedAt": "2026-05-18"
-    },
-    {
-      "category": "frontend",
-      "title": "오래된 Gmail 계정 구매",
-      "summary": "깨끗한 기록을 가진 오래된 Gmail 계정을 구매할 수 있는 서비스입니다. 24시간 내에 응답하며, 연락처는 WhatsApp과 Telegram을 통해 가능합니다.",
-      "summary_full": "디지털 커뮤니케이션은 현대 생활에서 가장 중요한 부분 중 하나가 되었습니다. 개인적인 대화부터 학문적 학습까지 다양한 용도로 사용됩니다. 이 서비스는 깨끗한 기록을 가진 오래된 Gmail 계정을 판매합니다. 고객은 24시간 이내에 응답을 받을 수 있으며, WhatsApp과 Telegram을 통해 연락할 수 있습니다.",
-      "keywords": [
-        "Gmail 계정",
-        "구매",
-        "디지털 커뮤니케이션"
-      ],
-      "source": "dev.to",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T12:46:50.000Z",
-      "url": "https://dev.to/pvasmmmarket78i/buy-old-gmail-accounts-2gp8",
-      "collectedAt": "2026-05-18"
-    },
-    {
-      "category": "industry",
-      "title": "M&M 색상 조사의 필요성",
-      "summary": "색상이 우리의 뇌에 미치는 영향과 그 변화를 주는 이유를 탐구한다. M&M의 제품 전략과 논란에 대한 심층 분석이다.",
-      "summary_full": "색상은 우리의 인식과 감정에 큰 영향을 미친다. M&M의 색상 전략은 소비자 행동을 조작하는 방법을 보여준다. 이 기사는 M&M의 제품 전술과 관련된 논란을 다룬다. 색상 변경이 소비자에게 미치는 효과에 대한 통찰을 제공한다.",
-      "keywords": [
-        "M&M",
-        "색상 심리학",
-        "소비자 행동"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T12:43:35.000Z",
-      "url": "https://uxdesign.cc/the-big-m-ms-color-investigation-you-could-ve-totally-lived-without-f836bd2697ec?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-18"
-    },
-    {
-      "category": "trend",
-      "title": "CAD, 3D 프린팅, AI가 다이아몬드 보석 제조를 혁신하다",
-      "summary": "5,000년 이상 수작업으로 제작된 다이아몬드 보석이 최근 기술 혁신으로 변화하고 있다. CAD와 3D 프린팅, AI의 도입으로 전통적인 제작 방식이 재편되고 있다.",
-      "summary_full": "다이아몬드 보석은 5,000년 동안 수작업으로 제작되어 왔으나, 최근 10년 동안 기술 혁신이 이루어졌다. CAD, 3D 프린팅, AI의 도입으로 보석 제조 과정이 크게 변화하고 있다. 이러한 변화는 수작업에서 디지털 제작으로의 전환을 의미한다. 이는 보석 디자인의 효율성과 정밀성을 높이고 있다.",
-      "keywords": [
-        "CAD",
-        "3D 프린팅",
-        "AI",
-        "다이아몬드 보석",
-        "제조 혁신"
-      ],
-      "source": "dev.to",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T12:28:25.000Z",
-      "url": "https://dev.to/arihadiamonds/how-cad-3d-printing-and-ai-are-transforming-diamond-jewellery-manufacturing-493m",
-      "collectedAt": "2026-05-18"
-    },
-    {
-      "category": "industry",
-      "title": "미국, 필리핀에 4,000에이커 AI 허브 건설",
-      "summary": "미국과 필리핀은 마닐라 북쪽의 뉴 클락 시티에 4,000에이커 규모의 인공지능 및 공급망 허브를 신속히 추진하고 있다. 이 계획에 대한 주권 문제도 제기되고 있다.",
-      "summary_full": "미국과 필리핀 정부는 뉴 클락 시티에 인공지능 및 공급망 허브를 건설하기 위해 빠르게 움직이고 있다. 제이콥 헬버그 경제담당 차관은 미국 기업들과 함께 제안된 부지를 방문했다. 이 프로젝트는 양국 간의 협력을 강화하는 동시에 주권 문제를 일으키고 있다. 미국의 AI 허브 건설은 필리핀의 경제 발전에도 기여할 것으로 기대된다.",
-      "keywords": [
-        "AI 허브",
-        "필리핀",
-        "미국"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T12:10:21.000Z",
-      "url": "https://thenextweb.com/news/us-philippines-pax-silica-ai-hub-clark-city",
-      "collectedAt": "2026-05-18"
-    },
-    {
-      "category": "trend",
-      "title": "구글 I/O 2026 시청 방법",
-      "summary": "구글 I/O가 돌아왔으며, 검색, 안드로이드, 제미니, 그리고 새로운 안드로이드 XR 스마트 안경에 대한 업데이트가 포함되어 있습니다. 발표를 실시간으로 시청하는 방법과 기대할 사항에 대해 안내합니다.",
-      "summary_full": "구글 I/O 2026이 개최되며, 다양한 기술 업데이트가 발표될 예정입니다. 주요 내용으로는 검색 기능, 안드로이드 운영체제, 제미니 AI, 그리고 새로운 안드로이드 XR 스마트 안경이 포함됩니다. 발표를 실시간으로 시청하는 방법에 대한 정보도 제공됩니다. 참석자들은 최신 기술 동향을 확인할 수 있는 기회를 가질 것입니다.",
-      "keywords": [
-        "구글 I/O",
-        "안드로이드",
-        "스마트 안경"
-      ],
-      "source": "wired.com",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T11:00:00.000Z",
-      "url": "https://www.wired.com/story/how-to-watch-google-io/",
-      "collectedAt": "2026-05-18"
-    },
-    {
-      "category": "industry",
-      "title": "토스페이먼츠가 양자·AI 시대를 준비하는 방법",
-      "summary": "토스페이먼츠는 양자내성암호와 AI 기반 취약점 대응을 통해 결제 보안을 강화하고 있다. 신용석 CISO는 기업의 자발적 노력이 정부 정책에도 긍정적인 영향을 미칠 수 있다고 강조했다.",
-      "summary_full": "토스페이먼츠는 기존 보안 거버넌스를 바탕으로 양자내성암호(PQC)와 AI 기반의 취약점 대응을 추진하고 있다. 이들은 결제 가용성을 지키기 위한 예방 중심의 과제로, 이사회 보고와 개인정보 영향평가도 포함된다. 신용석 CISO는 기업의 의무와 자발적 노력이 정부 정책에 긍정적인 영향을 줄 수 있다고 언급했다. 이러한 접근은 기업의 보안 강화에 중요한 역할을 할 것으로 기대된다.",
-      "keywords": [
-        "토스페이먼츠",
-        "양자내성암호",
-        "AI 기반 보안"
-      ],
-      "source": "바이라인네트워크",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T10:40:39.000Z",
-      "url": "https://byline.network/2026/05/18-580/",
-      "collectedAt": "2026-05-18"
-    },
-    {
       "category": "ai",
       "title": "OpenAI와 Dell, 하이브리드 및 온프레미스 환경에 Codex 도입",
       "summary": "OpenAI와 Dell이 협력하여 Codex를 하이브리드 및 온프레미스 환경에 도입합니다. 이를 통해 기업들이 데이터와 워크플로우 전반에 걸쳐 AI 코딩 에이전트를 안전하게 배포할 수 있도록 지원합니다.",
@@ -4598,38 +4676,6 @@
       "publishedAt": "2026-05-18T10:00:00.000Z",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
       "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "ai",
-      "title": "OpenAI와 몰타, 모든 시민에게 ChatGPT Plus 제공",
-      "summary": "OpenAI와 몰타가 협력하여 AI 접근성을 확대하고, 시민들에게 ChatGPT Plus와 AI 기술 교육을 제공합니다. 이를 통해 시민들이 실용적인 AI 기술을 배우고 책임감 있게 AI를 활용할 수 있도록 지원합니다.",
-      "summary_full": "OpenAI와 몰타가 파트너십을 맺고 AI 접근성을 높이기 위해 노력하고 있습니다. 이 협력의 일환으로, 몰타의 모든 시민에게 ChatGPT Plus와 AI 관련 교육이 제공됩니다. 시민들은 이를 통해 실용적인 AI 기술을 습득하고, AI를 책임감 있게 사용할 수 있는 방법을 배우게 됩니다. 이러한 이니셔티브는 AI 기술의 활용을 촉진하고, 시민들의 기술 향상을 도모하는 데 기여할 것입니다.",
-      "keywords": [
-        "OpenAI",
-        "몰타",
-        "ChatGPT Plus"
-      ],
-      "source": "OpenAI News",
-      "date": "5월 16일",
-      "publishedAt": "2026-05-16T00:00:00.000Z",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "collectedAt": "2026-05-18"
-    },
-    {
-      "category": "frontend",
-      "title": "What’s !important #11: 3D 복셀 장면, 비행 포커스, CSS 문법 등",
-      "summary": "3D 복셀 장면과 비행 포커스 애니메이션, 새로운 CSS 문법을 다룬 이 호는 웹 개발자에게 유용한 정보가 가득하다. Polypane, 스크롤 기반 애니메이션, Chrome 148 및 Safari 26.5의 최신 웹 플랫폼 업데이트도 포함되어 있다.",
-      "summary_full": "이번 What’s !important #11에서는 3D 복셀 장면, 비행 포커스 애니메이션, 새로운 CSS 문법 등을 소개한다. 또한 Polypane와 스크롤 기반 애니메이션, Chrome 148 및 Safari 26.5의 최신 웹 플랫폼 업데이트도 다룬다. David Aerne는 Erwin Heerich의 조각에서 영감을 받아 Heerich.js를 개발하였다. 이 호는 웹 개발자들에게 흥미로운 내용을 제공한다.",
-      "keywords": [
-        "3D 복셀",
-        "CSS 문법",
-        "웹 플랫폼 업데이트"
-      ],
-      "source": "css-tricks.com",
-      "date": "5월 15일",
-      "publishedAt": "2026-05-15T13:16:34.000Z",
-      "url": "https://css-tricks.com/whats-important-11/",
-      "collectedAt": "2026-05-18"
     },
     {
       "category": "design",
@@ -4662,22 +4708,6 @@
       "publishedAt": "2026-05-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1dkbkRGcng3MndPSkdOWHMzT3B3bHhUcHlzcmptbnY0OTJmdy1BbVlQTXRUclFyblpJaTJJRmk3MlBSWFp0b29idDlGaGg2aWJ2UmF3WFZ6ejlTZ1RxdEZTT0xxVVRJT21PblU5YWhMVVhaNmNrcEx1VlZWaXhPZXRhTjl5OV84OTZlMlFfNUFNZTE5aU41am9DODN5RFlQWEFrSzFBVDBWX0pQc3NrTGd1MXUtekZBeEJnZGpJTFJQZw?oc=5",
       "collectedAt": "2026-06-05"
-    },
-    {
-      "category": "ai",
-      "title": "Granite 다국어 임베딩 R2",
-      "summary": "Granite Embedding Multilingual R2는 32K 컨텍스트를 지원하는 오픈 소스 다국어 임베딩 모델이다. 이 모델은 1억 미만의 검색 품질에서 최상의 성능을 자랑한다.",
-      "summary_full": "Granite Embedding Multilingual R2는 Apache 2.0 라이센스 하에 제공되는 다국어 임베딩 모델이다. 이 모델은 32K의 컨텍스트를 활용하여 다양한 언어의 텍스트를 효과적으로 처리할 수 있다. 특히, 1억 미만의 데이터셋에서 최고의 검색 품질을 제공하는 것으로 평가받고 있다. 이는 다국어 처리 및 검색 시스템의 성능을 크게 향상시킬 수 있는 가능성을 보여준다.",
-      "keywords": [
-        "Granite",
-        "다국어 임베딩",
-        "검색 품질"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "5월 14일",
-      "publishedAt": "2026-05-14T18:55:01.000Z",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "collectedAt": "2026-05-18"
     },
     {
       "category": "ai",
@@ -4794,18 +4824,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글에서는 이를 강조하고 있다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자에게 숙제를 준다. 디자이너는 좋은 사람들로, 그들의 의견은 웹사이트 개선에 유익하다고 주장한다. 저자는 독자들이 동의할 만한 몇 가지 진술로 시작한다.",
+      "summary": "웹사이트 접근성의 중요성을 논의하며, 디자이너의 역할을 강조한다.",
+      "summary_full": "웹사이트 접근성은 가장 중요한 요소로, 디자이너들이 이를 고려해야 한다. 이 글은 개인적인 의견을 바탕으로 디자이너들이 좋은 사람이라는 점을 강조한다. 또한, 독자들에게 숙제를 내주며 웹사이트 개선을 위한 실천을 촉구한다.",
       "keywords": [
-        "접근성",
+        "디자인",
         "웹사이트",
-        "디자인"
+        "접근성"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-17"
+      "collectedAt": "2026-06-18"
     },
     {
       "category": "ai",
@@ -4826,8 +4856,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 다룬 기사입니다. 9가지 주요 트렌드를 통해 향후 디자인 방향성을 제시합니다.",
-      "summary_full": "이 기사에서는 2026년을 대비한 UX 디자인의 9가지 주요 트렌드를 소개합니다. 각 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있습니다. 이러한 트렌드는 기술 발전과 사용자 요구 변화에 따라 진화하고 있습니다. 디자이너와 기업들이 이 트렌드를 이해하고 적용하는 것이 중요합니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
+      "summary_full": "이 기사에서는 2026년을 대비한 9가지 UX 디자인 트렌드를 다룹니다. 각 트렌드는 사용자 경험을 향상시키고, 기술 발전에 발맞춰 변화하는 디자인 방향성을 제시합니다. 이러한 트렌드는 기업들이 사용자와의 상호작용을 개선하는 데 중요한 역할을 할 것입니다. UX 디자인의 미래를 이해하는 데 도움이 되는 통찰력을 제공합니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4837,7 +4867,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-06-17"
+      "collectedAt": "2026-06-18"
     },
     {
       "category": "ai",
