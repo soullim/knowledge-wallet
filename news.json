@@ -1,22 +1,214 @@
 {
-  "updated": "2026년 6월 18일 AM 03:51",
-  "count": 304,
+  "updated": "2026년 6월 19일 AM 04:11",
+  "count": 307,
   "articles": [
     {
       "category": "industry",
       "title": "프로덕트 디자이너가 던져야 할 질문",
-      "summary": "오늘의집 프로덕트 디자인팀이 AI 시대에 필요한 질문을 다룬다. 디자인의 질을 높이기 위한 새로운 접근법을 제시한다.",
-      "summary_full": "AI 시대에 모든 디자이너가 평균적인 결과를 내는 상황에서, 프로덕트 디자이너는 더 깊은 질문을 던져야 한다. 오늘의집의 디자인팀이 이러한 질문을 통해 디자인의 질을 향상시키고자 한다. 이 글은 AI Frontier 시리즈의 두 번째 이야기로, 디자인의 미래를 탐구한다. 디자이너들이 직면한 도전과 기회를 조명한다.",
+      "summary": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기로, 디자인의 새로운 패러다임을 탐구한다. 디자이너들이 60점을 만드는 시대에 진정한 질문을 던져야 한다는 메시지를 전달한다.",
+      "summary_full": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기로, 디자인의 새로운 패러다임을 탐구한다. 이 글에서는 누구나 60점을 만드는 시대에 프로덕트 디자이너들이 던져야 할 진정한 질문에 대해 이야기한다. 디자이너들이 단순히 기능적인 디자인을 넘어서, 의미 있는 경험을 창출하기 위해 고민해야 한다는 점을 강조한다. 궁극적으로, 디자인의 질을 높이기 위한 사고의 전환이 필요하다는 메시지를 전한다.",
       "keywords": [
         "프로덕트 디자인",
-        "AI 시대",
+        "AI Frontier",
         "디자인 질문"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 18일",
-      "publishedAt": "2026-06-18T03:49:44.299Z",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T04:10:05.280Z",
       "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
-      "collectedAt": "2026-06-18"
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "design",
+      "title": "미드저니, 의료 기기 출시",
+      "summary": "미드저니가 새로운 의료 기기를 출시했다. 이 기기는 의료 분야에서의 혁신을 목표로 하고 있다.",
+      "summary_full": "미드저니가 혁신적인 의료 기기를 출시했다. 이 기기는 최신 기술을 활용하여 의료 서비스의 질을 향상시키는 데 중점을 두고 있다. 특히, 환자 모니터링 및 진단의 정확성을 높이는 데 기여할 것으로 기대된다. 향후 의료 산업에 큰 영향을 미칠 것으로 보인다.",
+      "keywords": [
+        "미드저니",
+        "의료 기기",
+        "혁신"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T04:09:59.746Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-774/",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "frontend",
+      "title": "내 CSS 작업 흐름",
+      "summary": "3줄의 깔끔한 CSS를 작성했지만, border-radius를 추가하니 레이아웃이 무너졌다.",
+      "summary_full": "3줄의 깔끔한 CSS를 작성한 후 모든 것이 완벽하게 보였다. 그러나 border-radius: 5px;를 추가하자 전체 레이아웃이 무너지고 사라졌다. 이런 경험을 한 사람은 누구인가? 😂",
+      "keywords": [
+        "CSS",
+        "border-radius",
+        "레이아웃"
+      ],
+      "source": "dev.to",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T04:06:57.000Z",
+      "url": "https://dev.to/jenny_akhi_aade503c2764f6/my-css-workflow-2jop",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "industry",
+      "title": "마이크로소프트, AI 기반 보안의 필요성 강조",
+      "summary": "AI를 활용한 보안 방어는 선택이 아닌 필수라는 주장이 제기됐다. 공격자들이 이미 AI를 사용하고 있기 때문에 기존 보안 프레임워크로는 대응이 어렵다는 경고가 나왔다.",
+      "summary_full": "마이크로소프트의 박상준 리드가 AI를 활용한 보안의 중요성을 강조했다. 그는 공격자들이 이미 AI를 갖추고 있어 기존의 보안 프레임워크로는 대응할 수 없다고 경고했다. AI를 이용한 방어는 더 이상 선택이 아닌 필수라는 메시지를 전달했다. 이 발언은 서울 잠실 롯데호텔에서 열린 행사에서 이루어졌다.",
+      "keywords": [
+        "마이크로소프트",
+        "AI 보안",
+        "사이버 공격"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T02:33:41.000Z",
+      "url": "https://byline.network/2026/06/microsoft/",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "trend",
+      "title": "인터랙티브 모바일 인터페이스를 위한 신속 프로토타이핑 도구",
+      "summary": "인터랙션 레이어는 사용자 입력에 대한 반응을 결정하는 신속 프로토타입의 구성 요소이다. 모바일 인터페이스에서는 터치 제스처와 화면 전환을 시뮬레이션해야 한다.",
+      "summary_full": "인터랙션 레이어는 신속 프로토타입의 중요한 요소로, 사용자 입력에 대한 반응을 결정한다. 이는 프로토타입의 외관이나 내용과는 별개이다. 모바일 인터페이스의 경우, 이 레이어는 터치 제스처와 화면 전환을 효과적으로 시뮬레이션해야 한다. 따라서 데모의 품질은 인터랙션 레이어의 구현에 크게 의존한다.",
+      "keywords": [
+        "프로토타이핑",
+        "인터랙션 레이어",
+        "모바일 인터페이스"
+      ],
+      "source": "dev.to",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T02:21:00.000Z",
+      "url": "https://dev.to/fan-song/rapid-prototyping-tools-for-interactive-mobile-interfaces-what-the-interaction-layer-is-and-why-it-5f7o",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "frontend",
+      "title": "전문성 밖으로 나아가기",
+      "summary": "TW는 제품 오너로서 제품을 만들고, 팀의 방향과 우선순위를 정하는 역할을 한다.",
+      "summary_full": "TW는 Knowledge System Team의 리더로서 개발자, 디자이너와 협력하여 제품의 방향을 설정하고 로드맵을 관리한다. 사용자를 인터뷰하여 인사이트를 얻고, 기능을 기획하며 AI 도구로 직접 제품을 제작하기도 한다. TW는 단순한 문서 작성자가 아니라, 제품에 대한 판단을 내리고 실제로 만드는 메이커로 활동하고 있다. 이러한 역할을 통해 TW는 문서와 지식의 핵심을 다루고 있다.",
+      "keywords": [
+        "TW",
+        "제품 오너",
+        "Knowledge System Team"
+      ],
+      "source": "toss.tech",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T02:01:00.000Z",
+      "url": "https://toss.tech/article/technical-writing-2",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "design",
+      "title": "하반기 UX·UI 트렌드 4선",
+      "summary": "기업들이 주목해야 할 하반기 UX·UI 트렌드를 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 중요한 요소로 작용한다.",
+      "summary_full": "이번 기사에서는 기업들이 반드시 알아야 할 하반기 UX·UI 트렌드 4가지를 다룬다. 각 트렌드는 사용자 경험을 개선하고, 디자인의 효율성을 높이는 데 중점을 두고 있다. 이를 통해 기업들은 경쟁력을 강화할 수 있는 기회를 가질 수 있다. 최신 트렌드를 반영한 디자인 전략이 필요하다.",
+      "keywords": [
+        "UX",
+        "UI",
+        "트렌드"
+      ],
+      "source": "Google News Design (KR)",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T23:54:54.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfdmNKdU5TQVdwbjFWU1liWnRQUjJHQmJjRFdveTZUWjdWckZtaEk5elBUSGJ0RTVwTk9wRzZZT09mRC1kWmt4NFRvOHdZdw?oc=5",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "trend",
+      "title": "프라임 데이 조기 할인 2026: 브레빌과 닌자 에스프레소 머신 할인",
+      "summary": "2026년 프라임 데이에서 브레빌 바리스타 익스프레스와 닌자 럭스 카페 프로가 최고의 조기 할인 품목으로 소개되었다. 이 두 제품은 커피 애호가들에게 특히 추천된다.",
+      "summary_full": "2026년 프라임 데이에서 브레빌 바리스타 익스프레스와 닌자 럭스 카페 프로가 주목받고 있다. 이 두 에스프레소 머신은 뛰어난 성능과 품질로 많은 소비자들에게 사랑받고 있다. 조기 할인으로 인해 더 많은 사람들이 이 제품을 구매할 기회를 갖게 되었다. 커피를 즐기는 이들에게는 최적의 선택이 될 것이다.",
+      "keywords": [
+        "프라임 데이",
+        "브레빌",
+        "닌자 에스프레소 머신"
+      ],
+      "source": "wired.com",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T23:03:39.000Z",
+      "url": "https://www.wired.com/story/early-espresso-machine-deals-prime-day-2026/",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "industry",
+      "title": "2026년 생존하는 디자이너와 그렇지 않은 디자이너를 구분짓는 한 가지 기술",
+      "summary": "AI가 UX 디자이너의 미래를 위협하고 있다. 디자이너들은 빌더, 메이커, 시스템 사고가로 변모해야 한다.",
+      "summary_full": "AI의 발전이 UX 디자이너의 직업을 위협하고 있다. 디자이너들은 단순한 디자인 작업을 넘어 빌더와 메이커로서의 역할을 수행해야 한다. 시스템 사고를 갖춘 디자이너만이 2026년 이후에도 생존할 수 있을 것이다. 기업들은 AI의 도입을 통해 인력을 대체할 가능성을 높이고 있다.",
+      "keywords": [
+        "UX 디자인",
+        "AI",
+        "디자이너 생존 전략"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T22:05:51.000Z",
+      "url": "https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "industry",
+      "title": "201년 된 상호은행, 스타트업과 AI 우수센터 개소",
+      "summary": "리버티 뱅크가 플레어 AI와의 전략적 파트너십을 통해 AI 우수센터를 개소했다. 이 센터는 은행의 개인, 상업 및 디지털 운영에 대한 AI 전략과 실행의 중심 역할을 할 예정이다.",
+      "summary_full": "리버티 뱅크는 코네티컷 미들타운에 본사를 둔 201년 된 상호은행이다. 이 은행은 플레어 AI와의 파트너십을 통해 AI 우수센터를 출범했다. 센터는 은행의 개인, 상업 및 디지털 운영 전반에 걸쳐 AI 전략, 거버넌스 및 실행을 담당할 예정이다. 파트너십은 결과 중심으로 구성되어 있다.",
+      "keywords": [
+        "리버티 뱅크",
+        "AI 우수센터",
+        "플레어 AI"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T19:34:40.000Z",
+      "url": "https://thenextweb.com/news/liberty-bank-ai-center-excellence-flare-partnership",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "ai",
+      "title": "모자이크리크스: 당신의 연구 에이전트는 비밀을 지킬 수 있는가?",
+      "summary": "모자이크리크스는 연구 에이전트의 비밀 유지 능력에 대한 질문을 던진다. 이 시스템이 얼마나 신뢰할 수 있는지를 탐구한다.",
+      "summary_full": "모자이크리크스는 연구 에이전트가 비밀을 얼마나 잘 지킬 수 있는지를 분석한다. 연구 과정에서의 정보 유출 위험과 그에 대한 해결책을 모색한다. 이 시스템의 신뢰성과 보안성에 대한 논의가 이루어진다. 연구자들이 비밀을 안전하게 유지할 수 있는 방법에 대한 통찰을 제공한다.",
+      "keywords": [
+        "모자이크리크스",
+        "연구 에이전트",
+        "비밀 유지"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T18:13:13.000Z",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude 디자인 대규모 업데이트",
+      "summary": "Anthropic이 Claude 디자인을 대규모로 업데이트하여 토큰 효율성을 높이고 기업용 브랜드 제어 기능을 강화했다. 이번 업데이트는 사용자 경험을 개선하고 기업의 요구에 맞춘 기능을 제공하는 데 중점을 두었다.",
+      "summary_full": "Anthropic이 Claude 디자인에 대한 대규모 업데이트를 발표했다. 이번 업데이트는 토큰 효율성을 크게 향상시키며, 기업들이 브랜드를 더욱 효과적으로 제어할 수 있는 기능을 추가했다. 이러한 변화는 사용자 경험을 개선하고 기업의 다양한 요구를 충족시키기 위한 노력의 일환으로 볼 수 있다. 새로운 기능들은 기업 고객들에게 더 나은 솔루션을 제공하는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "Anthropic",
+        "Claude 디자인",
+        "업데이트"
+      ],
+      "source": "Google News Anthropic",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T17:16:42.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90SG1iX1pvOHBkVGFhd19KeGdwbGNRTUlSZVpNeUtxZHdFSi1UZEdiQ0xfOEZEUmRLWmhiZ1dsN1JMeEM4b3BfZ0p4dVM?oc=5",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "ai",
+      "title": "기업을 위한 새로운 사용 분석 및 지출 관리 기능",
+      "summary": "OpenAI는 ChatGPT Enterprise를 위한 새로운 지출 관리 기능과 사용 분석을 도입했습니다. 이를 통해 조직은 비용을 관리하고 AI를 자신 있게 확장할 수 있습니다.",
+      "summary_full": "OpenAI는 ChatGPT Enterprise에 새로운 지출 관리 기능과 사용 분석 도구를 추가했습니다. 이 기능은 기업이 AI 사용을 최적화하고 비용을 효과적으로 관리하는 데 도움을 줍니다. 이를 통해 조직은 AI 기술을 보다 안전하게 확장할 수 있습니다. 새로운 도구는 기업의 재정적 부담을 줄이고 효율성을 높이는 데 기여할 것입니다.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT Enterprise",
+        "비용 관리"
+      ],
+      "source": "OpenAI News",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T17:00:00.000Z",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "collectedAt": "2026-06-19"
     },
     {
       "category": "design",
@@ -65,6 +257,38 @@
       "publishedAt": "2026-06-18T01:59:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oOUNlNnJQbFdiRjdWdFpRenNvUC1YQW5LbDNhUkhxenQzTGRCR2dIVlpyM2JfOVc4d3VVam1CdzNKWDRuWGRzaXZyMEZxbVZOMEIweUJ5X0NRWmc?oc=5",
       "collectedAt": "2026-06-18"
+    },
+    {
+      "category": "figma",
+      "title": "Figma 디자인 에이전트에서 웹 검색 기능 추가",
+      "summary": "Figma 디자인 에이전트에서 실시간 웹 검색 기능이 도입되었습니다. 사용자는 파일을 떠나지 않고도 실제 콘텐츠로 디자인을 채울 수 있습니다.",
+      "summary_full": "Figma 디자인 에이전트에 웹 검색 기능이 추가되어 사용자는 실시간 웹 컨텍스트를 가져올 수 있습니다. 이를 통해 최적의 사례를 찾고, 자리 표시자 대신 실제 콘텐츠로 디자인을 채울 수 있습니다. 사용자는 채팅에서 '웹 검색'을 입력하거나 플러스 메뉴에서 웹 검색을 활성화하여 시작할 수 있습니다. 조직 및 엔터프라이즈 플랜의 관리자들은 웹 검색을 관리할 수 있는 기능도 제공합니다.",
+      "keywords": [
+        "Figma",
+        "웹 검색",
+        "디자인 에이전트"
+      ],
+      "source": "Figma Release Notes",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-06-19"
+    },
+    {
+      "category": "ai",
+      "title": "프론티어 레드팀 프로젝트 페치: 2단계",
+      "summary": "프론티어 레드팀의 프로젝트 페치가 2단계에 접어들었다. 이 단계에서는 새로운 목표와 전략이 설정된다.",
+      "summary_full": "프론티어 레드팀은 2026년 6월 18일에 프로젝트 페치의 두 번째 단계를 발표했다. 이번 단계에서는 이전 단계에서의 성과를 바탕으로 새로운 목표를 설정하고, 이를 달성하기 위한 전략을 수립한다. 팀은 다양한 기술적 도전과제를 해결하기 위해 협력할 예정이다. 프로젝트의 진행 상황은 지속적으로 업데이트될 예정이다.",
+      "keywords": [
+        "프론티어",
+        "레드팀",
+        "프로젝트 페치"
+      ],
+      "source": "Anthropic Research",
+      "date": "6월 18일",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "collectedAt": "2026-06-19"
     },
     {
       "category": "industry",
@@ -149,18 +373,18 @@
     {
       "category": "frontend",
       "title": "ariaNotify()의 매력",
-      "summary": "새로운 웹 플랫폼 기능에 대해 소개합니다. 이 기능은 이해하기 쉬운 문법으로 강력한 솔루션을 제공합니다.",
-      "summary_full": "이번에 소개할 기능은 오랫동안 기다려온 웹 플랫폼의 새로운 기능입니다. 이 기능은 더 나은 솔루션이 절실히 필요했던 사용 사례를 충족합니다. 또한 즉각적으로 이해할 수 있는 문법을 통해 강력한 성능을 발휘합니다. 개발자들에게 매력적인 요소가 될 것입니다.",
+      "summary": "새로운 웹 플랫폼 기능에 대한 소개로, 개발자들에게 유용한 솔루션을 제공한다. 이 기능은 이해하기 쉬운 문법과 강력한 기능을 갖추고 있다.",
+      "summary_full": "ariaNotify()는 오랫동안 기다려온 웹 플랫폼의 새로운 기능으로, 개발자들에게 필요한 솔루션을 제공합니다. 이 기능은 즉각적으로 이해할 수 있는 문법을 통해 사용되며, 강력한 성능을 자랑합니다. 개발자들에게 매력적인 요소가 많아, 많은 관심을 받을 것으로 예상됩니다. 이는 웹 개발의 효율성을 높이는 데 기여할 것입니다.",
       "keywords": [
         "웹 플랫폼",
-        "기능",
-        "개발자"
+        "개발자",
+        "기능"
       ],
       "source": "css-tricks.com",
       "date": "6월 17일",
       "publishedAt": "2026-06-17T15:32:30.000Z",
       "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
-      "collectedAt": "2026-06-18"
+      "collectedAt": "2026-06-19"
     },
     {
       "category": "ai",
@@ -259,22 +483,6 @@
       "collectedAt": "2026-06-17"
     },
     {
-      "category": "figma",
-      "title": "AI 사용 크레딧 데이터 API 제공",
-      "summary": "기업 고객은 새로운 AI 사용 크레딧 API를 통해 AI 크레딧 사용 데이터를 프로그래밍 방식으로 접근할 수 있습니다. 이 API를 사용하면 사용자, 제품, 작업 공간 및 팀별로 일일 크레딧 소비를 쉽게 추적할 수 있습니다.",
-      "summary_full": "기업 고객은 이제 새로운 AI 사용 크레딧 API를 통해 AI 크레딧 사용 데이터를 프로그래밍적으로 접근할 수 있게 되었습니다. 이 API 엔드포인트를 사용하면 사용자, 제품(디자인, 제작, FigJam 등), 작업 공간 및 팀별로 일일 크레딧 소비를 확인할 수 있습니다. 이를 통해 내부 보고서를 작성하고 조직 내 채택 진행 상황을 추적하는 것이 더 쉬워집니다. API 문서를 참조하여 시작해 보세요.",
-      "keywords": [
-        "AI 크레딧",
-        "API",
-        "기업 고객"
-      ],
-      "source": "Figma Release Notes",
-      "date": "6월 17일",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-18"
-    },
-    {
       "category": "trend",
       "title": "최고의 휴대용 선풍기와 착용형 선풍기 (2026)",
       "summary": "여름철 축제, 테니스 경기, 결혼식 등에서 유용한 휴대용 선풍기와 착용형 냉각 장치들을 소개합니다. 이 제품들은 더위를 견디는 데 큰 도움이 될 것입니다.",
@@ -308,19 +516,19 @@
     },
     {
       "category": "ai",
-      "title": "AI로 가속화된 영국 주택 건설 계획",
-      "summary": "영국 정부가 Google DeepMind와 협력하여 주택 결정을 빠르게 할 수 있는 AI 기반 프로토타입을 개발하고 있다. 이 프로젝트는 주택 건설을 촉진하는 데 중점을 두고 있다.",
-      "summary_full": "영국 정부는 Google DeepMind와 협력하여 AI로 가속화된 주택 건설 계획을 추진하고 있다. 새로운 프로토타입은 주택 결정을 더 신속하게 내릴 수 있도록 설계되었다. 이 기술은 주택 건설의 효율성을 높이고, 필요한 주택 공급을 신속하게 충족하는 데 기여할 것으로 기대된다. AI의 도입은 영국의 주택 문제 해결에 중요한 역할을 할 수 있다.",
+      "title": "AI 기반 계획으로 영국 주택 건설 혁신",
+      "summary": "영국 정부가 Google DeepMind와 협력하여 주택 결정을 더 빠르게 할 수 있는 AI 프로토타입을 개발하고 있다. 이 프로젝트는 주택 건설을 가속화하는 데 초점을 맞추고 있다.",
+      "summary_full": "영국 정부는 Google DeepMind와 협력하여 AI 기반의 새로운 프로토타입을 개발하고 있다. 이 프로토타입은 주택 건설과 관련된 의사 결정을 신속하게 할 수 있도록 설계되었다. AI 기술을 활용하여 주택 건설 프로세스를 혁신하고, 더 많은 주택을 빠르게 공급하려는 목표를 가지고 있다. 이러한 노력은 영국 내 주택 부족 문제를 해결하는 데 기여할 것으로 기대된다.",
       "keywords": [
         "AI",
         "주택 건설",
-        "영국 정부"
+        "Google DeepMind"
       ],
       "source": "Google DeepMind Blog",
       "date": "6월 16일",
       "publishedAt": "2026-06-16T21:29:50.000Z",
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "collectedAt": "2026-06-18"
+      "collectedAt": "2026-06-19"
     },
     {
       "category": "industry",
@@ -340,19 +548,19 @@
     },
     {
       "category": "design",
-      "title": "불확실성 속 디자인: AI가 확률적 사고를 강화하는 방법",
-      "summary": "AI 챗봇이 잘못된 환불 정책을 제시하여 고객과 항공사 간의 분쟁이 발생했다. 이는 AI의 예측이 실제 정책으로 오해될 수 있는 위험성을 보여준다.",
-      "summary_full": "2024년, 에어캐나다 고객이 챗봇에게 장례식 요금에 대해 문의했으나, 챗봇은 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 법원은 고객의 손을 들어주었다. 챗봇은 훈련 데이터의 패턴을 기반으로 답변을 예측했을 뿐이며, 이는 정책으로 오인되었다. 이러한 사례는 디자인 과정에서 AI의 예측이 어떻게 위험 요소가 될 수 있는지를 보여준다.",
+      "title": "불확실성을 디자인하다: AI가 확률적 사고를 강화하는 방법",
+      "summary": "AI가 예측한 답변이 실제 정책으로 오해되는 사례를 통해 디자인의 위험성을 조명한다.",
+      "summary_full": "2024년, 에어캐나다 고객이 챗봇에게 장례 할인 요금에 대해 문의했으나, 챗봇이 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 재판소는 고객의 손을 들어주었다. 챗봇은 결정을 내린 것이 아니라 훈련 데이터의 패턴을 기반으로 답변을 예측한 것이었다. 이러한 예측이 정책으로 오인되는 것이 디자인의 핵심 위험이다.",
       "keywords": [
         "AI",
-        "불확실성",
-        "확률적 사고"
+        "확률적 사고",
+        "디자인 위험"
       ],
       "source": "smashingmagazine.com",
       "date": "6월 16일",
       "publishedAt": "2026-06-16T15:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-      "collectedAt": "2026-06-18"
+      "collectedAt": "2026-06-19"
     },
     {
       "category": "frontend",
@@ -452,11 +660,11 @@
     },
     {
       "category": "ai",
-      "title": "정부, 한국형 챗GPT ‘모두의 AI’ 출시",
-      "summary": "정부가 한국형 챗GPT인 ‘모두의 AI’를 올해 안에 출시할 계획이다. 이를 위해 국산 LLM이 총동원된다.",
-      "summary_full": "한국 정부는 한국형 챗GPT인 ‘모두의 AI’를 연내에 출시할 예정이다. 이 프로젝트는 국내에서 개발된 대규모 언어 모델(LLM)을 활용하여 진행된다. 정부는 AI 기술의 발전을 통해 다양한 분야에서 활용할 수 있도록 할 계획이다. 이는 한국의 AI 산업 발전에도 기여할 것으로 기대된다.",
+      "title": "한국형 챗GPT ‘모두의 AI’ 연내 출시",
+      "summary": "정부가 한국형 챗GPT인 ‘모두의 AI’를 올해 안에 출시할 계획이다. 이를 위해 국산 LLM(대형 언어 모델)을 총동원할 예정이다.",
+      "summary_full": "정부는 한국형 챗GPT인 ‘모두의 AI’를 연내에 출시할 예정이다. 이 프로젝트는 국산 LLM을 활용하여 진행되며, AI 기술의 발전을 목표로 하고 있다. ‘모두의 AI’는 다양한 분야에서 활용될 수 있는 가능성을 가지고 있다. 정부는 이를 통해 AI 기술의 자립성을 높이고, 국내 시장을 활성화할 계획이다.",
       "keywords": [
-        "한국형 챗GPT",
+        "챗GPT",
         "모두의 AI",
         "국산 LLM"
       ],
@@ -464,7 +672,7 @@
       "date": "6월 16일",
       "publishedAt": "2026-06-16T01:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdFBwcW9ha2hCbjJpZTJYakVoTlJ5LVRDVWtLb2JHOEZqTEtzRXdCZUNxQmxmVVE0SmczdnVpdmpJMi1XZ0hES09xUW9tQkJwT1HSAVNBVV95cUxOc1Fqa3VEY0NFN3A2ck5KUjBWalNZWHlJUkdLcmlZZUp4Mlp4NFNmd1pZN3pzelRDNmlHOW1yRG9CUVF2MTNpOURZQmYxYjhEbm92bw?oc=5",
-      "collectedAt": "2026-06-18"
+      "collectedAt": "2026-06-19"
     },
     {
       "category": "ai",
@@ -4130,8 +4338,8 @@
     {
       "category": "ai",
       "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 협력은 AI 기술의 혁신을 가속화하는 데 중점을 둔다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화하기 위한 전략적 파트너십을 체결했다. 이 협력은 AI 기술의 혁신을 촉진하고, 산업 전반에 걸쳐 AI 솔루션의 적용을 확대하는 데 중점을 둔다. 양사는 AI 기술의 발전을 통해 새로운 시장 기회를 창출하고, 경쟁력을 강화할 계획이다. 이러한 협력은 AI 산업의 미래를 밝히는 중요한 이정표가 될 것으로 기대된다.",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 파트너십은 AI 기술의 혁신을 가속화하는 데 중점을 두고 있다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 협력 관계를 구축했다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있으며, 두 회사의 시너지를 통해 새로운 기회를 창출할 예정이다. AI 산업의 성장에 기여하기 위해 다양한 프로젝트와 연구가 진행될 계획이다. 이를 통해 AI 기술의 상용화와 산업 전반에 걸친 적용이 가속화될 것으로 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4141,7 +4349,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-18"
+      "collectedAt": "2026-06-19"
     },
     {
       "category": "ai",
@@ -4516,102 +4724,6 @@
       "collectedAt": "2026-05-22"
     },
     {
-      "category": "frontend",
-      "title": "Shopify와 WooCommerce: UAE 전자상거래 스토어에 적합한 플랫폼은?",
-      "summary": "UAE 기업들이 자주 묻는 질문으로, 두 플랫폼은 각각 다른 상황에 적합하다. 두 플랫폼의 장단점을 비교하여 어떤 상황에서 Shopify가 더 유리한지 설명한다.",
-      "summary_full": "UAE의 전자상거래 비즈니스에서 가장 흔히 묻는 질문은 Shopify와 WooCommerce 중 어떤 플랫폼이 더 나은지에 대한 것이다. 두 플랫폼은 모두 효과적이지만, 각기 다른 상황에서 최적의 성능을 발휘한다. 이 글에서는 두 플랫폼의 장단점을 분석하고, Dubai와 Abu Dhabi에서의 실제 사례를 통해 어떤 경우에 Shopify를 선택해야 하는지에 대해 설명한다.",
-      "keywords": [
-        "Shopify",
-        "WooCommerce",
-        "UAE 전자상거래"
-      ],
-      "source": "dev.to",
-      "date": "5월 19일",
-      "publishedAt": "2026-05-19T11:44:02.000Z",
-      "url": "https://dev.to/anastanveer/shopify-vs-woocommerce-which-one-for-your-uae-e-commerce-store-411b",
-      "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "trend",
-      "title": "허먼 밀러 코일 스탠딩 데스크, 게이머를 위한 디자인",
-      "summary": "코일 디자인의 전원 케이블로 깔끔하게 정리된 코일 스탠딩 데스크입니다. 높이 조절을 위한 지루한 레버 대신 회전 다이얼을 사용합니다.",
-      "summary_full": "허먼 밀러의 코일 스탠딩 데스크는 게이머를 위해 특별히 설계되었습니다. 전원 케이블은 코일 디자인으로 깔끔하게 정리되어 있습니다. 높이 조절 방식은 기존의 지루한 레버 대신 회전 다이얼을 사용하여 편리함을 더했습니다. 이 데스크는 게이밍 환경에 최적화된 기능성을 제공합니다.",
-      "keywords": [
-        "허먼 밀러",
-        "스탠딩 데스크",
-        "게이머"
-      ],
-      "source": "wired.com",
-      "date": "5월 19일",
-      "publishedAt": "2026-05-19T11:00:00.000Z",
-      "url": "https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/",
-      "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "trend",
-      "title": "전시회에서 브랜드의 주목을 끌기 위한 디자인 중요성",
-      "summary": "전시회에서 브랜드는 단 몇 초 안에 주목을 받아야 하며, 나쁜 디스플레이 디자인은 방문객을 즉시 멀어지게 할 수 있다. 흔한 실수로는 과도한 텍스트, 저품질 그래픽, 나쁜 색상 대비 등이 있다.",
-      "summary_full": "전시회에서 브랜드는 단 몇 초 안에 주목을 받아야 하며, 나쁜 디스플레이 디자인은 방문객을 즉시 멀어지게 할 수 있다. 흔한 실수로는 과도한 텍스트, 저품질 그래픽, 나쁜 색상 대비, 읽기 힘든 작은 글씨, 약한 브랜드 가시성, 명확한 CTA 부재 등이 있다. 깔끔하고 대담하며 전문적으로 인쇄된 디스플레이는 과도하게 디자인된 부스보다 더 나은 성과를 낼 수 있다. 따라서 효과적인 전시회 디스플레이 디자인이 중요하다.",
-      "keywords": [
-        "전시회",
-        "디스플레이 디자인",
-        "브랜드 주목"
-      ],
-      "source": "dev.to",
-      "date": "5월 19일",
-      "publishedAt": "2026-05-19T10:38:18.000Z",
-      "url": "https://dev.to/timothystein/trade-shows-give-brands-only-a-few-seconds-to-grab-attention-and-bad-display-design-can-instantly-203a",
-      "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "industry",
-      "title": "펠드베르크, 100MW 농업 태양광 프로젝트를 위한 1,200만 유로 회전 신용 시설 확보",
-      "summary": "뮌헨에 본사를 둔 개발업체가 향후 18개월 동안 100MW의 농업 태양광 시설을 건설할 계획이다. 새로운 자금 조달은 250MW 파이프라인을 실행 가능한 프로젝트로 전환하는 데 필요한 운영 자본을 지원한다.",
-      "summary_full": "독일 최대의 농업 태양광 시설을 개발 중인 펠드베르크가 100MW 포트폴리오 건설을 위해 1,200만 유로의 회전 신용 시설을 확보했다. 이 자금은 향후 18개월 동안 진행될 프로젝트의 운영 자본을 지원하는 역할을 한다. 펠드베르크는 250MW의 파이프라인을 실행 가능한 프로젝트로 전환하기 위해 이 자금을 활용할 예정이다. 이로써 독일의 농업 태양광 시장에서의 입지를 더욱 강화할 계획이다.",
-      "keywords": [
-        "펠드베르크",
-        "농업 태양광",
-        "신용 시설"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 19일",
-      "publishedAt": "2026-05-19T10:23:01.000Z",
-      "url": "https://thenextweb.com/news/feldwerke-12-million-revolving-credit-100mw-agri-pv",
-      "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "industry",
-      "title": "더 빠른 연필에서 AI 경험 설계자로: 디자이너의 여정",
-      "summary": "사용자 경험 작업의 다음 10년은 시스템과 여백, 그리고 아직 매핑되지 않은 트레이드오프를 소유하는 것이 중요하다.",
-      "summary_full": "대부분의 디자이너는 이미 매일 AI를 사용하고 있으며, 이는 그들의 작업 속도를 크게 향상시킨다. 스케치, 연구, 카피 작성, 변형 생성 등 모든 과정이 더 빨라진다. 이러한 변화는 실제로 중요하며, 디자이너들이 노력해야 할 방향을 제시한다. 결국, 더 나은 프롬프트가 아닌 시스템 소유의 시대가 다가오고 있다.",
-      "keywords": [
-        "디자인",
-        "AI",
-        "사용자 경험"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 19일",
-      "publishedAt": "2026-05-19T07:32:58.000Z",
-      "url": "https://uxdesign.cc/from-faster-pencil-to-ai-experience-architect-a-designers-path-4bec9856a785?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "industry",
-      "title": "한컴, 36년 만에 사명 변경",
-      "summary": "한글과컴퓨터가 사명을 '한컴'으로 변경하고 글로벌 에이전틱 운영체제 기업으로 전환한다. 이는 설립 36년 만의 변화로, 오피스 제품 정책도 전면 전환할 예정이다.",
-      "summary_full": "한글과컴퓨터는 사명을 '한컴'으로 변경하고 인공지능 기술 기업을 넘어 글로벌 에이전틱 운영체제(OS) 기업으로 도약하겠다고 발표했다. 이 사명 변경은 1989년 회사 설립 이후 36년 만에 이루어진 것이다. 한컴은 회사와 사업 정체성을 재정립하고, 오피스 제품 정책도 전면적으로 전환할 계획이다. 이러한 변화는 글로벌 시장에서의 경쟁력을 강화하기 위한 전략으로 보인다.",
-      "keywords": [
-        "한컴",
-        "사명 변경",
-        "글로벌 OS 기업"
-      ],
-      "source": "바이라인네트워크",
-      "date": "5월 19일",
-      "publishedAt": "2026-05-19T06:20:53.000Z",
-      "url": "https://byline.network/2026/05/19-624/",
-      "collectedAt": "2026-05-19"
-    },
-    {
       "category": "ai",
       "title": "유전적 요인을 빠르게 추적하여 세포 노화 역전",
       "summary": "생물학자들이 Co-Scientist를 활용해 인간 세포를 성공적으로 젊어지게 하는 새로운 요소를 발견했다. 이 연구는 세포 노화의 역전 가능성을 제시한다.",
@@ -4628,22 +4740,6 @@
       "collectedAt": "2026-05-21"
     },
     {
-      "category": "ai",
-      "title": "로봇 비디오 생성을 위한 NVIDIA Cosmos Predict 2.5의 LoRA/DoRA 미세 조정",
-      "summary": "NVIDIA Cosmos Predict 2.5를 LoRA와 DoRA 기법으로 미세 조정하여 로봇 비디오 생성의 효율성을 높인다. 이 기술은 로봇의 비디오 생성 능력을 향상시키는 데 기여한다.",
-      "summary_full": "이 연구에서는 NVIDIA Cosmos Predict 2.5 모델을 LoRA 및 DoRA 기법으로 미세 조정하여 로봇 비디오 생성의 성능을 극대화하는 방법을 제시한다. LoRA와 DoRA는 모델의 파라미터 수를 줄이면서도 높은 성능을 유지하는 데 도움을 준다. 이를 통해 로봇이 보다 자연스럽고 현실적인 비디오를 생성할 수 있도록 지원한다. 이 기술은 로봇 비디오 생성 분야에서의 혁신적인 접근법으로 평가된다.",
-      "keywords": [
-        "NVIDIA",
-        "Cosmos Predict 2.5",
-        "로봇 비디오 생성"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T16:00:21.000Z",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "collectedAt": "2026-05-19"
-    },
-    {
       "category": "frontend",
       "title": "문서 간 뷰 전환: 누가 언급하지 않는 문제점들",
       "summary": "문서 간 뷰 전환에 대한 실험에서 예상치 못한 문제를 경험했다. 이 기술이 실제로 존재하고 매끄러운 페이지 전환을 제공할 수 있다는 것을 알고 있었지만, 구현 과정에서 어려움을 겪었다.",
@@ -4658,24 +4754,6 @@
       "publishedAt": "2026-05-18T13:47:19.000Z",
       "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
       "collectedAt": "2026-05-20"
-    },
-    {
-      "category": "ai",
-      "title": "OpenAI와 Dell, 하이브리드 및 온프레미스 환경에 Codex 도입",
-      "summary": "OpenAI와 Dell이 협력하여 Codex를 하이브리드 및 온프레미스 환경에 도입합니다. 이를 통해 기업들이 데이터와 워크플로우 전반에 걸쳐 AI 코딩 에이전트를 안전하게 배포할 수 있도록 지원합니다.",
-      "summary_full": "OpenAI와 Dell이 협력하여 Codex를 하이브리드 및 온프레미스 환경에 도입합니다. 이 파트너십은 기업들이 AI 코딩 에이전트를 안전하게 배포할 수 있도록 돕습니다. Codex는 데이터와 워크플로우를 통합하여 효율성을 높이는 데 기여합니다. 이러한 기술적 진보는 기업의 AI 활용도를 향상시키는 중요한 이정표가 될 것입니다.",
-      "keywords": [
-        "OpenAI",
-        "Dell",
-        "Codex",
-        "AI 코딩 에이전트",
-        "하이브리드 환경"
-      ],
-      "source": "OpenAI News",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T10:00:00.000Z",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "collectedAt": "2026-05-19"
     },
     {
       "category": "design",
@@ -4727,22 +4805,6 @@
     },
     {
       "category": "ai",
-      "title": "락게이트코어, LLM 기반 AI 보안점검 플랫폼 `모무스AI` 출시",
-      "summary": "락게이트코어가 LLM 기반의 AI 보안점검 플랫폼인 `모무스AI`를 출시했다. 이 플랫폼은 보안 점검을 자동화하여 효율성을 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "락게이트코어가 새로운 AI 보안점검 플랫폼 `모무스AI`를 출시했다. 이 플랫폼은 대규모 언어 모델(LLM)을 기반으로 하여 보안 점검 프로세스를 자동화한다. 이를 통해 기업들은 보안 점검의 효율성을 높이고 리스크를 줄일 수 있을 것으로 보인다. `모무스AI`는 다양한 산업에서 활용될 수 있는 가능성을 지니고 있다.",
-      "keywords": [
-        "AI 보안",
-        "모무스AI",
-        "락게이트코어"
-      ],
-      "source": "Google News AI (KR)",
-      "date": "5월 14일",
-      "publishedAt": "2026-05-14T05:40:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBORzEtRVdMRE01NmgtZ0RVcmtBR3NTMmJqZl81UGJvUWF1Tl8yV25fVzh1ZnRPZkQzZ0pnZnFWNENST1FJbVlYRnRLb2d1OEthNXN1NnV6ZzJIVVFRZnhwTEVHdHE?oc=5",
-      "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "ai",
       "title": "2028년 글로벌 AI 리더십을 위한 두 가지 시나리오",
       "summary": "2028년을 대비한 글로벌 AI 리더십에 대한 두 가지 시나리오를 제시한다. 이 정책은 AI 기술의 발전과 국제 경쟁력을 고려한다.",
       "summary_full": "2028년을 목표로 하는 글로벌 AI 리더십에 대한 두 가지 주요 시나리오를 탐구한다. 첫 번째 시나리오는 특정 국가가 AI 기술을 선도하는 경우를 다루고, 두 번째는 다국적 협력이 강화되는 상황을 제시한다. 이러한 시나리오는 AI 기술의 발전이 세계 경제와 정치에 미치는 영향을 분석한다. 정책 입안자들에게는 향후 AI 전략을 수립하는 데 중요한 통찰을 제공할 것이다.",
@@ -4791,22 +4853,6 @@
     },
     {
       "category": "ai",
-      "title": "알파이볼브: 제미니 기반 코딩 에이전트의 영향력 확장",
-      "summary": "알파이볼브의 제미니 알고리즘이 비즈니스, 인프라, 과학 분야에서의 영향력을 확대하고 있다. 이 기술은 다양한 분야에서 혁신을 이끌고 있다.",
-      "summary_full": "알파이볼브는 제미니 기반의 알고리즘을 통해 여러 분야에서 긍정적인 변화를 만들어가고 있다. 이 코딩 에이전트는 비즈니스 효율성을 높이고, 인프라 개발을 가속화하며, 과학적 연구에 기여하고 있다. 다양한 산업에서의 적용 사례를 통해 그 가능성을 보여주고 있다. 앞으로도 이러한 기술이 더 많은 분야에 영향을 미칠 것으로 기대된다.",
-      "keywords": [
-        "알파이볼브",
-        "제미니",
-        "코딩 에이전트"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "5월 6일",
-      "publishedAt": "2026-05-06T10:43:49.000Z",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "collectedAt": "2026-05-19"
-    },
-    {
-      "category": "ai",
       "title": "Vibe의 원격 에이전트, Mistral Medium 3.5로 구동",
       "summary": "Mistral Medium 3.5를 소개하며 Vibe에서 원격 코딩 에이전트를 지원합니다. 또한 Le Chat에서 복잡한 작업을 위한 새로운 작업 모드를 추가했습니다.",
       "summary_full": "Mistral Medium 3.5가 Vibe에서 원격 코딩 에이전트를 도입합니다. 이로 인해 사용자들은 더욱 효율적으로 작업을 수행할 수 있습니다. 또한 Le Chat에는 복잡한 작업을 처리하기 위한 새로운 작업 모드가 추가되었습니다. 이러한 기능들은 사용자 경험을 향상시키는 데 기여할 것입니다.",
@@ -4824,8 +4870,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "웹사이트 접근성의 중요성을 논의하며, 디자이너의 역할을 강조한다.",
-      "summary_full": "웹사이트 접근성은 가장 중요한 요소로, 디자이너들이 이를 고려해야 한다. 이 글은 개인적인 의견을 바탕으로 디자이너들이 좋은 사람이라는 점을 강조한다. 또한, 독자들에게 숙제를 내주며 웹사이트 개선을 위한 실천을 촉구한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 웹사이트 개선을 위한 과제를 제시한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글에서는 이를 강조하고 있다. 다른 A List Apart 기사는 혁신과 통찰력을 제공하지만, 이 글은 독자에게 실질적인 과제를 제시한다. 저자는 디자이너들이 좋은 사람이라는 점에 동의할 것이라고 주장한다. 이 글은 웹사이트의 품질을 높이기 위한 개인적인 의견을 담고 있다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -4835,7 +4881,7 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-18"
+      "collectedAt": "2026-06-19"
     },
     {
       "category": "ai",
