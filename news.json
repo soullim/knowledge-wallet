@@ -1,22 +1,166 @@
 {
-  "updated": "2026년 6월 19일 AM 04:11",
+  "updated": "2026년 6월 20일 AM 03:34",
   "count": 307,
   "articles": [
     {
       "category": "industry",
-      "title": "프로덕트 디자이너가 던져야 할 질문",
-      "summary": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기로, 디자인의 새로운 패러다임을 탐구한다. 디자이너들이 60점을 만드는 시대에 진정한 질문을 던져야 한다는 메시지를 전달한다.",
-      "summary_full": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기로, 디자인의 새로운 패러다임을 탐구한다. 이 글에서는 누구나 60점을 만드는 시대에 프로덕트 디자이너들이 던져야 할 진정한 질문에 대해 이야기한다. 디자이너들이 단순히 기능적인 디자인을 넘어서, 의미 있는 경험을 창출하기 위해 고민해야 한다는 점을 강조한다. 궁극적으로, 디자인의 질을 높이기 위한 사고의 전환이 필요하다는 메시지를 전한다.",
+      "title": "프로덕트 디자이너의 진짜 질문",
+      "summary": "프로덕트 디자이너는 AI 시대에 60점을 넘는 디자인을 위해 중요한 질문을 던져야 한다. 오늘의집 프로덕트 디자인팀의 경험을 통해 이 주제를 탐구한다.",
+      "summary_full": "AI 기술이 발전하면서 누구나 기본적인 디자인을 할 수 있는 시대가 왔다. 그러나 프로덕트 디자이너는 단순히 점수를 넘는 것이 아니라, 더 깊은 질문을 통해 혁신적인 디자인을 만들어야 한다. 오늘의집의 사례를 통해 이러한 접근 방식의 중요성을 강조한다. AI Frontier 시리즈의 두 번째 이야기로, 디자인의 본질을 탐구하는 내용을 담고 있다.",
       "keywords": [
         "프로덕트 디자인",
-        "AI Frontier",
-        "디자인 질문"
+        "AI 시대",
+        "디자인 혁신"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 19일",
-      "publishedAt": "2026-06-19T04:10:05.280Z",
+      "date": "6월 20일",
+      "publishedAt": "2026-06-20T03:32:49.545Z",
       "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "design",
+      "title": "즉시 통역되는 Gemini Live Translate",
+      "summary": "Gemini Live Translate는 사용자가 말하는 내용을 즉시 다른 언어로 통역해주는 기능을 제공합니다. 이 기술은 실시간 소통을 가능하게 하여 언어 장벽을 허물어줍니다.",
+      "summary_full": "Gemini Live Translate는 사용자가 음성으로 입력한 내용을 즉시 번역해주는 혁신적인 서비스입니다. 이 기능은 다양한 언어를 지원하여 실시간으로 소통할 수 있도록 도와줍니다. 특히, 여행이나 비즈니스 미팅 등에서 유용하게 활용될 수 있습니다. Gemini의 기술은 언어 장벽을 줄이고 글로벌 커뮤니케이션을 촉진하는 데 기여합니다.",
+      "keywords": [
+        "Gemini",
+        "Live Translate",
+        "실시간 통역"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 20일",
+      "publishedAt": "2026-06-20T03:32:44.697Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-775/",
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "frontend",
+      "title": "8000개의 서울 카페에서 노트북 작업에 적합한 카페 찾기",
+      "summary": "서울의 카페 중 노트북 작업에 적합한 곳을 찾기 위해 방문자 리뷰 키워드를 분석했다. 단순한 별점이 아닌, 좌석의 넓이와 조용함, 전원 콘센트 유무 등을 기준으로 카페를 평가했다.",
+      "summary_full": "서울에서 노트북 작업을 하기 좋은 카페를 찾기 위해 8000개의 카페를 분석했다. 리뷰에서 좌석의 넓이, 조용함, 전원 콘센트 유무와 같은 요소를 키워드로 추출했다. 단순한 별점 대신 실제 사용자의 경험을 바탕으로 카페의 작업 환경을 평가했다. 이를 통해 최적의 카페를 찾는 방법을 제시하고 있다.",
+      "keywords": [
+        "서울 카페",
+        "노트북 작업",
+        "방문자 리뷰"
+      ],
+      "source": "dev.to",
+      "date": "6월 20일",
+      "publishedAt": "2026-06-20T03:30:59.000Z",
+      "url": "https://dev.to/_9848c5582063b42abecb7/i-scored-8000-seoul-cafes-for-laptop-workability-from-review-keywords-1aol",
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "trend",
+      "title": "AI API의 비선형 비용과 숨겨진 프리미엄",
+      "summary": "AI API의 운영 비용이 예측된 QPS와 실제 비즈니스 피크 간의 동적 병목 현상으로 인해 증가하고 있다.",
+      "summary_full": "클라우드 서비스 제공업체의 요금 모델은 예측된 QPS를 기준으로 하여 실제 부하의 변동성을 무시한다. 비즈니스 피크가 예측된 QPS를 초과하면 높은 비율의 초과 요금이 발생하며, 다중 모드 AI 요청의 복잡성으로 인해 단일 초과 비용이 일반 API 호출보다 훨씬 높다. 또한, 엣지 컴퓨팅 환경의 간헐적인 연결은 피크와 저점 효과를 악화시키고 예측할 수 없는 비용을 초래한다.",
+      "keywords": [
+        "AI API",
+        "비용",
+        "클라우드 서비스"
+      ],
+      "source": "dev.to",
+      "date": "6월 20일",
+      "publishedAt": "2026-06-20T00:30:40.000Z",
+      "url": "https://dev.to/ytxqrhon191/yin-xing-yi-jie-ai-apide-fei-xian-xing-cheng-ben-4hpe",
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "industry",
+      "title": "트럼프, G7 회의 후 앤소로픽을 국가안보 위협으로 보지 않기로 결정",
+      "summary": "트럼프 대통령은 앤소로픽을 더 이상 국가안보 위협으로 보지 않겠다고 밝혔다. 이는 지난 3개월간의 강경한 입장에서의 급격한 변화다.",
+      "summary_full": "트럼프 대통령은 사전 녹화된 Axios 인터뷰에서 앤소로픽을 국가안보 위협으로 보지 않겠다고 말했다. 이는 지난 3개월 동안의 행정부의 강경한 입장에서의 급격한 변화로 해석된다. 질문에 대해 그는 '지금은 아니다. 하지만 일주일 전에는 그럴 수도 있었다'고 답했다. 이 이야기는 The Next Web에서 계속됩니다.",
+      "keywords": [
+        "트럼프",
+        "앤소로픽",
+        "국가안보"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T21:42:23.000Z",
+      "url": "https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview",
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "industry",
+      "title": "기업 소프트웨어의 개인화",
+      "summary": "기업 소프트웨어의 사용자 경험을 변화시키는 세 가지 디자인 트렌드에 대해 다룬다.",
+      "summary_full": "이 기사에서는 기업 소프트웨어의 사용자 경험을 혁신하는 세 가지 주요 디자인 트렌드를 소개한다. 이러한 트렌드는 소프트웨어가 더 개인화되고 사용자 친화적으로 변화하는 데 기여하고 있다. 기업 환경에서도 개인의 필요와 선호를 반영한 소프트웨어가 중요해지고 있다. 결과적으로, 이러한 변화는 사용자 만족도를 높이고 생산성을 향상시킬 것으로 기대된다.",
+      "keywords": [
+        "기업 소프트웨어",
+        "사용자 경험",
+        "디자인 트렌드"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T20:33:57.000Z",
+      "url": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "trend",
+      "title": "가장 유망한 에볼라 백신, 15년간 방치되다",
+      "summary": "2011년에 개발된 에볼라 백신이 현재 콩고의 Bundibugyo 발병에 도움이 될 수 있을지 연구자들이 급히 실험하고 있다.",
+      "summary_full": "2011년에 개발된 에볼라 백신이 15년 동안 사용되지 않고 방치되어 있었다. 최근 연구자들은 이 백신이 현재 콩고에서 발생한 Bundibugyo 발병에 효과가 있을지를 확인하기 위해 급히 실험을 진행하고 있다. 초기 테스트 이후로 이 백신의 가능성이 다시 주목받고 있다. 연구자들은 이 백신이 실제로 도움이 될 수 있을지에 대한 결과를 기다리고 있다.",
+      "keywords": [
+        "에볼라",
+        "백신",
+        "콩고"
+      ],
+      "source": "wired.com",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T14:23:43.000Z",
+      "url": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/",
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "frontend",
+      "title": "스크롤 트리거 애니메이션 첫 번째 살펴보기",
+      "summary": "Chrome 146 버전에서 스크롤 트리거 애니메이션이 도입되었다. 이 기능은 요소가 뷰포트에 완전히 들어왔을 때만 애니메이션이 실행된다.",
+      "summary_full": "Chrome은 스크롤 트리거 애니메이션을 도입한 최초의 브라우저이다. 사용자는 Chrome 146로 업데이트 후, 특정 요소가 뷰포트에 들어올 때 배경이 300ms 동안 서서히 나타나는 데모를 확인할 수 있다. 이는 기존의 스크롤 기반 애니메이션과는 다른 방식으로 작동한다. 이 기사에서는 두 방식의 차이점을 비교할 예정이다.",
+      "keywords": [
+        "Chrome",
+        "스크롤 애니메이션",
+        "웹 기술"
+      ],
+      "source": "css-tricks.com",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T13:03:17.000Z",
+      "url": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "frontend",
+      "title": "디자이너에게 AI로 뭐든 만들어보라고 한다면",
+      "summary": "토스 디자인 챕터는 AI Contest를 열어 디자이너들이 AI를 활용해 자유롭게 작업하도록 했습니다. 122개의 작업이 모였고, 디자이너들이 AI를 활용하는 공통된 방향이 나타났습니다.",
+      "summary_full": "지난 3월, 토스 디자인 챕터는 AI Contest를 열어 디자이너들이 AI로 자유롭게 작업하도록 했습니다. 규칙은 단 하나, AI로 뭐든 만들어보기였고, 결과물의 형식과 완성도는 자유로웠습니다. 한 달 동안 122개의 작업이 모였고, 디자이너들이 AI를 활용하는 몇 가지 공통된 방향이 나타났습니다. 특히 반복되는 일을 AI에 맡기는 방식과 색 추출 자동화 로직이 인상적이었습니다.",
+      "keywords": [
+        "AI Contest",
+        "디자인",
+        "토스"
+      ],
+      "source": "toss.tech",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T12:40:00.000Z",
+      "url": "https://toss.tech/article/ai_contest",
+      "collectedAt": "2026-06-20"
+    },
+    {
+      "category": "industry",
+      "title": "AI 시대의 보안, 내부 확산 차단이 핵심",
+      "summary": "SGA솔루션즈 최영철 대표는 내부 보안 강화를 강조하며 제로 트러스트 원칙과 마이크로세그멘테이션 방식을 제안했다.",
+      "summary_full": "최영철 SGA솔루션즈 대표는 사이버보안 기술 전략 컨퍼런스에서 내부 보안의 중요성을 강조했다. 그는 이제는 내부가 뚫린다는 전제 하에 보안을 재검토해야 한다고 말했다. 제로 트러스트 원칙을 기반으로 보안 통제를 강화하고, 마이크로세그멘테이션 방식을 도입해야 한다고 주장했다. 발표 주제는 '미토스 시대, 보안은 다시 내부로 향한다'였다.",
+      "keywords": [
+        "SGA솔루션즈",
+        "제로 트러스트",
+        "마이크로세그멘테이션"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 19일",
+      "publishedAt": "2026-06-19T07:24:47.000Z",
+      "url": "https://byline.network/2026/06/19-643/",
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "design",
@@ -101,8 +245,8 @@
     {
       "category": "design",
       "title": "하반기 UX·UI 트렌드 4선",
-      "summary": "기업들이 주목해야 할 하반기 UX·UI 트렌드를 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 중요한 요소로 작용한다.",
-      "summary_full": "이번 기사에서는 기업들이 반드시 알아야 할 하반기 UX·UI 트렌드 4가지를 다룬다. 각 트렌드는 사용자 경험을 개선하고, 디자인의 효율성을 높이는 데 중점을 두고 있다. 이를 통해 기업들은 경쟁력을 강화할 수 있는 기회를 가질 수 있다. 최신 트렌드를 반영한 디자인 전략이 필요하다.",
+      "summary": "기업들이 주목해야 할 하반기 UX·UI 트렌드를 소개한다. 최신 디자인 경향을 반영하여 사용자 경험을 향상시키는 방법을 제시한다.",
+      "summary_full": "이번 기사에서는 기업들이 반드시 알아야 할 하반기 UX·UI 트렌드 4가지를 다룬다. 각 트렌드는 사용자 경험을 개선하고 브랜드 가치를 높이는 데 중요한 요소로 작용한다. 최신 기술과 디자인 원칙을 기반으로 한 트렌드를 통해 기업들이 경쟁력을 유지할 수 있도록 돕는다. 이 정보를 바탕으로 기업들은 효과적인 UX·UI 전략을 수립할 수 있을 것이다.",
       "keywords": [
         "UX",
         "UI",
@@ -112,7 +256,7 @@
       "date": "6월 18일",
       "publishedAt": "2026-06-18T23:54:54.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfdmNKdU5TQVdwbjFWU1liWnRQUjJHQmJjRFdveTZUWjdWckZtaEk5elBUSGJ0RTVwTk9wRzZZT09mRC1kWmt4NFRvOHdZdw?oc=5",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "trend",
@@ -164,11 +308,11 @@
     },
     {
       "category": "ai",
-      "title": "모자이크리크스: 당신의 연구 에이전트는 비밀을 지킬 수 있는가?",
-      "summary": "모자이크리크스는 연구 에이전트의 비밀 유지 능력에 대한 질문을 던진다. 이 시스템이 얼마나 신뢰할 수 있는지를 탐구한다.",
-      "summary_full": "모자이크리크스는 연구 에이전트가 비밀을 얼마나 잘 지킬 수 있는지를 분석한다. 연구 과정에서의 정보 유출 위험과 그에 대한 해결책을 모색한다. 이 시스템의 신뢰성과 보안성에 대한 논의가 이루어진다. 연구자들이 비밀을 안전하게 유지할 수 있는 방법에 대한 통찰을 제공한다.",
+      "title": "모자이크리크: 당신의 연구 에이전트는 비밀을 지킬 수 있는가?",
+      "summary": "모자이크리크는 연구 에이전트의 비밀 유지 능력에 대한 질문을 제기합니다. 이 시스템이 정보를 안전하게 보호할 수 있는지 탐구합니다.",
+      "summary_full": "모자이크리크는 연구 에이전트가 비밀을 얼마나 잘 지킬 수 있는지를 분석합니다. 이 플랫폼은 정보 보호의 중요성을 강조하며, 연구 과정에서의 보안 문제를 다룹니다. 연구자와 기관들이 신뢰할 수 있는 비밀 유지 방법을 찾는 데 도움을 줄 수 있습니다. 궁극적으로, 이 시스템은 연구의 신뢰성과 안전성을 높이는 데 기여할 수 있습니다.",
       "keywords": [
-        "모자이크리크스",
+        "모자이크리크",
         "연구 에이전트",
         "비밀 유지"
       ],
@@ -176,29 +320,29 @@
       "date": "6월 18일",
       "publishedAt": "2026-06-18T18:13:13.000Z",
       "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "ai",
-      "title": "Anthropic, Claude 디자인 대규모 업데이트",
-      "summary": "Anthropic이 Claude 디자인을 대규모로 업데이트하여 토큰 효율성을 높이고 기업용 브랜드 제어 기능을 강화했다. 이번 업데이트는 사용자 경험을 개선하고 기업의 요구에 맞춘 기능을 제공하는 데 중점을 두었다.",
-      "summary_full": "Anthropic이 Claude 디자인에 대한 대규모 업데이트를 발표했다. 이번 업데이트는 토큰 효율성을 크게 향상시키며, 기업들이 브랜드를 더욱 효과적으로 제어할 수 있는 기능을 추가했다. 이러한 변화는 사용자 경험을 개선하고 기업의 다양한 요구를 충족시키기 위한 노력의 일환으로 볼 수 있다. 새로운 기능들은 기업 고객들에게 더 나은 솔루션을 제공하는 데 기여할 것으로 기대된다.",
+      "title": "안트로픽, 클로드 디자인 대규모 업데이트",
+      "summary": "안트로픽이 클로드 디자인의 대규모 업데이트를 발표했다. 이번 업데이트는 토큰 효율성과 기업용 브랜드 제어 기능을 동시에 강화했다.",
+      "summary_full": "안트로픽이 클로드 디자인에 대한 대규모 업데이트를 진행했다. 이 업데이트는 사용자 경험을 개선하기 위해 토큰 효율성을 높이고, 기업들이 브랜드를 보다 효과적으로 제어할 수 있도록 지원한다. 이러한 변화는 기업 고객들에게 더 나은 솔루션을 제공하기 위한 노력의 일환이다. 안트로픽은 지속적으로 AI 기술을 발전시키고 있다.",
       "keywords": [
-        "Anthropic",
-        "Claude 디자인",
+        "안트로픽",
+        "클로드 디자인",
         "업데이트"
       ],
       "source": "Google News Anthropic",
       "date": "6월 18일",
       "publishedAt": "2026-06-18T17:16:42.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90SG1iX1pvOHBkVGFhd19KeGdwbGNRTUlSZVpNeUtxZHdFSi1UZEdiQ0xfOEZEUmRLWmhiZ1dsN1JMeEM4b3BfZ0p4dVM?oc=5",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "ai",
-      "title": "기업을 위한 새로운 사용 분석 및 지출 관리 기능",
-      "summary": "OpenAI는 ChatGPT Enterprise를 위한 새로운 지출 관리 기능과 사용 분석을 도입했습니다. 이를 통해 조직은 비용을 관리하고 AI를 자신 있게 확장할 수 있습니다.",
-      "summary_full": "OpenAI는 ChatGPT Enterprise에 새로운 지출 관리 기능과 사용 분석 도구를 추가했습니다. 이 기능은 기업이 AI 사용을 최적화하고 비용을 효과적으로 관리하는 데 도움을 줍니다. 이를 통해 조직은 AI 기술을 보다 안전하게 확장할 수 있습니다. 새로운 도구는 기업의 재정적 부담을 줄이고 효율성을 높이는 데 기여할 것입니다.",
+      "title": "기업을 위한 새로운 사용 분석 및 지출 관리",
+      "summary": "OpenAI는 ChatGPT Enterprise를 위한 새로운 지출 관리 및 사용 분석 기능을 도입했습니다. 이를 통해 조직은 비용을 관리하고 AI를 자신 있게 확장할 수 있습니다.",
+      "summary_full": "OpenAI는 ChatGPT Enterprise에 새로운 지출 관리 및 사용 분석 기능을 추가했습니다. 이 기능은 기업이 AI 사용에 따른 비용을 효과적으로 관리할 수 있도록 돕습니다. 또한, 조직이 AI를 보다 자신 있게 확장할 수 있는 기반을 제공합니다. 이러한 도구는 기업의 효율성을 높이는 데 기여할 것입니다.",
       "keywords": [
         "OpenAI",
         "ChatGPT Enterprise",
@@ -208,7 +352,7 @@
       "date": "6월 18일",
       "publishedAt": "2026-06-18T17:00:00.000Z",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "design",
@@ -261,8 +405,8 @@
     {
       "category": "figma",
       "title": "Figma 디자인 에이전트에서 웹 검색 기능 추가",
-      "summary": "Figma 디자인 에이전트에서 실시간 웹 검색 기능이 도입되었습니다. 사용자는 파일을 떠나지 않고도 실제 콘텐츠로 디자인을 채울 수 있습니다.",
-      "summary_full": "Figma 디자인 에이전트에 웹 검색 기능이 추가되어 사용자는 실시간 웹 컨텍스트를 가져올 수 있습니다. 이를 통해 최적의 사례를 찾고, 자리 표시자 대신 실제 콘텐츠로 디자인을 채울 수 있습니다. 사용자는 채팅에서 '웹 검색'을 입력하거나 플러스 메뉴에서 웹 검색을 활성화하여 시작할 수 있습니다. 조직 및 엔터프라이즈 플랜의 관리자들은 웹 검색을 관리할 수 있는 기능도 제공합니다.",
+      "summary": "Figma 디자인 에이전트에서 실시간 웹 검색 기능이 제공된다. 사용자는 디자인 파일을 떠나지 않고도 실제 콘텐츠로 디자인을 채울 수 있다.",
+      "summary_full": "Figma 디자인 에이전트에 웹 검색 기능이 추가되어 사용자는 실시간 웹 컨텍스트를 가져올 수 있다. 이를 통해 최선의 사례를 찾고, 자리 표시자 대신 실제 콘텐츠로 디자인을 채울 수 있다. 사용자는 채팅에서 '웹 검색'을 입력하거나 플러스 메뉴에서 웹 검색을 활성화하여 시작할 수 있다. 조직 및 엔터프라이즈 플랜의 관리자들은 웹 검색을 관리할 수 있는 기능도 제공된다.",
       "keywords": [
         "Figma",
         "웹 검색",
@@ -272,23 +416,23 @@
       "date": "6월 18일",
       "publishedAt": "2026-06-18T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "ai",
-      "title": "프론티어 레드팀 프로젝트 페치: 2단계",
-      "summary": "프론티어 레드팀의 프로젝트 페치가 2단계에 접어들었다. 이 단계에서는 새로운 목표와 전략이 설정된다.",
-      "summary_full": "프론티어 레드팀은 2026년 6월 18일에 프로젝트 페치의 두 번째 단계를 발표했다. 이번 단계에서는 이전 단계에서의 성과를 바탕으로 새로운 목표를 설정하고, 이를 달성하기 위한 전략을 수립한다. 팀은 다양한 기술적 도전과제를 해결하기 위해 협력할 예정이다. 프로젝트의 진행 상황은 지속적으로 업데이트될 예정이다.",
+      "title": "프론티어 레드 팀 프로젝트 페치: 두 번째 단계",
+      "summary": "프론티어 레드 팀의 프로젝트 페치가 두 번째 단계에 접어들었다. 이 단계에서는 새로운 목표와 전략이 설정된다.",
+      "summary_full": "프론티어 레드 팀의 프로젝트 페치가 2026년 6월 18일에 두 번째 단계로 진행된다. 이 단계에서는 이전 단계에서의 성과를 바탕으로 새로운 목표를 설정하고, 보다 정교한 전략을 수립할 예정이다. 팀은 다양한 기술적 도전과제를 해결하기 위해 협력할 계획이다. 프로젝트의 성공적인 진행을 위해 필요한 자원과 인력을 확보하는 것이 중요하다.",
       "keywords": [
-        "프론티어",
-        "레드팀",
-        "프로젝트 페치"
+        "프론티어 레드 팀",
+        "프로젝트 페치",
+        "두 번째 단계"
       ],
       "source": "Anthropic Research",
       "date": "6월 18일",
       "publishedAt": "2026-06-18T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "industry",
@@ -516,19 +660,19 @@
     },
     {
       "category": "ai",
-      "title": "AI 기반 계획으로 영국 주택 건설 혁신",
-      "summary": "영국 정부가 Google DeepMind와 협력하여 주택 결정을 더 빠르게 할 수 있는 AI 프로토타입을 개발하고 있다. 이 프로젝트는 주택 건설을 가속화하는 데 초점을 맞추고 있다.",
-      "summary_full": "영국 정부는 Google DeepMind와 협력하여 AI 기반의 새로운 프로토타입을 개발하고 있다. 이 프로토타입은 주택 건설과 관련된 의사 결정을 신속하게 할 수 있도록 설계되었다. AI 기술을 활용하여 주택 건설 프로세스를 혁신하고, 더 많은 주택을 빠르게 공급하려는 목표를 가지고 있다. 이러한 노력은 영국 내 주택 부족 문제를 해결하는 데 기여할 것으로 기대된다.",
+      "title": "AI로 가속화된 영국 주택 건설 계획",
+      "summary": "영국 정부가 Google DeepMind와 협력하여 주택 결정을 빠르게 할 수 있는 AI 기반 프로토타입을 개발하고 있다. 이 프로젝트는 주택 건설을 촉진하는 데 중점을 두고 있다.",
+      "summary_full": "영국 정부는 Google DeepMind와 협력하여 AI로 가속화된 주택 건설 계획을 추진하고 있다. 새로운 프로토타입은 주택 결정 과정을 신속하게 진행할 수 있도록 설계되었다. 이 AI 기술은 주택 건설의 효율성을 높이는 데 기여할 것으로 기대된다. 궁극적으로, 이 프로젝트는 영국 내 주택 부족 문제를 해결하는 데 도움을 줄 것으로 보인다.",
       "keywords": [
         "AI",
         "주택 건설",
-        "Google DeepMind"
+        "영국 정부"
       ],
       "source": "Google DeepMind Blog",
       "date": "6월 16일",
       "publishedAt": "2026-06-16T21:29:50.000Z",
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "industry",
@@ -549,18 +693,18 @@
     {
       "category": "design",
       "title": "불확실성을 디자인하다: AI가 확률적 사고를 강화하는 방법",
-      "summary": "AI가 예측한 답변이 실제 정책으로 오해되는 사례를 통해 디자인의 위험성을 조명한다.",
-      "summary_full": "2024년, 에어캐나다 고객이 챗봇에게 장례 할인 요금에 대해 문의했으나, 챗봇이 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 재판소는 고객의 손을 들어주었다. 챗봇은 결정을 내린 것이 아니라 훈련 데이터의 패턴을 기반으로 답변을 예측한 것이었다. 이러한 예측이 정책으로 오인되는 것이 디자인의 핵심 위험이다.",
+      "summary": "2024년, 에어캐나다 고객이 챗봇에 장례 할인 요금에 대해 문의했으나, 챗봇은 존재하지 않는 환불 정책을 자신 있게 제시했다. 이 사건은 AI의 예측이 정책으로 잘못 해석될 수 있는 위험을 드러낸다.",
+      "summary_full": "2024년, 에어캐나다 고객이 챗봇에 장례 할인 요금에 대해 문의했으나, 챗봇은 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 재판소는 고객의 손을 들어주었다. 챗봇은 결정을 내린 것이 아니라 훈련 데이터의 패턴에 기반하여 답변을 예측했을 뿐이다. 이 사건은 AI 디자인에서의 예측이 정책으로 오해될 수 있는 위험을 강조한다.",
       "keywords": [
         "AI",
-        "확률적 사고",
-        "디자인 위험"
+        "불확실성",
+        "확률적 사고"
       ],
       "source": "smashingmagazine.com",
       "date": "6월 16일",
       "publishedAt": "2026-06-16T15:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "frontend",
@@ -660,9 +804,9 @@
     },
     {
       "category": "ai",
-      "title": "한국형 챗GPT ‘모두의 AI’ 연내 출시",
-      "summary": "정부가 한국형 챗GPT인 ‘모두의 AI’를 올해 안에 출시할 계획이다. 이를 위해 국산 LLM(대형 언어 모델)을 총동원할 예정이다.",
-      "summary_full": "정부는 한국형 챗GPT인 ‘모두의 AI’를 연내에 출시할 예정이다. 이 프로젝트는 국산 LLM을 활용하여 진행되며, AI 기술의 발전을 목표로 하고 있다. ‘모두의 AI’는 다양한 분야에서 활용될 수 있는 가능성을 가지고 있다. 정부는 이를 통해 AI 기술의 자립성을 높이고, 국내 시장을 활성화할 계획이다.",
+      "title": "정부, 한국형 챗GPT ‘모두의 AI’ 출시",
+      "summary": "정부가 한국형 챗GPT인 '모두의 AI'를 연내 출시할 계획이다. 이를 위해 국산 대형 언어 모델(LLM)을 총동원할 예정이다.",
+      "summary_full": "정부는 한국형 챗GPT인 '모두의 AI'를 올해 안에 출시할 예정이다. 이 프로젝트는 국산 대형 언어 모델(LLM)을 활용하여 진행된다. '모두의 AI'는 다양한 분야에서 활용될 것으로 기대된다. 정부는 이를 통해 AI 기술의 발전을 도모하고, 국내 AI 생태계를 강화할 계획이다.",
       "keywords": [
         "챗GPT",
         "모두의 AI",
@@ -672,7 +816,7 @@
       "date": "6월 16일",
       "publishedAt": "2026-06-16T01:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdFBwcW9ha2hCbjJpZTJYakVoTlJ5LVRDVWtLb2JHOEZqTEtzRXdCZUNxQmxmVVE0SmczdnVpdmpJMi1XZ0hES09xUW9tQkJwT1HSAVNBVV95cUxOc1Fqa3VEY0NFN3A2ck5KUjBWalNZWHlJUkdLcmlZZUp4Mlp4NFNmd1pZN3pzelRDNmlHOW1yRG9CUVF2MTNpOURZQmYxYjhEbm92bw?oc=5",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "ai",
@@ -4337,9 +4481,9 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 파트너십은 AI 기술의 혁신을 가속화하는 데 중점을 두고 있다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 협력 관계를 구축했다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있으며, 두 회사의 시너지를 통해 새로운 기회를 창출할 예정이다. AI 산업의 성장에 기여하기 위해 다양한 프로젝트와 연구가 진행될 계획이다. 이를 통해 AI 기술의 상용화와 산업 전반에 걸친 적용이 가속화될 것으로 기대된다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄에 합류",
+      "summary": "엠미가 미스트랄에 합류하여 AI 네이티브 산업의 발전을 가속화하고자 한다. 이 협력을 통해 혁신적인 AI 솔루션을 개발할 계획이다.",
+      "summary_full": "엠미가 미스트랄에 합류하여 AI 네이티브 산업의 발전을 가속화하고자 한다. 두 기업은 협력하여 혁신적인 AI 솔루션을 개발할 계획이다. 이를 통해 AI 기술의 상용화와 산업 전반의 효율성을 높이는 데 기여할 것으로 기대된다. 또한, 이번 합작은 AI 분야에서의 경쟁력을 강화하는 중요한 이정표가 될 것이다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4349,7 +4493,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "ai",
@@ -4562,104 +4706,6 @@
       "collectedAt": "2026-05-22"
     },
     {
-      "category": "frontend",
-      "title": "2026년 구글 AI 에이전트, 강력한 검색 도구 도입",
-      "summary": "구글 I/O 2026에서 새로운 검색 상자와 Gemini 3.5 Flash 업그레이드가 주목받았다. 구글의 새로운 정보 에이전트는 24시간 웹을 스캔하며 관련 알림을 전송한다.",
-      "summary_full": "구글 I/O 2026에서는 새로운 검색 상자와 Gemini 3.5 Flash 업그레이드에 대한 많은 보도가 있었다. 하지만 일상 습관을 변화시키는 중요한 점은 구글의 새로운 정보 에이전트가 24시간 웹을 스캔하고 있다는 것이다. 이 에이전트는 사용자가 원하는 정보가 생길 때마다 푸시 알림을 보내준다. AI 모드는 출시 1년 만에 월간 사용자 수가 10억을 넘었다.",
-      "keywords": [
-        "구글",
-        "AI 에이전트",
-        "검색 도구"
-      ],
-      "source": "dev.to",
-      "date": "5월 20일",
-      "publishedAt": "2026-05-20T10:38:35.000Z",
-      "url": "https://dev.to/pixelaura_tech/google-ai-agents-get-powerful-new-search-tools-in-2026-2hbm",
-      "collectedAt": "2026-05-20"
-    },
-    {
-      "category": "design",
-      "title": "이미지로부터 효과음 생성하기",
-      "summary": "VARCO Sound를 이용해 이미지에서 효과음을 생성하는 방법을 소개합니다. 이 기술은 시각적 요소를 소리로 변환하여 새로운 경험을 제공합니다.",
-      "summary_full": "이 기사에서는 VARCO Sound라는 기술을 통해 이미지를 효과음으로 변환하는 과정을 설명합니다. 이미지의 특징을 분석하여 그에 맞는 소리를 생성하는 방식입니다. 이를 통해 사용자는 시각적 콘텐츠를 청각적으로도 경험할 수 있습니다. 이 기술은 다양한 분야에서 활용될 수 있는 가능성을 지니고 있습니다.",
-      "keywords": [
-        "효과음",
-        "이미지",
-        "VARCO Sound"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 20일",
-      "publishedAt": "2026-05-20T10:37:55.893Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-753/",
-      "collectedAt": "2026-05-20"
-    },
-    {
-      "category": "trend",
-      "title": "아우라 빌드 AI 디자인 도구: 더 빠른 제품 팀을 위한 스마트 UI 디자인",
-      "summary": "현대 웹사이트 프로젝트는 디자인과 개발이 분리되어 있어 진행 속도가 느리다. 아우라 빌드 AI 디자인 도구는 AI로 생성된 UI와 즉시 사용할 수 있는 코드를 제공하여 이러한 문제를 해결한다.",
-      "summary_full": "현대 웹사이트 프로젝트는 디자인과 개발이 분리되어 있어 팀이 레이아웃을 재구성하고 반응성을 수정하는 데 많은 시간을 소모한다. 아우라 빌드 AI 디자인 도구는 AI로 생성된 UI와 즉시 사용할 수 있는 코드를 통해 이러한 문제를 해결한다. 이를 통해 제품 팀은 반복적인 작업을 줄이고 더 빠르게 작업할 수 있다. 이 도구는 디자인과 개발의 경계를 허물어 효율성을 높인다.",
-      "keywords": [
-        "AI 디자인 도구",
-        "UI 디자인",
-        "웹사이트 프로젝트"
-      ],
-      "source": "dev.to",
-      "date": "5월 20일",
-      "publishedAt": "2026-05-20T10:22:59.000Z",
-      "url": "https://dev.to/designmonks/aura-build-ai-design-tool-smarter-ui-design-for-faster-product-teams-d4b",
-      "collectedAt": "2026-05-20"
-    },
-    {
-      "category": "trend",
-      "title": "선거 관리들이 투표소에 ICE가 나타날 준비를 하고 있다",
-      "summary": "트럼프 행정부는 연방 요원들이 선거를 감독하겠다고 위협하고 있다. 주 및 지방 관리들은 이에 대비하고 있으며, 체포될 경우의 상황도 시뮬레이션하고 있다.",
-      "summary_full": "트럼프 행정부는 연방 요원들이 선거 현장에 나타날 것이라고 지속적으로 위협하고 있다. 이에 따라 주 및 지방 선거 관리들은 이러한 상황에 대비하고 있다. 그들은 만약 체포될 경우 어떻게 대처할지를 시뮬레이션하고 있다. 이러한 준비는 선거의 공정성과 안전성을 확보하기 위한 노력의 일환이다.",
-      "keywords": [
-        "선거",
-        "ICE",
-        "트럼프 행정부"
-      ],
-      "source": "wired.com",
-      "date": "5월 20일",
-      "publishedAt": "2026-05-20T10:00:00.000Z",
-      "url": "https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/",
-      "collectedAt": "2026-05-20"
-    },
-    {
-      "category": "industry",
-      "title": "구글, 정밀 편집을 겨냥한 워크스페이스 네이티브 AI 이미지 생성기 Pics 발표",
-      "summary": "구글은 Nano Banana 2를 기반으로 한 AI 이미지 생성기 Pics를 발표했다. 이 도구는 사용자가 텍스트 프롬프트로 이미지를 생성하고 개별 요소를 이동, 크기 조정, 변환할 수 있게 해준다.",
-      "summary_full": "구글은 I/O 2026 개발자 회의에서 Pics를 공개했다. 이 AI 이미지 생성기는 사용자가 텍스트 프롬프트를 통해 이미지를 생성하고, 전체 구성을 다시 만들지 않고도 개별 요소를 조정할 수 있도록 한다. Pics는 Workspace Business Standard 이상 및 Google AI Pro와 Ultra 구독자에게 향후 몇 달 내에 제공될 예정이다. 이는 Canva와의 경쟁을 염두에 둔 기능이다.",
-      "keywords": [
-        "구글",
-        "AI 이미지 생성기",
-        "정밀 편집"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 20일",
-      "publishedAt": "2026-05-20T09:56:32.000Z",
-      "url": "https://thenextweb.com/news/google-pics-workspace-ai-image-generator-nano-banana-2",
-      "collectedAt": "2026-05-20"
-    },
-    {
-      "category": "industry",
-      "title": "피지컬 AI의 엔진 ‘VLA’",
-      "summary": "피지컬 AI가 AI 기술 트렌드의 중심으로 떠오르고 있으며, VLA는 이 시장의 핵심 엔진으로 주목받고 있다. 그러나 안전성보다 속도를 우선시하는 개발 관행이 지속될 경우, VLA는 인류에게 위협이 될 수 있다.",
-      "summary_full": "인공지능 기술의 발전이 에이전틱 AI에서 피지컬 AI로 이동하고 있다. VLA는 피지컬 AI 시장에서 중요한 역할을 하는 엔진으로 평가받고 있다. 하지만 개발 과정에서 안전성을 간과하고 속도를 중시하는 관행이 쌓이면, VLA는 인류에게 위험한 존재가 될 가능성이 있다. 따라서 안전성과 윤리를 고려한 개발이 필요하다.",
-      "keywords": [
-        "피지컬 AI",
-        "VLA",
-        "안전성",
-        "AI 기술",
-        "개발 관행"
-      ],
-      "source": "바이라인네트워크",
-      "date": "5월 20일",
-      "publishedAt": "2026-05-20T08:52:37.000Z",
-      "url": "https://byline.network/2026/05/18-582/",
-      "collectedAt": "2026-05-20"
-    },
-    {
       "category": "ai",
       "title": "OpenAI 모델, 이산 기하학의 중심 추측을 반증하다",
       "summary": "OpenAI 모델이 80년 된 단위 거리 문제를 해결하며 이산 기하학의 주요 추측을 반증했다. 이는 AI 기반 수학의 이정표가 된다.",
@@ -4674,38 +4720,6 @@
       "publishedAt": "2026-05-20T00:00:00.000Z",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "collectedAt": "2026-05-21"
-    },
-    {
-      "category": "ai",
-      "title": "OpenAI의 국가 교육 다음 단계",
-      "summary": "OpenAI는 국가 교육을 발전시키며 학교에서 AI 채택을 확대하고 있다. 새로운 파트너십, 교사 교육, 도구를 통해 글로벌 학습 성과를 개선하고 있다.",
-      "summary_full": "OpenAI는 국가 교육을 위한 새로운 단계를 추진하고 있다. 이는 학교에서 인공지능(AI)의 채택을 확대하는 것을 목표로 한다. 새로운 파트너십과 교사 교육 프로그램, 다양한 도구를 통해 전 세계의 학습 성과를 개선하고자 한다. 이러한 노력은 교육의 질을 높이고, 학생들에게 더 나은 학습 경험을 제공하는 데 기여할 것이다.",
-      "keywords": [
-        "OpenAI",
-        "교육",
-        "인공지능"
-      ],
-      "source": "OpenAI News",
-      "date": "5월 20일",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "collectedAt": "2026-05-20"
-    },
-    {
-      "category": "industry",
-      "title": "윤리적 인터페이스 디자인에서 가톨릭 철학의 필요성",
-      "summary": "가톨릭 철학이 윤리적 디자인의 기초를 제공할 수 있다는 주장을 다룬다. AI와 형이상학을 통해 도덕적 기반을 탐구하는 내용이다.",
-      "summary_full": "가톨릭 철학이 윤리적 디자인에 필요한 기초를 제공할 수 있다는 주장을 제시한다. 저자는 이 주장을 제기하게 된 배경과 자신의 생각의 변화를 설명한다. AI와 형이상학을 통해 디자인의 도덕적 기반을 찾는 과정이 중요하다고 강조한다. 이러한 논의는 점점 더 많은 사람들에게 공감을 얻고 있다.",
-      "keywords": [
-        "가톨릭 철학",
-        "윤리적 디자인",
-        "AI와 형이상학"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 19일",
-      "publishedAt": "2026-05-19T21:54:23.000Z",
-      "url": "https://uxdesign.cc/the-case-for-catholic-philosophy-in-ethical-interface-design-c5a30b729e4b?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-20"
     },
     {
       "category": "ai",
@@ -4738,22 +4752,6 @@
       "publishedAt": "2026-05-18T18:21:39.000Z",
       "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
       "collectedAt": "2026-05-21"
-    },
-    {
-      "category": "frontend",
-      "title": "문서 간 뷰 전환: 누가 언급하지 않는 문제점들",
-      "summary": "문서 간 뷰 전환에 대한 실험에서 예상치 못한 문제를 경험했다. 이 기술이 실제로 존재하고 매끄러운 페이지 전환을 제공할 수 있다는 것을 알고 있었지만, 구현 과정에서 어려움을 겪었다.",
-      "summary_full": "이 글에서는 문서 간 뷰 전환을 구현하는 과정에서 발생할 수 있는 다양한 문제점들을 다룬다. 저자는 이 기술에 대한 기대와 실제 경험의 차이를 강조하며, 특히 주의해야 할 점들을 설명한다. 또한, 이러한 문제들이 개발자들에게 어떻게 영향을 미칠 수 있는지를 논의한다. 마지막으로, 성공적인 구현을 위한 팁과 조언을 제공한다.",
-      "keywords": [
-        "뷰 전환",
-        "웹 개발",
-        "문서 간 전환"
-      ],
-      "source": "css-tricks.com",
-      "date": "5월 18일",
-      "publishedAt": "2026-05-18T13:47:19.000Z",
-      "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
-      "collectedAt": "2026-05-20"
     },
     {
       "category": "design",
@@ -4870,8 +4868,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 견해를 바탕으로 웹사이트 개선을 위한 과제를 제시한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이 글에서는 이를 강조하고 있다. 다른 A List Apart 기사는 혁신과 통찰력을 제공하지만, 이 글은 독자에게 실질적인 과제를 제시한다. 저자는 디자이너들이 좋은 사람이라는 점에 동의할 것이라고 주장한다. 이 글은 웹사이트의 품질을 높이기 위한 개인적인 의견을 담고 있다.",
+      "summary": "웹사이트 접근성의 중요성을 논의한다. 디자이너는 좋은 사람들이다.",
+      "summary_full": "웹사이트 접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 개인적인 견해를 바탕으로 디자이너들이 가져야 할 책임을 강조한다. 디자이너들은 혁신적이고 통찰력 있는 작업을 하지만, 접근성에 대한 고민이 필요하다. 독자들에게 숙제를 제안하며, 디자이너의 긍정적인 면을 부각시킨다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -4881,7 +4879,7 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-19"
+      "collectedAt": "2026-06-20"
     },
     {
       "category": "ai",
