@@ -1,22 +1,182 @@
 {
-  "updated": "2026년 6월 25일 AM 03:27",
-  "count": 317,
+  "updated": "2026년 6월 26일 AM 03:35",
+  "count": 318,
   "articles": [
     {
       "category": "industry",
-      "title": "프로덕트 디자이너의 진짜 질문",
-      "summary": "AI 시대에 프로덕트 디자이너가 고민해야 할 핵심 질문을 다룬다. 오늘의집 디자인팀의 경험을 바탕으로 한 인사이트를 제공한다.",
-      "summary_full": "오늘의집 프로덕트 디자인팀이 AI 시대에 디자인의 본질을 탐구한다. 누구나 쉽게 접근할 수 있는 디자인의 한계를 넘어, 진정한 가치를 창출하기 위한 질문을 제기한다. 디자이너가 마주해야 할 도전과 기회를 논의하며, 디자인의 미래를 전망한다. AI와 함께하는 디자인의 방향성을 제시한다.",
+      "title": "프로덕트 디자이너가 던져야 할 질문",
+      "summary": "AI Frontier 시리즈의 두 번째 이야기로, 프로덕트 디자이너가 직면한 도전과제를 다룬다. 디자인의 질을 높이기 위한 진정한 질문의 중요성을 강조한다.",
+      "summary_full": "AI Frontier 시리즈의 두 번째 이야기에서는 오늘의집 프로덕트 디자인팀이 누구나 쉽게 60점을 만드는 시대에 프로덕트 디자이너가 던져야 할 진짜 질문에 대해 논의한다. 디자인의 질을 높이기 위해서는 단순한 기준을 넘어서야 하며, 이는 디자이너들이 직면한 도전과제를 해결하는 데 필수적이다. 이 글은 프로덕트 디자인의 방향성과 그에 따른 질문의 중요성을 강조한다. 디자이너들이 더 나은 결과를 위해 고민해야 할 점들을 제시한다.",
       "keywords": [
         "프로덕트 디자인",
-        "AI 시대",
-        "오늘의집"
+        "AI Frontier",
+        "디자인 질문"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 25일",
-      "publishedAt": "2026-06-25T03:25:37.878Z",
+      "date": "6월 26일",
+      "publishedAt": "2026-06-26T03:33:58.468Z",
       "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "design",
+      "title": "여러 언어 버전의 광고 이미지 제작",
+      "summary": "Runway를 활용하여 다양한 언어로 광고 이미지를 제작하는 방법을 소개합니다. 이 과정은 광고의 글로벌화에 기여합니다.",
+      "summary_full": "Runway를 이용한 광고 이미지의 다국어 버전 제작 방법을 설명합니다. 이 기술은 광고의 효과를 극대화하고, 다양한 시장에 맞춤형 콘텐츠를 제공하는 데 유용합니다. 여러 언어로의 변환 과정에서 고려해야 할 디자인 요소와 기술적 접근법도 다룹니다. 이를 통해 브랜드의 글로벌 인지도를 높일 수 있습니다.",
+      "keywords": [
+        "광고 이미지",
+        "다국어",
+        "Runway"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 26일",
+      "publishedAt": "2026-06-26T03:33:52.749Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-779/",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "frontend",
+      "title": "자바스크립트 배열 메서드 - 1부",
+      "summary": "배열은 자바스크립트에서 여러 값을 하나의 변수에 저장하는 특수한 객체이다.",
+      "summary_full": "배열은 자바스크립트에서 여러 값을 하나의 변수에 저장하는 특수한 객체이다. 이를 통해 별도의 변수를 만들지 않고도 여러 값을 관리할 수 있다. 이 글에서는 배열의 기본 개념과 메서드에 대해 설명한다.",
+      "keywords": [
+        "자바스크립트",
+        "배열",
+        "메서드"
+      ],
+      "source": "dev.to",
+      "date": "6월 26일",
+      "publishedAt": "2026-06-26T03:33:39.000Z",
+      "url": "https://dev.to/annapoo/javascript-arrays-methods-part-1-kb7",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "trend",
+      "title": "앤트로픽, AI 안전성을 위한 성공의 중요성 강조",
+      "summary": "앤트로픽은 자신의 성공이 AI의 안전성을 확보하는 데 중요하다고 주장하고 있다. 비판자들은 이 회사가 빠르게 권력을 축적하고 있다고 반박한다.",
+      "summary_full": "앤트로픽은 AI의 안전한 개발을 위해 자신의 성공이 필수적이라고 강조하고 있다. 그러나 비판자들은 이 회사가 지나치게 많은 권력을 쌓고 있다고 우려하고 있다. 앤트로픽은 책임 있는 AI 개발이란 이러한 성공을 포함한다고 주장한다. 이로 인해 AI의 안전성을 높일 수 있다는 입장이다.",
+      "keywords": [
+        "앤트로픽",
+        "AI 안전성",
+        "책임 있는 개발"
+      ],
+      "source": "wired.com",
+      "date": "6월 26일",
+      "publishedAt": "2026-06-26T00:49:13.000Z",
+      "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "ai",
+      "title": "HF Jobs에서 vLLM 서버 실행하기",
+      "summary": "HF Jobs에서 vLLM 서버를 한 명령어로 실행하는 방법을 소개합니다. 이 과정은 간단하며, 필요한 설정을 최소화하여 효율적으로 서버를 운영할 수 있습니다.",
+      "summary_full": "이 글에서는 HF Jobs 플랫폼에서 vLLM 서버를 한 명령어로 실행하는 방법을 설명합니다. 사용자는 복잡한 설정 없이 간단한 명령어 입력만으로 서버를 시작할 수 있습니다. 이 방법은 개발자들이 서버 운영을 더 쉽게 할 수 있도록 도와줍니다. 따라서, vLLM 서버를 신속하게 배포하고 관리할 수 있는 유용한 가이드입니다.",
+      "keywords": [
+        "vLLM",
+        "HF Jobs",
+        "서버 실행"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "6월 26일",
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "industry",
+      "title": "AI 서비스의 생존 전략",
+      "summary": "AI 모델들이 경쟁적으로 발전하고 있지만, 결국 유사해질 것이다. 이로 인해 가격 경쟁이 심화되고 새로운 AI 생태계가 형성될 가능성이 있다.",
+      "summary_full": "여러 프론티어 AI 모델이 경쟁적으로 업그레이드되고 있지만, 결국 비슷해질 것이다. 그로 인해 모델 간의 가격 경쟁만 남게 된다. 이러한 상황은 다른 AI 계층의 회사를 중심으로 새로운 AI 생태계를 형성할 수 있는 기회를 제공할 수 있다. 따라서 AI 서비스는 이러한 변화에 적응해야 한다.",
+      "keywords": [
+        "AI 모델",
+        "가격 경쟁",
+        "AI 생태계"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 25일",
+      "publishedAt": "2026-06-25T23:55:09.000Z",
+      "url": "https://byline.network/2026/06/25-574/",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "industry",
+      "title": "AI 시대의 Figma 재구성",
+      "summary": "Figma는 AI의 압박에 대응하여 코드 레이어와 모션, 셰이더로 캔버스를 확장하고 있다. 이는 디자인 핸드오프를 완전히 우회하는 것을 방지하기 위한 전략이다.",
+      "summary_full": "Figma는 Config 2026에서 AI의 압박을 받고 있으며, 이를 극복하기 위해 코드 레이어와 모션, 셰이더를 포함한 캔버스를 확장하고 있다. 이러한 변화는 팀들이 디자인 핸드오프를 완전히 무시하는 것을 방지하기 위한 것이다. Figma의 진정한 시험대는 이제 경쟁이 아닌, 코드 네이티브 환경에서의 에이전틱 워크플로우에 적응하는 것이다. 이로써 Figma는 생존을 위한 높은 위험을 감수하고 있다.",
+      "keywords": [
+        "Figma",
+        "AI",
+        "디자인 핸드오프"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 25일",
+      "publishedAt": "2026-06-25T22:50:53.000Z",
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "industry",
+      "title": "안일함의 숨겨진 비용과 제이 롤랜드의 기업 기술 부채 위기 대응 사명",
+      "summary": "미국 기업들은 비효율적인 IT 비즈니스 프로세스로 인해 막대한 비용을 지출하고 있으며, 제이 롤랜드는 이에 대한 안일함을 경고하고 있다. 기술 부채는 연간 2.41조 달러의 비용을 초래하며, 이를 해결하는 데 1.52조 달러가 필요하다.",
+      "summary_full": "미국 기업들은 비효율적인 IT 비즈니스 프로세스로 인해 막대한 비용을 지출하고 있으며, 제이 롤랜드는 이에 대한 안일함을 경고하고 있다. 기술 부채는 IT 수리 지연, 잘못된 구성 및 기타 운영 비효율성의 누적 비용을 의미한다. 이 문제는 연간 2.41조 달러의 비용을 초래하며, 이를 해결하는 데 1.52조 달러가 필요하다. 롤랜드는 기업들이 이 문제를 심각하게 받아들여야 한다고 주장하고 있다.",
+      "keywords": [
+        "기술 부채",
+        "IT 비즈니스 프로세스",
+        "제이 롤랜드"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 25일",
+      "publishedAt": "2026-06-25T22:01:12.000Z",
+      "url": "https://thenextweb.com/news/jay-roland-varex-solutions-technical-debt-crisis",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "trend",
+      "title": "인테리어 디자인 직업 가이드",
+      "summary": "인테리어 디자인은 단순한 방 꾸미기를 넘어 전문 분야로 발전하고 있다. 특히 현대 주택 프로젝트와 상업 개발로 인해 콜카타와 같은 도시에서 이 직업이 빠르게 성장하고 있다.",
+      "summary_full": "인테리어 디자인은 이제 창의성, 계획 및 기술 지식을 결합한 전문 분야로 자리 잡았다. 많은 학생들이 이 분야에 관심을 가지며 진로를 탐색하고 있다. 현대 주택 프로젝트와 상업 개발이 활발한 도시에서는 이 직업의 수요가 증가하고 있다. 따라서 초보자들을 위한 실용적인 가이드가 필요하다.",
+      "keywords": [
+        "인테리어 디자인",
+        "직업 가이드",
+        "창의성"
+      ],
+      "source": "dev.to",
+      "date": "6월 25일",
+      "publishedAt": "2026-06-25T18:18:39.000Z",
+      "url": "https://dev.to/seogift90/interior-design-as-a-career-a-practical-guide-for-beginners-4g58",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "frontend",
+      "title": "translateZ()",
+      "summary": "CSS의 translateZ() 함수는 요소에 깊이를 추가하여 3D 공간에서 Z축을 따라 이동시킵니다.",
+      "summary_full": "translateZ() 함수는 요소를 더 가까이 또는 멀리 이동시켜 깊이를 부여합니다. 예를 들어, .box:hover { transform: translateZ(100px); }와 같이 사용할 수 있습니다. translateZ()가 작동하려면 perspective() 함수나 perspective 속성이 필요합니다. 이 둘 중 하나가 없으면 translateZ()는 작동하지 않습니다.",
+      "keywords": [
+        "CSS",
+        "3D 변환",
+        "translateZ"
+      ],
+      "source": "css-tricks.com",
+      "date": "6월 25일",
+      "publishedAt": "2026-06-25T13:18:56.000Z",
+      "url": "https://css-tricks.com/almanac/functions/t/translatez/",
+      "collectedAt": "2026-06-26"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, AI 유출 사건에서 알리바바의 2,880만 건 Claude 교환 주장",
+      "summary": "앤트로픽은 알리바바가 AI 유출 사건에 연루되어 2,880만 건의 Claude 교환을 했다고 주장하고 있다. 이 사건은 AI 기술의 보안과 관련된 중요한 논란을 일으키고 있다.",
+      "summary_full": "앤트로픽이 발표한 내용에 따르면, 알리바바는 AI 유출 사건에서 2,880만 건의 Claude 교환을 했다고 주장하고 있다. 이 사건은 AI 기술의 보안 문제를 부각시키며, 업계의 관심을 끌고 있다. 전문가들은 이러한 유출이 AI 기술의 신뢰성에 미치는 영향을 우려하고 있다. 향후 이 사건의 전개가 AI 산업에 어떤 영향을 미칠지 주목된다.",
+      "keywords": [
+        "AI 유출",
+        "알리바바",
+        "앤트로픽"
+      ],
+      "source": "Google News Anthropic",
+      "date": "6월 25일",
+      "publishedAt": "2026-06-25T10:54:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQS28tS2RiT2k4UTJjR0ZqUzNlcmZrVHhvMzlQcTlIYm9HV3ZHckRGR256WUNaeE5aZWY0dDA5NjNBQ0lfT3NvdFZMcTlqZHV5cjJoclR4RnI2eVVtOVNYaHJPaDhuUXdmV3Y5dlJrVlpNcmhXUlZDYzBwRVlmUWwzZzdWSjZjWWpWaU5oSGZ4aXZOa3RWTGdxY01oc3VzQXhKR29yQWVkSGZrRWVsNGVVQ2xIWWQzZGI4dlZ6US1xTU9OcHhGaFItc1BYdXIxME83OFFVOV9DVFF3N09OZFozTENuNHNJSDdfeFFDLUlsVXc5NDFKSGlfZ0RJelFSVV9pRnN2Q2VEWTNtbTJrZXoxWE1mTzRYT0FObXo3Y18yQzhSWEJCRjNuMkFrZkxCdnVrc2RjcjRzREpwcmowYlJhbUVhdFJFQWF1STdjeWhTQnI4NU9uTGM3NkhkbnBnZ21jZ0RHaDZ3aUVUMUIzWUxHN0F3bXo2c005RFVneF9aZ1ZpRDBzN3B6ZlNGOTQ0cVRYVXB6U2lENWl0MHZUd2FtUV9rY2xUX0x5S3pTa3NfS3VFQlprSVFiaDlGMDlIZw?oc=5",
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "design",
@@ -65,6 +225,22 @@
       "publishedAt": "2026-06-25T02:48:57.000Z",
       "url": "https://dev.to/_carson_ye_/where-webgl-meets-liquid-glass-401l",
       "collectedAt": "2026-06-25"
+    },
+    {
+      "category": "ai",
+      "title": "에이전트가 일하는 방식을 변화시키는 방법",
+      "summary": "OpenAI의 새로운 연구 논문은 AI 에이전트가 작업을 어떻게 변화시키고 있는지를 보여준다. 이는 더 길고 복잡한 작업을 가능하게 하여 다양한 역할에서 생산성을 확장한다.",
+      "summary_full": "OpenAI의 새로운 연구 논문은 AI 에이전트가 일하는 방식을 혁신하고 있음을 보여준다. 이러한 에이전트는 더 긴 작업과 복잡한 작업을 수행할 수 있도록 지원한다. 결과적으로, 이는 다양한 직무에서 생산성을 크게 향상시키는 데 기여하고 있다. AI의 발전이 직장 환경에 미치는 긍정적인 영향을 강조하고 있다.",
+      "keywords": [
+        "AI 에이전트",
+        "생산성",
+        "작업 혁신"
+      ],
+      "source": "OpenAI News",
+      "date": "6월 25일",
+      "publishedAt": "2026-06-25T02:00:00.000Z",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "trend",
@@ -133,18 +309,18 @@
     {
       "category": "ai",
       "title": "제미니 3.5 플래시에서 컴퓨터 사용 소개",
-      "summary": "제미니 3.5 플래시에서 컴퓨터 사용이 소개됩니다. 이 새로운 기능은 사용자에게 향상된 경험을 제공합니다.",
-      "summary_full": "제미니 3.5 플래시는 컴퓨터 사용을 새롭게 도입합니다. 이 기능은 사용자 인터페이스를 개선하고, 작업 효율성을 높이는 데 기여합니다. 사용자는 더 나은 성능과 다양한 기능을 통해 작업할 수 있습니다. 제미니 3.5 플래시는 최신 기술을 반영하여 사용자에게 최적의 환경을 제공합니다.",
+      "summary": "제미니 3.5 플래시에서 컴퓨터 사용이 도입되었습니다. 새로운 기능과 개선 사항이 포함되어 있습니다.",
+      "summary_full": "제미니 3.5 플래시에서는 컴퓨터 사용이 새롭게 도입되었습니다. 이 업데이트는 사용자 경험을 향상시키기 위한 여러 기능을 포함하고 있습니다. 특히, 효율적인 작업 처리를 위한 도구들이 추가되었습니다. 사용자들은 이러한 개선을 통해 더 나은 작업 환경을 경험할 수 있습니다.",
       "keywords": [
-        "제미니 3.5",
+        "제미니",
         "컴퓨터 사용",
-        "플래시"
+        "업데이트"
       ],
       "source": "Google DeepMind Blog",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T16:30:01.000Z",
       "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "ai",
@@ -199,18 +375,18 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리에서 시작하여, 주간 다운로드 수가 2천만 회를 넘는 글로벌 프로젝트로 성장했다.",
-      "summary_full": "es-toolkit은 Toss에서 시작된 작은 유틸리티 함수 라이브러리로, 내부 팀의 필요에 의해 개발되었다. 이 라이브러리는 점차적으로 인기를 얻어, 현재는 전 세계적으로 2천만 회 이상 다운로드되고 있다. Toss의 프론트엔드 엔지니어링 팀은 이 프로젝트의 성장 과정을 공유하며, 핵심 기술로 자리잡게 된 배경을 설명한다. es-toolkit은 이제 많은 개발자들에게 필수적인 도구로 자리매김하고 있다.",
+      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2천만 회 이상 다운로드되는 프로젝트로 성장했다. 이 글에서는 그 과정과 Toss에서의 경험을 공유한다.",
+      "summary_full": "es-toolkit은 Toss의 내부 유틸리티 함수 라이브러리로 시작되었다. 시간이 지나면서 이 라이브러리는 전 세계적으로 2천만 회 이상 다운로드되는 글로벌 프로젝트로 발전했다. Toss의 프론트엔드 엔지니어링 팀이 이 프로젝트의 성장 과정을 공유하며, 그 과정에서의 경험과 배운 점을 이야기한다. 이 프로젝트는 핵심 기술로 채택되어 많은 개발자들에게 영향을 미치고 있다.",
       "keywords": [
         "es-toolkit",
         "Toss",
-        "프론트엔드 라이브러리"
+        "프론트엔드 개발"
       ],
       "source": "toss.tech",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "design",
@@ -311,18 +487,18 @@
     {
       "category": "figma",
       "title": "Figma의 새로운 기능 발표",
-      "summary": "Figma에서 사용할 수 있는 새로운 기능과 능력이 발표되었습니다. 이번 발표에서는 모션, 깊이, 질감 및 코드와 같은 새로운 재료를 사용하여 창작할 수 있는 방법이 소개되었습니다.",
-      "summary_full": "Figma는 최근 Config 2026에서 새로운 기능과 능력을 발표했습니다. 사용자는 이제 모션, 깊이, 질감 및 코드를 활용하여 캔버스에서 창작할 수 있습니다. 정밀하고 표현력 있는 애니메이션을 타임라인에서 만들거나 Figma 에이전트를 통해 제작할 수 있습니다. 재사용 가능한 시스템을 구축하고 개발 준비가 완료된 애니메이션을 배포할 수 있는 방법도 소개되었습니다.",
+      "summary": "Figma에서 사용할 수 있는 새로운 기능과 능력이 발표되었습니다. 이제 모션, 깊이, 질감 및 코드를 캔버스에서 활용할 수 있습니다.",
+      "summary_full": "Figma에서 사용할 수 있는 새로운 기능과 능력이 발표되었습니다. 이제 모션, 깊이, 질감 및 코드를 캔버스에서 활용할 수 있습니다. 정밀하고 표현력 있는 애니메이션을 타임라인에서 만들거나 Figma 에이전트를 통해 생성할 수 있습니다. 재사용 가능한 시스템을 구축하고 개발 준비가 완료된 애니메이션을 배포할 수 있습니다.",
       "keywords": [
         "Figma",
-        "새로운 기능",
+        "모션",
         "애니메이션"
       ],
       "source": "Figma Release Notes",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "industry",
@@ -409,8 +585,8 @@
     {
       "category": "design",
       "title": "UX·UI 하반기 트렌드 3선",
-      "summary": "현업에서 알아야 할 UX·UI의 최신 트렌드를 소개한다. 하반기에 주목해야 할 주요 요소들을 정리하였다.",
-      "summary_full": "이번 기사에서는 UX·UI 디자인의 하반기 트렌드 3가지를 다룬다. 각 트렌드는 현업에서 실질적으로 적용할 수 있는 인사이트를 제공한다. 디자인의 변화와 사용자 경험 향상을 위한 전략을 제시한다. 최신 트렌드를 통해 경쟁력을 높일 수 있는 방법을 모색한다.",
+      "summary": "현업에서 주목해야 할 UX·UI의 최신 트렌드를 소개한다. 이 트렌드는 사용자 경험을 개선하고 디자인 혁신을 이끌어낼 것으로 기대된다.",
+      "summary_full": "이번 기사에서는 UX·UI 분야에서 주목해야 할 하반기 트렌드 3가지를 다룬다. 첫 번째 트렌드는 사용자 맞춤형 디자인의 중요성이 강조된다. 두 번째로는 인터랙티브 요소의 증가가 사용자 참여를 유도할 것으로 보인다. 마지막으로, 지속 가능한 디자인이 점점 더 많은 관심을 받고 있다는 점이 언급된다.",
       "keywords": [
         "UX",
         "UI",
@@ -420,7 +596,7 @@
       "date": "6월 23일",
       "publishedAt": "2026-06-23T04:29:09.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Yck9tYWhBTG5hOFFxdWRMeDZQRXpGYkdaQVU0UWlsWGRIcmp4QlV6R2M1RENiRFJwRUlocW5OYjFHNjRVTm5iOTZuQkdiZw?oc=5",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "frontend",
@@ -488,19 +664,19 @@
     },
     {
       "category": "ai",
-      "title": "카페24, LLM 라우터 출시",
-      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 언어 모델을 효율적으로 관리할 수 있도록 돕는다.",
-      "summary_full": "카페24는 GPT와 클로드를 통합하여 운용할 수 있는 'LLM 라우터'를 새롭게 출시했다. 이 라우터는 사용자가 여러 언어 모델을 효율적으로 관리하고 활용할 수 있도록 지원한다. 이를 통해 기업들은 더욱 향상된 AI 서비스를 제공할 수 있을 것으로 기대된다. 카페24는 AI 기술의 발전을 통해 고객 경험을 개선하고자 한다.",
+      "title": "GPT·클로드 통합 운용, 카페24 'LLM 라우터' 출시",
+      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 언어 모델을 효율적으로 관리하고 활용할 수 있도록 돕는다.",
+      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하여 GPT와 클로드를 통합 운용할 수 있는 기능을 제공한다. 이 라우터는 사용자가 여러 언어 모델을 쉽게 관리하고 최적화할 수 있도록 설계되었다. 이를 통해 기업들은 AI 기술을 더욱 효과적으로 활용할 수 있는 기회를 얻게 된다. 카페24는 이러한 혁신이 고객의 비즈니스에 긍정적인 영향을 미칠 것으로 기대하고 있다.",
       "keywords": [
         "카페24",
         "LLM 라우터",
-        "AI 통합 운용"
+        "AI 기술"
       ],
       "source": "Google News AI (KR)",
       "date": "6월 22일",
       "publishedAt": "2026-06-22T23:54:46.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Rd3o4YlhQQU51OGlYUVB6ZEx4ejRxcWp4TFhqMjNhTjFPNXZHaHhwUDlNbVl6Y3ZkX1JFa0Rqb19scmtRWE9fU2dxSVNrUQ?oc=5",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "industry",
@@ -1209,18 +1385,18 @@
     {
       "category": "ai",
       "title": "프론티어 레드 팀 프로젝트 페치: 2단계",
-      "summary": "프론티어 레드 팀의 프로젝트 페치가 2단계에 접어들었다. 이 단계에서는 새로운 목표와 전략이 설정된다.",
-      "summary_full": "프론티어 레드 팀은 2026년 6월 18일에 프로젝트 페치의 두 번째 단계를 발표했다. 이번 단계에서는 이전 단계의 성과를 바탕으로 새로운 목표를 설정하고, 이를 달성하기 위한 전략을 수립한다. 팀원들은 각자의 역할을 맡아 프로젝트의 성공을 위해 협력할 예정이다. 이 프로젝트는 보안 및 기술 분야에서 중요한 이정표가 될 것으로 기대된다.",
+      "summary": "프론티어 레드 팀의 프로젝트 페치가 2단계에 접어들었다. 이 단계에서는 새로운 전략과 기술이 도입될 예정이다.",
+      "summary_full": "프론티어 레드 팀의 프로젝트 페치가 2026년 6월 18일에 2단계로 진행된다. 이번 단계에서는 팀의 목표 달성을 위한 새로운 전략과 기술이 적용될 예정이다. 프로젝트의 성공적인 진행을 위해 다양한 리소스와 인력이 투입된다. 팀은 향후 계획에 대한 세부 사항을 공개할 예정이다.",
       "keywords": [
         "프론티어 레드 팀",
         "프로젝트 페치",
-        "보안 기술"
+        "2단계"
       ],
       "source": "Anthropic Research",
       "date": "6월 18일",
       "publishedAt": "2026-06-18T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "industry",
@@ -1480,19 +1656,19 @@
     },
     {
       "category": "design",
-      "title": "불확실성을 디자인하다: AI가 확률적 사고를 강화하는 방법",
-      "summary": "2024년, 에어 캐나다 고객이 챗봇에 장례 할인 요금에 대해 문의했으나 챗봇이 잘못된 환불 정책을 제시했다. 이 사건은 AI의 예측이 실제 정책으로 오인될 수 있는 위험성을 보여준다.",
-      "summary_full": "2024년, 에어 캐나다 고객이 챗봇에 장례 할인 요금에 대해 문의했으나 챗봇이 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 법원은 고객의 손을 들어주었다. 이 사건은 챗봇이 훈련 데이터의 패턴을 기반으로 예측한 답변이 실제 정책으로 오인될 수 있는 위험성을 드러낸다. 따라서 AI를 활용한 디자인에서 불확실성을 고려하는 것이 중요하다.",
+      "title": "불확실성 속 디자인: AI가 확률적 사고를 강화하는 방법",
+      "summary": "AI가 예측한 답변이 실제 정책으로 오해받는 사례를 통해 디자인의 위험성을 강조한다. 고객의 요구에 대한 AI의 예측이 잘못된 정보를 제공할 수 있음을 보여준다.",
+      "summary_full": "2024년, 한 에어캐나다 고객이 챗봇에게 장례 할인 요금에 대해 문의했으나, 챗봇은 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 재판소는 고객의 손을 들어주었다. 챗봇은 결정을 내린 것이 아니라 훈련 데이터의 패턴에 기반해 답변을 예측한 것이었다. 이는 디자인의 핵심에 있는 위험을 드러낸다.",
       "keywords": [
         "AI",
-        "불확실성",
-        "확률적 사고"
+        "확률적 사고",
+        "디자인 위험"
       ],
       "source": "smashingmagazine.com",
       "date": "6월 16일",
       "publishedAt": "2026-06-16T15:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "frontend",
@@ -4707,118 +4883,6 @@
     },
     {
       "category": "design",
-      "title": "연휴 고양이 사진 힐링",
-      "summary": "연휴 동안 고양이 사진을 감상하며 힐링할 수 있는 방법을 소개합니다. 고양이의 귀여운 모습이 스트레스를 줄여줄 것입니다.",
-      "summary_full": "연휴에는 고양이 사진을 통해 마음의 안정을 찾는 것이 좋습니다. 귀여운 고양이들의 다양한 모습은 스트레스를 해소하는 데 큰 도움이 됩니다. 이 기사는 고양이 사진을 감상하며 힐링하는 방법에 대해 설명합니다. 고양이와 함께하는 시간은 소중한 힐링의 순간이 될 것입니다.",
-      "keywords": [
-        "고양이",
-        "힐링",
-        "연휴"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 26일",
-      "publishedAt": "2026-05-26T03:25:21.488Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-756/",
-      "collectedAt": "2026-05-26"
-    },
-    {
-      "category": "frontend",
-      "title": "내가 계산해봤다: 당신의 SerpAPI 청구서가 10배 비쌉니다",
-      "summary": "SerpAPI는 월 500달러로 제공되지만, 같은 데이터를 스크래핑하면 3달러에 가능하다. 하지만 직접 스크래퍼를 만들면 유지보수의 어려움이 따른다.",
-      "summary_full": "최근 한 개발자가 SerpAPI의 높은 비용을 지적하며, 직접 데이터를 스크래핑하는 것이 훨씬 저렴하다고 밝혔다. 많은 개발자들이 이 문제에 공감하며, 직접 스크래퍼를 만드는 것이 비용 절감에 도움이 될 수 있지만, 유지보수의 복잡함이 따른다는 점은 간과되고 있다. 프록시 회전, CAPTCHA 진화, 구글의 변화 등으로 인해 직접 스크래핑하는 것이 쉽지 않다. 따라서 비용과 유지보수의 균형을 잘 고려해야 한다.",
-      "keywords": [
-        "SerpAPI",
-        "스크래핑",
-        "비용"
-      ],
-      "source": "dev.to",
-      "date": "5월 26일",
-      "publishedAt": "2026-05-26T03:18:34.000Z",
-      "url": "https://dev.to/leo_o_f54073165eadd8c5e2d/i-did-the-math-your-serpapi-bill-is-10x-what-it-should-be-48ch",
-      "collectedAt": "2026-05-26"
-    },
-    {
-      "category": "trend",
-      "title": "온라인에서 이미지 회전 및 뒤집기 무료 서비스",
-      "summary": "이미지의 방향을 수정하는 것이 가장 일반적인 편집 작업이다. 포토샵 없이도 다양한 각도로 이미지를 회전할 수 있는 방법을 소개한다.",
-      "summary_full": "사진이 옆으로 찍히거나 스캔한 문서가 거꾸로 나오는 경우가 많다. 이러한 문제를 해결하기 위해 포토샵 없이도 온라인에서 간편하게 이미지를 회전하고 뒤집을 수 있는 방법을 제공한다. 이 서비스는 90도, 180도 및 임의의 각도로 이미지를 조정할 수 있도록 돕는다. 사용자는 간단한 클릭만으로 원하는 방향으로 이미지를 수정할 수 있다.",
-      "keywords": [
-        "이미지 편집",
-        "회전",
-        "온라인 서비스"
-      ],
-      "source": "dev.to",
-      "date": "5월 26일",
-      "publishedAt": "2026-05-26T02:23:40.000Z",
-      "url": "https://dev.to/shaishav_patel_271fdcd61a/free-flip-rotate-image-online-90deg-180deg-any-angle-no-photoshop-4jbp",
-      "collectedAt": "2026-05-26"
-    },
-    {
-      "category": "trend",
-      "title": "전기 페라리 루체가 드디어 공개됐다",
-      "summary": "페라리 루체는 가장 기대되는 전기차로, 이탈리아 자동차 제조사의 전통적인 미적 기준을 완전히 깨뜨린다.",
-      "summary_full": "페라리 루체가 드디어 공개되었다. 이 전기차는 자동차 애호가들 사이에서 큰 기대를 모았다. 루체는 기존 페라리의 디자인 언어와는 전혀 다른 새로운 미적 접근을 보여준다. 이는 전기차 시장에서 페라리의 혁신적인 변화를 상징한다.",
-      "keywords": [
-        "페라리",
-        "전기차",
-        "루체"
-      ],
-      "source": "wired.com",
-      "date": "5월 25일",
-      "publishedAt": "2026-05-25T21:03:01.000Z",
-      "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here/",
-      "collectedAt": "2026-05-26"
-    },
-    {
-      "category": "industry",
-      "title": "마이크로소프트, 코파일트 앱 완전 제거 기능 추가",
-      "summary": "마이크로소프트가 윈도우 11에서 코파일트 앱을 완전히 제거할 수 있는 기능을 추가했다. 이번 변화는 2026년 4월 업데이트에 포함되어 기업 관리자와 일반 사용자 모두에게 적용된다.",
-      "summary_full": "마이크로소프트는 윈도우 11에서 코파일트 앱을 완전히 제거할 수 있는 기능을 추가했다. 이 변화는 2026년 4월 업데이트에 포함되어 기업 관리자와 일반 사용자 모두가 설정을 통해 앱을 제거할 수 있게 되었다. IT 관리자들을 위한 새로운 정책은 '마이크로소프트 제거'로 명명되었다. 이는 사용자들이 코파일트를 선택적으로 사용할 수 있도록 해준다.",
-      "keywords": [
-        "마이크로소프트",
-        "코파일트",
-        "윈도우 11"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 25일",
-      "publishedAt": "2026-05-25T19:10:35.000Z",
-      "url": "https://thenextweb.com/news/only-3-3-per-cent-of-users-pay-for-copilot-so-microsoft-is-finally-making-it-optional",
-      "collectedAt": "2026-05-26"
-    },
-    {
-      "category": "industry",
-      "title": "인간을 위한 디자인인가, 기계를 위한 디자인인가?",
-      "summary": "UX 디자인의 개념이 변화하고 있다. 이제는 사용자뿐만 아니라 에이전트와 자동화를 고려해야 한다.",
-      "summary_full": "전통적으로 '사용자'는 사람을 의미했다. 그러나 UX/UI 디자인은 인간과 제품 간의 마찰을 줄이는 것에서 에이전트와 자동화에 대한 고려로 진화하고 있다. 디자인 시스템에서 새로운 접근 방식이 필요하다. 이는 UX 디자인의 미래 방향성을 제시한다.",
-      "keywords": [
-        "UX 디자인",
-        "자동화",
-        "디자인 시스템"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 25일",
-      "publishedAt": "2026-05-25T18:46:44.000Z",
-      "url": "https://uxdesign.cc/should-i-design-for-humans-or-machines-3b8d3addd006?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-26"
-    },
-    {
-      "category": "frontend",
-      "title": "문서 간 전환: 수백 개 요소에 대한 확장",
-      "summary": "첫 번째 파트에서는 전환에서 발생할 수 있는 문제들을 다루었습니다. 여기에는 사용되지 않는 메타 태그, 전환을 중단시키는 4초 타임아웃, 이미지 왜곡, 전환 생명주기에 대한 이벤트가 포함됩니다.",
-      "summary_full": "첫 번째 파트에서는 전환에서 발생할 수 있는 여러 문제들을 다루었습니다. 사용되지 않는 메타 태그는 아무런 효과가 없고, 4초의 타임아웃은 전환을 중단시킵니다. 또한, 이미지 왜곡은 모든 비율 변경을 불필요하게 만듭니다. 마지막으로, pagereveal/pageswap 이벤트는 전환 생명주기에 대한 훅을 제공합니다.",
-      "keywords": [
-        "전환",
-        "문서 간 전환",
-        "UI/UX"
-      ],
-      "source": "css-tricks.com",
-      "date": "5월 25일",
-      "publishedAt": "2026-05-25T13:46:54.000Z",
-      "url": "https://css-tricks.com/cross-document-view-transitions-part-2/",
-      "collectedAt": "2026-05-26"
-    },
-    {
-      "category": "design",
       "title": "당신의 프로토타입은 사용자에게 정직하지 않다 (그리고 이를 고치는 방법)",
       "summary": "프로토타입이 실제 앱이 아님을 인식한 사용자는 이후의 데이터 수집에 영향을 미친다. 이 문제를 해결하기 위한 방법을 제시한다.",
       "summary_full": "사용자가 로그인 화면에서 멈추고 '잘 하고 있는지' 확인하는 순간은 프로토타입이 진짜 앱이 아니라는 인식을 반영한다. 이 인식은 이후 수집되는 모든 데이터에 영향을 미친다. 따라서 프로토타입의 신뢰성을 높이는 방법이 필요하다. 이 글에서는 이러한 문제를 해결하기 위한 구체적인 방안을 제안한다.",
@@ -4832,22 +4896,6 @@
       "publishedAt": "2026-05-25T12:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
       "collectedAt": "2026-05-28"
-    },
-    {
-      "category": "industry",
-      "title": "에이전트 모먼트와 이커머스의 변화",
-      "summary": "에이전트의 실행이 본격화되면서 커머스 생태계가 변화할 가능성이 제기되고 있다. 전문가들은 올해 하반기부터 전 세계적으로 큰 변화가 일어날 것이라고 전망하고 있다.",
-      "summary_full": "현재 에이전트의 실행이 본격화되면서 커머스 생태계도 변화할 수 있다는 의견이 나오고 있다. 한국 인터넷 1세대 전문가인 허진호 대표는 클로드코드2.0과 오푸스4.5가 컨슈머 인터넷을 재편할 잠재력이 있다고 평가했다. 이미 변화의 요소는 모두 갖춰져 있으며, 미국, 중국, 한국을 포함한 전 세계에서 올해 하반기부터 본격적인 변화가 시작될 것이라는 진단이다.",
-      "keywords": [
-        "에이전트",
-        "이커머스",
-        "변화"
-      ],
-      "source": "바이라인네트워크",
-      "date": "5월 25일",
-      "publishedAt": "2026-05-25T07:49:52.000Z",
-      "url": "https://byline.network/2026/05/24_10298834/",
-      "collectedAt": "2026-05-26"
     },
     {
       "category": "ai",
@@ -4884,22 +4932,6 @@
       "collectedAt": "2026-05-27"
     },
     {
-      "category": "design",
-      "title": "고객 이해의 네 가지 수준",
-      "summary": "많은 기업들이 고객의 요구와 결정 과정을 잘 알고 있다고 생각하지만, 실제로는 큰 가정과 직감에 의존하는 경우가 많다. 고객을 이해하기 위해서는 네 가지 수준에서 삼각 측량을 해야 한다.",
-      "summary_full": "많은 기업들이 고객의 요구와 필요를 잘 알고 있다고 믿지만, 이는 종종 실질적인 증거가 부족한 큰 가정에 불과하다. 명백한 이유들이 사실일 수 있지만, 전체 그림을 그리기에는 부족하다. 고객을 제대로 이해하기 위해서는 네 가지 수준의 고객 이해를 통해 접근해야 한다. 이를 통해 보다 정확한 고객 통찰을 얻을 수 있다.",
-      "keywords": [
-        "고객 이해",
-        "기업 전략",
-        "고객 통찰"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "5월 22일",
-      "publishedAt": "2026-05-22T13:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
-      "collectedAt": "2026-05-26"
-    },
-    {
       "category": "frontend",
       "title": "Cross Functional 기술 문제 해결을 위한 역량 성장 팁",
       "summary": "기술 조직의 성장에 따라 팀 간의 협력이 필요한 복잡한 문제가 발생한다. 이러한 문제는 단순한 협업을 넘어서는 접근이 필요하다.",
@@ -4919,7 +4951,7 @@
       "category": "ai",
       "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
       "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 파트너십은 AI 기술의 혁신을 가속화하는 데 중점을 둔다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 가속화하기 위한 협력을 시작했다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 초점을 맞추고 있다. 두 회사는 AI 솔루션의 개발과 상용화를 통해 시장에서의 경쟁력을 강화할 계획이다. 이를 통해 AI 기술이 다양한 산업에 더욱 널리 적용될 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 협력을 시작했다. 이 협력은 AI 기술의 발전과 혁신을 촉진하는 데 중점을 두고 있다. 두 기업은 공동으로 AI 솔루션을 개발하고 시장에 도입할 계획이다. 이를 통해 AI 기술의 적용 범위를 넓히고 산업 전반에 긍정적인 영향을 미칠 것으로 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4929,7 +4961,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "ai",
@@ -4962,22 +4994,6 @@
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
       "collectedAt": "2026-06-09"
-    },
-    {
-      "category": "ai",
-      "title": "펜타곤, Anthropic의 Claude 대체 위해 AI 모델 테스트 중",
-      "summary": "펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 군사적 필요에 따라 AI 기술의 발전을 목표로 하고 있다.",
-      "summary_full": "펜타곤이 Anthropic의 AI 모델인 Claude를 대체하기 위해 새로운 AI 모델을 테스트하고 있다. 이 테스트는 군사적 필요에 따라 AI 기술의 발전을 목표로 하고 있으며, AI의 효율성과 안전성을 평가하는 데 중점을 두고 있다. 펜타곤은 AI 기술이 군사 작전에서 중요한 역할을 할 것으로 기대하고 있다. 이러한 노력은 AI 기술의 경쟁력을 높이고, 군사적 우위를 확보하기 위한 전략의 일환으로 진행되고 있다.",
-      "keywords": [
-        "펜타곤",
-        "AI 모델",
-        "Claude 대체"
-      ],
-      "source": "Google News Anthropic",
-      "date": "5월 21일",
-      "publishedAt": "2026-05-21T17:55:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SjVNbjRET2c0OVREZjhxMy03RVozMDdDaEdBa1BOZ0xBYjQwdTBWZ055M2xWcnhjOW1seEs2OHJRcnFNLTZNVWU2dGRxV0VTTEszd0RVN29xVThhbDY1R2JtSUdJRTRuelE?oc=5",
-      "collectedAt": "2026-05-26"
     },
     {
       "category": "ai",
@@ -5030,8 +5046,8 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "웹사이트 접근성의 중요성을 논의한다. 디자이너들은 좋은 사람들이다.",
-      "summary_full": "웹사이트 접근성이 가장 중요하다는 점을 강조한다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 기사는 독자들에게 숙제를 준다. 개인적인 의견이지만, 디자이너들은 대체로 좋은 사람들이다. 디자이너들이 웹사이트의 접근성에 대해 더 신경 써야 한다고 주장한다.",
+      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
+      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소로, 이를 통해 사용자 경험을 향상시킬 수 있다. 이 글은 디자이너들이 고려해야 할 점들을 제시하며, 웹사이트 개선을 위한 구체적인 숙제를 제안한다. 디자이너는 일반적으로 좋은 사람들로, 사용자에게 긍정적인 영향을 미치고자 한다. 따라서 접근성을 우선시하는 것이 중요하다.",
       "keywords": [
         "디자인",
         "웹사이트",
@@ -5041,7 +5057,7 @@
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-25"
+      "collectedAt": "2026-06-26"
     },
     {
       "category": "ai",
