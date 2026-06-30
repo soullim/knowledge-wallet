@@ -1,22 +1,199 @@
 {
-  "updated": "2026년 6월 29일 AM 03:45",
-  "count": 305,
+  "updated": "2026년 6월 30일 AM 03:33",
+  "count": 310,
   "articles": [
     {
       "category": "industry",
-      "title": "프로덕트 디자이너가 던져야 할 질문",
-      "summary": "프로덕트 디자인의 새로운 시대에 필요한 질문들을 탐구한다. 오늘의집 디자인팀의 경험을 바탕으로 진정한 가치에 대해 논의한다.",
-      "summary_full": "디자인의 표준화가 진행되는 시대에 프로덕트 디자이너는 어떤 질문을 던져야 할까? 오늘의집 프로덕트 디자인팀의 사례를 통해, 디자인의 본질과 사용자 경험의 중요성을 강조한다. AI와의 협업 속에서 디자이너가 직면하는 도전과 기회를 살펴본다. 이러한 질문들은 디자이너가 더 나은 결과물을 창출하는 데 필수적이다.",
+      "title": "프로덕트 디자이너의 진짜 질문",
+      "summary": "오늘의집 프로덕트 디자인팀이 AI 시대에 디자이너가 던져야 할 질문을 탐구한다. 60점을 넘는 디자인을 위한 새로운 접근법을 제시한다.",
+      "summary_full": "오늘의집 프로덕트 디자인팀은 AI 시대에 누구나 쉽게 60점을 만드는 디자인 환경 속에서, 프로덕트 디자이너가 던져야 할 진짜 질문을 탐구한다. 이 글은 디자이너들이 어떻게 차별화된 가치를 창출할 수 있는지에 대한 통찰을 제공한다. 또한, 디자인의 질을 높이기 위한 새로운 접근법과 전략을 제안한다. AI Frontier 시리즈의 일환으로, 디자인의 미래를 고민하는 중요한 논의가 담겨 있다.",
       "keywords": [
         "프로덕트 디자인",
-        "디자인 질문",
-        "오늘의집"
+        "AI 시대",
+        "디자인 전략"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 29일",
-      "publishedAt": "2026-06-29T03:43:51.124Z",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T03:32:01.281Z",
       "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "design",
+      "title": "Codex를 활용한 Higgsfield 이미지 및 영상 생성",
+      "summary": "Codex를 사용하여 Higgsfield의 이미지와 영상을 생성하는 방법을 다룹니다. 이 과정에서 필요한 기술과 도구에 대해 설명합니다.",
+      "summary_full": "이 기사에서는 Codex 플랫폼을 이용하여 Higgsfield의 시각적 표현을 생성하는 방법을 설명합니다. 다양한 이미지와 영상을 만드는 과정에서 필요한 기술적 요소와 도구를 소개합니다. 또한, 생성된 콘텐츠의 활용 가능성에 대해서도 논의합니다. Codex의 기능을 통해 창의적인 작업을 어떻게 수행할 수 있는지에 대한 통찰을 제공합니다.",
+      "keywords": [
+        "Codex",
+        "Higgsfield",
+        "이미지 생성",
+        "영상 생성"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T03:31:56.685Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-781/",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "trend",
+      "title": "인쇄 디자인을 위한 DPI 계산 방법 (그리고 72 PPI가 잘못된 기본값인 이유)",
+      "summary": "인쇄 디자인에서 흐릿하거나 잘못된 크기로 출력되는 문제는 대부분 잘못된 DPI 가정에서 비롯된다. 많은 디자이너가 화면 기본값인 72 또는 96 PPI를 보편적인 상수로 잘못 사용한다.",
+      "summary_full": "인쇄 디자인에서 DPI 계산이 중요하며, 잘못된 DPI 가정이 문제를 일으킨다. 대부분의 디자이너는 화면 기본값인 72 또는 96 PPI를 사용하지만, 이는 모니터에만 해당된다. 인쇄물이나 사진 내보내기 시에는 다른 기준이 필요하다. 따라서 올바른 DPI 설정이 필수적이다.",
+      "keywords": [
+        "DPI",
+        "인쇄 디자인",
+        "PPI"
+      ],
+      "source": "dev.to",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T03:26:54.000Z",
+      "url": "https://dev.to/utilitylab/how-to-calculate-dpi-for-print-design-and-why-72-ppi-is-the-wrong-default-fhn",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "frontend",
+      "title": "인쇄 디자인을 위한 DPI 계산 방법 (그리고 72 PPI가 잘못된 기본값인 이유)",
+      "summary": "인쇄 디자인에서 흐릿하거나 잘못된 크기로 출력되는 문제는 주로 잘못된 DPI 가정에서 비롯된다. 많은 디자이너가 화면 기본값인 72 또는 96 PPI를 보편적인 상수로 취급하지만, 이는 모니터에만 해당된다.",
+      "summary_full": "인쇄 디자인에서 DPI는 매우 중요한 요소로, 잘못된 가정으로 인해 출력물이 흐릿하게 나오거나 크기가 잘못될 수 있다. 많은 디자이너가 화면의 기본값인 72 또는 96 PPI를 일반적인 기준으로 삼지만, 이는 모니터의 특성에만 국한된다. 인쇄물의 품질을 보장하기 위해서는 적절한 DPI 값을 계산하고 적용하는 것이 필수적이다. 따라서, 인쇄 디자인을 할 때는 DPI를 정확히 이해하고 설정하는 것이 중요하다.",
+      "keywords": [
+        "DPI",
+        "인쇄 디자인",
+        "PPI"
+      ],
+      "source": "dev.to",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T03:26:54.000Z",
+      "url": "https://dev.to/utilitylab/how-to-calculate-dpi-for-print-design-and-why-72-ppi-is-the-wrong-default-fhn",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "industry",
+      "title": "기술 기업에서의 진정한 가치",
+      "summary": "기술 기업에서 중요한 것은 도구나 모델이 아니라 전문성과 기준이다. 새로운 모델의 장점과 제약을 이해하지 않고 유행을 따르지 말아야 한다.",
+      "summary_full": "기술 기업에서의 진정한 가치는 도구나 모델이 아닌 개인의 전문성과 기준에 있다. 이는 산업에 깊은 변화를 가져오는 데 필수적이다. 최근 2년간 우리는 기술 혁명의 정점을 경험했으며, 많은 기업들이 변화하고 있다. 따라서 새로운 모델의 장점과 제약을 충분히 이해하는 것이 중요하다.",
+      "keywords": [
+        "기술 기업",
+        "전문성",
+        "산업 변화"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 29일",
+      "publishedAt": "2026-06-29T21:51:00.000Z",
+      "url": "https://uxdesign.cc/youre-missing-the-point-this-is-your-real-value-in-tech-companies-f56d6d96b54b?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "trend",
+      "title": "메타 계약자들이 청소년으로 가장해 경쟁 챗봇에 대해 자살, 성, 약물 질문",
+      "summary": "메타의 프로젝트에 참여한 수백 명의 계약자들이 청소년인 척 하여 다른 챗봇들이 고위험 주제에 어떻게 반응하는지 조사했다. WIRED의 보도에 따르면, 이들은 제미니와 챗GPT와 같은 챗봇을 대상으로 했다.",
+      "summary_full": "메타의 프로젝트에 참여한 수백 명의 계약자들이 청소년인 척 하여 경쟁 챗봇의 반응을 테스트했다. 이들은 자살, 성, 약물과 같은 고위험 주제에 대해 질문을 던졌다. WIRED의 보도에 따르면, 이러한 접근 방식은 챗봇의 안전성과 윤리성을 평가하기 위한 것이었다. 결과적으로, 이 실험은 AI의 응답이 얼마나 신중해야 하는지를 강조했다.",
+      "keywords": [
+        "메타",
+        "챗봇",
+        "고위험 주제"
+      ],
+      "source": "wired.com",
+      "date": "6월 29일",
+      "publishedAt": "2026-06-29T21:49:26.000Z",
+      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "industry",
+      "title": "구글, 제미니의 개인화 이미지 생성 기능을 미국 사용자에게 무료 제공",
+      "summary": "구글이 제미니의 개인화 AI 이미지 생성 기능을 미국의 모든 적격 사용자에게 무료로 제공하기로 했다. 이는 4월 출시 이후 유료 구독자만 이용할 수 있었던 기능이다.",
+      "summary_full": "구글은 제미니의 개인화 AI 이미지 생성 기능을 미국의 모든 사용자가 무료로 이용할 수 있도록 확장한다고 발표했다. 이로 인해 13세 이상의 모든 미국 사용자는 구글 계정에 기반한 이미지 생성을 할 수 있게 된다. 이전에는 Plus, Pro, Ultra 구독자만 이 기능을 이용할 수 있었다. 이번 변화는 사용자들에게 더 많은 창의적 기회를 제공할 것으로 기대된다.",
+      "keywords": [
+        "구글",
+        "제미니",
+        "AI 이미지 생성"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 29일",
+      "publishedAt": "2026-06-29T21:03:15.000Z",
+      "url": "https://thenextweb.com/news/gemini-personalized-image-generation-free-us-users",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "ai",
+      "title": "DiScoFormer: 밀도와 점수를 위한 하나의 변환기",
+      "summary": "DiScoFormer는 다양한 분포에서 밀도와 점수를 동시에 처리할 수 있는 변환기 모델이다. 이 모델은 효율적인 데이터 분석을 가능하게 한다.",
+      "summary_full": "DiScoFormer는 밀도와 점수를 동시에 처리하는 혁신적인 변환기 모델이다. 이 모델은 다양한 분포에 적용될 수 있어 유연성을 제공한다. 또한, 데이터 분석의 효율성을 높이며, 여러 분야에서 활용될 가능성이 크다. 이를 통해 연구자들은 복잡한 데이터 세트를 보다 쉽게 이해하고 활용할 수 있다.",
+      "keywords": [
+        "DiScoFormer",
+        "변환기",
+        "밀도와 점수"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "6월 29일",
+      "publishedAt": "2026-06-29T18:02:48.000Z",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, 엔비디아 GB300 GPU 탑재한 클로드 모델 출시",
+      "summary": "앤트로픽이 엔비디아 GB300 GPU를 장착한 클로드 모델을 마이크로소프트 Azure 플랫폼에 출시했다. 이 모델은 클라우드 기반의 AI 솔루션을 제공하여 다양한 산업에 활용될 예정이다.",
+      "summary_full": "앤트로픽이 엔비디아의 최신 GB300 GPU를 탑재한 클로드 모델을 마이크로소프트 Azure에 출시했다. 이 모델은 강력한 AI 기능을 통해 클라우드 환경에서의 데이터 처리 및 분석을 지원한다. 클로드 모델은 기업들이 AI 기술을 활용하여 비즈니스 효율성을 높이는 데 기여할 것으로 기대된다. 이번 출시로 인해 Azure 플랫폼의 AI 서비스가 더욱 강화될 전망이다.",
+      "keywords": [
+        "앤트로픽",
+        "엔비디아",
+        "클로드 모델"
+      ],
+      "source": "Google News Anthropic",
+      "date": "6월 29일",
+      "publishedAt": "2026-06-29T17:47:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4eXM1N2tHd0EyQm9GRmFvUzhwTjNQTGc2a0ozMFpLRHdteEJMOU9feHk5OHR5b0lEdVdleVVWa05HUnFMd00yZkhvaVFpZGFUX2tvamdjZzZOXzFtQ19lWFVuNTBZTi02N1JnSmVuTXA?oc=5",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "industry",
+      "title": "손정의, 우주 데이터센터 필요없다",
+      "summary": "손정의 소프트뱅크 회장이 우주 데이터센터에 대한 회의론을 제기했다. 그는 지구에서 운영하는 데이터센터의 전기료가 7%에 불과하다고 언급하며 우주 데이터센터의 필요성을 의문시했다.",
+      "summary_full": "손정의 소프트뱅크 회장이 최근 우주 데이터센터에 대해 회의적인 입장을 밝혔다. 그는 스페이스X의 우주 사업성에 대한 우려를 표명하며, 우주 인공지능 데이터센터의 의미를 반문했다. 또한, 지구에서 데이터센터를 운영하는 비용 중 전기료가 7%에 불과하다고 설명했다. 이러한 발언은 우주 데이터센터 건설에 대한 회의적인 태도를 드러낸 것이다.",
+      "keywords": [
+        "손정의",
+        "우주 데이터센터",
+        "소프트뱅크"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 29일",
+      "publishedAt": "2026-06-29T14:21:35.000Z",
+      "url": "https://byline.network/2026/06/629-2/",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "frontend",
+      "title": "CSS 상태와 JavaScript 이벤트의 경계 변화",
+      "summary": "CSS는 JavaScript 이벤트에 반응하기 위해 점점 더 많은 의사 클래스(pseudo-class)를 추가하고 있다. 이로 인해 JavaScript 없이도 상태를 추적할 수 있는 방법이 늘어나고 있다.",
+      "summary_full": "CSS는 이제 JavaScript 이벤트에 반응하기 위해 더 많은 의사 클래스를 도입하고 있다. 이러한 의사 클래스는 상태를 추적하지만, 때때로 이벤트 리스너처럼 느껴질 수 있다. CSS의 정의가 변화하고 있는 가운데, 이러한 변화는 개발자에게 새로운 가능성을 제공한다. 결국, CSS는 단순한 스타일링 언어를 넘어 다양한 기능을 수행하게 되고 있다.",
+      "keywords": [
+        "CSS",
+        "JavaScript",
+        "의사 클래스"
+      ],
+      "source": "css-tricks.com",
+      "date": "6월 29일",
+      "publishedAt": "2026-06-29T13:03:32.000Z",
+      "url": "https://css-tricks.com/css-states-and-javascript-events/",
+      "collectedAt": "2026-06-30"
+    },
+    {
+      "category": "ai",
+      "title": "유럽의 AI 인력 기회 맵핑",
+      "summary": "OpenAI의 새로운 보고서는 AI가 EU 전역의 직업에 미치는 영향을 분석합니다. 자동화, 성장 또는 작업 흐름 변화에 직면할 수 있는 직업을 강조합니다.",
+      "summary_full": "OpenAI의 보고서는 AI가 유럽 연합 내에서 직업을 어떻게 재편할 수 있는지를 맵핑합니다. 이 보고서는 자동화, 성장 또는 작업 흐름 변화에 영향을 받을 수 있는 다양한 직업군을 강조합니다. 이를 통해 정책 입안자와 기업들이 AI의 영향을 이해하고 준비할 수 있도록 돕고자 합니다. AI의 발전이 노동 시장에 미치는 잠재적 변화에 대한 통찰을 제공합니다.",
+      "keywords": [
+        "AI",
+        "유럽연합",
+        "직업 변화"
+      ],
+      "source": "OpenAI News",
+      "date": "6월 29일",
+      "publishedAt": "2026-06-29T07:00:00.000Z",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "design",
@@ -404,19 +581,19 @@
     },
     {
       "category": "ai",
-      "title": "안트로픽 경제 지수 보고서: 케이던스",
-      "summary": "안트로픽 경제 지수에 대한 보고서로, 경제적 흐름과 패턴을 분석한다. 이 보고서는 2026년 6월 26일에 발표되었다.",
-      "summary_full": "안트로픽 경제 지수 보고서는 경제적 흐름과 패턴을 분석하여 경제 연구에 기여하는 내용을 담고 있다. 2026년 6월 26일에 발표된 이 보고서는 다양한 경제 지표를 통해 경제의 현재 상태를 진단한다. 또한, 케이던스라는 용어를 통해 경제 활동의 주기성을 강조한다. 이 보고서는 경제학자와 연구자들에게 유용한 자료가 될 것이다.",
+      "title": "앤트로픽 경제 지수 보고서: 리듬",
+      "summary": "이번 보고서는 처음으로 시간별 샘플링을 통해 사람들이 클로드를 언제 사용하는지, 어떤 결과물을 생산하는지, 그리고 AI가 그들의 작업에 미치는 영향을 어떻게 인식하는지를 조사합니다.",
+      "summary_full": "앤트로픽 경제 지수 보고서에서는 시간별로 샘플링을 실시하여 사람들이 클로드를 사용하는 시간대와 그로 인해 생성되는 결과물에 대해 분석합니다. 또한, AI가 작업에 미치는 영향에 대한 사람들의 인식을 조사합니다. 이는 AI와 인간의 상호작용에 대한 통찰을 제공하며, 향후 경제적 영향을 예측하는 데 기여할 수 있습니다. 이러한 연구는 AI 기술의 발전과 함께 변화하는 경제 환경을 이해하는 데 중요한 역할을 합니다.",
       "keywords": [
         "경제 지수",
-        "안트로픽",
-        "경제 연구"
+        "AI 영향",
+        "클로드 사용"
       ],
       "source": "Anthropic Research",
       "date": "6월 26일",
       "publishedAt": "2026-06-26T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "ai",
@@ -661,18 +838,18 @@
     {
       "category": "ai",
       "title": "제미니 3.5 플래시에서 컴퓨터 사용 소개",
-      "summary": "제미니 3.5 플래시에서 컴퓨터 사용이 도입되었습니다. 이 새로운 기능은 사용자에게 향상된 경험을 제공합니다.",
-      "summary_full": "제미니 3.5 플래시에서 컴퓨터 사용이 새롭게 도입되었습니다. 이 기능은 사용자들이 보다 효율적으로 작업할 수 있도록 돕습니다. 다양한 도구와 기능이 통합되어 있어 사용 편의성이 높아졌습니다. 이를 통해 사용자들은 더 나은 성과를 기대할 수 있습니다.",
+      "summary": "제미니 3.5 플래시에서의 컴퓨터 사용을 소개합니다. 이 버전은 사용자 경험을 향상시키기 위한 새로운 기능을 포함하고 있습니다.",
+      "summary_full": "제미니 3.5 플래시는 컴퓨터 사용을 보다 효율적으로 만들기 위한 다양한 기능을 도입했습니다. 사용자는 이 업데이트를 통해 더 나은 성능과 편리한 인터페이스를 경험할 수 있습니다. 새로운 도구와 기능은 작업의 생산성을 높이는 데 기여합니다. 이번 업데이트는 특히 사용자 피드백을 반영하여 개선되었습니다.",
       "keywords": [
         "제미니 3.5",
         "컴퓨터 사용",
-        "플래시 기능"
+        "업데이트"
       ],
       "source": "Google DeepMind Blog",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T16:30:01.000Z",
       "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "ai",
@@ -727,18 +904,18 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 다운로드 수가 2000만 회를 넘는 글로벌 프로젝트로 성장했다.",
-      "summary_full": "es-toolkit은 Toss의 프론트엔드 엔지니어링 팀에서 시작된 작은 라이브러리였다. 이 라이브러리는 시간이 지나면서 많은 개발자들에게 사랑받아 주간 다운로드 수가 2000만 회를 넘는 성과를 이루었다. 결국, es-toolkit은 Toss의 핵심 프로젝트로 자리잡게 되었다. 이 글에서는 es-toolkit의 성장 과정을 자세히 살펴본다.",
+      "summary": "es-toolkit은 Toss 내부에서 시작된 작은 유틸리티 함수 라이브러리로, 현재는 주간 2000만 회 이상 다운로드되는 프로젝트로 성장했다.",
+      "summary_full": "es-toolkit은 Toss에서 시작된 작은 유틸리티 함수 라이브러리로, 시간이 지나면서 전 세계적으로 사용되는 프로젝트로 발전했다. 이 라이브러리는 Toss의 프론트엔드 엔지니어링 팀에 의해 개발되었으며, 현재는 많은 개발자들에게 사랑받고 있다. es-toolkit의 성공적인 성장 과정과 그 배경에 대해 자세히 알아보자. 이 프로젝트는 이제 핵심 기술로 자리 잡았다.",
       "keywords": [
         "es-toolkit",
         "Toss",
-        "프론트엔드 라이브러리"
+        "프론트엔드"
       ],
       "source": "toss.tech",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "design",
@@ -839,18 +1016,18 @@
     {
       "category": "figma",
       "title": "Figma의 새로운 기능 발표",
-      "summary": "Figma에서 사용할 수 있는 새로운 기능과 능력이 발표되었습니다. 모션, 깊이, 질감 및 코드와 같은 새로운 재료로 창작할 수 있습니다.",
-      "summary_full": "Figma에서 사용할 수 있는 새로운 기능과 능력이 발표되었습니다. 이번 발표에서는 모션, 깊이, 질감 및 코드와 같은 새로운 재료로 창작할 수 있는 방법이 소개되었습니다. 정밀하고 표현력 있는 애니메이션을 타임라인에서 만들거나 Figma 에이전트를 통해 구현할 수 있습니다. 재사용 가능한 시스템을 구축하고 개발 준비가 완료된 애니메이션을 배포할 수 있는 기능도 포함되어 있습니다.",
+      "summary": "Figma에서 새로운 기능과 능력을 발표했습니다. 이제 모션, 깊이, 질감 및 코드를 사용하여 창작할 수 있습니다.",
+      "summary_full": "Figma에서 새로운 기능과 능력을 발표했습니다. 이제 모션, 깊이, 질감 및 코드를 사용하여 창작할 수 있습니다. 타임라인에서 정밀하고 표현력 있는 애니메이션을 만들고 재사용 가능한 시스템을 구축할 수 있습니다. 개발 준비가 완료된 애니메이션을 배포할 수 있습니다.",
       "keywords": [
         "Figma",
-        "새로운 기능",
-        "애니메이션"
+        "애니메이션",
+        "디자인"
       ],
       "source": "Figma Release Notes",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "industry",
@@ -1017,8 +1194,8 @@
     {
       "category": "ai",
       "title": "카페24, 'LLM 라우터' 출시",
-      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 대화형 AI 모델을 효율적으로 관리할 수 있도록 돕는다.",
-      "summary_full": "카페24는 최신 AI 기술을 활용하여 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 라우터는 사용자가 여러 대화형 AI 모델을 효율적으로 관리하고 운영할 수 있도록 설계되었다. 이를 통해 기업들은 AI 솔루션의 활용도를 높일 수 있을 것으로 기대된다. 카페24는 이 제품이 다양한 산업에서의 AI 활용을 촉진할 것이라고 밝혔다.",
+      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 AI 모델을 효율적으로 관리할 수 있도록 돕는다.",
+      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하여 GPT와 클로드를 통합 운용할 수 있게 되었다. 이 라우터는 사용자가 여러 AI 모델을 효율적으로 관리하고 활용할 수 있도록 설계되었다. 이를 통해 기업들은 AI 기술을 보다 쉽게 도입하고 운영할 수 있을 것으로 기대된다. 카페24는 이 제품을 통해 AI 시장에서의 경쟁력을 강화할 계획이다.",
       "keywords": [
         "카페24",
         "LLM 라우터",
@@ -1028,7 +1205,7 @@
       "date": "6월 22일",
       "publishedAt": "2026-06-22T23:54:46.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Rd3o4YlhQQU51OGlYUVB6ZEx4ejRxcWp4TFhqMjNhTjFPNXZHaHhwUDlNbVl6Y3ZkX1JFa0Rqb19scmtRWE9fU2dxSVNrUQ?oc=5",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "industry",
@@ -2008,19 +2185,19 @@
     },
     {
       "category": "design",
-      "title": "불확실성 속 디자인: AI가 확률적 사고를 강화하는 방법",
-      "summary": "2024년, 에어캐나다 고객이 챗봇에게 장례 할인 요금에 대해 문의했으나, 챗봇이 존재하지 않는 환불 정책을 자신 있게 제시했다. 이 사건은 AI의 예측이 정책으로 잘못 해석될 수 있는 위험을 드러낸다.",
-      "summary_full": "2024년, 에어캐나다 고객이 챗봇에게 장례 할인 요금에 대해 문의했으나, 챗봇이 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 법원은 고객의 손을 들어주었다. 챗봇은 결정을 내린 것이 아니라 훈련 데이터의 패턴을 기반으로 답변을 예측한 것이었다. 이 사건은 AI의 예측이 정책으로 잘못 해석될 수 있는 위험을 드러낸다.",
+      "title": "불확실성을 디자인하다: AI가 확률적 사고를 강화하는 방법",
+      "summary": "2024년, 에어캐나다 고객이 챗봇에 장례 할인 요금에 대해 문의했으나, 챗봇이 잘못된 환불 정책을 제시했다. 이 사건은 AI의 예측이 실제 정책으로 오해될 수 있는 위험성을 보여준다.",
+      "summary_full": "2024년, 에어캐나다 고객이 챗봇에 장례 할인 요금에 대해 문의했으나, 챗봇이 존재하지 않는 환불 정책을 자신 있게 제시했다. 항공사는 이를 인정하지 않았고, 재판소는 고객의 손을 들어주었다. 챗봇은 실제 결정을 내린 것이 아니라 훈련 데이터의 패턴을 기반으로 답변을 예측한 것이다. 이 사건은 AI 예측이 기업 정책으로 잘못 해석될 수 있는 위험성을 드러낸다.",
       "keywords": [
         "AI",
-        "불확실성",
-        "확률적 사고"
+        "확률적 사고",
+        "디자인"
       ],
       "source": "smashingmagazine.com",
       "date": "6월 16일",
       "publishedAt": "2026-06-16T15:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "frontend",
@@ -4559,70 +4736,6 @@
     },
     {
       "category": "frontend",
-      "title": "이벤트 소싱을 처음부터 사용하지 않은 것을 여전히 후회하는 이유",
-      "summary": "Veltrix 서버의 구성 레이어 설계를 맡은 저자는 시스템이 수천 명의 동시 사용자를 처리할 수 있도록 확장 가능성을 확보하는 것이 목표였다. 그러나 초기 성장 지점에서의 정체를 피하기 위한 방법으로 이벤트 소싱을 도입하지 않은 것을 후회하고 있다.",
-      "summary_full": "저자는 Veltrix 서버의 구성 레이어를 설계하는 임무를 맡았다. 이 시스템은 수천 명의 동시 사용자를 처리할 수 있도록 확장 가능해야 했다. 그러나 초기 성장 지점에서의 정체를 피하기 위해 이벤트 소싱을 처음부터 도입하지 않은 것에 대해 후회하고 있다. 이는 분산 시스템에 대한 경험이 있었음에도 불구하고 발생한 문제였다.",
-      "keywords": [
-        "이벤트 소싱",
-        "Veltrix 서버",
-        "구성 레이어"
-      ],
-      "source": "dev.to",
-      "date": "5월 30일",
-      "publishedAt": "2026-05-30T02:55:53.000Z",
-      "url": "https://dev.to/dev-architecture-blog/why-i-still-regret-not-using-event-sourcing-from-day-one-in-our-veltrix-configuration-layer-3ppd",
-      "collectedAt": "2026-05-30"
-    },
-    {
-      "category": "trend",
-      "title": "AI 이미지 스튜디오 구축",
-      "summary": "창작자와 개발자를 위한 올인원 AI 이미지 스튜디오를 구축했다. 무료로 사용해볼 수 있는 플랫폼이다.",
-      "summary_full": "z-image-ai.run이라는 이름의 AI 이미지 스튜디오를 개발했다. 이 플랫폼은 창작자와 개발자들이 손쉽게 이미지를 생성하고 편집할 수 있도록 돕는다. 사용자는 무료로 이 서비스를 체험할 수 있다. 다양한 기능을 제공하여 창작의 효율성을 높인다.",
-      "keywords": [
-        "AI 이미지 스튜디오",
-        "창작자",
-        "개발자"
-      ],
-      "source": "dev.to",
-      "date": "5월 30일",
-      "publishedAt": "2026-05-30T01:20:26.000Z",
-      "url": "https://dev.to/peng_dai_ab3e58dea023479a/i-built-an-all-in-one-ai-image-studio-for-creators-and-developers-free-to-try-2gbf",
-      "collectedAt": "2026-05-30"
-    },
-    {
-      "category": "trend",
-      "title": "2026년 아버지의 날을 위한 24가지 최고의 선물",
-      "summary": "아버지를 위한 선물은 항상 고민이 많습니다. 이번 글에서는 뛰어난 취향을 가진 아버지를 위한 엄선된 선물 아이디어를 소개합니다.",
-      "summary_full": "아버지를 위한 선물은 전통적으로 선택하기 어려운 경우가 많습니다. 이 글에서는 아버지의 취향을 고려한 24가지의 특별한 선물 아이디어를 제공합니다. 다양한 옵션을 통해 아버지에게 특별한 날을 더욱 의미 있게 만들어 줄 수 있습니다. 각 선물은 아버지의 개성과 취향을 반영하여 선택되었습니다.",
-      "keywords": [
-        "아버지의 날",
-        "선물 아이디어",
-        "2026년"
-      ],
-      "source": "wired.com",
-      "date": "5월 29일",
-      "publishedAt": "2026-05-29T22:44:00.000Z",
-      "url": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
-      "collectedAt": "2026-05-30"
-    },
-    {
-      "category": "industry",
-      "title": "ChargePoint, Powers Parts와 파트너십 체결로 전기 대중교통 차량 충전 지원 강화",
-      "summary": "ChargePoint와 Powers Parts가 북미 대중교통 기관에 충전 하드웨어와 소프트웨어를 직접 판매하는 파트너십을 체결했다. 이 협력은 PhoenixEV가 제조한 E2 및 ZX5 전기 버스를 운영하는 업체를 겨냥하고 있다.",
-      "summary_full": "ChargePoint와 Powers Parts는 전기차 부품 및 차량 교체 부품의 국가 유통업체로서 파트너십을 체결하였다. 이 협력은 ChargePoint의 충전 하드웨어, 소프트웨어 및 차량 관리 서비스를 북미의 대중교통 기관에 직접 판매하는 것을 목표로 한다. 특히, PhoenixEV가 제조한 E2 및 ZX5 전기 버스를 운영하는 업체를 대상으로 하고 있다. 이를 통해 전기 대중교통 차량의 충전 및 지원 격차를 해소하고자 한다.",
-      "keywords": [
-        "ChargePoint",
-        "Powers Parts",
-        "전기 버스"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 29일",
-      "publishedAt": "2026-05-29T15:35:56.000Z",
-      "url": "https://thenextweb.com/news/chargepoint-partners-with-powers-parts-to-fix-the-charging-and-support-gap-hitting-electric-transit-fleets",
-      "collectedAt": "2026-05-30"
-    },
-    {
-      "category": "frontend",
       "title": "!important #12: Safari 테스트, ::checkmark, HTML 앵커 위치 조정 등",
       "summary": "이번 에피소드는 Safari에서의 테스트, 새로운 ::checkmark, HTML을 활용한 앵커 위치 조정 등을 다룹니다.",
       "summary_full": "이번 에피소드는 Safari에서의 테스트 방법, 새로운 ::checkmark 기능, HTML을 이용한 앵커 위치 조정 등 다양한 주제를 포함하고 있습니다. Safari는 애플 사용자에게만 제공되는 인기 있는 웹 브라우저입니다. 이 에피소드를 통해 웹 개발자들이 알아야 할 최신 정보와 기술을 배울 수 있습니다.",
@@ -4668,22 +4781,6 @@
       "publishedAt": "2026-05-29T11:09:43.000Z",
       "url": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4",
       "collectedAt": "2026-05-31"
-    },
-    {
-      "category": "industry",
-      "title": "AI 악용 사이버위협 대응 본격 추진",
-      "summary": "정부가 고성능 인공지능을 악용한 사이버위협에 대응하기 위한 계획을 발표했다. 민관 합동으로 정보보호 추진계획을 수립하여 대응에 나선다.",
-      "summary_full": "정부는 앤트로픽 미토스와 같은 고성능 AI를 악용한 사이버위협에 대응하기 위해 본격적으로 움직이고 있다. 과학기술정보통신부는 제9회 과학기술관계장관회의에서 민간 정보보호 추진계획을 발표했다. 이 계획은 민관이 협력하여 AI 기반 사이버위협에 효과적으로 대응하기 위한 방안을 포함하고 있다. 정부는 사이버위협에 대한 경각심을 높이고, 안전한 디지털 환경을 조성하기 위해 노력하고 있다.",
-      "keywords": [
-        "AI",
-        "사이버위협",
-        "정보보호"
-      ],
-      "source": "바이라인네트워크",
-      "date": "5월 29일",
-      "publishedAt": "2026-05-29T09:54:43.000Z",
-      "url": "https://byline.network/2026/05/29-508/",
-      "collectedAt": "2026-05-30"
     },
     {
       "category": "ai",
@@ -4735,22 +4832,6 @@
     },
     {
       "category": "ai",
-      "title": "‘Claude’ 제작사 Anthropic, 한국 진출 가속화···최기영 서울 사무소장 임명",
-      "summary": "AI 기업 Anthropic이 한국 시장에 본격적으로 진출하며 최기영을 서울 사무소장으로 임명했다.",
-      "summary_full": "AI 기업 Anthropic이 자사의 AI 모델 ‘Claude’를 한국에 소개하며 진출을 가속화하고 있다. 이를 위해 최기영을 서울 사무소장으로 임명하여 현지 운영을 강화할 계획이다. Anthropic은 한국 시장에서의 성장 가능성을 높게 보고 있으며, 다양한 사업 전략을 모색하고 있다. 이번 인사는 한국 내 인공지능 생태계에 긍정적인 영향을 미칠 것으로 기대된다.",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "AI"
-      ],
-      "source": "Google News Anthropic",
-      "date": "5월 27일",
-      "publishedAt": "2026-05-27T05:02:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TENVYmpyc1RlbUhjd2F3cmxmUGhhaHZWZ0o1aHJLVDhkRndfQlJ6ckJSLVJjWk1LbktwTzdFSjBsLUpSek5sR0t4ajBGTlEyWTFFUE9ZNDdRVjRmU1E?oc=5",
-      "collectedAt": "2026-05-30"
-    },
-    {
-      "category": "ai",
       "title": "사회과학에서의 코딩 에이전트",
       "summary": "사회과학 분야에서 코딩 에이전트의 중요성을 다룬 연구이다. 이 연구는 데이터 분석과 모델링을 통해 사회적 현상을 이해하는 방법을 제시한다.",
       "summary_full": "이 연구는 사회과학에서 코딩 에이전트의 역할을 탐구한다. 데이터 분석과 프로그래밍 기술을 활용하여 사회적 상호작용을 모델링하는 방법을 제안한다. 또한, 이러한 접근이 연구 결과의 정확성과 신뢰성을 높이는 데 기여할 수 있음을 강조한다. 마지막으로, 사회과학 연구자들이 코딩 기술을 습득하는 것이 필요하다는 점을 논의한다.",
@@ -4783,19 +4864,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 파트너십은 AI 기술의 혁신을 가속화하는 데 중점을 둔다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화하기로 했다. 이번 파트너십은 AI 기술의 혁신을 촉진하고, 새로운 솔루션을 개발하는 데 중점을 둔다. 두 회사는 협력을 통해 시장의 요구에 더욱 빠르게 대응할 수 있을 것으로 기대하고 있다. 이는 AI 기술의 상용화와 발전에 긍정적인 영향을 미칠 것이다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 혁신을 촉진하고, 산업 전반에 걸쳐 AI 솔루션의 적용을 확대할 예정이다. 양사는 AI 기술의 발전을 통해 새로운 시장 기회를 창출할 계획이다. 이를 통해 AI 기반의 비즈니스 모델이 더욱 활성화될 것으로 보인다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 네이티브 산업"
+        "AI 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "ai",
@@ -4848,18 +4929,18 @@
     {
       "category": "design",
       "title": "좋은 디자이너, 나쁜 웹사이트: 제안",
-      "summary": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 이 글은 디자이너의 개인적인 의견을 바탕으로 웹사이트 개선을 위한 숙제를 제안한다.",
-      "summary_full": "접근성은 웹사이트 제작에서 가장 중요한 요소이다. 다른 A List Apart 기사들은 혁신과 통찰력을 제공하지만, 이 글은 독자에게 숙제를 준다. 저자는 디자이너들이 좋은 사람이라고 강조하며, 그들의 의견이 중요하다고 주장한다. 이 글은 웹사이트 디자인에 대한 개인적인 관점을 공유한다.",
+      "summary": "웹사이트 접근성의 중요성을 논의하며, 디자이너의 역할을 강조한다.",
+      "summary_full": "웹사이트 접근성은 가장 중요한 요소로, 디자이너들이 이를 고려해야 한다. 이 글은 개인적인 의견을 바탕으로 디자이너들이 좋은 사람이라는 점을 강조한다. 또한, 독자들에게 숙제를 주며, 웹사이트 개선을 위한 실천을 촉구한다.",
       "keywords": [
-        "접근성",
-        "웹사이트 디자인",
-        "디자이너 의견"
+        "디자인",
+        "웹사이트",
+        "접근성"
       ],
       "source": "alistapart.com",
       "date": "4월 23일",
       "publishedAt": "2026-04-23T12:57:21.000Z",
       "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     },
     {
       "category": "ai",
@@ -4880,8 +4961,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비하여 9가지 주요 UX 디자인 트렌드를 분석합니다. 이러한 트렌드는 기술 발전과 사용자 요구에 따라 진화하고 있습니다. 특히, 개인화와 접근성을 강조하며, 사용자 참여를 촉진하는 방향으로 나아가고 있습니다. 이 트렌드를 통해 기업들은 경쟁력을 강화할 수 있을 것입니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
+      "summary_full": "2026년 UX 디자인의 주요 트렌드 9가지를 다룹니다. 이러한 트렌드는 기술 발전과 사용자 요구에 맞춰 진화하고 있습니다. 특히, 개인화, 접근성, 그리고 지속 가능성이 중요한 요소로 부각되고 있습니다. 이 트렌드를 통해 기업은 더 나은 사용자 경험을 제공할 수 있습니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4891,7 +4972,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-06-29"
+      "collectedAt": "2026-06-30"
     }
   ]
 }
