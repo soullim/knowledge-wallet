@@ -1,22 +1,246 @@
 {
-  "updated": "2026년 6월 30일 AM 03:33",
-  "count": 310,
+  "updated": "2026년 7월 1일 AM 03:42",
+  "count": 317,
   "articles": [
     {
       "category": "industry",
-      "title": "프로덕트 디자이너의 진짜 질문",
-      "summary": "오늘의집 프로덕트 디자인팀이 AI 시대에 디자이너가 던져야 할 질문을 탐구한다. 60점을 넘는 디자인을 위한 새로운 접근법을 제시한다.",
-      "summary_full": "오늘의집 프로덕트 디자인팀은 AI 시대에 누구나 쉽게 60점을 만드는 디자인 환경 속에서, 프로덕트 디자이너가 던져야 할 진짜 질문을 탐구한다. 이 글은 디자이너들이 어떻게 차별화된 가치를 창출할 수 있는지에 대한 통찰을 제공한다. 또한, 디자인의 질을 높이기 위한 새로운 접근법과 전략을 제안한다. AI Frontier 시리즈의 일환으로, 디자인의 미래를 고민하는 중요한 논의가 담겨 있다.",
+      "title": "프로덕트 디자이너가 던져야 할 질문",
+      "summary": "AI 시대에 프로덕트 디자이너가 직면한 도전과 질문을 다룬다.",
+      "summary_full": "오늘의집 프로덕트 디자인팀이 AI 시대에 디자인의 본질과 품질을 고민하는 과정을 설명한다. 누구나 쉽게 접근할 수 있는 디자인 환경 속에서, 디자이너가 가져야 할 진정한 질문의 중요성을 강조한다. AI 기술이 발전함에 따라, 디자인의 차별성과 창의성을 어떻게 유지할 수 있을지에 대한 논의가 이어진다.",
       "keywords": [
         "프로덕트 디자인",
         "AI 시대",
-        "디자인 전략"
+        "디자인 질문"
       ],
       "source": "오늘의집 Culture",
-      "date": "6월 30일",
-      "publishedAt": "2026-06-30T03:32:01.281Z",
+      "date": "7월 1일",
+      "publishedAt": "2026-07-01T03:40:58.538Z",
       "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
-      "collectedAt": "2026-06-30"
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "design",
+      "title": "Higgsfield에서 링크드인 포스팅하기",
+      "summary": "Higgsfield 플랫폼을 활용하여 링크드인에 포스팅하는 방법을 소개합니다. 슈퍼컴퓨터의 활용 사례도 다루고 있습니다.",
+      "summary_full": "Higgsfield는 링크드인 포스팅을 위한 유용한 도구입니다. 이 글에서는 포스팅의 과정과 슈퍼컴퓨터의 역할을 설명합니다. 또한, 효과적인 포스팅 전략에 대한 팁도 제공합니다. 링크드인에서의 네트워킹을 강화하는 방법을 알아보세요.",
+      "keywords": [
+        "Higgsfield",
+        "링크드인",
+        "슈퍼컴퓨터"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "7월 1일",
+      "publishedAt": "2026-07-01T03:40:52.045Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-782/",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "frontend",
+      "title": "AI 신뢰 격차: '반환하는 것'이 기술보다 중요한 이유",
+      "summary": "AI 기술에 대한 과장이 만연해지면서 개발자 생태계에 피로감이 쌓이고 있다. 이제 커뮤니티는 기술 사양이 아닌 소유자의 윤리에 대해 논의하고 있다.",
+      "summary_full": "AI 기술의 과장이 개발자 생태계에 영향을 미치고 있으며, 이에 따라 피로감이 증가하고 있다. 커뮤니티는 더 이상 기술적인 사양에 대해 논의하지 않고, 소유자의 윤리에 대한 논의로 방향을 전환하고 있다. 이는 AI의 신뢰성과 윤리적 사용에 대한 중요성을 강조한다. 결국, '무엇을 반환하는가'가 기술 자체보다 더 중요한 문제로 부각되고 있다.",
+      "keywords": [
+        "AI",
+        "신뢰",
+        "윤리"
+      ],
+      "source": "dev.to",
+      "date": "7월 1일",
+      "publishedAt": "2026-07-01T03:40:42.000Z",
+      "url": "https://dev.to/monkgs/the-ai-trust-gap-why-what-you-return-matters-more-than-tech-334e",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "trend",
+      "title": "ADHD 일일 플래너 PDF",
+      "summary": "ADHD를 위한 효과적인 일일 플래너 PDF를 소개합니다. 이 시스템은 시간 관리에 어려움을 겪는 뇌를 돕기 위해 설계되었습니다.",
+      "summary_full": "ADHD를 가진 사람들이 시간을 관리하는 데 어려움을 겪는 경우가 많습니다. 이 플래너는 그러한 문제를 해결하기 위해 특별히 고안된 시스템입니다. 사용자는 다양한 플래너를 시도했지만, 이 PDF 플래너가 가장 효과적이라는 것을 발견했습니다. 이 플래너는 일상적인 계획을 세우고 집중력을 유지하는 데 도움을 줍니다.",
+      "keywords": [
+        "ADHD",
+        "일일 플래너",
+        "시간 관리"
+      ],
+      "source": "dev.to",
+      "date": "7월 1일",
+      "publishedAt": "2026-07-01T02:17:27.000Z",
+      "url": "https://dev.to/charles_coleman_d760d03c1/adhd-daily-planner-printable-pdf-the-only-system-that-works-when-your-brain-fights-the-clock-188h",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "trend",
+      "title": "트럼프 행정부, 앤트로픽의 Mythos 및 Fable AI 모델 수출 통제 완화",
+      "summary": "백악관이 앤트로픽의 고급 AI 모델에 대한 제한을 완화했다. 이는 외국인 접근을 중단하라는 명령이 내려진 지 몇 주 만이다.",
+      "summary_full": "트럼프 행정부가 앤트로픽의 Mythos와 Fable AI 모델에 대한 수출 통제를 완화하고 있다. 이 결정은 회사가 외국인에 대한 접근을 중단하라는 지시를 받은 지 몇 주 후에 이루어졌다. 백악관은 이러한 조치가 AI 기술의 발전을 촉진할 것이라고 보고 있다. 그러나 이로 인해 외국의 경쟁자들에게도 기술이 유출될 우려가 존재한다.",
+      "keywords": [
+        "트럼프 행정부",
+        "AI 모델",
+        "수출 통제"
+      ],
+      "source": "wired.com",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T23:23:04.000Z",
+      "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "industry",
+      "title": "인간-AI 상호작용 설계를 위한 39가지 원칙",
+      "summary": "AI 인터페이스 설계를 위한 적용 가능한 프레임워크를 제시한다. 이는 적절한 의존성, 사용자 제어, 투명성 및 책임 있는 자율성을 지원한다.",
+      "summary_full": "AI 인터페이스 설계를 위한 39가지 원칙을 통해 사용자와 AI 간의 상호작용을 개선할 수 있는 방법을 제시한다. 전통적인 인터페이스는 예측 가능한 행동을 기반으로 하지만, AI 시스템은 덜 결정론적이다. 이러한 특성은 기존 인터페이스 규약에 도전하며, 사용자에게 더 많은 제어와 투명성을 요구한다. 따라서, 책임 있는 자율성을 갖춘 AI 시스템을 설계하는 것이 중요하다.",
+      "keywords": [
+        "AI 인터페이스",
+        "사용자 제어",
+        "투명성"
+      ],
+      "source": "uxdesign.cc",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T22:04:22.000Z",
+      "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "industry",
+      "title": "틱톡, 두 번째 중독 소송 합의 - 메타와 스냅은 배심원 재판만 남아",
+      "summary": "틱톡이 플로리다 청소년과의 중독 소송에서 비공식 합의를 도출했다. 이로 인해 메타와 스냅만이 배심원 재판을 남기게 되었다.",
+      "summary_full": "틱톡이 플로리다의 한 청소년과 정신 건강 문제와 관련된 중독 소송에서 비공식 합의를 도출했다. 이 합의로 인해 틱톡은 7월 27일 로스앤젤레스에서 예정된 배심원 재판에서 제외되었다. 이는 틱톡이 이 사건에서 두 번째 피고로서 빠져나간 사례로, 메타와 스냅은 여전히 재판을 받을 예정이다. 이 소식은 블룸버그에 의해 처음 보도되었다.",
+      "keywords": [
+        "틱톡",
+        "중독 소송",
+        "정신 건강 문제"
+      ],
+      "source": "thenextweb.com",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T21:09:57.000Z",
+      "url": "https://thenextweb.com/news/tiktok-settles-addiction-lawsuit-rkc-florida-teen",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "ai",
+      "title": "앙트로픽 게임즈, 클로드 소넷 5 출시",
+      "summary": "더 저렴한 AI가 에이전트 경쟁에서 승리할 수 있다는 기대감이 커지고 있다.",
+      "summary_full": "앙트로픽 게임즈가 클로드 소넷 5를 출시했다. 이 새로운 AI 모델은 비용 효율성을 강조하며, 다양한 에이전트 경쟁에서 두각을 나타낼 가능성이 높아졌다. 업계에서는 이러한 변화가 AI 시장에 긍정적인 영향을 미칠 것으로 보고 있다.",
+      "keywords": [
+        "AI",
+        "클로드 소넷 5",
+        "앙트로픽 게임즈"
+      ],
+      "source": "Google News Anthropic",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T21:09:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNa1lmT19xa0VidFhtVjR4T1huOGo4dlVfN1V1YWprSUtnSEQ1eFFIbnMtVVo0aWhJR3BfN0VjcktjUTc3VXNSRi1oS2ZMR3MzQ0FjWDJZZDgtMkhaQnVyMThVanV4TFFtN21QeUw0UUM5RTlFTDliaWFKVmhnalpfTjlUcEZ5ZjZVYm82RC1tZXFRWm1VOFhKeHN3M3BuM0drU3lJNG8teHJzMEZueEZJcFQtS1RyRV9ZeUcwT0VRVDBSTTN0TlZjQWdxZ0RNYVZWVk5yRnQtdlZzc19jb1ZacjFtRlN0VGhINEp0UkNUbTBrbDQ2SkpyclJyR0JYSy1wdDdnVnQxUzlMVDB4NzJldk5SYzhIX1hHTWRsd1djb1JEb1lJTUhla1hwNXRxQmhpOU00VzJnS24xekV5eGp2WkJWcDJDOWd4SmJ0OHBzdnI1ZnhoRTgyMlAtME5NdjlUZGJCZkdyTUxfcV9MS2l5Mk1hUXU3aXJhVzFFa2ZsWTFzOTdSc05zUGNxbk9EMVdWQ2U2cUVLeFk5TGh1bmowT1QtZmVUOXE3eXJkMUtWamVaSE5DWHNIRjFyMHNpZTkydGd6Y05oLTRfY3hxX2ZCOVZRbmNaeDY1ZWtTS2FWVkJkcEtYa1d1dTRuZU54MFB5V0FMVkFDaV85bk56TmhMd2dQVlJIZDFjZXMwZHp0ZGhCUC11cEFmdjdaYzQ0ZVQxQUlMTWxORmlRa2ZwSFMwOXIyMWdhTUFoNXN0b0FlRTBJTzBRTEctTTlORWMxcEtkVUxWSzF6akJqVTBCY1ROc0lOa0JNaURUZGpmVGx6emZvOTdKSDY3Q2ZYUXJkYWtJSzVyT2Z0LWFtRDBfZmt0ZGhOeXY1Qm16Z3RqZzM1TURNZzNINDQ5LXRKZXo?oc=5",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "ai",
+      "title": "스카프벤치: 엔터프라이즈 자바 프레임워크 마이그레이션을 위한 AI 에이전트 벤치마킹",
+      "summary": "스카프벤치는 엔터프라이즈 자바 프레임워크의 마이그레이션을 위한 AI 에이전트를 평가하는 도구이다. 이 도구는 다양한 AI 에이전트의 성능을 비교하고 분석하는 데 도움을 준다.",
+      "summary_full": "스카프벤치는 엔터프라이즈 자바 프레임워크의 마이그레이션을 지원하기 위해 설계된 AI 에이전트 벤치마킹 도구이다. 이 도구는 여러 AI 에이전트의 성능을 체계적으로 비교하고 평가할 수 있는 기준을 제공한다. 이를 통해 개발자들은 최적의 마이그레이션 전략을 선택할 수 있다. 스카프벤치는 AI 기술의 발전과 함께 자바 프레임워크의 효율적인 전환을 도모한다.",
+      "keywords": [
+        "AI 에이전트",
+        "자바 프레임워크",
+        "벤치마킹"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T18:32:50.000Z",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "design",
+      "title": "죽은 언어를 위한 디자인",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "keywords": [
+        "언어 앱",
+        "라틴어",
+        "교육 방법"
+      ],
+      "source": "alistapart.com",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T16:22:27.000Z",
+      "url": "https://alistapart.com/article/designed-for-a-dead-language/",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "ai",
+      "title": "나노 바나나 2 라이트와 제미니 옴니 플래시로 시작하기",
+      "summary": "나노 바나나 2 라이트와 제미니 옴니 플래시를 활용하여 프로젝트를 시작할 수 있다. 이 두 제품은 개발자들에게 유용한 도구가 될 것이다.",
+      "summary_full": "나노 바나나 2 라이트와 제미니 옴니 플래시는 다양한 프로젝트에 적합한 개발 도구이다. 이들 제품을 통해 사용자는 창의적인 아이디어를 실현할 수 있다. 특히, 성능과 효율성을 고려한 설계가 돋보인다. 개발자들은 이 도구들을 통해 더욱 혁신적인 솔루션을 만들 수 있을 것이다.",
+      "keywords": [
+        "나노 바나나 2",
+        "제미니 옴니 플래시",
+        "개발 도구"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T16:02:40.000Z",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "frontend",
+      "title": "What’s !important #14: 간격 장식, random(), <select> 필드 크기 조정 등",
+      "summary": "이번 호에서는 CSS 간격 장식과 HTML을 이용한 음악 생성 프로젝트인 Hyperblam을 소개합니다. 브라우저 업데이트는 적지만, CSS 관련 흥미로운 내용이 많습니다.",
+      "summary_full": "What’s !important #14에서는 최근 몇 주간의 CSS 관련 소식과 프로젝트를 다룹니다. CSS 간격 장식과 함께 Heydon Pickering이 만든 Hyperblam이라는 HTML 기반 음악 생성 도구를 소개합니다. 이 도구는 Web Audio API를 활용하여 JavaScript 없이 음악을 만들 수 있게 해줍니다. 브라우저 업데이트는 적지만, 여전히 흥미로운 내용이 가득합니다.",
+      "keywords": [
+        "CSS",
+        "HTML",
+        "Web Audio API"
+      ],
+      "source": "css-tricks.com",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T13:54:14.000Z",
+      "url": "https://css-tricks.com/whats-important-14/",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "design",
+      "title": "접근성은 기능이 아닌 운영 능력이다",
+      "summary": "접근성은 단순한 기능이 아니라 조직의 운영 능력으로 간주되어야 한다. 이 글에서는 접근성이 어떻게 제품 개발 과정에서 중요한 역할을 하는지를 설명한다.",
+      "summary_full": "접근성은 단순한 기능이 아니라 조직의 운영 능력으로 간주되어야 한다. 최근 기술 발전으로 인해 많은 엔지니어들이 빠르게 제품을 출시하고 있지만, 이러한 과정에서 접근성을 간과할 경우 장애인 사용자가 제품을 이용하는 데 어려움을 겪을 수 있다. 예를 들어, 스크린 리더를 사용하는 시각 장애인이 결제를 완료하지 못하는 상황이 발생할 수 있다. 따라서 접근성은 모든 사용자가 제품을 원활하게 이용할 수 있도록 보장하는 중요한 요소이다.",
+      "keywords": [
+        "접근성",
+        "운영 능력",
+        "기술 개발"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T12:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "industry",
+      "title": "온라인 게임 아이템 스테이블코인 거래",
+      "summary": "헥토월렛원과 아이템베이가 스테이블코인 결제 상용화를 위한 개념검증을 완료했다. 실제 결제 프로세스에서 USDC가 사용되었다.",
+      "summary_full": "헥토월렛원과 아이템베이는 스테이블코인 결제 상용화를 검증하기 위한 개념검증(PoC)을 완료했다. 이번 PoC는 결제 및 정산 프로세스와 규제 대응 체계를 점검하는 데 초점을 맞췄다. 100명의 실사용자가 아이템베이 플랫폼에서 게임 아이템을 구매하며 USDC가 활용되었다. 이는 단순 송금 테스트를 넘어 실제 서비스 전 과정을 포함한다.",
+      "keywords": [
+        "스테이블코인",
+        "게임 아이템",
+        "헥토월렛원"
+      ],
+      "source": "바이라인네트워크",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T10:42:37.000Z",
+      "url": "https://byline.network/2026/06/0630-6/",
+      "collectedAt": "2026-07-01"
+    },
+    {
+      "category": "ai",
+      "title": "ChatGPT 채택의 확장",
+      "summary": "OpenAI의 데이터에 따르면 ChatGPT 사용이 전 세계적으로 증가하고 있다. 사용자들은 더 많은 기능을 탐색하며 지역과 언어에 걸쳐 성장을 이끌고 있다.",
+      "summary_full": "OpenAI의 새로운 데이터는 ChatGPT의 채택이 전 세계적으로 어떻게 성장하고 있는지를 보여준다. 사용자들은 사용량을 늘리고 있으며, 다양한 기능을 탐색하고 있다. 이러한 변화는 지역과 언어에 걸쳐 성장을 촉진하고 있다. ChatGPT의 확산은 글로벌 사용자 기반의 확장을 의미한다.",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "글로벌 성장"
+      ],
+      "source": "OpenAI News",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "collectedAt": "2026-07-01"
     },
     {
       "category": "design",
@@ -582,18 +806,18 @@
     {
       "category": "ai",
       "title": "앤트로픽 경제 지수 보고서: 리듬",
-      "summary": "이번 보고서는 처음으로 시간별 샘플링을 통해 사람들이 클로드를 언제 사용하는지, 어떤 결과물을 생산하는지, 그리고 AI가 그들의 작업에 미치는 영향을 어떻게 인식하는지를 조사합니다.",
-      "summary_full": "앤트로픽 경제 지수 보고서에서는 시간별로 샘플링을 실시하여 사람들이 클로드를 사용하는 시간대와 그로 인해 생성되는 결과물에 대해 분석합니다. 또한, AI가 작업에 미치는 영향에 대한 사람들의 인식을 조사합니다. 이는 AI와 인간의 상호작용에 대한 통찰을 제공하며, 향후 경제적 영향을 예측하는 데 기여할 수 있습니다. 이러한 연구는 AI 기술의 발전과 함께 변화하는 경제 환경을 이해하는 데 중요한 역할을 합니다.",
+      "summary": "이번 보고서는 처음으로 시간 단위 샘플링을 통해 사람들이 Claude를 언제 사용하는지와 그들이 생성하는 내용, AI가 작업에 미치는 영향에 대한 인식을 조사합니다.",
+      "summary_full": "앤트로픽의 최신 경제 지수 보고서에서는 시간 단위로 샘플링을 실시하여 사람들이 Claude를 사용하는 시점과 그로 인해 생산하는 내용에 대해 질문합니다. 또한, AI가 작업에 미치는 영향에 대한 사용자들의 인식을 분석합니다. 이러한 연구는 AI와 인간의 상호작용을 이해하는 데 중요한 정보를 제공합니다. 이는 향후 경제적 결정 및 기술 발전에 기여할 수 있습니다.",
       "keywords": [
+        "앤트로픽",
         "경제 지수",
-        "AI 영향",
-        "클로드 사용"
+        "AI 영향"
       ],
       "source": "Anthropic Research",
       "date": "6월 26일",
       "publishedAt": "2026-06-26T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-      "collectedAt": "2026-06-30"
+      "collectedAt": "2026-07-01"
     },
     {
       "category": "ai",
@@ -904,18 +1128,18 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부에서 시작된 작은 유틸리티 함수 라이브러리로, 현재는 주간 2000만 회 이상 다운로드되는 프로젝트로 성장했다.",
-      "summary_full": "es-toolkit은 Toss에서 시작된 작은 유틸리티 함수 라이브러리로, 시간이 지나면서 전 세계적으로 사용되는 프로젝트로 발전했다. 이 라이브러리는 Toss의 프론트엔드 엔지니어링 팀에 의해 개발되었으며, 현재는 많은 개발자들에게 사랑받고 있다. es-toolkit의 성공적인 성장 과정과 그 배경에 대해 자세히 알아보자. 이 프로젝트는 이제 핵심 기술로 자리 잡았다.",
+      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2천만 회 이상 다운로드되는 프로젝트로 성장했다. 이 과정에서 Toss의 핵심 프로젝트로 자리 잡았다.",
+      "summary_full": "es-toolkit은 Toss의 프론트엔드 엔지니어링 팀에서 시작된 작은 라이브러리로, 내부 유틸리티 함수들을 모아 만든 것이다. 이후 이 라이브러리는 전 세계적으로 인기를 얻어 주간 2천만 회 이상 다운로드되는 성과를 달성했다. Toss의 핵심 프로젝트로 자리 잡으면서, 다양한 개발자들에게 널리 사용되고 있다. 이 글에서는 es-toolkit의 성장 과정과 그 의미를 공유하고자 한다.",
       "keywords": [
         "es-toolkit",
         "Toss",
-        "프론트엔드"
+        "프론트엔드 라이브러리"
       ],
       "source": "toss.tech",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-06-30"
+      "collectedAt": "2026-07-01"
     },
     {
       "category": "design",
@@ -1016,18 +1240,18 @@
     {
       "category": "figma",
       "title": "Figma의 새로운 기능 발표",
-      "summary": "Figma에서 새로운 기능과 능력을 발표했습니다. 이제 모션, 깊이, 질감 및 코드를 사용하여 창작할 수 있습니다.",
-      "summary_full": "Figma에서 새로운 기능과 능력을 발표했습니다. 이제 모션, 깊이, 질감 및 코드를 사용하여 창작할 수 있습니다. 타임라인에서 정밀하고 표현력 있는 애니메이션을 만들고 재사용 가능한 시스템을 구축할 수 있습니다. 개발 준비가 완료된 애니메이션을 배포할 수 있습니다.",
+      "summary": "Figma에서 사용할 수 있는 새로운 기능과 역량이 발표되었습니다. 이제 모션, 깊이, 텍스처, 코드 등을 캔버스에서 활용할 수 있습니다.",
+      "summary_full": "Figma에서 사용할 수 있는 새로운 기능과 역량이 발표되었습니다. 이제 모션, 깊이, 텍스처, 코드 등을 캔버스에서 활용할 수 있습니다. 정밀하고 표현력 있는 애니메이션을 타임라인에서 만들거나 Figma 에이전트를 통해 생성할 수 있습니다. 재사용 가능한 시스템을 구축하고 개발 준비가 완료된 애니메이션을 배포할 수 있습니다.",
       "keywords": [
         "Figma",
-        "애니메이션",
-        "디자인"
+        "새로운 기능",
+        "애니메이션"
       ],
       "source": "Figma Release Notes",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-06-30"
+      "collectedAt": "2026-07-01"
     },
     {
       "category": "industry",
@@ -1194,18 +1418,20 @@
     {
       "category": "ai",
       "title": "카페24, 'LLM 라우터' 출시",
-      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 AI 모델을 효율적으로 관리할 수 있도록 돕는다.",
-      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하여 GPT와 클로드를 통합 운용할 수 있게 되었다. 이 라우터는 사용자가 여러 AI 모델을 효율적으로 관리하고 활용할 수 있도록 설계되었다. 이를 통해 기업들은 AI 기술을 보다 쉽게 도입하고 운영할 수 있을 것으로 기대된다. 카페24는 이 제품을 통해 AI 시장에서의 경쟁력을 강화할 계획이다.",
+      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 LLM을 효율적으로 관리할 수 있도록 돕는다.",
+      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하여 GPT와 클로드를 통합 운용할 수 있는 기능을 제공한다. 이 라우터는 사용자가 여러 대형 언어 모델을 효율적으로 관리하고 활용할 수 있도록 설계되었다. 이를 통해 기업들은 AI 기술을 더욱 효과적으로 적용할 수 있을 것으로 기대된다. 카페24는 이 제품을 통해 AI 솔루션의 접근성을 높이고자 한다.",
       "keywords": [
         "카페24",
         "LLM 라우터",
-        "AI 통합 운용"
+        "GPT",
+        "클로드",
+        "AI 솔루션"
       ],
       "source": "Google News AI (KR)",
       "date": "6월 22일",
       "publishedAt": "2026-06-22T23:54:46.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Rd3o4YlhQQU51OGlYUVB6ZEx4ejRxcWp4TFhqMjNhTjFPNXZHaHhwUDlNbVl6Y3ZkX1JFa0Rqb19scmtRWE9fU2dxSVNrUQ?oc=5",
-      "collectedAt": "2026-06-30"
+      "collectedAt": "2026-07-01"
     },
     {
       "category": "industry",
@@ -3454,6 +3680,22 @@
       "collectedAt": "2026-06-09"
     },
     {
+      "category": "design",
+      "title": "2026년 최고의 웹 디자인 트렌드",
+      "summary": "2026년 웹 디자인의 주요 트렌드를 소개합니다. Figma를 활용한 혁신적인 디자인 접근법이 주목받고 있습니다.",
+      "summary_full": "2026년에는 웹 디자인에서 새로운 트렌드가 등장할 것으로 예상됩니다. Figma와 같은 도구를 통해 디자이너들은 더욱 창의적이고 효율적인 작업을 할 수 있게 됩니다. 이러한 변화는 사용자 경험을 향상시키고, 브랜드의 아이덴티티를 강화하는 데 기여할 것입니다. 앞으로의 웹 디자인은 기술과 창의성이 결합된 형태로 발전할 것입니다.",
+      "keywords": [
+        "웹 디자인",
+        "Figma",
+        "디자인 트렌드"
+      ],
+      "source": "Google News Design (KR)",
+      "date": "6월 8일",
+      "publishedAt": "2026-06-08T15:35:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lS0JsUkloSlExcVI2X0dKUnhJaU1wOTFBWnlMbEZtdDRkVU0ya2llNnJpcThEenhCR2FyU2U3XzNRVmpUMzdUcWRCeXYydkZ4LW1kazQxYXhCaDlZeEV1dmxPcnlKdDBQRTg1ei1IaFc?oc=5",
+      "collectedAt": "2026-07-01"
+    },
+    {
       "category": "ai",
       "title": "SEC에 비밀리에 제출된 S-1 초안",
       "summary": "OpenAI가 SEC에 비밀리에 S-1 초안을 제출했다고 확인했다. 추가 조치의 시점은 아직 결정되지 않았다.",
@@ -4638,103 +4880,6 @@
       "collectedAt": "2026-06-03"
     },
     {
-      "category": "design",
-      "title": "한국어 릴스, 영어 더빙하기",
-      "summary": "한국어 릴스를 영어로 더빙하는 방법을 소개합니다. ElevenLabs Dubbing v2를 활용하여 효과적인 더빙 기술을 배울 수 있습니다.",
-      "summary_full": "이 영상에서는 한국어 릴스를 영어로 더빙하는 과정에 대해 설명합니다. ElevenLabs Dubbing v2의 기능을 활용하여 자연스러운 더빙을 구현하는 방법을 다룹니다. 다양한 팁과 트릭을 통해 더빙 품질을 향상시키는 방법도 소개됩니다. 이 기술을 통해 콘텐츠 제작에 새로운 가능성을 열어보세요.",
-      "keywords": [
-        "더빙",
-        "한국어 릴스",
-        "ElevenLabs"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "5월 31일",
-      "publishedAt": "2026-05-31T03:40:52.063Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-760/",
-      "collectedAt": "2026-05-31"
-    },
-    {
-      "category": "frontend",
-      "title": "초보자를 위한 웹 스크래핑: 데이터 서비스 판매",
-      "summary": "웹 스크래핑은 웹사이트에서 데이터를 자동으로 추출하는 과정으로, 개발자에게 유용한 기술입니다. 이 글에서는 웹 스크래핑의 기본과 코드 예제를 통해 데이터 서비스로 판매하는 방법을 다룹니다.",
-      "summary_full": "웹 스크래핑은 웹사이트에서 데이터를 자동으로 추출하는 기술로, 개발자들이 자신의 기술을 수익화하는 데 도움이 됩니다. 이 기사에서는 웹 스크래핑의 기본 개념을 설명하고, 실용적인 단계와 코드 예제를 제공합니다. 또한, 데이터를 서비스로 판매하는 방법에 대해서도 탐구합니다. 이를 통해 독자들은 웹 스크래핑을 활용하여 수익을 창출할 수 있는 기회를 얻을 수 있습니다.",
-      "keywords": [
-        "웹 스크래핑",
-        "데이터 서비스",
-        "개발자 기술"
-      ],
-      "source": "dev.to",
-      "date": "5월 31일",
-      "publishedAt": "2026-05-31T03:38:30.000Z",
-      "url": "https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-1fbh",
-      "collectedAt": "2026-05-31"
-    },
-    {
-      "category": "trend",
-      "title": "2025년 SVG 아이콘 시스템 — 알아야 할 모든 것",
-      "summary": "웹 앱에는 아이콘이 필수적이며, 이를 대규모로 관리하는 방법이 중요하다. 이 가이드는 앱이 성장할 때 무너지지 않는 SVG 아이콘 시스템 구축에 대한 완벽한 안내서이다.",
-      "summary_full": "웹 애플리케이션은 아이콘이 필요하며, 이를 대규모로 관리하는 방법에서 많은 팀들이 실수를 한다. 이 가이드는 앱이 성장할 때 무너지지 않는 SVG 아이콘 시스템을 구축하는 방법에 대한 완벽한 안내서이다. 아이콘 폰트는 구식 접근 방식이며, 여러 가지 문제점이 있다. SVG는 이러한 문제를 해결할 수 있는 현대적인 대안이다.",
-      "keywords": [
-        "SVG 아이콘",
-        "웹 앱",
-        "아이콘 관리",
-        "디자인 시스템"
-      ],
-      "source": "dev.to",
-      "date": "5월 31일",
-      "publishedAt": "2026-05-31T03:20:55.000Z",
-      "url": "https://dev.to/fazalshah/svg-icon-systems-in-2025-everything-you-need-to-know-4a95",
-      "collectedAt": "2026-05-31"
-    },
-    {
-      "category": "industry",
-      "title": "메타, AI 펜던트 개발 및 비즈니스 구독 서비스 계획",
-      "summary": "메타는 AI 기능을 갖춘 펜던트를 개발 중이며, 내년 테스트를 시작할 예정이다. 이 장치는 2025년 Limitless 인수 후 발전된 제품이다.",
-      "summary_full": "메타는 AI 기반의 펜던트를 개발하고 있으며, 내년부터 테스트를 시작할 계획이다. 이 장치는 사용자가 셔츠에 클립하거나 목걸이로 착용할 수 있도록 설계되었다. Limitless 인수 후 메타는 이 기술을 활용하여 새로운 제품을 선보일 예정이다. 또한, 메타는 'Wearables for Work'라는 비즈니스 구독 서비스도 계획하고 있다.",
-      "keywords": [
-        "메타",
-        "AI 펜던트",
-        "Wearables for Work"
-      ],
-      "source": "thenextweb.com",
-      "date": "5월 30일",
-      "publishedAt": "2026-05-30T16:36:23.000Z",
-      "url": "https://thenextweb.com/news/meta-ai-pendant-limitless-wearables-for-work",
-      "collectedAt": "2026-05-31"
-    },
-    {
-      "category": "industry",
-      "title": "해시드 OBA Run: AI와 네트워킹의 해커톤",
-      "summary": "해시드 대표 김서준은 OBA Run 해커톤에서 국내 API 생태계 확대의 필요성을 강조했다. 이번 행사는 생성형 AI 기반 개발 방식을 통해 개방형 생태계를 조성하기 위해 마련됐다.",
-      "summary_full": "김서준 해시드 대표는 OBA Run 해커톤에서 국내 API 생태계의 부족함을 언급하며, 대부분의 해커톤이 해외 IT 인프라에 의존하고 있다고 설명했다. 그는 생성형 AI 시대에 맞춰 국내 서비스와 연결된 개방형 생태계를 조성하기 위해 이번 행사를 개최했다고 밝혔다. 해커톤은 개발을 AI에 맡기고 사람들은 네트워킹하는 방식으로 진행된다. 이는 국내 개발자들에게 새로운 기회를 제공할 것으로 기대된다.",
-      "keywords": [
-        "해커톤",
-        "AI",
-        "API 생태계"
-      ],
-      "source": "바이라인네트워크",
-      "date": "5월 30일",
-      "publishedAt": "2026-05-30T15:50:01.000Z",
-      "url": "https://byline.network/2026/05/0530-3/",
-      "collectedAt": "2026-05-31"
-    },
-    {
-      "category": "trend",
-      "title": "키크론 K2 HE 콘크리트 에디션 리뷰: 견고한 타이핑",
-      "summary": "키크론 K2 HE 콘크리트 에디션은 귀여운 gimmick처럼 들리지만, 그 뒤에는 정말 견고한 키보드가 있다.",
-      "summary_full": "키크론 K2 HE 콘크리트 에디션은 독특한 소재 선택에도 불구하고 뛰어난 성능을 보여준다. 이 키보드는 타이핑 경험이 매우 우수하며, 내구성 또한 뛰어나다. 디자인과 기능성을 모두 갖춘 이 제품은 키보드 애호가들에게 추천할 만하다. 전반적으로, 키크론 K2 HE는 실용성과 스타일을 모두 충족시키는 제품이다.",
-      "keywords": [
-        "키크론",
-        "K2 HE",
-        "키보드 리뷰"
-      ],
-      "source": "wired.com",
-      "date": "5월 30일",
-      "publishedAt": "2026-05-30T11:00:00.000Z",
-      "url": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
-      "collectedAt": "2026-05-31"
-    },
-    {
       "category": "frontend",
       "title": "!important #12: Safari 테스트, ::checkmark, HTML 앵커 위치 조정 등",
       "summary": "이번 에피소드는 Safari에서의 테스트, 새로운 ::checkmark, HTML을 활용한 앵커 위치 조정 등을 다룹니다.",
@@ -4767,22 +4912,6 @@
       "collectedAt": "2026-06-01"
     },
     {
-      "category": "industry",
-      "title": "읽지 않는 사람들에게 새로운 기능 발견 도움 주기",
-      "summary": "새로운 기능을 효과적으로 알리기 위한 콘텐츠 작성 방법을 다룬다. 사용자들이 실제로 읽고 이해할 수 있도록 하는 전략을 제시한다.",
-      "summary_full": "이 글은 새로운 기능을 사용자에게 효과적으로 소개하기 위한 콘텐츠 작성 방법에 대해 설명한다. 특히, 사용자들이 읽고 이해할 수 있도록 하는 접근 방식을 강조한다. 독자들이 이 정보를 통해 기능을 쉽게 발견하고 활용할 수 있도록 돕는 것이 목표이다. UX 디자인의 관점에서 사용자 경험을 개선하는 방법을 제안한다.",
-      "keywords": [
-        "사용자 경험",
-        "기능 발견",
-        "온보딩 콘텐츠"
-      ],
-      "source": "uxdesign.cc",
-      "date": "5월 29일",
-      "publishedAt": "2026-05-29T11:09:43.000Z",
-      "url": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-05-31"
-    },
-    {
       "category": "ai",
       "title": "PyTorch 프로파일링 (1부): torch.profiler 초보자 가이드",
       "summary": "이 글은 PyTorch에서 성능 분석을 위한 torch.profiler 사용법을 소개합니다. 초보자도 쉽게 이해할 수 있도록 단계별로 설명합니다.",
@@ -4797,22 +4926,6 @@
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "url": "https://huggingface.co/blog/torch-profiler",
       "collectedAt": "2026-06-01"
-    },
-    {
-      "category": "design",
-      "title": "알고리즘 테마 엔진: `contrast-color()`로 자기 수정 색상 시스템 구축하기",
-      "summary": "웹 접근성 기준을 충족하지 못하는 웹사이트가 여전히 많다. 디자인 시스템 도구와 접근성 린터에도 불구하고, 2025년까지 70%의 웹사이트가 기본 WCAG 대비 체크를 통과하지 못할 것으로 예상된다.",
-      "summary_full": "HTTP Archive Web Almanac는 색상 대비 실패를 수년간 추적해왔다. 그 결과는 거의 변하지 않았으며, 2025년에는 70%의 웹사이트가 기본 WCAG 대비 체크를 통과하지 못할 것으로 보인다. WebAIM Million의 조사에 따르면, 83.9%의 홈페이지가 접근성 문제로 지적되었다. 이는 디자인 시스템 도구와 자바스크립트 라이브러리가 있음에도 불구하고 여전히 심각한 문제임을 나타낸다.",
-      "keywords": [
-        "알고리즘",
-        "색상 대비",
-        "웹 접근성"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "5월 28일",
-      "publishedAt": "2026-05-28T13:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-      "collectedAt": "2026-05-31"
     },
     {
       "category": "ai",
@@ -4864,19 +4977,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 혁신을 촉진하고, 산업 전반에 걸쳐 AI 솔루션의 적용을 확대할 예정이다. 양사는 AI 기술의 발전을 통해 새로운 시장 기회를 창출할 계획이다. 이를 통해 AI 기반의 비즈니스 모델이 더욱 활성화될 것으로 보인다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 발전을 가속화하기 위한 협력을 시작했다. 두 회사는 AI 기술의 혁신을 통해 산업 전반에 걸쳐 변화를 이끌어낼 계획이다. 이번 파트너십은 AI 솔루션의 효율성을 높이고, 시장의 요구에 더욱 신속하게 대응할 수 있는 기회를 제공할 것이다. 이를 통해 AI 기술의 발전이 가속화될 것으로 보인다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 산업"
+        "AI 네이티브 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-06-30"
+      "collectedAt": "2026-07-01"
     },
     {
       "category": "ai",
