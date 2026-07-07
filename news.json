@@ -1,38 +1,150 @@
 {
-  "updated": "2026년 7월 6일 AM 03:24",
-  "count": 311,
+  "updated": "2026년 7월 7일 AM 02:57",
+  "count": 314,
   "articles": [
     {
       "category": "industry",
       "title": "프로덕트 디자이너가 던져야 할 질문",
-      "summary": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기로, 디자인의 질이 평준화된 시대에 디자이너가 고려해야 할 질문들을 다룹니다.",
-      "summary_full": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기에서, 누구나 60점을 만드는 시대에 프로덕트 디자이너가 던져야 할 진짜 질문들을 탐구합니다. 디자인의 질이 평준화됨에 따라 디자이너는 어떻게 차별화된 가치를 제공할 수 있을지 고민해야 합니다. 이 글은 디자이너들이 직면한 도전과 그에 대한 해답을 모색하는 내용을 담고 있습니다. 결국, 디자인의 본질과 방향성을 재정립하는 것이 중요하다는 메시지를 전달합니다.",
+      "summary": "오늘의집 프로덕트 디자인팀의 AI Frontier 시리즈 두 번째 이야기로, 디자인의 질을 높이는 방법에 대한 논의가 이루어진다. 디자이너들이 60점을 넘는 제품을 만들기 위해 고민해야 할 질문들을 탐구한다.",
+      "summary_full": "오늘의집 프로덕트 디자인팀이 AI Frontier 시리즈의 두 번째 이야기로, 디자인의 질을 향상시키기 위한 진정한 질문들을 제기한다. 디자이너들이 흔히 60점을 목표로 하는 시대에서, 어떻게 더 나은 제품을 만들 수 있을지를 고민한다. 이 과정에서 프로덕트 디자이너의 역할과 책임이 강조된다. 디지털 시대의 디자인 접근법에 대한 통찰을 제공한다.",
       "keywords": [
         "프로덕트 디자인",
         "AI Frontier",
-        "디자인 질문"
+        "디자인 질"
       ],
       "source": "오늘의집 Culture",
-      "date": "7월 6일",
-      "publishedAt": "2026-07-06T03:23:04.414Z",
+      "date": "7월 7일",
+      "publishedAt": "2026-07-07T02:56:10.888Z",
       "url": "https://www.bucketplace.com/post/2026-06-12-%EB%88%84%EA%B5%AC%EB%82%98-60%EC%A0%90%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8B%9C%EB%8C%80%EC%97%90-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EB%8D%98%EC%A0%B8%EC%95%BC-%ED%95%A0-%EC%A7%84%EC%A7%9C-%EC%A7%88%EB%AC%B8/",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "design",
       "title": "GPT 5.5와 Fable 5의 트렌드 퀴즈 게임 비교",
-      "summary": "GPT 5.5와 Fable 5를 활용하여 만든 트렌드 퀴즈 게임의 결과를 분석했다. 두 모델의 성능 차이와 사용자 반응을 살펴보았다.",
-      "summary_full": "이번 기사에서는 GPT 5.5와 Fable 5를 이용해 제작한 트렌드 퀴즈 게임의 결과를 비교 분석한다. 두 모델의 퀴즈 생성 능력과 사용자 참여도에 대한 데이터를 수집하였다. 이를 통해 각 모델의 장단점을 파악하고, 향후 퀴즈 게임 개발에 대한 인사이트를 제공한다. 최종적으로, 사용자 피드백을 바탕으로 두 모델의 효과성을 평가한다.",
+      "summary": "GPT 5.5와 Fable 5를 활용하여 트렌드 퀴즈 게임을 제작한 결과를 분석한다. 두 모델의 성능과 사용자 경험을 비교하여 어떤 점이 더 우수한지 살펴본다.",
+      "summary_full": "이번 기사에서는 GPT 5.5와 Fable 5를 이용한 트렌드 퀴즈 게임의 제작 결과를 다룬다. 두 모델의 기능과 성능을 비교하여 각각의 장단점을 분석한다. 사용자 경험 측면에서도 두 모델이 어떻게 다르게 작용하는지를 살펴본다. 최종적으로 어떤 모델이 더 효과적인지에 대한 결론을 제시한다.",
       "keywords": [
         "GPT 5.5",
         "Fable 5",
-        "퀴즈 게임"
+        "트렌드 퀴즈 게임"
       ],
       "source": "Secondbrush Blog",
-      "date": "7월 6일",
-      "publishedAt": "2026-07-06T03:22:58.177Z",
+      "date": "7월 7일",
+      "publishedAt": "2026-07-07T02:56:04.554Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-786/",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "frontend",
+      "title": "인도 보도자료 배포 - 비즈니스 와이어 인도",
+      "summary": "이 기사는 인도의 보도자료 배포 서비스에 대해 다룹니다. 창립자와 기업가를 위한 유용한 정보를 제공합니다.",
+      "summary_full": "이 기사는 인도의 보도자료 배포 서비스인 비즈니스 와이어 인도에 대해 설명합니다. 창립자와 기업가들이 효과적으로 보도자료를 배포할 수 있는 방법을 제시합니다. 또한, 이 서비스를 통해 얻을 수 있는 이점과 전략을 논의합니다. 독자들에게 유용한 인사이트를 제공합니다.",
+      "keywords": [
+        "보도자료",
+        "인도",
+        "비즈니스 와이어"
+      ],
+      "source": "dev.to",
+      "date": "7월 7일",
+      "publishedAt": "2026-07-07T02:48:52.000Z",
+      "url": "https://dev.to/sam_raisinghani_b6dec128c/press-release-distribution-india-8211-business-wire-india-2dkf",
+      "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "industry",
+      "title": "AI 버블이 금융 시스템에 미치는 영향",
+      "summary": "미 재무부 보고서에 따르면 현재의 AI 투자 열기가 금융 시스템을 위협할 수 있다. AI 기업들이 경제에 깊이 뿌리내리고 있어, 금융 여건 악화 시 위험이 커질 수 있다.",
+      "summary_full": "미 재무부 내부 보고서가 AI 투자 열기가 금융 시스템에 미치는 위험을 경고하고 있다. 보고서는 AI 기업들이 닷컴 시대보다 미국 경제에 더 깊이 뿌리내리고 있음을 지적한다. 금융 여건이 악화되거나 AI의 생산성 목표 달성이 실패할 경우 시스템 전반에 중대한 위험이 초래될 수 있다고 결론지었다. 이러한 상황은 경제 전반에 심각한 영향을 미칠 수 있다.",
+      "keywords": [
+        "AI 투자",
+        "금융 시스템",
+        "미 재무부 보고서"
+      ],
+      "source": "바이라인네트워크",
+      "date": "7월 7일",
+      "publishedAt": "2026-07-07T02:22:56.000Z",
+      "url": "https://byline.network/2026/07/ai-bubble/",
+      "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "trend",
+      "title": "토큰 기반 가격 책정의 숨겨진 비용 함정",
+      "summary": "고빈도 저가 API 호출은 월간 요금제가 제한할 수 있는 숨겨진 비용을 증가시킨다.",
+      "summary_full": "토큰 기반 가격 책정은 사용자가 예상치 못한 비용을 초래할 수 있는 함정을 숨기고 있다. 특히 고빈도 저가 API 호출이 이러한 비용을 더욱 악화시킨다. 월간 요금제는 이러한 비용을 제한할 수 있지만, 사용자는 이를 간과할 수 있다. 따라서 API 사용 시 비용 구조를 면밀히 검토하는 것이 중요하다.",
+      "keywords": [
+        "API 호출",
+        "비용 구조",
+        "가격 책정"
+      ],
+      "source": "dev.to",
+      "date": "7월 7일",
+      "publishedAt": "2026-07-07T00:30:27.000Z",
+      "url": "https://dev.to/rock_zhu_9c3f8b6962f30378/token-based-pricing-hides-a-3-5x-cost-trap-34h2",
+      "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "ai",
+      "title": "LeRobot v0.6.0: 상상, 평가, 개선",
+      "summary": "LeRobot v0.6.0 버전이 출시되었습니다. 이 버전은 상상하고 평가하며 개선하는 기능을 제공합니다.",
+      "summary_full": "LeRobot v0.6.0은 사용자가 상상하고 평가하며 개선할 수 있는 새로운 도구입니다. 이 업데이트는 사용자 경험을 향상시키기 위한 다양한 기능을 포함하고 있습니다. 특히, 효율적인 작업 흐름을 지원하는 기능이 추가되었습니다. 이를 통해 사용자들은 더욱 창의적이고 생산적인 결과를 얻을 수 있습니다.",
+      "keywords": [
+        "LeRobot",
+        "업데이트",
+        "기능 개선"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "7월 7일",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "industry",
+      "title": "린 스타트업이 생성적 AI에 여전히 가르치는 것",
+      "summary": "린 스타트업 접근법이 제정된 지 15년이 지난 지금, 많은 생성적 AI 프로그램들이 여전히 같은 실수를 반복하고 있다. 기업들이 수십억을 투자했지만 측정 가능한 성과는 거의 없다.",
+      "summary_full": "린 스타트업 접근법이 제정된 지 15년이 지난 지금, 많은 생성적 AI 프로그램들이 여전히 같은 실수를 반복하고 있다. MIT의 NANDA 이니셔티브에 따르면 2025년 연구에서 약 95%의 기업 생성적 AI 파일럿이 측정 가능한 결과를 내지 못했다고 한다. 기업들이 수십억을 투자했지만, 그 성과는 미미하다. 따라서 기업들은 이러한 문제를 해결하기 위한 전환이 필요하다.",
+      "keywords": [
+        "린 스타트업",
+        "생성적 AI",
+        "기업 투자"
+      ],
+      "source": "uxdesign.cc",
+      "date": "7월 6일",
+      "publishedAt": "2026-07-06T22:11:57.000Z",
+      "url": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "industry",
+      "title": "머스크, 트위터 투자자 사기 판결 유지",
+      "summary": "연방 판사가 머스크가 트위터 투자자들을 사기쳤다는 배심원의 판결을 뒤집지 않았다. 이 판결은 머스크의 440억 달러 규모의 트위터 인수와 관련이 있다.",
+      "summary_full": "연방 판사 찰스 브라이어는 머스크가 트위터 투자자들을 사기쳤다는 배심원의 판결을 대부분 유지하기로 결정했다. 샌프란시스코 배심원단은 2022년 5월 머스크의 트윗이 투자자들에게 잘못된 정보를 제공했다고 판단했다. 머스크는 판결을 무효화하려는 요청을 했으나 거부당했다. 이 사건은 머스크의 440억 달러 규모의 트위터 인수와 관련이 있다.",
+      "keywords": [
+        "머스크",
+        "트위터",
+        "사기 판결"
+      ],
+      "source": "thenextweb.com",
+      "date": "7월 6일",
+      "publishedAt": "2026-07-06T20:30:39.000Z",
+      "url": "https://thenextweb.com/news/judge-upholds-the-verdict-that-musk-defrauded-twitter-investors",
+      "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "trend",
+      "title": "2026 월드컵 축구 선수들이 양말을 자르는 이유",
+      "summary": "2026 월드컵에서 양말에 구멍이 난 모습이 자주 보인다. 이는 생체역학, 인식, 선수 습관의 복합적인 이유 때문이다.",
+      "summary_full": "2026 월드컵에서 축구 선수들이 양말에 구멍을 내는 모습이 눈에 띈다. 이러한 현상은 생체역학적 요소와 선수들의 인식, 그리고 개인적인 습관이 얽혀 있는 결과이다. 선수들은 양말을 자르면서 편안함과 성능을 추구하고 있다. 이로 인해 양말의 디자인과 기능성에 대한 새로운 논의가 시작되고 있다.",
+      "keywords": [
+        "축구",
+        "양말",
+        "생체역학"
+      ],
+      "source": "wired.com",
+      "date": "7월 6일",
+      "publishedAt": "2026-07-06T14:50:52.000Z",
+      "url": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "frontend",
@@ -69,6 +181,22 @@
     {
       "category": "design",
       "title": "2026 IT 산업 및 UX/UI 디자인 트렌드",
+      "summary": "2026년의 IT 산업과 UX/UI 디자인 트렌드를 다룬 기사입니다. 향후 기술 발전과 디자인 방향에 대한 통찰을 제공합니다.",
+      "summary_full": "이 기사는 2026년의 IT 산업 트렌드와 UX/UI 디자인 트렌드에 대해 설명합니다. 기술의 발전이 디자인에 미치는 영향과 사용자 경험을 향상시키기 위한 새로운 접근 방식을 제시합니다. 또한, 변화하는 소비자 요구에 맞춘 혁신적인 디자인 전략을 탐구합니다. 이러한 트렌드는 앞으로의 산업 방향성을 이해하는 데 중요한 역할을 할 것입니다.",
+      "keywords": [
+        "IT 산업",
+        "UX/UI 디자인",
+        "트렌드"
+      ],
+      "source": "Google News Design (KR)",
+      "date": "7월 6일",
+      "publishedAt": "2026-07-06T00:19:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GM3VYbjBvX2hhbVNmSE5YRkwyMTlxN052UFZhOGpLZkcwQUx6enlFRHlnQ2VyTVJSSnl6UURtV3hUdnJpS2c?oc=5",
+      "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "design",
+      "title": "2026 IT 산업 및 UX/UI 디자인 트렌드",
       "summary": "2026년의 IT 산업과 UX/UI 디자인 트렌드를 다룬다. 최신 기술과 디자인 방향성을 제시한다.",
       "summary_full": "2026년의 IT 산업 트렌드와 UX/UI 디자인 트렌드를 분석한다. 기술 발전과 사용자 경험을 고려한 디자인의 중요성이 강조된다. 앞으로의 변화에 대비하기 위한 전략과 인사이트를 제공한다. 이 글은 디자이너와 개발자에게 유용한 정보를 담고 있다.",
       "keywords": [
@@ -81,6 +209,22 @@
       "publishedAt": "2026-07-06T00:19:09.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQjRLQUEzUHVIUHZwLXEySXNGMk1SVzBGVWFMV0xIdlU1bXM5LXFXc3FpVTdJR3hKZUR0d3RQS0dpUXlOQ0NOd2plUzhSeVBlQ1E?oc=5",
       "collectedAt": "2026-07-06"
+    },
+    {
+      "category": "ai",
+      "title": "언어 모델의 글로벌 작업 공간",
+      "summary": "언어 모델에서 글로벌 작업 공간의 개념을 탐구한다. 이는 다양한 정보와 지식을 통합하여 더 나은 언어 처리 능력을 제공하는 데 기여한다.",
+      "summary_full": "이 글에서는 언어 모델에서 글로벌 작업 공간의 역할을 분석한다. 글로벌 작업 공간은 여러 정보 소스를 통합하여 언어 모델의 성능을 향상시키는 데 중요한 역할을 한다. 이를 통해 모델은 더 복잡한 언어 패턴을 이해하고 생성할 수 있다. 이러한 접근 방식은 자연어 처리 분야에서의 혁신을 이끌어낼 가능성이 크다.",
+      "keywords": [
+        "언어 모델",
+        "글로벌 작업 공간",
+        "자연어 처리"
+      ],
+      "source": "Anthropic Research",
+      "date": "7월 6일",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "industry",
@@ -326,7 +470,7 @@
       "category": "ai",
       "title": "구글 딥마인드와 A24, 최초의 연구 파트너십 발표",
       "summary": "구글 딥마인드와 A24가 혁신적인 연구 파트너십을 체결했다. 이 협력은 인공지능과 영화 제작의 융합을 목표로 한다.",
-      "summary_full": "구글 딥마인드와 A24가 최초의 연구 파트너십을 발표했다. 이 파트너십은 인공지능 기술을 영화 제작에 적용하기 위한 혁신적인 접근을 시도한다. 양사는 공동 연구를 통해 창의성과 기술의 경계를 허물고자 한다. 이를 통해 새로운 콘텐츠 제작 방식을 모색할 예정이다.",
+      "summary_full": "구글 딥마인드와 A24가 최초로 연구 파트너십을 발표했다. 이 협력은 인공지능 기술을 영화 제작에 적용하는 새로운 방법을 모색하는 데 중점을 두고 있다. 양사는 창의성과 기술의 융합을 통해 새로운 콘텐츠 제작 방식을 탐구할 예정이다. 이 파트너십은 영화 산업에 혁신을 가져올 것으로 기대된다.",
       "keywords": [
         "구글 딥마인드",
         "A24",
@@ -336,23 +480,23 @@
       "date": "7월 3일",
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "design",
       "title": "사용자에게 필요한 것은 더 많은 도구가 아닌 원활한 통합이다",
-      "summary": "사용자들은 일상에서 더 많은 도구가 필요하지 않다. 오히려 기존의 사고 모델에 잘 맞는 유용한 기능의 통합이 필요하다.",
-      "summary_full": "우리는 종종 모든 것을 변화시키는 새로운 도구에 대해 듣지만, 실제로 사람들은 일상에서 다룰 더 많은 도구가 필요하지 않다. 사용자들이 필요로 하는 것은 기존의 사고 모델과 잘 맞는 유용한 기능의 더 나은 통합이다. 화려한 새로운 '스마트' 워크플로우나 복잡한 명령어를 탐색하는 것에 흥미를 느끼지 않는다. 따라서 통합의 중요성이 강조된다.",
+      "summary": "사용자들은 새로운 도구보다 기존 도구의 통합을 더 필요로 한다. 이는 일상에서의 효율성을 높이고 정신적 모델에 맞는 기능을 제공하기 위함이다.",
+      "summary_full": "많은 사람들이 새로운 도구에 대한 기대를 가지지만, 실제로는 더 많은 도구가 필요하지 않다. 사용자들이 원하는 것은 기존의 도구와 잘 통합된 유용한 기능이다. 이러한 통합은 사용자의 정신적 모델과 잘 맞아야 하며, 일상에서의 편리함을 제공한다. 결국, 사용자들은 복잡한 명령어보다는 직관적인 워크플로우를 선호한다.",
       "keywords": [
         "통합",
         "사용자 경험",
-        "도구"
+        "효율성"
       ],
       "source": "smashingmagazine.com",
       "date": "7월 3일",
       "publishedAt": "2026-07-03T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "industry",
@@ -453,8 +597,8 @@
     {
       "category": "ai",
       "title": "Claude Fable 5 수출 제한 해제",
-      "summary": "Claude Fable 5의 수출 제한이 해제되어 전 세계에서 서비스가 재개된다. 이는 글로벌 시장에서의 접근성을 높일 것으로 기대된다.",
-      "summary_full": "Claude Fable 5의 수출 제한이 해제되면서, 이제 전 세계적으로 서비스가 재개된다. 이로 인해 사용자들은 더 이상 제한 없이 제품을 이용할 수 있게 된다. 이는 글로벌 시장에서의 접근성을 높이고, 사용자 경험을 향상시킬 것으로 보인다. 기업은 새로운 기회를 맞이하게 될 것이다.",
+      "summary": "Claude Fable 5의 수출 제한이 해제되면서 전 세계에서 서비스가 재개된다. 이는 글로벌 시장에서의 접근성을 높이는 중요한 변화로 평가된다.",
+      "summary_full": "Claude Fable 5의 수출 제한이 해제되었다. 이로 인해 전 세계에서 서비스가 재개되며, 사용자들은 새로운 기능과 개선된 성능을 경험할 수 있게 된다. 이러한 변화는 글로벌 시장에서의 경쟁력을 높이는 데 기여할 것으로 기대된다. 앞으로의 서비스 확장과 사용자 반응이 주목된다.",
       "keywords": [
         "Claude Fable 5",
         "수출 제한 해제",
@@ -464,7 +608,7 @@
       "date": "7월 2일",
       "publishedAt": "2026-07-02T23:27:41.000Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaElBdEw2MGpQMmFzY1NSUkk4NnVvRm5odDF2SWppcUtoOEtnQWRkdWp0UGJCSnNMdF9SSWhoNzFmekJfUU5zRjhqV01rUDFnb3pFYlBkZDc4NkdDRFByZ0dIcUl2anQ3UjIxNVhzRWwxZ2lfenhCR3BqSl9lMlRoeXdINUN4cTA?oc=5",
-      "collectedAt": "2026-07-03"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "industry",
@@ -838,18 +982,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 이유를 이해하는 것이 앱 자체에서 배울 수 있는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱 디자인에 미친 영향을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체에서 배울 수 있는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 배경을 이해하는 것이 앱 자체에서 배울 수 있는 것보다 더 유용한 디자인 교훈이다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교육 방법"
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "ai",
@@ -870,18 +1014,18 @@
     {
       "category": "frontend",
       "title": "What’s !important #14: 간격 장식, random(), <select> 필드 크기 조정 등",
-      "summary": "이번 호에서는 CSS 간격 장식과 Hyperblam이라는 HTML 기반 음악 생성 도구를 소개합니다. 브라우저 업데이트는 적지만 다양한 주제를 다루고 있습니다.",
-      "summary_full": "What’s !important #14에서는 CSS 간격 장식과 random() 함수, <select> 필드 크기 조정에 대해 다룹니다. 또한 Heydon Pickering이 만든 Hyperblam이라는 HTML 기반의 음악 생성 도구도 소개됩니다. 이 도구는 JavaScript 없이 Web Audio API와 Web Components를 활용하여 음악을 만들 수 있습니다. 최근 몇 주간의 다양한 주제를 놓치지 마세요!",
+      "summary": "이번 호에서는 CSS 간격 장식과 Hyperblam을 통한 음악 제작 등 다양한 주제를 다룹니다. 브라우저 업데이트는 적지만, 흥미로운 내용이 가득합니다.",
+      "summary_full": "What’s !important #14에서는 CSS 간격 장식과 random() 함수, <select> 필드 크기 조정 등 최근의 주요 주제를 다룹니다. 또한, Heydon Pickering이 만든 Hyperblam을 통해 HTML로 음악을 만드는 방법도 소개됩니다. 브라우저 업데이트는 적지만, CSS 관련 흥미로운 내용이 많아 놓치지 말아야 할 호입니다.",
       "keywords": [
         "CSS",
-        "HTML",
-        "Web Audio API"
+        "간격 장식",
+        "Hyperblam"
       ],
       "source": "css-tricks.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T13:54:14.000Z",
       "url": "https://css-tricks.com/whats-important-14/",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "design",
@@ -917,9 +1061,9 @@
     },
     {
       "category": "ai",
-      "title": "ChatGPT 채택 확산 현황",
-      "summary": "OpenAI의 새로운 데이터에 따르면, ChatGPT의 채택이 전 세계적으로 증가하고 있다. 사용자들은 더 많은 기능을 탐색하고 있으며, 지역과 언어에 걸쳐 성장을 이끌고 있다.",
-      "summary_full": "OpenAI의 최신 데이터는 ChatGPT의 글로벌 채택이 증가하고 있음을 보여준다. 사용자들은 ChatGPT의 사용량을 늘리고 있으며, 다양한 기능을 탐색하고 있다. 이러한 경향은 지역과 언어에 걸쳐 성장세를 보이고 있다. 이는 ChatGPT의 인지도를 높이고, 더 많은 사람들이 이 기술을 활용하게 만드는 요인으로 작용하고 있다.",
+      "title": "ChatGPT 채택의 확장",
+      "summary": "OpenAI의 새로운 데이터에 따르면 ChatGPT의 사용자가 전 세계적으로 증가하고 있다. 사용자들은 더 많은 기능을 탐색하며 지역과 언어에 걸쳐 성장을 이끌고 있다.",
+      "summary_full": "OpenAI의 새로운 Signals 데이터는 ChatGPT의 채택이 전 세계적으로 어떻게 증가하고 있는지를 보여준다. 사용자는 ChatGPT의 사용량을 늘리고 있으며, 다양한 기능을 탐색하고 있다. 이러한 변화는 지역과 언어에 걸쳐 성장을 촉진하고 있다. 결과적으로 ChatGPT의 글로벌 확산이 가속화되고 있다.",
       "keywords": [
         "ChatGPT",
         "OpenAI",
@@ -929,7 +1073,7 @@
       "date": "6월 30일",
       "publishedAt": "2026-06-30T09:00:00.000Z",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "design",
@@ -1817,8 +1961,8 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 다운로드 수가 2000만 회를 넘는 글로벌 프로젝트로 성장했다.",
-      "summary_full": "es-toolkit은 Toss의 프론트엔드 엔지니어링 팀에서 시작된 작은 라이브러리로, 내부에서 유용한 함수들을 모아 만든 것이다. 이 라이브러리는 점차 인기를 얻어 주간 다운로드 수가 2000만 회를 넘기며, 많은 개발자들에게 사랑받는 도구가 되었다. 결국 es-toolkit은 Toss의 핵심 프로젝트로 자리 잡으며, 글로벌 개발자 커뮤니티에서도 널리 사용되고 있다. 이 글에서는 es-toolkit의 성장 과정과 그 배경에 대해 이야기한다.",
+      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2천만 회 이상 다운로드되는 프로젝트로 성장했다.",
+      "summary_full": "es-toolkit은 Toss에서 시작된 작은 유틸리티 함수 라이브러리로, 시간이 지나면서 글로벌 프로젝트로 발전하였다. 이 라이브러리는 현재 주간 2천만 회 이상 다운로드되고 있으며, Toss의 핵심 프로젝트로 자리 잡았다. 개발자들은 이 라이브러리의 성공적인 성장 과정을 공유하고 있다. es-toolkit은 이제 전 세계적으로 널리 사용되고 있다.",
       "keywords": [
         "es-toolkit",
         "Toss",
@@ -1828,7 +1972,7 @@
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "design",
@@ -1929,8 +2073,8 @@
     {
       "category": "figma",
       "title": "Figma의 새로운 기능 발표",
-      "summary": "Figma에서 새로운 기능과 능력을 발표했습니다. 이제 모션, 깊이, 텍스처 및 코드를 캔버스에서 활용할 수 있습니다.",
-      "summary_full": "Figma에서 최근 발표한 새로운 기능과 능력은 사용자가 할 수 있는 작업을 확장합니다. 모션, 깊이, 텍스처 및 코드를 캔버스에서 활용할 수 있게 되었습니다. 정밀하고 표현력 있는 애니메이션을 타임라인에서 만들거나 Figma 에이전트를 통해 구현할 수 있습니다. 재사용 가능한 시스템을 구축하고 개발 준비가 완료된 애니메이션을 배포할 수 있습니다.",
+      "summary": "Figma에서 사용할 수 있는 새로운 기능과 능력이 발표되었습니다. 이제 모션, 깊이, 질감, 코드 등을 캔버스에서 활용할 수 있습니다.",
+      "summary_full": "Figma는 최근 Config 2026에서 새로운 기능과 능력을 발표했습니다. 사용자는 이제 모션, 깊이, 질감, 코드 등을 캔버스에서 활용할 수 있습니다. 정밀하고 표현력 있는 애니메이션을 타임라인에서 생성하거나 Figma 에이전트를 통해 만들 수 있습니다. 재사용 가능한 시스템을 구축하고 개발 준비가 완료된 애니메이션을 배포할 수 있습니다.",
       "keywords": [
         "Figma",
         "새로운 기능",
@@ -1940,7 +2084,7 @@
       "date": "6월 24일",
       "publishedAt": "2026-06-24T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "industry",
@@ -2026,19 +2170,21 @@
     },
     {
       "category": "ai",
-      "title": "카페24, LLM 라우터 출시",
-      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 기술은 다양한 언어 모델을 효율적으로 관리할 수 있도록 돕는다.",
-      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하여 GPT와 클로드를 통합 운용할 수 있는 기능을 제공한다. 이 라우터는 사용자들이 여러 언어 모델을 효율적으로 활용할 수 있도록 설계되었다. 이를 통해 기업들은 다양한 AI 솔루션을 보다 쉽게 통합하고 관리할 수 있게 된다. 카페24는 이러한 기술이 고객의 비즈니스에 긍정적인 영향을 미칠 것으로 기대하고 있다.",
+      "title": "GPT와 클로드 통합 운용을 위한 LLM 라우터 출시",
+      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 LLM을 효율적으로 관리하고 운용할 수 있도록 돕는다.",
+      "summary_full": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 라우터는 사용자가 여러 대형 언어 모델을 효과적으로 관리하고 운용할 수 있도록 지원한다. 이를 통해 기업들은 AI 기술을 더욱 효율적으로 활용할 수 있을 것으로 기대된다. 카페24는 이 제품을 통해 AI 기반 서비스의 경쟁력을 강화하고자 한다.",
       "keywords": [
         "카페24",
         "LLM 라우터",
-        "AI 통합"
+        "GPT",
+        "클로드",
+        "AI 기술"
       ],
       "source": "Google News AI (KR)",
       "date": "6월 23일",
       "publishedAt": "2026-06-23T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Rd3o4YlhQQU51OGlYUVB6ZEx4ejRxcWp4TFhqMjNhTjFPNXZHaHhwUDlNbVl6Y3ZkX1JFa0Rqb19scmtRWE9fU2dxSVNrUQ?oc=5",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "design",
@@ -4687,102 +4833,6 @@
       "collectedAt": "2026-06-07"
     },
     {
-      "category": "frontend",
-      "title": "<think>",
-      "summary": "사용자가 백엔드 엔지니어의 관점에서 새로운 기사를 작성하기를 원한다.",
-      "summary_full": "사용자는 기존 기사를 완전히 새롭게 작성하길 원하며, 특정 규칙을 따르도록 요구하고 있다. 중요한 사실들은 모델 이름과 가격, 점수, 순위를 정확히 보존해야 한다. 이를 바탕으로 모든 내용을 처음부터 다시 작성할 예정이다.",
-      "keywords": [
-        "백엔드",
-        "기사작성",
-        "데이터보존"
-      ],
-      "source": "dev.to",
-      "date": "6월 6일",
-      "publishedAt": "2026-06-06T02:55:18.000Z",
-      "url": "https://dev.to/eagerspark/-5h0i",
-      "collectedAt": "2026-06-06"
-    },
-    {
-      "category": "trend",
-      "title": "B2B SaaS에서 맞춤형 UI 대시보드로의 전환: 시장 동향 및 2026년의 승리 요소",
-      "summary": "SaaS 채택이 기업의 소프트웨어 상호작용 방식을 변화시키고 있으며, 일반 대시보드보다 맞춤형 인터페이스가 선호되고 있다. 맞춤형 UI 대시보드는 사용성을 증가시키는 데 기여하고 있다.",
-      "summary_full": "SaaS 채택이 기업의 소프트웨어 상호작용 방식을 변화시키고 있으며, 일반 대시보드보다 맞춤형 인터페이스가 선호되고 있다. 맞춤형 UI 대시보드는 사용성을 증가시키는 데 기여하고 있다. 이러한 변화는 B2B 시장에서 경쟁력을 높이는 중요한 요소로 작용하고 있다. 2026년까지 이러한 트렌드는 더욱 강화될 것으로 예상된다.",
-      "keywords": [
-        "B2B SaaS",
-        "맞춤형 UI 대시보드",
-        "시장 동향"
-      ],
-      "source": "dev.to",
-      "date": "6월 6일",
-      "publishedAt": "2026-06-06T02:17:00.000Z",
-      "url": "https://dev.to/fan-song/the-shift-to-custom-ui-dashboards-in-b2b-saas-market-trends-whats-winning-2026-4dja",
-      "collectedAt": "2026-06-06"
-    },
-    {
-      "category": "trend",
-      "title": "최고의 러닝화, 테스트 및 리뷰 (2026): 소코니, 아디다스, 호카",
-      "summary": "우리는 다양한 속도와 능력, 목표에 맞는 최고의 러닝화를 찾기 위해 수천 마일을 테스트했습니다. 이 리뷰는 각기 다른 러너를 위한 최적의 선택을 제공합니다.",
-      "summary_full": "2026년 최고의 러닝화를 찾기 위해 수천 마일을 테스트했습니다. 이 리뷰는 다양한 속도와 능력, 목표에 맞는 러닝화를 소개합니다. 소코니, 아디다스, 호카 브랜드의 제품들이 포함되어 있습니다. 각 러너에게 적합한 최적의 선택을 제공합니다.",
-      "keywords": [
-        "러닝화",
-        "테스트",
-        "리뷰"
-      ],
-      "source": "wired.com",
-      "date": "6월 5일",
-      "publishedAt": "2026-06-05T22:56:37.000Z",
-      "url": "https://www.wired.com/gallery/best-running-shoes/",
-      "collectedAt": "2026-06-06"
-    },
-    {
-      "category": "ai",
-      "title": "천 개의 토큰 나무: 3B 모델에서 다중 에이전트 경제 구현",
-      "summary": "이 기사에서는 3B 모델을 기반으로 한 다중 에이전트 경제 시스템을 소개합니다. 천 개의 토큰을 활용하여 새로운 경제 모델을 실현하는 방법에 대해 설명합니다.",
-      "summary_full": "이 기사에서는 3B 모델을 기반으로 한 다중 에이전트 경제 시스템을 소개합니다. 천 개의 토큰을 활용하여 새로운 경제 모델을 실현하는 방법에 대해 설명합니다. 다양한 에이전트들이 상호작용하며 경제 활동을 수행하는 구조를 제시합니다. 이러한 시스템이 어떻게 작동하는지에 대한 구체적인 사례와 이점도 다룹니다.",
-      "keywords": [
-        "다중 에이전트",
-        "3B 모델",
-        "경제 시스템"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "6월 5일",
-      "publishedAt": "2026-06-05T22:18:46.000Z",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "collectedAt": "2026-06-06"
-    },
-    {
-      "category": "industry",
-      "title": "러시아, 소형 스타링크 준비 및 2027년 마감일 연기",
-      "summary": "러시아는 자국의 스타링크 대안인 '라스베트'의 상업 버전을 내년 출시할 계획이다. 이 프로젝트는 거의 10년 동안 기다려온 이정표 중 하나이다.",
-      "summary_full": "러시아는 자국의 스타링크 대안인 '라스베트'의 상업 버전을 내년 출시할 계획이다. 이 프로젝트는 거의 10년 동안 기다려온 이정표 중 하나로, 운영자는 민간 항공우주 기업이다. 2027년 마감일은 계속해서 연기되고 있다. 이 소식은 로이터에 인용된 프로그램 관계자들의 말을 바탕으로 한다.",
-      "keywords": [
-        "러시아",
-        "스타링크",
-        "라스베트"
-      ],
-      "source": "thenextweb.com",
-      "date": "6월 5일",
-      "publishedAt": "2026-06-05T16:42:50.000Z",
-      "url": "https://thenextweb.com/news/russia-rassvet-starlink-rival-2027",
-      "collectedAt": "2026-06-06"
-    },
-    {
-      "category": "industry",
-      "title": "디자인의 부활과 새로운 역할",
-      "summary": "AI 시대에 새로운 디자인 역할이 등장하고 있다. 기술 커뮤니티는 AI가 화이트칼라 직업을 위협한다는 불안감에 휩싸여 있다.",
-      "summary_full": "AI 시대에 디자인 역할이 변화하고 있으며, 새로운 직무가 부각되고 있다. 기술 커뮤니티는 AI가 직업을 대체할 것이라는 우려를 나타내고 있다. 그러나 AI 전문가 앤드류 응은 이러한 '직업 종말' 이야기에 반박하며, AI가 디자인 분야에 새로운 기회를 제공할 것이라고 주장하고 있다. 디자인은 여전히 중요하며, 변화하는 환경 속에서 새로운 역할이 필요하다.",
-      "keywords": [
-        "디자인",
-        "AI",
-        "직업 변화"
-      ],
-      "source": "uxdesign.cc",
-      "date": "6월 5일",
-      "publishedAt": "2026-06-05T11:14:48.000Z",
-      "url": "https://uxdesign.cc/designs-alive-and-kicking-it-just-got-some-flashy-new-names-779b4503c869?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-06-06"
-    },
-    {
       "category": "industry",
       "title": "아마존 물류 로봇, 자연어로 작업 지시 받는다",
       "summary": "아마존이 자연어로 작업 지시를 받을 수 있는 물류 로봇 '프로테우스'를 공개했다. 이 로봇은 인공지능을 활용해 복잡한 코딩 없이 일상적인 언어로 지시를 수행할 수 있다.",
@@ -4912,19 +4962,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 인공지능 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화하는 프로젝트에 참여한다. 이 협력은 인공지능 기술의 혁신을 촉진하고, 새로운 산업 표준을 설정하는 데 기여할 것으로 보인다. 양사는 AI 기술의 적용 범위를 넓히고, 효율성을 높이는 데 중점을 두고 있다. 향후 이 파트너십이 AI 산업에 미치는 영향이 주목된다.",
+      "title": "엠미, AI 원주율 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 혁신과 발전을 목표로 하고 있다. 양사는 AI 솔루션의 효율성을 높이고, 산업 전반에 걸쳐 AI의 적용을 확대할 계획이다. 이러한 협업은 AI 기술의 미래에 긍정적인 영향을 미칠 것으로 예상된다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 네이티브 산업"
+        "AI 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-07-06"
+      "collectedAt": "2026-07-07"
     },
     {
       "category": "ai",
