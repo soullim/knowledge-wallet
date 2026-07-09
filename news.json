@@ -1,22 +1,184 @@
 {
-  "updated": "2026년 7월 8일 AM 02:34",
-  "count": 317,
+  "updated": "2026년 7월 9일 AM 02:51",
+  "count": 316,
   "articles": [
     {
       "category": "industry",
-      "title": "어드민 디자인 자동화의 가능성",
-      "summary": "어드민 디자인의 반복 작업을 PRD를 통해 자동화할 수 있는 방법을 탐구한다. 디자이너의 기준을 바탕으로 누구나 디자인할 수 있는 환경을 조성하는 데 중점을 둔다.",
-      "summary_full": "반복되는 어드민 디자인을 PRD로 자동화할 수 있는 가능성을 살펴본다. 디자이너의 단단한 기준을 기반으로, 모든 사용자가 디자인할 수 있는 환경을 실현하는 방법을 논의한다. AI 기술을 활용하여 디자인 프로세스를 혁신하는 방향성을 제시한다. 이러한 접근은 디자인의 접근성을 높이고 효율성을 향상시킬 수 있다.",
+      "title": "어드민 디자인 자동화의 한계와 가능성",
+      "summary": "어드민 디자인의 반복성을 줄이기 위해 PRD를 활용한 자동화의 가능성을 탐구한다. 디자이너의 기준을 바탕으로 누구나 디자인할 수 있는 환경을 조성하는 방법을 논의한다.",
+      "summary_full": "이 기사는 반복되는 어드민 디자인을 PRD를 통해 얼마나 자동화할 수 있는지를 분석한다. 디자이너의 확고한 기준 위에서 '누구나 디자인하는 환경'을 실현하는 방법을 제시한다. AI 기술의 발전이 디자인 프로세스에 미치는 영향을 살펴본다. 최종적으로, 디자인의 접근성과 효율성을 높이는 방안을 모색한다.",
       "keywords": [
         "어드민 디자인",
         "자동화",
-        "디자인 접근성"
+        "디자인 환경"
       ],
       "source": "오늘의집 Culture",
-      "date": "7월 8일",
-      "publishedAt": "2026-07-08T02:32:38.375Z",
+      "date": "7월 9일",
+      "publishedAt": "2026-07-09T02:50:21.343Z",
       "url": "https://www.bucketplace.com/post/2026-05-29-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EC%96%B4%EB%93%9C%EB%AF%BC-%EB%94%94%EC%9E%90%EC%9D%B8-prd%EB%A1%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "design",
+      "title": "클로드, 말하기 전 생각을 떠올리다",
+      "summary": "클로드는 대화 중에 발언하기 전에 생각을 정리하는 과정을 보여준다. 이는 의사소통의 질을 높이는 데 도움을 준다.",
+      "summary_full": "클로드는 대화에서 발언하기 전에 자신의 생각을 정리하는 방법을 설명한다. 이러한 접근은 더 명확하고 효과적인 의사소통을 가능하게 한다. 또한, 이는 상대방과의 대화에서 오해를 줄이는 데 기여한다. 결국, 클로드의 방법은 대화의 품질을 향상시키는 중요한 요소로 작용한다.",
+      "keywords": [
+        "클로드",
+        "의사소통",
+        "생각 정리"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "7월 9일",
+      "publishedAt": "2026-07-09T02:50:15.671Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-788/",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "frontend",
+      "title": "첫 번째 프로젝트",
+      "summary": "대부분의 사람들이 잘못된 반지 사이즈를 착용하고 있습니다. 이를 해결하기 위해 ringsizecalc.com을 만들었습니다.",
+      "summary_full": "대부분의 사람들이 잘못된 반지 사이즈를 착용하고 있으며, 이는 온라인 주얼리 반품의 주요 원인입니다. 이를 해결하기 위해 ringsizecalc.com을 통해 온라인에서 적합한 사이즈를 쉽게 찾을 수 있도록 하였습니다. 더 이상 종이 스트립을 사용하여 사이즈를 측정할 필요가 없습니다. 이 서비스는 고객의 불편을 줄이고 놀라움을 망치지 않도록 돕습니다.",
+      "keywords": [
+        "반지 사이즈",
+        "온라인 주얼리",
+        "사이즈 측정"
+      ],
+      "source": "dev.to",
+      "date": "7월 9일",
+      "publishedAt": "2026-07-09T02:44:50.000Z",
+      "url": "https://dev.to/mihir_rathod/first-project-7o0",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "trend",
+      "title": "스케치플로우에서 랜딩 페이지 히어로 섹션 만들기",
+      "summary": "히어로 섹션은 방문자가 처음 보는 화면으로, 50밀리초 만에 판단을 형성한다. 완전한 히어로 섹션은 헤드라인, 서브헤드라인, CTA 버튼, 지원 비주얼 등 6가지 구성 요소가 필요하다.",
+      "summary_full": "히어로 섹션은 방문자가 처음으로 접하는 화면으로, 빠른 시간 안에 판단을 내리게 된다. 이 섹션은 랜딩 페이지에서 가장 중요한 디자인 결정으로, 효과적인 사용자 경험을 위해 필수적이다. 완전한 히어로 섹션을 만들기 위해서는 헤드라인, 서브헤드라인, CTA 버튼, 지원 비주얼, 신뢰 요소 등 6가지 구성 요소가 필요하다. 이러한 요소들은 방문자의 관심을 끌고, 행동을 유도하는 데 중요한 역할을 한다.",
+      "keywords": [
+        "랜딩 페이지",
+        "히어로 섹션",
+        "스케치플로우"
+      ],
+      "source": "dev.to",
+      "date": "7월 9일",
+      "publishedAt": "2026-07-09T02:18:00.000Z",
+      "url": "https://dev.to/fan-song/how-to-build-a-landing-page-hero-section-in-sketchflow-from-single-prompt-to-exportable-web-code-cjc",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "trend",
+      "title": "메타 사무실에 침입한 다람쥐",
+      "summary": "메타 방콕 사무실에 다람쥐가 침입해 한 직원이 부상을 입었다. 다람쥐는 패키지를 통해 들어온 것으로 보이며, 결국 붙잡혔다.",
+      "summary_full": "메타 방콕 사무실에 다람쥐가 잠시 침입하는 사건이 발생했다. 이 동물은 패키지를 통해 사무실에 들어온 것으로 추정된다. 침입 과정에서 한 직원이 부상을 입었으나, 다람쥐는 결국 붙잡혔다. 이 사건은 사무실 내에서 예상치 못한 상황이 발생할 수 있음을 보여준다.",
+      "keywords": [
+        "메타",
+        "다람쥐",
+        "방콕"
+      ],
+      "source": "wired.com",
+      "date": "7월 8일",
+      "publishedAt": "2026-07-08T23:53:04.000Z",
+      "url": "https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "ai",
+      "title": "중국, 앤트로픽의 ‘클로드 코드’에 '백도어' 보안 경고 발령",
+      "summary": "중국이 앤트로픽의 클로드 코드에 대해 보안 경고를 발령했다. 이 경고는 코드에 백도어가 존재할 가능성을 지적하고 있다.",
+      "summary_full": "중국 정부가 앤트로픽의 인공지능 모델인 클로드 코드에 대해 보안 경고를 발표했다. 경고의 주요 내용은 해당 코드에 백도어가 존재할 수 있다는 점이다. 이는 데이터 보안과 개인 정보 보호에 대한 우려를 불러일으키고 있다. 전문가들은 이러한 경고가 기술 기업들의 보안 점검에 중요한 영향을 미칠 것이라고 분석하고 있다.",
+      "keywords": [
+        "중국",
+        "앤트로픽",
+        "클로드 코드",
+        "백도어",
+        "보안 경고"
+      ],
+      "source": "Google News Anthropic",
+      "date": "7월 8일",
+      "publishedAt": "2026-07-08T23:39:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SVmNJTjc2V0xQUEJVVGFfMl96eUFLQVA1QnNrSnFVZm1JR1N5cHlzQVBrVUE2WEJ3UFVpeWxCLWFWNU5ZS1Z1UXJDY3lWTG5ibmFqeFprSHpfZnVadVJFWG9Bbi1aelJhQTdfdDJR?oc=5",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "industry",
+      "title": "NATO, 러시아 공격을 저지하기 위한 AI '킬 웹' 구축",
+      "summary": "NATO는 동부 전선에 AI 네트워크를 구축하여 공격을 조기에 탐지하고 신속하게 반격할 계획이다. 이 계획은 '동부 전선 억제 이니셔티브'로 명명되었으며, 러시아를 주요 적으로 지목하고 있다.",
+      "summary_full": "NATO는 동부 전선에 AI 기반의 방어 시스템을 구축하여 러시아의 공격을 사전에 탐지하고 신속하게 대응할 수 있도록 하고 있다. 이 계획은 '동부 전선 억제 이니셔티브'로 불리며, 내부 문서에서 러시아를 명시된 적으로 언급하고 있다. 독일의 탑지 신문 BILD가 이 문서를 입수하여 보도하였고, 이는 NATO의 전략적 대응 방안을 보여준다. 이러한 시스템은 NATO의 동부 방어력을 강화하는 데 중요한 역할을 할 것으로 기대된다.",
+      "keywords": [
+        "NATO",
+        "AI",
+        "러시아 공격"
+      ],
+      "source": "thenextweb.com",
+      "date": "7월 8일",
+      "publishedAt": "2026-07-08T22:42:06.000Z",
+      "url": "https://thenextweb.com/news/nato-ai-kill-web-eastern-flank-deterrence-russia",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "industry",
+      "title": "혁명은 쉬운 부분이었다",
+      "summary": "혁명 이후의 진화는 느린 과정으로 시작된다. 스포티파이에 요청한 7월 4일 플레이리스트는 큰 드럼과 후렴구가 강조된 록 음악으로 구성되었다.",
+      "summary_full": "혁명은 단순한 시작에 불과하며, 그 이후의 진화가 진정한 과제이다. 필자는 스포티파이에 7월 4일을 기념하는 록 음악 플레이리스트를 요청했으며, 그 결과 'Born in the USA', 'Fortunate Son' 등 유명한 곡들이 포함되었다. 이러한 곡들은 바비큐를 하며 듣기 좋은 음악이지만, 가사를 깊이 있게 듣기에는 적합하지 않다. 음악의 선택은 여름의 분위기를 잘 나타내고 있다.",
+      "keywords": [
+        "혁명",
+        "스포티파이",
+        "록 음악"
+      ],
+      "source": "uxdesign.cc",
+      "date": "7월 8일",
+      "publishedAt": "2026-07-08T21:52:46.000Z",
+      "url": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "ai",
+      "title": "에이전트를 위한 데이터",
+      "summary": "에이전트 시스템에 필요한 데이터의 중요성을 다룬다. 이 데이터는 에이전트의 성능과 효율성을 향상시키는 데 기여한다.",
+      "summary_full": "에이전트 시스템의 성공적인 운영을 위해서는 적절한 데이터가 필수적이다. 이 데이터는 에이전트의 의사결정 과정에 영향을 미치며, 결과적으로 더 나은 성능을 이끌어낸다. 또한, 데이터의 품질과 양이 에이전트의 학습과 적응 능력에 직접적인 영향을 미친다. 따라서, 데이터 관리와 활용 전략이 중요하다.",
+      "keywords": [
+        "에이전트",
+        "데이터",
+        "성능"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "7월 8일",
+      "publishedAt": "2026-07-08T17:16:05.000Z",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "ai",
+      "title": "정부 및 국가 안보 파트너십에 대한 우리의 접근 방식",
+      "summary": "OpenAI는 정부 및 국가 안보 파트너십을 위한 책임 있는 AI 사용 원칙을 제시합니다. 민주적 책임과 공공 안전을 강조합니다.",
+      "summary_full": "OpenAI는 정부 및 국가 안보 파트너십을 통해 책임 있는 AI 사용을 위한 원칙을 수립하고 있습니다. 이 접근 방식은 민주적 책임을 유지하고 공공 안전을 보장하는 데 중점을 둡니다. 정부와의 협력은 기술의 안전한 사용을 촉진하는 데 기여할 것입니다. 이러한 원칙은 AI 기술이 사회에 긍정적인 영향을 미치도록 하는 데 필수적입니다.",
+      "keywords": [
+        "OpenAI",
+        "정부 파트너십",
+        "AI 안전"
+      ],
+      "source": "OpenAI News",
+      "date": "7월 8일",
+      "publishedAt": "2026-07-08T13:30:00.000Z",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "collectedAt": "2026-07-09"
+    },
+    {
+      "category": "industry",
+      "title": "메타, 이미지 생성 AI ‘뮤즈 이미지’ 출시",
+      "summary": "메타가 이미지 생성 AI ‘뮤즈 이미지’를 출시하여 다양한 앱에서 이미지 생성 및 편집 기능을 제공한다. 그러나 남의 공개된 이미지를 무단으로 사용할 수 있어 사생활 침해 논란이 일고 있다.",
+      "summary_full": "메타가 새로운 이미지 생성 AI인 ‘뮤즈 이미지’를 출시했다. 이 AI는 메타AI, 인스타그램, 왓츠앱 등에서 자연어 프롬프트를 통해 이미지를 생성하거나 편집할 수 있는 기능을 제공한다. 그러나 사용자가 타인의 공개된 이미지를 마음대로 가져와 AI 이미지로 변환할 수 있어 사생활 침해에 대한 우려가 제기되고 있다. 이러한 논란은 서비스 출시 초기부터 시작되었다.",
+      "keywords": [
+        "메타",
+        "이미지 생성 AI",
+        "사생활 침해"
+      ],
+      "source": "바이라인네트워크",
+      "date": "7월 8일",
+      "publishedAt": "2026-07-08T07:26:41.000Z",
+      "url": "https://byline.network/2026/07/8-503/",
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "design",
@@ -81,6 +243,22 @@
       "publishedAt": "2026-07-08T00:30:41.000Z",
       "url": "https://dev.to/ytxqrhon191/your-api-bill-is-3-5x-higher-than-the-price-sheet-g2d",
       "collectedAt": "2026-07-08"
+    },
+    {
+      "category": "ai",
+      "title": "AI 모델의 이중 용도 지식에 대한 오프 스위치",
+      "summary": "AI 모델에서 이중 용도 지식을 제어하기 위한 오프 스위치의 필요성을 다룬다. 이는 AI 기술의 안전한 사용을 위한 중요한 조치로 제안된다.",
+      "summary_full": "AI 모델의 이중 용도 지식은 다양한 분야에서 활용될 수 있지만, 그로 인한 위험도 존재한다. 이 글에서는 이러한 지식을 안전하게 관리하기 위한 오프 스위치의 필요성을 강조한다. 이러한 조치는 AI 기술의 안전한 사용을 보장하고, 부정적인 영향을 최소화하는 데 기여할 수 있다. 따라서, AI 모델의 설계 및 운영에 있어 중요한 고려사항으로 자리잡아야 한다.",
+      "keywords": [
+        "AI 모델",
+        "이중 용도 지식",
+        "안전성"
+      ],
+      "source": "Anthropic Research",
+      "date": "7월 8일",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "industry",
@@ -164,35 +342,36 @@
     },
     {
       "category": "frontend",
-      "title": "강력한 CSS border-shape 속성 준비하기",
-      "summary": "새로운 shape() 함수와 corner-shape 속성에 이어 border-shape 속성이 추가되었습니다. CSS에서 다양한 형태를 만드는 데 필요한 기능이 더욱 풍부해졌습니다.",
-      "summary_full": "최근에 shape() 함수와 corner-shape 속성이 추가되었고, 이제 border-shape 속성도 등장했습니다. 이러한 기능들은 CSS에서 다양한 형태를 만드는 데 큰 도움이 됩니다. CSS 형태에 관심이 없다면 이러한 새로운 기능들을 놓쳤을 수도 있습니다. 이번 기회에 이들 속성에 대해 간단히 알아보겠습니다.",
+      "title": "강력한 CSS border-shape 속성에 대비하자!",
+      "summary": "새로운 shape() 함수와 corner-shape 속성이 추가되었고, 이제 border-shape 속성까지 등장했다. CSS에서 다양한 형태를 만드는 데 필요한 요소들이 점점 늘어나고 있다.",
+      "summary_full": "최근에 shape() 함수와 corner-shape 속성이 추가되었으며, 이제 border-shape 속성도 등장했다. CSS에서 형태를 만드는 데 필요한 요소들이 점점 다양해지고 있다. 이러한 새로운 기능들은 CSS 형태에 관심이 없는 사람들에게는 놓칠 수 있는 중요한 업데이트이다. 이 기사에서는 이러한 기능들을 간단히 소개한다.",
       "keywords": [
         "CSS",
         "border-shape",
-        "shape()"
+        "shape()",
+        "corner-shape"
       ],
       "source": "css-tricks.com",
       "date": "7월 7일",
       "publishedAt": "2026-07-07T15:14:00.000Z",
       "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "design",
       "title": "키르키: 무한 캔버스를 가진 워드프레스 최초의 비주얼 빌더",
-      "summary": "키르키는 전통적인 페이지 빌더의 한계를 극복한 워드프레스 비주얼 빌더입니다. 이 도구는 코드 작성 없이도 웹사이트 디자인을 가능하게 하며, 성능 저하 없이 유연한 레이아웃을 제공합니다.",
-      "summary_full": "키르키는 워드프레스 사용자들이 코드 없이 웹사이트를 만들 수 있도록 돕는 비주얼 빌더입니다. 기존의 페이지 빌더들이 갖고 있던 경직된 레이아웃과 여러 서드파티 플러그인 의존성 문제를 해결합니다. 또한, 불필요한 코드와 성능 저하를 최소화하여 웹사이트의 속도를 유지합니다. 이러한 혁신적인 접근 방식으로 사용자들에게 더 나은 디자인 경험을 제공합니다.",
+      "summary": "키르키는 전통적인 페이지 빌더의 한계를 극복한 새로운 워드프레스 비주얼 빌더이다. 사용자는 코드 없이도 유연한 웹 디자인을 구현할 수 있다.",
+      "summary_full": "키르키는 기존의 페이지 빌더들이 가진 단점을 해결하기 위해 개발된 워드프레스의 최초 비주얼 빌더이다. 이 빌더는 고정된 레이아웃이나 여러 서드파티 플러그인에 의존하지 않고, 사용자가 원하는 대로 디자인할 수 있는 무한 캔버스를 제공한다. 이를 통해 코드의 복잡성이나 성능 저하 없이도 웹사이트를 쉽게 만들 수 있다. 결과적으로, 키르키는 사용자에게 더 나은 웹 디자인 경험을 제공한다.",
       "keywords": [
         "워드프레스",
         "비주얼 빌더",
-        "웹사이트 디자인"
+        "웹 디자인"
       ],
       "source": "smashingmagazine.com",
       "date": "7월 7일",
       "publishedAt": "2026-07-07T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "industry",
@@ -276,19 +455,19 @@
     },
     {
       "category": "figma",
-      "title": "동시 이미지 편집 기능 도입",
-      "summary": "이제 하나의 편집이 끝나기를 기다릴 필요 없이 여러 AI 이미지 편집을 동시에 생성할 수 있습니다. 작업을 진행하면서 편집 상태를 실시간으로 확인할 수 있습니다.",
-      "summary_full": "이제 하나의 편집이 완료될 때까지 기다릴 필요 없이 여러 AI 이미지 편집을 동시에 생성할 수 있습니다. 툴바를 통해 편집을 시작하고, 로딩이 진행되는 동안 계속 디자인 작업을 할 수 있습니다. AI 이미지 편집이 백그라운드에서 실행되는 동안 작업을 유지할 수 있습니다. 업데이트된 로딩 상태와 아이콘으로 진행 상황을 추적할 수 있습니다.",
+      "title": "편집 대기 없이 동시에 여러 이미지 수정 가능",
+      "summary": "이제 하나의 편집이 끝나기를 기다리지 않고 동시에 여러 AI 이미지 수정을 생성할 수 있습니다. 작업을 진행하면서 수정이 백그라운드에서 실행됩니다.",
+      "summary_full": "이제 하나의 편집이 끝나기를 기다리지 않고 동시에 여러 AI 이미지 수정을 생성할 수 있습니다. 툴바를 통해 여러 작업을 동시에 진행할 수 있으며, 수정이 로드되는 동안 계속 디자인할 수 있습니다. AI 이미지 수정이 백그라운드에서 실행되는 동안 작업을 계속할 수 있습니다. 업데이트된 로딩 상태와 아이콘으로 진행 상황을 추적할 수 있습니다.",
       "keywords": [
-        "AI 이미지 편집",
-        "동시 작업",
-        "디자인 툴"
+        "AI 이미지 수정",
+        "디자인 툴",
+        "작업 효율성"
       ],
       "source": "Figma Release Notes",
       "date": "7월 7일",
       "publishedAt": "2026-07-07T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "ai",
@@ -484,9 +663,9 @@
     },
     {
       "category": "design",
-      "title": "2026 IT 산업 및 UX/UI 디자인 트렌드",
-      "summary": "2026년의 IT 산업과 UX/UI 디자인의 주요 트렌드를 다룬다. 이 기사에서는 앞으로의 기술 발전과 디자인 방향성을 제시한다.",
-      "summary_full": "2026년 IT 산업의 주요 트렌드와 UX/UI 디자인의 변화를 살펴본다. 기술의 발전과 사용자 경험을 중시하는 디자인의 중요성이 강조된다. 또한, 새로운 기술이 사용자 인터페이스에 미치는 영향에 대해 논의한다. 이 기사는 향후 IT 산업과 디자인 분야의 방향성을 제시한다.",
+      "title": "2026년 IT 산업 및 UX/UI 디자인 트렌드",
+      "summary": "2026년의 IT 산업과 UX/UI 디자인의 주요 트렌드를 다룬다. 변화하는 기술 환경 속에서의 디자인 혁신을 살펴본다.",
+      "summary_full": "2026년 IT 산업의 트렌드는 기술 발전과 사용자 경험의 중요성이 강조된다. UX/UI 디자인은 사용자 중심의 접근 방식으로 진화하고 있다. 이러한 변화는 기업의 경쟁력에도 큰 영향을 미칠 것으로 예상된다. 최신 기술과 디자인 트렌드를 통해 미래의 IT 산업을 전망해본다.",
       "keywords": [
         "IT 산업",
         "UX/UI 디자인",
@@ -496,7 +675,7 @@
       "date": "7월 5일",
       "publishedAt": "2026-07-05T14:31:48.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQjRLQUEzUHVIUHZwLXEySXNGMk1SVzBGVWFMV0xIdlU1bXM5LXFXc3FpVTdJR3hKZUR0d3RQS0dpUXlOQ0NOd2plUzhSeVBlQ1E?oc=5",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "trend",
@@ -694,7 +873,7 @@
       "category": "ai",
       "title": "구글 딥마인드와 A24, 최초의 연구 파트너십 발표",
       "summary": "구글 딥마인드와 A24가 혁신적인 연구 파트너십을 체결했다. 이 협력은 인공지능과 영화 제작의 융합을 목표로 한다.",
-      "summary_full": "구글 딥마인드와 A24가 최초의 연구 파트너십을 발표했다. 이 협력은 인공지능 기술을 활용하여 영화 제작 과정에 혁신을 가져오는 것을 목표로 한다. 양사는 AI의 창의적 가능성을 탐구하고, 영화 산업에 새로운 접근 방식을 제시할 계획이다. 이번 파트너십은 기술과 예술의 경계를 허물며 새로운 콘텐츠 제작 방식을 모색하는 데 기여할 것으로 기대된다.",
+      "summary_full": "구글 딥마인드와 A24가 최초의 연구 파트너십을 발표했다. 이 협력은 인공지능 기술을 영화 제작에 적용하는 새로운 가능성을 탐구할 예정이다. 양사는 창의성과 기술의 융합을 통해 새로운 콘텐츠 제작 방식을 모색할 계획이다. 이번 파트너십은 AI와 예술의 경계를 허물고 새로운 혁신을 이끌어낼 것으로 기대된다.",
       "keywords": [
         "구글 딥마인드",
         "A24",
@@ -704,7 +883,7 @@
       "date": "7월 3일",
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "design",
@@ -1206,18 +1385,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래되었다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현대 언어 학습 앱의 디자인에 어떻게 영향을 미쳤는지를 탐구한다. 결국, 언어 학습의 기초가 된 방법론이 여전히 현재의 기술에 반영되고 있음을 알 수 있다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 개발된 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경이 현대 언어 학습 앱의 디자인에 미친 영향을 탐구한다. 결국, 언어 학습의 방법론이 어떻게 발전해왔는지를 이해하는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교육 방법"
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "ai",
@@ -2185,8 +2364,8 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리에서 시작하여 글로벌 프로젝트로 성장했습니다. 현재는 매주 2천만 번 이상 다운로드되고 있습니다.",
-      "summary_full": "es-toolkit은 Toss의 내부 유틸리티 함수 라이브러리로 시작되었습니다. 이 라이브러리는 점차 성장하여 현재 매주 2천만 번 이상 다운로드되고 있습니다. 이 프로젝트는 Toss의 핵심 기술로 자리 잡았으며, 많은 개발자들에게 사용되고 있습니다. 우리는 이 여정을 통해 es-toolkit의 발전과 성공 사례를 공유하고자 합니다.",
+      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2천만 번 이상 다운로드되는 글로벌 프로젝트로 성장했다. 이 과정에서 Toss의 프론트엔드 엔지니어들이 어떻게 기여했는지를 공유한다.",
+      "summary_full": "es-toolkit은 Toss에서 시작된 작은 유틸리티 함수 라이브러리로, 현재는 전 세계적으로 널리 사용되고 있다. 이 프로젝트는 주간 2천만 번 이상 다운로드되며, Toss의 핵심 기술로 자리 잡았다. Sojin Park과 Dayong Lee는 이 라이브러리의 성장 과정을 설명하며, 개발자들이 어떻게 참여했는지를 이야기한다. 이 글은 es-toolkit의 성공적인 발전을 보여주는 사례로, 오픈 소스 프로젝트의 중요성을 강조한다.",
       "keywords": [
         "es-toolkit",
         "Toss",
@@ -2196,7 +2375,7 @@
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "design",
@@ -2378,21 +2557,19 @@
     },
     {
       "category": "ai",
-      "title": "GPT와 클로드 통합 운용을 위한 LLM 라우터 출시",
-      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 LLM을 효율적으로 관리하고 운용할 수 있도록 돕는다.",
-      "summary_full": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 라우터는 사용자가 여러 대형 언어 모델을 효과적으로 관리하고 운용할 수 있도록 지원한다. 이를 통해 기업들은 AI 기술을 더욱 효율적으로 활용할 수 있을 것으로 기대된다. 카페24는 이 제품을 통해 AI 기반 서비스의 경쟁력을 강화하고자 한다.",
+      "title": "카페24, LLM 라우터 출시",
+      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 언어 모델을 효과적으로 관리할 수 있는 솔루션을 제공한다.",
+      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하여 GPT와 클로드를 통합 운용할 수 있는 기능을 제공한다. 이 라우터는 기업들이 다양한 언어 모델을 효과적으로 관리하고 활용할 수 있도록 돕는다. 이를 통해 사용자들은 보다 효율적인 AI 솔루션을 경험할 수 있을 것으로 기대된다. 카페24는 이러한 기술 혁신을 통해 시장에서의 경쟁력을 강화할 계획이다.",
       "keywords": [
         "카페24",
         "LLM 라우터",
-        "GPT",
-        "클로드",
-        "AI 기술"
+        "AI 솔루션"
       ],
       "source": "Google News AI (KR)",
       "date": "6월 23일",
       "publishedAt": "2026-06-23T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Rd3o4YlhQQU51OGlYUVB6ZEx4ejRxcWp4TFhqMjNhTjFPNXZHaHhwUDlNbVl6Y3ZkX1JFa0Rqb19scmtRWE9fU2dxSVNrUQ?oc=5",
-      "collectedAt": "2026-07-07"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "design",
@@ -4753,70 +4930,6 @@
       "collectedAt": "2026-06-10"
     },
     {
-      "category": "design",
-      "title": "ChatGPT로 올리브영 제품 추천받기",
-      "summary": "ChatGPT를 활용하여 올리브영에서 원하는 제품을 추천받는 방법을 소개한다. 다양한 질문을 통해 맞춤형 추천을 받을 수 있다.",
-      "summary_full": "이 기사에서는 ChatGPT를 이용해 올리브영 제품을 추천받는 방법을 설명한다. 사용자는 자신의 필요와 취향에 맞는 질문을 통해 최적의 제품을 찾을 수 있다. 또한, ChatGPT의 기능을 활용하여 더욱 개인화된 추천을 받을 수 있는 팁도 제공된다. 이를 통해 쇼핑 경험을 더욱 풍부하게 만들 수 있다.",
-      "keywords": [
-        "ChatGPT",
-        "올리브영",
-        "제품추천"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "6월 8일",
-      "publishedAt": "2026-06-08T03:53:43.590Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-765/",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "frontend",
-      "title": "초보자를 위한 웹 스크래핑: 데이터 서비스 판매",
-      "summary": "웹 스크래핑은 웹사이트에서 데이터를 추출하는 과정으로, 개발자에게 유용한 기술이다. 이 기사에서는 초보자를 위한 실용적인 단계와 코드 예제를 통해 웹 스크래핑을 시작하는 방법을 설명한다.",
-      "summary_full": "웹 스크래핑은 웹사이트에서 데이터를 추출하는 과정으로, 이를 통해 개발자는 자신의 능력을 수익화할 수 있다. 이 기사에서는 초보자를 위해 실용적인 단계와 코드 예제를 제공하여 웹 스크래핑을 시작하는 방법을 안내한다. 독자는 기사를 읽고 나면 웹 스크래핑의 기본 개념을 이해하고, 데이터 서비스로서의 판매 가능성을 탐색할 수 있을 것이다. 실용적인 접근 방식을 통해 독자들이 쉽게 따라할 수 있도록 구성되어 있다.",
-      "keywords": [
-        "웹 스크래핑",
-        "데이터 서비스",
-        "초보자 가이드"
-      ],
-      "source": "dev.to",
-      "date": "6월 8일",
-      "publishedAt": "2026-06-08T03:41:05.000Z",
-      "url": "https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-52lf",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "trend",
-      "title": "Xiaohongshu와 WeChat 커버 쌍을 하나의 HTML 파일로 생성하기",
-      "summary": "소셜 미디어 카드 디자인에 대한 고민을 덜어주는 도구입니다. Guizang Social Card Skill을 사용하면 Xiaohongshu 캐러셀과 WeChat 커버 쌍을 쉽게 생성할 수 있습니다.",
-      "summary_full": "소셜 미디어 카드 디자인에 어려움을 겪는 콘텐츠 제작자를 위한 솔루션입니다. Guizang Social Card Skill은 하나의 HTML 파일로 Xiaohongshu 캐러셀과 WeChat 21:9+1:1 커버 쌍을 생성합니다. 다양한 비율과 일관된 브랜딩을 유지하면서 빠르게 콘텐츠를 제작할 수 있습니다. 이 도구를 통해 디자인 도구와의 씨름을 멈추고 효율성을 높일 수 있습니다.",
-      "keywords": [
-        "Xiaohongshu",
-        "WeChat",
-        "소셜미디어 디자인"
-      ],
-      "source": "dev.to",
-      "date": "6월 8일",
-      "publishedAt": "2026-06-08T02:21:37.000Z",
-      "url": "https://dev.to/matengtian/generate-xiaohongshu-carousels-wechat-cover-pairs-in-one-html-file-3jhk",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "industry",
-      "title": "네이버-엔비디아, 초대형 AI 팩토리 공동 추진",
-      "summary": "네이버가 엔비디아와 함께 글로벌 AI 팩토리 구축에 나선다. 이들은 기가와트급 규모의 AI 팩토리를 공동으로 추진할 예정이다.",
-      "summary_full": "네이버가 AI 팩토리 사업에 본격적으로 힘을 쏟고 있다. 엔비디아와의 협력을 통해 기가와트(GW)급 초대형 글로벌 AI 팩토리 구축을 위한 공동 사업에 합의했다. 이 프로젝트는 AI 기술의 발전과 확산에 기여할 것으로 기대된다. 양사는 협력을 통해 AI 생태계를 더욱 강화할 계획이다.",
-      "keywords": [
-        "네이버",
-        "엔비디아",
-        "AI 팩토리"
-      ],
-      "source": "바이라인네트워크",
-      "date": "6월 8일",
-      "publishedAt": "2026-06-08T02:13:02.000Z",
-      "url": "https://byline.network/2026/06/08_19288733/",
-      "collectedAt": "2026-06-08"
-    },
-    {
       "category": "frontend",
       "title": "Skill 품질 관리를 위한 Rubric 설계와 시스템 구현",
       "summary": "토스 AI DX Team의 조민규가 개발한 Skill의 품질 문제를 다루고 있습니다. 이를 해결하기 위해 품질 관리 시스템을 설계하고 구현하는 과정을 설명합니다.",
@@ -4865,102 +4978,6 @@
       "collectedAt": "2026-06-09"
     },
     {
-      "category": "ai",
-      "title": "놀라운 디지털 의치 (실패한 프로젝트)",
-      "summary": "이 프로젝트는 디지털 의치 기술의 혁신을 목표로 했으나, 여러 문제로 인해 실패했다. 디지털 의치의 가능성을 보여주었지만, 상용화에는 이르지 못했다.",
-      "summary_full": "놀라운 디지털 의치 프로젝트는 최신 기술을 활용하여 의치를 디지털화하려는 시도였다. 그러나 기술적 문제와 시장의 수요 부족으로 인해 프로젝트는 실패로 돌아갔다. 이 프로젝트는 디지털 의치의 잠재력을 보여주었지만, 실제로 상용화되지는 못했다. 실패의 원인은 여러 가지가 있으며, 향후 연구에 중요한 교훈을 제공한다.",
-      "keywords": [
-        "디지털 의치",
-        "프로젝트 실패",
-        "기술 혁신"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "6월 7일",
-      "publishedAt": "2026-06-07T19:44:27.000Z",
-      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "industry",
-      "title": "아카이빙을 계속하고 있습니다. 파일이 이미 기질이 되었습니다.",
-      "summary": "같은 파일이지만 두 번째 기능을 가지고 있습니다. 완전히 다른 아키텍처입니다.",
-      "summary_full": "여전히 아카이빙 작업을 진행 중입니다. 그러나 파일들은 이미 새로운 기질로 변화했습니다. 같은 파일이지만 이제는 다른 기능을 수행하고 있습니다. 이 변화는 아키텍처의 근본적인 차이에서 비롯됩니다.",
-      "keywords": [
-        "아카이빙",
-        "파일",
-        "아키텍처"
-      ],
-      "source": "uxdesign.cc",
-      "date": "6월 7일",
-      "publishedAt": "2026-06-07T19:19:29.000Z",
-      "url": "https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "industry",
-      "title": "중국, 전기차 경량화 요구",
-      "summary": "중국은 전기차의 무게를 줄이기를 원하고 있다. 2024년 평균 승용차 무게가 1,704kg에 달해 주차 공간에 적합하지 않다는 우려가 제기되었다.",
-      "summary_full": "중국은 전기차의 무게를 줄이기 위한 노력을 하고 있다. 2024년 평균 승용차 무게가 1,704kg에 달하며, 이는 2012년보다 약 33% 증가한 수치이다. 많은 인기 있는 SUV와 MPV는 현재 2미터에 육박하거나 이를 초과하여 주차 공간에 문제를 일으키고 있다. 이러한 상황은 주차 공간이 10년 전 설계된 것이라는 점에서 더욱 심각하다.",
-      "keywords": [
-        "전기차",
-        "경량화",
-        "주차 공간"
-      ],
-      "source": "thenextweb.com",
-      "date": "6월 7일",
-      "publishedAt": "2026-06-07T13:04:46.000Z",
-      "url": "https://thenextweb.com/news/china-evs-too-heavy-weight-diet-regulations",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "trend",
-      "title": "시그마 BF 리뷰 (2026): 엉뚱하지만 이상하게 사랑스러운",
-      "summary": "시그마의 새로운 제품은 대담한 디자인 실험이자 꽤 괜찮은 카메라이다. 독특한 매력을 지닌 이 카메라는 사용자들에게 새로운 경험을 제공한다.",
-      "summary_full": "시그마의 BF 모델은 대담한 디자인 실험으로 주목받고 있다. 이 카메라는 기능성과 스타일을 동시에 갖추고 있어 사용자들에게 매력적으로 다가온다. 독특한 외형과 성능이 조화를 이루며, 사진 촬영의 즐거움을 더한다. 시그마의 새로운 시도가 어떻게 받아들여질지 기대된다.",
-      "keywords": [
-        "시그마",
-        "카메라",
-        "디자인 실험"
-      ],
-      "source": "wired.com",
-      "date": "6월 7일",
-      "publishedAt": "2026-06-07T11:01:00.000Z",
-      "url": "https://www.wired.com/review/sigma-bf-camera/",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "ai",
-      "title": "클로드를 화학자로 만들기",
-      "summary": "클로드가 화학자로서의 역할을 수행하는 방법에 대한 논의가 진행된다. 이 과정에서 화학의 기본 원리와 응용에 대한 설명이 포함된다.",
-      "summary_full": "클로드가 화학자로서의 역할을 어떻게 수행할 수 있는지를 탐구한다. 이 기사에서는 화학의 기본 개념과 이론을 설명하고, 클로드가 이를 어떻게 적용할 수 있는지를 다룬다. 또한, 화학이 다양한 분야에서 어떻게 활용될 수 있는지에 대한 사례도 제시된다. 궁극적으로 클로드가 화학자로서 성장하는 과정을 보여준다.",
-      "keywords": [
-        "화학",
-        "클로드",
-        "과학"
-      ],
-      "source": "Anthropic Research",
-      "date": "6월 5일",
-      "publishedAt": "2026-06-05T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "ai",
-      "title": "엔다바의 AI 에이전트를 활용한 소프트웨어 배포 재설계",
-      "summary": "엔다바는 AI 에이전트와 ChatGPT Enterprise, Codex를 활용하여 소프트웨어 배포를 가속화하고 워크플로우를 자동화하고 있다. 이를 통해 기업 전반에 AI 중심의 문화를 구축하고 있다.",
-      "summary_full": "엔다바는 AI 에이전트를 통해 소프트웨어 배포 프로세스를 혁신하고 있다. ChatGPT Enterprise와 Codex를 활용하여 업무 흐름을 자동화하고 효율성을 높이고 있다. 이러한 접근은 기업 내에서 AI 중심의 문화를 조성하는 데 기여하고 있다. 결과적으로, 엔다바는 더 빠르고 효과적인 소프트웨어 개발을 실현하고 있다.",
-      "keywords": [
-        "AI 에이전트",
-        "소프트웨어 배포",
-        "워크플로우 자동화"
-      ],
-      "source": "OpenAI News",
-      "date": "6월 4일",
-      "publishedAt": "2026-06-04T12:00:00.000Z",
-      "url": "https://openai.com/index/endava-frontiers",
-      "collectedAt": "2026-06-08"
-    },
-    {
       "category": "design",
       "title": "디자인 시스템을 AI 준비 상태로 만드는 방법",
       "summary": "AI 생성 프로토타입은 디자인 시스템의 작은 불일치로 인해 일관된 결과를 제공하지 못한다. 이 기사에서는 이러한 문제를 해결하기 위한 실용적인 가이드를 제시한다.",
@@ -4977,52 +4994,20 @@
       "collectedAt": "2026-06-10"
     },
     {
-      "category": "design",
-      "title": "2026 하반기 UX·UI 트렌드 및 AI 네이티브 실무 전략 세미나",
-      "summary": "2026년 하반기 UX·UI 트렌드와 AI 네이티브 실무 전략에 대한 세미나가 6월 18일 개최된다. 이 세미나는 최신 디자인 트렌드와 AI 기술의 통합을 다룰 예정이다.",
-      "summary_full": "2026년 하반기 UX·UI 트렌드 및 AI 네이티브 실무 전략에 관한 세미나가 6월 18일에 개최된다. 이번 세미나는 UX·UI 디자인의 최신 경향과 AI 기술의 활용 방안을 논의하는 자리로 마련된다. 참석자들은 실무에 적용 가능한 전략과 인사이트를 얻을 수 있을 것이다. 전자신문이 주최하는 이번 행사에 많은 관심이 필요하다.",
-      "keywords": [
-        "UX",
-        "UI",
-        "AI 네이티브"
-      ],
-      "source": "Google News Design (KR)",
-      "date": "6월 2일",
-      "publishedAt": "2026-06-02T06:39:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qXzlRQ3E3T1dIVGhzZ1QweUpBNG5UNUVnVzRPMUg1Z0dQWWZrcG9nb0cycVN1R1dfWXNPZXpYZGR6WGhXUnV0NE55UnZYUQ?oc=5",
-      "collectedAt": "2026-06-08"
-    },
-    {
       "category": "ai",
-      "title": "Claude Opus 4.8: 오류를 인정하는 모델",
-      "summary": "Anthropic의 Claude Opus 4.8은 자신의 오류를 정직하게 인정하는 데 중점을 두고 있다. 이 모델은 사용자와의 신뢰를 구축하기 위해 투명성을 강조한다.",
-      "summary_full": "Claude Opus 4.8은 Anthropic이 개발한 모델로, 자신의 오류를 솔직하게 인정하는 기능에 중점을 두고 있다. 이 접근 방식은 사용자와의 신뢰를 강화하고, AI의 투명성을 높이기 위한 노력의 일환이다. 모델은 다양한 상황에서 오류를 인식하고 이를 사용자에게 알리는 기능을 갖추고 있다. 이러한 특성은 AI의 신뢰성을 높이는 데 중요한 역할을 할 것으로 기대된다.",
-      "keywords": [
-        "Claude Opus 4.8",
-        "Anthropic",
-        "오류 인정"
-      ],
-      "source": "Google News Anthropic",
-      "date": "5월 28일",
-      "publishedAt": "2026-05-28T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55QUVwd0ZHd0RfYUtpeGRYamNabzR4ZlVPbml3dVY4eEN1OHJpcFhoTnhhYU9Cci1JS0ViRmhFd05wMVFRSHBUNWtjb0daUDdYQWJEMXR4YXliby1hM1pfYVNRZ2dianc?oc=5",
-      "collectedAt": "2026-06-08"
-    },
-    {
-      "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 중심 산업의 발전을 가속화한다. 이번 협력을 통해 두 기업은 AI 기술의 혁신을 촉진할 예정이다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 원주율 산업을 가속화하기 위한 전략적 파트너십을 체결했다. 이 협력은 AI 기술의 발전과 혁신을 촉진하는 데 중점을 두고 있다. 엠미와 미스트랄은 각각의 전문성을 활용하여 AI 솔루션을 개선하고 새로운 시장 기회를 창출할 계획이다. 두 기업의 협력은 AI 산업의 미래에 긍정적인 영향을 미칠 것으로 기대된다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션을 개발하는 데 중점을 두고 있다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화하는 프로젝트를 시작했다. 이 협력은 양사가 보유한 기술과 자원을 결합하여 혁신적인 AI 솔루션을 개발하는 데 중점을 두고 있다. 이를 통해 AI 기술의 상용화와 산업 전반의 효율성을 높이는 것을 목표로 하고 있다. 향후 이 파트너십이 AI 산업에 미치는 영향이 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 산업"
+        "AI 네이티브 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-07-08"
+      "collectedAt": "2026-07-09"
     },
     {
       "category": "ai",
