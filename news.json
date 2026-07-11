@@ -1,22 +1,182 @@
 {
-  "updated": "2026년 7월 10일 AM 02:54",
+  "updated": "2026년 7월 11일 AM 02:31",
   "count": 316,
   "articles": [
     {
       "category": "industry",
       "title": "Ureka 제작기: 인사이트의 조직 자산화",
-      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 지식 구조를 만드는 방법을 탐구한다. 이 과정에서 조직의 인사이트가 어떻게 자산으로 전환될 수 있는지를 논의한다.",
-      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 연결하는 지식 구조를 만드는 과정을 다룬다. 이를 통해 인사이트가 조직의 자산으로 어떻게 변모할 수 있는지를 설명한다. AI 기술을 활용하여 정보의 통합과 활용 방안을 제시한다. 궁극적으로, 조직의 지식 관리와 혁신을 촉진하는 방법에 대해 논의한다.",
+      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 조직의 지식 구조를 만드는 방법을 탐구한다. 이 과정에서 인사이트가 어떻게 조직의 자산으로 활용될 수 있는지를 설명한다.",
+      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 효과적으로 연결하는 지식 구조를 만드는 방법을 제시한다. 이를 통해 조직은 인사이트를 체계적으로 관리하고 활용할 수 있다. 또한, 이러한 지식 구조가 조직의 자산으로 발전하는 과정을 설명한다. AI 기술을 활용하여 더 나은 인사이트를 도출하는 방법도 다룬다.",
       "keywords": [
         "Ureka",
         "지식 구조",
         "조직 자산"
       ],
       "source": "오늘의집 Culture",
-      "date": "7월 10일",
-      "publishedAt": "2026-07-10T02:52:50.789Z",
+      "date": "7월 11일",
+      "publishedAt": "2026-07-11T02:30:36.872Z",
       "url": "https://www.bucketplace.com/post/2026-07-08-ureka-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9E%90%EC%82%B0%EC%9D%B4-%EB%90%A0%EA%B9%8C/",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "design",
+      "title": "챗GPT에서 코딩 에이전트 소개",
+      "summary": "챗GPT의 새로운 기능인 코딩 에이전트를 소개합니다. 이 에이전트는 GPT-5.6 솔루션을 기반으로 하여 프로그래밍 작업을 지원합니다.",
+      "summary_full": "챗GPT의 최신 업데이트에서는 코딩 에이전트가 도입되었습니다. 이 에이전트는 사용자가 프로그래밍 관련 질문을 할 때 도움을 줄 수 있도록 설계되었습니다. GPT-5.6 솔루션을 활용하여 다양한 코딩 작업을 효율적으로 처리합니다. 이를 통해 개발자들은 더 나은 작업 환경을 경험할 수 있습니다.",
+      "keywords": [
+        "챗GPT",
+        "코딩 에이전트",
+        "GPT-5.6"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "7월 11일",
+      "publishedAt": "2026-07-11T02:30:32.302Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-790/",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "frontend",
+      "title": "4시간 만에 만든 앱",
+      "summary": "개인용 어휘 앱 'So Very Word'를 만들었다. 자주 사용하는 'so'와 'very' 대신 더 나은 단어를 찾기 위한 도구이다.",
+      "summary_full": "4시간 만에 개인용 어휘 앱 'So Very Word'를 개발했다. 이 앱은 자주 사용하는 'so'와 'very' 대신 더 나은 단어를 찾기 위한 간단한 도구이다. Claude Code를 사용하여 제작하였으며, 사용자의 어휘력을 향상시키는 데 도움을 준다. 이 앱은 개인적인 필요에 의해 만들어졌다.",
+      "keywords": [
+        "앱 개발",
+        "어휘 앱",
+        "Claude Code"
+      ],
+      "source": "dev.to",
+      "date": "7월 11일",
+      "publishedAt": "2026-07-11T02:22:34.000Z",
+      "url": "https://dev.to/justkaylathings/heres-the-app-i-made-in-4-hours-15f0",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "trend",
+      "title": "AI 슬롭 탐지기를 테스트해봤습니다 — 제 글도 걸렸습니다",
+      "summary": "저자는 AI 슬롭 탐지기를 사용하여 자신의 글이 걸린 경험을 공유합니다. 이 도구는 저자의 글이 일반적인 AI 뉴스레터와 다르다고 생각했던 것과는 다르게 평가했습니다.",
+      "summary_full": "저자는 매일 Dev.to에 글을 쓰며 자신의 글이 깔끔하다고 믿었습니다. 그러나 'kill-ai-slop'이라는 프로젝트를 통해 AI 슬롭 탐지기를 테스트한 결과, 자신의 글이 탐지기에 의해 플래그가 걸렸습니다. 이는 저자가 생각했던 것과는 다른 결과로, AI가 글의 품질을 어떻게 평가하는지에 대한 흥미로운 통찰을 제공합니다. 이 경험은 저자가 자신의 글쓰기 스타일을 재평가하게 만들었습니다.",
+      "keywords": [
+        "AI",
+        "슬롭 탐지기",
+        "글쓰기"
+      ],
+      "source": "dev.to",
+      "date": "7월 11일",
+      "publishedAt": "2026-07-11T02:15:33.000Z",
+      "url": "https://dev.to/hermestomagent/i-tested-an-ai-slop-detector-it-flagged-my-own-writing-2lo4",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "trend",
+      "title": "오픈AI 안전 책임자 퇴사",
+      "summary": "오픈AI의 안전 책임자 요하네스 하이데케가 회사를 떠난다. 이는 오픈AI가 연구팀과 안전팀의 통합을 추진하는 가운데 발생한 일이다.",
+      "summary_full": "오픈AI의 안전 책임자인 요하네스 하이데케가 퇴사한다. 그의 퇴사는 오픈AI가 연구팀과 안전팀의 통합을 더욱 추진하는 과정에서 일어난 일이다. 이는 회사의 안전 및 연구 방향에 중요한 변화를 의미할 수 있다. 오픈AI는 앞으로도 안전성을 강화하기 위한 노력을 지속할 예정이다.",
+      "keywords": [
+        "오픈AI",
+        "안전 책임자",
+        "요하네스 하이데케"
+      ],
+      "source": "wired.com",
+      "date": "7월 11일",
+      "publishedAt": "2026-07-11T01:07:26.000Z",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "industry",
+      "title": "폭스바겐, 모델 라인업 절반 축소 계획 발표",
+      "summary": "폭스바겐이 역사상 최악의 위기를 극복하기 위해 모델 라인업을 절반으로 줄이겠다고 발표했다. 또한 연간 생산 능력을 900만 대로 축소할 예정이다.",
+      "summary_full": "폭스바겐은 현재의 위기를 극복하기 위해 모델 라인업을 최대 절반으로 축소할 계획이다. 이와 함께 연간 생산 능력도 1200만 대에서 900만 대로 줄일 예정이다. 이러한 조치는 회사의 지속 가능성을 높이기 위한 전략으로 보인다. 그러나 10만 개의 일자리 감축에 대한 언급은 없었다.",
+      "keywords": [
+        "폭스바겐",
+        "모델 축소",
+        "자동차 산업"
+      ],
+      "source": "thenextweb.com",
+      "date": "7월 10일",
+      "publishedAt": "2026-07-10T20:23:16.000Z",
+      "url": "https://thenextweb.com/news/volkswagen-halve-model-lineup-capacity-cuts",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "design",
+      "title": "브랜드 전략을 시각적 방향으로 전환하는 방법",
+      "summary": "브랜딩 프로젝트의 실패는 종종 전략 단계에서 발생한다. 이 단계에서 정의되지 않은 단어들이 브랜드와 디자이너 간의 간극을 만든다.",
+      "summary_full": "브랜딩 프로젝트의 실패는 주로 로고 단계 이전의 전략 단계에서 발생한다. 이때 '현대적', '신뢰할 수 있는', '프리미엄', '친근한', '파괴적인' 등의 단어가 명확히 정의되지 않는다. 그 결과 브랜드가 전달해야 할 메시지와 디자이너가 만들어야 할 결과물 간의 간극이 생긴다. 이 간극을 '프리컨셉' 단계라고 부른다.",
+      "keywords": [
+        "브랜드 전략",
+        "시각적 방향",
+        "프리컨셉"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "7월 10일",
+      "publishedAt": "2026-07-10T13:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "industry",
+      "title": "스타트업 갈라파고스, 규제와 제도의 영향",
+      "summary": "최지영 대표는 스타트업의 글로벌 경쟁력 강화를 위해 규제 설계와 해외 인재 유치의 중요성을 강조했다. 국내 스타트업들이 성장 가능성에도 불구하고 규제로 인해 역차별을 받고 있다는 점에서 대책 마련이 필요하다고 언급했다.",
+      "summary_full": "최지영 코리아스타트업포럼 대표는 스타트업의 글로벌 경쟁력 강화를 위해 정책 제언을 했다. 그는 규제 설계, 해외 인재 유치, 딥테크 중심의 공공조달을 강조했다. 특히 국내 스타트업들이 성장 가능성이 있음에도 불구하고 규제로 인해 제동이 걸리고 있다고 지적했다. 이에 따라 대책 마련의 필요성이 제기되었다.",
+      "keywords": [
+        "스타트업",
+        "규제",
+        "글로벌 경쟁력"
+      ],
+      "source": "바이라인네트워크",
+      "date": "7월 10일",
+      "publishedAt": "2026-07-10T10:38:41.000Z",
+      "url": "https://byline.network/2026/07/45273982/",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "industry",
+      "title": "변명 디자인하기",
+      "summary": "자기 의식에 얽매이지 않고 올바른 행동을 하는 방법에 대해 논의한다. 디자인 과정에서의 변명의 필요성과 그 중요성을 강조한다.",
+      "summary_full": "이 글은 자기 의식이 올바른 행동을 방해하지 않도록 하는 방법을 탐구한다. 디자인에서 변명은 중요한 요소로 작용하며, 이를 통해 더 나은 사용자 경험을 창출할 수 있다. 또한, 변명을 디자인하는 과정에서의 창의성과 전략적 접근이 필요함을 설명한다. 결국, 변명은 단순한 핑계가 아니라 디자인의 중요한 부분이 될 수 있다.",
+      "keywords": [
+        "디자인",
+        "변명",
+        "사용자 경험"
+      ],
+      "source": "uxdesign.cc",
+      "date": "7월 10일",
+      "publishedAt": "2026-07-10T07:28:15.000Z",
+      "url": "https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "ai",
+      "title": "도이치 텔레콤, AI로 통신업계를 재편하다",
+      "summary": "도이치 텔레콤이 AI 기반의 통신사로 변모하고 있다. OpenAI를 활용해 고객 서비스, 직원 업무 흐름, 네트워크 운영 및 음성의 미래를 혁신하고 있다.",
+      "summary_full": "도이치 텔레콤은 AI를 중심으로 통신업계를 재편하고 있다. OpenAI의 기술을 통해 고객 서비스와 직원 업무 흐름을 개선하고 있다. 또한, 네트워크 운영의 효율성을 높이며 음성 통신의 미래를 탐색하고 있다. 이러한 변화는 통신 산업의 새로운 패러다임을 제시하고 있다.",
+      "keywords": [
+        "도이치 텔레콤",
+        "AI",
+        "통신업계"
+      ],
+      "source": "OpenAI News",
+      "date": "7월 10일",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "collectedAt": "2026-07-11"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽-UST, ‘물리적 AI’ 시장 공략 본격화",
+      "summary": "앤트로픽과 UST가 반도체, 자동차, 제조 분야에 클로드 AI를 적용하며 물리적 AI 시장에 본격적으로 진입한다. 이 협력은 다양한 산업 현장에서 AI의 활용을 확대할 것으로 기대된다.",
+      "summary_full": "앤트로픽과 UST가 협력하여 물리적 AI 시장에 본격적으로 진입한다. 이들은 반도체, 자동차, 제조 현장에 클로드 AI를 적용할 예정이다. 이를 통해 AI의 활용 범위를 넓히고 산업 혁신을 촉진할 계획이다. 이러한 움직임은 AI 기술의 실제 적용 사례를 증가시키는 데 기여할 것으로 보인다.",
+      "keywords": [
+        "앤트로픽",
+        "UST",
+        "물리적 AI"
+      ],
+      "source": "Google News Anthropic",
+      "date": "7월 10일",
+      "publishedAt": "2026-07-10T06:23:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TdFVmUUs0Q2hub3M0cGpxdzVkMHBfOVN4clBCUXlZeEZyNXVmS1oyeUFONVJDX3pReHZEYm05X21sWnJMTFdIZGo5cFlfZDFsWDN1UDVTLUx0TW9mOUFJaXVabzJvVUU?oc=5",
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "design",
@@ -81,6 +241,22 @@
       "publishedAt": "2026-07-10T00:30:36.000Z",
       "url": "https://dev.to/rock_zhu_9c3f8b6962f30378/your-real-ai-cost-is-3-5x-higher-than-you-calculated-1mk0",
       "collectedAt": "2026-07-10"
+    },
+    {
+      "category": "ai",
+      "title": "PyTorch 프로파일링 (3부): 주목할 점은 프로파일링이다",
+      "summary": "이 글에서는 PyTorch에서의 프로파일링 기법을 다룬다. 특히 주의(attention) 메커니즘의 성능 분석에 중점을 둔다.",
+      "summary_full": "이 글에서는 PyTorch에서의 프로파일링 기법을 다룬다. 특히 주의(attention) 메커니즘의 성능 분석에 중점을 둔다. 프로파일링을 통해 모델의 성능을 최적화할 수 있는 방법을 제시한다. 다양한 예제와 함께 실용적인 팁을 제공한다.",
+      "keywords": [
+        "PyTorch",
+        "프로파일링",
+        "주의 메커니즘"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "7월 10일",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "ai",
@@ -228,19 +404,19 @@
     },
     {
       "category": "figma",
-      "title": "Figma에서 사용할 수 있는 OpenAI의 최신 모델 GPT-5.6",
-      "summary": "OpenAI의 최신 모델인 GPT-5.6이 Figma Make에서 사용할 수 있게 되었습니다. 모든 요금제에서 이용 가능하며, 초기 테스트 결과에 대한 블로그 포스트를 통해 더 많은 정보를 확인할 수 있습니다.",
-      "summary_full": "OpenAI의 최신 모델인 GPT-5.6이 Figma Make에서 제공됩니다. 사용자는 Figma Make의 채팅 박스에서 모델 선택기를 열고 GPT-5.6을 선택하여 시작할 수 있습니다. 이 모델은 모든 요금제에서 이용 가능하며, 초기 테스트 결과는 블로그 포스트에서 확인할 수 있습니다. 더 많은 정보는 해당 블로그를 통해 확인할 수 있습니다.",
+      "title": "GPT-5.6, OpenAI의 최신 모델이 Figma에서 사용 가능",
+      "summary": "OpenAI의 최신 모델 GPT-5.6이 Figma Make에서 사용할 수 있게 되었다. 모든 요금제에서 이용 가능하며, 초기 테스트 결과를 블로그에서 확인할 수 있다.",
+      "summary_full": "OpenAI의 최신 모델인 GPT-5.6이 Figma Make에서 제공된다. 사용자는 Figma Make 채팅 박스에서 모델 선택기를 열어 GPT-5.6을 선택할 수 있다. 이 모델은 모든 요금제에서 이용 가능하며, 초기 테스트 결과에 대한 자세한 내용은 블로그를 통해 확인할 수 있다. Figma 사용자들에게 새로운 기능을 제공하는 중요한 업데이트이다.",
       "keywords": [
         "GPT-5.6",
         "OpenAI",
-        "Figma Make"
+        "Figma"
       ],
       "source": "Figma Release Notes",
       "date": "7월 9일",
       "publishedAt": "2026-07-09T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "trend",
@@ -327,8 +503,8 @@
     {
       "category": "ai",
       "title": "삼성전자, AI 서버용 차세대 SSD 'PM1763' 출시",
-      "summary": "삼성전자가 AI 서버에 최적화된 차세대 SSD 'PM1763'을 출시했다. 이 제품은 LLM 전송 속도를 2배 향상시켜 성능을 크게 개선했다.",
-      "summary_full": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시했다. 이 SSD는 대규모 언어 모델(LLM)의 전송 속도를 2배 향상시켜 데이터 처리 성능을 크게 개선했다. 새로운 기술이 적용되어 AI 연산에 최적화된 성능을 제공하며, 서버 환경에서의 활용도가 높아질 것으로 기대된다. 삼성전자는 이 제품을 통해 AI 시장에서의 경쟁력을 더욱 강화할 계획이다.",
+      "summary": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시했다. 이 제품은 LLM 전송 속도를 2배 향상시켜 성능을 크게 개선했다.",
+      "summary_full": "삼성전자가 새로운 AI 서버용 SSD 'PM1763'을 출시하였다. 이 SSD는 대규모 언어 모델(LLM)의 전송 속도를 2배 향상시켜 데이터 처리 효율성을 높인다. 또한, 차세대 기술이 적용되어 AI 관련 작업에 최적화된 성능을 제공한다. 이로 인해 AI 서버의 성능이 한층 더 강화될 것으로 기대된다.",
       "keywords": [
         "삼성전자",
         "AI 서버",
@@ -338,7 +514,7 @@
       "date": "7월 8일",
       "publishedAt": "2026-07-08T16:36:56.000Z",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuRUxKMnVWZXotWFFKQmgta2tObXp6Q3ZoeWFvd0ZLc3NTak9kU3RRb1J1RU1wTnRBNGZjSk45UVVCZXU1dDNoSnNpYUlRbFBGX3JyWWlkclZPOHFVN2o2UVA0QndJSG9Dcm1ETHZn0gFyQVVfeXFMT1JTeDdRVXVseHZBTkRmZlFFa0ZQeHU3Z3lORnBfbGVsZWVaWE14MnZFQi1kcEVsVk5aTUk4WnhDeXB3eXp6TExhYWtpM1hpSFhtTnRwVE5IdkJBbmJQbklPMXhvU0UtWHJOQWRodHBtTnRn?oc=5",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "ai",
@@ -439,19 +615,18 @@
     {
       "category": "ai",
       "title": "AI 모델의 이중 용도 지식에 대한 오프 스위치",
-      "summary": "AI 모델에서 이중 용도 지식을 제어할 수 있는 방법을 제안한다. 이 연구는 AI의 안전성과 윤리를 고려한 기술적 접근을 다룬다.",
-      "summary_full": "이 연구에서는 AI 모델의 이중 용도 지식을 안전하게 관리하기 위한 오프 스위치 개념을 소개한다. 이러한 접근은 AI의 잠재적인 위험을 줄이고, 기술의 윤리적 사용을 촉진하는 데 기여할 수 있다. 연구자들은 이 오프 스위치가 AI 시스템의 신뢰성을 높이는 데 중요한 역할을 할 것이라고 주장한다. 궁극적으로, 이 기술은 AI의 발전과 사회적 책임 간의 균형을 맞추는 데 도움을 줄 수 있다.",
+      "summary": "AI 모델의 이중 용도 지식을 제어하기 위한 오프 스위치의 필요성을 다룬다. 이러한 기능은 안전성과 윤리를 고려한 AI 개발에 중요한 역할을 할 수 있다.",
+      "summary_full": "AI 모델이 이중 용도로 사용될 수 있는 지식을 포함할 때, 이를 안전하게 관리하기 위한 오프 스위치의 필요성이 대두된다. 이 기능은 AI의 잠재적 위험을 줄이고, 윤리적인 사용을 보장하는 데 기여할 수 있다. 연구자들은 이러한 오프 스위치가 AI 시스템의 안전성을 높이고, 부정적인 결과를 예방하는 데 필수적이라고 주장한다. 따라서 AI 개발에 있어 이러한 기능을 통합하는 것이 중요하다.",
       "keywords": [
         "AI 모델",
-        "이중 용도 지식",
-        "안전성",
-        "윤리적 사용"
+        "이중 용도",
+        "안전성"
       ],
       "source": "Anthropic Research",
       "date": "7월 8일",
       "publishedAt": "2026-07-08T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/off-switch-dual-use",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "industry",
@@ -535,9 +710,9 @@
     },
     {
       "category": "frontend",
-      "title": "강력한 CSS border-shape 속성 준비하기",
-      "summary": "새로운 shape() 함수와 corner-shape 속성이 추가되었으며, 이제 border-shape 속성도 등장했다. CSS에서 형태를 만드는 데 필요한 다양한 기능들이 추가되고 있다.",
-      "summary_full": "최근에 shape() 함수와 corner-shape 속성이 도입되었고, 이제 border-shape 속성도 추가되었다. CSS에서 형태를 만드는 데 필요한 다양한 기능들이 계속해서 발전하고 있다. 이러한 새로운 속성들은 웹 디자인에 더욱 창의적인 가능성을 열어준다. CSS 형태에 관심이 없는 사람들은 이러한 기능들이 언제 추가되었는지 놓쳤을 수도 있다.",
+      "title": "강력한 CSS border-shape 속성 준비하기!",
+      "summary": "새로운 shape() 함수와 corner-shape 속성이 추가되었으며, 이제 border-shape 속성도 등장했다. CSS에서 다양한 형태를 만드는 데 필요한 요소들이 점점 늘어나고 있다.",
+      "summary_full": "최근에 shape() 함수와 corner-shape 속성이 추가되었고, 이제 border-shape 속성이 새롭게 등장했다. 이러한 기능들은 CSS에서 다양한 형태를 만드는 데 큰 도움이 된다. CSS 형태에 관심이 없다면 이러한 기능들이 출시되었을 때 놓쳤을 수도 있다. 이번 기회에 이들 속성에 대해 간략히 살펴보자.",
       "keywords": [
         "CSS",
         "border-shape",
@@ -547,7 +722,7 @@
       "date": "7월 7일",
       "publishedAt": "2026-07-07T15:14:00.000Z",
       "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "design",
@@ -1049,7 +1224,7 @@
       "category": "ai",
       "title": "구글 딥마인드와 A24, 최초의 연구 파트너십 발표",
       "summary": "구글 딥마인드와 A24가 혁신적인 연구 파트너십을 체결했다. 이 협력은 인공지능과 영화 제작의 융합을 목표로 한다.",
-      "summary_full": "구글 딥마인드와 A24가 최초의 연구 파트너십을 발표했다. 이 협력은 인공지능 기술을 활용하여 영화 제작 과정에 혁신을 가져오는 것을 목표로 한다. 양사는 영화 산업의 미래를 탐구하고, AI의 잠재력을 최대한 활용하기 위해 협력할 예정이다. 이는 기술과 예술의 경계를 허물며 새로운 창작 방식을 제시할 것으로 기대된다.",
+      "summary_full": "구글 딥마인드와 A24가 최초의 연구 파트너십을 발표했다. 이 협력은 인공지능 기술을 활용하여 영화 제작 과정에 혁신을 가져오는 것을 목표로 한다. 양사는 데이터 분석과 AI 모델 개발을 통해 창의적인 콘텐츠 제작을 지원할 예정이다. 이번 파트너십은 영화 산업에 새로운 가능성을 열어줄 것으로 기대된다.",
       "keywords": [
         "구글 딥마인드",
         "A24",
@@ -1059,7 +1234,7 @@
       "date": "7월 3일",
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "design",
@@ -1561,18 +1736,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래되었다. 이러한 역사적 배경을 이해하는 것이 앱 사용보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 입학을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 교육 시스템이 현대 언어 학습 앱에 미친 영향을 살펴보는 것이 중요하다. 결국, 과거의 교육 방법이 현재의 디자인에 어떻게 영향을 미쳤는지를 이해하는 것이 더 큰 통찰을 제공한다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교수법"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "ai",
@@ -2540,18 +2715,18 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여 주간 2000만 회 이상 다운로드되는 글로벌 프로젝트로 성장했다. 이 글에서는 그 과정과 성공의 비결을 공유한다.",
-      "summary_full": "es-toolkit은 Toss의 내부 유틸리티 함수 라이브러리로 시작되었다. 시간이 지나면서 이 라이브러리는 주간 2000만 회 이상 다운로드되는 글로벌 프로젝트로 성장했다. Toss의 프론트엔드 엔지니어링 팀은 이 프로젝트의 발전 과정을 공유하며, 성공적인 오픈소스 프로젝트로 자리 잡기 위한 전략을 설명한다. 이 이야기는 작은 아이디어가 어떻게 큰 변화를 이끌어낼 수 있는지를 보여준다.",
+      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2000만 회 이상 다운로드되는 글로벌 프로젝트로 성장했다.",
+      "summary_full": "es-toolkit은 Toss에서 시작된 작은 유틸리티 함수 라이브러리로, 시간이 지나면서 많은 사용자들에게 사랑받게 되었다. 이 프로젝트는 현재 주간 2000만 회 이상 다운로드되고 있으며, Toss의 핵심 기술로 자리잡았다. Sojin Park과 Dayong Lee는 이 프로젝트의 성장 과정을 공유하며, es-toolkit의 성공적인 사례를 소개한다. 이 이야기는 작은 아이디어가 어떻게 글로벌 프로젝트로 발전할 수 있는지를 보여준다.",
       "keywords": [
         "es-toolkit",
         "Toss",
-        "오픈소스"
+        "프론트엔드 개발"
       ],
       "source": "toss.tech",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "design",
@@ -4752,102 +4927,6 @@
       "collectedAt": "2026-06-23"
     },
     {
-      "category": "design",
-      "title": "잘 만든 AI 영화 추천",
-      "summary": "AI 영화에 대한 추천을 제공합니다. 이 영화를 통해 잘 만들어진 AI 관련 콘텐츠를 찾을 수 있습니다.",
-      "summary_full": "이 기사에서는 잘 만든 AI 영화를 찾고 있는 사람들을 위한 추천 목록을 제공합니다. 다양한 장르와 주제를 다룬 AI 영화들이 소개되며, 각 영화의 특징과 매력을 설명합니다. AI 기술이 어떻게 영화에 활용되고 있는지에 대한 통찰도 포함되어 있습니다. 이 추천을 통해 관객들은 흥미로운 AI 영화를 발견할 수 있을 것입니다.",
-      "keywords": [
-        "AI 영화",
-        "영화 추천",
-        "기술"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "6월 10일",
-      "publishedAt": "2026-06-10T03:35:14.143Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-767/",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "frontend",
-      "title": "AI 에이전트에게 Shopify 스토어 쓰기 권한 부여",
-      "summary": "AI 에이전트가 Shopify 스토어에 직접 쓰기 권한을 부여받았다. 이는 할인 코드 생성, 고객 세그먼트 구축, 실제 주문 데이터를 기반으로 한 WhatsApp 캠페인 초안 작성 등을 가능하게 한다.",
-      "summary_full": "최근 AI 에이전트가 Shopify 스토어에 쓰기 권한을 부여받는 MCP 서버를 출시했다. 이를 통해 AI는 할인 코드 생성, 고객 세그먼트 구축, WhatsApp 캠페인 초안 작성 등의 작업을 수행할 수 있다. 기존의 읽기 전용 에이전트 통합은 일반적이지만, 쓰기 권한을 가진 AI의 도입은 새로운 가능성을 열어준다. 그러나 이러한 변화에는 여러 가지 위험 요소가 존재한다.",
-      "keywords": [
-        "AI 에이전트",
-        "Shopify",
-        "쓰기가능성"
-      ],
-      "source": "dev.to",
-      "date": "6월 10일",
-      "publishedAt": "2026-06-10T03:33:33.000Z",
-      "url": "https://dev.to/favcrm/i-just-gave-ai-agents-write-access-to-shopify-stores-heres-everything-standing-between-them-and-15ei",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "trend",
-      "title": "프레임 없는 샤워 도어 청소의 궁극적인 가이드",
-      "summary": "프레임 없는 샤워 도어는 유지 관리가 쉬운 표면이지만 잘못된 청소 방법으로 쉽게 손상될 수 있다. 올바른 방법으로 주간 관리만 하면 되지만, 잘못된 세제를 사용하면 복구 작업이 필요할 수 있다.",
-      "summary_full": "프레임 없는 샤워 도어는 욕실에서 유지 관리가 가장 쉬운 표면 중 하나이다. 그러나 잘못된 청소 접근 방식으로 인해 쉽게 손상될 수 있다. 올바른 방법으로 주간 관리만 하면 5분이면 충분하지만, 잘못된 세제가 접촉하거나 미네랄 축적이 몇 달 동안 방치되면 2시간의 복구 작업이 필요할 수 있다. 따라서 적절한 청소 방법을 아는 것이 중요하다.",
-      "keywords": [
-        "샤워 도어",
-        "청소 방법",
-        "유지 관리"
-      ],
-      "source": "dev.to",
-      "date": "6월 10일",
-      "publishedAt": "2026-06-10T03:18:28.000Z",
-      "url": "https://dev.to/unikoo/ultimate-guide-to-cleaning-frameless-shower-doors-5enh",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "industry",
-      "title": "세일즈포스, 소비 기반 청구를 위해 m3ter 인수",
-      "summary": "세일즈포스가 소비 기반 청구를 위한 런던 기반의 메터링 및 평가 플랫폼 m3ter를 인수하기로 최종 합의했다. 이번 인수로 m3ter의 인프라가 Agentforce 수익 관리에 통합되어 고객들이 플랫폼을 떠나지 않고도 사용 기반 및 결과 기반 가격 모델을 출시하고 추적할 수 있게 된다.",
-      "summary_full": "세일즈포스가 소비 기반 청구를 위한 런던 기반의 메터링 및 평가 플랫폼 m3ter를 인수하기로 최종 합의했다. 이 거래는 m3ter의 인프라를 Agentforce 수익 관리에 원활하게 통합할 예정이다. 이를 통해 세일즈포스 고객들은 플랫폼을 떠나지 않고도 사용 기반 및 결과 기반 가격 모델을 쉽게 출시하고 추적할 수 있다. 재정적 조건은 공개되지 않았다.",
-      "keywords": [
-        "세일즈포스",
-        "m3ter",
-        "소비 기반 청구"
-      ],
-      "source": "thenextweb.com",
-      "date": "6월 9일",
-      "publishedAt": "2026-06-09T23:22:57.000Z",
-      "url": "https://thenextweb.com/news/salesforce-acquires-m3ter-consumption-billing-agentforce",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "industry",
-      "title": "AI에게 디지털 삶을 맡겨야 할까?",
-      "summary": "AI에게 개인 정보를 제공하는 것의 장단점을 논의한다. 디지털 삶을 AI에 맡기는 것이 과연 안전한지 고민해볼 필요가 있다.",
-      "summary_full": "AI에게 모든 디지털 정보를 제공하는 것이 과연 바람직한지에 대한 질문을 던진다. 개인 정보 보호와 AI의 활용 사이에서 균형을 찾는 것이 중요하다. 사용자들은 AI의 이점과 위험성을 신중히 고려해야 한다. 결국, 디지털 삶을 AI에 맡기는 결정은 개인의 선택에 달려 있다.",
-      "keywords": [
-        "AI",
-        "디지털 삶",
-        "개인 정보 보호"
-      ],
-      "source": "uxdesign.cc",
-      "date": "6월 9일",
-      "publishedAt": "2026-06-09T23:04:27.000Z",
-      "url": "https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "trend",
-      "title": "지중해에서 백상아리가 수백만 년 동안 존재했지만 목격은 드물다",
-      "summary": "최근 지중해에서 촬영된 백상아리 영상은 보존 전략에 유용한 정보를 제공할 가능성이 있다.",
-      "summary_full": "백상아리는 수백만 년 동안 지중해에 존재해왔지만, 그 목격 사례는 매우 드물다. 최근에 촬영된 영상은 이러한 희귀한 사례를 보여준다. 이 영상은 해양 생물 보존 전략을 수립하는 데 중요한 정보를 제공할 수 있다. 연구자들은 이 데이터를 통해 백상아리의 생태와 행동을 더 잘 이해할 수 있을 것으로 기대하고 있다.",
-      "keywords": [
-        "백상아리",
-        "지중해",
-        "보존 전략"
-      ],
-      "source": "wired.com",
-      "date": "6월 9일",
-      "publishedAt": "2026-06-09T22:05:40.000Z",
-      "url": "https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/",
-      "collectedAt": "2026-06-10"
-    },
-    {
       "category": "ai",
       "title": "음성 에이전트는 이중 언어 고객을 처리할 수 있는가? 코드 스위칭 음성에 대한 최전선 ASR 벤치마킹",
       "summary": "이 연구는 이중 언어 고객을 위한 음성 에이전트의 성능을 평가한다. 코드 스위칭 음성을 다루는 최첨단 자동 음성 인식(ASR) 시스템을 벤치마킹한다.",
@@ -4862,56 +4941,6 @@
       "publishedAt": "2026-06-09T19:38:28.000Z",
       "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
       "collectedAt": "2026-06-11"
-    },
-    {
-      "category": "ai",
-      "title": "자연스러운 음성 번역, Gemini 3.5 라이브 번역",
-      "summary": "Gemini 3.5 라이브 번역은 구글 AI 스튜디오, 구글 번역, 구글 미트에서 거의 실시간으로 자연스러운 음성 번역을 제공합니다.",
-      "summary_full": "Gemini 3.5 라이브 번역은 구글의 최신 기술로, 사용자가 자연스럽게 대화할 수 있도록 지원합니다. 이 기능은 특히 다국적 회의나 소통이 필요한 상황에서 유용합니다. 구글 AI 스튜디오와 통합되어 있어 다양한 플랫폼에서 활용할 수 있습니다. 실시간 번역을 통해 언어 장벽을 허물고, 더 원활한 소통을 가능하게 합니다.",
-      "keywords": [
-        "음성 번역",
-        "Gemini 3.5",
-        "구글 AI"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "6월 9일",
-      "publishedAt": "2026-06-09T15:16:25.000Z",
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "ai",
-      "title": "넥스트도어 엔지니어들이 코덱스를 활용해 한계를 넘는 방법",
-      "summary": "넥스트도어의 엔지니어들은 GPT-5.5와 코덱스를 사용하여 재현하기 어려운 문제를 조사하고, 다양한 플랫폼에서 개발하며, 제품 결과에 집중합니다. 이를 통해 효율적인 문제 해결과 혁신적인 제품 개발이 이루어집니다.",
-      "summary_full": "넥스트도어의 엔지니어들은 코덱스를 활용하여 복잡한 문제를 해결하고 있습니다. GPT-5.5와의 통합을 통해 다양한 플랫폼에서의 개발이 가능해졌습니다. 이들은 제품 결과에 집중하여 사용자 경험을 향상시키고 있습니다. 이러한 접근 방식은 엔지니어링 프로세스를 혁신적으로 변화시키고 있습니다.",
-      "keywords": [
-        "넥스트도어",
-        "코덱스",
-        "GPT-5.5",
-        "엔지니어링",
-        "제품 개발"
-      ],
-      "source": "OpenAI News",
-      "date": "6월 9일",
-      "publishedAt": "2026-06-09T12:00:00.000Z",
-      "url": "https://openai.com/index/nextdoor",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "industry",
-      "title": "이광원 iM금융 CISO 인터뷰",
-      "summary": "AI 시대에 은행은 서비스 혁신과 보안 강화를 동시에 고민해야 한다. 이광원 CISO는 AI와 보안의 균형을 강조하며 신뢰 기반의 디지털 금융 보안 체계 구축에 집중하고 있다.",
-      "summary_full": "인공지능(AI) 시대가 본격화되면서 은행권은 AI를 활용한 금융 서비스 확대와 고객 신뢰를 위한 보안 강화를 동시에 고민하고 있다. 최고정보보호책임자(CISO)의 역할이 더욱 중요해진 가운데, 이광원 iM금융 CISO는 AI와 보안의 관계를 ‘저울의 균형’에 비유한다. 그는 AI 기반 서비스 확대가 필수적이지만, 은행업의 특성상 보안 강화도 필수적이라고 설명한다. 올해 임기 3년 차인 그는 변화하는 금융 환경 속에서 신뢰 기반의 디지털 금융 보안 체계 구축에 집중하고 있다.",
-      "keywords": [
-        "AI",
-        "금융 보안",
-        "서비스 혁신"
-      ],
-      "source": "바이라인네트워크",
-      "date": "6월 9일",
-      "publishedAt": "2026-06-09T08:52:21.000Z",
-      "url": "https://byline.network/2026/06/0609-3/",
-      "collectedAt": "2026-06-10"
     },
     {
       "category": "ai",
@@ -4963,22 +4992,6 @@
     },
     {
       "category": "frontend",
-      "title": "스크롤 기반 애니메이션과 전환",
-      "summary": "스크롤 기반 애니메이션과 스크롤 트리거 애니메이션의 차이점을 설명한다. 또한, 컨테이너 쿼리 스크롤 상태와 뷰 전환에 대해서도 논의한다.",
-      "summary_full": "이 글에서는 스크롤 기반 애니메이션과 스크롤 트리거 애니메이션의 유사점과 차이점을 정리한다. 스크롤 기반 애니메이션은 스크롤에 반응하는 애니메이션으로, 사용자가 스크롤할 때 동작한다. 또한, 컨테이너 쿼리 스크롤 상태와 뷰 전환에 대해서도 설명하여, 각각의 개념을 명확히 한다. 이러한 정보는 향후 참고를 위해 정리된 것이다.",
-      "keywords": [
-        "스크롤 애니메이션",
-        "스크롤 트리거",
-        "뷰 전환"
-      ],
-      "source": "css-tricks.com",
-      "date": "6월 8일",
-      "publishedAt": "2026-06-08T13:00:34.000Z",
-      "url": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-      "collectedAt": "2026-06-10"
-    },
-    {
-      "category": "frontend",
       "title": "Skill 품질 관리를 위한 Rubric 설계와 시스템 구현",
       "summary": "토스 AI DX Team의 조민규가 개발한 Skill의 품질 문제를 다루고 있습니다. 이를 해결하기 위해 품질 관리 시스템을 설계하고 구현하는 과정을 설명합니다.",
       "summary_full": "토스 AI DX Team의 조민규는 Skill의 품질 문제를 인식하고 이를 해결하기 위해 Rubric을 설계하고 시스템을 구현했습니다. 개발자가 사용할 수 있는 공용 Skill이 잘 호출되지 않는 문제를 해결하기 위한 방안을 모색하고 있습니다. 다양한 사용 사례와 트리거 키워드를 설정했음에도 불구하고 Skill이 호출되지 않는 상황을 개선하고자 합니다. 최종적으로 Skill의 품질을 높이기 위한 전략을 제시합니다.",
@@ -5010,36 +5023,20 @@
       "collectedAt": "2026-06-16"
     },
     {
-      "category": "design",
-      "title": "디자인 시스템을 AI 준비 상태로 만드는 방법",
-      "summary": "AI 생성 프로토타입은 디자인 시스템의 작은 불일치로 인해 일관된 결과를 제공하지 못한다. 이 기사에서는 이러한 문제를 해결하기 위한 실용적인 가이드를 제시한다.",
-      "summary_full": "AI 생성 프로토타입은 디자인 시스템 내의 미세한 불일치로 인해 일관된 품질을 유지하기 어렵다. 문서화되지 않은 결정, 정리되지 않은 하드코딩 값, AI에 의존하는 디자인 흐름의 이해 부족 등이 원인이다. Atlassian의 Hardik Pandya가 제공하는 유용한 가이드를 통해 이러한 문제를 줄이는 방법을 배울 수 있다. 이 가이드는 디자인 시스템을 AI 친화적으로 만드는 데 중점을 둔다.",
-      "keywords": [
-        "디자인 시스템",
-        "AI 준비",
-        "프로토타입"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "6월 3일",
-      "publishedAt": "2026-06-03T13:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-      "collectedAt": "2026-06-10"
-    },
-    {
       "category": "ai",
-      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션을 통해 산업 전반에 긍정적인 영향을 미칠 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 촉진하기 위한 협력 관계를 구축했다. 이 협업은 최신 AI 기술을 활용하여 산업의 효율성을 높이고, 새로운 비즈니스 기회를 창출하는 데 중점을 두고 있다. 양사는 혁신적인 AI 솔루션을 통해 시장의 요구에 부응하고, 경쟁력을 강화할 계획이다. 이러한 파트너십은 AI 기술의 발전을 가속화하고, 다양한 산업 분야에 긍정적인 변화를 가져올 것으로 예상된다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 협력을 통해 혁신적인 AI 솔루션을 개발할 계획이다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 원주율 산업의 성장을 촉진하기 위한 협력을 시작했다. 두 회사는 AI 기술을 활용하여 새로운 솔루션과 서비스를 개발하는 데 집중할 예정이다. 이러한 협력은 AI 산업의 혁신을 가속화하고, 시장에서의 경쟁력을 높이는 데 기여할 것으로 기대된다. 앞으로의 발전이 주목된다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 네이티브 산업"
+        "AI 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     },
     {
       "category": "design",
@@ -5060,8 +5057,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것입니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드를 다룹니다. 이 트렌드는 기술 발전과 사용자 요구에 따라 진화하고 있으며, 디자인의 방향성을 제시합니다. 사용자 경험을 향상시키기 위한 다양한 접근 방식이 포함되어 있습니다. 이러한 트렌드는 기업들이 경쟁력을 유지하는 데 중요한 역할을 할 것입니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 살펴보며 앞으로의 방향성을 제시한다.",
+      "summary_full": "이 기사에서는 2026년에 주목해야 할 9가지 UX 디자인 트렌드를 소개한다. 각 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다. 이러한 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있으며, 디자이너와 기업에 중요한 통찰을 제공한다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -5071,7 +5068,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-07-10"
+      "collectedAt": "2026-07-11"
     }
   ]
 }
