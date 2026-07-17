@@ -1,22 +1,182 @@
 {
-  "updated": "2026년 7월 16일 AM 02:28",
-  "count": 311,
+  "updated": "2026년 7월 17일 AM 02:31",
+  "count": 310,
   "articles": [
     {
       "category": "industry",
       "title": "Ureka 제작기: 인사이트의 조직 자산화",
-      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 조직의 지식 구조를 만드는 방법을 탐구한다. 이 과정에서 인사이트가 어떻게 조직의 자산으로 전환될 수 있는지를 논의한다.",
-      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 효과적으로 연결하는 방법을 제시한다. 이를 통해 지식 구조를 구축하고, 인사이트가 조직의 자산으로 발전하는 과정을 설명한다. AI 기술을 활용하여 정보의 가치를 극대화하는 방법도 다룬다. 궁극적으로, 조직의 경쟁력을 높이는 데 기여하는 전략을 모색한다.",
+      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 지식 구조를 만드는 방법을 탐구한다. 이를 통해 조직의 인사이트를 자산으로 전환하는 과정을 설명한다.",
+      "summary_full": "Ureka 제작기는 조직 내 흩어진 리서치 리포트를 효과적으로 연결하는 지식 구조를 만드는 방법을 제시한다. 이 과정에서 인사이트가 어떻게 조직의 자산으로 변모할 수 있는지를 탐구한다. AI 기술을 활용하여 정보의 흐름을 최적화하고, 지식 관리의 중요성을 강조한다. 궁극적으로, 조직의 경쟁력을 높이는 데 기여하는 방안을 모색한다.",
       "keywords": [
         "Ureka",
         "지식 구조",
         "조직 자산"
       ],
       "source": "오늘의집 Culture",
-      "date": "7월 16일",
-      "publishedAt": "2026-07-16T02:27:20.001Z",
+      "date": "7월 17일",
+      "publishedAt": "2026-07-17T02:30:18.708Z",
       "url": "https://www.bucketplace.com/post/2026-07-08-ureka-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9E%90%EC%82%B0%EC%9D%B4-%EB%90%A0%EA%B9%8C/",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "design",
+      "title": "무료로 시네마틱 이미지 생성하기",
+      "summary": "무료 도구를 사용하여 시네마틱 이미지를 생성하는 방법을 소개합니다. 다양한 기법과 팁을 통해 퀄리티 높은 이미지를 만들 수 있습니다.",
+      "summary_full": "이 기사에서는 무료로 시네마틱 이미지를 생성하는 방법을 설명합니다. 사용 가능한 도구와 기술을 소개하고, 이미지의 퀄리티를 높이는 팁을 제공합니다. 또한, 시네마틱 이미지의 특징과 활용 방법에 대해서도 논의합니다. 독자들은 이 정보를 통해 자신만의 창의적인 이미지를 제작할 수 있을 것입니다.",
+      "keywords": [
+        "시네마틱 이미지",
+        "무료 도구",
+        "이미지 생성"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "7월 17일",
+      "publishedAt": "2026-07-17T02:30:13.356Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-794/",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "frontend",
+      "title": "PostgreSQL '읽기 전용 트랜잭션에서 CREATE TABLE 실행 불가' 오류 수정 방법",
+      "summary": "PostgreSQL의 읽기 전용 트랜잭션에서 DDL 및 DML 작업이 금지됨을 설명한다. CREATE TABLE 명령어 실행 시 오류가 발생하는 상황을 다룬다.",
+      "summary_full": "PostgreSQL은 읽기 전용 트랜잭션 내에서 DDL, DML 쓰기, 시퀀스 증가를 허용하지 않는다. 이로 인해 CREATE TABLE 명령어를 실행하려 할 때 오류가 발생한다. 이 기사는 이 오류를 해결하는 방법에 대해 설명한다. 사용자들은 트랜잭션 모드를 확인하고 적절한 권한을 설정해야 한다.",
+      "keywords": [
+        "PostgreSQL",
+        "오류 수정",
+        "읽기 전용 트랜잭션"
+      ],
+      "source": "dev.to",
+      "date": "7월 17일",
+      "publishedAt": "2026-07-17T02:28:41.000Z",
+      "url": "https://dev.to/abestdev/how-to-fix-postgresql-cannot-execute-create-table-in-a-read-only-transaction-error-3klj",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "trend",
+      "title": "피트 헤그세스의 ‘고테스토스테론’ 군인 계획은 비과학적 환상이다",
+      "summary": "미국 국방부 장관의 군인들에게 테스토스테론 요법을 시행하겠다는 아이디어는 호르몬의 복잡성을 잘 이해하지 못한 결과이다. 이는 과학적 근거가 부족한 주장으로 보인다.",
+      "summary_full": "피트 헤그세스의 테스토스테론 요법 제안은 군인들의 신체적 성능 향상을 목표로 하고 있다. 그러나 이 계획은 호르몬의 복잡한 작용을 간과하고 있으며, 과학적 근거가 부족하다. 전문가들은 이러한 접근이 실제로 군인들에게 도움이 되지 않을 것이라고 경고하고 있다. 따라서 이 제안은 비과학적인 환상으로 평가받고 있다.",
+      "keywords": [
+        "테스토스테론",
+        "군인",
+        "비과학적"
+      ],
+      "source": "wired.com",
+      "date": "7월 17일",
+      "publishedAt": "2026-07-17T00:28:49.000Z",
+      "url": "https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "trend",
+      "title": "AI 토큰을 소진한 후 친구가 무료로 해결해줬다",
+      "summary": "AI 토큰을 사용해 포트폴리오 사이트를 재구성한 경험을 공유한다. 친구의 도움으로 비용을 절감한 이야기를 담고 있다.",
+      "summary_full": "올해 초, Codex와 Gemini CLI를 사용해 포트폴리오 사이트를 재구성했다. 이 과정에서 많은 시간을 투자하고 AI 토큰을 소진했다. 그러나 친구의 도움으로 무료로 문제를 해결할 수 있었다. 이 경험을 통해 AI 도구의 활용과 비용 절감의 중요성을 강조하고 있다.",
+      "keywords": [
+        "AI 토큰",
+        "포트폴리오 사이트",
+        "비용 절감"
+      ],
+      "source": "dev.to",
+      "date": "7월 16일",
+      "publishedAt": "2026-07-16T22:52:32.000Z",
+      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "industry",
+      "title": "SAID 프레임워크로 디자인 프로세스 재구성",
+      "summary": "AI 기반 워크플로우와 Git이 정적인 인수인계를 대체하고 있습니다. 현대의 워크플로우는 피드백 루프 형태로 작동하여 프로토타입과 생산 강화를 위한 빠른 사이클을 가능하게 합니다.",
+      "summary_full": "AI 기반 워크플로우와 Git이 정적인 인수인계를 지속적이고 사양 중심의 제품 엔진으로 대체하고 있습니다. 현대의 워크플로우는 선형적인 인수인계 대신 피드백 루프 형태로 운영됩니다. 기본적인 전략적 단계가 가이드라인을 설정하여 팀이 프로토타입(루프 A)과 생산 강화를 위한 빠른 사이클(루프 B)로 나눌 수 있도록 합니다. 이러한 접근 방식은 디자인 프로세스를 더욱 효율적으로 만듭니다.",
+      "keywords": [
+        "디자인 프로세스",
+        "AI 워크플로우",
+        "SAID 프레임워크"
+      ],
+      "source": "uxdesign.cc",
+      "date": "7월 16일",
+      "publishedAt": "2026-07-16T22:20:29.000Z",
+      "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "industry",
+      "title": "로블록스, 텍스트 프롬프트로 게임을 만드는 모바일 탭 '빌드' 출시",
+      "summary": "로블록스가 모바일 앱 내에 텍스트 프롬프트를 기본 게임으로 변환하는 '빌드' 기능을 출시했다. 사용자는 코드 작성 없이 간단한 게임을 만들 수 있다.",
+      "summary_full": "로블록스는 수요일에 모바일 앱 내에 새로운 창작 탭인 '빌드'를 발표했다. 이 기능을 통해 사용자는 로블록스 스튜디오를 사용하지 않고도 텍스트 프롬프트를 입력하여 기본적인 플레이 가능한 게임을 만들 수 있다. 예를 들어, 사용자가 아늑한 숲 속 모험 게임을 설명하면, '빌드'가 이를 기반으로 게임을 생성한다. 이는 게임 제작의 접근성을 크게 향상시킬 것으로 기대된다.",
+      "keywords": [
+        "로블록스",
+        "게임 제작",
+        "모바일 앱"
+      ],
+      "source": "thenextweb.com",
+      "date": "7월 16일",
+      "publishedAt": "2026-07-16T21:27:10.000Z",
+      "url": "https://thenextweb.com/news/roblox-build-mobile-ai-game-creation",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "ai",
+      "title": "NVIDIA 네모트론 3 임베드, RTEB에서 1위 달성",
+      "summary": "NVIDIA의 네모트론 3 임베드가 RTEB에서 1위를 기록하며 에이전틱 리트리벌 기술을 발전시켰다. 이 성과는 AI 검색 기술의 새로운 기준을 제시한다.",
+      "summary_full": "NVIDIA의 네모트론 3 임베드가 RTEB에서 1위를 기록하며 에이전틱 리트리벌 기술을 발전시켰다. 이 기술은 정보 검색의 효율성을 높이는 데 기여하고 있다. 네모트론 3 임베드는 AI 검색 기술의 새로운 기준을 제시하며, 향후 다양한 분야에 응용될 가능성이 크다. NVIDIA는 지속적으로 AI 기술을 혁신하여 시장에서의 경쟁력을 강화하고 있다.",
+      "keywords": [
+        "NVIDIA",
+        "네모트론 3",
+        "에이전틱 리트리벌"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "7월 16일",
+      "publishedAt": "2026-07-16T16:01:21.000Z",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "ai",
+      "title": "청소년이 안전한 AI에 접근해야 하는 이유",
+      "summary": "OpenAI는 청소년을 위한 ChatGPT의 안전성을 높이고 있다. 연령에 적합한 보호 조치와 학습 도구, 부모 통제 기능을 제공한다.",
+      "summary_full": "OpenAI는 청소년들이 안전하게 ChatGPT를 사용할 수 있도록 다양한 보호 조치를 마련하고 있다. 이를 통해 연령에 적합한 콘텐츠와 학습 도구를 제공하며, 부모가 자녀의 사용을 관리할 수 있는 통제 기능도 포함하고 있다. 또한, 전문가와의 협력을 통해 더욱 안전한 환경을 조성하고 있다. 이러한 노력은 청소년들이 AI를 안전하게 활용할 수 있도록 돕기 위한 것이다.",
+      "keywords": [
+        "청소년",
+        "AI 안전성",
+        "OpenAI"
+      ],
+      "source": "OpenAI News",
+      "date": "7월 16일",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "ai",
+      "title": "생명 회복력에 대한 우리의 접근법",
+      "summary": "Google DeepMind와 Isomorphic Labs가 생명 회복력 및 AI 모델에 대한 공동 접근법을 공유하고 있다.",
+      "summary_full": "Google DeepMind와 Isomorphic Labs는 생명 회복력에 대한 새로운 접근법을 제시하고 있다. 이들은 AI 모델을 활용하여 생명체의 회복력을 향상시키는 방법을 모색하고 있다. 이러한 연구는 생물학적 시스템의 복원력을 높이는 데 기여할 것으로 기대된다. 두 기관의 협력은 AI와 생명 과학의 융합을 통해 혁신적인 결과를 도출할 가능성을 보여준다.",
+      "keywords": [
+        "생명 회복력",
+        "AI 모델",
+        "Google DeepMind"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "7월 16일",
+      "publishedAt": "2026-07-16T09:30:42.000Z",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "collectedAt": "2026-07-17"
+    },
+    {
+      "category": "industry",
+      "title": "파고네트웍스, 센티넬원과 협력해 ‘하이브리드 MDR’ 출시",
+      "summary": "파고네트웍스가 센티넬원과 협력하여 AI 기반의 ‘하이브리드 MDR’ 서비스를 출시했다. 이 서비스는 24x7 운영과 위협 분석을 결합하여 보안 운영을 강화한다.",
+      "summary_full": "파고네트웍스는 AI를 활용한 사이버 공격 위협이 증가하는 가운데, 센티넬원의 위협 분석 역량을 결합한 ‘하이브리드 MDR’을 출시했다. 이 서비스는 통합 사이버보안 서비스와 24x7 MDR 운영을 결합하여 제공된다. 기자간담회에서 이 서비스의 공식 발표가 이루어졌다. 이를 통해 보안 운영의 속도와 효율성을 높일 예정이다.",
+      "keywords": [
+        "파고네트웍스",
+        "센티넬원",
+        "하이브리드 MDR"
+      ],
+      "source": "바이라인네트워크",
+      "date": "7월 16일",
+      "publishedAt": "2026-07-16T06:19:52.000Z",
+      "url": "https://byline.network/2026/07/16-684/",
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "design",
@@ -67,6 +227,22 @@
       "collectedAt": "2026-07-16"
     },
     {
+      "category": "figma",
+      "title": "코드 기반 화면을 Figma 캔버스에 가져올 때",
+      "summary": "코드 기반 화면을 Figma 캔버스에 가져오면 색상, 글꼴 및 간격이 파일 내의 변수에 연결됩니다. 이는 디자인 레이어로 Make 미리보기를 캔버스에 복사할 때 확인할 수 있습니다.",
+      "summary_full": "Figma 캔버스에 코드 기반 화면을 가져오면 색상, 글꼴 및 간격이 하드코딩된 값이 아닌 파일 내의 변수에 바인딩됩니다. 사용자는 Make 미리보기를 디자인 레이어로 캔버스에 복사할 때 이러한 변화를 확인할 수 있습니다. 이 기능은 디자인 작업의 효율성을 높이고 일관성을 유지하는 데 도움을 줍니다. 따라서 디자이너는 더 유연하게 작업할 수 있습니다.",
+      "keywords": [
+        "Figma",
+        "코드 기반 디자인",
+        "디자인 효율성"
+      ],
+      "source": "Figma Release Notes",
+      "date": "7월 16일",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-07-17"
+    },
+    {
       "category": "trend",
       "title": "보스가 스컬캔디의 저가 이미지 개선에 도움을 줄 수 있을까?",
       "summary": "스컬캔디의 오디오 제품은 뛰어난 음질이나 노이즈 캔슬링으로 유명하지 않지만, 최신 헤드폰이 보스의 도움을 받아 변화를 꾀하고 있다.",
@@ -101,18 +277,18 @@
     {
       "category": "frontend",
       "title": "포인터 이벤트",
-      "summary": "포인터 이벤트 속성은 요소가 클릭, 호버 상태 등과 같은 포인터 이벤트의 대상이 될 수 있는지를 제어한다. 이를 통해 브라우저가 포인터가 해당 요소 위에 있을 때 상호작용 가능한 요소로 처리할지를 결정할 수 있다.",
-      "summary_full": "포인터 이벤트 속성은 요소가 클릭, 호버 상태 등과 같은 포인터 이벤트의 대상이 될 수 있는지를 제어한다. 이 속성을 사용하면 브라우저가 포인터가 해당 요소 위에 있을 때 상호작용 가능한 요소로 처리할지를 결정할 수 있다. 예를 들어, .no-pointer-events 클래스는 pointer-events: none;을 사용하여 해당 요소가 포인터 이벤트를 수신하지 않도록 설정한다. 이 속성을 이해하기 위해서는 기본적인 작동 방식을 아는 것이 도움이 된다.",
+      "summary": "pointer-events 속성은 요소가 클릭, 호버 상태 등 포인터 이벤트의 대상이 될 수 있는지를 제어합니다.",
+      "summary_full": "pointer-events 속성은 요소가 포인터 이벤트의 대상이 될 수 있는지를 결정합니다. 이를 통해 브라우저가 요소를 상호작용 가능한 것으로 취급할지 여부를 설정할 수 있습니다. 이 속성은 CSS-Tricks에서 처음 작성되어 소개되었습니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
-        "포인터 이벤트",
+        "pointer-events",
         "CSS",
-        "상호작용"
+        "인터랙티브 요소"
       ],
       "source": "css-tricks.com",
       "date": "7월 15일",
       "publishedAt": "2026-07-15T19:57:51.000Z",
       "url": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "industry",
@@ -164,9 +340,9 @@
     },
     {
       "category": "design",
-      "title": "사람들은 AI를 더 원하지 않는다",
-      "summary": "많은 기업들이 사람들이 AI 기능과 제품을 원한다고 가정하지만, 실제로는 그렇지 않다는 주장을 다룬다. AI 리더들이 상상하는 방식의 AI는 사람들에게 환영받지 못하고 있다.",
-      "summary_full": "많은 기업들이 사람들이 AI 기능과 제품을 원한다고 가정하지만, 실제로는 그렇지 않다는 주장을 다룬다. 사람들은 기존의 낡은 관행과 고장난 작업 방식을 대체할 마법 같은 AI 솔루션을 원하지 않는다. AI 리더들이 상상하는 방식의 AI는 사람들에게 환영받지 못하고 있으며, 많은 AI 기능이 기대에 미치지 못하고 있다. 따라서 기업들은 AI 도입에 대한 사람들의 진정한 욕구를 이해해야 할 필요가 있다.",
+      "title": "사람들은 더 많은 AI를 원하지 않는다",
+      "summary": "많은 기업들이 사람들은 AI 기능과 제품을 원한다고 가정하지만, 실제로는 그렇지 않다는 연구 결과가 있다. 사람들은 기존의 방식이 아닌 AI의 특정 방식에 대해 회의적이다.",
+      "summary_full": "많은 기업들이 사람들은 AI 기능과 제품을 원한다고 가정하지만, 실제로는 그렇지 않다는 연구 결과가 있다. 사람들은 새로운 AI 기능이나 제품이 기존의 낡은 방식을 대체할 것이라는 기대에 회의적이다. AI 리더들이 구상하는 방식의 AI에 대한 수요는 낮아 보인다. 이는 많은 AI 기능이 실제로 사람들에게 필요하지 않다는 것을 시사한다.",
       "keywords": [
         "AI",
         "기술",
@@ -176,7 +352,7 @@
       "date": "7월 15일",
       "publishedAt": "2026-07-15T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "design",
@@ -357,50 +533,36 @@
     {
       "category": "ai",
       "title": "LTM, Anthropic과 협력하여 Claude 채택 가속화 및 기업 서비스 확대",
-      "summary": "LTM이 Anthropic과 파트너십을 맺고 Claude의 채택을 촉진하고 기업 서비스의 범위를 확장한다. 이 협력은 AI 기술의 활용을 극대화하는 데 중점을 두고 있다.",
-      "summary_full": "LTM이 Anthropic과 협력하여 Claude의 채택을 가속화하고 기업 서비스의 범위를 확장하는 프로젝트를 시작했다. 이 파트너십은 인공지능 기술을 활용하여 기업의 효율성을 높이고, 다양한 산업 분야에서의 적용 가능성을 모색하는 데 중점을 두고 있다. Claude는 최신 AI 모델로, 기업들이 더 나은 의사결정을 할 수 있도록 지원하는 역할을 한다. LTM은 이 협력을 통해 AI 솔루션의 시장 점유율을 높일 계획이다.",
+      "summary": "LTM이 Anthropic과 파트너십을 체결하여 Claude의 채택을 가속화하고 기업 고객을 위한 서비스를 확장한다. 이 협력은 인공지능 기술의 발전과 기업의 디지털 전환을 지원하는 데 중점을 둔다.",
+      "summary_full": "LTM이 Anthropic과의 파트너십을 통해 Claude의 채택을 가속화하고 기업 고객을 위한 서비스 제공을 확대한다. 이번 협력은 인공지능 기술을 활용하여 기업의 디지털 전환을 지원하는 데 중점을 두고 있다. LTM은 Anthropic의 기술을 통해 고객에게 보다 향상된 솔루션을 제공할 계획이다. 이로 인해 기업들이 AI를 보다 효과적으로 활용할 수 있을 것으로 기대된다.",
       "keywords": [
         "LTM",
         "Anthropic",
-        "Claude"
+        "Claude",
+        "AI",
+        "기업 서비스"
       ],
       "source": "Google News Anthropic",
       "date": "7월 14일",
       "publishedAt": "2026-07-14T01:30:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uNkdqRDlSaGtYSVFSZlhnV1pndHJTTXlRZUREN19BN1ZaNWFGWGRCcnJFbW55Q2pFWnoyRlJVOGQ2c0Q4c0hmcTdmS1BtcTlxQl84T21hSXlLTVVTM3Jj?oc=5",
-      "collectedAt": "2026-07-16"
-    },
-    {
-      "category": "figma",
-      "title": "관리자는 이제 베타 기능의 크레딧 사용 내역을 CSV 파일로 다운로드할 수 있습니다.",
-      "summary": "관리자는 베타 기능에서의 크레딧 사용을 CSV 파일로 다운로드할 수 있게 되었습니다. 이를 통해 AI 사용에 대한 보다 포괄적인 이해와 미래 지출 예측이 가능해집니다.",
-      "summary_full": "관리자는 이제 베타 기능에서의 크레딧 사용 내역을 CSV 파일로 다운로드할 수 있습니다. 이 기능은 조직 및 기업 계획에서 사용할 수 있습니다. 이를 통해 관리자는 AI 사용에 대한 보다 포괄적인 이해를 얻고, 미래의 지출을 더 잘 예측할 수 있습니다. 이로 인해 예산 관리와 효율적인 자원 배분이 가능해질 것입니다.",
-      "keywords": [
-        "관리자",
-        "CSV 파일",
-        "크레딧 사용"
-      ],
-      "source": "Figma Release Notes",
-      "date": "7월 14일",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "ai",
       "title": "캐나다의 클로드 활용: 앤트로픽 경제 지수의 발견",
-      "summary": "이 연구는 캐나다가 클로드를 어떻게 활용하는지를 분석합니다. 앤트로픽 경제 지수의 결과를 통해 경제적 영향을 평가합니다.",
-      "summary_full": "이 연구는 캐나다에서 클로드의 활용 방식과 그 경제적 영향을 다룹니다. 앤트로픽 경제 지수를 통해 수집된 데이터를 기반으로 분석이 이루어집니다. 연구 결과는 클로드가 캐나다 경제에 미치는 긍정적 및 부정적 영향을 보여줍니다. 이를 통해 정책 결정자들에게 중요한 통찰을 제공합니다.",
+      "summary": "캐나다가 클로드를 어떻게 활용하는지에 대한 연구 결과를 다룬다. 앤트로픽 경제 지수의 분석을 통해 경제적 통찰을 제공한다.",
+      "summary_full": "이 연구는 캐나다에서 클로드라는 AI 도구의 활용 방식을 탐구한다. 앤트로픽 경제 지수를 통해 얻은 데이터와 통찰을 바탕으로 경제적 영향을 분석한다. 연구 결과는 정책 결정 및 경제 전략 수립에 중요한 정보를 제공한다. 클로드의 활용 사례는 다른 국가에도 적용 가능한 모델을 제시할 수 있다.",
       "keywords": [
         "캐나다",
         "클로드",
-        "경제 지수"
+        "앤트로픽 경제 지수"
       ],
       "source": "Anthropic Research",
       "date": "7월 14일",
       "publishedAt": "2026-07-14T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "trend",
@@ -2377,17 +2539,17 @@
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
       "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 시험에 필요한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 증명해야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 영향을 미쳤다. 따라서 언어 학습 방법의 기원을 이해하는 것이 중요하다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 과거의 교육 방법을 이해하는 것이 현대 언어 학습에 더 큰 통찰을 제공할 수 있다.",
       "keywords": [
-        "언어 앱",
-        "라틴어",
-        "교육 방법"
+        "언어학습",
+        "디자인",
+        "교육방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "ai",
@@ -3355,8 +3517,8 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2000만 회 이상 다운로드되는 프로젝트로 성장했다. 이 과정에서 Toss의 핵심 기술로 자리 잡았다.",
-      "summary_full": "es-toolkit은 Toss의 작은 유틸리티 함수 라이브러리로 시작되었다. 시간이 지나면서 이 라이브러리는 전 세계적으로 2000만 회 이상 다운로드되는 프로젝트로 성장했다. Toss의 프론트엔드 엔지니어링 팀은 이 라이브러리를 통해 많은 개발자들에게 도움을 주고 있다. 결국 es-toolkit은 Toss의 핵심 기술로 자리 잡았다.",
+      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여 전 세계에서 주간 2천만 회 이상 다운로드되는 프로젝트로 성장했다. 이 글에서는 es-toolkit의 발전 과정과 Toss에서의 경험을 공유한다.",
+      "summary_full": "es-toolkit은 Toss에서 시작된 작은 유틸리티 함수 라이브러리로, 점차 글로벌 프로젝트로 성장하게 되었다. 이 라이브러리는 현재 매주 2천만 회 이상 다운로드되고 있으며, Toss의 핵심 프로젝트로 자리잡았다. Toss의 프론트엔드 엔지니어링 팀은 이 프로젝트의 성공적인 발전 과정을 공유하고자 한다. 이를 통해 다른 개발자들에게도 영감을 주고자 한다.",
       "keywords": [
         "es-toolkit",
         "Toss",
@@ -3366,7 +3528,7 @@
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "design",
@@ -3549,20 +3711,18 @@
     {
       "category": "ai",
       "title": "카페24, LLM 라우터 출시",
-      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 기술은 다양한 언어 모델을 효율적으로 관리할 수 있도록 지원한다.",
-      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하며 GPT와 클로드의 통합 운용을 가능하게 했다. 이 라우터는 사용자들이 다양한 언어 모델을 효과적으로 활용할 수 있도록 돕는다. 카페24는 이를 통해 고객에게 더 나은 서비스와 솔루션을 제공할 계획이다. 이번 출시로 인해 기업의 AI 활용도가 더욱 높아질 것으로 기대된다.",
+      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 언어 모델을 효율적으로 관리하고 활용할 수 있도록 돕는다.",
+      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하여 GPT와 클로드를 통합 운용할 수 있는 기능을 제공한다. 이 라우터는 사용자가 여러 언어 모델을 효율적으로 관리하고 활용할 수 있게 설계되었다. 이를 통해 기업들은 AI 기술을 보다 쉽게 도입하고 활용할 수 있을 것으로 기대된다. 카페24는 이 제품을 통해 AI 기반 서비스의 경쟁력을 높이려는 전략을 취하고 있다.",
       "keywords": [
         "카페24",
         "LLM 라우터",
-        "GPT",
-        "클로드",
-        "AI 기술"
+        "AI 통합 운용"
       ],
       "source": "Google News AI (KR)",
       "date": "6월 23일",
       "publishedAt": "2026-06-23T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Rd3o4YlhQQU51OGlYUVB6ZEx4ejRxcWp4TFhqMjNhTjFPNXZHaHhwUDlNbVl6Y3ZkX1JFa0Rqb19scmtRWE9fU2dxSVNrUQ?oc=5",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "design",
@@ -4622,86 +4782,6 @@
     },
     {
       "category": "frontend",
-      "title": "Next.js와 SVG로 만드는 숨기기 게임",
-      "summary": "PC 파티 게임 Meccha Chameleon에서 영감을 받아, 숨는 사람들이 벽이나 상자와 같은 표면에 맞춰 몸을 칠하는 게임을 개발했다.",
-      "summary_full": "Meccha Chameleon이라는 PC 파티 게임에서 영감을 받아, 숨는 사람들이 벽이나 상자와 같은 표면에 맞춰 몸을 칠하고 얼어붙는 게임 아이디어에 집착하게 되었다. 이 프로젝트의 첫 번째 부분은 camo 'lab'로, 사용자가 표면을 선택하면 정확한 색상, 패턴, 포즈를 제공한다. 이 과정은 인라인 SVG를 활용하여 구현되었다.",
-      "keywords": [
-        "Next.js",
-        "SVG",
-        "게임 개발"
-      ],
-      "source": "dev.to",
-      "date": "6월 16일",
-      "publishedAt": "2026-06-16T03:58:42.000Z",
-      "url": "https://dev.to/hblai_filmlook/building-a-paint-to-hide-browser-minigame-with-nextjs-and-svg-18fn",
-      "collectedAt": "2026-06-16"
-    },
-    {
-      "category": "design",
-      "title": "AI 에이전트로 브랜드 로고 모션 제작",
-      "summary": "AI 에이전트를 활용하여 브랜드 로고의 모션을 만드는 방법을 소개합니다. Lottie를 이용한 효과적인 애니메이션 제작 과정이 설명됩니다.",
-      "summary_full": "이 영상에서는 AI 에이전트를 사용하여 브랜드 로고에 애니메이션을 추가하는 방법을 다룹니다. Lottie라는 도구를 통해 쉽게 모션을 구현할 수 있는 기술을 배울 수 있습니다. 다양한 예시와 함께 실습을 통해 이해를 돕습니다. 브랜드 아이덴티티를 강화하는 데 유용한 정보가 포함되어 있습니다.",
-      "keywords": [
-        "AI 에이전트",
-        "브랜드 로고",
-        "Lottie"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "6월 16일",
-      "publishedAt": "2026-06-16T03:58:08.796Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-772/",
-      "collectedAt": "2026-06-16"
-    },
-    {
-      "category": "trend",
-      "title": "xAI, 국가 안보에 필수적이라는 DOJ 변호사 주장",
-      "summary": "xAI의 오염 가스 터빈에 대한 소송을 기각하기 위해 법무부는 이 회사가 군사 작전에 필수적이라고 주장했다. 이 주장은 이란 전쟁을 포함한 여러 군사 작전과 관련이 있다.",
-      "summary_full": "미국 법무부는 xAI의 오염 가스 터빈에 대한 소송을 기각하기 위해 이 회사가 국가 안보에 필수적이라고 주장했다. 변호사들은 xAI가 군사 작전에서 중요한 역할을 하고 있다고 강조했다. 특히 이란 전쟁과 같은 군사 작전에서의 중요성을 언급했다. 이러한 주장은 xAI의 법적 문제와 국가 안보의 연관성을 부각시키고 있다.",
-      "keywords": [
-        "xAI",
-        "국가 안보",
-        "법무부 소송"
-      ],
-      "source": "wired.com",
-      "date": "6월 16일",
-      "publishedAt": "2026-06-16T03:06:37.000Z",
-      "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
-      "collectedAt": "2026-06-16"
-    },
-    {
-      "category": "trend",
-      "title": "웹은 Material You를 위해 만들어지지 않았다 (하지만 우리는 그렇게 만든다)",
-      "summary": "구글의 Material Design 3는 안드로이드에서 매끄럽고 유동적으로 보인다. 그러나 웹 개발자에게는 이러한 디자인 요소를 브라우저에 적용하는 것이 큰 기술적 도전이다.",
-      "summary_full": "구글의 Material Design 3는 안드로이드에서 자연스럽고 유동적인 디자인을 제공한다. 하지만 웹 개발자들은 이러한 표현적인 테마와 동적인 색상, 둥근 형태를 웹에 구현하는 데 어려움을 겪고 있다. 이 블로그 글에서는 MD3를 웹으로 이전하는 과정에서의 기술적 장애물에 대해 깊이 있게 탐구한다. 웹에서 Material You를 구현하기 위한 다양한 도전과 해결책을 논의한다.",
-      "keywords": [
-        "Material Design 3",
-        "웹 개발",
-        "디자인 도전"
-      ],
-      "source": "dev.to",
-      "date": "6월 16일",
-      "publishedAt": "2026-06-16T02:42:12.000Z",
-      "url": "https://dev.to/matin676/the-web-wasnt-built-for-material-you-but-we-build-it-anyway-2gdc",
-      "collectedAt": "2026-06-16"
-    },
-    {
-      "category": "industry",
-      "title": "오픈라우터, 멀티 AI 모델 병렬 실행 도구 ‘퓨전’ 출시",
-      "summary": "오픈라우터가 멀티 AI 모델을 병렬로 실행할 수 있는 도구 ‘퓨전’을 출시했다. 이를 통해 비용 절감과 성능 향상을 기대할 수 있다.",
-      "summary_full": "오픈라우터는 12일 멀티 AI 모델 채택을 지원하는 도구 ‘퓨전’을 출시했다. 이 도구는 여러 AI 모델을 병렬로 실행할 수 있도록 설계되었다. 오픈라우터는 이를 통해 클로드 페이블5를 단독으로 사용하는 것보다 비용을 크게 절감할 수 있다고 밝혔다. 또한, 더 나은 성능을 경험할 수 있다고 강조했다.",
-      "keywords": [
-        "오픈라우터",
-        "퓨전",
-        "AI 모델"
-      ],
-      "source": "바이라인네트워크",
-      "date": "6월 16일",
-      "publishedAt": "2026-06-16T01:13:25.000Z",
-      "url": "https://byline.network/2026/06/16-653/",
-      "collectedAt": "2026-06-16"
-    },
-    {
-      "category": "frontend",
       "title": "디자이너가 시안 대신 앱을 만든 이유",
       "summary": "디자이너는 AI를 활용해 직접 동작하는 시안을 만들 수 있게 되었다. 이로 인해 디자인과 개발 간의 번역 과정이 줄어들었다.",
       "summary_full": "디자인 과정에서 AI의 도입으로 디자이너는 시안 대신 실제 동작하는 앱을 제작할 수 있게 되었다. 과거에는 디자인을 문서로 설명하고 개발자가 구현하는 과정이 필요했으나, AI와 함께 코드를 다루면서 이 과정이 간소화되었다. 이번 글에서는 토스의 underlay 컴포넌트를 만들며 경험한 변화를 다룬다. 특히, 사용자가 경험을 마친 후의 '데드엔드' 화면을 어떻게 개선할 수 있을지에 대한 논의도 포함된다.",
@@ -4765,54 +4845,6 @@
       "collectedAt": "2026-06-17"
     },
     {
-      "category": "industry",
-      "title": "캐나다, 기업의 개인 데이터 이용으로 인한 가격 차별 금지 법안 도입",
-      "summary": "캐나다 정부는 개인 데이터를 이용해 소비자에게 더 높은 가격을 부과하는 기업에 대한 새로운 제한을 포함한 법안을 발표했다. 이 법안은 1998년에 제정된 개인정보 보호법을 대체할 예정이다.",
-      "summary_full": "캐나다 정부는 개인 정보를 이용한 가격 차별을 금지하는 법안을 도입했다. 새로운 법안인 C-36은 개인정보 보호 및 소비자 데이터 보호를 목표로 하고 있다. 이 법안은 1998년에 제정된 기존 법률을 대체할 예정이다. 그러나 구체적인 세부사항은 아직 공개되지 않았다.",
-      "keywords": [
-        "캐나다",
-        "개인정보 보호",
-        "소비자 데이터"
-      ],
-      "source": "thenextweb.com",
-      "date": "6월 15일",
-      "publishedAt": "2026-06-15T23:50:49.000Z",
-      "url": "https://thenextweb.com/news/canada-surveillance-pricing-privacy-bill-carney-pipeda-replacement",
-      "collectedAt": "2026-06-16"
-    },
-    {
-      "category": "industry",
-      "title": "게임이 아닌 보드",
-      "summary": "AI 제품은 조각, 카드, 화면으로 구성되어 있다. 그러나 이 게임은 아무도 디자인하지 않았다.",
-      "summary_full": "AI 제품은 다양한 구성 요소로 이루어져 있지만, 그 게임의 규칙이나 디자인은 존재하지 않는다. 이는 사용자 경험(UX) 디자인의 중요성을 강조한다. 게임을 설계하는 과정이 필요하며, 이를 통해 더 나은 사용자 경험을 제공할 수 있다. 결국, 제품의 성공은 게임의 설계에 달려 있다.",
-      "keywords": [
-        "AI 제품",
-        "UX 디자인",
-        "게임 설계"
-      ],
-      "source": "uxdesign.cc",
-      "date": "6월 15일",
-      "publishedAt": "2026-06-15T22:18:47.000Z",
-      "url": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-06-16"
-    },
-    {
-      "category": "ai",
-      "title": "OpenAI 파트너 네트워크 소개",
-      "summary": "OpenAI가 파트너 네트워크를 출시했습니다. 이를 통해 전 세계 파트너들이 기업 AI 도입과 변화를 가속화할 수 있도록 1억 5천만 달러를 투자합니다.",
-      "summary_full": "OpenAI는 파트너 네트워크를 새롭게 출시하며, 이를 통해 글로벌 파트너들이 기업 AI의 도입과 배포, 변화를 가속화할 수 있도록 지원합니다. 이 네트워크를 위해 OpenAI는 총 1억 5천만 달러를 투자할 예정입니다. 이는 기업들이 AI 기술을 효과적으로 활용할 수 있도록 돕기 위한 전략의 일환입니다. OpenAI는 파트너들과 협력하여 AI 혁신을 촉진하고자 합니다.",
-      "keywords": [
-        "OpenAI",
-        "파트너 네트워크",
-        "AI 도입"
-      ],
-      "source": "OpenAI News",
-      "date": "6월 14일",
-      "publishedAt": "2026-06-14T17:00:00.000Z",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "collectedAt": "2026-06-16"
-    },
-    {
       "category": "ai",
       "title": "olmo-eval: 모델 개발 루프를 위한 평가 작업대",
       "summary": "olmo-eval은 모델 개발 과정에서 평가를 지원하는 도구입니다. 이 작업대는 모델 성능을 체계적으로 분석하고 개선하는 데 도움을 줍니다.",
@@ -4827,22 +4859,6 @@
       "publishedAt": "2026-06-12T15:56:10.000Z",
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
       "collectedAt": "2026-06-17"
-    },
-    {
-      "category": "design",
-      "title": "휴머노이드 로봇이 인류에 미치는 영향",
-      "summary": "휴머노이드 로봇의 발전이 인류의 심리적, 경제적, 존재론적 변화를 초래하고 있다. 인간과 기계의 경계가 모호해짐에 따라 우리는 새로운 현실에 직면하고 있다.",
-      "summary_full": "과거 수십 년간 공상과학 소설은 '안드로이드 혁명'이 먼 미래의 환상이라고 여겼다. 그러나 현재는 그 현실이 빠르게 다가오고 있다. 인간과 기계의 경계가 흐려지면서 우리는 심리적, 경제적, 존재론적 변화에 직면하게 되었다. 최근에 본 휴머노이드 로봇의 모습은 나에게 큰 충격을 주었다.",
-      "keywords": [
-        "휴머노이드 로봇",
-        "인류의 변화",
-        "기계와 인간의 경계"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "6월 12일",
-      "publishedAt": "2026-06-12T08:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-      "collectedAt": "2026-06-16"
     },
     {
       "category": "ai",
@@ -4861,22 +4877,6 @@
       "publishedAt": "2026-06-11T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU19oY2c5ZE5KTFphU3NGTXpuTnpUOVlxN2EtbnQ1dzVjWGdzMXJlNTVOTXZicnk2cDdVcEJsREV3eDhVZlhObHdwMGMtYy1LZVFBcWFJUEtCcFNtRDl0VHBNVXhCWUJaZk1DejUtQ0pmSWh5XzZiQ05BdGhtOElhLW5lZm5GWWlfb29aTlU5QTFfbWhQc2dHZlR0aEMzSnc3VTczUUZfUjE?oc=5",
       "collectedAt": "2026-06-17"
-    },
-    {
-      "category": "ai",
-      "title": "DiffusionGemma: 4배 빠른 텍스트 생성",
-      "summary": "DiffusionGemma는 텍스트 생성을 4배 빠르게 수행하는 기술이다. 이 기술은 효율성을 극대화하여 더 빠른 결과를 제공한다.",
-      "summary_full": "DiffusionGemma는 최신 기술을 활용하여 텍스트 생성 속도를 4배 향상시킨다. 이를 통해 사용자들은 더 짧은 시간 안에 원하는 텍스트를 생성할 수 있다. 이 기술은 다양한 분야에서 활용 가능하며, 특히 콘텐츠 제작에 유용하다. 효율적인 텍스트 생성은 생산성을 높이는 데 기여할 것으로 기대된다.",
-      "keywords": [
-        "DiffusionGemma",
-        "텍스트 생성",
-        "속도 향상"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "6월 10일",
-      "publishedAt": "2026-06-10T16:24:11.000Z",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "collectedAt": "2026-06-16"
     },
     {
       "category": "ai",
@@ -4928,25 +4928,9 @@
     },
     {
       "category": "ai",
-      "title": "생물학에서의 에이전트 개발",
-      "summary": "생물학 분야에서 에이전트의 발전을 위한 기초가 마련되고 있다. 이는 생물학적 시스템의 이해를 높이고 새로운 기술 개발에 기여할 것으로 기대된다.",
-      "summary_full": "생물학적 에이전트의 발전이 생물학 연구에 중요한 기여를 할 것으로 보인다. 이러한 에이전트는 생물학적 시스템의 복잡성을 이해하는 데 도움을 줄 수 있다. 또한, 새로운 기술과 응용 프로그램의 개발을 촉진할 것으로 예상된다. 이 연구는 생물학적 에이전트의 미래 가능성을 제시하고 있다.",
-      "keywords": [
-        "생물학",
-        "에이전트",
-        "기술 발전"
-      ],
-      "source": "Anthropic Research",
-      "date": "6월 8일",
-      "publishedAt": "2026-06-08T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/agents-in-biology",
-      "collectedAt": "2026-06-16"
-    },
-    {
-      "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 발전을 가속화한다. 이를 통해 AI 기술의 혁신과 응용을 촉진할 계획이다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화하기 위한 전략을 발표했다. 이 파트너십은 AI 기술의 혁신을 촉진하고 다양한 산업에 AI 솔루션을 적용하는 데 중점을 두고 있다. 엠미는 미스트랄의 기술력과 자원을 활용하여 시장에서의 경쟁력을 높일 예정이다. 이러한 협력은 AI 기술의 발전을 가속화하고 새로운 비즈니스 기회를 창출할 것으로 기대된다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진하는 데 중점을 둔다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 가속화하기 위한 협력을 시작했다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 AI 솔루션의 효율성을 높이고, 시장에서의 경쟁력을 강화하기 위해 노력할 예정이다. 이러한 파트너십은 AI 산업 전반에 긍정적인 영향을 미칠 것으로 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4956,7 +4940,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     },
     {
       "category": "design",
@@ -4977,8 +4961,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 다룬 기사로, 9가지 주요 트렌드를 소개한다.",
-      "summary_full": "이 기사에서는 2026년의 UX 디자인에 영향을 미칠 9가지 트렌드를 설명한다. 각 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제안한다. UX 디자이너와 기업들이 주목해야 할 요소들을 강조하고 있다.",
+      "summary": "2026년의 UX 디자인 방향성을 제시하는 9가지 주요 트렌드를 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함한다.",
+      "summary_full": "2026년을 대비한 UX 디자인 트렌드가 9가지로 정리되었다. 이 트렌드는 사용자 중심의 디자인을 강조하며, 기술 발전과 함께 변화하는 사용자 요구를 반영한다. 각 트렌드는 실용성과 창의성을 결합하여 사용자 경험을 극대화하는 데 중점을 두고 있다. 이러한 트렌드를 통해 기업들은 경쟁력을 유지하고, 더 나은 사용자 경험을 제공할 수 있을 것이다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4988,7 +4972,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-07-16"
+      "collectedAt": "2026-07-17"
     }
   ]
 }
