@@ -1,38 +1,134 @@
 {
-  "updated": "2026년 7월 19일 AM 02:34",
-  "count": 301,
+  "updated": "2026년 7월 20일 AM 02:49",
+  "count": 298,
   "articles": [
     {
       "category": "industry",
-      "title": "Ureka 제작기: 조직의 자산으로서의 인사이트",
-      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 지식 구조를 만드는 방법을 탐구한다. 이 과정에서 인사이트가 어떻게 조직의 자산으로 전환될 수 있는지를 논의한다.",
-      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 효과적으로 연결하는 지식 구조를 만드는 방법을 제시한다. 이를 통해 인사이트가 조직의 자산으로 변모하는 과정을 설명한다. AI 기술을 활용하여 데이터의 통합과 분석을 통해 더 나은 의사결정을 지원하는 방안을 모색한다. 궁극적으로, 이러한 접근은 조직의 경쟁력을 높이는 데 기여할 수 있다.",
+      "title": "Ureka 제작기: 인사이트의 조직 자산화",
+      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 지식 구조를 만드는 방법을 탐구한다. 이 과정에서 인사이트가 어떻게 조직의 자산으로 변모할 수 있는지를 논의한다.",
+      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 효과적으로 연결하는 방법을 제시한다. 이를 통해 지식 구조를 구축하고, 인사이트를 조직의 자산으로 활용하는 방법을 탐구한다. AI 기술을 활용하여 정보의 흐름을 최적화하고, 조직의 경쟁력을 높이는 방안을 모색한다. 이 과정에서 다양한 사례와 전략을 통해 실질적인 적용 가능성을 제시한다.",
       "keywords": [
         "Ureka",
         "지식 구조",
         "조직 자산"
       ],
       "source": "오늘의집 Culture",
-      "date": "7월 19일",
-      "publishedAt": "2026-07-19T02:33:08.587Z",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T02:48:00.534Z",
       "url": "https://www.bucketplace.com/post/2026-07-08-ureka-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9E%90%EC%82%B0%EC%9D%B4-%EB%90%A0%EA%B9%8C/",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "design",
       "title": "코덱스에게 Photoshop 드로잉 지시하기",
-      "summary": "코덱스는 Photoshop을 활용하여 드로잉 작업을 수행할 수 있는 가능성을 탐구한다. 이 과정에서 사용자의 지시가 어떻게 반영되는지를 살펴본다.",
-      "summary_full": "이 글에서는 코덱스에게 Photoshop을 이용해 드로잉을 지시하는 방법에 대해 논의한다. 코덱스는 인공지능 기반의 도구로, 사용자의 명령을 이해하고 실행할 수 있는 능력을 갖추고 있다. Photoshop의 다양한 기능을 활용하여 창의적인 작업을 지원하는 방안을 제시한다. 이를 통해 디지털 아트의 새로운 가능성을 모색한다.",
+      "summary": "코덱스는 Photoshop을 사용하여 드로잉 작업을 수행할 수 있는 능력을 가지고 있다. 이 기사에서는 코덱스에게 드로잉을 지시하는 방법에 대해 설명한다.",
+      "summary_full": "코덱스는 인공지능 모델로, Photoshop을 활용한 드로잉 작업을 지원할 수 있다. 사용자는 코덱스에게 특정한 지시를 통해 원하는 스타일이나 주제를 설정할 수 있다. 이 과정에서 코덱스는 사용자의 요구에 맞춰 창의적인 결과물을 생성할 수 있다. 따라서, Photoshop 드로잉에 대한 새로운 접근 방식을 제시하는 기회가 된다.",
       "keywords": [
         "코덱스",
         "Photoshop",
         "드로잉"
       ],
       "source": "Secondbrush Blog",
-      "date": "7월 19일",
-      "publishedAt": "2026-07-19T02:33:03.270Z",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T02:47:55.730Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-795/",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
+    },
+    {
+      "category": "frontend",
+      "title": "Rust와 Next.js 15로 구축한 고성능 중국어 학습 플랫폼",
+      "summary": "MandarinClips는 10만 개 이상의 TV 클립을 활용한 언어 학습 플랫폼이다. 이 플랫폼은 실제 중국 영화와 TV 시리즈의 대화 구문을 색인화하여 학습자들이 교과서에서 벗어나도록 돕는다.",
+      "summary_full": "MandarinClips는 Rust와 Next.js 15를 사용하여 개발된 고성능 언어 학습 플랫폼이다. 이 플랫폼은 10만 개 이상의 TV 클립을 통해 중국어 학습자들에게 실제 대화 구문을 제공한다. 사용자는 교과서에서 벗어나 보다 자연스러운 학습 경험을 할 수 있다. 이 프로젝트는 개발자가 자신의 열정을 쏟아 만든 사이드 프로젝트이다.",
+      "keywords": [
+        "중국어 학습",
+        "Rust",
+        "Next.js"
+      ],
+      "source": "dev.to",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T02:44:30.000Z",
+      "url": "https://dev.to/mandarinclips/how-i-built-a-high-performance-chinese-learning-platform-with-100k-tv-clips-using-rust-and-nextjs-2a81",
+      "collectedAt": "2026-07-20"
+    },
+    {
+      "category": "trend",
+      "title": "로고만으로는 부족하다: 진정한 브랜드 아이덴티티 시스템 구축하기",
+      "summary": "많은 창업자들은 빠르게 로고를 제작하면 충분하다고 생각하지만, 실제로는 브랜드 아이덴티티가 필요하다. 일관된 디자인 요소가 없으면 웹 애플리케이션, 소셜 미디어 그래픽, 클라이언트 제안서에서 문제가 발생한다.",
+      "summary_full": "새로운 회사를 시작할 때 많은 창업자들은 Fiverr에서 빠르게 로고를 제작하는 것으로 충분하다고 생각한다. 그러나 웹 애플리케이션, 소셜 미디어 그래픽, 클라이언트 제안서를 만들다 보면 디자인 요소가 일치하지 않음을 깨닫게 된다. 글꼴이 일관되지 않고, 색상이 모바일에서 충돌하는 등의 문제가 발생한다. 따라서 진정한 브랜드 아이덴티티 시스템을 구축하는 것이 중요하다.",
+      "keywords": [
+        "브랜드 아이덴티티",
+        "로고 디자인",
+        "디자인 일관성"
+      ],
+      "source": "dev.to",
+      "date": "7월 19일",
+      "publishedAt": "2026-07-19T23:36:20.000Z",
+      "url": "https://dev.to/mehar_farhan_8bf16d089749/why-a-logo-isnt-enough-building-a-real-brand-identity-system-1fh4",
+      "collectedAt": "2026-07-20"
+    },
+    {
+      "category": "industry",
+      "title": "가장 약한 채널",
+      "summary": "보편성은 사물에 설계된 것이 아니라 생존 제약에 의해 선택된다. 종종 사람들은 이러한 제약의 원인이 된다.",
+      "summary_full": "보편성은 사물의 설계가 아닌 생존 제약에 의해 결정된다. 이 과정에서 사람들은 중요한 제약 요소로 작용한다. 따라서 디자인에서의 보편성을 이해하기 위해서는 이러한 제약을 고려해야 한다. UX 디자인에서의 접근 방식은 이러한 요소들을 반영해야 한다.",
+      "keywords": [
+        "보편성",
+        "디자인 제약",
+        "UX 디자인"
+      ],
+      "source": "uxdesign.cc",
+      "date": "7월 19일",
+      "publishedAt": "2026-07-19T20:47:00.000Z",
+      "url": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-07-20"
+    },
+    {
+      "category": "industry",
+      "title": "한국의 AI 칩 시장, 글로벌 주식의 신호탄",
+      "summary": "한국의 4조 달러 규모 주식 시장이 글로벌 AI 위험 선호도를 가늠하는 지표로 떠오르고 있다. SK 하이닉스와 삼성의 주가 변동이 전 세계 반도체 주식에 영향을 미치고 있다.",
+      "summary_full": "한국의 4조 달러 규모 주식 시장이 글로벌 AI 위험 선호도를 가늠하는 신호탄 역할을 하고 있다. 런던, 뉴욕, 도쿄의 펀드 매니저들은 한국 주식을 체크하는 새로운 아침 루틴을 추가했다. SK 하이닉스와 삼성의 주가 변동이 전 세계 반도체 주식에 파급 효과를 미치고 있다. '우리는 모두 한국 투자자다'라는 말이 나올 정도로 한국 주식이 주목받고 있다.",
+      "keywords": [
+        "AI 칩",
+        "한국 주식",
+        "글로벌 시장"
+      ],
+      "source": "thenextweb.com",
+      "date": "7월 19일",
+      "publishedAt": "2026-07-19T16:57:39.000Z",
+      "url": "https://thenextweb.com/news/south-korea-kospi-ai-stocks-global-markets-sk-hynix",
+      "collectedAt": "2026-07-20"
+    },
+    {
+      "category": "trend",
+      "title": "최고의 파워 뱅크 (2026): 100개 이상 테스트 후 선택한 제품",
+      "summary": "여행에 적합한 파워 뱅크로, 휴대폰, 노트북, 핸드헬드 게임 콘솔 등 다양한 전자 기기를 충전할 수 있습니다. 이 기사에서는 여러 제품을 테스트한 후 추천하는 파워 뱅크를 소개합니다.",
+      "summary_full": "여행에 적합한 파워 뱅크를 통해 휴대폰, 노트북, 핸드헬드 게임 콘솔 등 다양한 전자 기기를 충전할 수 있습니다. 이 기사는 100개 이상의 제품을 테스트한 후 추천하는 최고의 파워 뱅크를 소개합니다. 각 제품의 성능과 휴대성을 고려하여 선택된 추천 리스트를 제공합니다. 전자 기기를 자주 사용하는 사용자에게 유용한 정보가 될 것입니다.",
+      "keywords": [
+        "파워 뱅크",
+        "전자 기기",
+        "여행"
+      ],
+      "source": "wired.com",
+      "date": "7월 19일",
+      "publishedAt": "2026-07-19T11:00:00.000Z",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "collectedAt": "2026-07-20"
+    },
+    {
+      "category": "industry",
+      "title": "잘파 세대의 소비 패턴 분석",
+      "summary": "잘파 세대는 AI와 모바일을 활용한 소비 경향을 보이고 있다. 세미나에서는 이들의 독서 데이터도 함께 논의되었다.",
+      "summary_full": "잘파 세대(Zalpha)는 AI와 모바일 기술을 통해 새로운 소비 방식을 창출하고 있다. 15일 열린 세미나에서는 이들의 소비 패턴과 독서 데이터가 분석되었다. KT 밀리의서재와 마인드로직, 아이지에이웍스가 협력하여 이 세대의 동향을 짚었다. 이들은 어떤 시각으로 소비를 바라보고 있을지에 대한 통찰이 제공되었다.",
+      "keywords": [
+        "잘파세대",
+        "소비패턴",
+        "AI와모바일"
+      ],
+      "source": "바이라인네트워크",
+      "date": "7월 19일",
+      "publishedAt": "2026-07-19T04:23:29.000Z",
+      "url": "https://byline.network/2026/07/2918273/",
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "frontend",
@@ -166,9 +262,9 @@
     },
     {
       "category": "ai",
-      "title": "NVIDIA NeMo Automodel과 🤗 Diffusers로 대규모 비디오 및 이미지 모델 미세 조정",
-      "summary": "NVIDIA NeMo Automodel과 🤗 Diffusers를 사용하여 비디오 및 이미지 모델을 대규모로 미세 조정하는 방법을 소개한다. 이 기술을 통해 효율적인 모델 학습과 성능 향상이 가능하다.",
-      "summary_full": "NVIDIA NeMo Automodel과 🤗 Diffusers는 비디오 및 이미지 모델을 대규모로 미세 조정할 수 있는 강력한 도구이다. 이 방법은 다양한 데이터셋에 적용 가능하며, 모델의 성능을 극대화하는 데 도움을 준다. 사용자는 이 기술을 통해 효율적인 학습 프로세스를 경험할 수 있다. 결과적으로, 비즈니스와 연구 분야에서의 활용 가능성이 크게 확대된다.",
+      "title": "NVIDIA NeMo Automodel과 🤗 Diffusers로 대규모 비디오 및 이미지 모델 미세 조정하기",
+      "summary": "NVIDIA NeMo Automodel과 🤗 Diffusers를 사용하여 비디오 및 이미지 모델을 대규모로 미세 조정할 수 있는 방법을 소개한다. 이 기술은 다양한 멀티미디어 애플리케이션에 활용될 수 있다.",
+      "summary_full": "NVIDIA NeMo Automodel과 🤗 Diffusers를 통해 비디오 및 이미지 모델을 대규모로 미세 조정하는 방법을 설명한다. 이러한 접근 방식은 모델의 성능을 향상시키고, 다양한 데이터셋에 적응할 수 있도록 돕는다. 또한, 이 기술은 멀티미디어 콘텐츠 생성 및 처리에 유용하게 사용될 수 있다. 최적화된 모델을 통해 더 나은 결과를 얻을 수 있는 가능성을 제시한다.",
       "keywords": [
         "NVIDIA",
         "NeMo Automodel",
@@ -178,7 +274,7 @@
       "date": "7월 17일",
       "publishedAt": "2026-07-17T15:57:54.000Z",
       "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "trend",
@@ -198,35 +294,35 @@
     },
     {
       "category": "ai",
-      "title": "AI 시대를 위한 성과 지표",
-      "summary": "OpenAI의 CFO인 사라 프라이어가 유용한 작업, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 수익률을 통해 ROI를 측정하는 실용적인 AI 성과 지표를 소개합니다.",
-      "summary_full": "사라 프라이어는 AI 기술의 효과를 평가하기 위한 성과 지표를 제안합니다. 이 지표는 유용한 작업의 수행, 성공적인 작업당 비용, 시스템의 신뢰성, 그리고 컴퓨팅 자원의 수익률을 포함합니다. 이를 통해 기업들이 AI 투자에 대한 명확한 ROI를 측정할 수 있도록 돕고자 합니다. AI의 발전과 함께 이러한 지표는 더욱 중요해질 것입니다.",
+      "title": "AI 시대를 위한 성과 카드",
+      "summary": "OpenAI의 CFO인 사라 프라이어가 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익률을 측정하기 위한 실용적인 AI 성과 카드를 소개합니다. 이 카드는 AI의 ROI를 평가하는 데 도움을 줍니다.",
+      "summary_full": "OpenAI의 CFO인 사라 프라이어가 AI 시대에 적합한 성과 카드를 소개합니다. 이 카드는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익률을 측정하는 데 중점을 둡니다. 이를 통해 기업들이 AI의 투자 수익률(ROI)을 보다 효과적으로 평가할 수 있도록 돕습니다. AI 기술의 효과적인 활용을 위한 기준을 제시합니다.",
       "keywords": [
         "AI",
-        "성과 지표",
-        "ROI"
+        "성과 카드",
+        "투자 수익률"
       ],
       "source": "OpenAI News",
       "date": "7월 17일",
       "publishedAt": "2026-07-17T10:00:00.000Z",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "design",
-      "title": "메인 스레드를 '차단'해야 할 때",
-      "summary": "웹 개발에서 메인 스레드를 차단하지 말라는 규칙은 잘 알려져 있다. 그러나 특정 상황에서는 이 규칙을 어기는 것이 합리적일 수 있다.",
-      "summary_full": "현대 웹 개발에서 메인 스레드를 차단하지 말라는 규칙은 거의 모든 성능 가이드에 등장한다. 메인 스레드는 단일 스레드로 작동하므로 동시에 여러 작업을 수행할 수 없다. 그러나 특정 상황에서는 메인 스레드를 차단하는 것이 필요할 수 있으며, 이를 통해 성능을 최적화할 수 있다. 이 글에서는 이러한 상황을 살펴본다.",
+      "title": "메인 스레드를 ‘차단’해야 할 때",
+      "summary": "웹 개발에서 메인 스레드를 차단하지 말라는 규칙은 잘 알려져 있다. 그러나 특정 상황에서는 이 규칙을 예외적으로 적용할 필요가 있을 수 있다.",
+      "summary_full": "현대 웹 개발에서 메인 스레드를 차단하지 말라는 규칙은 매우 중요하다. 메인 스레드는 단일 스레드로 작동하므로 동시에 여러 작업을 처리할 수 없다. 그럼에도 불구하고 특정 상황에서는 메인 스레드를 차단하는 것이 유리할 수 있다. 이러한 경우를 이해하고 적절히 활용하는 것이 중요하다.",
       "keywords": [
         "웹 개발",
         "메인 스레드",
-        "성능 최적화"
+        "성능 가이드"
       ],
       "source": "smashingmagazine.com",
       "date": "7월 17일",
       "publishedAt": "2026-07-17T08:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "design",
@@ -359,8 +455,8 @@
     {
       "category": "ai",
       "title": "생물 회복력에 대한 우리의 접근법",
-      "summary": "Google DeepMind와 Isomorphic Labs가 생물 회복력과 AI 모델에 대한 공동 접근법을 공유합니다.",
-      "summary_full": "Google DeepMind와 Isomorphic Labs는 생물 회복력에 대한 새로운 접근법을 제시합니다. 이들은 AI 모델을 활용하여 생물학적 시스템의 회복력을 향상시키는 방법을 모색하고 있습니다. 이러한 연구는 생태계와 건강에 긍정적인 영향을 미칠 것으로 기대됩니다. 두 기관의 협력은 AI와 생물학의 융합을 통해 혁신적인 솔루션을 제공할 것입니다.",
+      "summary": "Google DeepMind와 Isomorphic Labs가 생물 회복력 및 AI 모델에 대한 공동 접근법을 공유합니다.",
+      "summary_full": "Google DeepMind와 Isomorphic Labs는 생물 회복력에 대한 혁신적인 접근법을 제시하고 있습니다. 이들은 AI 모델을 활용하여 생물학적 시스템의 회복력을 향상시키는 방법을 모색하고 있습니다. 이러한 협력은 생명과학 분야에서의 새로운 가능성을 열어줄 것으로 기대됩니다. AI와 생물학의 융합이 미래의 연구에 미치는 영향을 탐구합니다.",
       "keywords": [
         "생물 회복력",
         "AI 모델",
@@ -370,7 +466,7 @@
       "date": "7월 16일",
       "publishedAt": "2026-07-16T09:30:42.000Z",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "industry",
@@ -439,18 +535,18 @@
     {
       "category": "figma",
       "title": "코드 기반 화면을 Figma 캔버스에 가져오기",
-      "summary": "코드 기반 화면을 Figma에 가져오면 색상, 글꼴, 간격이 하드코딩된 값이 아닌 파일 내 변수에 연결된다. 이는 디자인 레이어로 Make 미리보기를 캔버스에 복사할 때 확인할 수 있다.",
-      "summary_full": "Figma 캔버스에 코드 기반 화면을 가져오면 색상, 글꼴, 간격이 기존 파일의 변수에 바인딩된다. 이는 하드코딩된 값으로 나타나지 않으며, 디자인 레이어로 Make 미리보기를 복사할 때 확인할 수 있다. 이 기능은 디자인 작업의 일관성을 높이고, 코드와 디자인 간의 연계를 강화하는 데 도움을 준다. 결과적으로 디자이너와 개발자 간의 협업이 더욱 원활해진다.",
+      "summary": "코드 기반 화면을 Figma 캔버스에 가져오면 색상, 타입, 간격이 파일 내의 변수에 연결됩니다. 이는 디자인 레이어로 Make 미리보기를 캔버스에 복사할 때 확인할 수 있습니다.",
+      "summary_full": "Figma 캔버스에 코드 기반 화면을 가져오면 색상, 타입, 간격이 하드코딩된 값이 아닌 파일 내의 변수에 바인딩됩니다. 사용자는 Make 미리보기를 디자인 레이어로 캔버스에 복사할 때 이러한 변화를 확인할 수 있습니다. 이는 디자인 작업의 일관성을 높이고 효율성을 향상시킵니다. 결과적으로, 디자이너는 더 유연하게 작업할 수 있습니다.",
       "keywords": [
         "Figma",
         "코드 기반 디자인",
-        "디자인 협업"
+        "디자인 효율성"
       ],
       "source": "Figma Release Notes",
       "date": "7월 16일",
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "trend",
@@ -488,17 +584,17 @@
       "category": "frontend",
       "title": "포인터 이벤트",
       "summary": "pointer-events 속성은 요소가 클릭, 호버 상태 등 포인터 이벤트의 대상이 될 수 있는지를 제어합니다.",
-      "summary_full": "pointer-events 속성은 요소가 포인터 이벤트의 대상이 되는지 여부를 결정합니다. 이를 통해 브라우저가 요소를 인터랙티브하게 처리할지 선택할 수 있습니다. 이 속성은 CSS-Tricks에서 처음 작성되고 게시되었습니다. 뉴스레터 구독도 추천합니다.",
+      "summary_full": "pointer-events 속성은 요소가 포인터 이벤트의 대상이 되는지 여부를 결정합니다. 이를 통해 브라우저가 요소를 상호작용 가능한 것으로 처리할지 선택할 수 있습니다. 이 속성은 CSS-Tricks에서 처음 작성되고 사랑으로 게시되었습니다. 뉴스레터 구독을 추천합니다.",
       "keywords": [
         "pointer-events",
         "CSS",
-        "인터랙티브 요소"
+        "인터랙티브"
       ],
       "source": "css-tricks.com",
       "date": "7월 15일",
       "publishedAt": "2026-07-15T19:57:51.000Z",
       "url": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "industry",
@@ -742,25 +838,25 @@
     },
     {
       "category": "ai",
-      "title": "LTM, Anthropic과 협력하여 Claude 채택 가속화 및 기업 서비스 확대",
-      "summary": "LTM이 Anthropic과 파트너십을 맺고 Claude의 채택을 가속화한다. 이를 통해 기업 고객에게 더 나은 서비스를 제공할 계획이다.",
-      "summary_full": "LTM은 Anthropic과의 협력을 통해 인공지능 모델인 Claude의 채택을 가속화하고자 한다. 이 파트너십은 기업 고객에게 보다 향상된 서비스를 제공하기 위한 전략의 일환이다. LTM은 Claude의 기능을 활용하여 다양한 산업에서의 적용을 확대할 예정이다. 이러한 노력은 기업의 디지털 전환을 지원하는 데 기여할 것으로 기대된다.",
+      "title": "LTM, 앤트로픽과 협력하여 클로드 채택 가속화 및 기업 서비스 확대",
+      "summary": "LTM이 앤트로픽과 파트너십을 체결하여 클로드의 채택을 가속화하고 기업 서비스 제공을 확장한다. 이 협력은 인공지능 솔루션의 기업 시장 진입을 촉진할 예정이다.",
+      "summary_full": "LTM이 앤트로픽과 협력하여 클로드의 채택을 가속화하고 기업 서비스 제공을 확대하는 방안을 모색하고 있다. 이번 파트너십은 인공지능 기술의 기업 시장에서의 경쟁력을 높이는 데 기여할 것으로 기대된다. LTM은 클로드의 기능을 활용하여 다양한 산업에 맞춤형 솔루션을 제공할 계획이다. 이로 인해 기업 고객들은 더욱 효율적인 AI 도입이 가능해질 전망이다.",
       "keywords": [
         "LTM",
-        "Anthropic",
-        "Claude"
+        "앤트로픽",
+        "클로드"
       ],
       "source": "Google News Anthropic",
       "date": "7월 14일",
       "publishedAt": "2026-07-14T01:30:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uNkdqRDlSaGtYSVFSZlhnV1pndHJTTXlRZUREN19BN1ZaNWFGWGRCcnJFbW55Q2pFWnoyRlJVOGQ2c0Q4c0hmcTdmS1BtcTlxQl84T21hSXlLTVVTM3Jj?oc=5",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "ai",
       "title": "캐나다의 클로드 활용: 앤트로픽 경제 지수의 발견",
-      "summary": "캐나다가 클로드를 어떻게 활용하는지에 대한 연구 결과를 다룬다. 앤트로픽 경제 지수를 통해 경제적 통찰을 제공한다.",
-      "summary_full": "이 연구는 캐나다에서 클로드라는 AI 도구의 활용 방식을 분석한다. 앤트로픽 경제 지수를 통해 도출된 결과는 경제적 의사결정에 중요한 통찰을 제공한다. 연구는 클로드가 어떻게 경제 데이터 분석에 기여하는지를 설명한다. 또한, 이 도구의 사용이 캐나다 경제에 미치는 영향을 논의한다.",
+      "summary": "캐나다가 클로드를 어떻게 활용하는지에 대한 연구 결과를 다룬다. 앤트로픽 경제 지수를 통해 얻은 인사이트를 공유한다.",
+      "summary_full": "이 연구는 캐나다에서 클로드라는 AI 시스템의 활용 방식을 분석한다. 앤트로픽 경제 지수의 데이터를 기반으로 경제적 영향을 평가한다. 연구 결과는 클로드의 효과적인 사용 사례를 제시하며, 정책 결정에 기여할 수 있는 정보를 제공한다. 이러한 발견은 AI 기술이 경제에 미치는 영향을 이해하는 데 중요한 역할을 한다.",
       "keywords": [
         "캐나다",
         "클로드",
@@ -770,7 +866,7 @@
       "date": "7월 14일",
       "publishedAt": "2026-07-14T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "trend",
@@ -1514,7 +1610,7 @@
       "category": "ai",
       "title": "삼성전자, AI 서버용 차세대 SSD 'PM1763' 출시",
       "summary": "삼성전자가 AI 서버에 최적화된 차세대 SSD 'PM1763'을 출시했다. 이 제품은 LLM 전송 속도를 2배 향상시켜 데이터 처리 성능을 크게 개선했다.",
-      "summary_full": "삼성전자가 AI 서버용으로 설계된 차세대 SSD 'PM1763'을 출시했다. 이 SSD는 대규모 언어 모델(LLM)의 전송 속도를 기존 제품보다 2배 향상시켜 데이터 처리의 효율성을 높인다. 새로운 기술이 적용되어 AI 연산에 필요한 데이터 전송 속도가 크게 개선되었다. 이는 AI 서버의 성능을 극대화하는 데 기여할 것으로 기대된다.",
+      "summary_full": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시하였다. 이 SSD는 LLM 전송 속도를 2배 향상시켜 데이터 전송 효율성을 높였다. 또한, AI 및 머신러닝 작업에 최적화된 성능을 제공하여 서버 환경에서의 활용도를 높인다. 이러한 기술적 발전은 데이터 센터의 성능 향상에 기여할 것으로 기대된다.",
       "keywords": [
         "삼성전자",
         "AI 서버",
@@ -1524,7 +1620,7 @@
       "date": "7월 8일",
       "publishedAt": "2026-07-08T16:36:56.000Z",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuRUxKMnVWZXotWFFKQmgta2tObXp6Q3ZoeWFvd0ZLc3NTak9kU3RRb1J1RU1wTnRBNGZjSk45UVVCZXU1dDNoSnNpYUlRbFBGX3JyWWlkclZPOHFVN2o2UVA0QndJSG9Dcm1ETHZn0gFyQVVfeXFMT1JTeDdRVXVseHZBTkRmZlFFa0ZQeHU3Z3lORnBfbGVsZWVaWE14MnZFQi1kcEVsVk5aTUk4WnhDeXB3eXp6TExhYWtpM1hpSFhtTnRwVE5IdkJBbmJQbklPMXhvU0UtWHJOQWRodHBtTnRn?oc=5",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "ai",
@@ -2746,18 +2842,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 이러한 배경을 이해하는 것이 앱 자체에서 배우는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이 과정에서 라틴어 교육 방법이 현대 언어 학습 앱에 영향을 미쳤다. 따라서 이러한 역사적 배경을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년, 프로이센은 대학과 공무원 시험을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 언어 학습 앱의 디자인을 이해하는 데 더 도움이 된다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교육 방법"
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "ai",
@@ -3725,8 +3821,8 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2000만 회 이상 다운로드되는 프로젝트로 성장했다. 이 과정에서 Toss의 핵심 기술로 자리 잡았다.",
-      "summary_full": "es-toolkit은 Toss에서 시작된 작은 유틸리티 함수 라이브러리로, 시간이 지나면서 글로벌 프로젝트로 발전했다. 이 라이브러리는 주간 2000만 회 이상 다운로드되며 많은 개발자들에게 사용되고 있다. Toss의 프론트엔드 엔지니어링 팀은 이 프로젝트의 성장 과정을 공유하고 있다. es-toolkit은 이제 Toss의 핵심 기술 중 하나로 자리 잡았다.",
+      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2천만 회 이상 다운로드되는 글로벌 프로젝트로 성장했다.",
+      "summary_full": "es-toolkit은 Toss의 내부 라이브러리로 시작하여, 점차 많은 사용자에게 사랑받는 도구로 발전했다. 이 라이브러리는 현재 Toss와 Toss Bank의 핵심 프로젝트로 자리 잡았다. 개발자들은 이 도구를 통해 효율성을 높이고, 사용자 경험을 개선하는 데 기여하고 있다. es-toolkit의 성공적인 성장 이야기는 소규모 프로젝트가 어떻게 글로벌 영향력을 가질 수 있는지를 보여준다.",
       "keywords": [
         "es-toolkit",
         "Toss",
@@ -3736,7 +3832,7 @@
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "design",
@@ -4462,86 +4558,6 @@
     },
     {
       "category": "design",
-      "title": "미드저니, 의료 기기 출시",
-      "summary": "미드저니가 새로운 의료 기기를 출시했다. 이 기기는 의료 분야에서의 혁신을 목표로 하고 있다.",
-      "summary_full": "미드저니가 혁신적인 의료 기기를 출시했다. 이 기기는 최신 기술을 활용하여 의료 서비스의 질을 향상시키는 데 중점을 두고 있다. 특히, 환자 모니터링 및 진단의 정확성을 높이는 데 기여할 것으로 기대된다. 향후 의료 산업에 큰 영향을 미칠 것으로 보인다.",
-      "keywords": [
-        "미드저니",
-        "의료 기기",
-        "혁신"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "6월 19일",
-      "publishedAt": "2026-06-19T04:09:59.746Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-774/",
-      "collectedAt": "2026-06-19"
-    },
-    {
-      "category": "frontend",
-      "title": "내 CSS 작업 흐름",
-      "summary": "3줄의 깔끔한 CSS를 작성했지만, border-radius를 추가하니 레이아웃이 무너졌다.",
-      "summary_full": "3줄의 깔끔한 CSS를 작성한 후 모든 것이 완벽하게 보였다. 그러나 border-radius: 5px;를 추가하자 전체 레이아웃이 무너지고 사라졌다. 이런 경험을 한 사람은 누구인가? 😂",
-      "keywords": [
-        "CSS",
-        "border-radius",
-        "레이아웃"
-      ],
-      "source": "dev.to",
-      "date": "6월 19일",
-      "publishedAt": "2026-06-19T04:06:57.000Z",
-      "url": "https://dev.to/jenny_akhi_aade503c2764f6/my-css-workflow-2jop",
-      "collectedAt": "2026-06-19"
-    },
-    {
-      "category": "industry",
-      "title": "마이크로소프트, AI 기반 보안의 필요성 강조",
-      "summary": "AI를 활용한 보안 방어는 선택이 아닌 필수라는 주장이 제기됐다. 공격자들이 이미 AI를 사용하고 있기 때문에 기존 보안 프레임워크로는 대응이 어렵다는 경고가 나왔다.",
-      "summary_full": "마이크로소프트의 박상준 리드가 AI를 활용한 보안의 중요성을 강조했다. 그는 공격자들이 이미 AI를 갖추고 있어 기존의 보안 프레임워크로는 대응할 수 없다고 경고했다. AI를 이용한 방어는 더 이상 선택이 아닌 필수라는 메시지를 전달했다. 이 발언은 서울 잠실 롯데호텔에서 열린 행사에서 이루어졌다.",
-      "keywords": [
-        "마이크로소프트",
-        "AI 보안",
-        "사이버 공격"
-      ],
-      "source": "바이라인네트워크",
-      "date": "6월 19일",
-      "publishedAt": "2026-06-19T02:33:41.000Z",
-      "url": "https://byline.network/2026/06/microsoft/",
-      "collectedAt": "2026-06-19"
-    },
-    {
-      "category": "trend",
-      "title": "인터랙티브 모바일 인터페이스를 위한 신속 프로토타이핑 도구",
-      "summary": "인터랙션 레이어는 사용자 입력에 대한 반응을 결정하는 신속 프로토타입의 구성 요소이다. 모바일 인터페이스에서는 터치 제스처와 화면 전환을 시뮬레이션해야 한다.",
-      "summary_full": "인터랙션 레이어는 신속 프로토타입의 중요한 요소로, 사용자 입력에 대한 반응을 결정한다. 이는 프로토타입의 외관이나 내용과는 별개이다. 모바일 인터페이스의 경우, 이 레이어는 터치 제스처와 화면 전환을 효과적으로 시뮬레이션해야 한다. 따라서 데모의 품질은 인터랙션 레이어의 구현에 크게 의존한다.",
-      "keywords": [
-        "프로토타이핑",
-        "인터랙션 레이어",
-        "모바일 인터페이스"
-      ],
-      "source": "dev.to",
-      "date": "6월 19일",
-      "publishedAt": "2026-06-19T02:21:00.000Z",
-      "url": "https://dev.to/fan-song/rapid-prototyping-tools-for-interactive-mobile-interfaces-what-the-interaction-layer-is-and-why-it-5f7o",
-      "collectedAt": "2026-06-19"
-    },
-    {
-      "category": "frontend",
-      "title": "전문성 밖으로 나아가기",
-      "summary": "TW는 제품 오너로서 제품을 만들고, 팀의 방향과 우선순위를 정하는 역할을 한다.",
-      "summary_full": "TW는 Knowledge System Team의 리더로서 개발자, 디자이너와 협력하여 제품의 방향을 설정하고 로드맵을 관리한다. 사용자를 인터뷰하여 인사이트를 얻고, 기능을 기획하며 AI 도구로 직접 제품을 제작하기도 한다. TW는 단순한 문서 작성자가 아니라, 제품에 대한 판단을 내리고 실제로 만드는 메이커로 활동하고 있다. 이러한 역할을 통해 TW는 문서와 지식의 핵심을 다루고 있다.",
-      "keywords": [
-        "TW",
-        "제품 오너",
-        "Knowledge System Team"
-      ],
-      "source": "toss.tech",
-      "date": "6월 19일",
-      "publishedAt": "2026-06-19T02:01:00.000Z",
-      "url": "https://toss.tech/article/technical-writing-2",
-      "collectedAt": "2026-06-19"
-    },
-    {
-      "category": "design",
       "title": "하반기 UX·UI 트렌드 4선",
       "summary": "기업들이 주목해야 할 하반기 UX·UI 트렌드를 소개한다. 최신 디자인 경향을 반영하여 사용자 경험을 개선하는 방법을 제시한다.",
       "summary_full": "하반기에는 기업들이 반드시 알아야 할 UX·UI 트렌드가 있다. 이 트렌드는 사용자 경험을 극대화하고, 디자인의 효율성을 높이는 데 중점을 두고 있다. 특히, 기술 발전과 사용자 요구에 맞춰 변화하는 디자인 요소들이 중요하다. 기업들은 이러한 트렌드를 반영하여 경쟁력을 강화할 필요가 있다.",
@@ -4555,54 +4571,6 @@
       "publishedAt": "2026-06-18T23:54:54.000Z",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfdmNKdU5TQVdwbjFWU1liWnRQUjJHQmJjRFdveTZUWjdWckZtaEk5elBUSGJ0RTVwTk9wRzZZT09mRC1kWmt4NFRvOHdZdw?oc=5",
       "collectedAt": "2026-06-23"
-    },
-    {
-      "category": "trend",
-      "title": "프라임 데이 조기 할인 2026: 브레빌과 닌자 에스프레소 머신 할인",
-      "summary": "2026년 프라임 데이에서 브레빌 바리스타 익스프레스와 닌자 럭스 카페 프로가 최고의 조기 할인 품목으로 소개되었다. 이 두 제품은 커피 애호가들에게 특히 추천된다.",
-      "summary_full": "2026년 프라임 데이에서 브레빌 바리스타 익스프레스와 닌자 럭스 카페 프로가 주목받고 있다. 이 두 에스프레소 머신은 뛰어난 성능과 품질로 많은 소비자들에게 사랑받고 있다. 조기 할인으로 인해 더 많은 사람들이 이 제품을 구매할 기회를 갖게 되었다. 커피를 즐기는 이들에게는 최적의 선택이 될 것이다.",
-      "keywords": [
-        "프라임 데이",
-        "브레빌",
-        "닌자 에스프레소 머신"
-      ],
-      "source": "wired.com",
-      "date": "6월 18일",
-      "publishedAt": "2026-06-18T23:03:39.000Z",
-      "url": "https://www.wired.com/story/early-espresso-machine-deals-prime-day-2026/",
-      "collectedAt": "2026-06-19"
-    },
-    {
-      "category": "industry",
-      "title": "2026년 생존하는 디자이너와 그렇지 않은 디자이너를 구분짓는 한 가지 기술",
-      "summary": "AI가 UX 디자이너의 미래를 위협하고 있다. 디자이너들은 빌더, 메이커, 시스템 사고가로 변모해야 한다.",
-      "summary_full": "AI의 발전이 UX 디자이너의 직업을 위협하고 있다. 디자이너들은 단순한 디자인 작업을 넘어 빌더와 메이커로서의 역할을 수행해야 한다. 시스템 사고를 갖춘 디자이너만이 2026년 이후에도 생존할 수 있을 것이다. 기업들은 AI의 도입을 통해 인력을 대체할 가능성을 높이고 있다.",
-      "keywords": [
-        "UX 디자인",
-        "AI",
-        "디자이너 생존 전략"
-      ],
-      "source": "uxdesign.cc",
-      "date": "6월 18일",
-      "publishedAt": "2026-06-18T22:05:51.000Z",
-      "url": "https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-06-19"
-    },
-    {
-      "category": "industry",
-      "title": "201년 된 상호은행, 스타트업과 AI 우수센터 개소",
-      "summary": "리버티 뱅크가 플레어 AI와의 전략적 파트너십을 통해 AI 우수센터를 개소했다. 이 센터는 은행의 개인, 상업 및 디지털 운영에 대한 AI 전략과 실행의 중심 역할을 할 예정이다.",
-      "summary_full": "리버티 뱅크는 코네티컷 미들타운에 본사를 둔 201년 된 상호은행이다. 이 은행은 플레어 AI와의 파트너십을 통해 AI 우수센터를 출범했다. 센터는 은행의 개인, 상업 및 디지털 운영 전반에 걸쳐 AI 전략, 거버넌스 및 실행을 담당할 예정이다. 파트너십은 결과 중심으로 구성되어 있다.",
-      "keywords": [
-        "리버티 뱅크",
-        "AI 우수센터",
-        "플레어 AI"
-      ],
-      "source": "thenextweb.com",
-      "date": "6월 18일",
-      "publishedAt": "2026-06-18T19:34:40.000Z",
-      "url": "https://thenextweb.com/news/liberty-bank-ai-center-excellence-flare-partnership",
-      "collectedAt": "2026-06-19"
     },
     {
       "category": "ai",
@@ -4667,22 +4635,6 @@
       "publishedAt": "2026-06-18T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/project-fetch-phase-two",
       "collectedAt": "2026-06-26"
-    },
-    {
-      "category": "frontend",
-      "title": "ariaNotify()의 매력",
-      "summary": "새로운 웹 플랫폼 기능에 대한 소개로, 개발자들에게 유용한 솔루션을 제공한다. 이 기능은 이해하기 쉬운 문법과 강력한 기능을 갖추고 있다.",
-      "summary_full": "ariaNotify()는 오랫동안 기다려온 웹 플랫폼의 새로운 기능으로, 개발자들에게 필요한 솔루션을 제공합니다. 이 기능은 즉각적으로 이해할 수 있는 문법을 통해 사용되며, 강력한 성능을 자랑합니다. 개발자들에게 매력적인 요소가 많아, 많은 관심을 받을 것으로 예상됩니다. 이는 웹 개발의 효율성을 높이는 데 기여할 것입니다.",
-      "keywords": [
-        "웹 플랫폼",
-        "개발자",
-        "기능"
-      ],
-      "source": "css-tricks.com",
-      "date": "6월 17일",
-      "publishedAt": "2026-06-17T15:32:30.000Z",
-      "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
-      "collectedAt": "2026-06-19"
     },
     {
       "category": "ai",
@@ -4782,19 +4734,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화한다. 이 협력은 AI 기술의 발전과 산업 적용을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 가속화하기 위한 전략적 파트너십을 체결했다. 이 협력은 AI 기술의 혁신을 통해 다양한 산업 분야에서의 적용을 확대하는 데 중점을 두고 있다. 양사는 AI 기술의 발전을 통해 시장의 변화에 빠르게 대응할 수 있는 기반을 마련할 계획이다. 이를 통해 AI 네이티브 산업의 경쟁력을 높이고 지속 가능한 성장을 도모할 예정이다.",
+      "title": "엠미, AI 원주율 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업의 발전을 가속화한다. 이 파트너십은 두 회사의 기술적 시너지를 통해 AI 솔루션의 혁신을 촉진할 것으로 기대된다. 또한, AI 산업의 성장에 기여하며 새로운 비즈니스 기회를 창출할 예정이다. 엠미와 미스트랄의 협력은 AI 기술의 상용화를 더욱 앞당길 전망이다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 네이티브 산업"
+        "AI 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     },
     {
       "category": "design",
@@ -4815,8 +4767,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년 UX 디자인의 주요 트렌드 9가지를 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다.",
-      "summary_full": "2026년을 대비하여 UX 디자인에서 주목해야 할 9가지 트렌드를 다룬다. 각 트렌드는 사용자 경험을 개선하고, 더 나은 인터페이스를 제공하기 위한 다양한 전략을 포함하고 있다. 이러한 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있다. 디자이너와 기업은 이러한 트렌드를 통해 경쟁력을 강화할 수 있다.",
+      "summary": "2026년의 UX 디자인을 이끌어갈 9가지 주요 트렌드를 소개합니다. 이 트렌드들은 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
+      "summary_full": "2026년을 대비하여 UX 디자인의 9가지 주요 트렌드를 살펴봅니다. 이러한 트렌드는 기술 발전과 사용자 요구에 따라 변화하며, 사용자 경험을 향상시키는 데 중요한 역할을 할 것입니다. 각 트렌드는 디자인의 접근성과 효율성을 높이는 데 중점을 두고 있습니다. 이 기사에서는 이러한 트렌드가 어떻게 UX 디자인에 영향을 미칠지를 논의합니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4826,7 +4778,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-07-19"
+      "collectedAt": "2026-07-20"
     }
   ]
 }
