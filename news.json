@@ -1,22 +1,166 @@
 {
-  "updated": "2026년 7월 20일 AM 02:49",
-  "count": 298,
+  "updated": "2026년 7월 21일 AM 02:32",
+  "count": 303,
   "articles": [
     {
       "category": "industry",
-      "title": "Ureka 제작기: 인사이트의 조직 자산화",
-      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 지식 구조를 만드는 방법을 탐구한다. 이 과정에서 인사이트가 어떻게 조직의 자산으로 변모할 수 있는지를 논의한다.",
-      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 효과적으로 연결하는 방법을 제시한다. 이를 통해 지식 구조를 구축하고, 인사이트를 조직의 자산으로 활용하는 방법을 탐구한다. AI 기술을 활용하여 정보의 흐름을 최적화하고, 조직의 경쟁력을 높이는 방안을 모색한다. 이 과정에서 다양한 사례와 전략을 통해 실질적인 적용 가능성을 제시한다.",
+      "title": "Ureka 제작기: 조직의 자산으로서의 인사이트",
+      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 지식 구조를 만드는 방법을 탐구한다. 이 과정에서 인사이트가 어떻게 조직의 자산으로 발전할 수 있는지를 논의한다.",
+      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 효과적으로 연결하는 지식 구조를 만드는 방법을 제시한다. 이를 통해 인사이트가 조직의 자산으로 전환될 수 있는 과정을 탐구한다. AI 기술을 활용하여 데이터의 통합과 분석을 지원하며, 조직의 의사결정에 기여할 수 있는 방안을 모색한다. 궁극적으로, 이러한 접근은 조직의 경쟁력을 강화하는 데 중요한 역할을 한다.",
       "keywords": [
         "Ureka",
         "지식 구조",
         "조직 자산"
       ],
       "source": "오늘의집 Culture",
-      "date": "7월 20일",
-      "publishedAt": "2026-07-20T02:48:00.534Z",
+      "date": "7월 21일",
+      "publishedAt": "2026-07-21T02:31:21.013Z",
       "url": "https://www.bucketplace.com/post/2026-07-08-ureka-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9E%90%EC%82%B0%EC%9D%B4-%EB%90%A0%EA%B9%8C/",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "frontend",
+      "title": "AI가 작성한 PR을 위한 코드 리뷰 체크리스트 재구성",
+      "summary": "AI가 작성한 코드의 특성에 맞춘 새로운 코드 리뷰 체크리스트를 소개한다. 기존 체크리스트는 인간의 실수를 잡는 데 초점을 맞췄지만, AI 코드의 오류는 다르게 나타난다.",
+      "summary_full": "전통적인 코드 리뷰 체크리스트는 인간의 실수를 잡는 데 최적화되어 있다. 그러나 AI가 작성한 코드는 유창하고 일관되며, 리뷰어의 일반적인 패턴 인식을 방해하는 방식으로 잘못될 수 있다. 따라서 AI 코드에 적합한 새로운 체크리스트가 필요하다. 이 글에서는 그러한 체크리스트의 내용을 소개한다.",
+      "keywords": [
+        "코드 리뷰",
+        "AI 코드",
+        "체크리스트"
+      ],
+      "source": "dev.to",
+      "date": "7월 21일",
+      "publishedAt": "2026-07-21T02:31:19.000Z",
+      "url": "https://dev.to/6sensehq/the-code-review-checklist-we-rebuilt-now-that-ai-writes-half-our-prs-13c1",
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "design",
+      "title": "웹캠 속 내 모습 실시간 변경하기",
+      "summary": "Lucy 2.5를 사용하여 웹캠에서 실시간으로 자신의 모습을 변형하는 방법을 소개한다. 다양한 필터와 효과를 통해 재미있고 창의적인 영상 통화를 즐길 수 있다.",
+      "summary_full": "이 영상에서는 Lucy 2.5 소프트웨어를 활용하여 웹캠 속 자신의 모습을 실시간으로 변화시키는 방법을 설명한다. 사용자는 다양한 필터와 효과를 적용하여 독특한 비주얼을 만들 수 있다. 이 기능은 영상 통화나 스트리밍 시 더욱 재미있고 창의적인 경험을 제공한다. 초보자도 쉽게 따라할 수 있는 단계별 가이드를 포함하고 있다.",
+      "keywords": [
+        "웹캠",
+        "실시간 변형",
+        "Lucy 2.5"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "7월 21일",
+      "publishedAt": "2026-07-21T02:31:16.008Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-796/",
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "trend",
+      "title": "디자이너를 위한 벡터 지형 등고선 맵 생성기 구축 (SVG 내보내기)",
+      "summary": "디자이너를 위해 벡터 형식의 지형 등고선 맵을 생성하는 도구를 개발했다. 이 도구는 SVG 형식으로 내보낼 수 있는 기능을 제공한다.",
+      "summary_full": "이 프로젝트는 디자이너들이 사용할 수 있는 벡터 형식의 지형 등고선 맵 생성기를 만드는 것을 목표로 했다. 사용자는 이 도구를 통해 다양한 지형 데이터를 시각적으로 표현할 수 있다. 생성된 맵은 SVG 형식으로 내보낼 수 있어, 다른 디자인 작업에 쉽게 활용할 수 있다. 이로 인해 디자이너들은 보다 효율적으로 작업할 수 있는 기회를 얻게 된다.",
+      "keywords": [
+        "지형 맵",
+        "SVG",
+        "디자인 도구"
+      ],
+      "source": "dev.to",
+      "date": "7월 21일",
+      "publishedAt": "2026-07-21T00:40:34.000Z",
+      "url": "https://dev.to/topolines/i-built-a-vector-topographic-contour-map-generator-for-designers-svg-export-5hj",
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "industry",
+      "title": "우버, 배민 모기업 인수",
+      "summary": "우버가 배달의 민족의 모기업을 인수했다. 이번 인수는 IT 산업의 중요한 트렌드로 주목받고 있다.",
+      "summary_full": "우버가 배달의 민족의 모기업을 인수했다. 이 인수는 IT 산업에서 큰 변화를 예고하며, 기업 경영자와 IT 종사자들에게 중요한 소식으로 여겨진다. 바이라인네트워크는 매주 트렌드 리포트를 발간하여 이러한 소식을 큐레이션하고 있다. 최신 리포트를 확인하려면 구독 신청이 필요하다.",
+      "keywords": [
+        "우버",
+        "배달의 민족",
+        "인수"
+      ],
+      "source": "바이라인네트워크",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T22:56:16.000Z",
+      "url": "https://byline.network/2026/07/21-582/",
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "industry",
+      "title": "연구는 단순한 프레젠테이션으로 끝나지 않아야 한다",
+      "summary": "Claude Code를 활용하여 가정에 도전하고 연구를 살아있는 유물로 전환하는 방법에 대해 설명한다.",
+      "summary_full": "이 글에서는 연구 결과를 단순한 프레젠테이션 자료로 끝내지 않고, 실제로 활용할 수 있는 형태로 발전시키는 방법을 다룬다. Claude Code를 사용하여 기존의 가정에 도전하고, 연구 결과를 지속적으로 활용할 수 있는 방안을 제시한다. 이를 통해 연구가 어떻게 실질적인 가치로 이어질 수 있는지를 탐구한다.",
+      "keywords": [
+        "연구",
+        "Claude Code",
+        "UX 디자인"
+      ],
+      "source": "uxdesign.cc",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T22:02:20.000Z",
+      "url": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "industry",
+      "title": "테슬라, 2분기 배송 예상 초과에도 주가 하락",
+      "summary": "테슬라는 2분기에 480,126대의 차량을 배송하여 월가 예상치를 초과했지만 주가는 하락했다. 이는 수요일 실적 발표에 대한 기대감이 낮아졌음을 나타낸다.",
+      "summary_full": "테슬라는 2분기에 480,126대의 차량을 배송하여 전년 대비 25% 증가하며 월가 예상치를 초과했다. 그러나 주가는 하락하며, 이는 수요일 실적 발표에 대한 기대감이 낮아졌음을 시사한다. 이제 배송 목표를 초과하는 것이 기본선이 되었고, 실적이 이를 충족하거나 약간 초과하더라도 주가 상승을 이끌지 못할 가능성이 있다. 이러한 반응은 투자자들이 실적 발표에 대해 우려하고 있음을 보여준다.",
+      "keywords": [
+        "테슬라",
+        "2분기",
+        "주가 하락"
+      ],
+      "source": "thenextweb.com",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T21:00:51.000Z",
+      "url": "https://thenextweb.com/news/tesla-q2-earnings-high-bar-rivian-r2-valuation",
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "trend",
+      "title": "갤럭시 카드: 삼성의 애플 카드 대응",
+      "summary": "갤럭시 카드는 삼성 지갑에 직접 추가되는 캐시백 신용카드입니다. 삼성 팬들을 위해 특별히 설계되었습니다.",
+      "summary_full": "갤럭시 카드는 삼성의 애플 카드에 대한 대안으로 출시되었습니다. 이 카드는 삼성 지갑 계정에 직접 추가되어 사용됩니다. 캐시백 혜택을 제공하며, 삼성 팬들에게 맞춤형으로 설계되었습니다. 이는 삼성의 생태계에 통합된 금융 서비스의 일환으로 볼 수 있습니다.",
+      "keywords": [
+        "갤럭시 카드",
+        "삼성 지갑",
+        "캐시백 신용카드"
+      ],
+      "source": "wired.com",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T21:00:00.000Z",
+      "url": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/",
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "ai",
+      "title": "코스모스 3 엣지 소개",
+      "summary": "코스모스 3 엣지를 소개합니다. 이 제품은 최신 기술을 적용하여 성능을 향상시킵니다.",
+      "summary_full": "코스모스 3 엣지는 혁신적인 디자인과 기능을 갖춘 새로운 제품입니다. 사용자 경험을 최우선으로 고려하여 개발되었습니다. 다양한 응용 프로그램에서 뛰어난 성능을 발휘합니다. 이 제품은 특히 효율성과 안정성을 강조합니다.",
+      "keywords": [
+        "코스모스",
+        "엣지",
+        "기술"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T15:58:51.000Z",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "collectedAt": "2026-07-21"
+    },
+    {
+      "category": "ai",
+      "title": "장기 모델 시대의 안전성과 정렬",
+      "summary": "OpenAI는 장기 운영 AI 모델 배포에서의 교훈을 공유합니다. 새로운 안전 위험과 관찰된 실패, 그리고 반복적인 배포를 통한 개선된 안전 장치에 대해 강조합니다.",
+      "summary_full": "OpenAI는 장기 운영 AI 모델을 배포하면서 겪은 교훈을 공유합니다. 이 과정에서 새로운 안전 위험과 관찰된 실패 사례가 드러났습니다. 또한, 반복적인 배포를 통해 안전 장치를 개선하는 방법에 대해 논의합니다. 이러한 경험은 AI 모델의 안전성과 정렬을 강화하는 데 중요한 역할을 합니다.",
+      "keywords": [
+        "AI 모델",
+        "안전성",
+        "배포"
+      ],
+      "source": "OpenAI News",
+      "date": "7월 20일",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "design",
@@ -310,19 +454,19 @@
     },
     {
       "category": "design",
-      "title": "메인 스레드를 ‘차단’해야 할 때",
-      "summary": "웹 개발에서 메인 스레드를 차단하지 말라는 규칙은 잘 알려져 있다. 그러나 특정 상황에서는 이 규칙을 예외적으로 적용할 필요가 있을 수 있다.",
-      "summary_full": "현대 웹 개발에서 메인 스레드를 차단하지 말라는 규칙은 매우 중요하다. 메인 스레드는 단일 스레드로 작동하므로 동시에 여러 작업을 처리할 수 없다. 그럼에도 불구하고 특정 상황에서는 메인 스레드를 차단하는 것이 유리할 수 있다. 이러한 경우를 이해하고 적절히 활용하는 것이 중요하다.",
+      "title": "메인 스레드를 '차단'해야 할 때",
+      "summary": "웹 개발에서 메인 스레드를 차단하지 말라는 규칙은 잘 알려져 있다. 그러나 특정 상황에서는 이 규칙을 예외적으로 적용할 수 있다.",
+      "summary_full": "현대 웹 개발에서 '메인 스레드를 차단하지 말라'는 규칙은 거의 모든 성능 가이드에 등장하는 중요한 조언이다. 메인 스레드는 단일 스레드로 작동하므로 동시에 여러 작업을 수행할 수 없다. 하지만 특정 상황에서는 메인 스레드를 차단하는 것이 합리적일 수 있다. 이러한 예외적인 경우를 이해하는 것이 중요하다.",
       "keywords": [
         "웹 개발",
         "메인 스레드",
-        "성능 가이드"
+        "성능 최적화"
       ],
       "source": "smashingmagazine.com",
       "date": "7월 17일",
       "publishedAt": "2026-07-17T08:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "design",
@@ -454,11 +598,11 @@
     },
     {
       "category": "ai",
-      "title": "생물 회복력에 대한 우리의 접근법",
-      "summary": "Google DeepMind와 Isomorphic Labs가 생물 회복력 및 AI 모델에 대한 공동 접근법을 공유합니다.",
-      "summary_full": "Google DeepMind와 Isomorphic Labs는 생물 회복력에 대한 혁신적인 접근법을 제시하고 있습니다. 이들은 AI 모델을 활용하여 생물학적 시스템의 회복력을 향상시키는 방법을 모색하고 있습니다. 이러한 협력은 생명과학 분야에서의 새로운 가능성을 열어줄 것으로 기대됩니다. AI와 생물학의 융합이 미래의 연구에 미치는 영향을 탐구합니다.",
+      "title": "생명 회복력에 대한 우리의 접근법",
+      "summary": "Google DeepMind와 Isomorphic Labs가 생명 회복력과 AI 모델에 대한 공동 접근법을 공유합니다.",
+      "summary_full": "Google DeepMind와 Isomorphic Labs는 생명 회복력에 대한 혁신적인 접근법을 제시합니다. 이들은 AI 모델을 활용하여 생명체의 회복력을 향상시키는 방법을 탐구하고 있습니다. 공동 연구를 통해 생명 과학 분야의 발전을 도모하고 있습니다. 이러한 노력은 지속 가능한 생태계와 건강한 미래를 위한 기초가 될 것입니다.",
       "keywords": [
-        "생물 회복력",
+        "생명 회복력",
         "AI 모델",
         "Google DeepMind"
       ],
@@ -466,7 +610,7 @@
       "date": "7월 16일",
       "publishedAt": "2026-07-16T09:30:42.000Z",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "industry",
@@ -534,19 +678,19 @@
     },
     {
       "category": "figma",
-      "title": "코드 기반 화면을 Figma 캔버스에 가져오기",
-      "summary": "코드 기반 화면을 Figma 캔버스에 가져오면 색상, 타입, 간격이 파일 내의 변수에 연결됩니다. 이는 디자인 레이어로 Make 미리보기를 캔버스에 복사할 때 확인할 수 있습니다.",
-      "summary_full": "Figma 캔버스에 코드 기반 화면을 가져오면 색상, 타입, 간격이 하드코딩된 값이 아닌 파일 내의 변수에 바인딩됩니다. 사용자는 Make 미리보기를 디자인 레이어로 캔버스에 복사할 때 이러한 변화를 확인할 수 있습니다. 이는 디자인 작업의 일관성을 높이고 효율성을 향상시킵니다. 결과적으로, 디자이너는 더 유연하게 작업할 수 있습니다.",
+      "title": "코드 기반 화면을 Figma 캔버스에 가져올 때",
+      "summary": "Figma 캔버스에 코드 기반 화면을 가져오면 색상, 글꼴, 간격이 파일 내의 변수에 연결됩니다. 이는 디자인 레이어로 Make 미리보기를 복사할 때 확인할 수 있습니다.",
+      "summary_full": "Figma 캔버스에 코드 기반 화면을 가져오면 색상, 글꼴 및 간격이 하드코딩된 값이 아닌 파일 내의 변수에 바인딩됩니다. 사용자는 Make 미리보기를 디자인 레이어로 캔버스에 복사할 때 이러한 변화를 확인할 수 있습니다. 이는 디자인 프로세스를 보다 유연하게 만들어 줍니다. 결과적으로, 개발자와 디자이너 간의 협업이 더욱 원활해질 것입니다.",
       "keywords": [
         "Figma",
         "코드 기반 디자인",
-        "디자인 효율성"
+        "디자인 협업"
       ],
       "source": "Figma Release Notes",
       "date": "7월 16일",
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "trend",
@@ -855,8 +999,8 @@
     {
       "category": "ai",
       "title": "캐나다의 클로드 활용: 앤트로픽 경제 지수의 발견",
-      "summary": "캐나다가 클로드를 어떻게 활용하는지에 대한 연구 결과를 다룬다. 앤트로픽 경제 지수를 통해 얻은 인사이트를 공유한다.",
-      "summary_full": "이 연구는 캐나다에서 클로드라는 AI 시스템의 활용 방식을 분석한다. 앤트로픽 경제 지수의 데이터를 기반으로 경제적 영향을 평가한다. 연구 결과는 클로드의 효과적인 사용 사례를 제시하며, 정책 결정에 기여할 수 있는 정보를 제공한다. 이러한 발견은 AI 기술이 경제에 미치는 영향을 이해하는 데 중요한 역할을 한다.",
+      "summary": "캐나다가 클로드를 어떻게 활용하는지에 대한 연구 결과를 다룬다. 앤트로픽 경제 지수의 분석을 통해 경제적 통찰을 제공한다.",
+      "summary_full": "이 연구는 캐나다에서 클로드라는 AI 도구의 활용 방식을 조사한다. 앤트로픽 경제 지수를 통해 얻은 데이터는 경제적 트렌드와 패턴을 분석하는 데 기여한다. 연구 결과는 정책 입안자와 경제학자들에게 유용한 정보를 제공할 수 있다. 이러한 통찰은 캐나다의 경제 발전에 중요한 역할을 할 것으로 기대된다.",
       "keywords": [
         "캐나다",
         "클로드",
@@ -866,7 +1010,7 @@
       "date": "7월 14일",
       "publishedAt": "2026-07-14T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "trend",
@@ -1609,8 +1753,8 @@
     {
       "category": "ai",
       "title": "삼성전자, AI 서버용 차세대 SSD 'PM1763' 출시",
-      "summary": "삼성전자가 AI 서버에 최적화된 차세대 SSD 'PM1763'을 출시했다. 이 제품은 LLM 전송 속도를 2배 향상시켜 데이터 처리 성능을 크게 개선했다.",
-      "summary_full": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시하였다. 이 SSD는 LLM 전송 속도를 2배 향상시켜 데이터 전송 효율성을 높였다. 또한, AI 및 머신러닝 작업에 최적화된 성능을 제공하여 서버 환경에서의 활용도를 높인다. 이러한 기술적 발전은 데이터 센터의 성능 향상에 기여할 것으로 기대된다.",
+      "summary": "삼성전자가 AI 서버용으로 설계된 차세대 SSD 'PM1763'를 출시했다. 이 제품은 LLM 전송 속도가 2배 향상되어 데이터 처리 성능이 크게 개선되었다.",
+      "summary_full": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'를 출시했다. 이 SSD는 LLM 전송 속도가 기존 제품 대비 2배 향상되어, AI 및 데이터 분석 작업에 최적화된 성능을 제공한다. 또한, 새로운 기술이 적용되어 데이터 전송의 효율성을 높이고, 서버 운영 비용을 절감할 수 있는 가능성을 제시한다. 삼성전자는 이 제품을 통해 AI 시장에서의 경쟁력을 더욱 강화할 계획이다.",
       "keywords": [
         "삼성전자",
         "AI 서버",
@@ -1620,7 +1764,7 @@
       "date": "7월 8일",
       "publishedAt": "2026-07-08T16:36:56.000Z",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuRUxKMnVWZXotWFFKQmgta2tObXp6Q3ZoeWFvd0ZLc3NTak9kU3RRb1J1RU1wTnRBNGZjSk45UVVCZXU1dDNoSnNpYUlRbFBGX3JyWWlkclZPOHFVN2o2UVA0QndJSG9Dcm1ETHZn0gFyQVVfeXFMT1JTeDdRVXVseHZBTkRmZlFFa0ZQeHU3Z3lORnBfbGVsZWVaWE14MnZFQi1kcEVsVk5aTUk4WnhDeXB3eXp6TExhYWtpM1hpSFhtTnRwVE5IdkJBbmJQbklPMXhvU0UtWHJOQWRodHBtTnRn?oc=5",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "ai",
@@ -2842,18 +2986,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년, 프로이센은 대학과 공무원 시험을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 언어 학습 앱의 디자인을 이해하는 데 더 도움이 된다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 미친 영향을 탐구하는 것이 중요하다. 이는 언어 교육의 발전과 관련된 중요한 통찰을 제공한다.",
       "keywords": [
         "언어 앱",
-        "라틴어",
-        "디자인 교훈"
+        "디자인 교훈",
+        "라틴어 교수법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "ai",
@@ -2934,6 +3078,22 @@
       "publishedAt": "2026-06-30T09:00:00.000Z",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "collectedAt": "2026-07-07"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic Claude Sonnet 5, Snowflake Cortex AI 제공",
+      "summary": "Anthropic의 Claude Sonnet 5가 Snowflake Cortex AI에서 제공된다. 이 기술은 데이터 분석과 AI 통합을 통해 혁신적인 솔루션을 제공한다.",
+      "summary_full": "Anthropic의 Claude Sonnet 5가 Snowflake Cortex AI 플랫폼에서 제공된다. 이 새로운 AI 모델은 데이터 분석과 AI 기능을 결합하여 기업들이 더 나은 의사결정을 할 수 있도록 지원한다. Snowflake는 클라우드 기반 데이터 플랫폼으로, 다양한 데이터 소스를 통합하여 분석할 수 있는 기능을 제공한다. 이 협업은 데이터 기반의 혁신을 촉진할 것으로 기대된다.",
+      "keywords": [
+        "Anthropic",
+        "Claude Sonnet 5",
+        "Snowflake Cortex AI"
+      ],
+      "source": "Google News Anthropic",
+      "date": "6월 30일",
+      "publishedAt": "2026-06-30T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtWlRoS21hSlRTY2xDOEs0OHBNRmRMZmw3OFhTdzJzR3FaWDYyTlhQWDFJT21fWUhTdU9BWW9uNzdWZVpwbG93VjFlMnhWNU9qNUUtR3d1cktTZFQtcGgtQUc1LUFNMG4xRzdHV1Vfa3ZCUTZlMG1qTjhR?oc=5",
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "design",
@@ -3821,8 +3981,8 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여, 주간 2천만 회 이상 다운로드되는 글로벌 프로젝트로 성장했다.",
-      "summary_full": "es-toolkit은 Toss의 내부 라이브러리로 시작하여, 점차 많은 사용자에게 사랑받는 도구로 발전했다. 이 라이브러리는 현재 Toss와 Toss Bank의 핵심 프로젝트로 자리 잡았다. 개발자들은 이 도구를 통해 효율성을 높이고, 사용자 경험을 개선하는 데 기여하고 있다. es-toolkit의 성공적인 성장 이야기는 소규모 프로젝트가 어떻게 글로벌 영향력을 가질 수 있는지를 보여준다.",
+      "summary": "es-toolkit은 Toss 내부에서 시작된 작은 유틸리티 함수 라이브러리로, 현재는 주간 2000만 회 이상 다운로드되는 프로젝트로 성장했다. 이 글에서는 es-toolkit의 발전 과정과 Toss에서의 역할을 공유한다.",
+      "summary_full": "es-toolkit은 Toss의 내부 유틸리티 함수 라이브러리로 시작하여, 현재는 전 세계적으로 널리 사용되는 프로젝트로 성장했다. Toss의 프론트엔드 엔지니어링 팀이 이 프로젝트를 어떻게 발전시켰는지에 대한 이야기를 담고 있다. 이 라이브러리는 주간 2000만 회 이상 다운로드되며, 핵심 프로젝트로 자리잡았다. Toss와 Toss Bank의 개발자들이 그 과정을 공유한다.",
       "keywords": [
         "es-toolkit",
         "Toss",
@@ -3832,7 +3992,7 @@
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "design",
@@ -4429,54 +4589,6 @@
       "collectedAt": "2026-06-21"
     },
     {
-      "category": "frontend",
-      "title": "8000개의 서울 카페에서 노트북 작업에 적합한 카페 찾기",
-      "summary": "서울의 카페 중 노트북 작업에 적합한 곳을 찾기 위해 방문자 리뷰 키워드를 분석했다. 단순한 별점이 아닌, 좌석의 넓이와 조용함, 전원 콘센트 유무 등을 기준으로 카페를 평가했다.",
-      "summary_full": "서울에서 노트북 작업을 하기 좋은 카페를 찾기 위해 8000개의 카페를 분석했다. 리뷰에서 좌석의 넓이, 조용함, 전원 콘센트 유무와 같은 요소를 키워드로 추출했다. 단순한 별점 대신 실제 사용자의 경험을 바탕으로 카페의 작업 환경을 평가했다. 이를 통해 최적의 카페를 찾는 방법을 제시하고 있다.",
-      "keywords": [
-        "서울 카페",
-        "노트북 작업",
-        "방문자 리뷰"
-      ],
-      "source": "dev.to",
-      "date": "6월 20일",
-      "publishedAt": "2026-06-20T03:30:59.000Z",
-      "url": "https://dev.to/_9848c5582063b42abecb7/i-scored-8000-seoul-cafes-for-laptop-workability-from-review-keywords-1aol",
-      "collectedAt": "2026-06-20"
-    },
-    {
-      "category": "trend",
-      "title": "AI API의 비선형 비용과 숨겨진 프리미엄",
-      "summary": "AI API의 운영 비용이 예측된 QPS와 실제 비즈니스 피크 간의 동적 병목 현상으로 인해 증가하고 있다.",
-      "summary_full": "클라우드 서비스 제공업체의 요금 모델은 예측된 QPS를 기준으로 하여 실제 부하의 변동성을 무시한다. 비즈니스 피크가 예측된 QPS를 초과하면 높은 비율의 초과 요금이 발생하며, 다중 모드 AI 요청의 복잡성으로 인해 단일 초과 비용이 일반 API 호출보다 훨씬 높다. 또한, 엣지 컴퓨팅 환경의 간헐적인 연결은 피크와 저점 효과를 악화시키고 예측할 수 없는 비용을 초래한다.",
-      "keywords": [
-        "AI API",
-        "비용",
-        "클라우드 서비스"
-      ],
-      "source": "dev.to",
-      "date": "6월 20일",
-      "publishedAt": "2026-06-20T00:30:40.000Z",
-      "url": "https://dev.to/ytxqrhon191/yin-xing-yi-jie-ai-apide-fei-xian-xing-cheng-ben-4hpe",
-      "collectedAt": "2026-06-20"
-    },
-    {
-      "category": "industry",
-      "title": "트럼프, G7 회의 후 앤소로픽을 국가안보 위협으로 보지 않기로 결정",
-      "summary": "트럼프 대통령은 앤소로픽을 더 이상 국가안보 위협으로 보지 않겠다고 밝혔다. 이는 지난 3개월간의 강경한 입장에서의 급격한 변화다.",
-      "summary_full": "트럼프 대통령은 사전 녹화된 Axios 인터뷰에서 앤소로픽을 국가안보 위협으로 보지 않겠다고 말했다. 이는 지난 3개월 동안의 행정부의 강경한 입장에서의 급격한 변화로 해석된다. 질문에 대해 그는 '지금은 아니다. 하지만 일주일 전에는 그럴 수도 있었다'고 답했다. 이 이야기는 The Next Web에서 계속됩니다.",
-      "keywords": [
-        "트럼프",
-        "앤소로픽",
-        "국가안보"
-      ],
-      "source": "thenextweb.com",
-      "date": "6월 19일",
-      "publishedAt": "2026-06-19T21:42:23.000Z",
-      "url": "https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview",
-      "collectedAt": "2026-06-20"
-    },
-    {
       "category": "industry",
       "title": "기업 소프트웨어의 개인화",
       "summary": "기업 소프트웨어의 사용자 경험을 변화시키는 세 가지 디자인 트렌드에 대해 설명합니다. 이러한 변화는 사용자와의 상호작용 방식을 혁신적으로 개선하고 있습니다.",
@@ -4491,22 +4603,6 @@
       "publishedAt": "2026-06-19T20:33:57.000Z",
       "url": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4",
       "collectedAt": "2026-06-21"
-    },
-    {
-      "category": "trend",
-      "title": "가장 유망한 에볼라 백신, 15년간 방치되다",
-      "summary": "2011년에 개발된 에볼라 백신이 현재 콩고의 Bundibugyo 발병에 도움이 될 수 있을지 연구자들이 급히 실험하고 있다.",
-      "summary_full": "2011년에 개발된 에볼라 백신이 15년 동안 사용되지 않고 방치되어 있었다. 최근 연구자들은 이 백신이 현재 콩고에서 발생한 Bundibugyo 발병에 효과가 있을지를 확인하기 위해 급히 실험을 진행하고 있다. 초기 테스트 이후로 이 백신의 가능성이 다시 주목받고 있다. 연구자들은 이 백신이 실제로 도움이 될 수 있을지에 대한 결과를 기다리고 있다.",
-      "keywords": [
-        "에볼라",
-        "백신",
-        "콩고"
-      ],
-      "source": "wired.com",
-      "date": "6월 19일",
-      "publishedAt": "2026-06-19T14:23:43.000Z",
-      "url": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/",
-      "collectedAt": "2026-06-20"
     },
     {
       "category": "frontend",
@@ -4670,22 +4766,6 @@
     },
     {
       "category": "ai",
-      "title": "정부, 한국형 챗GPT ‘모두의 AI’ 출시",
-      "summary": "정부가 한국형 챗GPT인 '모두의 AI'를 연내 출시할 계획이다. 이를 위해 국산 대형 언어 모델(LLM)을 총동원할 예정이다.",
-      "summary_full": "정부는 한국형 챗GPT인 '모두의 AI'를 올해 안에 출시할 예정이다. 이 프로젝트는 국산 대형 언어 모델(LLM)을 활용하여 진행된다. '모두의 AI'는 다양한 분야에서 활용될 것으로 기대된다. 정부는 이를 통해 AI 기술의 발전을 도모하고, 국내 AI 생태계를 강화할 계획이다.",
-      "keywords": [
-        "챗GPT",
-        "모두의 AI",
-        "국산 LLM"
-      ],
-      "source": "Google News AI (KR)",
-      "date": "6월 16일",
-      "publishedAt": "2026-06-16T01:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdFBwcW9ha2hCbjJpZTJYakVoTlJ5LVRDVWtLb2JHOEZqTEtzRXdCZUNxQmxmVVE0SmczdnVpdmpJMi1XZ0hES09xUW9tQkJwT1HSAVNBVV95cUxOc1Fqa3VEY0NFN3A2ck5KUjBWalNZWHlJUkdLcmlZZUp4Mlp4NFNmd1pZN3pzelRDNmlHOW1yRG9CUVF2MTNpOURZQmYxYjhEbm92bw?oc=5",
-      "collectedAt": "2026-06-20"
-    },
-    {
-      "category": "ai",
       "title": "Snowflake Cortex AI에서 Anthropic Claude Fable 5 출시",
       "summary": "Snowflake Cortex AI가 새로운 AI 모델인 Anthropic Claude Fable 5를 출시했다. 이 모델은 데이터 분석과 인공지능 기능을 강화하는 데 중점을 두고 있다.",
       "summary_full": "Snowflake Cortex AI가 최신 AI 모델인 Anthropic Claude Fable 5를 발표했다. 이 모델은 데이터 처리 및 분석을 위한 혁신적인 기능을 제공하며, 기업들이 더 나은 의사결정을 할 수 있도록 지원한다. Claude Fable 5는 사용자 친화적인 인터페이스와 강력한 성능을 자랑한다. Snowflake는 이 모델이 데이터 기반의 인사이트를 제공하여 비즈니스 성장에 기여할 것으로 기대하고 있다.",
@@ -4734,9 +4814,9 @@
     },
     {
       "category": "ai",
-      "title": "엠미, AI 원주율 산업 가속화를 위해 미스트랄과 협력",
-      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업의 발전을 가속화한다. 이 파트너십은 두 회사의 기술적 시너지를 통해 AI 솔루션의 혁신을 촉진할 것으로 기대된다. 또한, AI 산업의 성장에 기여하며 새로운 비즈니스 기회를 창출할 예정이다. 엠미와 미스트랄의 협력은 AI 기술의 상용화를 더욱 앞당길 전망이다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 원주율 산업의 성장을 가속화하기 위한 협력 관계를 맺었다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 AI 솔루션의 개발과 상용화를 통해 시장 경쟁력을 높일 계획이다. 이러한 파트너십은 AI 산업의 미래를 밝히는 중요한 이정표가 될 것이다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4746,7 +4826,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     },
     {
       "category": "design",
@@ -4767,8 +4847,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인을 이끌어갈 9가지 주요 트렌드를 소개합니다. 이 트렌드들은 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비하여 UX 디자인의 9가지 주요 트렌드를 살펴봅니다. 이러한 트렌드는 기술 발전과 사용자 요구에 따라 변화하며, 사용자 경험을 향상시키는 데 중요한 역할을 할 것입니다. 각 트렌드는 디자인의 접근성과 효율성을 높이는 데 중점을 두고 있습니다. 이 기사에서는 이러한 트렌드가 어떻게 UX 디자인에 영향을 미칠지를 논의합니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 살펴봅니다. 혁신적인 접근 방식과 사용자 경험을 향상시키기 위한 다양한 전략이 소개됩니다.",
+      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드가 제시됩니다. 이 트렌드는 사용자 경험을 개선하고, 기술 발전에 발맞추어 나가기 위한 다양한 방법을 포함하고 있습니다. 각 트렌드는 디자인의 미래를 형성하는 데 중요한 역할을 할 것으로 예상됩니다. UX 디자이너와 개발자들에게 유용한 인사이트를 제공합니다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4778,7 +4858,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-07-20"
+      "collectedAt": "2026-07-21"
     }
   ]
 }
