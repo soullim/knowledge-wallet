@@ -1,22 +1,150 @@
 {
-  "updated": "2026년 7월 24일 AM 02:33",
-  "count": 304,
+  "updated": "2026년 7월 25일 AM 02:31",
+  "count": 300,
   "articles": [
     {
       "category": "industry",
-      "title": "Ureka 제작기: 인사이트의 조직 자산화",
-      "summary": "Ureka는 흩어진 리서치 리포트를 연결하여 지식 구조를 만드는 방법을 탐구한다. 이를 통해 조직의 인사이트를 자산으로 전환하는 과정을 설명한다.",
-      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 효과적으로 연결하는 지식 구조를 만드는 방법을 제시한다. 이 과정은 조직의 인사이트를 자산으로 전환하는 데 중요한 역할을 한다. AI 기술을 활용하여 정보의 통합과 분석을 극대화하는 방법을 탐구한다. 궁극적으로, 이러한 접근 방식이 조직의 경쟁력을 어떻게 향상시킬 수 있는지를 논의한다.",
+      "title": "Ureka 제작기: 조직의 자산으로서의 인사이트",
+      "summary": "Ureka 프로젝트는 흩어진 리서치 리포트를 연결하여 조직의 지식 구조를 만드는 방법을 탐구한다. 이 과정에서 인사이트가 어떻게 가치 있는 자산으로 변모하는지를 논의한다.",
+      "summary_full": "Ureka 제작기는 조직 내에서 흩어진 리서치 리포트를 통합하여 효과적인 지식 구조를 만드는 방법을 제시한다. 이 프로젝트는 인사이트가 조직의 자산으로 발전할 수 있는 방법을 탐구하며, 이를 통해 정보의 가치를 극대화하는 전략을 모색한다. AI 기술을 활용하여 데이터 분석과 정보 관리의 효율성을 높이는 방안도 제안된다. 궁극적으로, Ureka는 조직의 지식 자산을 강화하는 데 기여할 수 있는 혁신적인 접근법을 제공한다.",
       "keywords": [
         "Ureka",
         "지식 구조",
         "조직 자산"
       ],
       "source": "오늘의집 Culture",
-      "date": "7월 24일",
-      "publishedAt": "2026-07-24T02:31:57.555Z",
+      "date": "7월 25일",
+      "publishedAt": "2026-07-25T02:29:54.059Z",
       "url": "https://www.bucketplace.com/post/2026-07-08-ureka-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9E%90%EC%82%B0%EC%9D%B4-%EB%90%A0%EA%B9%8C/",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "design",
+      "title": "사용자를 고소한 xAI",
+      "summary": "xAI가 한 사용자를 상대로 소송을 제기했다. 이 사건은 인공지능과 사용자 간의 법적 문제를 다루고 있다.",
+      "summary_full": "xAI가 특정 사용자를 고소한 사건이 발생했다. 이 소송은 인공지능 기술의 사용과 관련된 법적 쟁점을 포함하고 있다. 사용자와 기업 간의 관계에서 발생할 수 있는 법적 문제를 조명하는 사례로 주목받고 있다. 이 사건은 향후 인공지능 관련 법률에 영향을 미칠 가능성이 있다.",
+      "keywords": [
+        "xAI",
+        "소송",
+        "인공지능"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "7월 25일",
+      "publishedAt": "2026-07-25T02:29:49.256Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-800/",
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "frontend",
+      "title": "하나의 Cloudflare Workers 크론으로 여러 작업 수행하기: 분당 틱과 시간 분기",
+      "summary": "Cloudflare Workers의 무료 플랜에서 크론 트리거는 계정당 5개로 제한되어 있어 여러 서비스를 운영하기 어렵다. 이를 해결하기 위해 분당 스케줄로 크론을 통합하고 분기하는 방법을 제안한다.",
+      "summary_full": "Cloudflare Workers의 무료 플랜에서는 크론 트리거가 계정당 5개로 제한되어 있어, 여러 서비스를 운영할 경우 빠르게 한계에 도달한다. 이 문제를 해결하기 위해 하나의 분당 스케줄로 크론을 통합하고, 각 작업을 시간에 따라 분기하는 방법을 제안한다. 이를 통해 여러 작업을 효율적으로 관리할 수 있다. 이 접근법은 서비스의 확장성을 높이는 데 기여할 수 있다.",
+      "keywords": [
+        "Cloudflare Workers",
+        "크론",
+        "스케줄링"
+      ],
+      "source": "dev.to",
+      "date": "7월 25일",
+      "publishedAt": "2026-07-25T02:08:05.000Z",
+      "url": "https://dev.to/aulvem/one-cloudflare-workers-cron-many-jobs-a-per-minute-tick-with-time-branching-38oh",
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "trend",
+      "title": "NASA의 중요한 심우주 관측소, 스페인 산불에 피해",
+      "summary": "마드리드 근처의 심우주 통신 복합단지가 산불로 피해를 입었다. NASA는 지역의 산불 비상사태로 인해 피해 평가를 하지 못하고 있다.",
+      "summary_full": "스페인 마드리드 근처에 위치한 NASA의 심우주 통신 복합단지가 산불로 인해 피해를 입었다. 이 지역은 현재 산불 비상사태로 어려움을 겪고 있으며, NASA는 피해 상황을 평가할 수 없는 상황이다. 산불의 확산이 통신 시설에 미치는 영향이 우려되고 있다. NASA는 조속한 피해 평가와 복구 작업을 계획하고 있다.",
+      "keywords": [
+        "NASA",
+        "심우주 관측소",
+        "스페인 산불"
+      ],
+      "source": "wired.com",
+      "date": "7월 24일",
+      "publishedAt": "2026-07-24T22:30:26.000Z",
+      "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "industry",
+      "title": "불안 장애를 가진 원격 근무자, 카메라 켜기 강요로 차별 소송 승소",
+      "summary": "영국 고용 재판소는 불안, ADHD, 자폐증을 가진 원격 근무자가 비디오 교육 세션 중 카메라를 켜도록 강요받은 것은 장애 차별에 해당한다고 판결했다. 이 사건은 고용주가 합리적인 조정을 하지 않았음을 인정받아 보상을 받게 되었다.",
+      "summary_full": "영국의 한 고용 재판소가 불안, ADHD, 자폐증을 가진 원격 근무자가 비디오 교육 중 카메라를 켜도록 강요받은 사건에서 차별을 인정했다. 이 원격 근무자는 Holiday Extras의 홈 기반 여행 상담사로 일하고 있었다. 재판소는 고용주가 장애인을 위한 합리적인 조정을 하지 않았다고 판단했다. 결과적으로 그녀는 보상을 받게 되었다.",
+      "keywords": [
+        "원격 근무",
+        "장애 차별",
+        "고용 재판소"
+      ],
+      "source": "thenextweb.com",
+      "date": "7월 24일",
+      "publishedAt": "2026-07-24T21:30:13.000Z",
+      "url": "https://thenextweb.com/news/uk-tribunal-camera-on-disability-discrimination-remote-work",
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "trend",
+      "title": "생성된 그림책의 24페이지에서 캐릭터 일관성 유지하기",
+      "summary": "한 장의 일러스트를 생성하는 것은 쉬운 일이지만, 같은 아이, 같은 스타일로 24장을 생성하는 것은 어렵다. 페이지를 독립적으로 생성하면 각 페이지는 그럴듯하지만, 순서대로 배열하면 캐릭터가 나이를 먹는 문제가 발생한다.",
+      "summary_full": "아이의 일러스트를 생성하는 것은 이제 쉬운 일이지만, 24페이지에 걸쳐 같은 아이를 동일한 스타일로 다양한 장면에서 생성하는 것은 도전적이다. 각 페이지를 독립적으로 생성하면 각각은 그럴듯하게 보일 수 있지만, 이를 순서대로 배열하면 캐릭터가 나이를 먹는 문제가 발생한다. 이러한 드리프트는 누적적이고 교묘하게 나타나며, 결과적으로 일관성을 잃게 만든다. 따라서 그림책의 일관성을 유지하기 위한 기술적 접근이 필요하다.",
+      "keywords": [
+        "캐릭터 일관성",
+        "그림책 생성",
+        "AI 일러스트레이션"
+      ],
+      "source": "dev.to",
+      "date": "7월 24일",
+      "publishedAt": "2026-07-24T19:36:08.000Z",
+      "url": "https://dev.to/clarajbennett/character-consistency-across-24-pages-of-a-generated-picture-book-4i80",
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "industry",
+      "title": "배달 플랫폼 생존 전략은 자체물류",
+      "summary": "최자영 교수는 자체물류가 배달 플랫폼의 생존을 결정짓는 핵심 전략이라고 강조했다. 한국유통학회는 AI 시대에 맞춘 지속가능한 배달 생태계 전략을 논의하는 포럼을 개최했다.",
+      "summary_full": "최자영 한국유통학회 회장은 자체물류(OD)가 라스트마일 경쟁에서 플랫폼의 생존을 좌우하는 핵심 전략이라고 말했다. 한국유통학회는 24일 서울에서 'AI시대, 음식점과 이용자가 함께 성장하는 지속가능한 배달 생태계 전략'을 주제로 포럼을 열었다. 이 포럼은 AI 시대에 맞춘 지속가능한 배달 생태계 전략을 논의하기 위한 자리였다. 참석자들은 배달 플랫폼의 경쟁력을 높이기 위한 다양한 의견을 교환했다.",
+      "keywords": [
+        "배달 플랫폼",
+        "자체물류",
+        "지속가능한 생태계"
+      ],
+      "source": "바이라인네트워크",
+      "date": "7월 24일",
+      "publishedAt": "2026-07-24T12:56:13.000Z",
+      "url": "https://byline.network/2026/07/0724-9/",
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "industry",
+      "title": "공격적으로 평범한 전투",
+      "summary": "AI와의 싸움과 우리가 할 수 있는 일에 대한 이야기이다.",
+      "summary_full": "AI와의 전투는 우리의 삶에 큰 영향을 미치고 있다. 이 기사에서는 AI와의 갈등을 해결하기 위한 방법을 제시한다. 기술의 발전이 가져오는 도전과 기회에 대해 논의한다. 독자들에게 실질적인 해결책을 제공하는 내용을 담고 있다.",
+      "keywords": [
+        "AI",
+        "전투",
+        "UX"
+      ],
+      "source": "uxdesign.cc",
+      "date": "7월 24일",
+      "publishedAt": "2026-07-24T11:09:24.000Z",
+      "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "ai",
+      "title": "미국 정부의 Anthropic AI 모델 접근 통제와 해제",
+      "summary": "미국 정부가 Anthropic AI 모델에 대한 접근을 통제하고 해제하는 방안을 모색하고 있다. 이는 AI 수출통제 리스크의 새로운 국면을 의미한다.",
+      "summary_full": "미국 정부는 Anthropic AI 모델에 대한 접근 통제를 강화하고 해제하는 방안을 검토하고 있다. 이러한 조치는 AI 기술의 수출통제와 관련된 리스크를 관리하기 위한 것으로, 글로벌 AI 시장에 미치는 영향이 클 것으로 예상된다. 정부의 정책 변화는 AI 개발 및 활용에 대한 새로운 규제 환경을 조성할 수 있다. 이에 따라 기업들은 AI 기술의 수출 및 활용에 대한 전략을 재조정해야 할 필요성이 커지고 있다.",
+      "keywords": [
+        "AI 모델",
+        "수출통제",
+        "Anthropic"
+      ],
+      "source": "Google News Anthropic",
+      "date": "7월 24일",
+      "publishedAt": "2026-07-24T08:35:53.000Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WSEd4Ni1DbkZzaDFPX3h4LUFaSU9IY01FU0pIX0VCOFZ3UVlBckZydjVfMDA5QVdDbUNqTThBUFZHXzh3VTJSR2VqSXZFUzVzcmlISUxkVHRtRUNtdUVwV0RXdTR3Wi1ldVZiM3MyQlhZUdIBckFVX3lxTE1WSEd4Ni1DbkZzaDFPX3h4LUFaSU9IY01FU0pIX0VCOFZ3UVlBckZydjVfMDA5QVdDbUNqTThBUFZHXzh3VTJSR2VqSXZFUzVzcmlISUxkVHRtRUNtdUVwV0RXdTR3Wi1ldVZiM3MyQlhZUQ?oc=5",
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "design",
@@ -65,6 +193,38 @@
       "publishedAt": "2026-07-24T00:38:05.000Z",
       "url": "https://dev.to/vault9000/7-heartfelt-mom-gift-ideas-that-arent-another-mug-1o4g",
       "collectedAt": "2026-07-24"
+    },
+    {
+      "category": "figma",
+      "title": "자동 레이아웃과 CSS의 차이",
+      "summary": "자동 레이아웃과 CSS의 레이아웃 처리 방식의 작은 차이로 인해 개발자들은 핸드오프 시 추가 작업을 해야 했다. 이번 업데이트는 이러한 차이를 해소하며, 기존 프레임은 레거시 버전을 유지하고 새로운 프레임은 자동으로 업데이트된다.",
+      "summary_full": "자동 레이아웃과 CSS의 레이아웃 처리 방식의 작은 차이로 인해 개발자들은 핸드오프 시 추가 작업을 해야 했다. 이번 업데이트는 이러한 차이를 해소하며, 기존 프레임은 레거시 버전을 유지하고 새로운 프레임은 자동으로 업데이트된다. 사용자는 2027년 1월까지 레거시 버전으로 돌아갈 수 있다. 자세한 내용은 도움말 센터에서 확인할 수 있다.",
+      "keywords": [
+        "자동 레이아웃",
+        "CSS",
+        "업데이트"
+      ],
+      "source": "Figma Release Notes",
+      "date": "7월 24일",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-07-25"
+    },
+    {
+      "category": "ai",
+      "title": "AI가 드론을 제어할 수 있을까?",
+      "summary": "이 프로젝트는 AI가 드론을 제어할 수 있는지를 탐구한다. Frontier Red Team이 주도하는 이 파일럿 프로젝트는 AI의 가능성을 시험하는 데 중점을 둔다.",
+      "summary_full": "이 프로젝트는 AI가 드론을 제어할 수 있는지를 탐구한다. Frontier Red Team이 주도하는 이 파일럿 프로젝트는 AI의 가능성을 시험하는 데 중점을 둔다. 드론 기술의 발전과 AI의 통합이 어떻게 이루어질 수 있는지를 분석한다. 이 연구는 향후 드론 운영의 새로운 패러다임을 제시할 수 있다.",
+      "keywords": [
+        "AI",
+        "드론",
+        "Frontier Red Team"
+      ],
+      "source": "Anthropic Research",
+      "date": "7월 24일",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "trend",
@@ -196,9 +356,9 @@
     },
     {
       "category": "ai",
-      "title": "ChatGPT의 건강 기능 출시",
-      "summary": "ChatGPT의 건강 기능이 미국의 적격 사용자들에게 의료 기록과 Apple Health를 안전하게 연결할 수 있게 해줍니다. 이를 통해 사용자들은 더 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다.",
-      "summary_full": "ChatGPT의 건강 기능이 새롭게 출시되었습니다. 이제 미국의 적격 사용자들은 자신의 의료 기록과 Apple Health를 안전하게 연결할 수 있습니다. 이 기능은 사용자들에게 더 개인화된 건강 통찰력을 제공하며, 자신의 건강 상태를 보다 잘 이해하는 데 도움을 줍니다. 이를 통해 사용자들은 건강 관리에 있어 보다 효과적인 결정을 내릴 수 있습니다.",
+      "title": "ChatGPT에서 건강 기능 출시",
+      "summary": "ChatGPT의 건강 기능이 미국의 적격 사용자들에게 의료 기록과 Apple Health를 안전하게 연결할 수 있는 기능을 제공합니다. 이를 통해 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다.",
+      "summary_full": "ChatGPT의 새로운 건강 기능이 미국 사용자들에게 제공됩니다. 이 기능을 통해 사용자는 자신의 의료 기록과 Apple Health를 안전하게 연결할 수 있습니다. 이를 통해 더욱 개인화된 건강 통찰력을 얻고, 자신의 건강 상태를 더 잘 이해할 수 있게 됩니다. 이는 사용자들에게 보다 나은 건강 관리 경험을 제공하는 데 기여할 것입니다.",
       "keywords": [
         "ChatGPT",
         "건강 기능",
@@ -208,13 +368,13 @@
       "date": "7월 23일",
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "url": "https://openai.com/index/health-in-chatgpt",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "ai",
-      "title": "넌차쿠 4비트 확산 추론을 디퓨저에 적용하기",
-      "summary": "넌차쿠 4비트 확산 추론 기술이 디퓨저에 도입되었다. 이 기술은 효율적인 데이터 처리와 향상된 성능을 제공한다.",
-      "summary_full": "넌차쿠 4비트 확산 추론 기술이 디퓨저에 적용되었다. 이 기술은 데이터 처리의 효율성을 높이고 성능을 개선하는 데 기여한다. 디퓨저는 다양한 응용 프로그램에서 활용될 수 있는 가능성을 지닌다. 이를 통해 더 나은 결과를 도출할 수 있는 기반이 마련되었다.",
+      "title": "넌차쿠 4비트 확산 추론을 디퓨저에 도입하기",
+      "summary": "이 글에서는 넌차쿠 4비트 확산 추론 기술을 디퓨저에 적용하는 방법을 설명합니다. 이를 통해 효율적인 데이터 처리와 향상된 성능을 기대할 수 있습니다.",
+      "summary_full": "이 글에서는 넌차쿠 4비트 확산 추론 기술을 디퓨저에 도입하는 방법을 다룹니다. 이 기술은 데이터 처리의 효율성을 높이고, 성능을 향상시키는 데 기여할 수 있습니다. 또한, 디퓨저의 활용 범위를 확장하는 데 중요한 역할을 할 것으로 예상됩니다. 이러한 접근 방식은 머신러닝 및 데이터 과학 분야에서의 혁신적인 발전을 이끌 수 있습니다.",
       "keywords": [
         "넌차쿠",
         "4비트",
@@ -224,7 +384,7 @@
       "date": "7월 23일",
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "industry",
@@ -327,8 +487,8 @@
     {
       "category": "ai",
       "title": "과학 발견의 최전선 가속화: 구글의 제네시스 미션에 대한 4천만 달러 투자",
-      "summary": "구글이 제네시스 미션에 4천만 달러를 AI 토큰과 크레딧으로 지원하기로 했다. 이 지원은 과학 연구의 혁신을 촉진하는 데 기여할 예정이다.",
-      "summary_full": "구글은 제네시스 미션을 위해 4천만 달러를 AI 토큰과 크레딧 형태로 투자하기로 발표했다. 이 미션은 과학 발견의 경계를 확장하고 혁신적인 연구를 촉진하는 목표를 가지고 있다. 구글의 지원은 다양한 과학 분야에서의 연구를 가속화할 것으로 기대된다. 이는 AI 기술을 활용하여 더 나은 연구 환경을 제공하는 데 기여할 것이다.",
+      "summary": "구글이 제네시스 미션을 위해 4천만 달러를 AI 토큰과 크레딧으로 지원하기로 했다. 이는 과학 연구의 혁신을 촉진하기 위한 노력의 일환이다.",
+      "summary_full": "구글은 제네시스 미션에 4천만 달러를 AI 토큰과 크레딧 형태로 기부하기로 결정했다. 이 투자는 과학 발견의 최전선에서 혁신을 가속화하는 데 기여할 것으로 기대된다. 제네시스 미션은 인공지능을 활용하여 과학적 연구를 지원하는 프로젝트이다. 구글의 이번 투자로 인해 다양한 연구 분야에서 새로운 가능성이 열릴 전망이다.",
       "keywords": [
         "구글",
         "제네시스 미션",
@@ -338,7 +498,7 @@
       "date": "7월 22일",
       "publishedAt": "2026-07-22T13:38:54.000Z",
       "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "ai",
@@ -537,9 +697,9 @@
     },
     {
       "category": "design",
-      "title": "리액트 플라이트 프로토콜의 무기화와 방어: RSC에서의 역직렬화 취약점",
-      "summary": "리액트 서버 컴포넌트는 HTML이나 JSON을 브라우저에 전송하지 않고, 대신 플라이트라는 커스텀 스트리밍 프로토콜을 사용한다. 이 프로토콜은 고유한 타입 시스템과 참조 해석 규칙을 가지고 있어 클라이언트에서 실행 가능한 동작을 재구성하는 데 필요한 규칙을 정의한다.",
-      "summary_full": "리액트 서버 컴포넌트는 HTML이나 JSON을 브라우저에 전송하지 않고, 대신 플라이트라는 커스텀 스트리밍 프로토콜을 사용한다. 플라이트는 라인 구분 형식으로, 고유한 타입 시스템과 참조 해석 규칙을 갖추고 있다. 이 프로토콜은 클라이언트에서 실행 가능한 동작을 재구성하는 데 필요한 규칙을 정의한다. 많은 리액트 개발자들은 이 프로토콜의 내부 구조를 잘 알지 못한다.",
+      "title": "리액트 플라이트 프로토콜의 무기화 및 방어: RSC의 역직렬화 취약점",
+      "summary": "리액트 서버 컴포넌트는 브라우저에 HTML이나 JSON을 전송하지 않고, 대신 플라이트라는 커스텀 스트리밍 프로토콜을 사용한다. 이 프로토콜은 자체 타입 시스템과 참조 해석 규칙을 가지고 있어 클라이언트에서 실행 가능한 동작을 재구성하는 규칙이 있다.",
+      "summary_full": "리액트 서버 컴포넌트는 HTML이나 JSON 대신 플라이트라는 커스텀 스트리밍 프로토콜을 통해 데이터를 전송한다. 플라이트는 라인 구분 형식으로, 고유한 타입 시스템과 참조 해석 방식을 갖고 있다. 이로 인해 클라이언트에서 실행 가능한 동작을 재구성하는 규칙이 존재한다. 많은 리액트 개발자들은 이 프로토콜의 내부 구조를 잘 알지 못한다.",
       "keywords": [
         "리액트",
         "서버 컴포넌트",
@@ -549,23 +709,23 @@
       "date": "7월 21일",
       "publishedAt": "2026-07-21T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "frontend",
-      "title": "쓰기 방향",
-      "summary": "writing-mode CSS 속성은 텍스트의 배치 방향을 설정합니다. 주로 중국어, 일본어와 같은 언어에서 유용합니다.",
-      "summary_full": "writing-mode CSS 속성은 텍스트가 수평 또는 수직으로 배치되는 방식을 설정합니다. 이 속성은 블록과 줄의 진행 방향도 정의합니다. 예를 들어, .element { writing-mode: vertical-rl; }와 같이 사용할 수 있습니다. 주로 중국어, 일본어와 같은 언어에서 유용하게 사용됩니다.",
+      "title": "쓰기 모드",
+      "summary": "쓰기 모드 CSS 속성은 텍스트의 배치 방향을 설정합니다. 이 속성은 주로 중국어, 일본어와 같은 언어에서 유용합니다.",
+      "summary_full": "쓰기 모드 CSS 속성은 텍스트가 수평 또는 수직으로 배치되는 방식을 설정합니다. 또한 블록과 줄이 진행되는 방향을 정의합니다. 예를 들어, .element { writing-mode: vertical-rl; }와 같이 사용할 수 있습니다. 이 속성은 주로 중국어, 일본어와 같은 언어에서 특히 유용합니다.",
       "keywords": [
         "CSS",
-        "쓰기 방향",
-        "웹 디자인"
+        "쓰기 모드",
+        "텍스트 방향"
       ],
       "source": "css-tricks.com",
       "date": "7월 21일",
       "publishedAt": "2026-07-21T09:39:10.000Z",
       "url": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "frontend",
@@ -1224,22 +1384,6 @@
       "publishedAt": "2026-07-16T02:04:14.000Z",
       "url": "https://dev.to/candra-kirana-dev/my-portfolio-design-2aj",
       "collectedAt": "2026-07-16"
-    },
-    {
-      "category": "figma",
-      "title": "코드 기반 화면을 Figma 캔버스에 가져오기",
-      "summary": "코드 기반 화면을 Figma 캔버스에 가져오면 색상, 글꼴, 간격이 하드코딩된 값이 아닌 파일 내의 변수에 바인딩됩니다.",
-      "summary_full": "Figma 캔버스에 코드 기반 화면을 가져오면 색상, 글꼴, 간격이 기존 파일의 변수에 연결됩니다. 이는 디자인 레이어로 Make 미리보기를 캔버스에 복사할 때 확인할 수 있습니다. 이렇게 하면 디자인의 일관성을 유지하고 수정이 용이해집니다. 따라서 개발자와 디자이너 간의 협업이 더욱 원활해집니다.",
-      "keywords": [
-        "Figma",
-        "코드 기반 디자인",
-        "디자인 협업"
-      ],
-      "source": "Figma Release Notes",
-      "date": "7월 16일",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-07-24"
     },
     {
       "category": "trend",
@@ -2286,18 +2430,18 @@
     {
       "category": "ai",
       "title": "삼성전자, AI 서버용 차세대 SSD 'PM1763' 출시",
-      "summary": "삼성전자가 AI 서버에 최적화된 차세대 SSD 'PM1763'을 출시했다. 이 제품은 LLM 전송 속도를 2배 향상시켜 데이터 처리 성능을 크게 개선했다.",
-      "summary_full": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시했다. 이 SSD는 대규모 언어 모델(LLM)의 전송 속도를 2배 향상시켜 데이터 처리 성능을 크게 개선했다. 새로운 기술이 적용되어 AI 관련 작업의 효율성을 높이는 데 기여할 것으로 기대된다. 삼성전자는 이번 제품을 통해 AI 서버 시장에서의 경쟁력을 강화할 계획이다.",
+      "summary": "삼성전자가 AI 서버에 최적화된 차세대 SSD 'PM1763'을 출시했다. 이 제품은 LLM 전송 속도를 2배 향상시켜 성능을 극대화했다.",
+      "summary_full": "삼성전자가 AI 서버에 적합한 차세대 SSD 'PM1763'을 출시했다. 이 SSD는 대규모 언어 모델(LLM)의 전송 속도를 기존 제품 대비 2배 향상시켜 데이터 처리 성능을 크게 개선했다. 또한, AI 연산에 최적화된 설계로 다양한 응용 분야에서 활용될 예정이다. 삼성전자는 이 제품을 통해 AI 서버 시장에서의 경쟁력을 더욱 강화할 계획이다.",
       "keywords": [
         "삼성전자",
         "AI 서버",
-        "PM1763"
+        "SSD PM1763"
       ],
       "source": "Google News AI (KR)",
       "date": "7월 8일",
       "publishedAt": "2026-07-08T16:36:56.000Z",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuRUxKMnVWZXotWFFKQmgta2tObXp6Q3ZoeWFvd0ZLc3NTak9kU3RRb1J1RU1wTnRBNGZjSk45UVVCZXU1dDNoSnNpYUlRbFBGX3JyWWlkclZPOHFVN2o2UVA0QndJSG9Dcm1ETHZn0gFyQVVfeXFMT1JTeDdRVXVseHZBTkRmZlFFa0ZQeHU3Z3lORnBfbGVsZWVaWE14MnZFQi1kcEVsVk5aTUk4WnhDeXB3eXp6TExhYWtpM1hpSFhtTnRwVE5IdkJBbmJQbklPMXhvU0UtWHJOQWRodHBtTnRn?oc=5",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "ai",
@@ -3519,18 +3663,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 영향을 미쳤다. 따라서 언어 학습 방법의 기원을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교육 방법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 앱 디자인에 미친 영향을 이해하는 것이 중요하다. 결국, 언어 학습 방법론의 기초를 이해하는 것이 더 나은 디자인을 위한 교훈이 될 수 있다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교육 방법"
+        "교육 방법론"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "ai",
@@ -4514,196 +4658,18 @@
     {
       "category": "frontend",
       "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부에서 시작된 작은 유틸리티 함수 라이브러리로, 현재는 주간 2천만 회 이상 다운로드되는 글로벌 프로젝트로 성장했다.",
-      "summary_full": "es-toolkit은 Toss의 내부 라이브러리로 시작하여, 점차 많은 사용자에게 사랑받는 프로젝트로 발전했다. 이 라이브러리는 현재 주간 2천만 회 이상 다운로드되고 있으며, 핵심 프로젝트에 채택되었다. Toss의 프론트엔드 엔지니어링 팀이 이 프로젝트의 성장 과정을 공유하고 있다. es-toolkit의 성공적인 사례는 작은 아이디어가 어떻게 글로벌 프로젝트로 성장할 수 있는지를 보여준다.",
+      "summary": "es-toolkit은 Toss 내부의 작은 유틸리티 함수 라이브러리로 시작하여 글로벌 프로젝트로 성장했다. 현재 주간 다운로드 수가 2000만 회를 넘는 성과를 거두었다.",
+      "summary_full": "es-toolkit은 Toss의 내부에서 시작된 작은 유틸리티 함수 라이브러리로, 점차 글로벌 프로젝트로 발전하였다. Toss의 프론트엔드 엔지니어링 팀이 이 프로젝트를 주도하며, 많은 개발자들에게 유용한 도구로 자리잡았다. 현재 es-toolkit은 주간 2000만 회 이상 다운로드되고 있으며, 핵심 프로젝트로 채택되고 있다. 이 성공적인 여정은 Toss의 개발 문화와 혁신적인 접근 방식을 반영한다.",
       "keywords": [
         "es-toolkit",
         "Toss",
-        "프론트엔드 라이브러리"
+        "프론트엔드 개발"
       ],
       "source": "toss.tech",
       "date": "6월 24일",
       "publishedAt": "2026-06-24T03:36:00.000Z",
       "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-07-24"
-    },
-    {
-      "category": "design",
-      "title": "Seedance 2.5, 30초 영상 제작",
-      "summary": "Seedance 2.5의 30초 영상 제작 방법을 소개합니다. 이 영상은 간단한 단계로 효과적인 콘텐츠를 만드는 방법을 보여줍니다.",
-      "summary_full": "Seedance 2.5는 짧은 시간 안에 매력적인 영상을 제작할 수 있는 도구입니다. 이 영상에서는 30초 분량의 콘텐츠를 만드는 과정을 단계별로 설명합니다. 사용자는 이 과정을 통해 빠르고 쉽게 영상을 제작할 수 있는 방법을 배울 수 있습니다. Seedance 2.5의 기능을 활용하여 창의적인 영상을 만들어 보세요.",
-      "keywords": [
-        "Seedance",
-        "영상제작",
-        "콘텐츠제작"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "6월 24일",
-      "publishedAt": "2026-06-24T03:28:08.224Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-777/",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "frontend",
-      "title": "스팸 방지: 윤리적인 이메일 검증 기법",
-      "summary": "이메일 검증은 마케팅 전략에서 중요한 요소로, 의도한 수신자에게 도달하도록 보장한다. 전통적인 검증 방법은 스팸을 유발할 수 있어 브랜드 평판에 악영향을 미칠 수 있다.",
-      "summary_full": "이메일 검증은 마케팅 전략에서 필수적이며, 의도한 수신자에게 메시지가 전달되도록 보장한다. 그러나 전통적인 이메일 검증 방법은 스팸으로 이어질 수 있어 브랜드의 명성을 해칠 위험이 있다. 이는 또한 개인 정보 보호 규정을 위반할 수 있는 가능성을 내포하고 있다. 따라서 윤리적인 이메일 검증 기법이 필요하다.",
-      "keywords": [
-        "이메일 검증",
-        "스팸 방지",
-        "마케팅 전략"
-      ],
-      "source": "dev.to",
-      "date": "6월 24일",
-      "publishedAt": "2026-06-24T03:16:52.000Z",
-      "url": "https://dev.to/ryan_m_823cbee9f96a9dee29/stop-spamming-ethical-email-verification-techniques-2lho",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "industry",
-      "title": "금융사, AI 가이드라인 준수 필요성 강조",
-      "summary": "강현정 변호사는 금융 AI 가이드라인의 중요성을 강조하며, 법적 구속력이 없음을 지적했다. 그는 가이드라인이 내부통제 및 위험관리 방향에 대한 권고에 불과하다고 설명했다.",
-      "summary_full": "강현정 김앤장 변호사는 AI 시대의 금융 시스템 재설계 포럼에서 금융 AI 가이드라인 준수의 중요성을 언급했다. 그는 이 가이드라인이 법적 구속력이 없음을 강조하며, 실무 환경에서의 적용 한계를 설명했다. 가이드라인 초안은 AI 활용 관련 내부통제 및 위험관리 방향을 권고하는 행정지도에 불과하다고 덧붙였다. 2024년부터 AI 거버넌스 자문 업무를 맡게 될 그는 이 문제의 심각성을 알렸다.",
-      "keywords": [
-        "금융",
-        "AI 가이드라인",
-        "거버넌스"
-      ],
-      "source": "바이라인네트워크",
-      "date": "6월 24일",
-      "publishedAt": "2026-06-24T02:34:22.000Z",
-      "url": "https://byline.network/2026/06/623/",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "trend",
-      "title": "새로운 웹 디자인 환경 탐색",
-      "summary": "웹 디자인의 최신 트렌드와 변화에 대한 탐구.",
-      "summary_full": "이 기사는 현대 웹 디자인의 새로운 환경을 탐색하며, 최신 트렌드와 기술을 소개합니다. 사용자 경험을 개선하기 위한 다양한 접근 방식과 도구들이 논의됩니다. 또한, 디자인 프로세스에서의 협업과 혁신의 중요성도 강조됩니다. 웹 디자이너들이 이러한 변화를 어떻게 수용하고 적응할 수 있는지에 대한 통찰을 제공합니다.",
-      "keywords": [
-        "웹 디자인",
-        "트렌드",
-        "사용자 경험"
-      ],
-      "source": "dev.to",
-      "date": "6월 24일",
-      "publishedAt": "2026-06-24T01:54:00.000Z",
-      "url": "https://dev.to/mrpercival/navigating-the-new-web-design-landscape-1aj1",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "trend",
-      "title": "프라임 데이 최고의 다이슨 할인: 진공청소기, 헤어 도구 등",
-      "summary": "프라임 데이 동안 다이슨 제품을 저렴하게 구매할 수 있는 좋은 기회입니다. 진공청소기와 미용 도구 등 다양한 제품이 포함됩니다.",
-      "summary_full": "프라임 데이는 다이슨 기기를 저렴하게 구매할 수 있는 최고의 시점 중 하나입니다. 진공청소기와 미용 도구 등 다양한 제품이 할인됩니다. 소비자들은 이 기회를 통해 필요한 다이슨 제품을 손쉽게 구매할 수 있습니다. 할인 품목은 다양하므로, 원하는 제품을 미리 확인하는 것이 좋습니다.",
-      "keywords": [
-        "다이슨",
-        "프라임 데이",
-        "할인"
-      ],
-      "source": "wired.com",
-      "date": "6월 24일",
-      "publishedAt": "2026-06-24T00:53:44.000Z",
-      "url": "https://www.wired.com/story/prime-day-dyson-deals-2026/",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "ai",
-      "title": "슬랙에 합류한 AI 팀원 클로드 태그",
-      "summary": "AI 팀원 클로드 태그가 슬랙에 도입되었다. 이는 디자인 작업의 효율성을 높일 것으로 기대된다.",
-      "summary_full": "슬랙에 새로운 AI 팀원인 클로드 태그가 등장했다. 이 AI는 디자인 관련 작업을 지원하며, 팀원들과의 협업을 강화할 예정이다. 클로드 태그는 사용자에게 유용한 피드백과 제안을 제공하여 작업의 효율성을 높이는 데 기여할 것으로 보인다. 이러한 변화는 디자인 분야에서 AI의 역할이 점차 확대되고 있음을 보여준다.",
-      "keywords": [
-        "AI",
-        "슬랙",
-        "디자인"
-      ],
-      "source": "Google News Anthropic",
-      "date": "6월 24일",
-      "publishedAt": "2026-06-24T00:47:05.000Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mTU81Z3BXWlRBa09CdUlyY2VTY2tTekRHdmdmWm9CTEFza0ZaaEc2UXdreHpaUFBXeXB1YlM0cENOQUhWSjRDUXFMQWx3dWtjYVV6cFFNaTd2M1lPRW1GeEpsWDE0MUdGT0JBMTh2QWtEQWwx?oc=5",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "industry",
-      "title": "바이트댄스, 50개 참조 입력을 수용하는 30초 네이티브 4K AI 비디오 모델 Seedance 2.5 공개",
-      "summary": "바이트댄스가 베이징에서 열린 Volcano Engine FORCE 컨퍼런스에서 30초 길이의 네이티브 4K 비디오 생성 모델 Seedance 2.5를 공개했다. 이 모델은 단일 프롬프트로 작동하며, 이전 버전을 건너뛰고 세대 간 도약을 알렸다.",
-      "summary_full": "바이트댄스가 베이징에서 열린 Volcano Engine FORCE 컨퍼런스에서 Seedance 2.5를 공개했다. 이 비디오 생성 모델은 30초 길이의 네이티브 4K 비디오 클립을 단일 프롬프트로 생성할 수 있다. 회사는 네 가지 중간 버전을 건너뛰고 이전 모델에서 바로 발전된 점을 강조했다. 기업 베타 버전도 제공될 예정이다.",
-      "keywords": [
-        "바이트댄스",
-        "Seedance 2.5",
-        "AI 비디오 생성"
-      ],
-      "source": "thenextweb.com",
-      "date": "6월 23일",
-      "publishedAt": "2026-06-23T20:10:33.000Z",
-      "url": "https://thenextweb.com/news/bytedance-seedance-2-5-ai-video-4k-30-seconds",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "ai",
-      "title": "고급 AI를 위한 공동 기준 구축 지원",
-      "summary": "OpenAI는 Appia Foundation을 통해 고급 AI를 위한 공동 기준을 구축하는 데 도움을 주고 있습니다. 이는 평가 프레임워크, 안전 관행 및 글로벌 협력을 지원합니다.",
-      "summary_full": "OpenAI는 Appia Foundation과 협력하여 고급 AI의 공동 기준을 구축하는 데 기여하고 있습니다. 이 노력은 AI의 평가 프레임워크와 안전 관행을 개발하는 데 중점을 두고 있습니다. 또한, 글로벌 협력을 통해 AI 기술의 안전한 발전을 도모하고 있습니다. 이러한 기준은 AI의 신뢰성과 안전성을 높이는 데 중요한 역할을 할 것입니다.",
-      "keywords": [
-        "고급 AI",
-        "공동 기준",
-        "글로벌 협력"
-      ],
-      "source": "OpenAI News",
-      "date": "6월 23일",
-      "publishedAt": "2026-06-23T13:00:00.000Z",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "ai",
-      "title": "CUGA를 이용한 실제 에이전트 앱 구축",
-      "summary": "CUGA를 활용하여 경량 하네스를 통해 실제 에이전트 앱을 구축하는 방법을 소개한다. 24가지의 작동 예제를 통해 실용적인 개발 사례를 제시한다.",
-      "summary_full": "CUGA를 이용해 실제 에이전트 앱을 구축하는 방법을 다룬다. 이 글에서는 경량 하네스를 사용하여 24개의 작동 예제를 제공한다. 각 예제는 실제 개발에 적용할 수 있는 유용한 사례로 구성되어 있다. 이를 통해 개발자들은 CUGA의 활용 가능성을 탐색할 수 있다.",
-      "keywords": [
-        "CUGA",
-        "에이전트 앱",
-        "개발 예제"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "6월 23일",
-      "publishedAt": "2026-06-23T12:51:55.000Z",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "industry",
-      "title": "디자인 운영 역할의 변화와 새로운 우선순위",
-      "summary": "AI와 디자인의 통합이 진행됨에 따라 디자인 비전의 중요성이 더욱 커지고 있다. 디자인 운영(DesignOps) 역할이 이러한 변화에 어떻게 적응하고 있는지를 살펴본다.",
-      "summary_full": "AI 기술이 디자인 분야에 통합됨에 따라 디자인 비전의 중요성이 증가하고 있다. 이로 인해 디자인 운영(DesignOps) 역할이 변화하고 있으며, 새로운 우선순위가 설정되고 있다. 디자인 팀은 AI와의 협업을 통해 효율성을 높이고, 사용자 경험을 개선하는 데 집중하고 있다. 이러한 변화는 디자인 프로세스의 혁신을 가져오고 있다.",
-      "keywords": [
-        "디자인 운영",
-        "AI 통합",
-        "디자인 비전"
-      ],
-      "source": "uxdesign.cc",
-      "date": "6월 23일",
-      "publishedAt": "2026-06-23T11:11:43.000Z",
-      "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "ai",
-      "title": "카페24 'LLM 라우터' 출시 및 델 'XE8812 서버' 공개",
-      "summary": "카페24가 새로운 'LLM 라우터'를 출시하고, 델은 'XE8812 서버'를 공개했다. 오픈AI는 기업용 AI의 확산을 알리며, 신세계I&C는 새로운 게임 IP 2종을 출시했다.",
-      "summary_full": "카페24는 클라우드 기반의 'LLM 라우터'를 출시하여 데이터 처리의 효율성을 높이고 있다. 델은 최신 서버 모델인 'XE8812'를 공개하여 기업의 IT 인프라를 지원하고 있다. 오픈AI는 기업용 AI 솔루션의 확산을 통해 다양한 산업에 혁신을 가져오고 있다. 신세계I&C는 두 가지 새로운 게임 IP를 출시하여 게임 시장에서의 입지를 강화하고 있다.",
-      "keywords": [
-        "카페24",
-        "델",
-        "오픈AI",
-        "신세계I&C",
-        "게임 IP"
-      ],
-      "source": "Google News AI (KR)",
-      "date": "6월 23일",
-      "publishedAt": "2026-06-23T08:36:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoNXRBelVwUFRhUnI0dENoeEIzb0hwbXRWVG5GN1puOUlqYVhXak5KXzMtckNxWEJVS1JlbE45VlU1ZzBIUVNLRERKUVdLelB3elU4M2k5X1hKQmhRQ09sMGVSRnJPTkpmTktkTHhvRnl1bGPSAXNBVV95cUxQaDV0QXpVcFBUYVJyNHRDaHhCM29IcG10VlRuRjdabjlJamFYV2pOSl8zLXJDcVhCVUtSZWxOOVZVNWcwSFFTS0RESlFXS3pQd3pVODNpOV9YSkJoUUNPbDBlUkZyT05KZk5LZEx4b0Z5dWxj?oc=5",
-      "collectedAt": "2026-06-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "ai",
@@ -4739,22 +4705,6 @@
     },
     {
       "category": "frontend",
-      "title": "도구를 넘어, 기준과 책임으로",
-      "summary": "토스의 Technical Writing Partner 황동진이 커머스 도메인에서의 문서화 작업을 AI에 맡기고 지식 구조 설계를 강조한다.",
-      "summary_full": "황동진은 커머스 도메인에서 여러 팀이 협력하여 운영하는 시스템의 복잡성을 해결하기 위해, 문서 작성과 정리를 AI에게 맡기고 지식이 순환하는 구조를 설계하는 데 집중하고 있다. 정책 변화가 각 팀의 작업에 미치는 영향을 쉽게 확인할 수 있는 방법이 부족했던 점을 지적하며, 이를 개선하기 위한 노력을 설명한다.",
-      "keywords": [
-        "Technical Writing",
-        "커머스 도메인",
-        "지식 구조 설계"
-      ],
-      "source": "toss.tech",
-      "date": "6월 23일",
-      "publishedAt": "2026-06-23T02:01:00.000Z",
-      "url": "https://toss.tech/article/technical-writing-6",
-      "collectedAt": "2026-06-24"
-    },
-    {
-      "category": "frontend",
       "title": "스크롤 방향에 따른 애니메이션 사용",
       "summary": "디자이너의 독특한 아이디어로, 사용자가 페이지를 스크롤할 때 아이템들이 반대 방향으로 움직이는 컬럼을 만들었다. 이 데모는 모션 설정을 존중하며, 효과를 보려면 모션을 활성화해야 한다.",
       "summary_full": "디자이너가 스크롤에 따라 반대 방향으로 움직이는 아이템 컬럼을 만드는 독특한 아이디어를 실현했다. 이 데모는 모션 설정을 존중하므로, 효과를 보려면 모션을 활성화해야 한다. Chrome과 Safari에서의 지원을 고려하고 있다. 이 개념은 처음에는 이상하게 느껴졌지만 점차 매력적으로 다가왔다.",
@@ -4784,22 +4734,6 @@
       "publishedAt": "2026-06-18T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/project-fetch-phase-two",
       "collectedAt": "2026-06-26"
-    },
-    {
-      "category": "ai",
-      "title": "AI로 가속화된 영국 주택 건설 계획",
-      "summary": "영국 정부가 Google DeepMind와 협력하여 주택 결정을 빠르게 하는 AI 기반 프로토타입을 개발하고 있다. 이 프로젝트는 주택 건설을 촉진하기 위한 새로운 접근 방식을 제시하고 있다.",
-      "summary_full": "영국 정부는 Google DeepMind와 협력하여 AI로 가속화된 주택 건설 계획을 추진하고 있다. 이 새로운 프로토타입은 주택 결정을 신속하게 내릴 수 있도록 설계되었다. 이를 통해 영국 내 주택 부족 문제를 해결하는 데 기여할 것으로 기대된다. AI 기술을 활용하여 효율성을 높이고, 더 많은 주택을 빠르게 공급할 수 있는 방안을 모색하고 있다.",
-      "keywords": [
-        "영국 주택 건설",
-        "AI 기술",
-        "Google DeepMind"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "6월 16일",
-      "publishedAt": "2026-06-16T21:29:50.000Z",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "collectedAt": "2026-06-24"
     },
     {
       "category": "design",
@@ -4835,9 +4769,9 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 협력은 인공지능 기술의 혁신을 가속화하는 데 중점을 둔다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 전략적 파트너십을 체결했다. 이 협력은 인공지능 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 두 회사는 AI 솔루션의 개발과 상용화에 집중하여 시장의 요구에 부응할 계획이다. 이를 통해 AI 기술의 적용 범위를 넓히고, 산업 전반에 걸쳐 효율성을 높이는 것을 목표로 한다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션을 개발하는 데 중점을 둔다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화하고자 한다. 이 협력은 두 회사의 기술적 전문성을 결합하여 혁신적인 AI 솔루션을 개발하는 데 중점을 둔다. 이를 통해 AI 기술의 상용화와 산업 전반에 걸친 적용을 촉진할 계획이다. 향후 다양한 산업 분야에서의 AI 활용 가능성이 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4847,7 +4781,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     },
     {
       "category": "design",
@@ -4868,8 +4802,8 @@
     {
       "category": "design",
       "title": "2026년을 좌우할 9가지 UX 디자인 트렌드",
-      "summary": "2026년의 UX 디자인 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 혁신적으로 변화시킬 것으로 기대됩니다.",
-      "summary_full": "2026년을 대비한 9가지 UX 디자인 트렌드를 다룹니다. 이 트렌드는 기술 발전과 사용자 요구에 맞춰 진화하고 있습니다. 특히, 개인화, 접근성, 지속 가능성 등이 주요 키워드로 부각되고 있습니다. 이러한 변화는 기업들이 사용자 경험을 개선하는 데 중요한 역할을 할 것입니다.",
+      "summary": "2026년의 UX 디자인 트렌드를 소개하는 기사이다. 9가지 주요 트렌드가 다뤄진다.",
+      "summary_full": "이 기사는 2026년의 UX 디자인에 영향을 미칠 9가지 트렌드를 분석한다. 각 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다. 최신 기술과 사용자 요구를 반영한 디자인 방향이 강조된다. UX 디자이너와 기업들이 주목해야 할 중요한 요소들이 포함되어 있다.",
       "keywords": [
         "UX 디자인",
         "트렌드",
@@ -4879,7 +4813,7 @@
       "date": "3월 13일",
       "publishedAt": "2026-03-13T05:53:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2d2ZThMSHhVM01QZjgwcnJCdTgxV01CelFza2Y3dHlXb29NNTdmMTFoOFZxSG56anVCWExPSUowYnYzSTRhcFE3ZVZFa2xwbmtLMnZpcTFWLXkxNXprajZ6U3h1M2tDR2hkQmsyai1lLUF6U1h0THM2SlhqcEhEQnB2dFJGYWFSakZYcF90ZFRJNjlYQ3htRGNLTXdiNEhKb002N3diMHY3dDRkeV9DWWFtazJTNnV4alU3WE5PZVNmbkJWV3NRZ0FCRVNEUlpZdzI5aGpDdFlPYWk5al9kdTgxdGJkakt0TmtFUDMxcU9GMnFYemRIdA?oc=5",
-      "collectedAt": "2026-07-24"
+      "collectedAt": "2026-07-25"
     }
   ]
 }
