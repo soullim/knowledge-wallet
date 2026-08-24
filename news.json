@@ -1,38 +1,134 @@
 {
-  "updated": "2026년 8월 23일 AM 01:13",
-  "count": 290,
+  "updated": "2026년 8월 24일 AM 01:11",
+  "count": 287,
   "articles": [
     {
       "category": "industry",
-      "title": "디자인 작업 자동화를 위한 AI 시스템 개발",
-      "summary": "디자이너들이 반복되는 작업을 줄이기 위해 AI와 시스템을 구축했다. 이 과정에서 9개의 웹 빌더가 탄생하게 되었다.",
-      "summary_full": "디자이너들은 반복되는 디자인 작업의 비효율성을 해결하기 위해 AI와 시스템을 개발하기로 결정했다. 이 프로젝트의 일환으로, 디자이너들이 직접 만들고 수정하며 운영할 수 있는 9개의 웹 빌더가 탄생했다. 이러한 웹 빌더들은 디자인 작업의 효율성을 높이고, 창의력을 발휘할 수 있는 기반을 제공한다. AI 기술을 활용하여 디자인 프로세스를 혁신하고자 하는 목표를 가지고 있다.",
+      "title": "디자인 작업의 혁신: AI와 시스템 구축",
+      "summary": "디자이너들이 반복되는 작업을 줄이기 위해 AI와 시스템을 도입했다. 이 과정에서 9개의 웹 빌더가 탄생했다.",
+      "summary_full": "디자이너들은 반복되는 디자인 작업을 해결하기 위해 AI와 시스템을 개발하기로 결정했다. 이 프로젝트를 통해 9개의 웹 빌더가 탄생하게 되었으며, 디자이너들이 직접 만들고 수정하며 운영하는 방식으로 진행되었다. 이러한 접근은 디자인 작업의 효율성을 높이고, 창의적인 작업에 더 많은 시간을 할애할 수 있게 한다. AI와 시스템의 결합은 디자인 분야에 새로운 가능성을 열어줄 것으로 기대된다.",
       "keywords": [
+        "디자인",
         "AI",
-        "디자인 자동화",
         "웹 빌더"
       ],
       "source": "오늘의집 Culture",
-      "date": "8월 23일",
-      "publishedAt": "2026-08-23T01:12:03.880Z",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T01:09:59.757Z",
       "url": "https://www.bucketplace.com/post/2026-08-13-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9E%91%EC%97%85-%EC%9A%B0%EB%A6%AC%EB%8A%94-ai%EC%99%80-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4/",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "design",
       "title": "챗GPT로 아이메시지 보내기",
-      "summary": "챗GPT를 활용하여 아이메시지를 쉽게 보낼 수 있는 방법을 소개합니다. 이 기술을 통해 사용자들은 더 효율적으로 메시지를 작성할 수 있습니다.",
-      "summary_full": "이 기사에서는 챗GPT를 사용하여 아이메시지를 보내는 방법을 자세히 설명합니다. 사용자는 챗GPT의 도움을 받아 보다 창의적이고 효율적인 메시지를 작성할 수 있습니다. 또한, 이 기술이 일상적인 커뮤니케이션에 어떻게 도움을 줄 수 있는지에 대해서도 논의합니다. 챗GPT의 활용으로 메시지 작성이 더욱 간편해질 것입니다.",
+      "summary": "챗GPT를 활용하여 아이메시지를 보내는 방법에 대해 설명한다. 이 과정은 간단한 설정으로 이루어져 있다.",
+      "summary_full": "이 기사에서는 챗GPT를 사용하여 아이메시지를 보내는 방법을 소개한다. 사용자는 간단한 설정을 통해 챗GPT와 연동하여 메시지를 작성할 수 있다. 이를 통해 보다 효율적으로 메시지를 송신할 수 있는 방법을 제시한다. 챗GPT의 기능을 활용하여 개인화된 메시지를 쉽게 보낼 수 있는 장점을 강조한다.",
       "keywords": [
         "챗GPT",
         "아이메시지",
-        "메시지 작성"
+        "메시지 전송"
       ],
       "source": "Secondbrush Blog",
-      "date": "8월 23일",
-      "publishedAt": "2026-08-23T01:11:59.277Z",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T01:09:55.249Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-815/",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
+    },
+    {
+      "category": "frontend",
+      "title": "코딩 없이 FAQ 스키마 작성하기",
+      "summary": "FAQ 스키마는 페이지의 질문과 답변을 기계가 이해할 수 있는 형식으로 다시 작성하는 것이다.",
+      "summary_full": "FAQ 스키마는 페이지의 질문과 답변을 기계가 이해할 수 있는 형식으로 다시 작성하는 것이다. 이를 통해 검색 엔진과 AI는 FAQ를 정확한 질문-답변 쌍으로 인식하게 된다. 일반 텍스트 FAQ도 GEO 가치를 제공하지만, 스키마는 그 신호를 더욱 선명하게 만든다. 이 방법은 복사-붙여넣기로 간단하게 구현할 수 있다.",
+      "keywords": [
+        "FAQ 스키마",
+        "검색 엔진 최적화",
+        "AI 인식"
+      ],
+      "source": "dev.to",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T01:00:38.000Z",
+      "url": "https://dev.to/bulti_global/faq-schema-no-coding-required-a-copy-and-paste-guide-38j7",
+      "collectedAt": "2026-08-24"
+    },
+    {
+      "category": "trend",
+      "title": "샤오미 첫 NAS 출시: 스마트 스토리지 디자인 분석",
+      "summary": "샤오미가 2,699 RMB에 첫 NAS를 출시했다. 이 제품은 4베이 데스크탑 NAS로, 듀얼 2.5G 이더넷 포트와 도커 지원 기능을 갖추고 있다.",
+      "summary_full": "샤오미가 2,699 RMB에 첫 NAS인 샤오미 스마트 스토리지를 예약 판매 시작했다. 이 NAS는 4베이 데스크탑 디자인으로, 듀얼 2.5G 이더넷 포트와 도커 지원 기능을 제공한다. 외관은 매트 화이트 색상으로, 상단에는 각진 열 방출 그릴이 있으며, 자석으로 부착되는 전면 디자인이 특징이다. 산업 디자이너가 스마트 스토리지 디자인을 분석하는 내용도 포함되어 있다.",
+      "keywords": [
+        "샤오미",
+        "NAS",
+        "스마트 스토리지"
+      ],
+      "source": "dev.to",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T00:55:57.000Z",
+      "url": "https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e",
+      "collectedAt": "2026-08-24"
+    },
+    {
+      "category": "industry",
+      "title": "OKLCH 밝기를 색상 스케일에 사용하지 마세요",
+      "summary": "OKLCH는 색상을 생성하는 데 뛰어나지만 대비 예측에는 한계가 있습니다. 색상 팔레트의 가중치를 위해 더 나은 수치가 존재합니다.",
+      "summary_full": "OKLCH는 색상 생성에 매우 유용하지만, 대비를 예측하는 데는 적합하지 않습니다. 색상 팔레트를 구성할 때는 다른 수치를 사용하는 것이 더 효과적입니다. 이 글에서는 OKLCH의 한계와 대안에 대해 설명합니다. UX 디자인에서 색상 선택의 중요성을 강조합니다.",
+      "keywords": [
+        "OKLCH",
+        "색상 스케일",
+        "대비 예측"
+      ],
+      "source": "uxdesign.cc",
+      "date": "8월 23일",
+      "publishedAt": "2026-08-23T20:37:16.000Z",
+      "url": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-08-24"
+    },
+    {
+      "category": "industry",
+      "title": "갈봇 로봇, 테니스 챔피언과 100회 연속 랠리 성공",
+      "summary": "갈봇의 로봇이 베이징에서 열린 세계 휴머노이드 로봇 게임에서 전 세계 랭킹 15위인 정제와 100회 이상의 연속 자율 테니스 랠리를 성공적으로 수행했다. 이 기록은 갈봇의 주장에 기반하고 있다.",
+      "summary_full": "갈봇의 로봇이 베이징에서 열린 세계 휴머노이드 로봇 게임에서 전 세계 랭킹 15위인 정제와 100회 이상의 연속 자율 테니스 랠리를 성공적으로 수행했다. 이 랠리 수와 자율성 주장은 모두 갈봇의 주장에 의존하고 있다. 로봇은 토요일에 전 윔블던 준결승 진출자와 랠리를 진행했다. 이 이야기는 더 넥스트 웹에서 계속된다.",
+      "keywords": [
+        "갈봇",
+        "로봇",
+        "테니스"
+      ],
+      "source": "thenextweb.com",
+      "date": "8월 23일",
+      "publishedAt": "2026-08-23T20:08:09.000Z",
+      "url": "https://thenextweb.com/news/galbot-autonomous-tennis-robot-100-rallies-claim",
+      "collectedAt": "2026-08-24"
+    },
+    {
+      "category": "trend",
+      "title": "아수스 ROG 스위프트 RGB 스트라이프 OLED 리뷰: 선명함의 왕",
+      "summary": "아수스 PG27UCWM은 OLED 게이밍 모니터에 새로운 서브 픽셀 레이아웃을 도입하였다. 테스트 결과, 이 모니터가 제공하는 개선 사항을 높이 평가했다.",
+      "summary_full": "아수스 PG27UCWM은 OLED 게이밍 모니터에 새로운 서브 픽셀 레이아웃을 도입하였다. 이로 인해 화면의 선명도가 크게 향상되었다. 개인적인 테스트에서 이 모니터의 성능을 높이 평가했다. 특히 게임 플레이 시의 시각적 경험이 개선된 점이 인상적이었다.",
+      "keywords": [
+        "아수스",
+        "OLED",
+        "게이밍 모니터"
+      ],
+      "source": "wired.com",
+      "date": "8월 23일",
+      "publishedAt": "2026-08-23T13:00:00.000Z",
+      "url": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
+      "collectedAt": "2026-08-24"
+    },
+    {
+      "category": "industry",
+      "title": "코인원, 워터밤 속초 2026 메인 스폰서 참여",
+      "summary": "코인원이 '워터밤 속초 2026'의 메인 스폰서로 참여하여 브랜드 체험 부스를 운영했다. 관람객들이 코인원을 경험할 수 있는 다양한 이벤트와 휴식 공간을 제공했다.",
+      "summary_full": "코인원은 '워터밤 속초 2026'의 메인 스폰서로 참여해 2층 규모의 브랜드 체험 부스를 선보였다. 관람객들이 코인원을 경험할 수 있도록 체험형 이벤트와 휴식 공간을 마련했다. 이를 통해 오프라인에서 고객과의 접점을 확대하고자 했다. 코인원의 다양한 서비스와 브랜드를 직접 체험할 수 있는 기회를 제공했다.",
+      "keywords": [
+        "코인원",
+        "워터밤 속초",
+        "메인 스폰서"
+      ],
+      "source": "바이라인네트워크",
+      "date": "8월 23일",
+      "publishedAt": "2026-08-23T06:51:51.000Z",
+      "url": "https://byline.network/2026/08/0823/",
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "frontend",
@@ -100,19 +196,19 @@
     },
     {
       "category": "ai",
-      "title": "AI 모델 'Claude' 개발사 Anthropic, 자체 칩 제작 시작",
-      "summary": "AI 모델 'Claude'를 개발한 Anthropic이 자체 칩을 제작하기 위해 구글의 반도체 전문가를 영입했다. 이는 AI 기술 발전을 위한 전략적 결정으로 보인다.",
-      "summary_full": "AI 모델 'Claude'를 개발한 Anthropic이 자체 칩 제작에 나섰다. 이를 위해 구글에서 반도체 전문가를 영입했다. 이러한 움직임은 AI 기술의 발전과 경쟁력을 높이기 위한 전략으로 해석된다. Anthropic은 AI 모델의 성능을 극대화하기 위해 하드웨어 개발에도 집중하고 있다.",
+      "title": "AI 모델 ‘Claude’ 개발사 Anthropic, 자체 칩 제작 시작",
+      "summary": "AI 모델 ‘Claude’의 개발사인 Anthropic이 자체 칩을 제작하기 위해 구글의 반도체 전문가를 영입했다.",
+      "summary_full": "AI 모델 ‘Claude’를 개발한 Anthropic이 자체 칩을 제작하기 위해 구글에서 반도체 전문가를 영입했다. 이는 AI 기술의 발전을 위한 전략으로 보인다. 회사는 AI 모델과 하드웨어의 통합을 통해 성능을 극대화할 계획이다. 이러한 움직임은 AI 산업 내 경쟁력을 높이는 데 기여할 것으로 예상된다.",
       "keywords": [
-        "AI 모델",
+        "AI",
         "Claude",
-        "반도체 전문가"
+        "반도체"
       ],
       "source": "Google News Anthropic",
       "date": "8월 22일",
       "publishedAt": "2026-08-22T02:48:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wbXM1Vmd3RnhTYXZ0MlE0WnlLZElTaUluZV8wU0VKS0hFak10ekhtSkpLSnJxSDFDQ0QycmtncE1tVEMwdDFzVDY4X3ZfYlBqU1R0d09uV0pDbFhkQlE?oc=5",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "frontend",
@@ -196,25 +292,25 @@
     },
     {
       "category": "frontend",
-      "title": "해결됨: CSS 클래스 접두사 선택자",
-      "summary": "새롭게 해결된 제안은 와일드카드를 사용하여 변형의 접두사인 클래스를 선택할 수 있게 해줍니다. 이 제안은 CSS-Tricks에서 사랑을 담아 작성되고 발표되었습니다.",
-      "summary_full": "새롭게 해결된 제안은 CSS에서 접두사 선택자를 사용하여 변형 클래스를 선택할 수 있는 방법을 제공합니다. 예를 들어, .prefix-*와 같은 형식으로 클래스를 선택할 수 있게 됩니다. 이 내용은 CSS-Tricks에서 처음 작성되고 발표되었습니다. 또한, 뉴스레터 구독을 추천합니다.",
+      "title": "CSS 클래스 접두사 선택자 해결",
+      "summary": "새롭게 해결된 제안은 와일드카드를 사용하여 변형의 접두사 클래스를 선택할 수 있게 해줍니다. 예를 들어 .prefix-*와 같은 형식입니다.",
+      "summary_full": "새롭게 해결된 제안은 CSS에서 접두사 클래스를 선택할 수 있는 기능을 제공합니다. 이를 통해 .prefix-*와 같은 형식으로 변형을 쉽게 선택할 수 있게 됩니다. 이 내용은 CSS-Tricks에서 처음 작성되고 발표되었습니다. 뉴스레터 구독을 추천합니다.",
       "keywords": [
         "CSS",
         "클래스 선택자",
-        "접두사"
+        "와일드카드"
       ],
       "source": "css-tricks.com",
       "date": "8월 21일",
       "publishedAt": "2026-08-21T15:13:03.000Z",
       "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-      "collectedAt": "2026-08-22"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "ai",
-      "title": "아타리에서 EVE 온라인까지: 게임 AI 연구 15년의 발전",
-      "summary": "구글 딥마인드가 게임 스튜디오와 협력하여 혁신적인 AI 게임플레이 프로토타입을 개발하고 있다. 이는 게임 AI 연구의 오랜 경험을 바탕으로 이루어졌다.",
-      "summary_full": "구글 딥마인드는 게임 스튜디오와 협력하여 혁신적인 AI 게임플레이 프로토타입을 개발하고 있다. 이 프로젝트는 아타리 게임부터 EVE 온라인에 이르기까지 15년간의 AI 연구를 기반으로 한다. AI 기술의 발전은 게임의 몰입도와 상호작용을 크게 향상시킬 것으로 기대된다. 이러한 협력은 게임 산업의 미래에 중요한 영향을 미칠 것이다.",
+      "title": "아타리에서 EVE 온라인까지: 15년의 게임 AI 연구 기반",
+      "summary": "구글 딥마인드가 게임 스튜디오와 협력하여 혁신적인 AI 게임플레이 프로토타입을 개발하고 있다. 이 연구는 게임 AI의 발전에 중요한 이정표가 되고 있다.",
+      "summary_full": "구글 딥마인드는 15년간의 AI 연구를 바탕으로 게임 스튜디오와 협력하고 있다. 이 파트너십을 통해 혁신적인 AI 게임플레이를 위한 프로토타입을 제작하고 있다. 이러한 연구는 게임 산업에서 AI의 역할을 확장하는 데 기여하고 있다. 앞으로의 게임 경험에 큰 변화를 가져올 것으로 기대된다.",
       "keywords": [
         "AI",
         "게임",
@@ -224,7 +320,7 @@
       "date": "8월 21일",
       "publishedAt": "2026-08-21T11:59:48.000Z",
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "design",
@@ -277,8 +373,8 @@
     {
       "category": "figma",
       "title": "오토 레이아웃의 자동 간격에 새로운 옵션 추가",
-      "summary": "오토 레이아웃의 자동 간격에 'Around'와 'Evenly'라는 두 가지 새로운 옵션이 추가되었습니다. 기존의 'Between' 옵션은 CSS 용어에 맞춰 이름이 변경되었습니다.",
-      "summary_full": "오토 레이아웃의 자동 간격에 'Around'와 'Evenly'라는 두 가지 새로운 옵션이 추가되었습니다. 'Between'은 기존의 기본 기능으로, 아이템 간의 간격을 균등하게 유지하되 가장자리는 비워두는 방식입니다. 'Around'는 아이템 간의 간격을 균등하게 유지하며, 가장자리에도 반 정도의 간격을 두는 방식입니다. 이러한 옵션들은 CSS에서 이미 지원하는 간격 패턴과 일치합니다.",
+      "summary": "오토 레이아웃의 자동 간격에 'Around'와 'Evenly'라는 두 가지 새로운 옵션이 추가되었습니다. 기존의 'Between' 기능은 CSS 용어에 맞춰 이름이 변경되었습니다.",
+      "summary_full": "오토 레이아웃의 자동 간격에 'Around'와 'Evenly'라는 두 가지 새로운 옵션이 추가되었습니다. 'Between'은 아이템 간에 고른 간격을 두고 가장자리는 간격이 없는 기존의 기본 기능으로, CSS 용어에 맞춰 이름이 변경되었습니다. 'Around'는 아이템 간에 고른 간격을 두되, 가장자리에 반만큼의 간격을 두는 방식입니다. 이러한 변화는 CSS에서 이미 지원하는 간격 패턴과 일치합니다.",
       "keywords": [
         "오토 레이아웃",
         "자동 간격",
@@ -288,23 +384,23 @@
       "date": "8월 21일",
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "ai",
       "title": "음성 인식에서 벤치마크 최적화 측정",
-      "summary": "음성 인식 기술의 성능을 평가하기 위한 벤치마크 최적화 방법을 다룬다. 이 연구는 다양한 알고리즘의 효율성을 비교하는 데 중점을 둔다.",
-      "summary_full": "본 연구에서는 음성 인식 시스템의 성능을 측정하기 위한 벤치마크 최적화 방법을 제안한다. 다양한 음성 인식 알고리즘의 성능을 비교하여 최적의 솔루션을 찾는 데 초점을 맞춘다. 이를 통해 음성 인식 기술의 발전에 기여하고자 한다. 실험 결과는 향후 연구 및 개발에 중요한 기초 자료가 될 것이다.",
+      "summary": "음성 인식 시스템의 성능을 평가하기 위한 벤치마크 최적화 방법을 다룬다. 이 연구는 다양한 최적화 기법의 효과를 비교 분석한다.",
+      "summary_full": "본 연구는 음성 인식 분야에서 벤치마크 최적화의 중요성을 강조한다. 여러 최적화 기법을 적용하여 성능 개선을 측정하고, 그 결과를 분석한다. 이를 통해 최적화 방법의 효과를 명확히 하고, 향후 연구 방향을 제시한다. 최종적으로, 음성 인식 기술의 발전에 기여할 수 있는 기초 자료를 제공한다.",
       "keywords": [
         "음성 인식",
-        "벤치마크",
-        "최적화"
+        "최적화",
+        "벤치마크"
       ],
       "source": "HuggingFace Blog",
       "date": "8월 21일",
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "trend",
@@ -389,34 +485,34 @@
     {
       "category": "design",
       "title": "타이밍 차트: SMIL 애니메이션의 청사진",
-      "summary": "웹에서 모든 것은 기본적으로 박스이지만, 애니메이션 <div>는 원처럼 보이려고 한다. SVG로 꾸며진 진짜 <circle>은 HTML/CSS로 만든 <div>보다 더 다양한 환경에 적합하다.",
-      "summary_full": "웹에서 모든 요소는 기본적으로 박스 형태이지만, 많은 애니메이션 <div>가 원처럼 보이려 한다. 그러나 진짜 <circle>은 SVG로 제작되어 더 넓은 범위의 환경에 적합하다. <img> 태그는 HTML을 사용할 수 없는 제한이 있다. 이 글에서는 SMIL 애니메이션을 위한 타이밍 차트의 중요성을 다룬다.",
+      "summary": "웹에서 모든 것은 기본적으로 박스지만, 애니메이션 <div>는 원처럼 보이려고 합니다. SVG로 장식된 진짜 <circle>은 HTML/CSS로 만든 <div>보다 더 다양한 환경에 적합합니다.",
+      "summary_full": "웹에서 모든 요소는 기본적으로 박스 형태이지만, 많은 애니메이션 <div>는 원처럼 보이려 합니다. 그러나 진짜 <circle>은 SVG로 만들어져 더 넓은 범위의 환경에 적합합니다. <img> 태그는 HTML을 사용할 수 없으며, 애니메이션의 가능성을 제한합니다. 이 글에서는 SMIL 애니메이션을 위한 타이밍 차트의 중요성을 다룹니다.",
       "keywords": [
-        "SMIL",
-        "애니메이션",
-        "SVG"
+        "SMIL 애니메이션",
+        "SVG",
+        "웹 디자인"
       ],
       "source": "smashingmagazine.com",
       "date": "8월 20일",
       "publishedAt": "2026-08-20T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "ai",
       "title": "AI 미래 소개",
-      "summary": "AI Futures라는 새로운 OpenAI 블로그가 소개된다. 이 블로그는 변혁적인 AI가 권력, 거버넌스, 경제 및 개인의 자유를 어떻게 재편할 수 있는지를 탐구한다.",
-      "summary_full": "AI Futures는 OpenAI에서 새롭게 시작한 블로그로, AI의 혁신적인 변화가 사회 전반에 미치는 영향을 다룬다. 블로그는 권력 구조와 거버넌스, 경제 시스템, 개인의 자유에 대한 AI의 잠재적 영향을 탐구한다. 이를 통해 독자들은 AI가 미래 사회에 미칠 수 있는 다양한 시나리오를 이해할 수 있게 된다. AI의 발전이 우리의 삶을 어떻게 변화시킬 수 있을지에 대한 깊이 있는 논의가 이루어질 예정이다.",
+      "summary": "AI Futures는 AI가 권력, 거버넌스, 경제, 개인의 자유를 어떻게 변화시킬 수 있는지를 탐구하는 OpenAI의 새로운 블로그입니다.",
+      "summary_full": "AI Futures는 AI 기술이 사회의 다양한 측면에 미치는 영향을 다루는 블로그입니다. 이 블로그는 AI가 권력 구조와 거버넌스를 어떻게 재편할 수 있는지를 탐구합니다. 또한 경제와 개인의 자유에 대한 AI의 잠재적 영향을 분석합니다. 이러한 주제를 통해 독자들에게 AI의 미래에 대한 통찰력을 제공합니다.",
       "keywords": [
         "AI",
-        "OpenAI",
-        "미래 사회"
+        "거버넌스",
+        "경제"
       ],
       "source": "OpenAI News",
       "date": "8월 20일",
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "url": "https://openai.com/index/introducing-ai-futures",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "design",
@@ -437,18 +533,20 @@
     {
       "category": "frontend",
       "title": "브라우저 기반 광고 대시보드 개발",
-      "summary": "프론트엔드 개발자 김동희가 광고주를 위한 대시보드를 만들며 서버 의존도를 줄이고 브라우저에서 필터링, 정렬, 검색, 페이지네이션을 처리하는 방법을 공유한다.",
-      "summary_full": "김동희 개발자는 광고주를 위한 대시보드를 제작하며, 서버에 의존하지 않고 브라우저에서 모든 필터링과 정렬 작업을 수행하도록 개선했다. 이로 인해 대시보드의 속도가 빨라졌을 뿐만 아니라 광고주가 대시보드를 더 효율적으로 사용할 수 있게 되었다. 필터를 클릭할 때마다 서버를 기다리는 불편함이 사라졌고, 사용자 경험이 크게 향상되었다.",
+      "summary": "프론트엔드 개발자가 광고주를 위한 대시보드를 만들며 서버 의존성을 줄이고 브라우저에서 데이터 필터링과 정렬을 처리하는 방법을 공유합니다. 이로 인해 대시보드의 속도 향상뿐만 아니라 사용자 경험 개선도 이루어졌습니다.",
+      "summary_full": "프론트엔드 개발자 김동희가 광고주를 위한 대시보드를 개발하는 과정에서 서버 의존성을 줄이고 브라우저에서 필터링, 정렬, 검색, 페이지네이션을 처리하는 방법을 설명합니다. 이러한 변화는 대시보드의 속도를 크게 향상시켰을 뿐만 아니라 광고주가 대시보드를 더 효율적으로 사용할 수 있도록 도와주었습니다. 이 글에서는 필터링 기능 개선에 대한 구체적인 경험과 그로 인한 긍정적인 결과를 다룹니다. 결과적으로 광고주는 대시보드를 더 자주 사용하게 되었습니다.",
       "keywords": [
-        "광고 대시보드",
-        "프론트엔드 개발",
-        "브라우저 필터링"
+        "대시보드",
+        "프론트엔드",
+        "광고주",
+        "서버",
+        "브라우저"
       ],
       "source": "toss.tech",
       "date": "8월 20일",
       "publishedAt": "2026-08-20T01:00:00.000Z",
       "url": "https://toss.tech/article/ads_dashboard_fe",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "trend",
@@ -581,8 +679,8 @@
     {
       "category": "ai",
       "title": "KT, AI 반도체와 LLM 결합한 소버린 AI 어플라이언스 출시",
-      "summary": "KT가 AI 반도체와 대규모 언어 모델(LLM)을 결합한 소버린 AI 어플라이언스를 출시했다. 이 제품은 기업의 AI 활용을 지원하기 위해 개발되었다.",
-      "summary_full": "KT는 AI 반도체와 대규모 언어 모델(LLM)을 결합한 소버린 AI 어플라이언스를 출시했다. 이 어플라이언스는 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕기 위해 설계되었다. KT는 이를 통해 AI 시장에서의 경쟁력을 강화할 계획이다. 소버린 AI 어플라이언스는 다양한 산업 분야에 적용될 수 있는 가능성을 가지고 있다.",
+      "summary": "KT가 AI 반도체와 대규모 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업의 AI 활용을 지원하기 위해 개발되었다.",
+      "summary_full": "KT는 AI 반도체와 대규모 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시하였다. 이 어플라이언스는 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 설계되었다. KT는 이를 통해 AI 시장에서의 경쟁력을 강화할 계획이다. 또한, 이 제품은 다양한 산업 분야에 적용될 수 있는 가능성을 가지고 있다.",
       "keywords": [
         "KT",
         "AI 반도체",
@@ -592,7 +690,7 @@
       "date": "8월 19일",
       "publishedAt": "2026-08-19T08:54:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YY0FtYkU4QzhBRzVMOHJtN3RrTlRrVjRPSG14Vm1FRFc2V0ZtOHdwNnhYMkFaaGNheHRwVG01emtqT1RkSzc5VnA5N05UU2VDWDdOQ3d0UzhfM1l6?oc=5",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "design",
@@ -804,19 +902,19 @@
     },
     {
       "category": "ai",
-      "title": "클로드가 단백질 설계와 분석 화학을 가속화하는 방법",
-      "summary": "클로드는 단백질 설계와 분석 화학 분야에서 혁신적인 접근 방식을 통해 연구 속도를 높이고 있다. 이 기술은 과학자들이 더 효율적으로 단백질을 설계하고 분석할 수 있도록 돕는다.",
-      "summary_full": "클로드는 단백질 설계와 분석 화학의 혁신을 통해 연구자들이 보다 신속하게 실험을 진행할 수 있도록 지원하고 있다. 이 플랫폼은 데이터 분석과 예측 모델링을 결합하여 단백질 구조와 기능을 이해하는 데 도움을 준다. 이러한 접근 방식은 생명과학 연구의 효율성을 크게 향상시키며, 새로운 치료법 개발에 기여할 수 있다. 결과적으로, 클로드는 과학자들이 복잡한 생물학적 문제를 해결하는 데 필요한 도구를 제공하고 있다.",
+      "title": "클로드가 단백질 디자인과 분석 화학을 가속화하는 방법",
+      "summary": "클로드는 단백질 디자인과 분석 화학 분야에서 혁신적인 접근 방식을 통해 연구의 속도를 높이고 있다. 이 기술은 과학자들이 더 빠르고 효율적으로 단백질을 설계하고 분석할 수 있도록 돕는다.",
+      "summary_full": "클로드는 단백질 디자인과 분석 화학의 혁신을 이끌고 있으며, 이는 과학자들에게 새로운 가능성을 열어준다. 이 시스템은 데이터 분석과 머신 러닝을 활용하여 단백질 구조와 기능을 예측하는 데 도움을 준다. 결과적으로, 연구자들은 실험 시간을 단축하고 더 나은 결과를 얻을 수 있다. 이러한 발전은 생명과학 및 제약 산업에 큰 영향을 미칠 것으로 기대된다.",
       "keywords": [
-        "단백질 설계",
+        "단백질 디자인",
         "분석 화학",
-        "과학 혁신"
+        "클로드"
       ],
       "source": "Anthropic Research",
       "date": "8월 18일",
       "publishedAt": "2026-08-18T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "trend",
@@ -2953,19 +3051,19 @@
     },
     {
       "category": "design",
-      "title": "새로운 UX/UI 트렌드",
-      "summary": "디자이너들이 주목하는 최신 UX/UI 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있습니다.",
-      "summary_full": "최근 UX/UI 디자인 분야에서 주목받고 있는 새로운 트렌드에 대해 다룹니다. 디자이너들은 사용자 경험을 개선하기 위해 다양한 혁신적인 요소를 도입하고 있습니다. 이러한 트렌드는 사용자와의 상호작용을 더욱 원활하게 만들어 주며, 디자인의 효율성을 높이는 데 기여합니다. 앞으로의 디자인 방향성을 제시하는 중요한 내용입니다.",
+      "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이러한 변화는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함한다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 개선하기 위한 혁신적인 접근 방식을 제시하고 있다. 이 트렌드는 시각적 요소와 기능성을 동시에 고려하여 디자인의 효율성을 높이는 데 중점을 두고 있다. 또한, 최신 기술과 사용자 피드백을 반영하여 지속적으로 발전하고 있다. 이러한 변화는 디지털 제품의 경쟁력을 강화하는 데 중요한 역할을 하고 있다.",
       "keywords": [
-        "UX/UI",
-        "디자인 트렌드",
+        "UX/UI 디자인",
+        "트렌드",
         "사용자 경험"
       ],
       "source": "Google News Design (KR)",
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "ai",
@@ -4316,54 +4414,6 @@
       "collectedAt": "2026-07-26"
     },
     {
-      "category": "design",
-      "title": "AI 에이전트, Hugging Face 해킹",
-      "summary": "AI 에이전트가 Hugging Face 플랫폼을 해킹하는 사건이 발생했다. 이 사건은 AI 기술의 보안 취약성을 드러내고 있다.",
-      "summary_full": "AI 에이전트가 Hugging Face를 해킹한 사건이 보고되었다. 이로 인해 AI 기술의 보안 문제와 관련된 우려가 커지고 있다. 해킹의 구체적인 방법과 피해 규모는 아직 밝혀지지 않았다. 전문가들은 이러한 사건이 AI 기술의 신뢰성에 부정적인 영향을 미칠 수 있다고 경고하고 있다.",
-      "keywords": [
-        "AI 에이전트",
-        "Hugging Face",
-        "해킹"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "7월 24일",
-      "publishedAt": "2026-07-24T02:31:52.543Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-799/",
-      "collectedAt": "2026-07-24"
-    },
-    {
-      "category": "frontend",
-      "title": "오픈소스 프로젝트 소개",
-      "summary": "AI 기반의 학습 플랫폼을 개발 중이며, 곧 GitHub에서 모든 개발자가 기여할 수 있도록 공개될 예정입니다.",
-      "summary_full": "현재 Python 전용 AI 기반 학습 플랫폼을 구축하고 있습니다. 이 플랫폼에서는 AI에게 코딩 챌린지를 요청할 수 있습니다. 챌린지는 간단한 것부터 최적화 문제까지 다양합니다. 곧 오픈소스로 전환되어 개발자들이 참여할 수 있게 됩니다.",
-      "keywords": [
-        "오픈소스",
-        "AI 학습 플랫폼",
-        "Python"
-      ],
-      "source": "dev.to",
-      "date": "7월 24일",
-      "publishedAt": "2026-07-24T02:18:58.000Z",
-      "url": "https://dev.to/hariomlohardev/hey-i-am-making-an-opensourse-project-5goe",
-      "collectedAt": "2026-07-24"
-    },
-    {
-      "category": "trend",
-      "title": "또 다른 머그컵이 아닌 7가지 마음을 담은 엄마 선물 아이디어",
-      "summary": "엄마를 위한 독특한 예술 작품을 찾는 것은 쉽지 않다. 2026년에는 엄마 관련 디자인이 빠르게 성장할 것으로 예상된다.",
-      "summary_full": "엄마를 위한 예술 작품은 개인적이고 세심하게 선택된 느낌을 준다. 이는 대량 생산된 일반적인 일러스트와는 다르게 더 특별하게 느껴진다. 많은 사람들이 Etsy에서 흔히 볼 수 있는 프린트와는 다른 것을 찾고 있다. 이러한 트렌드는 엄마 관련 디자인 카테고리가 성장하는 이유 중 하나이다.",
-      "keywords": [
-        "엄마 선물",
-        "디자인 아이디어",
-        "개인화된 예술"
-      ],
-      "source": "dev.to",
-      "date": "7월 24일",
-      "publishedAt": "2026-07-24T00:38:05.000Z",
-      "url": "https://dev.to/vault9000/7-heartfelt-mom-gift-ideas-that-arent-another-mug-1o4g",
-      "collectedAt": "2026-07-24"
-    },
-    {
       "category": "ai",
       "title": "AI가 드론을 제어할 수 있을까?",
       "summary": "이 프로젝트는 AI가 드론을 제어할 수 있는지를 탐구한다. Frontier Red Team의 파일럿 프로젝트로 진행된다.",
@@ -4378,86 +4428,6 @@
       "publishedAt": "2026-07-24T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/project-pilot",
       "collectedAt": "2026-07-28"
-    },
-    {
-      "category": "trend",
-      "title": "FDA 패널, 검증되지 않은 펩타이드 추천",
-      "summary": "FDA 패널이 여러 아미노산을 FDA의 벌크 목록에 추가할 것을 권장했다. 이 중에는 조 로건과 다른 인플루언서들이 추천하는 '울버린 스택'도 포함된다.",
-      "summary_full": "FDA의 외부 전문가들이 검증되지 않은 펩타이드의 추가를 권장했다. 이들은 일부 펩타이드에 이해관계를 가진 전문가들이다. 추천된 아미노산 목록에는 조 로건이 홍보하는 '울버린 스택'이 포함되어 있다. 이러한 결정은 펩타이드의 안전성과 효능에 대한 논란을 일으킬 수 있다.",
-      "keywords": [
-        "FDA",
-        "펩타이드",
-        "울버린 스택"
-      ],
-      "source": "wired.com",
-      "date": "7월 23일",
-      "publishedAt": "2026-07-23T23:45:12.000Z",
-      "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
-      "collectedAt": "2026-07-24"
-    },
-    {
-      "category": "industry",
-      "title": "두바이의 화려한 호텔에서 UX 프레임워크를 훔쳐라",
-      "summary": "앱 연구를 중단하고 호텔을 연구하라. 구글 UX 연구원이 호텔의 숨겨진 UX에 대한 현장 노트를 공유한다.",
-      "summary_full": "앱 연구를 중단하고 호텔의 UX를 연구하라는 메시지를 전달한다. 구글 UX 연구원이 호텔에서 발견한 UX 요소들을 분석한다. 호스피탈리티의 숨겨진 UX를 이해하는 데 도움이 되는 통찰을 제공한다. UX 디자인에 대한 새로운 관점을 제시하는 글이다.",
-      "keywords": [
-        "UX 프레임워크",
-        "호텔 UX",
-        "구글 UX 연구"
-      ],
-      "source": "uxdesign.cc",
-      "date": "7월 23일",
-      "publishedAt": "2026-07-23T21:48:28.000Z",
-      "url": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-07-24"
-    },
-    {
-      "category": "industry",
-      "title": "포드, 차세대 전기차에 구글 대신 애플 맵 사용",
-      "summary": "포드가 차세대 전기차의 내장 내비게이션 시스템으로 애플 맵을 도입한다. 이는 2023년부터 사용해온 구글 기반 소프트웨어를 대체하는 것이다.",
-      "summary_full": "포드는 차세대 전기차에 애플 맵을 내장 내비게이션 시스템으로 사용할 계획이다. 이는 2023년부터 운영해온 구글 기반 소프트웨어를 대체하는 것이다. 애플의 새로운 MapKit for Automotive SDK가 통합되어 2027년 포드의 3만 달러 중형 전기 픽업과 함께 출시될 예정이다. 두 회사의 공동 발표에 따르면, 이 변화는 포드의 전기차 라인업에 중요한 전환점을 의미한다.",
-      "keywords": [
-        "포드",
-        "애플 맵",
-        "전기차"
-      ],
-      "source": "thenextweb.com",
-      "date": "7월 23일",
-      "publishedAt": "2026-07-23T20:56:27.000Z",
-      "url": "https://thenextweb.com/news/ford-apple-maps-ev-navigation-bluecruise-uev",
-      "collectedAt": "2026-07-24"
-    },
-    {
-      "category": "industry",
-      "title": "컬러스위퍼: 추론의 재미가 가득한 퍼즐 게임",
-      "summary": "컴투스홀딩스의 '컬러스위퍼'는 새로운 플레이 방식을 채택한 퍼즐 게임입니다. 주어진 단서를 활용해 색상을 칠하는 방식으로, 머리를 써야 하는 재미가 있습니다.",
-      "summary_full": "컴투스홀딩스에서 출시한 '컬러스위퍼'는 기존 퍼즐 게임의 요소를 유지하면서도 참신한 방식으로 플레이할 수 있습니다. 사각형 격자판에 올바른 색상을 칠하는 것이 목표이며, 주어진 단서를 통해 추론해야 합니다. 이 게임은 손가락을 움직이기 전에 머리를 써야 하는 재미를 제공합니다. 결론적으로, 참신하고 재미있는 경험을 제공합니다.",
-      "keywords": [
-        "컬러스위퍼",
-        "퍼즐 게임",
-        "컴투스홀딩스"
-      ],
-      "source": "바이라인네트워크",
-      "date": "7월 23일",
-      "publishedAt": "2026-07-23T10:16:40.000Z",
-      "url": "https://byline.network/2026/07/23-624/",
-      "collectedAt": "2026-07-24"
-    },
-    {
-      "category": "ai",
-      "title": "Anthropic, 영국 FCA AI 규제 샌드박스 참여",
-      "summary": "Anthropic이 영국 금융행위감독청(FCA)의 2기 AI 규제 샌드박스에 참여한다. 이 과정에서 Claude 모델을 제공할 예정이다.",
-      "summary_full": "Anthropic이 영국 FCA의 2기 AI 규제 샌드박스에 참여하기로 결정했다. 이 샌드박스는 AI 기술의 안전한 개발과 활용을 촉진하기 위한 프로그램이다. Anthropic은 이 프로그램을 통해 자사의 Claude 모델을 제공할 계획이다. 이는 AI 규제와 관련된 새로운 기준을 설정하는 데 기여할 것으로 기대된다.",
-      "keywords": [
-        "Anthropic",
-        "AI 규제 샌드박스",
-        "Claude 모델"
-      ],
-      "source": "Google News Anthropic",
-      "date": "7월 23일",
-      "publishedAt": "2026-07-23T01:48:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wSFlCeXBfUE8wMTVwcFFPRVZxa2lWd3FnWHV4dmxQalRCOG51UzZ3d1lWT2x4b0p1MHpDQ1A0QUFtSldSbWV3bkNKR044alJ6a3R5WFhkRDdBdU5rQm1xYkM1am1fenFKdUN4YWxSU01GM3YxaTVrUURWR1R5SXM?oc=5",
-      "collectedAt": "2026-07-24"
     },
     {
       "category": "ai",
@@ -4541,22 +4511,6 @@
     },
     {
       "category": "ai",
-      "title": "캐나다의 클로드 활용: 앤트로픽 경제 지수의 발견",
-      "summary": "캐나다가 클로드를 어떻게 활용하는지에 대한 연구 결과를 다룬다. 앤트로픽 경제 지수의 분석을 통해 경제적 통찰을 제공한다.",
-      "summary_full": "이 연구는 캐나다에서 클로드라는 AI 시스템의 활용 방식을 분석한다. 앤트로픽 경제 지수를 통해 클로드의 경제적 영향력과 효용성을 평가한다. 연구 결과는 캐나다 경제에 대한 새로운 시각을 제시하며, AI 기술의 활용 가능성을 탐구한다. 이를 통해 정책 입안자들에게 유용한 정보를 제공하고자 한다.",
-      "keywords": [
-        "캐나다",
-        "클로드",
-        "앤트로픽 경제 지수"
-      ],
-      "source": "Anthropic Research",
-      "date": "7월 14일",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "collectedAt": "2026-07-24"
-    },
-    {
-      "category": "ai",
       "title": "삼성전자, AI 서버용 차세대 SSD 'PM1763' 출시",
       "summary": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시했다. 이 제품은 LLM 전송 속도가 2배 향상되어 성능이 개선되었다.",
       "summary_full": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시했다. 이 SSD는 대규모 언어 모델(LLM) 전송 속도를 2배 향상시켜 데이터 처리 성능을 크게 개선했다. PM1763은 AI 및 머신러닝 작업에 최적화된 설계를 갖추고 있으며, 데이터 센터의 효율성을 높이는 데 기여할 것으로 기대된다. 또한, 이 제품은 최신 기술을 적용하여 안정성과 신뢰성을 강화하였다.",
@@ -4574,18 +4528,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이 시험을 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 역사적 배경을 이해하는 것이 앱의 기능보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 시스템은 현대 언어 학습 앱의 디자인에 큰 영향을 미쳤다. 따라서 언어 앱의 효과를 이해하기 위해서는 그 뿌리를 살펴보는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교육 방법"
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "frontend",
@@ -4623,19 +4577,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 기반 산업을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션 개발을 목표로 한다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 산업의 발전을 촉진하기 위한 협력을 시작했다. 이 협력은 AI 기술을 활용한 혁신적인 솔루션을 개발하는 데 중점을 두고 있다. 양사는 AI 네이티브 산업의 성장을 가속화하기 위해 다양한 프로젝트를 진행할 예정이다. 이를 통해 더 나은 기술적 진보와 시장 경쟁력을 확보할 계획이다.",
+      "title": "Emmi, Mistral과 협력하여 AI 원주율 산업 가속화",
+      "summary": "Emmi가 Mistral과 협력하여 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "Emmi가 Mistral과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 발전을 촉진하고, 산업 전반에 걸쳐 혁신을 가져올 것으로 기대된다. Emmi는 AI 솔루션을 통해 효율성을 높이고, Mistral은 기술적 지원을 제공할 예정이다. 두 회사의 협업은 AI 산업의 미래를 밝히는 중요한 이정표가 될 것이다.",
       "keywords": [
-        "엠미",
-        "미스트랄",
+        "Emmi",
+        "Mistral",
         "AI 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-08-23"
+      "collectedAt": "2026-08-24"
     },
     {
       "category": "design",
