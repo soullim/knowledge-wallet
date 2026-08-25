@@ -1,22 +1,166 @@
 {
-  "updated": "2026년 8월 24일 AM 01:11",
-  "count": 287,
+  "updated": "2026년 8월 25일 AM 01:10",
+  "count": 293,
   "articles": [
     {
       "category": "industry",
-      "title": "디자인 작업의 혁신: AI와 시스템 구축",
-      "summary": "디자이너들이 반복되는 작업을 줄이기 위해 AI와 시스템을 도입했다. 이 과정에서 9개의 웹 빌더가 탄생했다.",
-      "summary_full": "디자이너들은 반복되는 디자인 작업을 해결하기 위해 AI와 시스템을 개발하기로 결정했다. 이 프로젝트를 통해 9개의 웹 빌더가 탄생하게 되었으며, 디자이너들이 직접 만들고 수정하며 운영하는 방식으로 진행되었다. 이러한 접근은 디자인 작업의 효율성을 높이고, 창의적인 작업에 더 많은 시간을 할애할 수 있게 한다. AI와 시스템의 결합은 디자인 분야에 새로운 가능성을 열어줄 것으로 기대된다.",
+      "title": "디자인 작업 자동화를 위한 AI와 시스템 구축",
+      "summary": "디자이너들이 반복적인 작업을 줄이기 위해 AI와 웹 빌더 시스템을 개발했다. 이 과정에서 9개의 웹 빌더가 탄생하게 되었다.",
+      "summary_full": "디자이너들은 반복되는 디자인 작업의 비효율성을 해결하기 위해 AI와 시스템을 도입하기로 결정했다. 이들은 직접 웹 빌더를 만들고 수정하며 운영하는 과정을 통해 9개의 웹 빌더를 탄생시켰다. 이러한 노력은 디자인 작업의 효율성을 높이고, 창의적인 작업에 더 많은 시간을 할애할 수 있게 한다. AI와 시스템의 결합은 디자인 분야에 혁신을 가져올 것으로 기대된다.",
       "keywords": [
         "디자인",
         "AI",
         "웹 빌더"
       ],
       "source": "오늘의집 Culture",
-      "date": "8월 24일",
-      "publishedAt": "2026-08-24T01:09:59.757Z",
+      "date": "8월 25일",
+      "publishedAt": "2026-08-25T01:08:55.209Z",
       "url": "https://www.bucketplace.com/post/2026-08-13-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9E%91%EC%97%85-%EC%9A%B0%EB%A6%AC%EB%8A%94-ai%EC%99%80-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4/",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "design",
+      "title": "GPT 이미지 2, 투명 배경 생성 기능 추가",
+      "summary": "GPT 이미지 2가 투명 배경을 생성할 수 있는 기능을 제공합니다. 이로 인해 사용자들은 더욱 다양한 디자인 작업을 수행할 수 있게 되었습니다.",
+      "summary_full": "GPT 이미지 2는 이제 투명 배경을 생성하는 기능을 추가했습니다. 이 기능은 사용자가 원하는 이미지를 보다 유연하게 활용할 수 있도록 도와줍니다. 디자인 작업 시 배경을 제거하는 과정이 간편해져, 효율성을 높일 수 있습니다. 다양한 분야에서 활용 가능성이 기대됩니다.",
+      "keywords": [
+        "GPT 이미지 2",
+        "투명 배경",
+        "디자인"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "8월 25일",
+      "publishedAt": "2026-08-25T01:08:50.565Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-817/",
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "frontend",
+      "title": "고체 배터리: 기술 분석 및 영향",
+      "summary": "고체 배터리의 도전 과제와 발전을 탐구하며, 라틴 아메리카의 기술 및 비즈니스에 미치는 영향을 중점적으로 다룬다.",
+      "summary_full": "고체 배터리는 기술적 도전과 혁신을 통해 에너지 저장 솔루션의 미래를 변화시키고 있다. 이 기사에서는 라틴 아메리카에서의 고체 배터리의 발전이 기술과 비즈니스에 미치는 영향을 분석한다. 또한, 고체 배터리의 상용화에 따른 시장의 변화와 기회에 대해서도 논의한다.",
+      "keywords": [
+        "고체 배터리",
+        "기술 분석",
+        "라틴 아메리카"
+      ],
+      "source": "dev.to",
+      "date": "8월 25일",
+      "publishedAt": "2026-08-25T01:06:04.000Z",
+      "url": "https://dev.to/norviktech/solid-state-batteries-technical-analysis-and-impl-1ema",
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "trend",
+      "title": "디자이너들은 워터마크 없는 미리보기를 보내지 마세요 (작업을 보호하는 2분 해결법)",
+      "summary": "디자이너와 사진작가들은 클라이언트에게 미리보기를 보낸 후, 클라이언트가 이를 스크린샷하여 자신의 고객에게 제안하는 경우가 많습니다. 이 문제를 해결하기 위한 간단한 방법이 소개됩니다.",
+      "summary_full": "디자이너와 사진작가들은 클라이언트에게 미리보기를 보낼 때 종종 그들의 작업이 안전하다고 생각합니다. 그러나 클라이언트가 스크린샷을 찍으면 작업이 안전하지 않게 됩니다. 이 문제를 해결하기 위한 여러 옵션이 있지만 대부분 효과적이지 않습니다. 따라서 디자이너들은 워터마크 없는 미리보기를 보내는 것을 피해야 합니다.",
+      "keywords": [
+        "디자인",
+        "미리보기",
+        "워터마크"
+      ],
+      "source": "dev.to",
+      "date": "8월 25일",
+      "publishedAt": "2026-08-25T00:39:34.000Z",
+      "url": "https://dev.to/agentchip/designers-stop-sending-unwatermarked-previews-a-2-minute-fix-that-saves-your-work-49j2",
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "trend",
+      "title": "비트디펜더 VPN 리뷰: 빠르고 저렴한 프라이버시",
+      "summary": "비트디펜더 VPN은 뛰어난 시작 가격을 제공하지만, 개인정보 보호에 관심이 많은 사용자들이 원하는 고급 기능은 부족하다.",
+      "summary_full": "비트디펜더 VPN은 저렴한 가격으로 빠른 속도를 제공하는 서비스이다. 그러나 고급 기능이 부족하여 개인정보 보호에 민감한 사용자들에게는 아쉬움이 남을 수 있다. 가격 대비 성능은 우수하지만, 특정 기능을 원하는 사용자에게는 적합하지 않을 수 있다. 전반적으로 기본적인 VPN 사용에는 적합한 선택이다.",
+      "keywords": [
+        "비트디펜더",
+        "VPN",
+        "프라이버시"
+      ],
+      "source": "wired.com",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T21:08:00.000Z",
+      "url": "https://www.wired.com/review/bitdefender-vpn/",
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "industry",
+      "title": "유럽의 전기차 점유율, 7월 25%로 증가",
+      "summary": "7월 유럽에서 전기차가 25%의 시장 점유율을 기록하며 판매량이 전년 대비 51% 증가했다. 이는 전체 시장 성장률 4.1%에 비해 두드러진 성과이다.",
+      "summary_full": "전기차는 7월에 유럽 등록의 25%를 차지하며, 판매량이 전년 대비 51% 증가했다. 이는 전체 시장이 4.1% 성장한 것과 비교할 때 매우 높은 수치이다. 중국 브랜드는 플러그인 하이브리드 판매의 34%를 차지하고 있으며, 이는 현재 EU의 반덤핑 관세 적용을 받지 않는 분야이다. 전기차는 더 이상 유럽에서 소수의 관심사가 아니다.",
+      "keywords": [
+        "전기차",
+        "유럽",
+        "판매 증가"
+      ],
+      "source": "thenextweb.com",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T21:00:40.000Z",
+      "url": "https://thenextweb.com/news/europe-ev-sales-july-2026-quarter-market-phev-tariff-gap",
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "frontend",
+      "title": "워드프레스 PHP 전용 블록 등록",
+      "summary": "워드프레스가 React와 빌드 파이프라인 없이 PHP만으로 블록을 구축할 수 있는 방법을 소개합니다. 이는 블록이 코어에 도입된 지 7년 반 만의 변화입니다.",
+      "summary_full": "워드프레스는 블록을 React 없이 PHP만으로 구축할 수 있는 방법을 새롭게 도입했습니다. 이 기능은 블록이 코어에 도입된 지 7년 반 만에 이루어진 변화입니다. PHP 전용 블록 등록은 CSS-Tricks에서 처음 작성되고 공개되었습니다. 뉴스레터 구독도 추천합니다.",
+      "keywords": [
+        "워드프레스",
+        "블록 등록",
+        "PHP"
+      ],
+      "source": "css-tricks.com",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T13:54:02.000Z",
+      "url": "https://css-tricks.com/wordpress-php-block-registration/",
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "ai",
+      "title": "Kiro에서 GPT-5.6으로 개발자를 위한 가격-성능 향상",
+      "summary": "Kiro에서 GPT-5.6이 출시되어 개발자들이 소프트웨어를 더 나은 가격-성능으로 계획하고 구축할 수 있게 되었다. 이는 소프트웨어 리뷰 및 테스트 과정에서도 도움을 준다.",
+      "summary_full": "Kiro에서 GPT-5.6이 출시되어 개발자들에게 더 나은 가격-성능을 제공한다. 이 모델은 소프트웨어를 계획하고 구축하는 데 도움을 주며, 리뷰와 테스트 과정에서도 유용하다. 개발자들은 이를 통해 효율성을 높이고 비용을 절감할 수 있다. GPT-5.6의 도입은 개발 환경에 긍정적인 영향을 미칠 것으로 기대된다.",
+      "keywords": [
+        "GPT-5.6",
+        "Kiro",
+        "개발자"
+      ],
+      "source": "OpenAI News",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "industry",
+      "title": "로그 오프 없는 AI 디자이너 되기",
+      "summary": "디자인의 책임으로서 온라인 공간의 재구성이 필요하다. AI가 마지막 경계를 허물고 있는 현상에 대해 논의한다.",
+      "summary_full": "디자인의 책임으로서 온라인 공간의 재구성이 필요하다. AI가 마지막 경계를 허물고 있는 현상에 대해 논의한다. 회의 맥락을 AI와 함께 새로운 장소로 확장하는 방법을 제안한다. Granola의 새로운 모델 컨텍스트 프로토타입을 소개한다.",
+      "keywords": [
+        "AI 디자인",
+        "온라인 공간",
+        "디자인 책임"
+      ],
+      "source": "uxdesign.cc",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T11:15:25.000Z",
+      "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-08-25"
+    },
+    {
+      "category": "industry",
+      "title": "카카오, 다시 던진 승부수",
+      "summary": "카카오는 IT 산업에서 주목할 만한 전략을 다시 한번 선보였습니다. 이번 주간 리포트에서는 기업 경영자와 IT 종사자들이 반드시 알아야 할 소식들을 큐레이션했습니다.",
+      "summary_full": "카카오는 최근 IT 산업에서 중요한 전략적 결정을 내렸습니다. 주간 리포트는 기업 경영자와 IT 종사자들이 놓쳐서는 안 될 소식들을 전문 기자의 관점에서 제공합니다. 이 리포트는 구독 신청을 통해 받을 수 있으며, 구독자에게는 추가 혜택도 제공됩니다. 바이라인네트워크의 유료 구독채널인 '커머스BN'의 무료 구독권도 포함되어 있습니다.",
+      "keywords": [
+        "카카오",
+        "IT 산업",
+        "주간 리포트"
+      ],
+      "source": "바이라인네트워크",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T07:47:13.000Z",
+      "url": "https://byline.network/2026/08/24-632/",
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "design",
@@ -65,6 +209,22 @@
       "publishedAt": "2026-08-24T00:55:57.000Z",
       "url": "https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e",
       "collectedAt": "2026-08-24"
+    },
+    {
+      "category": "figma",
+      "title": "피그마의 벡터 편집, 정밀한 수정에 익숙한 상호작용 제공",
+      "summary": "피그마의 벡터 편집 기능이 정밀한 수정 작업을 위한 익숙한 상호작용을 도입했습니다. 이제 사용자는 흐름을 방해받지 않고 벡터 작업을 손으로 직접 조정할 수 있습니다.",
+      "summary_full": "피그마의 벡터 편집 기능이 사용자에게 익숙한 상호작용을 통해 정밀한 수정 작업을 가능하게 합니다. 지우기 및 색상 변경이 더 직관적으로 이루어져, 사용자는 벡터 작업을 손쉽게 조정할 수 있습니다. 벡터 경로를 직접 지워 불필요한 흔적을 정리하거나 기존 아트를 재구성할 수 있습니다. 이러한 변화는 디자인 작업의 흐름을 더욱 원활하게 만들어 줍니다.",
+      "keywords": [
+        "피그마",
+        "벡터 편집",
+        "디자인 도구"
+      ],
+      "source": "Figma Release Notes",
+      "date": "8월 24일",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "industry",
@@ -197,8 +357,8 @@
     {
       "category": "ai",
       "title": "AI 모델 ‘Claude’ 개발사 Anthropic, 자체 칩 제작 시작",
-      "summary": "AI 모델 ‘Claude’의 개발사인 Anthropic이 자체 칩을 제작하기 위해 구글의 반도체 전문가를 영입했다.",
-      "summary_full": "AI 모델 ‘Claude’를 개발한 Anthropic이 자체 칩을 제작하기 위해 구글에서 반도체 전문가를 영입했다. 이는 AI 기술의 발전을 위한 전략으로 보인다. 회사는 AI 모델과 하드웨어의 통합을 통해 성능을 극대화할 계획이다. 이러한 움직임은 AI 산업 내 경쟁력을 높이는 데 기여할 것으로 예상된다.",
+      "summary": "AI 모델 ‘Claude’를 개발한 Anthropic이 자체 칩을 제작하기 위해 구글의 반도체 전문가를 영입했다.",
+      "summary_full": "AI 모델 ‘Claude’를 개발한 Anthropic이 자체 칩 제작에 나섰다. 이를 위해 구글에서 반도체 전문가를 영입한 것으로 알려졌다. 이는 AI 기술의 발전과 함께 하드웨어 개발에도 집중하겠다는 전략으로 해석된다. Anthropic은 AI와 하드웨어의 융합을 통해 경쟁력을 강화할 계획이다.",
       "keywords": [
         "AI",
         "Claude",
@@ -208,7 +368,7 @@
       "date": "8월 22일",
       "publishedAt": "2026-08-22T02:48:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wbXM1Vmd3RnhTYXZ0MlE0WnlLZElTaUluZV8wU0VKS0hFak10ekhtSkpLSnJxSDFDQ0QycmtncE1tVEMwdDFzVDY4X3ZfYlBqU1R0d09uV0pDbFhkQlE?oc=5",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "frontend",
@@ -309,18 +469,18 @@
     {
       "category": "ai",
       "title": "아타리에서 EVE 온라인까지: 15년의 게임 AI 연구 기반",
-      "summary": "구글 딥마인드가 게임 스튜디오와 협력하여 혁신적인 AI 게임플레이 프로토타입을 개발하고 있다. 이 연구는 게임 AI의 발전에 중요한 이정표가 되고 있다.",
-      "summary_full": "구글 딥마인드는 15년간의 AI 연구를 바탕으로 게임 스튜디오와 협력하고 있다. 이 파트너십을 통해 혁신적인 AI 게임플레이를 위한 프로토타입을 제작하고 있다. 이러한 연구는 게임 산업에서 AI의 역할을 확장하는 데 기여하고 있다. 앞으로의 게임 경험에 큰 변화를 가져올 것으로 기대된다.",
+      "summary": "구글 딥마인드가 게임 스튜디오와 협력하여 혁신적인 AI 게임플레이를 프로토타입하고 있다. 이는 게임 산업에서 AI 기술의 발전을 보여준다.",
+      "summary_full": "구글 딥마인드가 게임 스튜디오와 협력하여 AI 게임플레이의 혁신적인 프로토타입을 개발하고 있다. 이 프로젝트는 15년간의 AI 연구를 바탕으로 진행된다. 게임 산업에서 AI의 역할이 점점 중요해지고 있음을 시사한다. 이러한 협업은 미래의 게임 경험을 변화시킬 가능성을 지닌다.",
       "keywords": [
-        "AI",
-        "게임",
+        "AI 연구",
+        "게임 산업",
         "구글 딥마인드"
       ],
       "source": "Google DeepMind Blog",
       "date": "8월 21일",
       "publishedAt": "2026-08-21T11:59:48.000Z",
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "design",
@@ -371,36 +531,20 @@
       "collectedAt": "2026-08-21"
     },
     {
-      "category": "figma",
-      "title": "오토 레이아웃의 자동 간격에 새로운 옵션 추가",
-      "summary": "오토 레이아웃의 자동 간격에 'Around'와 'Evenly'라는 두 가지 새로운 옵션이 추가되었습니다. 기존의 'Between' 기능은 CSS 용어에 맞춰 이름이 변경되었습니다.",
-      "summary_full": "오토 레이아웃의 자동 간격에 'Around'와 'Evenly'라는 두 가지 새로운 옵션이 추가되었습니다. 'Between'은 아이템 간에 고른 간격을 두고 가장자리는 간격이 없는 기존의 기본 기능으로, CSS 용어에 맞춰 이름이 변경되었습니다. 'Around'는 아이템 간에 고른 간격을 두되, 가장자리에 반만큼의 간격을 두는 방식입니다. 이러한 변화는 CSS에서 이미 지원하는 간격 패턴과 일치합니다.",
-      "keywords": [
-        "오토 레이아웃",
-        "자동 간격",
-        "CSS"
-      ],
-      "source": "Figma Release Notes",
-      "date": "8월 21일",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-08-24"
-    },
-    {
       "category": "ai",
       "title": "음성 인식에서 벤치마크 최적화 측정",
-      "summary": "음성 인식 시스템의 성능을 평가하기 위한 벤치마크 최적화 방법을 다룬다. 이 연구는 다양한 최적화 기법의 효과를 비교 분석한다.",
-      "summary_full": "본 연구는 음성 인식 분야에서 벤치마크 최적화의 중요성을 강조한다. 여러 최적화 기법을 적용하여 성능 개선을 측정하고, 그 결과를 분석한다. 이를 통해 최적화 방법의 효과를 명확히 하고, 향후 연구 방향을 제시한다. 최종적으로, 음성 인식 기술의 발전에 기여할 수 있는 기초 자료를 제공한다.",
+      "summary": "음성 인식 시스템의 성능을 평가하기 위한 벤치마크 최적화 방법을 다룬다. 이 연구는 다양한 알고리즘의 효과성을 비교하는 데 중점을 둔다.",
+      "summary_full": "이 논문은 음성 인식의 벤치마크 최적화 방법을 측정하는 방법론을 제시한다. 특히, 여러 알고리즘의 성능을 비교하여 최적의 솔루션을 찾는 데 초점을 맞춘다. 이를 통해 음성 인식 기술의 발전을 위한 기초 데이터를 제공하고자 한다. 연구 결과는 향후 음성 인식 시스템의 개선에 기여할 것으로 기대된다.",
       "keywords": [
         "음성 인식",
-        "최적화",
-        "벤치마크"
+        "벤치마크",
+        "최적화"
       ],
       "source": "HuggingFace Blog",
       "date": "8월 21일",
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "trend",
@@ -484,9 +628,9 @@
     },
     {
       "category": "design",
-      "title": "타이밍 차트: SMIL 애니메이션의 청사진",
-      "summary": "웹에서 모든 것은 기본적으로 박스지만, 애니메이션 <div>는 원처럼 보이려고 합니다. SVG로 장식된 진짜 <circle>은 HTML/CSS로 만든 <div>보다 더 다양한 환경에 적합합니다.",
-      "summary_full": "웹에서 모든 요소는 기본적으로 박스 형태이지만, 많은 애니메이션 <div>는 원처럼 보이려 합니다. 그러나 진짜 <circle>은 SVG로 만들어져 더 넓은 범위의 환경에 적합합니다. <img> 태그는 HTML을 사용할 수 없으며, 애니메이션의 가능성을 제한합니다. 이 글에서는 SMIL 애니메이션을 위한 타이밍 차트의 중요성을 다룹니다.",
+      "title": "타이밍 차트: SMIL 애니메이션을 위한 청사진",
+      "summary": "웹에서 모든 것은 기본적으로 박스지만, 많은 애니메이션 <div>가 원처럼 보이려고 한다. 하지만 실제 <circle>은 SVG로 더 다양한 용도로 사용될 수 있다.",
+      "summary_full": "웹에서 기본적으로 모든 요소는 박스 형태이지만, 애니메이션 <div>는 원처럼 보이려 한다. 그러나 실제 <circle>은 SVG로 더 많은 가능성을 지닌다. <img> 태그는 HTML/CSS로는 구현할 수 없는 엄격한 제한이 있다. 따라서 SVG를 활용하면 더 다양한 디자인을 구현할 수 있다.",
       "keywords": [
         "SMIL 애니메이션",
         "SVG",
@@ -496,7 +640,7 @@
       "date": "8월 20일",
       "publishedAt": "2026-08-20T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "ai",
@@ -532,21 +676,19 @@
     },
     {
       "category": "frontend",
-      "title": "브라우저 기반 광고 대시보드 개발",
-      "summary": "프론트엔드 개발자가 광고주를 위한 대시보드를 만들며 서버 의존성을 줄이고 브라우저에서 데이터 필터링과 정렬을 처리하는 방법을 공유합니다. 이로 인해 대시보드의 속도 향상뿐만 아니라 사용자 경험 개선도 이루어졌습니다.",
-      "summary_full": "프론트엔드 개발자 김동희가 광고주를 위한 대시보드를 개발하는 과정에서 서버 의존성을 줄이고 브라우저에서 필터링, 정렬, 검색, 페이지네이션을 처리하는 방법을 설명합니다. 이러한 변화는 대시보드의 속도를 크게 향상시켰을 뿐만 아니라 광고주가 대시보드를 더 효율적으로 사용할 수 있도록 도와주었습니다. 이 글에서는 필터링 기능 개선에 대한 구체적인 경험과 그로 인한 긍정적인 결과를 다룹니다. 결과적으로 광고주는 대시보드를 더 자주 사용하게 되었습니다.",
+      "title": "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
+      "summary": "광고주를 위한 대시보드를 개발하는 과정에서 서버 의존성을 줄이고 브라우저에서 필터링, 정렬, 검색, 페이지네이션을 처리하게 만들었다. 이로 인해 속도 향상뿐만 아니라 광고주 경험도 개선되었다.",
+      "summary_full": "토스에서 광고주를 위한 대시보드를 개발하는 프론트엔드 개발자가 서버 의존성을 줄이고 브라우저에서 모든 필터링, 정렬, 검색, 페이지네이션을 처리하도록 개선한 이야기를 다룬다. 이 변화는 단순한 속도 향상에 그치지 않고 광고주가 대시보드를 보다 효율적으로 사용할 수 있게 해주었다. 결과적으로, 광고주가 대시보드를 한 번만 보지 않고 지속적으로 활용할 수 있는 환경을 제공하게 되었다. 이러한 접근은 프론트엔드 개발에서의 다양한 문제를 해결하는 데 기여했다.",
       "keywords": [
-        "대시보드",
-        "프론트엔드",
-        "광고주",
-        "서버",
-        "브라우저"
+        "광고 대시보드",
+        "프론트엔드 개발",
+        "서버 의존성"
       ],
       "source": "toss.tech",
       "date": "8월 20일",
       "publishedAt": "2026-08-20T01:00:00.000Z",
       "url": "https://toss.tech/article/ads_dashboard_fe",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "trend",
@@ -691,6 +833,22 @@
       "publishedAt": "2026-08-19T08:54:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YY0FtYkU4QzhBRzVMOHJtN3RrTlRrVjRPSG14Vm1FRFc2V0ZtOHdwNnhYMkFaaGNheHRwVG01emtqT1RkSzc5VnA5N05UU2VDWDdOQ3d0UzhfM1l6?oc=5",
       "collectedAt": "2026-08-24"
+    },
+    {
+      "category": "ai",
+      "title": "KT, 기업용 소버린 AI 제품 출시",
+      "summary": "KT가 국산 반도체와 LLM 모델을 통합한 기업용 소버린 AI 제품을 출시했다. 이 제품은 기업의 AI 활용을 지원하며, 국내 기술력을 바탕으로 개발되었다.",
+      "summary_full": "KT가 새로운 기업용 소버린 AI 제품을 출시했다. 이 제품은 국산 반도체와 대규모 언어 모델(LLM)을 통합하여 기업의 AI 활용을 지원한다. KT는 이 제품을 통해 국내 기술력을 강조하고, 기업의 AI 도입을 촉진할 계획이다. 이는 한국의 AI 시장에서 중요한 이정표가 될 것으로 기대된다.",
+      "keywords": [
+        "KT",
+        "소버린 AI",
+        "국산 반도체"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "8월 19일",
+      "publishedAt": "2026-08-19T01:11:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsUEJNQXNTajQxWko4bVhTem03ajJFcENYUU1NZERqUlBtdm9FNGltY29sQUJ2dGkxMy1vemRLUnFUQWhaQUpXYkhEVTk2TG42YjBKa1dTdTJYaFFxMktUbg?oc=5",
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "design",
@@ -902,19 +1060,19 @@
     },
     {
       "category": "ai",
-      "title": "클로드가 단백질 디자인과 분석 화학을 가속화하는 방법",
-      "summary": "클로드는 단백질 디자인과 분석 화학 분야에서 혁신적인 접근 방식을 통해 연구의 속도를 높이고 있다. 이 기술은 과학자들이 더 빠르고 효율적으로 단백질을 설계하고 분석할 수 있도록 돕는다.",
-      "summary_full": "클로드는 단백질 디자인과 분석 화학의 혁신을 이끌고 있으며, 이는 과학자들에게 새로운 가능성을 열어준다. 이 시스템은 데이터 분석과 머신 러닝을 활용하여 단백질 구조와 기능을 예측하는 데 도움을 준다. 결과적으로, 연구자들은 실험 시간을 단축하고 더 나은 결과를 얻을 수 있다. 이러한 발전은 생명과학 및 제약 산업에 큰 영향을 미칠 것으로 기대된다.",
+      "title": "클로드가 단백질 설계 및 분석 화학을 가속화하는 방법",
+      "summary": "클로드는 생명 과학자들이 연구 속도를 높이는 데 도움을 줄 수 있는 두 가지 결과를 공유합니다. 이 기술은 단백질 설계와 분석 화학 분야에서 혁신적인 변화를 가져올 것으로 기대됩니다.",
+      "summary_full": "클로드는 생명 과학자들이 연구 속도를 높이는 데 도움을 줄 수 있는 두 가지 결과를 공유합니다. 이 기술은 단백질 설계와 분석 화학 분야에서 혁신적인 변화를 가져올 것으로 기대됩니다. 연구자들은 클로드의 도움을 받아 더 빠르고 효율적으로 실험을 진행할 수 있습니다. 이러한 발전은 생명 과학 연구의 전반적인 진전을 촉진할 것입니다.",
       "keywords": [
-        "단백질 디자인",
+        "단백질 설계",
         "분석 화학",
-        "클로드"
+        "생명 과학"
       ],
       "source": "Anthropic Research",
       "date": "8월 18일",
       "publishedAt": "2026-08-18T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "trend",
@@ -3052,18 +3210,18 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이러한 변화는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 개선하기 위한 혁신적인 접근 방식을 제시하고 있다. 이 트렌드는 시각적 요소와 기능성을 동시에 고려하여 디자인의 효율성을 높이는 데 중점을 두고 있다. 또한, 최신 기술과 사용자 피드백을 반영하여 지속적으로 발전하고 있다. 이러한 변화는 디지털 제품의 경쟁력을 강화하는 데 중요한 역할을 하고 있다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 등장하고 있다. 이러한 트렌드는 사용자 경험을 극대화하기 위해 다양한 혁신적인 요소를 통합하고 있다. 특히, 직관적인 인터페이스와 접근성을 강조하는 디자인이 주목받고 있다. 이러한 변화는 사용자와의 상호작용을 더욱 원활하게 만들어준다.",
       "keywords": [
-        "UX/UI 디자인",
-        "트렌드",
+        "UX/UI",
+        "디자인 트렌드",
         "사용자 경험"
       ],
       "source": "Google News Design (KR)",
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "ai",
@@ -4286,70 +4444,6 @@
       "collectedAt": "2026-08-09"
     },
     {
-      "category": "frontend",
-      "title": "하나의 Cloudflare Workers 크론으로 여러 작업 수행하기: 분당 틱과 시간 분기",
-      "summary": "Cloudflare Workers의 무료 플랜에서 크론 트리거는 계정당 5개로 제한되어 있어 여러 서비스를 운영하기 어렵다. 이를 해결하기 위해 분당 스케줄로 크론을 통합하고 분기하는 방법을 제안한다.",
-      "summary_full": "Cloudflare Workers의 무료 플랜에서는 크론 트리거가 계정당 5개로 제한되어 있어, 여러 서비스를 운영할 경우 빠르게 한계에 도달한다. 이 문제를 해결하기 위해 하나의 분당 스케줄로 크론을 통합하고, 각 작업을 시간에 따라 분기하는 방법을 제안한다. 이를 통해 여러 작업을 효율적으로 관리할 수 있다. 이 접근법은 서비스의 확장성을 높이는 데 기여할 수 있다.",
-      "keywords": [
-        "Cloudflare Workers",
-        "크론",
-        "스케줄링"
-      ],
-      "source": "dev.to",
-      "date": "7월 25일",
-      "publishedAt": "2026-07-25T02:08:05.000Z",
-      "url": "https://dev.to/aulvem/one-cloudflare-workers-cron-many-jobs-a-per-minute-tick-with-time-branching-38oh",
-      "collectedAt": "2026-07-25"
-    },
-    {
-      "category": "trend",
-      "title": "NASA의 중요한 심우주 관측소, 스페인 산불에 피해",
-      "summary": "마드리드 근처의 심우주 통신 복합단지가 산불로 피해를 입었다. NASA는 지역의 산불 비상사태로 인해 피해 평가를 하지 못하고 있다.",
-      "summary_full": "스페인 마드리드 근처에 위치한 NASA의 심우주 통신 복합단지가 산불로 인해 피해를 입었다. 이 지역은 현재 산불 비상사태로 어려움을 겪고 있으며, NASA는 피해 상황을 평가할 수 없는 상황이다. 산불의 확산이 통신 시설에 미치는 영향이 우려되고 있다. NASA는 조속한 피해 평가와 복구 작업을 계획하고 있다.",
-      "keywords": [
-        "NASA",
-        "심우주 관측소",
-        "스페인 산불"
-      ],
-      "source": "wired.com",
-      "date": "7월 24일",
-      "publishedAt": "2026-07-24T22:30:26.000Z",
-      "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
-      "collectedAt": "2026-07-25"
-    },
-    {
-      "category": "industry",
-      "title": "불안 장애를 가진 원격 근무자, 카메라 켜기 강요로 차별 소송 승소",
-      "summary": "영국 고용 재판소는 불안, ADHD, 자폐증을 가진 원격 근무자가 비디오 교육 세션 중 카메라를 켜도록 강요받은 것은 장애 차별에 해당한다고 판결했다. 이 사건은 고용주가 합리적인 조정을 하지 않았음을 인정받아 보상을 받게 되었다.",
-      "summary_full": "영국의 한 고용 재판소가 불안, ADHD, 자폐증을 가진 원격 근무자가 비디오 교육 중 카메라를 켜도록 강요받은 사건에서 차별을 인정했다. 이 원격 근무자는 Holiday Extras의 홈 기반 여행 상담사로 일하고 있었다. 재판소는 고용주가 장애인을 위한 합리적인 조정을 하지 않았다고 판단했다. 결과적으로 그녀는 보상을 받게 되었다.",
-      "keywords": [
-        "원격 근무",
-        "장애 차별",
-        "고용 재판소"
-      ],
-      "source": "thenextweb.com",
-      "date": "7월 24일",
-      "publishedAt": "2026-07-24T21:30:13.000Z",
-      "url": "https://thenextweb.com/news/uk-tribunal-camera-on-disability-discrimination-remote-work",
-      "collectedAt": "2026-07-25"
-    },
-    {
-      "category": "trend",
-      "title": "생성된 그림책의 24페이지에서 캐릭터 일관성 유지하기",
-      "summary": "한 장의 일러스트를 생성하는 것은 쉬운 일이지만, 같은 아이, 같은 스타일로 24장을 생성하는 것은 어렵다. 페이지를 독립적으로 생성하면 각 페이지는 그럴듯하지만, 순서대로 배열하면 캐릭터가 나이를 먹는 문제가 발생한다.",
-      "summary_full": "아이의 일러스트를 생성하는 것은 이제 쉬운 일이지만, 24페이지에 걸쳐 같은 아이를 동일한 스타일로 다양한 장면에서 생성하는 것은 도전적이다. 각 페이지를 독립적으로 생성하면 각각은 그럴듯하게 보일 수 있지만, 이를 순서대로 배열하면 캐릭터가 나이를 먹는 문제가 발생한다. 이러한 드리프트는 누적적이고 교묘하게 나타나며, 결과적으로 일관성을 잃게 만든다. 따라서 그림책의 일관성을 유지하기 위한 기술적 접근이 필요하다.",
-      "keywords": [
-        "캐릭터 일관성",
-        "그림책 생성",
-        "AI 일러스트레이션"
-      ],
-      "source": "dev.to",
-      "date": "7월 24일",
-      "publishedAt": "2026-07-24T19:36:08.000Z",
-      "url": "https://dev.to/clarajbennett/character-consistency-across-24-pages-of-a-generated-picture-book-4i80",
-      "collectedAt": "2026-07-25"
-    },
-    {
       "category": "ai",
       "title": "Anthropic, Claude 음성 모드 대폭 업그레이드",
       "summary": "사용자는 Opus, Sonnet, Haiku 중에서 선택할 수 있게 되었다. Gmail, Google 캘린더, Slack, Canva, Notion과 연동하여 음성으로 업무를 처리할 수 있다.",
@@ -4528,18 +4622,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 역사적 배경을 이해하는 것이 앱의 기능보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 시스템은 현대 언어 학습 앱의 디자인에 큰 영향을 미쳤다. 따라서 언어 앱의 효과를 이해하기 위해서는 그 뿌리를 살펴보는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승하고 있다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 시험을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 앱의 디자인을 이해하기 위해서는 라틴어 교육 방법의 유산을 살펴보는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "디자인 교훈"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "frontend",
@@ -4577,19 +4671,19 @@
     },
     {
       "category": "ai",
-      "title": "Emmi, Mistral과 협력하여 AI 원주율 산업 가속화",
-      "summary": "Emmi가 Mistral과 협력하여 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 발전을 촉진할 것으로 기대된다.",
-      "summary_full": "Emmi가 Mistral과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 발전을 촉진하고, 산업 전반에 걸쳐 혁신을 가져올 것으로 기대된다. Emmi는 AI 솔루션을 통해 효율성을 높이고, Mistral은 기술적 지원을 제공할 예정이다. 두 회사의 협업은 AI 산업의 미래를 밝히는 중요한 이정표가 될 것이다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진하는 데 중점을 둔다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 혁신과 발전을 목표로 하고 있다. 두 회사는 AI 솔루션의 개발과 상용화를 통해 시장에서의 경쟁력을 높일 계획이다. 이러한 파트너십은 AI 산업의 미래를 더욱 밝게 할 것으로 기대된다.",
       "keywords": [
-        "Emmi",
-        "Mistral",
-        "AI 산업"
+        "엠미",
+        "미스트랄",
+        "AI 네이티브 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-08-24"
+      "collectedAt": "2026-08-25"
     },
     {
       "category": "design",
