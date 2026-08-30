@@ -1,38 +1,102 @@
 {
-  "updated": "2026년 8월 29일 AM 05:42",
-  "count": 298,
+  "updated": "2026년 8월 30일 AM 03:43",
+  "count": 291,
   "articles": [
     {
       "category": "industry",
-      "title": "디자인 작업 자동화를 위한 AI 시스템 개발",
-      "summary": "디자이너들이 반복되는 디자인 작업을 줄이기 위해 AI와 시스템을 구축했다. 이 과정에서 9개의 웹 빌더가 탄생하였다.",
-      "summary_full": "디자이너들은 반복적인 디자인 작업을 효율적으로 처리하기 위해 AI와 시스템을 개발하기로 결정했다. 이 프로젝트의 일환으로 9개의 웹 빌더가 만들어졌으며, 디자이너들이 직접 참여하여 수정하고 운영하는 방식으로 진행되었다. 이러한 접근은 디자인 작업의 효율성을 높이고, 창의적인 작업에 더 많은 시간을 할애할 수 있게 한다. AI 기술을 활용하여 디자인 프로세스를 혁신적으로 변화시키려는 노력이다.",
+      "title": "디자인 작업의 혁신: AI와 시스템 구축",
+      "summary": "디자이너들이 반복되는 디자인 작업을 해결하기 위해 AI와 시스템을 개발했다. 이 과정에서 9개의 웹 빌더가 탄생하게 되었다.",
+      "summary_full": "디자이너들은 반복적인 디자인 작업의 비효율성을 극복하기 위해 AI와 시스템을 도입하기로 결정했다. 이들은 직접 웹 빌더를 만들고 수정하며 운영하는 과정을 통해 9개의 혁신적인 도구를 개발했다. 이러한 접근은 디자인 작업의 효율성을 높이고, 디자이너들이 더 창의적인 작업에 집중할 수 있도록 돕는다. AI와 시스템을 활용한 디자인 혁신의 사례로 주목받고 있다.",
       "keywords": [
         "디자인",
         "AI",
         "웹 빌더"
       ],
       "source": "오늘의집 Culture",
-      "date": "8월 29일",
-      "publishedAt": "2026-08-29T05:41:32.401Z",
+      "date": "8월 30일",
+      "publishedAt": "2026-08-30T03:42:10.459Z",
       "url": "https://www.bucketplace.com/post/2026-08-13-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9E%91%EC%97%85-%EC%9A%B0%EB%A6%AC%EB%8A%94-ai%EC%99%80-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4/",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "design",
       "title": "공동의 목표를 위해 죽음을 무릅쓴 AI 에이전트들",
       "summary": "AI 에이전트들이 공동의 목표를 달성하기 위해 위험을 감수하는 사례를 다룬다. 이들은 협력과 희생을 통해 더 큰 성과를 이루려는 노력을 보여준다.",
-      "summary_full": "이 기사에서는 AI 에이전트들이 공동의 목표를 위해 어떻게 위험을 감수하고 희생하는지를 탐구한다. 다양한 사례를 통해 이들이 협력하여 문제를 해결하는 방식과 그 과정에서의 도전 과제를 설명한다. 또한, 이러한 AI의 행동이 인간 사회에 미치는 영향과 의미를 분석한다. 마지막으로, AI의 윤리적 측면과 미래의 가능성에 대한 논의도 포함된다.",
+      "summary_full": "이 기사에서는 AI 에이전트들이 공동의 목표를 위해 어떻게 위험을 감수하고 희생하는지를 탐구한다. 다양한 사례를 통해 이들이 협력하여 문제를 해결하는 과정을 설명한다. 또한, 이러한 행동이 AI의 발전과 사회적 영향에 미치는 의미를 논의한다. AI 기술의 진화와 함께 이러한 에이전트들의 역할이 점점 더 중요해지고 있음을 강조한다.",
       "keywords": [
         "AI 에이전트",
         "협력",
         "위험 감수"
       ],
       "source": "Secondbrush Blog",
-      "date": "8월 29일",
-      "publishedAt": "2026-08-29T05:41:28.266Z",
+      "date": "8월 30일",
+      "publishedAt": "2026-08-30T03:42:05.938Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-820/",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
+    },
+    {
+      "category": "frontend",
+      "title": "무료 서버에서 48시간 동안 실행한 의미 캐시",
+      "summary": "AI 기능의 지연 시간을 줄이기 위해 무료 모델과 서버를 활용한 실험을 진행했다.",
+      "summary_full": "최근 AI 기능의 지연 시간을 개선하고자 무료 서버에서 48시간 동안 의미 캐시를 실행했다. 사용자가 질문을 입력하면 백엔드가 모델에 전달하고, 답변이 돌아오는 방식에서 발생하는 지연을 줄이기 위해 노력했다. 이 과정에서 예기치 않은 유사성의 함정에 빠지기도 했다. 인프라 비용을 늘리지 않고 문제를 해결하고자 한 실험이었다.",
+      "keywords": [
+        "AI 기능",
+        "무료 서버",
+        "의미 캐시"
+      ],
+      "source": "dev.to",
+      "date": "8월 30일",
+      "publishedAt": "2026-08-30T03:32:16.000Z",
+      "url": "https://dev.to/codepy_1473/i-ran-a-semantic-cache-on-a-free-server-for-48-hours-similarity-was-the-trap-2n71",
+      "collectedAt": "2026-08-30"
+    },
+    {
+      "category": "trend",
+      "title": "AI 인테리어 개념 평가를 위한 측정 우선 워크플로우",
+      "summary": "AI 이미지 시스템은 매력적인 방 개념을 신속하게 생성할 수 있지만, 생성된 이미지는 건축 도면이나 쇼핑 목록이 아니다. 생성 이후의 어려운 엔지니어링 문제는 픽셀을 치수, 순환, 자연광, 서비스, 예산 등을 고려한 계획으로 변환하는 것이다.",
+      "summary_full": "AI 이미지 시스템은 매력적인 방 개념을 몇 초 만에 생성할 수 있지만, 이러한 개념 이미지는 실제 건축 도면이나 쇼핑 목록으로 사용될 수 없다. 생성된 이미지 이후에는 치수, 순환, 자연광, 서비스 및 예산을 고려하여 픽셀을 실제 계획으로 변환하는 어려운 엔지니어링 문제가 발생한다. 이러한 문제를 해결하기 위한 측정 우선 워크플로우가 필요하다. 이 워크플로우는 AI가 생성한 인테리어 개념을 실제 구현 가능하도록 평가하는 데 중점을 둔다.",
+      "keywords": [
+        "AI",
+        "인테리어 디자인",
+        "측정 우선 워크플로우"
+      ],
+      "source": "dev.to",
+      "date": "8월 30일",
+      "publishedAt": "2026-08-30T02:52:40.000Z",
+      "url": "https://dev.to/physicsai/a-measurement-first-workflow-for-evaluating-ai-interior-concepts-4h25",
+      "collectedAt": "2026-08-30"
+    },
+    {
+      "category": "industry",
+      "title": "Hugging Face, 45억 달러 AI 모델 제국을 구축하다",
+      "summary": "Hugging Face가 129억 달러에 Nvidia에 인수된다. 오픈소스 AI의 가치를 입증한 Thomas Wolf의 10년 노력이 결실을 맺었다.",
+      "summary_full": "Hugging Face는 45억 달러 규모의 AI 모델 제국을 구축한 후 Nvidia에 129억 달러에 인수된다. Thomas Wolf는 오픈소스 AI가 자선 프로젝트가 아님을 세상에 알리기 위해 10년을 보냈다. 2026년 8월 27일, Nvidia는 Hugging Face를 인수하기로 합의했다. 이 회사는 300만 개 이상의 오픈소스 LLM을 호스팅하는 것으로 유명하다.",
+      "keywords": [
+        "Hugging Face",
+        "Nvidia",
+        "오픈소스 AI"
+      ],
+      "source": "thenextweb.com",
+      "date": "8월 29일",
+      "publishedAt": "2026-08-29T18:58:08.000Z",
+      "url": "https://thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview",
+      "collectedAt": "2026-08-30"
+    },
+    {
+      "category": "trend",
+      "title": "사운드코어 리버티 5 프로 리뷰: 전화 통화의 달인",
+      "summary": "우수한 통화 품질과 뛰어난 가격대가 이 이어폰을 비싼 경쟁 제품들보다 앞서게 만든다.",
+      "summary_full": "사운드코어 리버티 5 프로는 뛰어난 통화 품질을 제공한다. 가격대비 성능이 뛰어나 비싼 경쟁 제품들보다 우수하다. 이 제품은 특히 전화 통화에 최적화되어 있다. 소비자들에게 매우 매력적인 선택이 될 것이다.",
+      "keywords": [
+        "사운드코어",
+        "리버티 5 프로",
+        "이어폰"
+      ],
+      "source": "wired.com",
+      "date": "8월 29일",
+      "publishedAt": "2026-08-29T11:00:00.000Z",
+      "url": "https://www.wired.com/review/soundcore-liberty-5-pro/",
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "frontend",
@@ -101,18 +165,18 @@
     {
       "category": "ai",
       "title": "Anthropic, Claude for Teachers를 학교와 교육구에 제공",
-      "summary": "Anthropic이 교육용 AI 도구인 Claude for Teachers를 학교와 교육구에 제공하기 시작했다. 이 도구는 교사들이 학생들에게 맞춤형 학습 경험을 제공하는 데 도움을 줄 예정이다.",
-      "summary_full": "Anthropic이 새로운 AI 도구인 Claude for Teachers를 출시하여 학교와 교육구에 제공하고 있다. 이 도구는 교사들이 학생들에게 개인화된 학습 경험을 제공할 수 있도록 설계되었다. Claude는 교육 현장에서의 활용 가능성을 높이고, 교사들의 업무를 지원하는 데 중점을 두고 있다. 이를 통해 교육의 질을 향상시키고, 학생들의 학습 효과를 극대화할 것으로 기대된다.",
+      "summary": "Anthropic이 교육자들을 위한 AI 도구인 Claude for Teachers를 학교와 교육구에 제공하기 시작했다. 이 도구는 교육자들이 수업을 보다 효과적으로 진행할 수 있도록 지원한다.",
+      "summary_full": "Anthropic이 최근 교육자들을 위한 AI 도구인 Claude for Teachers를 학교와 교육구에 제공하기 시작했다. 이 도구는 교사들이 수업을 보다 효과적으로 진행하고 학생들과의 상호작용을 개선하는 데 도움을 준다. Claude for Teachers는 교육자들이 필요로 하는 다양한 기능을 갖추고 있어, 교육 현장에서의 활용도가 높을 것으로 기대된다. 이를 통해 교육의 질을 향상시키고, 학생들의 학습 경험을 풍부하게 할 수 있을 것으로 보인다.",
       "keywords": [
         "Anthropic",
         "Claude for Teachers",
-        "교육용 AI"
+        "교육 AI"
       ],
       "source": "Google News Anthropic",
       "date": "8월 28일",
       "publishedAt": "2026-08-28T15:12:36.000Z",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlpUWnVyMWlXR0paanY5dHJrbUlydXRpN29MX2g1VDZxN0hFVFdjcEstOEN4NGFQcjB1ZDhhdWc2Z0c4eUdDM25scURBc2k0NFJxVHdvSEp5aWZJY2tta0NybWIwSE1ubW9Ib1V3dE5mR3R2RWxab0hIeVF6dUtHMTBvaGYyWkxIbnBOWjVlSQ?oc=5",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "frontend",
@@ -181,18 +245,18 @@
     {
       "category": "industry",
       "title": "AI·N2SF 변화 속 상반기 보안업계 실적",
-      "summary": "올해 상반기 보안업계는 클라우드와 서비스 사업이 실적을 이끌었으며, EDR과 NAC 수요가 증가했다.",
-      "summary_full": "상반기 동안 주요 보안기업들은 기존 보안제품과 클라우드·서비스 사업으로 실적을 올렸다. EDR과 NAC의 수요 증가가 두드러졌고, N2SF와 제로 트러스트 전환이 매출 증가에 기여했다. AI 보안과 PQC가 실적에 반영된 사례도 있었으나, 많은 기업은 이들을 하반기 성장 사업으로 보고 있다.",
+      "summary": "올해 상반기 보안기업들은 클라우드와 서비스 사업이 실적을 이끌었다. AI 보안과 양자내성암호가 실적에 반영된 사례도 있으나, 많은 기업은 하반기 성장 사업으로 보고 있다.",
+      "summary_full": "올해 상반기 국내 주요 보안기업들은 기존 보안제품과 클라우드·서비스 사업이 실적을 이끌었다. 엔드포인트 탐지·대응(EDR)과 네트워크 접근 제어(NAC) 수요가 증가했으며, N2SF와 제로 트러스트 전환이 매출 증가로 이어졌다. AI 보안과 양자내성암호(PQC)도 실적에 긍정적인 영향을 미쳤지만, 많은 기업은 이들을 하반기 성장 사업으로 보고 있다.",
       "keywords": [
-        "보안업계",
         "AI 보안",
-        "N2SF"
+        "N2SF",
+        "제로 트러스트"
       ],
       "source": "바이라인네트워크",
       "date": "8월 28일",
       "publishedAt": "2026-08-28T08:56:22.000Z",
       "url": "https://byline.network/2026/08/28-652/",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "ai",
@@ -230,7 +294,7 @@
       "category": "ai",
       "title": "SpaceX에 인수된 Cursor에 대한 우리의 결정",
       "summary": "SpaceX의 인수 이후 Cursor에 대한 계약을 종료하기로 결정했다. OpenAI 모델을 Cursor에 제공하는 계약이 종료된다.",
-      "summary_full": "SpaceX의 인수 이후, Cursor와의 계약을 종료하기로 결정했다. 이는 OpenAI 모델을 Cursor에 제공하는 서비스의 중단을 의미한다. 이러한 결정은 SpaceX의 전략적 방향과 관련이 있다. Cursor와의 협력 관계는 더 이상 지속되지 않을 예정이다.",
+      "summary_full": "SpaceX에 의해 Cursor가 인수된 후, OpenAI는 Cursor에 대한 계약을 종료하기로 결정했다. 이는 OpenAI 모델을 Cursor에 제공하는 계약이 포함된다. 이러한 결정은 SpaceX의 인수와 관련된 전략적 변화에 따른 것이다. 따라서 Cursor는 더 이상 OpenAI의 모델을 사용할 수 없게 된다.",
       "keywords": [
         "SpaceX",
         "Cursor",
@@ -240,7 +304,7 @@
       "date": "8월 28일",
       "publishedAt": "2026-08-28T06:00:00.000Z",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "ai",
@@ -260,27 +324,27 @@
     },
     {
       "category": "ai",
-      "title": "자동화된 연구자들이 정렬 실패를 신뢰성 있게 완화할 수 있다",
-      "summary": "자동화된 연구자들은 정렬 실패를 효과적으로 해결할 수 있는 방법을 개발했다. 이 기술은 다양한 분야에서의 적용 가능성을 보여준다.",
-      "summary_full": "2026년 8월 28일, 자동화된 연구자들이 정렬 실패를 신뢰성 있게 완화할 수 있는 방법을 제시했다. 이 연구는 인공지능 시스템의 정렬 문제를 해결하는 데 중요한 기여를 할 것으로 기대된다. 또한, 이 기술은 여러 산업 분야에서의 활용 가능성을 열어줄 것으로 보인다. 앞으로의 연구가 더욱 기대된다.",
+      "title": "자동화 연구자들이 정렬 실패를 신뢰성 있게 완화할 수 있다",
+      "summary": "자동화된 연구자들이 정렬 실패를 효과적으로 해결할 수 있는 방법을 제시한다. 이 기술은 다양한 분야에서의 응용 가능성을 보여준다.",
+      "summary_full": "자동화된 연구자들이 정렬 실패를 신뢰성 있게 완화할 수 있는 방법을 개발하였다. 이 연구는 인공지능 시스템의 안전성과 효율성을 높이는 데 기여할 것으로 기대된다. 정렬 실패는 AI 시스템에서 발생할 수 있는 중요한 문제로, 이를 해결하기 위한 다양한 접근법이 필요하다. 연구자들은 이 기술이 여러 분야에서 활용될 수 있음을 강조하고 있다.",
       "keywords": [
         "자동화",
         "정렬 실패",
-        "연구자"
+        "AI 시스템"
       ],
       "source": "Anthropic Research",
       "date": "8월 28일",
       "publishedAt": "2026-08-28T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "ai",
       "title": "오픈 ASR 리더보드에 첫 번째 글로벌 사우스 언어 추가",
-      "summary": "오픈 ASR 리더보드에 첫 번째 글로벌 사우스 언어가 추가되었다. 이는 다양한 언어의 음성 인식 기술 발전에 기여할 것으로 기대된다.",
-      "summary_full": "오픈 ASR 리더보드에 처음으로 글로벌 사우스 언어가 추가되었다. 이로 인해 음성 인식 기술의 다양성이 확대될 것으로 보인다. 해당 언어의 추가는 기술 발전에 긍정적인 영향을 미칠 것으로 예상된다. 이는 글로벌 사우스 지역의 언어와 문화에 대한 인식을 높이는 계기가 될 것이다.",
+      "summary": "오픈 ASR 리더보드에 첫 번째 글로벌 사우스 언어가 추가되었다. 이는 다양한 언어 지원의 중요성을 강조한다.",
+      "summary_full": "오픈 ASR 리더보드에 첫 번째 글로벌 사우스 언어가 추가되었다. 이로 인해 다양한 언어의 음성 인식 기술 발전이 기대된다. 이는 글로벌 사우스 언어의 음성 인식 기술이 더욱 발전할 수 있는 기회를 제공한다. 또한, 다양한 언어 지원의 중요성을 강조하며, 포용적인 기술 발전을 촉진한다.",
       "keywords": [
-        "ASR",
+        "오픈 ASR",
         "글로벌 사우스",
         "음성 인식"
       ],
@@ -288,55 +352,55 @@
       "date": "8월 28일",
       "publishedAt": "2026-08-28T00:00:00.000Z",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "industry",
       "title": "블레이드 러너가 AI에 대해 잘못 알고 있던 점",
-      "summary": "영화는 비와 안드로이드로 가득한 미래를 그렸지만, 실제 AI는 단순한 입력창으로 시작되었다. 영화의 디자인은 뛰어나지만, 현실의 AI 발전 방향은 다르다.",
-      "summary_full": "블레이드 러너는 2019년 11월의 로스앤젤레스를 배경으로 하여 영화를 제작했으나, 그 예측은 현실과 동떨어져 있다. 영화는 비와 네온사인으로 가득한 분위기를 조성했지만, 실제 AI는 훨씬 더 단순한 형태로 등장했다. 이러한 차이는 현재 AI가 나아가고 있는 방향을 보여준다. 리들리 스콧 감독의 작품은 디자인 면에서는 걸작이지만, 기후 예측에서는 실패했다.",
+      "summary": "영화는 디자인의 걸작이지만 AI의 실제 발전을 잘못 예측했다. 블레이드 러너의 배경인 2019년 로스앤젤레스는 현실과 동떨어진 모습이다.",
+      "summary_full": "블레이드 러너는 비와 네온사인, 안드로이드를 통해 미래의 AI를 묘사했지만, 실제 AI는 단순한 입력창으로 나타났다. 리들리 스콧은 2019년 11월의 로스앤젤레스를 배경으로 설정했지만, 그 예측은 현실과 거리가 멀었다. 영화의 분위기와 실제 AI의 발전 간의 간극은 우리가 나아가야 할 방향을 보여준다. 이 영화는 디자인의 걸작으로 평가받지만, AI의 미래에 대한 예측은 실패했다.",
       "keywords": [
         "블레이드 러너",
         "AI",
-        "리들리 스콧"
+        "영화 예측"
       ],
       "source": "uxdesign.cc",
       "date": "8월 27일",
       "publishedAt": "2026-08-27T20:22:49.000Z",
       "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "ai",
       "title": "제미니 옴니 1.1 플래시로 더 많은 제어로 구축하기",
-      "summary": "제미니 옴니 1.1 플래시는 사용자가 더 많은 제어를 통해 구축할 수 있도록 돕습니다. 이 업데이트는 개발자들에게 향상된 기능을 제공합니다.",
-      "summary_full": "제미니 옴니 1.1 플래시는 사용자가 더 많은 제어를 통해 구축할 수 있도록 돕는 혁신적인 도구입니다. 이 버전은 개발자들에게 향상된 기능과 유연성을 제공합니다. 새로운 기능들은 프로젝트의 효율성을 높이고, 사용자 경험을 개선하는 데 기여합니다. 따라서, 제미니 옴니 1.1 플래시는 현대적인 개발 환경에서 필수적인 도구로 자리잡고 있습니다.",
+      "summary": "제미니 옴니 1.1 플래시는 사용자에게 더 많은 제어를 제공하여 빌드를 가능하게 합니다. 이 업데이트는 개발자들이 원하는 방식으로 작업할 수 있도록 도와줍니다.",
+      "summary_full": "제미니 옴니 1.1 플래시는 사용자가 더 많은 제어를 통해 빌드를 할 수 있도록 설계되었습니다. 새로운 기능들은 개발자들이 작업을 보다 효율적으로 수행할 수 있게 합니다. 이 업데이트는 특히 복잡한 프로젝트에 유용합니다. 사용자 경험을 향상시키는 다양한 옵션이 추가되었습니다.",
       "keywords": [
         "제미니 옴니",
         "플래시",
-        "개발 도구"
+        "제어"
       ],
       "source": "Google DeepMind Blog",
       "date": "8월 27일",
       "publishedAt": "2026-08-27T16:11:32.000Z",
       "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "frontend",
-      "title": "문서 PIP API를 이용한 웹 위젯 생성",
-      "summary": "문서 PIP 창을 생성하고 그 안에 HTML, CSS, JavaScript를 넣는 방법에 대해 설명한다.",
-      "summary_full": "문서 PIP 창(DPIP 창)을 생성하여 웹 위젯을 만드는 과정에 대해 다룬다. 이 창 안에 HTML, CSS, JavaScript를 삽입하여 다양한 기능을 구현할 수 있다. 이 기사는 CSS-Tricks에서 처음 작성되어 사랑을 담아 발표되었다. 뉴스레터 구독도 추천한다.",
+      "title": "문서 그림 속 그림 API를 이용한 웹 위젯 생성",
+      "summary": "문서 그림 속 그림 창(DPIP 창)을 생성하고 그 안에 HTML, CSS, JavaScript를 넣는 방법을 설명한다. 이 기사는 CSS-Tricks에서 작성되어 배포되었다.",
+      "summary_full": "이 기사는 문서 그림 속 그림 API를 활용하여 웹 위젯을 만드는 과정을 다룬다. DPIP 창을 생성한 후, HTML, CSS, JavaScript를 활용하여 콘텐츠를 삽입하는 방법을 설명한다. CSS-Tricks에서 작성된 이 기사는 웹 개발자들에게 유용한 정보를 제공한다. 뉴스레터 구독도 추천한다.",
       "keywords": [
         "웹 위젯",
-        "PIP API",
+        "문서 그림 속 그림 API",
         "CSS-Tricks"
       ],
       "source": "css-tricks.com",
       "date": "8월 27일",
       "publishedAt": "2026-08-27T14:41:06.000Z",
       "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "collectedAt": "2026-08-28"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "industry",
@@ -500,19 +564,19 @@
     },
     {
       "category": "design",
-      "title": "데이터 시각화 재고: 실제 결정을 이끄는 대시보드에 대한 UX 접근법",
-      "summary": "오늘날 조직에서 데이터는 그 어느 때보다 쉽게 접근할 수 있다. 그러나 대시보드가 제공하는 정보는 종종 결정으로 이어지지 않는다.",
-      "summary_full": "조직 내에서 데이터는 다양한 기능을 위한 대시보드와 성과 보고서로 쉽게 접근 가능하다. 그러나 주간 회의나 분기 리뷰에서 숫자가 공유되고도 결론에 도달하지 않는 경우가 빈번하다. 이는 대시보드의 디자인과 사용자 경험이 실제 의사결정에 미치는 영향을 재고할 필요성을 시사한다. 효과적인 데이터 시각화는 조직의 전략적 결정을 지원하는 중요한 요소가 될 수 있다.",
+      "title": "데이터 시각화 재고: 실제로 결정을 유도하는 대시보드에 대한 UX 접근법",
+      "summary": "현재 조직에서 데이터는 그 어느 때보다 쉽게 접근할 수 있다. 그러나 대시보드가 존재함에도 불구하고 회의에서 결정을 내리지 못하는 경우가 많다.",
+      "summary_full": "조직 내에서 데이터는 매우 쉽게 접근할 수 있지만, 대시보드와 성과 보고서가 존재하는 상황에서도 실제로 결정을 내리지 못하는 일이 빈번하다. 주간 회의와 분기 리뷰에서 숫자가 공유되고, 참석자들이 고개를 끄덕이지만, 결국 결론에 도달하지 못하는 경우가 많다. 이러한 문제를 해결하기 위해 UX 접근법을 통해 대시보드를 재고할 필요성이 제기된다. 이는 데이터 시각화가 단순한 정보 전달을 넘어 실제 의사결정을 유도하는 방향으로 나아가야 함을 의미한다.",
       "keywords": [
         "데이터 시각화",
-        "UX 디자인",
+        "UX 접근법",
         "의사결정"
       ],
       "source": "smashingmagazine.com",
       "date": "8월 26일",
       "publishedAt": "2026-08-26T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "ai",
@@ -582,7 +646,7 @@
       "category": "frontend",
       "title": "토스증권 추천과 검색의 진화",
       "summary": "토스증권의 추천 시스템은 배치 중심에서 실시간 개인화로 변화하고 있으며, 검색 기능은 키워드와 필터를 넘어 RAG와 그래프 RAG로 확장되고 있다.",
-      "summary_full": "토스증권의 추천 시스템은 과거의 배치 중심 방식에서 실시간 개인화로 진화하고 있습니다. 검색 기능 또한 단순한 키워드와 필터를 넘어 RAG와 그래프 RAG로 발전하고 있습니다. 이 글에서는 이러한 변화 과정에서의 고민과 방향성을 공유합니다. 토스증권 AI 데이터 플랫폼 팀은 모든 AI 서비스가 접근할 수 있는 데이터 생태계를 구축하는 것을 목표로 하고 있습니다.",
+      "summary_full": "토스증권 AI 데이터 플랫폼 팀의 황호익이 추천과 검색의 진화를 설명한다. 추천 시스템은 과거의 배치 중심 방식에서 실시간 개인화로 전환되고 있으며, 검색 기능은 기존의 키워드 및 필터를 넘어 새로운 기술로 발전하고 있다. 이 과정에서 팀은 데이터 생태계의 중요성을 강조하고, AI 서비스의 데이터 수집 및 가공의 한계를 논의한다.",
       "keywords": [
         "토스증권",
         "추천 시스템",
@@ -592,23 +656,23 @@
       "date": "8월 26일",
       "publishedAt": "2026-08-26T01:00:00.000Z",
       "url": "https://toss.tech/article/tech_talk_talk_3",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "figma",
-      "title": "Figma 데스크탑 앱에서 에이전트 채팅 패널을 새 창으로 열 수 있게 되었습니다",
-      "summary": "Figma 데스크탑 앱에서 에이전트 채팅 패널을 독립된 창으로 열 수 있습니다. 이 창은 다른 도구를 사용하거나 탭을 전환할 때도 항상 보이도록 설정할 수 있습니다.",
-      "summary_full": "Figma 데스크탑 앱에서 에이전트 채팅 패널을 새 창으로 열 수 있는 기능이 추가되었습니다. 이 기능은 macOS와 Windows 모두에서 사용할 수 있습니다. 사용자는 채팅 패널을 화면의 원하는 위치로 이동할 수 있으며, 디자인 작업 중에도 항상 보이도록 유지할 수 있습니다. 이러한 변화는 작업의 효율성을 높이는 데 기여할 것입니다.",
+      "title": "Figma 데스크탑 앱에서 에이전트 채팅 패널을 새 창으로 열 수 있게 되다",
+      "summary": "Figma 데스크탑 앱에서 에이전트 채팅 패널을 새 창으로 열 수 있게 되었습니다. 이 기능은 macOS와 Windows 모두에서 사용할 수 있으며, 다른 도구를 사용하거나 탭을 전환할 때도 항상 보이도록 설정할 수 있습니다.",
+      "summary_full": "Figma 데스크탑 앱에서 에이전트 채팅 패널을 새 창으로 열 수 있는 기능이 추가되었습니다. 이 기능은 macOS와 Windows에서 모두 지원됩니다. 사용자는 채팅 패널을 화면의 원하는 위치로 이동할 수 있으며, 디자인 작업을 하는 동안에도 항상 보이도록 유지할 수 있습니다. 이를 통해 사용자 경험이 더욱 향상될 것입니다.",
       "keywords": [
         "Figma",
         "채팅 패널",
-        "디자인 도구"
+        "데스크탑 앱"
       ],
       "source": "Figma Release Notes",
       "date": "8월 26일",
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "ai",
@@ -1524,9 +1588,9 @@
     },
     {
       "category": "ai",
-      "title": "KT, AI 반도체와 LLM 결합한 소버린 AI 어플라이언스 출시",
-      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 다양한 AI 서비스를 지원하며, 기업의 데이터 보호 및 처리 효율성을 높이는 데 기여할 예정이다.",
-      "summary_full": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업의 데이터 보호와 처리 효율성을 높이기 위해 설계되었다. 또한, 다양한 AI 서비스를 지원하여 기업의 디지털 전환을 가속화할 것으로 기대된다. KT는 이 솔루션을 통해 AI 기술의 상용화를 더욱 촉진할 계획이다.",
+      "title": "KT, AI 반도체·LLM 결합 '소버린 AI 어플라이언스' 출시",
+      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 AI 기술을 활용한 다양한 서비스 제공을 목표로 한다.",
+      "summary_full": "KT는 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 새롭게 출시했다. 이 어플라이언스는 기업들이 AI 기술을 활용하여 다양한 서비스를 제공할 수 있도록 지원한다. KT는 이 제품을 통해 AI 기술의 발전과 함께 고객의 요구에 부응할 계획이다. 또한, 소버린 AI 어플라이언스는 보안성과 효율성을 강조하고 있다.",
       "keywords": [
         "KT",
         "AI 반도체",
@@ -1536,7 +1600,7 @@
       "date": "8월 19일",
       "publishedAt": "2026-08-19T08:54:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YY0FtYkU4QzhBRzVMOHJtN3RrTlRrVjRPSG14Vm1FRFc2V0ZtOHdwNnhYMkFaaGNheHRwVG01emtqT1RkSzc5VnA5N05UU2VDWDdOQ3d0UzhfM1l6?oc=5",
-      "collectedAt": "2026-08-26"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "ai",
@@ -3913,9 +3977,9 @@
     },
     {
       "category": "design",
-      "title": "새로운 UX/UI 트렌드",
-      "summary": "디자이너들이 주목하는 최신 UX/UI 트렌드를 소개합니다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있습니다.",
-      "summary_full": "최근 UX/UI 디자인 분야에서 주목받고 있는 새로운 트렌드를 살펴봅니다. 디자이너들은 사용자 경험을 극대화하기 위해 다양한 혁신적인 요소를 도입하고 있습니다. 이러한 트렌드는 기술 발전과 함께 진화하고 있으며, 사용자와의 상호작용을 더욱 매끄럽게 만들어 줍니다. 앞으로의 디자인 방향성을 제시하는 중요한 요소로 자리잡고 있습니다.",
+      "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
+      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 디자이너들은 이러한 변화에 발맞추어 혁신적인 접근 방식을 모색하고 있다.",
+      "summary_full": "최근 UX/UI 디자인 분야에서 새로운 트렌드가 부각되고 있다. 디자이너들은 사용자 경험을 향상시키기 위해 다양한 혁신적인 접근 방식을 탐구하고 있다. 이러한 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있다. 디자이너들이 주목하는 이 트렌드는 향후 디자인 방향에 큰 영향을 미칠 것으로 예상된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -3925,7 +3989,7 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "ai",
@@ -4459,134 +4523,6 @@
     },
     {
       "category": "design",
-      "title": "5초 음성 복제 기술, Fish Audio S2.1 Pro",
-      "summary": "Fish Audio S2.1 Pro는 단 5초의 음성 샘플로 음성을 복제할 수 있는 혁신적인 기술을 제공합니다. 이 장치는 고품질 음성 복제를 통해 다양한 응용 분야에 활용될 수 있습니다.",
-      "summary_full": "Fish Audio S2.1 Pro는 5초의 음성 입력만으로 사용자의 목소리를 정확하게 복제하는 기능을 갖추고 있습니다. 이 기술은 인공지능 기반으로 작동하며, 음성 인식 및 합성에 혁신적인 변화를 가져올 것으로 기대됩니다. 다양한 산업에서 활용 가능성이 높아, 특히 엔터테인먼트 및 고객 서비스 분야에서 큰 주목을 받고 있습니다. 사용자는 이 장치를 통해 개인화된 음성 경험을 누릴 수 있습니다.",
-      "keywords": [
-        "음성 복제",
-        "Fish Audio",
-        "인공지능 기술"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "7월 30일",
-      "publishedAt": "2026-07-30T02:10:59.931Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-803/",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "frontend",
-      "title": "리크루터 찾기",
-      "summary": "풀타임 또는 장기 원격 역할을 위한 리크루터를 찾고 있습니다. 5년 이상의 경력을 가진 시니어 풀스택 AI 개발자입니다.",
-      "summary_full": "풀타임 또는 장기 원격 역할을 지원할 리크루터 또는 채용 파트너를 찾고 있습니다. 저는 5년 이상의 경험을 가진 시니어 풀스택 AI 개발자로, 주로 Python(FastAPI), Next.js/React/TypeScript, LLMs 및 GenAI(OpenAI, 자동화 워크플로우), Docker, AWS와 함께 작업합니다.",
-      "keywords": [
-        "리크루터",
-        "풀타임",
-        "AI 개발자"
-      ],
-      "source": "dev.to",
-      "date": "7월 30일",
-      "publishedAt": "2026-07-30T02:09:35.000Z",
-      "url": "https://dev.to/david1994/looking-for-a-recruiter-3en",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "trend",
-      "title": "LuaLaTeX와 tcolorbox를 활용한 일본어 시험 준비 핸드아웃 제작",
-      "summary": "정밀한 헤더, 드로잉 레이어 및 페이지 나누기 상태를 고려한 밀집된 3페이지 수학 책자 제작에 관한 내용이다.",
-      "summary_full": "이 글에서는 LuaLaTeX와 tcolorbox를 사용하여 일본어 시험 준비를 위한 핸드아웃을 제작하는 방법을 설명한다. 정밀한 헤더와 드로잉 레이어, 페이지 나누기 상태를 관리하여 밀집된 수학 책자를 만드는 과정이 포함되어 있다. 저자는 LaTeX 패키지를 CTAN에 게시하고 개인 툴킷을 유지 관리하는 KKTeX이다.",
-      "keywords": [
-        "LuaLaTeX",
-        "tcolorbox",
-        "시험 준비"
-      ],
-      "source": "dev.to",
-      "date": "7월 30일",
-      "publishedAt": "2026-07-30T01:06:18.000Z",
-      "url": "https://dev.to/kktex/engineering-a-japanese-exam-prep-handout-with-lualatex-and-tcolorbox-3o53",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "industry",
-      "title": "라바 토큰화 샌드박스, 전기 블루에 독일에서 5억 유로 규모의 롤아웃 인프라 제공",
-      "summary": "에너지 기업이 라바 네트워크의 토큰화 샌드박스의 첫 번째 실증 사례로 등장했다. 독일은 지난해 2,700GWh 이상의 태양광 발전을 축소하고 부정적인 전기 가격을 경험했다.",
-      "summary_full": "에너지 기업이 라바 네트워크의 토큰화 샌드박스의 첫 번째 실증 사례로 등장했다. 이 샌드박스는 6월 이후 40개 이상의 기관 신청을 처리했다고 밝혔다. 독일은 지난해 2,700GWh 이상의 태양광 발전을 축소하고 573시간 동안 부정적인 전기 가격을 경험했다. 이는 전력망의 문제를 나타내는 신호다.",
-      "keywords": [
-        "라바 네트워크",
-        "토큰화",
-        "독일 에너지 문제"
-      ],
-      "source": "thenextweb.com",
-      "date": "7월 30일",
-      "publishedAt": "2026-07-30T00:20:00.000Z",
-      "url": "https://thenextweb.com/news/lava-tokenization-sandbox-electric-blue-500m-battery-germany",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "industry",
-      "title": "당신의 직원은 AI를 이해합니다. 그들을 방해하지 마세요.",
-      "summary": "모든 기업에는 AI를 이해하는 인재가 존재합니다. 성공하는 기업은 이러한 인재를 신뢰하고 활용할 것입니다.",
-      "summary_full": "기업의 95% AI 프로젝트가 실패하는 이유는 인재를 활용하지 않기 때문입니다. MIT의 연구에 따르면, 성공적인 기업은 AI 도구를 잘 이해하는 인재를 신뢰해야 합니다. 결국, 같은 도구를 사용하는 기업들 사이에서 차별화된 성과를 내기 위해서는 인재의 자유로운 활용이 필수적입니다. AI 프로젝트의 성공 여부는 인재의 신뢰와 활용에 달려 있습니다.",
-      "keywords": [
-        "AI",
-        "기업",
-        "신뢰"
-      ],
-      "source": "uxdesign.cc",
-      "date": "7월 29일",
-      "publishedAt": "2026-07-29T21:58:06.000Z",
-      "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "trend",
-      "title": "MAGA의 ICE 지지 흔들림 없다",
-      "summary": "트럼프 지지자들은 ICE에 대한 논란에도 불구하고 변함없이 지지를 보내고 있다. 최근 언론 보도에도 불구하고 이들의 지지는 계속 유지되고 있다.",
-      "summary_full": "트럼프의 지지자들은 ICE에 대한 비판이 커지고 있는 가운데에서도 여전히 강력한 지지를 보내고 있다. 몇 주간의 언론 보도와 논란에도 불구하고, 이들은 ICE의 역할을 지지하고 있다. 이는 MAGA 지지자들 사이에서 ICE에 대한 신뢰가 여전히 높다는 것을 보여준다. 결과적으로, ICE에 대한 지지는 트럼프 지지자들에게 중요한 이슈로 남아 있다.",
-      "keywords": [
-        "MAGA",
-        "ICE",
-        "트럼프 지지자"
-      ],
-      "source": "wired.com",
-      "date": "7월 29일",
-      "publishedAt": "2026-07-29T21:00:00.000Z",
-      "url": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "ai",
-      "title": "구글 플로우 뮤직에서 Lyria 3.5 출시",
-      "summary": "Lyria 3.5가 구글 플로우 뮤직에서 출시됩니다. 음악성, 가사, 보컬 및 창의적 제어에서의 발전이 포함됩니다.",
-      "summary_full": "Lyria 3.5가 구글 플로우 뮤직에서 출시됩니다. 이번 업데이트는 음악성, 가사, 보컬, 그리고 창의적 제어의 여러 분야에서 개선된 기능을 제공합니다. 사용자들은 더욱 향상된 음악 제작 경험을 기대할 수 있습니다. 새로운 기능들은 창작 과정의 유연성을 높여줄 것입니다.",
-      "keywords": [
-        "Lyria 3.5",
-        "구글 플로우 뮤직",
-        "음악성 개선"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "7월 29일",
-      "publishedAt": "2026-07-29T16:02:10.000Z",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "ai",
-      "title": "두 설정을 활성화하여 ARC-AGI-3 벤치마크 점수를 세 배로 증가시킨 방법",
-      "summary": "두 가지 API 설정이 GPT-5.6의 ARC-AGI-3 성능을 향상시켰다. 이는 추론을 유지하고 압축을 가능하게 하여 점수와 효율성을 높였다.",
-      "summary_full": "두 가지 API 설정이 GPT-5.6의 ARC-AGI-3 벤치마크에서 성능을 크게 향상시켰다. 이 설정들은 추론 능력을 유지하면서도 데이터 압축을 가능하게 하여 점수를 세 배로 증가시켰다. 결과적으로, 이러한 변화는 모델의 효율성을 크게 개선하였다. 연구팀은 이 접근 방식이 향후 AI 성능 향상에 기여할 것으로 기대하고 있다.",
-      "keywords": [
-        "API 설정",
-        "GPT-5.6",
-        "ARC-AGI-3"
-      ],
-      "source": "OpenAI News",
-      "date": "7월 29일",
-      "publishedAt": "2026-07-29T15:00:00.000Z",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "design",
       "title": "AI 시대의 디지털 디자인에 대한 긍정적 및 부정적 관점",
       "summary": "디자이너들은 조직이 방해하지 않는다면 더 나은 작업을 할 수 있다고 주장해왔다. 하지만 실제로는 다양한 제약들이 존재한다.",
       "summary_full": "디자이너들은 오랜 시간 동안 조직이 방해하지 않는다면 더 나은 작업을 할 수 있다고 주장해왔다. 그들은 엔지니어링 시간 부족, 제품 솔루션의 사전 결정, 과도한 로드맵, 단기 성과에 대한 리더십의 관심 부족 등 다양한 문제를 지적한다. 이러한 제약들은 디자인 프로세스에 부정적인 영향을 미치며, 디자이너들이 실험을 수행할 기회를 제한한다. 결국, AI 시대의 디지털 디자인은 이러한 도전과제를 극복해야 한다.",
@@ -4600,38 +4536,6 @@
       "publishedAt": "2026-07-29T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
       "collectedAt": "2026-07-31"
-    },
-    {
-      "category": "industry",
-      "title": "AMD, CUDA 해자 ‘바이브코딩’으로 넘는다",
-      "summary": "AMD는 엔비디아의 CUDA를 대체하기 위해 바이브코딩을 도입했다. 이를 통해 AMD GPU에서 AI 모델의 성능을 극대화할 계획이다.",
-      "summary_full": "AMD는 엔비디아 GPU의 CUDA 해자를 넘기 위해 바이브코딩을 채택했다. 바이브코딩은 AMD GPU에서 AI 모델의 성능을 극대화하는 데 도움을 줄 것이다. 이 기술은 AMD의 경쟁력을 높이는 중요한 요소로 작용할 것으로 기대된다. AMD는 이를 통해 AI 분야에서의 입지를 강화하고자 한다.",
-      "keywords": [
-        "AMD",
-        "CUDA",
-        "바이브코딩"
-      ],
-      "source": "바이라인네트워크",
-      "date": "7월 29일",
-      "publishedAt": "2026-07-29T09:38:22.000Z",
-      "url": "https://byline.network/2026/07/29-549/",
-      "collectedAt": "2026-07-30"
-    },
-    {
-      "category": "ai",
-      "title": "올모어스 플랫폼: 행성 규모의 지리공간 추론",
-      "summary": "올모어스 플랫폼은 지구 규모에서 지리공간 데이터를 분석하고 해석하는 기술을 제공합니다. 이 플랫폼은 다양한 환경 문제를 해결하는 데 기여할 수 있습니다.",
-      "summary_full": "올모어스 플랫폼은 행성 규모에서 지리공간 데이터를 분석하는 혁신적인 시스템입니다. 이 플랫폼은 환경 변화, 자원 관리 및 도시 계획 등 다양한 분야에서 활용될 수 있습니다. 사용자들은 실시간 데이터와 인사이트를 통해 보다 나은 의사결정을 할 수 있습니다. 궁극적으로, 올모어스 플랫폼은 지속 가능한 발전을 위한 중요한 도구로 자리잡고 있습니다.",
-      "keywords": [
-        "올모어스",
-        "지리공간 데이터",
-        "환경 문제"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "7월 28일",
-      "publishedAt": "2026-07-28T16:27:42.000Z",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "collectedAt": "2026-07-30"
     },
     {
       "category": "ai",
@@ -4682,26 +4586,10 @@
       "collectedAt": "2026-07-31"
     },
     {
-      "category": "ai",
-      "title": "삼성전자, AI 서버용 차세대 SSD 'PM1763' 출시",
-      "summary": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시했다. 이 제품은 LLM 전송 속도가 2배 향상되어 성능이 개선되었다.",
-      "summary_full": "삼성전자가 AI 서버용 차세대 SSD 'PM1763'을 출시했다. 이 SSD는 대규모 언어 모델(LLM) 전송 속도를 2배 향상시켜 데이터 처리 성능을 크게 개선했다. PM1763은 AI 및 머신러닝 작업에 최적화된 설계를 갖추고 있으며, 데이터 센터의 효율성을 높이는 데 기여할 것으로 기대된다. 또한, 이 제품은 최신 기술을 적용하여 안정성과 신뢰성을 강화하였다.",
-      "keywords": [
-        "삼성전자",
-        "AI 서버",
-        "SSD"
-      ],
-      "source": "Google News AI (KR)",
-      "date": "7월 8일",
-      "publishedAt": "2026-07-08T16:36:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuRUxKMnVWZXotWFFKQmgta2tObXp6Q3ZoeWFvd0ZLc3NTak9kU3RRb1J1RU1wTnRBNGZjSk45UVVCZXU1dDNoSnNpYUlRbFBGX3JyWWlkclZPOHFVN2o2UVA0QndJSG9Dcm1ETHZn0gFyQVVfeXFMT1JTeDdRVXVseHZBTkRmZlFFa0ZQeHU3Z3lORnBfbGVsZWVaWE14MnZFQi1kcEVsVk5aTUk4WnhDeXB3eXp6TExhYWtpM1hpSFhtTnRwVE5IdkJBbmJQbklPMXhvU0UtWHJOQWRodHBtTnRn?oc=5",
-      "collectedAt": "2026-07-30"
-    },
-    {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현대 언어 학습 앱의 설계에 영향을 미쳤다. 따라서 언어 앱의 디자인을 이해하기 위해서는 라틴어 교육 방법의 유산을 살펴보는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교육 방법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 큰 영향을 미쳤다. 따라서 언어 학습 방법의 기원을 이해하는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
@@ -4711,7 +4599,7 @@
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "frontend",
@@ -4749,19 +4637,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄에 합류하여 AI 네이티브 산업의 발전을 촉진한다. 이 협력은 AI 기술의 혁신과 상용화를 목표로 한다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화하는 프로젝트에 참여하게 되었다. 두 회사는 AI 기술의 혁신을 통해 산업 전반에 걸쳐 새로운 기회를 창출할 계획이다. 이 협력은 AI 솔루션의 상용화를 촉진하고, 시장에서의 경쟁력을 강화하는 데 중점을 두고 있다. 앞으로의 발전이 기대된다.",
+      "title": "엠미, AI 원주율 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이는 AI 기술의 발전과 산업 적용을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 AI 원주율 산업의 발전을 위해 미스트랄과 협력하게 되었다. 이번 협력을 통해 두 회사는 AI 기술의 혁신을 가속화하고, 산업 전반에 걸쳐 AI 솔루션의 적용을 확대할 계획이다. 이러한 협력은 AI 기술의 발전을 촉진하고, 새로운 비즈니스 기회를 창출하는 데 기여할 것으로 보인다. 엠미와 미스트랄의 협업은 AI 산업의 미래를 밝히는 중요한 이정표가 될 것이다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 네이티브 산업"
+        "AI 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-08-29"
+      "collectedAt": "2026-08-30"
     },
     {
       "category": "design",
