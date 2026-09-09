@@ -1,22 +1,184 @@
 {
-  "updated": "2026년 9월 8일 AM 03:08",
-  "count": 299,
+  "updated": "2026년 9월 9일 AM 03:09",
+  "count": 302,
   "articles": [
     {
       "category": "industry",
       "title": "인테리어 사장님의 성장 설계",
-      "summary": "인테리어 업계의 성장을 돕는 전문가들의 이야기를 다룬다. 이들은 시장을 분석하고 전략을 세워 사장님들의 성공을 지원한다.",
-      "summary_full": "이 기사는 인테리어 업계에서 사장님들의 성장을 돕는 전문가들에 대한 이야기이다. 이들은 시장을 설계하고, 인테리어 사업의 성공을 위한 다양한 전략을 제시한다. 첫 번째 이야기에서는 이들의 역할과 중요성을 강조하며, 실제 사례를 통해 그들의 기여를 보여준다. 인테리어 사장님들이 직면한 도전 과제를 해결하기 위한 방법도 논의된다.",
+      "summary": "인테리어 시장에서 사장님들의 성장을 돕는 전문가들의 이야기를 담고 있다. 이들은 시장을 설계하고 인테리어 사업의 발전을 이끌어가는 역할을 한다.",
+      "summary_full": "이 기사에서는 인테리어 사장님들의 성장을 지원하는 전문가들의 노력을 조명한다. 그들은 시장의 변화에 발맞추어 인테리어 사업을 설계하고 발전시키는 데 기여하고 있다. 첫 번째 이야기에서는 이들의 경험과 전략을 통해 인테리어 시장의 현재와 미래를 탐구한다. 이를 통해 사장님들이 성공적으로 사업을 운영할 수 있는 방법을 제시한다.",
       "keywords": [
         "인테리어",
-        "성장",
+        "사업 성장",
         "시장 설계"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 8일",
-      "publishedAt": "2026-09-08T03:07:03.991Z",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T03:08:32.173Z",
       "url": "https://www.bucketplace.com/post/2026-09-07-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "design",
+      "title": "130년 전 무성영화의 부활",
+      "summary": "에이전트가 VARCO Sound를 통해 130년 전의 무성영화를 되살리고 있다. 이 프로젝트는 고전 영화의 새로운 생명을 불어넣는 데 중점을 두고 있다.",
+      "summary_full": "에이전트가 VARCO Sound를 통해 130년 전의 무성영화를 되살리고 있다. 이 프로젝트는 고전 영화의 새로운 생명을 불어넣는 데 중점을 두고 있다. 무성영화의 역사적 가치와 현대 기술의 융합이 주목받고 있다. 관객들은 새로운 방식으로 과거의 영화를 경험할 수 있게 된다.",
+      "keywords": [
+        "무성영화",
+        "VARCO Sound",
+        "영화 부활"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T03:08:27.540Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-828/",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "frontend",
+      "title": "PDF 라이브러리 없이 PDF 내보내기",
+      "summary": "Firefox 스크린샷 확장 프로그램 Longshot은 PDF로 내보내는 기능을 제공한다. 이 내보내기 기능은 336줄로 구성되어 있으며, 별도의 라이브러리를 사용하지 않는다.",
+      "summary_full": "Firefox 스크린샷 확장 프로그램 Longshot은 PDF로 내보내는 기능을 구현하였다. 이 내보내기 기능은 336줄로 작성되었으며, PDF 라이브러리를 사용하지 않고 브라우저의 기능을 활용한다. PDF 라이브러리가 수행할 두 가지 작업은 이미 브라우저에서 처리되고 있어, 남은 작업량이 적다. 이는 불필요한 의존성을 줄이는 방법이기도 하다.",
+      "keywords": [
+        "PDF 내보내기",
+        "Firefox 확장 프로그램",
+        "브라우저 기능"
+      ],
+      "source": "dev.to",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T03:00:00.000Z",
+      "url": "https://dev.to/megapixel99/a-pdf-exporter-with-no-pdf-library-2hb9",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "trend",
+      "title": "Acreline: 부동산 중개인을 위한 워드프레스 테마",
+      "summary": "Acreline은 주택과 토지를 판매하는 부동산 중개인을 위한 워드프레스 테마입니다. 이 테마는 복잡함 없이 목록을 명확하게 보여주고, 중개인 페이지로 신뢰를 구축하며, 보여주기 요청을 수집할 수 있도록 설계되었습니다.",
+      "summary_full": "Acreline은 부동산 중개인을 위해 특별히 설계된 워드프레스 테마입니다. 이 테마는 복잡한 포털 테마 대신, 소규모 중개인과 중간 규모의 에이전시가 목록을 명확하게 보여줄 수 있도록 돕습니다. 또한, 중개인 페이지를 통해 신뢰를 구축하고, 고객의 보여주기 요청을 쉽게 수집할 수 있는 기능을 제공합니다. 따라서 부동산 중개인들이 필요한 모든 요소를 갖춘 사이트를 구축할 수 있습니다.",
+      "keywords": [
+        "워드프레스 테마",
+        "부동산 중개인",
+        "Acreline"
+      ],
+      "source": "dev.to",
+      "date": "9월 8일",
+      "publishedAt": "2026-09-08T22:02:24.000Z",
+      "url": "https://dev.to/matthummeldev/acreline-a-wordpress-theme-for-real-estate-agents-selling-homes-and-land-4apg",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "trend",
+      "title": "2026년 이그 노벨상: 바퀴벌레 우유, 코 풀기 방법, 모기 프린터",
+      "summary": "매년 이 상은 가장 기괴한 연구를 인정하며, 종종 심각한 과학적 질문을 제기한다. 이그 노벨상은 과학의 경계를 넓히는 독창적인 연구를 조명한다.",
+      "summary_full": "2026년 이그 노벨상은 바퀴벌레 우유, 코 풀기 방법, 모기 프린터와 같은 기이한 연구를 다룬다. 이 상은 매년 가장 기괴한 연구를 인정하며, 종종 심각한 과학적 질문을 제기한다. 수상 연구들은 과학의 경계를 넓히고 독창성을 강조하는 데 기여한다. 이그 노벨상은 과학의 재미있는 면을 보여주는 동시에 중요한 논의를 촉발한다.",
+      "keywords": [
+        "이그 노벨상",
+        "기괴한 연구",
+        "과학적 질문"
+      ],
+      "source": "wired.com",
+      "date": "9월 8일",
+      "publishedAt": "2026-09-08T21:15:00.000Z",
+      "url": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "industry",
+      "title": "OpenAI, Adobe 크리에이티브 스튜디오에 이미지 모델 공급",
+      "summary": "OpenAI가 ChatGPT Images 2.5를 출시하며 Adobe의 Firefly에 새로운 API 모델을 통합했다. 주간 30억 개 이상의 이미지가 생성되고 있으며, 프롬프트 공유 기능이 추가되었다.",
+      "summary_full": "OpenAI는 ChatGPT Images 2.5를 출시하고 두 개의 새로운 API 모델을 공개했다. 이 중 하나는 Adobe의 Firefly에 이미 통합되었으며, 주간 30억 개 이상의 이미지가 생성되고 있다. 이번 업데이트는 모델 연구보다는 인터페이스 기능에 중점을 두고 있으며, 프롬프트를 공유할 수 있는 기능이 포함되었다. 이와 관련된 자세한 내용은 The Next Web에서 확인할 수 있다.",
+      "keywords": [
+        "OpenAI",
+        "Adobe",
+        "이미지 모델"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 8일",
+      "publishedAt": "2026-09-08T20:47:19.000Z",
+      "url": "https://thenextweb.com/news/openai-images-25-adobe-firefly-interface-layer",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "industry",
+      "title": "대부분의 AI 문제는 인간 문제다",
+      "summary": "AI의 문제는 종종 인간의 의도와 감독 부족에서 비롯된다. 적절한 도구와 명확한 기대가 없으면 결과가 모호해질 수 있다.",
+      "summary_full": "AI의 문제는 기계가 아닌 인간의 문제로, 의도 불명확, 감독 부족, 맥락 부족 등이 원인이다. Anthropic은 제품 관리자 채용을 늘리라고 지시했으며, 그 이유는 놀라울 것이다. AI 체크리스트를 통해 이러한 문제를 해결할 수 있다. 결국, AI의 성공은 인간의 이해와 관리에 달려 있다.",
+      "keywords": [
+        "AI 문제",
+        "인간 문제",
+        "제품 관리자"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 8일",
+      "publishedAt": "2026-09-08T20:37:28.000Z",
+      "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "ai",
+      "title": "GPT-5.6 Sol을 활용한 양자 컴퓨팅 실험 자동화",
+      "summary": "MIT 연구자가 GPT-5.6 Sol과 Codex를 사용하여 양자 컴퓨팅 실험을 자율적으로 수행하는 방법을 보여줍니다. 이 시스템은 결과를 분석하고 큐비트를 보정하는 데 도움을 줍니다.",
+      "summary_full": "MIT의 한 연구자가 GPT-5.6 Sol과 Codex를 활용하여 양자 컴퓨팅 실험을 자동으로 수행하는 과정을 소개합니다. 이 기술은 실험 결과를 분석하고, 큐비트를 효과적으로 보정하는 데 기여합니다. 연구자는 이러한 시스템을 통해 실험의 효율성을 극대화하고 있습니다. GPT-5.6 Sol은 양자 컴퓨팅 분야의 혁신적인 도구로 자리 잡고 있습니다.",
+      "keywords": [
+        "GPT-5.6 Sol",
+        "양자 컴퓨팅",
+        "자동화"
+      ],
+      "source": "OpenAI News",
+      "date": "9월 8일",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "ai",
+      "title": "안전은 누구를 위한 것인가? 주제의 전체가 아닌 올바른 하위 집합을 거부하기",
+      "summary": "안전의 개념은 특정 집단에 따라 다르게 해석될 수 있다. 이 글에서는 주제의 일부를 선택적으로 거부하는 것이 전체 주제를 거부하는 것과는 다르다는 점을 강조한다.",
+      "summary_full": "안전의 개념은 다양한 사회적 맥락에 따라 다르게 이해될 수 있다. 이 글에서는 특정 집단의 안전을 고려하지 않고 주제를 다루는 것이 문제를 일으킬 수 있음을 지적한다. 또한, 주제의 일부를 선택적으로 거부하는 것이 전체 주제를 거부하는 것과는 다르다는 점을 강조한다. 따라서 안전에 대한 논의는 포괄적이어야 하며, 다양한 관점을 포함해야 한다.",
+      "keywords": [
+        "안전",
+        "주제",
+        "사회적 맥락"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "9월 8일",
+      "publishedAt": "2026-09-08T14:23:07.000Z",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "ai",
+      "title": "알파게놈 아틀라스: 인간 유전체의 모든 가능한 DNA 문자 변화 예측 지도",
+      "summary": "알파게놈 아틀라스는 인간 유전체에서 90억 개의 단일 문자 DNA 변이의 분자적 영향을 매핑합니다. 이 연구는 유전적 변이가 인간 건강에 미치는 영향을 이해하는 데 기여합니다.",
+      "summary_full": "알파게놈 아틀라스는 인간 유전체 내에서 발생할 수 있는 모든 단일 문자 DNA 변이를 예측하는 지도를 제공합니다. 이 프로젝트는 90억 개의 변이에 대한 분자적 영향을 분석하여, 유전적 변이가 질병과 건강에 미치는 영향을 연구하는 데 중요한 자료를 제공합니다. 이를 통해 유전학 연구자들은 특정 변이가 어떻게 작용하는지를 더 잘 이해할 수 있게 됩니다. 궁극적으로, 이 연구는 개인 맞춤형 의학과 유전자 기반 치료법 개발에 기여할 것으로 기대됩니다.",
+      "keywords": [
+        "알파게놈",
+        "DNA 변이",
+        "유전체 연구"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "9월 8일",
+      "publishedAt": "2026-09-08T14:00:15.000Z",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "industry",
+      "title": "한국연구재단, N2SF로 AI·인터넷 업무 활용 확대",
+      "summary": "한국연구재단이 N2SF 구축을 통해 AI와 인터넷을 업무망에서 함께 활용할 수 있는 환경을 조성하고 있다. 이는 연구 자료의 접근과 반출을 통제하여 망분리 환경의 불편을 줄이는 것을 목표로 한다.",
+      "summary_full": "한국연구재단은 N2SF 구축을 통해 AI와 인터넷을 업무망에서 동시에 활용할 수 있는 환경을 만들고 있다. 이 사업은 과학기술정보통신부와 한국인터넷진흥원이 추진하는 '2026년 N2SF 도입 지원사업'의 일환이다. 데이터 등급에 따라 연구 자료의 접속과 반출을 통제하여 기존의 망분리 환경에서의 업무 불편을 최소화하는 것이 목표이다. 이를 통해 연구자들이 보다 효율적으로 작업할 수 있는 환경을 제공할 예정이다.",
+      "keywords": [
+        "한국연구재단",
+        "N2SF",
+        "AI",
+        "인터넷",
+        "망분리"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 8일",
+      "publishedAt": "2026-09-08T09:59:29.000Z",
+      "url": "https://byline.network/2026/09/8-524/",
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "frontend",
@@ -53,18 +215,20 @@
     {
       "category": "frontend",
       "title": "AI가 팀 규칙을 지키도록 하는 방법",
-      "summary": "AI를 활용한 코드 작성 시 팀 내 협업 문제를 해결하는 방법에 대해 논의합니다.",
-      "summary_full": "AI로 코드를 작성하면서 발생한 협업 문제를 해결하기 위해 Feedback Loop를 추가하는 방법을 제안합니다. Coding Agent를 통해 코드 스타일을 맞추는 새로운 과제가 등장했습니다. 이전에는 사람이 직접 코드를 작성했기 때문에 문제가 없었지만, AI 도입 후에는 상황이 달라졌습니다. 이 글에서는 이러한 문제를 해결하기 위한 접근 방식을 설명합니다.",
+      "summary": "AI를 활용한 코드 작성에서 팀원 간의 코드 스타일 통일이 새로운 협업 과제가 되었다. 이를 해결하기 위해 Feedback Loop를 Agent Loop에 추가하는 방법을 모색했다.",
+      "summary_full": "AI로 코드를 작성하는 과정에서 팀원 간의 코드 스타일을 일치시키는 것이 새로운 도전 과제가 되었다. 과거에는 사람이 직접 코드를 작성했기 때문에 문제가 없었지만, AI가 개입하면서 상황이 달라졌다. 이에 따라, Coding Agent의 작업 과정에 Feedback Loop를 추가하여 문제를 해결하고자 했다. 이 방식이 팀 규칙 준수에 어떻게 기여하는지에 대한 논의가 이어진다.",
       "keywords": [
         "AI",
         "코드 작성",
-        "협업 문제"
+        "협업",
+        "Feedback Loop",
+        "Coding Agent"
       ],
       "source": "toss.tech",
       "date": "9월 8일",
       "publishedAt": "2026-09-08T02:43:00.000Z",
       "url": "https://toss.tech/article/52631",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "industry",
@@ -553,19 +717,19 @@
     },
     {
       "category": "ai",
-      "title": "페르마의 마지막 정리 형식화",
-      "summary": "페르마의 마지막 정리를 수학적으로 형식화하는 과정에 대해 설명한다. 이 정리는 수학의 역사에서 중요한 이정표로 여겨진다.",
-      "summary_full": "페르마의 마지막 정리는 17세기 수학자 피에르 드 페르마가 제안한 문제로, n이 2보다 큰 정수일 때 x^n + y^n = z^n을 만족하는 정수 해가 존재하지 않음을 주장한다. 이 정리를 증명하기 위해 수학자 앤드류 와일스는 복잡한 수학적 기법을 사용하여 1994년에 성공적으로 증명하였다. 이 과정에서 여러 수학 분야의 이론이 결합되어 새로운 연구의 길을 열었다. 페르마의 마지막 정리는 수학적 사고의 깊이를 보여주는 사례로, 수학자들에게 영감을 주고 있다.",
+      "title": "페르마의 마지막 정리 정형화",
+      "summary": "페르마의 마지막 정리를 정형화하는 과정에 대해 다룬다. 이 정리는 수학의 중요한 문제로, 그 증명은 수세기 동안 수학자들을 괴롭혔다.",
+      "summary_full": "페르마의 마지막 정리는 n이 2보다 큰 자연수일 때, x^n + y^n = z^n을 만족하는 자연수 x, y, z는 존재하지 않는다는 내용을 담고 있다. 이 정리를 정형화하는 과정은 수학적 엄밀성을 요구하며, 최신 수학 이론을 활용한다. 정리의 증명은 앤드류 와일스에 의해 이루어졌으며, 이는 현대 수학의 중요한 이정표로 평가받고 있다. 이 연구는 수학적 사고의 발전에 기여하고, 정리의 이해를 돕기 위한 다양한 접근 방식을 제시한다.",
       "keywords": [
         "페르마의 마지막 정리",
-        "수학적 증명",
-        "앤드류 와일스"
+        "수학",
+        "정형화"
       ],
       "source": "Anthropic Research",
       "date": "9월 4일",
       "publishedAt": "2026-09-04T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "industry",
@@ -697,9 +861,9 @@
     },
     {
       "category": "ai",
-      "title": "Anthropic Claude Fable 5.1, Snowflake Cortex AI에서 프라이빗 프리뷰로 제공",
-      "summary": "Anthropic의 Claude Fable 5.1이 Snowflake Cortex AI에서 프라이빗 프리뷰로 출시되었습니다. 이는 데이터 분석 및 AI 통합을 위한 새로운 기능을 제공합니다.",
-      "summary_full": "Anthropic의 Claude Fable 5.1이 Snowflake Cortex AI에서 프라이빗 프리뷰로 제공됩니다. 이 새로운 버전은 데이터 분석과 AI의 통합을 통해 사용자에게 향상된 경험을 제공합니다. Snowflake 플랫폼에서의 AI 기능 강화는 기업들이 데이터 활용을 극대화하는 데 도움을 줄 것으로 기대됩니다. Claude Fable 5.1은 특히 데이터 기반 의사결정에 유용한 도구로 자리잡을 전망입니다.",
+      "title": "Anthropic Claude Fable 5.1, Snowflake Cortex AI에서 프라이빗 프리뷰 제공",
+      "summary": "Anthropic의 Claude Fable 5.1이 Snowflake Cortex AI에서 프라이빗 프리뷰로 제공된다. 이는 최신 AI 기술을 활용한 데이터 분석 및 처리의 새로운 가능성을 열어준다.",
+      "summary_full": "Anthropic의 Claude Fable 5.1이 Snowflake Cortex AI 플랫폼에서 프라이빗 프리뷰로 제공된다. 이 새로운 버전은 AI 기반의 데이터 처리와 분석을 위한 혁신적인 기능을 포함하고 있다. Snowflake는 데이터 웨어하우징과 클라우드 컴퓨팅 분야에서 주목받고 있는 기업으로, 이번 발표는 AI와 데이터의 융합을 더욱 가속화할 것으로 기대된다. 사용자들은 이를 통해 보다 효율적이고 스마트한 데이터 활용이 가능해질 것이다.",
       "keywords": [
         "Anthropic",
         "Claude Fable 5.1",
@@ -709,7 +873,7 @@
       "date": "9월 3일",
       "publishedAt": "2026-09-03T02:19:18.000Z",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jMFhKWElWbU8xZk5pQ3pFNDZ5LWk4SGFjbDRhdkVVc3Q1eXFkVkhBdEl1M1F6dXEzT29nYmtiVXpLNGotTUZVRXhNU2hkcThFM3B0N3JoQ1ZBeDVfRXlNcHJGR0ZhbUlHai1oVm9BUkh1M0FQeThXVHpOYw?oc=5",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "trend",
@@ -761,19 +925,19 @@
     },
     {
       "category": "figma",
-      "title": "변수 모달에서 투명도 대규모 업데이트",
-      "summary": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상 라이브러리와 연결된 상태에서 투명도를 설정할 수 있다.",
-      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상이 라이브러리와 연결된 상태에서 투명도를 설정할 수 있어, 수동으로 분리할 필요가 없다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 이를 색상 변수에 맞게 구체적으로 범위를 지정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
+      "title": "변수 모달에서 투명도를 대규모로 업데이트할 수 있다",
+      "summary": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 조정할 수 있다.",
+      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 색상 위에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 조정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 이를 색상 변수에 맞게 구체적으로 범위를 설정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
       "keywords": [
         "투명도",
         "변수 모달",
-        "색상 변수"
+        "디자인 시스템"
       ],
       "source": "Figma Release Notes",
       "date": "9월 3일",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "industry",
@@ -1113,9 +1277,9 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 앞으로의 웹 디자인에서 중요한 역할을 할 것입니다. 이 글에서는 이 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 사랑을 담아 작성된 이 글을 통해 CSS의 새로운 가능성을 탐험해보세요. 뉴스레터 구독도 추천합니다.",
+      "title": "모든 브라우저에서 사용할 CSS random() 함수",
+      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수의 도입을 위한 폴리필 개발 과정을 설명합니다. 이 함수는 다양한 브라우저에서 호환성을 갖추기 위해 만들어졌습니다. CSS-Tricks에서 처음 작성되고 사랑으로 발표된 내용을 기반으로 합니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -1125,15 +1289,15 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "design",
-      "title": "9월의 다양한 얼굴들 (2026 배경화면 에디션)",
-      "summary": "15년 이상 매달 진행된 배경화면 시리즈는 창작자들이 자신의 아이디어를 자유롭게 표현할 수 있는 기회를 제공합니다. 이번 에디션에서는 다양한 재능을 가진 사람들이 독창적인 스타일로 작품을 선보입니다.",
-      "summary_full": "15년 이상 매달 진행된 배경화면 시리즈는 창작자들이 자신의 아이디어를 자유롭게 표현할 수 있는 기회를 제공합니다. 이 시리즈는 이해관계자나 클라이언트의 요구사항 없이 자신만의 스타일로 작품을 만드는 데 중점을 둡니다. 이번 2026년 배경화면 에디션에서는 많은 재능 있는 사람들이 참여하여 독창적인 작품을 선보입니다. 창작자들은 자신의 상상을 현실로 만드는 기회를 가집니다.",
+      "title": "9월의 다양한 얼굴들 (2026 월페이퍼 에디션)",
+      "summary": "15년 이상 매달 진행되는 월페이퍼 시리즈는 창작자들이 자신의 아이디어를 자유롭게 표현할 수 있는 기회를 제공합니다. 이 프로젝트는 이해관계자나 고객의 요구사항 없이 개인의 독창적인 스타일을 탐구하는 데 중점을 둡니다.",
+      "summary_full": "15년 이상 매달 진행되는 월페이퍼 시리즈는 창작자들이 자신의 아이디어를 자유롭게 표현할 수 있는 기회를 제공합니다. 이 프로젝트는 이해관계자나 고객의 요구사항 없이 개인의 독창적인 스타일을 탐구하는 데 중점을 둡니다. 많은 재능 있는 사람들이 이 여정에 참여하여 다양한 작품을 선보이고 있습니다. 이번 2026 에디션은 그들의 창의력을 더욱 빛나게 할 것입니다.",
       "keywords": [
-        "배경화면",
+        "월페이퍼",
         "창작자",
         "독창성"
       ],
@@ -1141,7 +1305,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T11:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "industry",
@@ -2841,9 +3005,9 @@
     },
     {
       "category": "ai",
-      "title": "KT, AI 반도체와 LLM 결합한 소버린 AI 어플라이언스 출시",
-      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업의 AI 활용을 지원하며, 데이터 처리와 분석에 혁신을 가져올 것으로 기대된다.",
-      "summary_full": "KT는 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 어플라이언스는 기업들이 AI를 보다 효과적으로 활용할 수 있도록 돕기 위해 설계되었다. 특히, 데이터 처리와 분석에서의 혁신을 통해 기업의 경쟁력을 강화할 것으로 예상된다. KT는 이 제품을 통해 AI 기술의 상용화를 가속화할 계획이다.",
+      "title": "KT, AI 반도체·LLM 결합 '소버린 AI 어플라이언스' 출시",
+      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업의 데이터 보호와 AI 활용을 동시에 지원하는 혁신적인 솔루션이다.",
+      "summary_full": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업의 데이터 보호와 AI 활용을 동시에 지원하는 혁신적인 솔루션이다. KT는 이 어플라이언스를 통해 고객들이 더욱 안전하고 효율적으로 AI 기술을 활용할 수 있도록 할 계획이다. 또한, 이 제품은 다양한 산업 분야에서 활용될 수 있는 가능성을 가지고 있다.",
       "keywords": [
         "KT",
         "AI 반도체",
@@ -2853,7 +3017,7 @@
       "date": "8월 19일",
       "publishedAt": "2026-08-19T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YY0FtYkU4QzhBRzVMOHJtN3RrTlRrVjRPSG14Vm1FRFc2V0ZtOHdwNnhYMkFaaGNheHRwVG01emtqT1RkSzc5VnA5N05UU2VDWDdOQ3d0UzhfM1l6?oc=5",
-      "collectedAt": "2026-09-07"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "ai",
@@ -4460,54 +4624,6 @@
       "collectedAt": "2026-08-10"
     },
     {
-      "category": "frontend",
-      "title": "AI 네이티브 헤드리스 CMS의 부상과 Paragraph CMS",
-      "summary": "Paragraph CMS는 AI 네이티브 헤드리스 CMS의 범주에 속한다. 이는 AI를 단순한 보조 도구가 아닌, 콘텐츠 제작의 핵심 요소로 간주한다.",
-      "summary_full": "Paragraph CMS는 AI 네이티브 헤드리스 CMS라는 새로운 범주에 자리잡고 있다. 이 모델은 AI를 단순한 보조 도구로 보지 않고, 구조화된 콘텐츠, 현지화, 미디어, SEO 및 배달을 통합한 편집 시스템으로 접근한다. 이는 기존 CMS와는 다른 운영 모델을 제시한다. Paragraph CMS는 이러한 요소들을 하나의 시스템으로 결합하여 더 효율적인 콘텐츠 관리를 가능하게 한다.",
-      "keywords": [
-        "AI 네이티브",
-        "헤드리스 CMS",
-        "콘텐츠 관리"
-      ],
-      "source": "dev.to",
-      "date": "8월 9일",
-      "publishedAt": "2026-08-09T01:27:02.000Z",
-      "url": "https://dev.to/gpiechnik/paragraph-cms-and-the-rise-of-the-ai-native-headless-cms-2ne0",
-      "collectedAt": "2026-08-09"
-    },
-    {
-      "category": "trend",
-      "title": "무료 랜딩 페이지 - 랜딩 챗봇",
-      "summary": "AI 챗봇 플랫폼을 위한 전문적인 랜딩 페이지입니다. HTML 파일을 다운로드하여 브라우저에서 열거나 Netlify/Vercel에 무료로 배포할 수 있습니다.",
-      "summary_full": "이 랜딩 페이지는 기업을 위한 AI 챗봇 플랫폼을 소개합니다. 사용자는 HTML 파일을 저장한 후, 어떤 브라우저에서도 열 수 있으며, Netlify 또는 Vercel에 무료로 배포할 수 있습니다. OmniIncome-v1이 AI를 사용하여 구축했습니다. 지원 정보는 제공된 코드에서 확인할 수 있습니다.",
-      "keywords": [
-        "랜딩 페이지",
-        "AI 챗봇",
-        "무료 배포"
-      ],
-      "source": "dev.to",
-      "date": "8월 9일",
-      "publishedAt": "2026-08-09T00:01:44.000Z",
-      "url": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-3398",
-      "collectedAt": "2026-08-09"
-    },
-    {
-      "category": "trend",
-      "title": "불법 이민자 집계를 중단하고 인종 및 성적 지향을 무시하는 인구 조사 제안",
-      "summary": "WIRED가 검토한 초안 규칙은 인구 조사에서 불법 이민자를 집계하지 못하도록 할 예정이다. 또한 '왜곡'을 방지하기 위해 인종과 성적 지향에 대한 질문도 금지할 것이다.",
-      "summary_full": "WIRED가 검토한 초안 규칙은 인구 조사에서 불법 이민자를 집계하지 못하도록 하는 내용을 담고 있다. 이 규칙은 '왜곡'을 방지하기 위해 인종과 성적 지향에 대한 질문을 금지할 예정이다. 이는 인구 조사 데이터의 정확성과 포괄성을 저해할 수 있는 우려를 낳고 있다. 이러한 변화는 사회적 불평등과 정책 결정에 미치는 영향이 클 것으로 예상된다.",
-      "keywords": [
-        "인구 조사",
-        "불법 이민자",
-        "사회적 불평등"
-      ],
-      "source": "wired.com",
-      "date": "8월 8일",
-      "publishedAt": "2026-08-08T14:03:58.000Z",
-      "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
-      "collectedAt": "2026-08-09"
-    },
-    {
       "category": "industry",
       "title": "아르메니아, 지역 최대 AI 공장 개소",
       "summary": "미국 AI 클라우드 기업 Firebird가 아르메니아 흐라즈단에 CIS 지역 최대 AI 공장을 열었다. 이 공장은 미국의 라이센스 서명 덕분에 가능해졌다.",
@@ -4522,22 +4638,6 @@
       "publishedAt": "2026-08-08T12:21:11.000Z",
       "url": "https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
       "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "industry",
-      "title": "Cloudflare, AI 에이전트를 위한 브라우저 출시",
-      "summary": "Cloudflare가 AI 에이전트를 위해 메모리를 7배 덜 사용하는 브라우저를 개발했다. 이 브라우저는 Cloudflare Workers에서 완전히 작동하며, 불필요한 기능을 제거하여 최적화되었다.",
-      "summary_full": "Cloudflare는 AI 에이전트를 위한 브라우저를 새롭게 개발하여 무료 베타 버전으로 출시했다. 이 브라우저는 Cloudflare Workers에서 완전히 운영되며, Rust로 컴파일된 WebAssembly를 사용한다. 기존 브라우저에서 필요 없는 탭, 확장 프로그램, 테마, 픽셀 완벽 렌더링 및 60fps 스크롤링 기능을 제거하여 메모리 사용량을 7배 줄였다. 이 브라우저는 AI 에이전트의 요구에 맞춰 최적화되어 있다.",
-      "keywords": [
-        "Cloudflare",
-        "AI 에이전트",
-        "브라우저"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 7일",
-      "publishedAt": "2026-08-07T21:07:07.000Z",
-      "url": "https://thenextweb.com/news/cloudflare-kitesurf-browser-ai-agents-workers",
-      "collectedAt": "2026-08-09"
     },
     {
       "category": "ai",
@@ -4604,38 +4704,6 @@
       "collectedAt": "2026-08-11"
     },
     {
-      "category": "industry",
-      "title": "AIDC 얼라이언스, 국산 AI 인프라로 해외 시장 공략",
-      "summary": "400여개 기업과 기관이 모여 AI 데이터센터 구축을 위한 협력 체계를 마련했다. 이들은 국내 인프라를 통합해 해외로 수출할 계획이다.",
-      "summary_full": "인공지능(AI) 열풍으로 GPU 수요가 급증하는 가운데, 400여개 기업과 기관이 AIDC 구축을 위해 협력하고 있다. 이들은 단순히 국내에 AIDC를 세우는 것이 아니라, IT 기업의 인프라와 중소기업의 부품을 결합해 해외 시장에 진출할 전략을 세우고 있다. 이를 통해 한국의 AI 인프라를 글로벌 시장에 알리고, 경쟁력을 강화할 예정이다. AIDC 얼라이언스는 이러한 목표를 달성하기 위해 다양한 기업과 기관의 협력을 이끌어내고 있다.",
-      "keywords": [
-        "AIDC",
-        "AI 인프라",
-        "해외 시장"
-      ],
-      "source": "바이라인네트워크",
-      "date": "8월 7일",
-      "publishedAt": "2026-08-07T09:06:02.000Z",
-      "url": "https://byline.network/2026/08/0807-5/",
-      "collectedAt": "2026-08-09"
-    },
-    {
-      "category": "industry",
-      "title": "스타 트렉이 AI에 대해 잘못 알았던 점",
-      "summary": "스타 트렉은 기계 지능과의 공존에 대한 상세한 그림을 그렸지만, 현실에서는 전혀 다른 형태의 AI가 등장했다. 현재의 AI는 복사 가능하고 유창하며 자신감 있게 잘못된 정보를 제공하는 특징을 가지고 있다.",
-      "summary_full": "스타 트렉은 60년 동안 기계 지능과의 공존에 대한 가장 상세한 그림을 구축해왔다. 그러나 현실에서 우리가 만든 AI는 복사 가능하고 유창하며 자신감 있게 잘못된 정보를 제공하는 특성을 지니고 있다. 이러한 점에서 픽션과 현실은 크게 다르다. 현재의 AI는 이미 수십억 대의 기기에 탑재되어 있다.",
-      "keywords": [
-        "스타트렉",
-        "인공지능",
-        "기계 지능"
-      ],
-      "source": "uxdesign.cc",
-      "date": "8월 7일",
-      "publishedAt": "2026-08-07T00:20:56.000Z",
-      "url": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-09"
-    },
-    {
       "category": "ai",
       "title": "WeatherNext: AI 모델, 사이클론 예측의 혁신 달성",
       "summary": "WeatherNext라는 AI 모델이 사이클론 예측에서 획기적인 성과를 올렸다. 이 모델은 기상 예측의 정확성을 크게 향상시킬 것으로 기대된다.",
@@ -4653,9 +4721,9 @@
     },
     {
       "category": "design",
-      "title": "새로운 UX/UI 트렌드",
-      "summary": "디자이너들이 주목하는 최신 UX/UI 트렌드를 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 개선하기 위한 다양한 혁신적인 요소를 포함하고 있다. 또한, 최신 디자인 경향과 기술적 발전이 어떻게 UX/UI에 영향을 미치는지를 분석한다. 디자이너들에게 유용한 인사이트를 제공하는 내용이다.",
+      "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들이 주목하고 있는 새로운 UX/UI 트렌드는 사용자 경험을 중시하는 방향으로 발전하고 있다. 이러한 트렌드는 기술의 발전과 함께 변화하는 사용자 요구에 부응하고 있다. 특히, 직관적인 인터페이스와 개인화된 경험이 강조되고 있다. 이와 같은 변화는 디지털 제품의 경쟁력을 높이는 데 중요한 역할을 할 것으로 기대된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4665,7 +4733,7 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "ai",
@@ -4702,36 +4770,20 @@
       "collectedAt": "2026-08-10"
     },
     {
-      "category": "ai",
-      "title": "Snowflake Cortex AI, Anthropic Claude Opus 5 지원 시작",
-      "summary": "Snowflake가 Cortex AI에 Anthropic의 Claude Opus 5 지원을 시작했다. 이로 인해 데이터 분석 및 인공지능 활용이 더욱 강화될 전망이다.",
-      "summary_full": "Snowflake는 자사의 Cortex AI 플랫폼에 Anthropic의 Claude Opus 5 지원을 추가했다. 이번 지원으로 기업들은 더욱 발전된 인공지능 기능을 활용하여 데이터 분석을 최적화할 수 있게 된다. 이는 데이터 기반 의사결정에 큰 도움이 될 것으로 기대된다. Snowflake는 지속적으로 AI 기술을 발전시키며 사용자 경험을 향상시키고 있다.",
-      "keywords": [
-        "Snowflake",
-        "Cortex AI",
-        "Claude Opus 5"
-      ],
-      "source": "Google News Anthropic",
-      "date": "7월 25일",
-      "publishedAt": "2026-07-25T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Zlh2UTVqOVVpcDBseGMzRDdWNTltUEdoVC0tb3l4QVg4ZGIwYVFxOFJKU1RySWxoOGduSWpJejdGeXBEVk0yU19tNW40VmxDV3QwQ0Z6ODZvbnlOTG1oQnRMcTlpcml3cUMwUUx5bUh1THlCX01j?oc=5",
-      "collectedAt": "2026-08-09"
-    },
-    {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 시험을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 학습 방법의 기원을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 개발된 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 맥락이 현재 언어 학습 앱의 디자인에 어떤 영향을 미쳤는지를 탐구한다. 결국, 언어 학습 방법론의 기초를 이해하는 것이 중요하다.",
       "keywords": [
         "언어학습",
         "디자인",
-        "라틴어"
+        "역사"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "frontend",
@@ -4769,19 +4821,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션 개발을 목표로 한다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화하기로 했다. 이 협력은 두 회사의 기술적 전문성을 결합하여 혁신적인 AI 솔루션을 개발하는 데 중점을 둔다. 이를 통해 AI 기술의 상용화와 산업 전반의 효율성을 높이는 것을 목표로 한다. 향후 AI 기술의 진화에 중요한 역할을 할 것으로 기대된다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
+      "summary": "엠미가 미스트랄과 손잡고 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 발전과 혁신을 촉진할 것으로 예상된다. 두 회사는 AI 솔루션의 개발과 상용화를 위해 긴밀히 협력할 예정이다. 이를 통해 AI 기술이 다양한 산업에 더욱 널리 적용될 수 있을 것으로 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 네이티브 산업"
+        "AI 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-09"
     },
     {
       "category": "design",
