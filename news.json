@@ -1,22 +1,214 @@
 {
-  "updated": "2026년 9월 9일 AM 03:09",
+  "updated": "2026년 9월 10일 AM 03:09",
   "count": 302,
   "articles": [
     {
       "category": "industry",
       "title": "인테리어 사장님의 성장 설계",
-      "summary": "인테리어 시장에서 사장님들의 성장을 돕는 전문가들의 이야기를 담고 있다. 이들은 시장을 설계하고 인테리어 사업의 발전을 이끌어가는 역할을 한다.",
-      "summary_full": "이 기사에서는 인테리어 사장님들의 성장을 지원하는 전문가들의 노력을 조명한다. 그들은 시장의 변화에 발맞추어 인테리어 사업을 설계하고 발전시키는 데 기여하고 있다. 첫 번째 이야기에서는 이들의 경험과 전략을 통해 인테리어 시장의 현재와 미래를 탐구한다. 이를 통해 사장님들이 성공적으로 사업을 운영할 수 있는 방법을 제시한다.",
+      "summary": "인테리어 업계의 성장을 지원하는 사람들의 이야기를 다룬다. 첫 번째 에피소드는 시장 설계에 대한 통찰을 제공한다.",
+      "summary_full": "이 기사는 인테리어 사장님들의 성장을 돕는 전문가들의 역할을 조명한다. 시장을 설계하는 과정에서의 다양한 전략과 경험을 공유한다. 첫 번째 이야기를 통해 업계의 현재와 미래를 탐구한다. 인테리어 시장의 변화에 대한 깊이 있는 분석을 제공한다.",
       "keywords": [
         "인테리어",
-        "사업 성장",
-        "시장 설계"
+        "시장설계",
+        "성장전략"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 9일",
-      "publishedAt": "2026-09-09T03:08:32.173Z",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T03:08:11.500Z",
       "url": "https://www.bucketplace.com/post/2026-09-07-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-09-09"
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "design",
+      "title": "내 사진을 사용한 스톱모션 영상 제작",
+      "summary": "이 영상에서는 개인의 사진을 활용하여 스톱모션 영상을 만드는 방법을 소개합니다. Codex를 통해 쉽게 따라할 수 있는 단계별 가이드를 제공합니다.",
+      "summary_full": "이 영상에서는 개인의 사진을 활용하여 스톱모션 영상을 만드는 방법을 소개합니다. Codex를 통해 쉽게 따라할 수 있는 단계별 가이드를 제공합니다. 사용자가 자신의 창의력을 발휘하여 독특한 영상을 제작할 수 있도록 돕습니다. 다양한 팁과 트릭도 포함되어 있어 초보자에게 유용합니다.",
+      "keywords": [
+        "스톱모션",
+        "영상제작",
+        "Codex"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T03:08:07.237Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-829/",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "frontend",
+      "title": "탐사 회사, 4억 5천만 달러 자금 조달",
+      "summary": "탐사 회사가 4억 5천만 달러의 자금을 조달했다. 이는 우주 산업과 기술에 미치는 영향에 대한 심층 분석을 포함한다.",
+      "summary_full": "탐사 회사가 4억 5천만 달러의 자금을 조달한 사실이 보도되었다. 이 자금 조달은 우주 산업의 발전에 중요한 의미를 지닌다. 또한, 이와 관련된 기술적 변화와 혁신에 대한 논의가 이어질 것으로 예상된다. 향후 우주 탐사 및 관련 기술의 발전에 기여할 가능성이 크다.",
+      "keywords": [
+        "우주 산업",
+        "자금 조달",
+        "탐사 기술"
+      ],
+      "source": "dev.to",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T03:05:56.000Z",
+      "url": "https://dev.to/norviktech/the-exploration-company-raises-450-million-to-cha-2ed1",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "industry",
+      "title": "카카오모빌리티, 자율주행 판단 “규칙에서 AI로” 무게중심 이동",
+      "summary": "카카오모빌리티가 자율주행 모델의 활용 비중을 높이고 있다. 이를 위해 '서울자율차'에서 쌓은 데이터를 기반으로 기술을 고도화할 계획이다.",
+      "summary_full": "카카오모빌리티는 연말까지 엔드 투 엔드(E2E) 자율주행 모델의 활용 비중을 증가시킬 예정이다. 지난 반년간 운영한 '서울자율차'에서 얻은 데이터를 통해 자율주행 기술을 지속적으로 발전시킬 계획이다. 규칙 기반의 판단에서 AI 기반으로의 전환을 통해 자율주행의 정확성과 효율성을 높이는 것이 목표이다. 이로 인해 자율주행 차량의 운행 안전성과 신뢰성을 강화할 수 있을 것으로 기대된다.",
+      "keywords": [
+        "카카오모빌리티",
+        "자율주행",
+        "AI"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T02:35:04.000Z",
+      "url": "https://byline.network/2026/09/09_kakaomobility/",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "trend",
+      "title": "애플의 폴더블 아이폰 울트라 출시 예정: 10년의 노력은 무엇인가?",
+      "summary": "애플의 첫 폴더블 폰인 아이폰 울트라가 2000달러 이상의 가격으로 출시될 예정이다. 이 제품은 10년간의 개발 과정을 통해 탄생한 것으로, 디자이너들이 주목해야 할 점은 가격이 아닌 그 과정이다.",
+      "summary_full": "애플의 첫 폴더블 폰인 아이폰 울트라가 2000달러 이상의 가격으로 출시될 예정이다. 이 제품은 '한 자루의 칼을 갈기 위한 10년의 노력'으로 설명된다. 디자이너들이 주목해야 할 점은 가격이 아닌, 애플이 왜 10년 동안 폴딩 스크린 개발에 집중했는가이다. 이는 폴더블 기술의 진화와 디자인 혁신을 의미한다.",
+      "keywords": [
+        "애플",
+        "폴더블폰",
+        "아이폰 울트라"
+      ],
+      "source": "dev.to",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T00:47:54.000Z",
+      "url": "https://dev.to/asher_hu_42c5945e09721211/apples-foldable-iphone-ultra-is-coming-what-exactly-is-ten-years-of-grinding-sharpening-1m0n",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "industry",
+      "title": "셰익스피어가 AI에 대해 맞춘 것",
+      "summary": "셰익스피어는 예언과 모호함을 탐구하며 인공지능과의 관계에서 우리가 직면한 도전을 예견했다. 그의 경고는 400년 전 이미 작성되었다.",
+      "summary_full": "셰익스피어는 잉크와 깃펜에서 빛나는 코드로의 변화를 통해 예언과 모호함을 탐구했다. 이는 인공지능과의 관계에서 우리가 직면한 중심적인 도전과 연결된다. 그가 남긴 경고는 400년 전 이미 존재했으며, 마녀, 위조된 편지, 그리고 유령이 있는 왕자와 같은 요소들이 기계와 소통하는 방법에 대한 교훈을 제공한다.",
+      "keywords": [
+        "셰익스피어",
+        "인공지능",
+        "예언"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T23:04:39.000Z",
+      "url": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "trend",
+      "title": "인류의 중대한 시점, 앤트로픽에서 퇴사한 AI 연구자",
+      "summary": "제이콥 콕슨이 WIRED와의 인터뷰에서 앤트로픽 내부의 '미니 맨해튼 프로젝트'와 AI 정렬 문제에 대해 이야기했다. 그는 AI 연구소들이 시스템을 안전하게 만들기 위해 몇 년밖에 남지 않았다고 경고했다.",
+      "summary_full": "제이콥 콕슨은 WIRED와의 인터뷰에서 앤트로픽 내부에서 진행 중인 '미니 맨해튼 프로젝트'에 대해 설명했다. 그는 AI 정렬 문제의 심각성을 강조하며, 현재 AI 연구소들이 직면한 도전 과제를 논의했다. 콕슨은 인류가 AI 시스템의 안전성을 확보하기 위해 긴급한 조치가 필요하다고 주장했다. 그는 AI 연구소들이 앞으로 몇 년 안에 해결책을 마련하지 않으면 큰 위험에 처할 것이라고 경고했다.",
+      "keywords": [
+        "AI 연구",
+        "앤트로픽",
+        "안전성 문제"
+      ],
+      "source": "wired.com",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T22:11:55.000Z",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, 도난된 로그인 세션으로 유료 클라우드 구독 피해 발생",
+      "summary": "앤트로픽이 도난된 로그인 세션으로 인해 유료 클라우드 구독이 해킹당하고 있다고 경고했다. 이 문제는 사용자 계정의 보안에 심각한 위협이 되고 있다.",
+      "summary_full": "앤트로픽이 최근 도난된 로그인 세션으로 인해 유료 클라우드 구독이 해킹당하고 있다는 사실을 알렸다. 해커들은 사용자 계정에 접근하여 구독 서비스를 탈취하고 있으며, 이는 많은 사용자에게 피해를 주고 있다. 회사는 사용자들에게 보안 강화 조치를 취할 것을 권장하고 있다. 이 사건은 클라우드 서비스의 보안 문제를 다시 한번 부각시키고 있다.",
+      "keywords": [
+        "앤트로픽",
+        "로그인 세션",
+        "클라우드 구독"
+      ],
+      "source": "Google News Anthropic",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T20:23:30.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOWnlraDM4alpZWmwwSi1oNGJPc2xIbkNYbEV2STBoUVVVNVA1alBpUks4aVUyMUY3eDgyYjlaZnB4T2Mwb1huakt1RVNKVTlnSngwVElaalByMkU2LW9HdmdjLXlnOU4zeWFTbGdmMWZVX1BoY3M2MldhbVE4d3JVSzNsaV8zMGQ1ZUVxZnFPTW5MZm05RHFScW11TXA3ektEN3ZVNEoyWE1GUjRuVE4wbGxTNXZuVkZSb2JVYk1hQk9rR2FfNElyZ3RjaVV2cm9HNWk0M3NXZ1VaRXAtdE9MeG9UcVBjLWhidTJQMVktVklsSC1YeGtoUWNBejVxY19YWWJxUzJTOTk0MEsxb2k1dXNLUGhoY1Zlb2t2aFRjYXdkN2tpMHc4NU9oSWpQUTlCb29HN0Z4VVJGa2RpdENrWjBiUFdTQUQwNW9LWWliVTF3WXhlM2oxUEctdlVXYmxFU3gzWm1LNjFucFM0OFlVUk1IaTBQWmFpaTRSSzJ2OU5mX3d6S0U2NkZoOUU2TTVQbnZmVlVEWmFrSkJoQ0N0aThmNG9PTlNa?oc=5",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "industry",
+      "title": "구글과 NASA JPL, 전 세계 메탄 기둥을 지도화하는 AI 모델 발표",
+      "summary": "구글 리서치와 NASA JPL이 60미터 해상도로 전 세계 메탄 기둥을 지도화하는 딥러닝 모델을 발표했다. 이 모델은 인간 분석가보다 약 50% 더 많은 메탄 기둥을 발견했다.",
+      "summary_full": "구글 리서치와 NASA JPL이 전 세계 메탄 기둥을 60미터 해상도로 지도화하는 딥러닝 모델을 발표했다. 이 모델은 인간 분석가보다 약 50% 더 많은 메탄 기둥을 발견했으며, 23,000개의 추가 기둥을 포함하고 있다. 특히 25개의 가장 큰 배출 쓰레기 매립지 중 24곳에서 메탄 기둥을 찾아냈다. 유럽의 메탄 규제는 위성 모니터링 도구와 슈퍼 배출 경고 시스템을 요구하고 있지만, 이는 제한된 범위만을 커버하고 있다.",
+      "keywords": [
+        "구글",
+        "NASA JPL",
+        "메탄 기둥"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T19:48:07.000Z",
+      "url": "https://thenextweb.com/news/google-methane-map-eu-rules",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "ai",
+      "title": "IBM, 상업적 친화 라이센스를 가진 SOTA Granite 시계열 모델 PatchTST-FM-r2 출시",
+      "summary": "IBM이 상업적으로 이용 가능한 라이센스를 가진 최신 Granite 시계열 모델인 PatchTST-FM-r2를 발표했다. 이 모델은 시계열 데이터 분석에 최적화되어 있다.",
+      "summary_full": "IBM이 새로운 Granite 시계열 모델인 PatchTST-FM-r2를 출시했다. 이 모델은 상업적 친화적인 라이센스를 제공하여 기업들이 쉽게 활용할 수 있도록 설계되었다. PatchTST-FM-r2는 시계열 데이터 분석에 있어 최첨단 기술을 적용하고 있다. 이를 통해 다양한 산업 분야에서 데이터 기반 의사결정을 지원할 것으로 기대된다.",
+      "keywords": [
+        "IBM",
+        "Granite",
+        "시계열 모델"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T15:36:24.000Z",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "ai",
+      "title": "AI 정책의 기회가 열렸다. 우리는 행동해야 한다.",
+      "summary": "AI의 강력한 능력은 강력한 안전 증거와 공유된 기준, 지속 가능한 정책 행동을 요구한다. 정책의 기회가 열려 있는 동안 신속한 대응이 필요하다.",
+      "summary_full": "AI 기술의 발전은 안전성을 보장하기 위한 강력한 증거와 기준을 필요로 한다. Chris Lehane은 이러한 요구를 충족시키기 위해 정책 행동이 시급하다고 강조한다. 정책 창이 열려 있는 지금이 바로 행동할 때라는 점을 지적한다. 따라서, AI의 안전성과 효과성을 높이기 위한 협력과 노력이 필요하다.",
+      "keywords": [
+        "AI 정책",
+        "안전성 증거",
+        "정책 행동"
+      ],
+      "source": "OpenAI News",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "url": "https://openai.com/index/ai-policy-window",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "design",
+      "title": "버튼의 죽음: 최고의 인터페이스는 인터페이스가 없다",
+      "summary": "그래픽 사용자 인터페이스의 상용화 이후 소프트웨어는 클릭 기반 상호작용에 의존해왔다. 그러나 이제는 복잡한 사용자 인터페이스를 탐색할 필요 없이 더 직관적인 방법이 필요하다.",
+      "summary_full": "그래픽 사용자 인터페이스가 상용화되면서 소프트웨어는 클릭 기반 상호작용에 크게 의존하게 되었다. 사용자는 여행 예약, 신발 구매, 건강 증상 조사 등을 위해 복잡한 인터페이스를 탐색해야 했다. 하지만 이러한 방식은 점점 비효율적으로 여겨지고 있으며, 더 나은 대안이 필요하다. 버튼 없는 인터페이스가 새로운 방향으로 주목받고 있다.",
+      "keywords": [
+        "그래픽 사용자 인터페이스",
+        "클릭 기반 상호작용",
+        "버튼 없는 인터페이스"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+      "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "frontend",
+      "title": "App Router의 장점은 우리에게도 장점일까요?",
+      "summary": "토스뱅크 프론트엔드 개발자 이다용이 App Router와 React Server Components(RSC)의 도입을 검토한 결과, 도입하지 않기로 결정했다.",
+      "summary_full": "토스뱅크는 Next.js의 Pages Router를 사용하고 있으며, 유지보수 모드로 새로운 기능이 추가되지 않는다. 개발팀은 App Router와 RSC의 장점을 검토했으나, 실제 서비스에서 얻는 이득이 적다고 판단했다. 기술그룹을 통해 매주 문제를 공유하며 실험했지만, 최종적으로 도입을 포기했다.",
+      "keywords": [
+        "App Router",
+        "React Server Components",
+        "프론트엔드 개발"
+      ],
+      "source": "toss.tech",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T06:45:00.000Z",
+      "url": "https://toss.tech/article/52999",
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "design",
@@ -49,6 +241,22 @@
       "publishedAt": "2026-09-09T03:00:00.000Z",
       "url": "https://dev.to/megapixel99/a-pdf-exporter-with-no-pdf-library-2hb9",
       "collectedAt": "2026-09-09"
+    },
+    {
+      "category": "ai",
+      "title": "사이버 보안 사건의 정렬 평가",
+      "summary": "최근 사이버 보안 사건에 대한 정렬 평가를 다룬다. 이 평가는 사건의 경향과 대응 방안을 분석한다.",
+      "summary_full": "2026년 9월 9일 발표된 이 보고서는 최근 발생한 사이버 보안 사건들을 정렬하여 평가한다. 사건의 유형과 빈도를 분석하고, 이를 통해 보안 강화 방안을 제시한다. 또한, 각 사건의 대응 방식과 그 효과를 비교하여 최적의 대응 전략을 모색한다. 이 연구는 사이버 보안 분야의 발전을 위한 중요한 기초 자료로 활용될 수 있다.",
+      "keywords": [
+        "사이버 보안",
+        "사건 평가",
+        "대응 전략"
+      ],
+      "source": "Anthropic Research",
+      "date": "9월 9일",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "trend",
@@ -149,18 +357,18 @@
     {
       "category": "ai",
       "title": "알파게놈 아틀라스: 인간 유전체의 모든 가능한 DNA 문자 변화 예측 지도",
-      "summary": "알파게놈 아틀라스는 인간 유전체에서 90억 개의 단일 문자 DNA 변이의 분자적 영향을 매핑합니다. 이 연구는 유전적 변이가 인간 건강에 미치는 영향을 이해하는 데 기여합니다.",
-      "summary_full": "알파게놈 아틀라스는 인간 유전체 내에서 발생할 수 있는 모든 단일 문자 DNA 변이를 예측하는 지도를 제공합니다. 이 프로젝트는 90억 개의 변이에 대한 분자적 영향을 분석하여, 유전적 변이가 질병과 건강에 미치는 영향을 연구하는 데 중요한 자료를 제공합니다. 이를 통해 유전학 연구자들은 특정 변이가 어떻게 작용하는지를 더 잘 이해할 수 있게 됩니다. 궁극적으로, 이 연구는 개인 맞춤형 의학과 유전자 기반 치료법 개발에 기여할 것으로 기대됩니다.",
+      "summary": "알파게놈 아틀라스는 인간 유전체에서 90억 개의 단일 문자 DNA 변이의 분자적 영향을 매핑합니다. 이는 유전적 변이를 이해하는 데 중요한 도구가 될 것입니다.",
+      "summary_full": "알파게놈 아틀라스는 인간 유전체의 모든 가능한 DNA 문자 변화를 예측하는 지도입니다. 이 프로젝트는 90억 개의 단일 문자 DNA 변이를 분석하여 그 분자적 영향을 매핑합니다. 이를 통해 유전적 변이를 이해하고, 질병 연구 및 치료 개발에 기여할 수 있는 중요한 정보를 제공합니다. 이 지도는 유전체학 연구의 새로운 이정표가 될 것으로 기대됩니다.",
       "keywords": [
         "알파게놈",
         "DNA 변이",
-        "유전체 연구"
+        "유전체학"
       ],
       "source": "Google DeepMind Blog",
       "date": "9월 8일",
       "publishedAt": "2026-09-08T14:00:15.000Z",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "collectedAt": "2026-09-09"
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "industry",
@@ -297,18 +505,18 @@
     {
       "category": "ai",
       "title": "중국, 보이스피싱 방지 AI 앱 출시",
-      "summary": "중국에서 보이스피싱을 방지하기 위한 AI 애플리케이션이 출시되었다. 사용자가 의심스러운 상황을 입력하면 사기 여부를 판별해준다.",
-      "summary_full": "중국이 보이스피싱을 예방하기 위해 AI 기반의 애플리케이션을 선보였다. 이 앱은 사용자가 의심스러운 상황을 입력하면, 해당 상황이 사기인지 여부를 판단해준다. 이를 통해 사용자들은 보다 안전하게 금융 거래를 할 수 있을 것으로 기대된다. AI 기술을 활용한 이 앱은 보이스피싱 범죄를 줄이는 데 기여할 것으로 보인다.",
+      "summary": "중국에서 보이스피싱을 방지하는 AI 애플리케이션이 출시되었다. 사용자가 의심스러운 상황을 말하면 사기를 판별해준다.",
+      "summary_full": "중국에서 보이스피싱을 잡기 위한 AI 애플리케이션이 새롭게 출시되었다. 이 앱은 사용자가 의심스러운 상황을 입력하면 사기 여부를 판단해준다. 이를 통해 사용자들은 보다 안전하게 금융 거래를 할 수 있을 것으로 기대된다. AI 기술을 활용하여 보이스피싱 피해를 줄이는 데 기여할 것으로 보인다.",
       "keywords": [
-        "보이스피싱",
         "AI 앱",
+        "보이스피싱",
         "사기 판별"
       ],
       "source": "Google News AI (KR)",
       "date": "9월 7일",
       "publishedAt": "2026-09-07T03:56:11.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aZWQ2WEdQWGNaSFV5OHRYell1blFYWndfbXl0d2ZWSXdrcmtqVEdVSHFEWEVxU293b1IybWphUGhqQlhqM2N1aVdfbkpRZzVKS2lJeUhUT1Qxa0HSAWBBVV95cUxOQ2x6VThEVmpRaTEwcERxLTdZa0xYLUR2RzE1cnQwSXBpZVlTMDFqQkJpT2R5S0pUM3BYOTdVb3o2d1VqR1o1QUt4bk1pNVRFVXBVOUxFVlExMmxVN045U3c?oc=5",
-      "collectedAt": "2026-09-08"
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "design",
@@ -926,18 +1134,18 @@
     {
       "category": "figma",
       "title": "변수 모달에서 투명도를 대규모로 업데이트할 수 있다",
-      "summary": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 조정할 수 있다.",
-      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 색상 위에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 조정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 이를 색상 변수에 맞게 구체적으로 범위를 설정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
+      "summary": "변수 모달에서 투명도를 대규모로 업데이트하고, 색상에 연결된 상태에서 적용할 수 있다. 색상 변수를 사용하여 숫자 변수를 통해 투명도를 설정하고, 이를 색상 변수에 맞게 구체적으로 범위 설정할 수 있다.",
+      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고, 색상에 연결된 상태에서 적용할 수 있다. 색상을 분리하지 않고도 별칭 투명도를 설정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 이를 특정 색상 변수에 맞게 범위 설정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
       "keywords": [
         "투명도",
         "변수 모달",
-        "디자인 시스템"
+        "색상 변수"
       ],
       "source": "Figma Release Notes",
       "date": "9월 3일",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-09"
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "industry",
@@ -1278,8 +1486,8 @@
     {
       "category": "frontend",
       "title": "모든 브라우저에서 사용할 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수의 도입을 위한 폴리필 개발 과정을 설명합니다. 이 함수는 다양한 브라우저에서 호환성을 갖추기 위해 만들어졌습니다. CSS-Tricks에서 처음 작성되고 사랑으로 발표된 내용을 기반으로 합니다. 뉴스레터 구독도 추천합니다.",
+      "summary": "CSS random() 함수의 모든 브라우저에서 작동하는 폴리필을 만드는 여정을 다룹니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성되었습니다.",
+      "summary_full": "CSS random() 함수는 앞으로의 CSS에서 중요한 기능이 될 것입니다. 이 글에서는 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 작성된 이 기사는 독자들에게 뉴스레터 구독을 권장합니다. 이를 통해 최신 정보를 받아볼 수 있습니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -1289,7 +1497,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-09"
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "design",
@@ -4496,38 +4704,6 @@
       "collectedAt": "2026-08-11"
     },
     {
-      "category": "design",
-      "title": "구글 어스에서 나노 바나나 활용하기",
-      "summary": "구글 어스에서 나노 바나나를 사용하는 방법을 소개합니다. 이 기술을 통해 새로운 시각적 경험을 제공할 수 있습니다.",
-      "summary_full": "이 기사에서는 구글 어스에서 나노 바나나를 활용하는 방법을 자세히 설명합니다. 나노 바나나는 독특한 시각적 요소를 추가하여 사용자에게 흥미로운 경험을 제공합니다. 또한, 이 기술이 어떻게 구현되는지에 대한 기술적 배경도 다룹니다. 구글 어스를 활용한 혁신적인 접근 방식에 대해 알아보세요.",
-      "keywords": [
-        "구글 어스",
-        "나노 바나나",
-        "기술 활용"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T01:39:21.222Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-805/",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "frontend",
-      "title": "2026년 미국 원격 근무 기회",
-      "summary": "2026년 미국에서 원격 근무를 찾고 있다면 다양한 재택 근무 기회를 알아보세요. 시간당 $50에서 $150까지 벌 수 있는 유연한 온라인 직업을 탐색할 수 있습니다.",
-      "summary_full": "2026년 미국에서 원격 근무 기회를 찾고 있다면 다양한 재택 근무 옵션을 고려해 보세요. 이 기사는 여러분의 기술과 경험에 맞는 유연한 온라인 직업을 탐색할 수 있도록 도와줍니다. 링크를 방문하여 지원할 수 있는 기회를 확인해 보세요. 시간당 $50에서 $150까지 벌 수 있는 직업들이 있습니다.",
-      "keywords": [
-        "원격 근무",
-        "재택 근무",
-        "온라인 직업"
-      ],
-      "source": "dev.to",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T01:30:22.000Z",
-      "url": "https://dev.to/job_offer_74680b9f128121c/usa-remote-jobs-2026-work-from-home-jobs-hiring-now-earn-50-150hour-2gc3",
-      "collectedAt": "2026-08-10"
-    },
-    {
       "category": "ai",
       "title": "클로드의 수학적 능력 탐구",
       "summary": "클로드의 수학적 능력을 더 깊이 이해하는 내용이다. 이 기사는 클로드가 수학 문제를 해결하는 방식에 대해 설명한다.",
@@ -4542,150 +4718,6 @@
       "publishedAt": "2026-08-10T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/riemann-zeta",
       "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "trend",
-      "title": "무료 랜딩 페이지 - 랜딩 챗봇",
-      "summary": "기업 AI 챗봇 플랫폼으로 전문적이고 ROI 중심의 솔루션입니다. HTML 파일을 저장하고 브라우저에서 열거나 Netlify/Vercel에 무료로 배포할 수 있습니다.",
-      "summary_full": "이 랜딩 페이지는 OmniIncome-v1이 AI를 사용하여 구축한 기업 AI 챗봇 플랫폼입니다. 전문적이고 ROI 중심의 기능을 제공하며, 사용자는 HTML 파일을 저장하여 브라우저에서 열거나 Netlify/Vercel에 무료로 배포할 수 있습니다. 이 챗봇은 기업의 고객 지원 및 상호작용을 개선하는 데 도움을 줍니다. 지원 관련 정보는 제공된 코드에서 확인할 수 있습니다.",
-      "keywords": [
-        "랜딩 페이지",
-        "AI 챗봇",
-        "무료 배포"
-      ],
-      "source": "dev.to",
-      "date": "8월 9일",
-      "publishedAt": "2026-08-09T23:55:29.000Z",
-      "url": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-12o8",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "industry",
-      "title": "네이버의 전략적 확장과 AI팩토리 사업",
-      "summary": "네이버는 오프라인 시장으로의 확장을 위해 N페이 커넥트를 활용하고 있으며, 쇼핑 부문에서 1위와의 격차를 줄이기 위해 노력하고 있습니다. 또한, AI팩토리 사업을 통해 기존 인프라 운영 역량을 활용할 계획입니다.",
-      "summary_full": "네이버는 2026년 2분기에 기존 IT 역량을 바탕으로 오프라인 시장으로의 확장을 다각도로 추진하고 있습니다. N페이 커넥트를 통해 오프라인 전략을 강화하며, 쇼핑 부문에서 업계 1위와의 격차를 줄이기 위해 노력하고 있습니다. 또한, 쌓아온 인프라 운영 역량을 활용하여 AI팩토리 사업을 추진할 목표를 가지고 있습니다. 이러한 전략은 네이버의 지속적인 성장과 시장 경쟁력 강화를 위한 중요한 요소입니다.",
-      "keywords": [
-        "네이버",
-        "N페이 커넥트",
-        "AI팩토리"
-      ],
-      "source": "바이라인네트워크",
-      "date": "8월 9일",
-      "publishedAt": "2026-08-09T22:46:24.000Z",
-      "url": "https://byline.network/2026/08/07_naver_2602q/",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "industry",
-      "title": "손을 든 직조기",
-      "summary": "90년의 직조기 공학이 기계가 자신의 실수를 인식하도록 가르치는 데 사용되었다.",
-      "summary_full": "이 기사는 직조기 기술의 발전을 다루고 있다. 90년간의 연구와 개발을 통해 기계가 오류를 인식하고 수정할 수 있는 방법이 소개된다. 이는 직조 산업의 혁신을 가져올 수 있는 중요한 진전을 의미한다. UX Collective에서 더 자세한 내용을 확인할 수 있다.",
-      "keywords": [
-        "직조기",
-        "기계학습",
-        "산업혁신"
-      ],
-      "source": "uxdesign.cc",
-      "date": "8월 9일",
-      "publishedAt": "2026-08-09T20:51:26.000Z",
-      "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "trend",
-      "title": "디지털 자산 상속의 복잡한 문제",
-      "summary": "디지털 자산을 사랑하는 사람에게 물려주는 완벽한 방법은 없다. 하지만 지금 할 수 있는 일들이 있어 그 과정을 더 쉽게 만들 수 있다.",
-      "summary_full": "디지털 자산을 상속하는 것은 복잡한 문제이다. 완벽한 방법은 없지만, 미리 준비하면 사랑하는 사람들에게 더 쉽게 전달할 수 있다. 현재 할 수 있는 조치들이 있으며, 이를 통해 상속 과정이 간소화될 수 있다. 디지털 자산 관리에 대한 이해와 준비가 필요하다.",
-      "keywords": [
-        "디지털 자산",
-        "상속",
-        "자산 관리"
-      ],
-      "source": "wired.com",
-      "date": "8월 9일",
-      "publishedAt": "2026-08-09T11:30:00.000Z",
-      "url": "https://www.wired.com/story/digital-estate-planning-tips/",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "ai",
-      "title": "Fable 5, 미국 명령으로 오프라인되기 전 GPT 5.5 능가",
-      "summary": "Fable 5가 미국의 명령으로 오프라인되기 전에 GPT 5.5를 초월했다. 이로 인해 AI 기술의 발전과 그에 따른 사회적 영향이 주목받고 있다.",
-      "summary_full": "Fable 5가 최근 미국 정부의 명령으로 오프라인되기 전에 GPT 5.5의 성능을 능가했다. 이러한 변화는 AI 기술의 발전을 보여주며, 특히 정부의 규제가 AI 발전에 미치는 영향을 강조한다. 또한, 이러한 기술의 발전이 사회에 미치는 영향에 대한 논의가 필요하다는 목소리가 커지고 있다. Fable 5의 성능 향상은 AI 분야의 경쟁을 더욱 치열하게 만들 것으로 예상된다.",
-      "keywords": [
-        "Fable 5",
-        "GPT 5.5",
-        "AI 기술"
-      ],
-      "source": "Google News Anthropic",
-      "date": "8월 9일",
-      "publishedAt": "2026-08-09T10:26:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQUDBxeWVxM2wyU1ctWTJYLUlNRzRHeTRkTmFQQnl0Uk5Jb0EtT3BFRVZrcXIxOGxTLUdqRE02cTVJbElZN29YQU5ndXVBa01VTG1HQ0c0QjhlVVczekhhQ3J1SldoekZVWUZ1RGFYNmlZeGxUQUF4MDNXcklmRjFCTVMzSG90dWVHRWhfSF9kWkxNeENHdDhMZ2ZzMDB3QW5PM2MwTzhXaWtzSDY0ZkdpeFRXUnVBbHYxOF9fSFVBUmQzT1NVeF90RW1lT0h0Y3Z4cnBQZDF0M2ludlJSQ1RBX2p4WUN5Y2FmQUJQWVVGYXdMQUlDMGdoOVBYbEJJWW1BWDMtaDlsaDFaT2UwYlI4QkxxOURQcXZvVVlyOU9LOTdrZ2xienc?oc=5",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "industry",
-      "title": "아르메니아, 지역 최대 AI 공장 개소",
-      "summary": "미국 AI 클라우드 기업 Firebird가 아르메니아 흐라즈단에 CIS 지역 최대 AI 공장을 열었다. 이 공장은 미국의 라이센스 서명 덕분에 가능해졌다.",
-      "summary_full": "미국 AI 클라우드 기업 Firebird가 아르메니아 흐라즈단에 CIS 지역 최대 AI 공장을 개소했다. 아르메니아 총리 니콜 파시냐니안과 카자흐스탄 부총리, 미국 대리대사 등이 참석했다. 이 공장은 미국의 라이센스 서명 덕분에 설립되었다. 이는 미국 기업이 아르메니아에 시설을 열었다는 점에서 중요한 의미를 가진다.",
-      "keywords": [
-        "AI 공장",
-        "아르메니아",
-        "Firebird"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 8일",
-      "publishedAt": "2026-08-08T12:21:11.000Z",
-      "url": "https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "ai",
-      "title": "튜터모먼트: AI 튜터는 언제 도와야 하고 언제 물러나야 하는가?",
-      "summary": "AI 튜터가 학생에게 도움을 줄 시점과 자제를 해야 할 시점을 인식할 수 있는지에 대한 논의이다. 이 기술이 교육에 미치는 영향과 그 한계에 대해 탐구한다.",
-      "summary_full": "AI 튜터는 학생의 학습을 지원하는 데 중요한 역할을 할 수 있지만, 언제 개입해야 할지 판단하는 것이 중요하다. 이 기사에서는 AI 튜터가 적절한 시점에 도움을 주고, 필요할 때는 학생이 스스로 문제를 해결하도록 유도하는 방법을 살펴본다. 또한, 이러한 기술이 교육의 질을 어떻게 향상시킬 수 있는지와 함께, AI의 한계에 대해서도 논의한다. 결국, AI 튜터의 효과적인 활용을 위해서는 그들의 개입 시점을 잘 이해하는 것이 필요하다.",
-      "keywords": [
-        "AI 튜터",
-        "교육 기술",
-        "학습 지원"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "8월 7일",
-      "publishedAt": "2026-08-07T17:53:32.000Z",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "ai",
-      "title": "중요 사이버 능력의 다음 경계에 대응하기",
-      "summary": "OpenAI는 Astra에 대한 초기 사이버 보안 평가를 공유하고 있습니다. 이를 통해 보안 조치와 통제를 강화하기 위한 단계도 설명하고 있습니다.",
-      "summary_full": "OpenAI는 Astra에 대한 초기 사이버 보안 평가를 공개했습니다. 이 평가는 사이버 보안의 중요성을 강조하며, 향후 강화할 보안 조치와 통제 방법에 대한 계획을 포함하고 있습니다. OpenAI는 이러한 노력을 통해 사이버 위협에 대한 대응 능력을 향상시키고자 합니다. 이는 기업과 사용자 모두에게 더 안전한 환경을 제공하기 위한 중요한 단계입니다.",
-      "keywords": [
-        "사이버 보안",
-        "Astra",
-        "보안 조치"
-      ],
-      "source": "OpenAI News",
-      "date": "8월 7일",
-      "publishedAt": "2026-08-07T15:20:00.000Z",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "collectedAt": "2026-08-10"
-    },
-    {
-      "category": "frontend",
-      "title": "대화 상자 요소 사용 및 스타일링",
-      "summary": "<dialog> 요소의 사용과 스타일링에 대한 다양한 뉘앙스를 다룬다. CSS-Tricks에서 작성된 이 글은 대화 상자 요소에 대한 깊은 통찰을 제공한다.",
-      "summary_full": "<dialog> 요소는 웹 아키텍처에서 작은 부분처럼 보이지만, 그 사용법과 스타일링에는 많은 뉘앙스가 있다. 이 글에서는 <dialog> 요소에 대한 깊이 있는 내용을 다루고 있으며, CSS-Tricks에서 처음 작성되었다. 독자들은 이 주제에 대한 더 많은 정보를 얻기 위해 뉴스레터 구독을 고려할 수 있다. 대화 상자 요소를 효과적으로 활용하고 스타일링하는 방법에 대한 유용한 팁을 제공한다.",
-      "keywords": [
-        "대화 상자",
-        "웹 아키텍처",
-        "CSS-Tricks"
-      ],
-      "source": "css-tricks.com",
-      "date": "8월 7일",
-      "publishedAt": "2026-08-07T14:06:43.000Z",
-      "url": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-      "collectedAt": "2026-08-10"
     },
     {
       "category": "design",
@@ -4722,8 +4754,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들이 주목하고 있는 새로운 UX/UI 트렌드는 사용자 경험을 중시하는 방향으로 발전하고 있다. 이러한 트렌드는 기술의 발전과 함께 변화하는 사용자 요구에 부응하고 있다. 특히, 직관적인 인터페이스와 개인화된 경험이 강조되고 있다. 이와 같은 변화는 디지털 제품의 경쟁력을 높이는 데 중요한 역할을 할 것으로 기대된다.",
+      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드에 대한 기사를 소개한다. 이 트렌드는 사용자 경험을 개선하기 위한 다양한 혁신적인 요소들을 포함하고 있다. 특히, 시각적 요소와 인터랙션 디자인의 조화가 강조되고 있다. 이러한 변화는 디지털 제품의 사용성을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4733,7 +4765,7 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-09"
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "ai",
@@ -4754,52 +4786,20 @@
       "collectedAt": "2026-08-12"
     },
     {
-      "category": "ai",
-      "title": "클로드를 통한 암호학적 취약점 발견",
-      "summary": "프론티어 레드팀이 클로드를 활용하여 암호학적 취약점을 탐색합니다. 이 과정에서 발견된 취약점들은 보안 강화에 중요한 역할을 할 것입니다.",
-      "summary_full": "프론티어 레드팀은 클로드라는 도구를 사용하여 다양한 암호학적 취약점을 발견하는 작업을 진행하고 있습니다. 이 연구는 보안 시스템의 취약점을 이해하고 개선하는 데 중점을 두고 있습니다. 발견된 취약점들은 향후 보안 솔루션 개발에 기여할 것으로 기대됩니다. 암호학적 안전성을 높이기 위한 지속적인 노력이 필요합니다.",
-      "keywords": [
-        "암호학",
-        "취약점",
-        "보안"
-      ],
-      "source": "Anthropic Research",
-      "date": "7월 28일",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "collectedAt": "2026-08-10"
-    },
-    {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 개발된 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 맥락이 현재 언어 학습 앱의 디자인에 어떤 영향을 미쳤는지를 탐구한다. 결국, 언어 학습 방법론의 기초를 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 채용을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 학습 앱의 효과적인 디자인을 이해하기 위해서는 그 기원을 살펴보는 것이 중요하다.",
       "keywords": [
-        "언어학습",
+        "언어 학습",
         "디자인",
-        "역사"
+        "역사적 배경"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-09"
-    },
-    {
-      "category": "frontend",
-      "title": "es-toolkit: 작은 내부 라이브러리가 글로벌 프로젝트로 성장한 이야기",
-      "summary": "es-toolkit은 Toss 내부에서 시작된 작은 유틸리티 함수 라이브러리로, 현재는 매주 2천만 번 이상 다운로드되는 글로벌 프로젝트로 성장했다.",
-      "summary_full": "es-toolkit은 Toss의 내부 라이브러리로 시작하여, 점차 많은 사용자에게 알려지게 되었다. 이 프로젝트는 매주 2천만 번 이상 다운로드되며, 핵심 기술로 자리잡았다. Toss의 프론트엔드 엔지니어들이 이 라이브러리의 성장 과정을 공유한다. es-toolkit의 성공적인 발전은 작은 아이디어가 어떻게 큰 영향력을 미칠 수 있는지를 보여준다.",
-      "keywords": [
-        "es-toolkit",
-        "Toss",
-        "프론트엔드 라이브러리"
-      ],
-      "source": "toss.tech",
-      "date": "6월 24일",
-      "publishedAt": "2026-06-24T03:36:00.000Z",
-      "url": "https://toss.tech/article/50693",
-      "collectedAt": "2026-08-10"
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "ai",
@@ -4821,19 +4821,19 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
-      "summary": "엠미가 미스트랄과 손잡고 AI 원주율 산업을 가속화한다. 이 협력은 AI 기술의 발전을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 발전과 혁신을 촉진할 것으로 예상된다. 두 회사는 AI 솔루션의 개발과 상용화를 위해 긴밀히 협력할 예정이다. 이를 통해 AI 기술이 다양한 산업에 더욱 널리 적용될 수 있을 것으로 기대된다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 가속화하기 위한 협력을 시작했다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 AI 솔루션의 개발과 상용화를 통해 산업 전반에 긍정적인 영향을 미칠 것으로 예상된다. 향후 AI 기술의 진화에 중요한 역할을 할 것으로 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 산업"
+        "AI 네이티브 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-09"
+      "collectedAt": "2026-09-10"
     },
     {
       "category": "design",
