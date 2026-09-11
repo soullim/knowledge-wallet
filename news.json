@@ -1,22 +1,166 @@
 {
-  "updated": "2026년 9월 10일 AM 03:09",
+  "updated": "2026년 9월 11일 AM 03:04",
   "count": 302,
   "articles": [
     {
       "category": "industry",
-      "title": "인테리어 사장님의 성장 설계",
-      "summary": "인테리어 업계의 성장을 지원하는 사람들의 이야기를 다룬다. 첫 번째 에피소드는 시장 설계에 대한 통찰을 제공한다.",
-      "summary_full": "이 기사는 인테리어 사장님들의 성장을 돕는 전문가들의 역할을 조명한다. 시장을 설계하는 과정에서의 다양한 전략과 경험을 공유한다. 첫 번째 이야기를 통해 업계의 현재와 미래를 탐구한다. 인테리어 시장의 변화에 대한 깊이 있는 분석을 제공한다.",
+      "title": "인테리어 사장님의 성장을 설계하는 사람들",
+      "summary": "인테리어 업계의 성장을 지원하는 전문가들의 이야기입니다. 이들은 시장을 분석하고 전략을 세워 사장님들의 성공을 돕습니다.",
+      "summary_full": "이 기사에서는 인테리어 업계에서 사장님들의 성장을 돕는 전문가들의 역할을 다룹니다. 그들은 시장을 설계하고 분석하여 효과적인 전략을 제시합니다. 이를 통해 사장님들은 경쟁력을 갖추고 사업을 확장할 수 있습니다. 첫 번째 이야기를 통해 이들의 경험과 노하우를 살펴봅니다.",
       "keywords": [
         "인테리어",
         "시장설계",
-        "성장전략"
+        "사업성장"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 10일",
-      "publishedAt": "2026-09-10T03:08:11.500Z",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T03:03:39.880Z",
       "url": "https://www.bucketplace.com/post/2026-09-07-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "design",
+      "title": "손으로 그린 스케치를 실사 이미지로 변환하기",
+      "summary": "ChatGPT Images 2.5를 사용하여 손으로 그린 스케치를 실사 이미지로 변환하는 방법에 대해 설명합니다. 이 기술은 창의적인 작업에 혁신을 가져올 수 있습니다.",
+      "summary_full": "이 기사에서는 ChatGPT Images 2.5를 활용하여 손으로 그린 스케치를 실사 이미지로 변환하는 과정을 다룹니다. 사용자는 이 도구를 통해 자신의 스케치를 보다 생동감 있게 표현할 수 있습니다. 또한, 이 기술이 창의적인 작업에 미치는 영향과 가능성에 대해서도 논의합니다. 손으로 그린 작품을 디지털화하여 새로운 차원의 예술을 창출할 수 있는 기회를 제공합니다.",
+      "keywords": [
+        "ChatGPT Images 2.5",
+        "스케치 변환",
+        "실사 이미지"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T03:03:34.368Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-830/",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "frontend",
+      "title": "모든 개발자가 알아야 할 API 보안 모범 사례",
+      "summary": "API는 현대 소프트웨어의 핵심 요소로, 다양한 서비스와 애플리케이션을 연결합니다. 그러나 API는 공격자에게 가장 흔히 이용되는 공격 표면 중 하나입니다.",
+      "summary_full": "API는 모바일 앱, 마이크로서비스 연결, 파트너 데이터 노출 등 현대 소프트웨어의 기초를 형성합니다. 하지만 API는 공격자에게 가장 많이 노출되는 공격 표면이기도 합니다. 스타트업에서 첫 REST API를 출시하든, 수백 개의 내부 서비스를 관리하든, API 보안의 기본 원칙은 필수적입니다. 개발자들은 이러한 보안 모범 사례를 숙지하여 API를 안전하게 보호해야 합니다.",
+      "keywords": [
+        "API 보안",
+        "모범 사례",
+        "개발자"
+      ],
+      "source": "dev.to",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T02:51:06.000Z",
+      "url": "https://dev.to/tienbku/api-security-best-practices-every-developer-should-know-29gk",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "trend",
+      "title": "잘못된 도구로 AI를 사용하며 두 시간을 낭비한 이야기",
+      "summary": "AI를 사용해 잘못된 머그컵 이미지를 생성한 경험담이다. 결국 문제를 해결한 방법을 공유한다.",
+      "summary_full": "저자는 특정한 제품 사진을 생성하기 위해 AI를 사용했지만, 잘못된 도구를 사용해 두 시간을 낭비했다. 그가 원하는 것은 주방 카운터에 놓인 매트 화이트 세라믹 머그컵이었다. 여러 번 시도했지만 원하는 결과를 얻지 못했고, 결국 문제를 해결하는 방법을 찾게 되었다. 이 경험을 통해 올바른 도구의 중요성을 깨달았다.",
+      "keywords": [
+        "AI",
+        "머그컵",
+        "제품 사진"
+      ],
+      "source": "dev.to",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T02:34:17.000Z",
+      "url": "https://dev.to/noah_miller_f28b7276c4435/i-wasted-two-hours-prompting-ai-before-i-realized-i-was-using-the-wrong-tool-i16",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "industry",
+      "title": "국산 NPU, 가성비로 승부수",
+      "summary": "국산 NPU 기업들이 가격과 전력 효율을 강조하며 글로벌 시장에서 경쟁력을 높이기 위해 노력하고 있다. 실제 서비스에서 비용 대비 성능을 입증해야 한다는 의견이 나왔다.",
+      "summary_full": "조재홍 딥엑스 상무는 국회 정책토론회에서 국산 NPU의 경쟁력을 강조했다. 참석자들은 가격과 전력 효율이 글로벌 시장에서 중요하다고 의견을 모았다. 국산 제품 사용을 요구하기보다 성능을 입증하는 것이 필요하다는 주장이 제기됐다. 이는 국내 AI 인프라 업계의 발전을 위한 중요한 방향성으로 보인다.",
+      "keywords": [
+        "국산 NPU",
+        "가성비",
+        "AI 인프라"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T01:44:11.000Z",
+      "url": "https://byline.network/2026/09/3984928402/",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "trend",
+      "title": "OpenAI, AI 산업 둔화의 법적 문제 검토",
+      "summary": "AI 리더들은 AI 개발 둔화를 조정하려는 긴급한 필요성이 반독점 법에 저촉될 수 있다고 우려하고 있다.",
+      "summary_full": "OpenAI는 AI 산업의 둔화가 법적으로 문제가 될 수 있는지에 대해 논의하고 있다. AI 리더들은 이러한 둔화가 필요하다고 생각하지만, 반독점 법이 이를 방해할 수 있다고 우려하고 있다. 이들은 AI 개발의 속도를 조절하는 것이 중요하다고 보고 있다. 그러나 법적 제약이 그들의 계획에 영향을 미칠 수 있다.",
+      "keywords": [
+        "OpenAI",
+        "AI 산업",
+        "반독점 법"
+      ],
+      "source": "wired.com",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T23:28:42.000Z",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "industry",
+      "title": "8가지 음성 AI UX 패턴",
+      "summary": "신흥 음성 AI UI 패턴과 에이전트 역할, 주요 디자인 결정 및 한계를 탐구한다.",
+      "summary_full": "1922년, 최초의 음성 인식 장난감인 라디오 렉스가 판매되었다. 이 장난감은 사용자가 '렉스'라고 부르면 전자기계가 작동하여 반응했다. 이 연구는 음성 AI의 디자인 패턴과 그에 따른 사용자 경험을 분석한다.",
+      "keywords": [
+        "음성 AI",
+        "UX 패턴",
+        "디자인 결정"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T22:40:55.000Z",
+      "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "industry",
+      "title": "AI 연구자들, 펜타곤의 경고 거부에 반대하다",
+      "summary": "Anthropic의 퇴사 연구원이 AI가 인류에 위협이 될 수 있다고 경고하자, 경쟁 연구소의 고위 과학자들이 이를 지지했다. 반면, 펜타곤의 한 고위 관계자는 이 경고를 거부했다.",
+      "summary_full": "Anthropic의 연구원 제이콥 콕슨이 퇴사하며 AI 기업들이 인류에 위협이 되고 있다고 주장했다. 이에 대해 여러 경쟁 연구소의 고위 과학자들이 그의 주장을 지지하는 반응을 보였다. 그러나 펜타곤의 한 고위 관계자는 이러한 경고를 부인하며 반대 입장을 밝혔다. 이 사건은 AI의 안전성과 관련된 논의에 새로운 불씨를 지폈다.",
+      "keywords": [
+        "AI",
+        "인류위협",
+        "펜타곤"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T21:24:13.000Z",
+      "url": "https://thenextweb.com/news/anthropic-ai-extinction-warning-pentagon-response",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "ai",
+      "title": "T. 로우 프라이스, Anthropic의 Claude AI 툴 사용 확대",
+      "summary": "T. 로우 프라이스가 Anthropic의 Claude AI 툴을 활용하여 투자 전략을 강화하고 있다. 이는 AI 기술을 통해 보다 효율적인 의사결정을 지원하는 방향으로 나아가고 있음을 보여준다.",
+      "summary_full": "T. 로우 프라이스는 최근 Anthropic의 Claude AI 툴 사용을 확대하고 있다. 이 AI 툴은 투자 분석과 의사결정 과정에서 중요한 역할을 할 것으로 기대된다. T. 로우 프라이스는 AI 기술을 통해 투자 전략을 더욱 정교하게 다듬고 있다. 이러한 변화는 금융업계에서 AI의 중요성이 더욱 부각되고 있음을 나타낸다.",
+      "keywords": [
+        "T. 로우 프라이스",
+        "Claude AI",
+        "투자 전략"
+      ],
+      "source": "Google News Anthropic",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T17:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SUm1IOFlZWHRVTXBkRTJ6S05FM1pMX3BzWC1yRE5BQ3JFLUsyS3lnZmJyMzVaa0hJR0FwTzlXbkRSajh4dGtnS0dKcjJmMjZfdVk4N2RSTjA0aFpjUG0wN1NGXzNRVjdKZklNYzA0OFg?oc=5",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "ai",
+      "title": "연구자가 Codex와 ChatGPT를 활용하여 새로운 항균 분자를 탐색하는 방법",
+      "summary": "César de la Fuente의 연구실은 Codex와 ChatGPT를 사용하여 살아있는 유전자와 멸종된 유전자에서 항균 후보 물질을 찾고 있다. 이는 약물 내성 감염에 맞서 싸우기 위한 노력의 일환이다.",
+      "summary_full": "César de la Fuente의 연구실은 Codex와 ChatGPT를 활용하여 다양한 유전체에서 항균 후보 물질을 탐색하고 있다. 이 연구는 살아있는 유전자뿐만 아니라 멸종된 유전자도 포함된다. 목표는 약물 내성 감염에 대응할 수 있는 새로운 항균 분자를 발견하는 것이다. 이러한 접근 방식은 미래의 의학적 도전에 대한 해결책을 제시할 수 있다.",
+      "keywords": [
+        "Codex",
+        "ChatGPT",
+        "항균 분자"
+      ],
+      "source": "OpenAI News",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "design",
@@ -81,6 +225,38 @@
       "publishedAt": "2026-09-10T00:47:54.000Z",
       "url": "https://dev.to/asher_hu_42c5945e09721211/apples-foldable-iphone-ultra-is-coming-what-exactly-is-ten-years-of-grinding-sharpening-1m0n",
       "collectedAt": "2026-09-10"
+    },
+    {
+      "category": "ai",
+      "title": "AI 모델의 전술 정보 및 무기 능력 측정",
+      "summary": "AI 모델의 전술 정보 타겟팅과 전통적 무기 능력을 평가하는 연구이다. 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
+      "summary_full": "이 연구는 AI 모델의 전술 정보 타겟팅 능력과 전통적인 무기 시스템의 성능을 측정하는 데 중점을 둔다. Frontier Red Team은 AI 기술이 군사 작전에서 어떻게 활용될 수 있는지를 분석한다. 연구 결과는 AI의 군사적 응용에 대한 중요한 통찰을 제공할 것이다. 이는 전투 전략 및 무기 개발에 영향을 미칠 수 있다.",
+      "keywords": [
+        "AI 모델",
+        "전술 정보",
+        "무기 능력"
+      ],
+      "source": "Anthropic Research",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "collectedAt": "2026-09-11"
+    },
+    {
+      "category": "ai",
+      "title": "Gradio 워크플로우로 AUTOMATIC1111 재구성하기",
+      "summary": "Gradio 워크플로우를 활용하여 AUTOMATIC1111을 재구성하는 방법을 다룹니다. 이 과정에서의 주요 단계와 이점에 대해 설명합니다.",
+      "summary_full": "이 기사에서는 Gradio 워크플로우를 사용하여 AUTOMATIC1111을 재구성하는 방법을 소개합니다. Gradio는 사용자 인터페이스를 쉽게 만들 수 있는 도구로, 이를 통해 AUTOMATIC1111의 기능을 확장할 수 있습니다. 재구성 과정에서의 주요 단계와 각 단계의 이점을 상세히 설명합니다. 이 방법은 개발자와 사용자 모두에게 유용한 정보를 제공합니다.",
+      "keywords": [
+        "AUTOMATIC1111",
+        "Gradio",
+        "재구성"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "9월 10일",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "industry",
@@ -181,34 +357,34 @@
     {
       "category": "design",
       "title": "버튼의 죽음: 최고의 인터페이스는 인터페이스가 없다",
-      "summary": "그래픽 사용자 인터페이스의 상용화 이후 소프트웨어는 클릭 기반 상호작용에 의존해왔다. 그러나 이제는 복잡한 사용자 인터페이스를 탐색할 필요 없이 더 직관적인 방법이 필요하다.",
-      "summary_full": "그래픽 사용자 인터페이스가 상용화되면서 소프트웨어는 클릭 기반 상호작용에 크게 의존하게 되었다. 사용자는 여행 예약, 신발 구매, 건강 증상 조사 등을 위해 복잡한 인터페이스를 탐색해야 했다. 하지만 이러한 방식은 점점 비효율적으로 여겨지고 있으며, 더 나은 대안이 필요하다. 버튼 없는 인터페이스가 새로운 방향으로 주목받고 있다.",
+      "summary": "그래픽 사용자 인터페이스의 상업화 이후 소프트웨어는 클릭 기반 상호작용에 의존해왔다. 그러나 이제는 복잡한 사용자 인터페이스를 탐색하는 대신 더 직관적인 방법이 필요하다.",
+      "summary_full": "그래픽 사용자 인터페이스가 상업화되면서 소프트웨어는 클릭 기반 상호작용에 크게 의존하게 되었다. 사용자는 여행 예약, 신발 구매, 건강 증상 조사 등을 위해 복잡한 인터페이스를 탐색해야 했다. 하지만 이러한 방식은 점점 더 비효율적이라는 인식이 커지고 있다. 따라서 더 나은 사용자 경험을 위해 버튼 없는 인터페이스와 같은 혁신적인 접근이 필요하다.",
       "keywords": [
         "그래픽 사용자 인터페이스",
-        "클릭 기반 상호작용",
-        "버튼 없는 인터페이스"
+        "사용자 경험",
+        "인터페이스 혁신"
       ],
       "source": "smashingmagazine.com",
       "date": "9월 9일",
       "publishedAt": "2026-09-09T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "frontend",
       "title": "App Router의 장점은 우리에게도 장점일까요?",
-      "summary": "토스뱅크 프론트엔드 개발자 이다용이 App Router와 React Server Components(RSC)의 도입을 검토한 결과, 도입하지 않기로 결정했다.",
-      "summary_full": "토스뱅크는 Next.js의 Pages Router를 사용하고 있으며, 유지보수 모드로 새로운 기능이 추가되지 않는다. 개발팀은 App Router와 RSC의 장점을 검토했으나, 실제 서비스에서 얻는 이득이 적다고 판단했다. 기술그룹을 통해 매주 문제를 공유하며 실험했지만, 최종적으로 도입을 포기했다.",
+      "summary": "토스뱅크 프론트엔드 개발자 이다용이 App Router와 React Server Components에 대해 논의합니다. 팀은 실제 서비스를 옮겨보며 도입 여부를 검토했지만, 최종적으로 도입하지 않기로 결정했습니다.",
+      "summary_full": "토스뱅크 프론트엔드에서는 Next.js Pages Router를 사용하고 있으며, 이는 유지보수 모드입니다. 개발팀은 App Router와 React Server Components의 장점을 살펴보았고, 데이터 로딩 방식이 매력적이라고 느꼈습니다. 그러나 실제 서비스에서 얻을 수 있는 이득이 적다고 판단하여 도입하지 않기로 했습니다. 기술그룹을 통해 매주 막히는 지점을 공유하며 검토한 결과입니다.",
       "keywords": [
         "App Router",
         "React Server Components",
-        "프론트엔드 개발"
+        "Next.js"
       ],
       "source": "toss.tech",
       "date": "9월 9일",
       "publishedAt": "2026-09-09T06:45:00.000Z",
       "url": "https://toss.tech/article/52999",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "design",
@@ -357,18 +533,18 @@
     {
       "category": "ai",
       "title": "알파게놈 아틀라스: 인간 유전체의 모든 가능한 DNA 문자 변화 예측 지도",
-      "summary": "알파게놈 아틀라스는 인간 유전체에서 90억 개의 단일 문자 DNA 변이의 분자적 영향을 매핑합니다. 이는 유전적 변이를 이해하는 데 중요한 도구가 될 것입니다.",
-      "summary_full": "알파게놈 아틀라스는 인간 유전체의 모든 가능한 DNA 문자 변화를 예측하는 지도입니다. 이 프로젝트는 90억 개의 단일 문자 DNA 변이를 분석하여 그 분자적 영향을 매핑합니다. 이를 통해 유전적 변이를 이해하고, 질병 연구 및 치료 개발에 기여할 수 있는 중요한 정보를 제공합니다. 이 지도는 유전체학 연구의 새로운 이정표가 될 것으로 기대됩니다.",
+      "summary": "알파게놈 아틀라스는 인간 유전체에서 90억 개의 단일 문자 DNA 변이의 분자적 영향을 매핑합니다. 이 연구는 유전적 변이가 인간 건강에 미치는 영향을 이해하는 데 기여합니다.",
+      "summary_full": "알파게놈 아틀라스는 인간 유전체 내에서 발생할 수 있는 모든 단일 문자 DNA 변이를 예측하는 지도입니다. 이 프로젝트는 90억 개의 변이에 대한 분자적 효과를 분석하여, 유전적 변이가 질병과 건강에 미치는 영향을 탐구합니다. 이를 통해 연구자들은 유전적 요인과 질병 간의 관계를 더 잘 이해할 수 있게 됩니다. 궁극적으로, 이 연구는 개인 맞춤형 의학의 발전에 기여할 것으로 기대됩니다.",
       "keywords": [
-        "알파게놈",
         "DNA 변이",
-        "유전체학"
+        "유전체 연구",
+        "개인 맞춤형 의학"
       ],
       "source": "Google DeepMind Blog",
       "date": "9월 8일",
       "publishedAt": "2026-09-08T14:00:15.000Z",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "industry",
@@ -1134,8 +1310,8 @@
     {
       "category": "figma",
       "title": "변수 모달에서 투명도를 대규모로 업데이트할 수 있다",
-      "summary": "변수 모달에서 투명도를 대규모로 업데이트하고, 색상에 연결된 상태에서 적용할 수 있다. 색상 변수를 사용하여 숫자 변수를 통해 투명도를 설정하고, 이를 색상 변수에 맞게 구체적으로 범위 설정할 수 있다.",
-      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고, 색상에 연결된 상태에서 적용할 수 있다. 색상을 분리하지 않고도 별칭 투명도를 설정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 이를 특정 색상 변수에 맞게 범위 설정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
+      "summary": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 설정할 수 있다.",
+      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 색상 위에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 설정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 색상 변수에 맞게 범위를 지정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
       "keywords": [
         "투명도",
         "변수 모달",
@@ -1145,7 +1321,7 @@
       "date": "9월 3일",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "industry",
@@ -1485,9 +1661,9 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 사용할 CSS random() 함수",
-      "summary": "CSS random() 함수의 모든 브라우저에서 작동하는 폴리필을 만드는 여정을 다룹니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성되었습니다.",
-      "summary_full": "CSS random() 함수는 앞으로의 CSS에서 중요한 기능이 될 것입니다. 이 글에서는 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 작성된 이 기사는 독자들에게 뉴스레터 구독을 권장합니다. 이를 통해 최신 정보를 받아볼 수 있습니다.",
+      "title": "모든 브라우저에서 CSS random() 함수 사용하기",
+      "summary": "CSS random() 함수의 폴리필을 만들어 모든 브라우저에서 사용할 수 있도록 하는 여정을 다룬다.",
+      "summary_full": "CSS random() 함수는 앞으로의 웹 디자인에서 중요한 역할을 할 예정이다. 이 글에서는 이 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명한다. CSS-Tricks에서 작성된 이 기사는 독자들에게 유용한 정보를 제공한다. 뉴스레터 구독도 추천한다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -1497,7 +1673,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "design",
@@ -3213,9 +3389,9 @@
     },
     {
       "category": "ai",
-      "title": "KT, AI 반도체·LLM 결합 '소버린 AI 어플라이언스' 출시",
-      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업의 데이터 보호와 AI 활용을 동시에 지원하는 혁신적인 솔루션이다.",
-      "summary_full": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업의 데이터 보호와 AI 활용을 동시에 지원하는 혁신적인 솔루션이다. KT는 이 어플라이언스를 통해 고객들이 더욱 안전하고 효율적으로 AI 기술을 활용할 수 있도록 할 계획이다. 또한, 이 제품은 다양한 산업 분야에서 활용될 수 있는 가능성을 가지고 있다.",
+      "title": "KT, AI 반도체와 LLM 결합한 '소버린 AI 어플라이언스' 출시",
+      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 새로운 제품을 출시했다. 이 제품은 고성능 AI 솔루션을 제공하여 다양한 산업에 활용될 예정이다.",
+      "summary_full": "KT는 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 어플라이언스는 고성능 AI 솔루션을 제공하며, 기업의 데이터 처리 및 분석을 지원한다. KT는 이를 통해 다양한 산업 분야에서 AI 기술의 활용을 확대할 계획이다. 이번 출시로 KT는 AI 반도체 시장에서의 경쟁력을 더욱 강화할 것으로 기대된다.",
       "keywords": [
         "KT",
         "AI 반도체",
@@ -3225,7 +3401,7 @@
       "date": "8월 19일",
       "publishedAt": "2026-08-19T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YY0FtYkU4QzhBRzVMOHJtN3RrTlRrVjRPSG14Vm1FRFc2V0ZtOHdwNnhYMkFaaGNheHRwVG01emtqT1RkSzc5VnA5N05UU2VDWDdOQ3d0UzhfM1l6?oc=5",
-      "collectedAt": "2026-09-09"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "ai",
@@ -4511,87 +4687,6 @@
       "collectedAt": "2026-08-12"
     },
     {
-      "category": "design",
-      "title": "힉스필드의 90분 장편영화 공개",
-      "summary": "힉스필드에서 새로운 90분 길이의 장편영화가 공개되었습니다. 많은 이들의 관심을 받고 있는 이 작품을 보셨나요?",
-      "summary_full": "힉스필드에서 90분짜리 장편영화가 공개되었습니다. 이 영화는 다양한 주제를 다루며 관객들의 흥미를 끌고 있습니다. 많은 사람들이 이 영화를 시청하고 있으며, 반응이 뜨겁습니다. 여러분은 이 영화를 보셨나요?",
-      "keywords": [
-        "힉스필드",
-        "장편영화",
-        "영화공개"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T01:28:59.654Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-806/",
-      "collectedAt": "2026-08-11"
-    },
-    {
-      "category": "frontend",
-      "title": "킨들 스크라이브 컬러소프트 분석",
-      "summary": "킨들 스크라이브 컬러소프트의 기술적 특징과 중요성을 심층 분석한다.",
-      "summary_full": "킨들 스크라이브 컬러소프트에 대한 심층 분석을 통해 이 제품의 기술적 특징과 비즈니스적 영향을 탐구한다. 이 기사는 해당 기기의 중요성을 강조하며, 시장에서의 위치를 조명한다. 또한, 기술적 혁신이 독서 경험에 미치는 영향을 논의한다.",
-      "keywords": [
-        "킨들",
-        "스크라이브",
-        "컬러소프트"
-      ],
-      "source": "dev.to",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T01:06:05.000Z",
-      "url": "https://dev.to/norviktech/the-kindle-scribe-colorsoft-an-9ii",
-      "collectedAt": "2026-08-11"
-    },
-    {
-      "category": "trend",
-      "title": "성인 ADHD를 위한 최고의 플래너: 시간과 우선순위 관리를 위한 템플릿과 프린트 가능 자료",
-      "summary": "ADHD를 가진 성인을 위한 효과적인 플래너를 소개합니다. 전통적인 플래너가 부족한 점을 보완하는 다양한 템플릿과 자료를 제공합니다.",
-      "summary_full": "ADHD를 가진 성인에게 시간과 우선순위를 관리하는 것은 어려운 과제가 될 수 있습니다. 전통적인 플래너는 이러한 개인들이 조직적이고 집중력을 유지하는 데 도움이 되지 않는 경우가 많습니다. 이에 따라, 우리는 성인을 위한 최고의 ADHD 플래너와 유용한 템플릿 및 프린트 가능 자료를 선별했습니다. 이 자료들은 ADHD 관리에 효과적일 수 있습니다.",
-      "keywords": [
-        "ADHD 플래너",
-        "시간 관리",
-        "우선순위 설정"
-      ],
-      "source": "dev.to",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T01:00:15.000Z",
-      "url": "https://dev.to/charles_coleman_d760d03c1/best-adhd-planners-for-adults-top-templates-and-printables-for-managing-time-and-priorities-2kid",
-      "collectedAt": "2026-08-11"
-    },
-    {
-      "category": "industry",
-      "title": "밸브, 스팀 머신 구매자에게 사기꾼이 주소를 알고 있다고 경고",
-      "summary": "밸브는 유럽 고객에게 스팀 머신이나 스팀 컨트롤러를 주문한 고객의 배송 정보가 유출되었다고 경고했다. 이는 CEVA 물류회사의 사이버 공격으로 발생한 문제이다.",
-      "summary_full": "밸브는 유럽 고객에게 스팀 머신 또는 스팀 컨트롤러를 주문한 고객의 배송 정보가 유출되었다고 이메일을 통해 경고했다. 이 정보는 CEVA 물류회사가 해킹당하면서 유출되었으며, 밸브는 8월 7일에 이 사실을 통보받았다. 이후 밸브는 유출된 정보를 보호하기 위해 조치를 취하고 있다. 이 사건은 고객의 개인정보 보호에 대한 우려를 불러일으키고 있다.",
-      "keywords": [
-        "밸브",
-        "스팀 머신",
-        "사이버 공격"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T20:38:51.000Z",
-      "url": "https://thenextweb.com/news/valve-steam-machine-ceva-logistics-breach-scam-warning",
-      "collectedAt": "2026-08-11"
-    },
-    {
-      "category": "ai",
-      "title": "저지연 다국어 음성 에이전트 구축: NVIDIA Magpie TTS로 오픈 가중치 및 전체 배포 제어",
-      "summary": "NVIDIA Magpie TTS를 사용하여 저지연 다국어 음성 에이전트를 구축하는 방법을 소개합니다. 오픈 가중치와 전체 배포 제어를 통해 개발자들이 더욱 유연하게 음성 에이전트를 만들 수 있습니다.",
-      "summary_full": "이 기사에서는 NVIDIA Magpie TTS를 활용하여 저지연 다국어 음성 에이전트를 구축하는 방법을 설명합니다. 오픈 가중치를 제공하여 개발자들이 다양한 언어로 음성 모델을 쉽게 구현할 수 있도록 지원합니다. 또한, 전체 배포 제어 기능을 통해 사용자는 자신만의 음성 에이전트를 자유롭게 조정하고 최적화할 수 있습니다. 이러한 기술적 접근은 다국어 음성 인식 및 합성의 효율성을 크게 향상시킵니다.",
-      "keywords": [
-        "저지연",
-        "다국어",
-        "음성 에이전트",
-        "NVIDIA Magpie TTS"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T16:25:36.000Z",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "collectedAt": "2026-08-11"
-    },
-    {
       "category": "frontend",
       "title": "CSS 테두리 이미지 애니메이션",
       "summary": "테두리 이미지는 간과되기 쉬운 기능으로, 애니메이션을 통해 아름다운 효과를 만들어낼 수 있다. 이 글에서는 CSS 테두리 이미지의 애니메이션 기법을 소개한다.",
@@ -4606,70 +4701,6 @@
       "publishedAt": "2026-08-10T15:58:47.000Z",
       "url": "https://css-tricks.com/animating-css-border-image/",
       "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "trend",
-      "title": "오렌지 크러쉬: TAG Heuer, 오리지널 메탈 F1 시계의 화려한 리뉴얼 공개",
-      "summary": "TAG Heuer가 태양광으로 작동하는 한정판 시계를 출시했다. 이는 마지막 네덜란드 그랑프리 기념을 위한 것으로, 매력적인 오렌지 색상이 특징이다.",
-      "summary_full": "TAG Heuer가 오리지널 메탈 F1 시계를 화려하게 리뉴얼한 한정판을 출시했다. 이 시계는 태양광으로 작동하며, 마지막 네덜란드 그랑프리를 기념하기 위해 제작되었다. WIRED가 기다려온 상징적인 오렌지 색상이 돋보인다. 이 시계는 팬들에게 특별한 의미를 지닌다.",
-      "keywords": [
-        "TAG Heuer",
-        "F1 시계",
-        "한정판"
-      ],
-      "source": "wired.com",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T14:47:52.000Z",
-      "url": "https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/",
-      "collectedAt": "2026-08-11"
-    },
-    {
-      "category": "ai",
-      "title": "텍사스의 책임 있는 AI 인프라에 대한 OpenAI의 편지",
-      "summary": "OpenAI는 그렉 애벗 텍사스 주지사에게 책임 있는 AI 인프라에 대한 약속을 담은 편지를 보냈다. 이 편지는 텍사스 주민들에게 이익이 되는 신뢰할 수 있고 투명한 성장을 지지한다.",
-      "summary_full": "OpenAI는 텍사스의 AI 인프라에 대한 책임 있는 접근 방식을 강조하는 편지를 그렉 애벗 주지사에게 전달했다. 이 편지는 AI 기술의 발전이 텍사스 주민들에게 긍정적인 영향을 미치도록 하는 데 중점을 두고 있다. OpenAI는 투명하고 신뢰할 수 있는 성장을 통해 지역 사회에 기여하고자 하는 의지를 표현했다. 이러한 노력은 AI 기술의 안전하고 윤리적인 사용을 촉진하는 데 기여할 것으로 기대된다.",
-      "keywords": [
-        "OpenAI",
-        "AI 인프라",
-        "텍사스"
-      ],
-      "source": "OpenAI News",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T14:00:00.000Z",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "collectedAt": "2026-08-11"
-    },
-    {
-      "category": "industry",
-      "title": "독파모 2차 평가 막바지",
-      "summary": "독파모 프로젝트의 2차 단계평가가 이달 11일 마무리된다. 국민평가단의 사용자 평가가 종료되고, 3개 정예팀이 발표될 예정이다.",
-      "summary_full": "정부의 독자 인공지능 파운데이션 모델 프로젝트인 독파모의 2차 평가가 11일에 종료된다. 8일부터 진행된 국민평가단 200명의 평가가 마무리되며, 최종 3차 평가에 진출할 3개 팀이 12일 전후로 발표될 예정이다. 이번 평가를 통해 각 팀의 전략이 주목받고 있다.",
-      "keywords": [
-        "독파모",
-        "AI",
-        "평가"
-      ],
-      "source": "바이라인네트워크",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T13:40:23.000Z",
-      "url": "https://byline.network/2026/08/0810/",
-      "collectedAt": "2026-08-11"
-    },
-    {
-      "category": "industry",
-      "title": "판단을 병에 담다, 채팅은 잘못된 UI, Design.md",
-      "summary": "디자이너를 위한 주간 큐레이션 자료. 특정 개인의 사고 방식을 포장하는 소프트웨어 개발에 대한 이야기.",
-      "summary_full": "디자이너를 위한 주간 큐레이션 자료를 제공하는 글이다. 현재 특정 개인의 사고 방식을 포장하는 소프트웨어를 개발하고 있으며, 이 제품이 개인의 사고를 대체하는 것이 아니라, 그들이 어려운 결정을 내리는 방식을 다른 사람에게 전달하는 것이 목표이다. 이러한 접근을 통해 개인의 경험과 방법론을 제품화하고자 한다.",
-      "keywords": [
-        "디자인",
-        "소프트웨어",
-        "사용자 인터페이스"
-      ],
-      "source": "uxdesign.cc",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T11:11:29.000Z",
-      "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-11"
     },
     {
       "category": "frontend",
@@ -4689,22 +4720,6 @@
     },
     {
       "category": "ai",
-      "title": "AI 회사 Anthropic의 제약 진출",
-      "summary": "AI 회사 Anthropic이 제약 산업에 진출하겠다고 발표했다. 이는 AI 기술이 제약 개발에 활용될 가능성을 보여준다.",
-      "summary_full": "AI 회사 Anthropic이 약물 개발에 나서겠다고 발표했다. 이는 AI 기술이 제약 산업에 접목될 수 있는 새로운 가능성을 열어준다. AI의 발전이 제약 연구와 개발에 미치는 영향을 기대할 수 있다. 앞으로 AI와 제약의 융합이 어떻게 이루어질지 주목된다.",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "제약 산업"
-      ],
-      "source": "Google News Anthropic",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T01:40:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QeTEySURYRlR1TE4wZzNibXc4SnJjbDhCQnJTOE04dzlhYlVEMnV1VGN3QmRwMF9LYm1tLWxxd1FXcXIwUnVBNHE1elZ6azZUeFFXdHhhcVVWMHppSVRSM2NvUTZWYl9j?oc=5",
-      "collectedAt": "2026-08-11"
-    },
-    {
-      "category": "ai",
       "title": "클로드의 수학적 능력 탐구",
       "summary": "클로드의 수학적 능력을 더 깊이 이해하는 내용이다. 이 기사는 클로드가 수학 문제를 해결하는 방식에 대해 설명한다.",
       "summary_full": "이 글은 클로드의 수학적 능력에 대한 심층적인 탐구를 다룬다. 클로드가 다양한 수학 문제를 어떻게 접근하고 해결하는지를 살펴본다. 이를 통해 클로드의 계산 능력과 문제 해결 전략을 이해할 수 있다. 또한, 이러한 능력이 실제 응용에서 어떻게 활용될 수 있는지에 대한 논의도 포함되어 있다.",
@@ -4718,22 +4733,6 @@
       "publishedAt": "2026-08-10T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/riemann-zeta",
       "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "design",
-      "title": "Baseline이 자바스크립트 배포를 줄이는 방법",
-      "summary": "많은 개발자들이 의존성을 한 번 설치하고 나면 다시는 살펴보지 않는다. 그러나 웹 플랫폼은 계속 발전하고 있으며, 현재 사용 중인 라이브러리 중 상당수가 브라우저에 내장되어 있다.",
-      "summary_full": "대부분의 개발자들은 의존성을 한 번 설치하면 그 후에는 신경을 쓰지 않는다. 하지만 웹 플랫폼은 지속적으로 발전하고 있으며, 현재 package.json에 있는 많은 라이브러리들이 브라우저에 기본적으로 포함되어 있다. 일반적인 중간 규모의 자바스크립트 앱에서는 60KB에서 90KB(압축 및 gzipped)의 의존성이 존재할 수 있다. Baseline은 이러한 의존성을 줄이는 데 도움을 줄 수 있다.",
-      "keywords": [
-        "자바스크립트",
-        "의존성",
-        "웹 플랫폼"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "8월 7일",
-      "publishedAt": "2026-08-07T13:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-      "collectedAt": "2026-08-11"
     },
     {
       "category": "ai",
@@ -4754,8 +4753,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드에 대한 기사를 소개한다. 이 트렌드는 사용자 경험을 개선하기 위한 다양한 혁신적인 요소들을 포함하고 있다. 특히, 시각적 요소와 인터랙션 디자인의 조화가 강조되고 있다. 이러한 변화는 디지털 제품의 사용성을 높이는 데 기여할 것으로 기대된다.",
+      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 이러한 변화는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함한다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 극대화하기 위한 혁신적인 접근 방식을 제시하고 있다. 이러한 트렌드는 인터페이스의 직관성과 접근성을 높이는 데 중점을 두고 있으며, 다양한 색상과 형태의 활용이 두드러진다. 또한, 기술의 발전에 따라 더욱 개인화된 경험을 제공하는 방향으로 나아가고 있다. 이러한 변화는 디자인 업계에 큰 영향을 미치고 있으며, 앞으로의 발전이 기대된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4765,7 +4764,7 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "ai",
@@ -4788,18 +4787,18 @@
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 채용을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 학습 앱의 효과적인 디자인을 이해하기 위해서는 그 기원을 살펴보는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 영향을 미쳤다. 결국, 과거의 교수법이 현대의 언어 학습 도구에 어떻게 반영되었는지를 이해하는 것이 중요하다.",
       "keywords": [
-        "언어 학습",
+        "언어학습",
         "디자인",
-        "역사적 배경"
+        "교육방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "ai",
@@ -4821,9 +4820,9 @@
     },
     {
       "category": "ai",
-      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 가속화하기 위한 협력을 시작했다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 AI 솔루션의 개발과 상용화를 통해 산업 전반에 긍정적인 영향을 미칠 것으로 예상된다. 향후 AI 기술의 진화에 중요한 역할을 할 것으로 기대된다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션을 개발하는 데 중점을 둔다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 촉진하기 위한 협력 관계를 맺었다. 이 협력은 AI 기술의 혁신과 발전을 목표로 하며, 두 회사의 전문성을 결합하여 새로운 솔루션을 창출할 계획이다. 이를 통해 AI 기술의 상용화와 산업 전반에 걸친 적용을 가속화할 예정이다. 향후 이 파트너십이 AI 산업에 미칠 영향이 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4833,7 +4832,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-10"
+      "collectedAt": "2026-09-11"
     },
     {
       "category": "design",
