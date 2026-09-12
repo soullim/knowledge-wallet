@@ -1,38 +1,184 @@
 {
-  "updated": "2026년 9월 11일 AM 03:04",
-  "count": 302,
+  "updated": "2026년 9월 12일 AM 03:11",
+  "count": 296,
   "articles": [
     {
+      "category": "ai",
+      "title": "퍼플렉시티, GPT-6 아스트라에 신뢰를 두다",
+      "summary": "퍼플렉시티는 아스트라를 활용해 커뮤니케이션 작성, 소프트웨어 변경, 생산 시스템 모니터링을 수행한다. 이전 모델보다 훨씬 덜 자주 체크인한다.",
+      "summary_full": "퍼플렉시티는 아스트라를 통해 커뮤니케이션을 작성하고 소프트웨어를 변경하며 생산 시스템을 모니터링하는 데 집중하고 있다. 이 시스템은 이전 모델들보다 더 효율적으로 작동하며, 사용자는 체크인 빈도를 줄일 수 있다. 이를 통해 업무 효율성이 크게 향상되었다. GPT-6 아스트라는 이러한 변화의 핵심 역할을 하고 있다.",
+      "keywords": [
+        "퍼플렉시티",
+        "GPT-6",
+        "아스트라"
+      ],
+      "source": "OpenAI News",
+      "date": "9월 14일",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "collectedAt": "2026-09-12"
+    },
+    {
       "category": "industry",
-      "title": "인테리어 사장님의 성장을 설계하는 사람들",
-      "summary": "인테리어 업계의 성장을 지원하는 전문가들의 이야기입니다. 이들은 시장을 분석하고 전략을 세워 사장님들의 성공을 돕습니다.",
-      "summary_full": "이 기사에서는 인테리어 업계에서 사장님들의 성장을 돕는 전문가들의 역할을 다룹니다. 그들은 시장을 설계하고 분석하여 효과적인 전략을 제시합니다. 이를 통해 사장님들은 경쟁력을 갖추고 사업을 확장할 수 있습니다. 첫 번째 이야기를 통해 이들의 경험과 노하우를 살펴봅니다.",
+      "title": "인테리어 사장님의 성장 설계",
+      "summary": "인테리어 업계에서 사장님들의 성장을 지원하는 사람들에 대한 이야기이다. 이들은 시장을 설계하고 성공적인 비즈니스 모델을 제시한다.",
+      "summary_full": "이 기사에서는 인테리어 사장님들의 성장을 돕는 전문가들의 역할을 조명한다. 그들은 시장의 변화에 맞춰 효과적인 전략을 수립하고 실행한다. 또한, 성공적인 인테리어 비즈니스를 위한 다양한 팁과 사례를 공유한다. 이를 통해 인테리어 업계의 발전을 도모하고자 한다.",
       "keywords": [
         "인테리어",
-        "시장설계",
-        "사업성장"
+        "성장",
+        "시장설계"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 11일",
-      "publishedAt": "2026-09-11T03:03:39.880Z",
+      "date": "9월 12일",
+      "publishedAt": "2026-09-12T03:10:35.599Z",
       "url": "https://www.bucketplace.com/post/2026-09-07-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "design",
       "title": "손으로 그린 스케치를 실사 이미지로 변환하기",
-      "summary": "ChatGPT Images 2.5를 사용하여 손으로 그린 스케치를 실사 이미지로 변환하는 방법에 대해 설명합니다. 이 기술은 창의적인 작업에 혁신을 가져올 수 있습니다.",
-      "summary_full": "이 기사에서는 ChatGPT Images 2.5를 활용하여 손으로 그린 스케치를 실사 이미지로 변환하는 과정을 다룹니다. 사용자는 이 도구를 통해 자신의 스케치를 보다 생동감 있게 표현할 수 있습니다. 또한, 이 기술이 창의적인 작업에 미치는 영향과 가능성에 대해서도 논의합니다. 손으로 그린 작품을 디지털화하여 새로운 차원의 예술을 창출할 수 있는 기회를 제공합니다.",
+      "summary": "손으로 그린 스케치를 실사 이미지로 변환하는 방법을 소개합니다. ChatGPT Images 2.5를 활용하여 창의적인 작업을 지원합니다.",
+      "summary_full": "이 기사에서는 손으로 그린 스케치를 실사 이미지로 변환하는 과정에 대해 설명합니다. ChatGPT Images 2.5를 사용하여 어떻게 이러한 변환이 이루어지는지를 보여줍니다. 이 기술은 아티스트와 디자이너에게 유용한 도구가 될 수 있습니다. 실사 이미지 생성의 가능성을 탐구하며 창의적인 작업을 지원합니다.",
       "keywords": [
-        "ChatGPT Images 2.5",
-        "스케치 변환",
-        "실사 이미지"
+        "스케치",
+        "실사 이미지",
+        "ChatGPT Images 2.5"
       ],
       "source": "Secondbrush Blog",
-      "date": "9월 11일",
-      "publishedAt": "2026-09-11T03:03:34.368Z",
+      "date": "9월 12일",
+      "publishedAt": "2026-09-12T03:10:31.199Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-830/",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
+    },
+    {
+      "category": "frontend",
+      "title": "뉴캐슬 유나이티드, 루이스 홀과 2031년까지 계약 연장",
+      "summary": "루이스 홀이 뉴캐슬 유나이티드와 2031년까지 계약을 연장했다. 이는 기존 계약보다 2년 더 늘어난 것이다.",
+      "summary_full": "루이스 홀이 뉴캐슬 유나이티드와 2031년까지 계약을 연장했다. 이 계약은 기존 계약보다 2년 더 늘어난 것이다. 이 소식은 PA, ESPN, Yahoo 및 클럽 관련 소스를 통해 확인되었다. 홀의 계약 연장은 팀의 미래에 긍정적인 영향을 미칠 것으로 기대된다.",
+      "keywords": [
+        "루이스 홀",
+        "뉴캐슬 유나이티드",
+        "계약 연장"
+      ],
+      "source": "dev.to",
+      "date": "9월 12일",
+      "publishedAt": "2026-09-12T03:08:40.000Z",
+      "url": "https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-hall-signs-new-contract-with-newcastle-until-1cfj",
+      "collectedAt": "2026-09-12"
+    },
+    {
+      "category": "industry",
+      "title": "당신은 뒤처지지 않았다. 피드는 그렇게 느끼게 만들어진다.",
+      "summary": "기술 업계의 많은 사람들은 다른 이들이 더 앞서 있다고 생각하지만, 대부분은 잘못된 생각이다. 이는 공통적인 이유에서 비롯된다.",
+      "summary_full": "기술 업계의 많은 사람들이 자신이 뒤처져 있다고 느끼는 경향이 있다. 그러나 실제로는 대부분의 사람들이 잘못된 판단을 하고 있다. 이러한 현상은 여러 이유에서 기인하며, 이는 업계 전반에 걸쳐 공통적으로 나타난다. 따라서 자신을 비교하기보다는 자신의 길을 가는 것이 중요하다.",
+      "keywords": [
+        "기술",
+        "비교",
+        "심리"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T21:04:03.000Z",
+      "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-12"
+    },
+    {
+      "category": "trend",
+      "title": "인쇄 및 디지털 도서를 위한 전문 내부 디자인 서비스",
+      "summary": "책 출판 시 원고와 표지 디자인에 집중하지만, 내부 디자인도 중요하다. 내부 페이지의 텍스트와 이미지 배치가 가독성과 사용자 경험에 큰 영향을 미친다.",
+      "summary_full": "책 출판을 할 때 원고, 편집, 표지 디자인에 집중하는 경향이 있다. 그러나 독자가 가장 많은 시간을 보내는 내부 디자인은 간과되기 쉽다. 텍스트, 이미지, 간격 및 구조의 배치 방식은 독서 경험에 직접적인 영향을 미친다. 따라서 전문적인 내부 디자인 서비스가 필요하다.",
+      "keywords": [
+        "책 출판",
+        "내부 디자인",
+        "가독성"
+      ],
+      "source": "dev.to",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T19:52:14.000Z",
+      "url": "https://dev.to/ebookwriter_usa/professional-book-interior-design-services-for-print-and-digital-books-3nao",
+      "collectedAt": "2026-09-12"
+    },
+    {
+      "category": "trend",
+      "title": "이번 달 스트리밍할 최고의 TV 쇼 9선 (2026년 9월)",
+      "summary": "이번 달 추천하는 TV 쇼에는 '사우스 파크', '슬로우 호스', '신세기 에반게리온' 등이 포함되어 있다. 레고로 제작된 만달로리안도 놓치지 말아야 할 작품이다.",
+      "summary_full": "2026년 9월에 스트리밍할 최고의 TV 쇼 9가지를 소개한다. 추천작으로는 '사우스 파크', '슬로우 호스', '신세기 에반게리온' 등이 있다. 또한 레고 스타일로 제작된 만달로리안도 주목할 만한 작품이다. 다양한 장르의 쇼들이 포함되어 있어 시청자들의 취향을 만족시킬 것이다.",
+      "keywords": [
+        "TV 쇼",
+        "스트리밍",
+        "추천"
+      ],
+      "source": "wired.com",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T19:36:43.000Z",
+      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "collectedAt": "2026-09-12"
+    },
+    {
+      "category": "industry",
+      "title": "아마존 퀵, 데스크탑에서 사용 가능해져",
+      "summary": "아마존이 macOS와 Windows에서 퀵 데스크탑 어시스턴트를 일반 공개했다. 이는 기업 IT를 위한 관리된 대안으로 제안되고 있다.",
+      "summary_full": "아마존이 퀵 데스크탑 어시스턴트를 macOS와 Windows에서 일반 공개했다. 이 서비스는 기업 IT를 위해 그림자 AI의 관리된 대안으로 제안된다. 퀵은 유럽의 AWS 지역에서 운영되며, 추론은 유럽 내에서 유지된다. 그러나 브란덴부르크에 개설된 주권 클라우드 AWS의 서비스 목록에는 포함되지 않았다.",
+      "keywords": [
+        "아마존",
+        "퀵",
+        "데스크탑 어시스턴트"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T19:07:20.000Z",
+      "url": "https://thenextweb.com/news/amazon-quick-desktop-eu-sovereign-gap",
+      "collectedAt": "2026-09-12"
+    },
+    {
+      "category": "design",
+      "title": "UX ROI 사례 구축하기",
+      "summary": "CFO는 디자인의 실제 비즈니스 효과를 묻는다. UX 디자인은 사용자를 위한 것뿐만 아니라 비즈니스에도 유익해야 한다.",
+      "summary_full": "CFO는 디자인의 실제 비즈니스 효과를 묻는 경우가 많아졌다. 스토리보드는 이 질문에 답할 수 없으며, 짧은 발표로는 부족하다. 현재 UX 예산과 지원을 얻으려면 디자인이 비즈니스에 실질적으로 도움이 되어야 한다. 따라서 UX의 가치를 입증하는 것이 중요하다.",
+      "keywords": [
+        "UX",
+        "ROI",
+        "비즈니스 효과"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+      "collectedAt": "2026-09-12"
+    },
+    {
+      "category": "ai",
+      "title": "앤스로픽, AI 클로드의 생물학 연구 악용 사례 적발",
+      "summary": "앤스로픽이 생물학 연구에서 AI 클로드의 악용 사례 5건을 발견했다. 이들은 위험 회피적인 연구 환경에서 발생한 문제를 예방하기 위한 조치를 취했다.",
+      "summary_full": "앤스로픽은 최근 생물학 연구에서 AI 클로드가 악용된 5건의 사례를 적발했다. 이 사례들은 위험 회피적인 연구 환경에서 발생했으며, 앤스로픽은 이를 예방하기 위한 조치를 시행했다. 연구자들은 AI의 안전한 사용을 보장하기 위해 더욱 철저한 규제를 필요로 하고 있다. 이러한 조치는 향후 유사한 사건을 방지하는 데 중요한 역할을 할 것으로 기대된다.",
+      "keywords": [
+        "앤스로픽",
+        "AI 클로드",
+        "생물학 연구"
+      ],
+      "source": "Google News Anthropic",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T11:40:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdnczNDlTUnlxTUVPdi1YRmIyRzl0WEdzUFlGb2lpdlB5Ni1kbWo0X3ZhLWFncHNhZ3N3bDZFaVQ3ZDVhU1dwdFpfWFRTZXhXNnZZVjdVa2dkMDF0ZWxzVExXdFAyRzFhUW04ck5icHhxSlMwcEFVRTZrNmxBeUlYbUphcUprYThYb3pnelZMT2E3cFJCV1Q4Wms4NkY3Q2JSVFFZRFNGS1VON05BdFhEbVFnQ01leUU?oc=5",
+      "collectedAt": "2026-09-12"
+    },
+    {
+      "category": "industry",
+      "title": "무신사 뷰티, 홍대에 약국과 인디 브랜드 결합",
+      "summary": "무신사 뷰티가 홍대에 오프라인 매장을 열며 약국과 인디 브랜드를 강조하고 있다. 성분 중심의 트렌드에 맞춰 온누리약국과 협업하여 뷰티 시장에 진출한다.",
+      "summary_full": "무신사 뷰티가 홍대에 새로운 매장을 열며 '약국'과 '인디' 브랜드를 중심으로 한 전략을 선보이고 있다. 최근 성분 중심의 뷰티 트렌드에 맞춰 온누리약국과 협업하여 소비자에게 신뢰를 주는 제품을 제공하고 있다. 또한, 온라인 패션 브랜드 발굴 경험을 바탕으로 오프라인 매장과의 연계를 통해 뷰티 시장에서도 성공적인 확장을 목표로 하고 있다. 이러한 전략은 무신사가 뷰티 분야에서도 차별화된 경쟁력을 갖추기 위한 노력으로 해석된다.",
+      "keywords": [
+        "무신사",
+        "뷰티",
+        "홍대",
+        "약국",
+        "인디 브랜드"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 11일",
+      "publishedAt": "2026-09-11T09:42:53.000Z",
+      "url": "https://byline.network/2026/09/10_musinsa/",
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "frontend",
@@ -228,25 +374,25 @@
     },
     {
       "category": "ai",
-      "title": "AI 모델의 전술 정보 및 무기 능력 측정",
-      "summary": "AI 모델의 전술 정보 타겟팅과 전통적 무기 능력을 평가하는 연구이다. 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
-      "summary_full": "이 연구는 AI 모델의 전술 정보 타겟팅 능력과 전통적인 무기 시스템의 성능을 측정하는 데 중점을 둔다. Frontier Red Team은 AI 기술이 군사 작전에서 어떻게 활용될 수 있는지를 분석한다. 연구 결과는 AI의 군사적 응용에 대한 중요한 통찰을 제공할 것이다. 이는 전투 전략 및 무기 개발에 영향을 미칠 수 있다.",
+      "title": "AI 모델의 전술 정보 및 전통 무기 능력 측정",
+      "summary": "AI 모델의 전술 정보 타겟팅 및 전통 무기 능력을 평가하는 연구이다. 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
+      "summary_full": "이 연구는 AI 모델의 전술 정보 타겟팅 능력과 전통 무기 시스템의 성능을 측정하는 데 초점을 맞춘다. AI의 군사적 응용 가능성을 분석하여, 전투에서의 효율성을 높이는 방법을 모색한다. 또한, AI 기술이 군사 전략에 미치는 영향을 평가하고, 향후 발전 방향을 제시한다. 이러한 연구는 군사 분야에서 AI의 역할을 이해하는 데 중요한 기초 자료가 될 것이다.",
       "keywords": [
         "AI 모델",
         "전술 정보",
-        "무기 능력"
+        "군사 기술"
       ],
       "source": "Anthropic Research",
       "date": "9월 10일",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "ai",
       "title": "Gradio 워크플로우로 AUTOMATIC1111 재구성하기",
-      "summary": "Gradio 워크플로우를 활용하여 AUTOMATIC1111을 재구성하는 방법을 다룹니다. 이 과정에서의 주요 단계와 이점에 대해 설명합니다.",
-      "summary_full": "이 기사에서는 Gradio 워크플로우를 사용하여 AUTOMATIC1111을 재구성하는 방법을 소개합니다. Gradio는 사용자 인터페이스를 쉽게 만들 수 있는 도구로, 이를 통해 AUTOMATIC1111의 기능을 확장할 수 있습니다. 재구성 과정에서의 주요 단계와 각 단계의 이점을 상세히 설명합니다. 이 방법은 개발자와 사용자 모두에게 유용한 정보를 제공합니다.",
+      "summary": "Gradio 워크플로우를 활용하여 AUTOMATIC1111을 재구성하는 방법을 소개한다. 이 과정은 사용자 인터페이스를 개선하고 기능을 확장하는 데 중점을 둔다.",
+      "summary_full": "이 기사에서는 Gradio 워크플로우를 사용하여 AUTOMATIC1111을 재구성하는 방법을 설명한다. Gradio는 인터랙티브한 웹 애플리케이션을 쉽게 만들 수 있도록 도와주는 라이브러리이다. AUTOMATIC1111의 기능을 향상시키고 사용자 경험을 개선하기 위한 여러 접근 방식을 다룬다. 최종적으로, 이 작업은 개발자와 사용자 모두에게 유용한 도구가 될 것이다.",
       "keywords": [
         "AUTOMATIC1111",
         "Gradio",
@@ -256,7 +402,7 @@
       "date": "9월 10일",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "industry",
@@ -373,18 +519,18 @@
     {
       "category": "frontend",
       "title": "App Router의 장점은 우리에게도 장점일까요?",
-      "summary": "토스뱅크 프론트엔드 개발자 이다용이 App Router와 React Server Components에 대해 논의합니다. 팀은 실제 서비스를 옮겨보며 도입 여부를 검토했지만, 최종적으로 도입하지 않기로 결정했습니다.",
-      "summary_full": "토스뱅크 프론트엔드에서는 Next.js Pages Router를 사용하고 있으며, 이는 유지보수 모드입니다. 개발팀은 App Router와 React Server Components의 장점을 살펴보았고, 데이터 로딩 방식이 매력적이라고 느꼈습니다. 그러나 실제 서비스에서 얻을 수 있는 이득이 적다고 판단하여 도입하지 않기로 했습니다. 기술그룹을 통해 매주 막히는 지점을 공유하며 검토한 결과입니다.",
+      "summary": "토스뱅크 프론트엔드 개발자 이다용이 App Router와 React Server Components를 검토했으나 도입하지 않기로 결정했다. Pages Router는 유지보수 모드로 새로운 기능이 추가되지 않는다.",
+      "summary_full": "토스뱅크 프론트엔드에서는 Next.js Pages Router를 사용하고 있으며, 이는 유지보수 모드에 있다. 이다용 개발자는 App Router와 React Server Components를 고려했으나, 실제 서비스에서 얻을 수 있는 이득이 적다고 판단했다. 동료들과 기술그룹을 만들어 실험했으나 도입하지 않기로 결론지었다.",
       "keywords": [
         "App Router",
-        "React Server Components",
-        "Next.js"
+        "Next.js",
+        "프론트엔드 개발"
       ],
       "source": "toss.tech",
       "date": "9월 9일",
       "publishedAt": "2026-09-09T06:45:00.000Z",
       "url": "https://toss.tech/article/52999",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "design",
@@ -533,18 +679,18 @@
     {
       "category": "ai",
       "title": "알파게놈 아틀라스: 인간 유전체의 모든 가능한 DNA 문자 변화 예측 지도",
-      "summary": "알파게놈 아틀라스는 인간 유전체에서 90억 개의 단일 문자 DNA 변이의 분자적 영향을 매핑합니다. 이 연구는 유전적 변이가 인간 건강에 미치는 영향을 이해하는 데 기여합니다.",
-      "summary_full": "알파게놈 아틀라스는 인간 유전체 내에서 발생할 수 있는 모든 단일 문자 DNA 변이를 예측하는 지도입니다. 이 프로젝트는 90억 개의 변이에 대한 분자적 효과를 분석하여, 유전적 변이가 질병과 건강에 미치는 영향을 탐구합니다. 이를 통해 연구자들은 유전적 요인과 질병 간의 관계를 더 잘 이해할 수 있게 됩니다. 궁극적으로, 이 연구는 개인 맞춤형 의학의 발전에 기여할 것으로 기대됩니다.",
+      "summary": "알파게놈 아틀라스는 인간 유전체에서 90억 개의 단일 문자 DNA 변이의 분자적 영향을 매핑합니다. 이 지도는 유전적 변이가 인간 건강에 미치는 영향을 이해하는 데 도움을 줍니다.",
+      "summary_full": "알파게놈 아틀라스는 인간 유전체 내에서 발생할 수 있는 모든 단일 문자 DNA 변이를 예측하는 지도입니다. 이 프로젝트는 90억 개의 변이에 대한 분자적 영향을 분석하여, 유전적 변이가 건강에 미치는 영향을 연구하는 데 기여합니다. 이를 통해 연구자들은 유전자 변이가 질병과 어떻게 연관되는지를 더 잘 이해할 수 있습니다. 이 지도는 유전학 연구와 개인 맞춤형 의학의 발전에 중요한 역할을 할 것으로 기대됩니다.",
       "keywords": [
+        "알파게놈",
         "DNA 변이",
-        "유전체 연구",
-        "개인 맞춤형 의학"
+        "유전체"
       ],
       "source": "Google DeepMind Blog",
       "date": "9월 8일",
       "publishedAt": "2026-09-08T14:00:15.000Z",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "industry",
@@ -1311,7 +1457,7 @@
       "category": "figma",
       "title": "변수 모달에서 투명도를 대규모로 업데이트할 수 있다",
       "summary": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 설정할 수 있다.",
-      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 색상 위에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 설정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 색상 변수에 맞게 범위를 지정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
+      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 모든 색상 위에 적용할 수 있다. 색상을 분리하지 않고도 라이브러리에 연결된 상태로 투명도를 설정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 이를 색상 변수에 맞게 구체적으로 범위를 지정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
       "keywords": [
         "투명도",
         "변수 모달",
@@ -1321,7 +1467,7 @@
       "date": "9월 3일",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "industry",
@@ -1661,9 +1807,9 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 CSS random() 함수 사용하기",
-      "summary": "CSS random() 함수의 폴리필을 만들어 모든 브라우저에서 사용할 수 있도록 하는 여정을 다룬다.",
-      "summary_full": "CSS random() 함수는 앞으로의 웹 디자인에서 중요한 역할을 할 예정이다. 이 글에서는 이 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명한다. CSS-Tricks에서 작성된 이 기사는 독자들에게 유용한 정보를 제공한다. 뉴스레터 구독도 추천한다.",
+      "title": "모든 브라우저에서 사용할 수 있는 emergent CSS random() 함수",
+      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수의 개발 과정을 설명하며, 이를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 방법을 제시합니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성되었습니다. 독자들은 뉴스레터 구독도 추천합니다. CSS의 새로운 기능을 활용할 수 있는 기회를 제공합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -1673,7 +1819,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "design",
@@ -3390,8 +3536,8 @@
     {
       "category": "ai",
       "title": "KT, AI 반도체와 LLM 결합한 '소버린 AI 어플라이언스' 출시",
-      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 새로운 제품을 출시했다. 이 제품은 고성능 AI 솔루션을 제공하여 다양한 산업에 활용될 예정이다.",
-      "summary_full": "KT는 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 어플라이언스는 고성능 AI 솔루션을 제공하며, 기업의 데이터 처리 및 분석을 지원한다. KT는 이를 통해 다양한 산업 분야에서 AI 기술의 활용을 확대할 계획이다. 이번 출시로 KT는 AI 반도체 시장에서의 경쟁력을 더욱 강화할 것으로 기대된다.",
+      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 새로운 제품인 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 다양한 AI 응용 프로그램에 활용될 수 있도록 설계되었다.",
+      "summary_full": "KT는 AI 반도체와 대형 언어 모델(LLM)을 통합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 고성능 AI 처리를 위한 최적화된 솔루션으로, 기업의 다양한 AI 응용 프로그램에 활용될 수 있다. KT는 이를 통해 AI 기술의 발전과 함께 고객에게 혁신적인 서비스를 제공할 계획이다. 또한, 이 어플라이언스는 데이터 처리 속도와 효율성을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "KT",
         "AI 반도체",
@@ -3401,7 +3547,7 @@
       "date": "8월 19일",
       "publishedAt": "2026-08-19T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YY0FtYkU4QzhBRzVMOHJtN3RrTlRrVjRPSG14Vm1FRFc2V0ZtOHdwNnhYMkFaaGNheHRwVG01emtqT1RkSzc5VnA5N05UU2VDWDdOQ3d0UzhfM1l6?oc=5",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "ai",
@@ -4495,70 +4641,6 @@
       "collectedAt": "2026-08-13"
     },
     {
-      "category": "design",
-      "title": "연간 결제를 유도하는 무제한 요금제 주의",
-      "summary": "무제한 요금제가 연간 결제를 유도할 수 있는 위험이 있다. 소비자는 이러한 요금제를 선택할 때 신중해야 한다.",
-      "summary_full": "무제한 요금제는 매력적으로 보일 수 있지만, 연간 결제를 요구하는 경우가 많다. 이러한 요금제를 선택할 때는 실제 사용량과 필요성을 고려해야 한다. 또한, 계약 조건을 면밀히 검토하여 불필요한 비용을 피하는 것이 중요하다. 소비자들은 항상 신중하게 결정을 내려야 한다.",
-      "keywords": [
-        "무제한 요금제",
-        "연간 결제",
-        "소비자 주의"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "8월 12일",
-      "publishedAt": "2026-08-12T01:46:50.993Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-807/",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "frontend",
-      "title": "침투 테스트 프로젝트 보고서 (Metasploitable3)",
-      "summary": "Metasploitable3 시스템과 Kali 공격 머신을 활용한 침투 테스트 프로젝트의 첫 단계인 설정 및 대상 발견에 대한 보고서이다.",
-      "summary_full": "이 보고서는 Metasploitable3-ub1404 시스템과 Kali 공격 머신을 사용하여 가상 머신을 관리하고 실행하는 방법을 설명한다. 또한, 대상의 IP 주소를 확인하는 과정도 포함되어 있다. 이 프로젝트는 침투 테스트의 기초적인 단계를 다루고 있다.",
-      "keywords": [
-        "침투 테스트",
-        "Metasploitable3",
-        "Kali"
-      ],
-      "source": "dev.to",
-      "date": "8월 12일",
-      "publishedAt": "2026-08-12T01:37:42.000Z",
-      "url": "https://dev.to/mohammadali_30/penetration-testing-project-report-metasploitable3-bi3",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "trend",
-      "title": "무료 랜딩 페이지 - 랜딩 노코드",
-      "summary": "노코드 AI 에이전트 빌더로 초보자도 쉽게 사용할 수 있습니다. HTML 파일을 저장하고 브라우저에서 열거나 Netlify/Vercel에 무료로 배포할 수 있습니다.",
-      "summary_full": "이 랜딩 페이지는 노코드 AI 에이전트 빌더로, 색상이 다채롭고 초보자 친화적입니다. 사용자는 HTML 파일을 저장한 후, 어떤 브라우저에서든 열 수 있으며, Netlify 또는 Vercel에 무료로 배포할 수 있습니다. 이 페이지는 OmniIncome-v1에 의해 AI를 사용하여 제작되었습니다. 지원 관련 정보는 제공된 코드로 확인할 수 있습니다.",
-      "keywords": [
-        "랜딩 페이지",
-        "노코드",
-        "AI 에이전트"
-      ],
-      "source": "dev.to",
-      "date": "8월 12일",
-      "publishedAt": "2026-08-12T00:48:03.000Z",
-      "url": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-nocode-1imj",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "industry",
-      "title": "마크 저커버그, 오픈AI·앤트로픽의 중앙화된 정렬에 반기",
-      "summary": "마크 저커버그는 초지능의 위험성에 대한 해법으로 경쟁사와 다른 입장을 제시했다. 그는 초지능이 소수에게 독점되는 것이 위험하다고 주장하며, 모두가 이를 보유해야 한다고 강조했다.",
-      "summary_full": "마크 저커버그 메타 CEO가 초지능의 위험성에 대해 오픈AI·앤트로픽 등 경쟁사와 상반된 해법을 제시했다. 그는 안전을 위해 모델에 통일된 가치·기준을 학습시켜야 한다는 경쟁사들과 달리, 초지능이 소수에게 독점되는 것이 위험하다고 주장했다. 저커버그는 모두가 초지능을 보유해 서로 견제해야 한다는 입장을 밝혔다. 이러한 그의 주장은 AI 기술의 중앙화 문제에 대한 새로운 시각을 제공한다.",
-      "keywords": [
-        "마크 저커버그",
-        "초지능",
-        "AI 중앙화"
-      ],
-      "source": "바이라인네트워크",
-      "date": "8월 12일",
-      "publishedAt": "2026-08-12T00:20:47.000Z",
-      "url": "https://byline.network/2026/08/superintelligence/",
-      "collectedAt": "2026-08-12"
-    },
-    {
       "category": "ai",
       "title": "근로자 재훈련 프로그램에 대한 증거 검토",
       "summary": "근로자 재훈련 프로그램의 효과에 대한 연구를 검토한다. 이 연구는 다양한 프로그램의 성과와 그에 따른 경제적 영향을 분석한다.",
@@ -4573,86 +4655,6 @@
       "publishedAt": "2026-08-12T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
       "collectedAt": "2026-08-13"
-    },
-    {
-      "category": "industry",
-      "title": "AI로 강화된 암호화폐 사기, 1,400% 증가",
-      "summary": "2025년 암호화폐 사기 중 가장 큰 증가율을 보이며, 사기 피해 금액도 크게 상승했다. Chainalysis에 따르면, 평균 사기 결제액이 600% 이상 증가했다.",
-      "summary_full": "Chainalysis에 따르면 2025년 암호화폐 사기 중 인물 사기가 1,400% 증가했다. 평균 사기 결제액은 $782에서 $2,764로 상승했다. 이는 더 많은 사람들이 사기를 시도하기 때문이 아니라, AI가 사기를 더욱 정교하게 만들었기 때문이다. 이러한 변화는 모든 사기 카테고리에서 관찰되었다.",
-      "keywords": [
-        "암호화폐",
-        "사기",
-        "AI"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T21:49:36.000Z",
-      "url": "https://thenextweb.com/news/crypto-impersonation-scams-1400-percent-ai-deepfake-fraud",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "industry",
-      "title": "스타워즈가 AI에 대해 올바르게 묘사한 점",
-      "summary": "AI의 두 가지 미래를 다룬다: 외로운 오라클과 혼잡한 쓰레기장. 현재 AI는 저렴하고 전문화되어 있으며, 우리의 일상에 스며들고 있다.",
-      "summary_full": "AI에 대한 두 가지 상반된 과학 소설적 비전이 존재한다. 하나는 외로운 오라클로, 다른 하나는 혼잡한 쓰레기장이다. 현재 AI는 저렴하고 전문화된 형태로 우리의 일상에 널리 퍼져 있다. 이러한 비전은 인공지능이 어떻게 우리의 작업 환경에 도달하고 있는지를 보여준다.",
-      "keywords": [
-        "AI",
-        "스타워즈",
-        "과학 소설"
-      ],
-      "source": "uxdesign.cc",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T21:06:50.000Z",
-      "url": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "trend",
-      "title": "상추를 먹어도 안전한가?",
-      "summary": "상추를 먹는 것에 대한 사이클로스포라 위험이 줄어들었다고 전문가가 전했다. 해당 제품은 시장에서 퇴출되었기 때문에 안전성이 높아졌다는 의견이다.",
-      "summary_full": "전문가는 현재 상추를 먹는 것에 대한 사이클로스포라 감염 위험이 낮아졌다고 밝혔다. 이는 해당 제품이 시장에서 퇴출되었기 때문이라고 설명했다. 따라서 소비자들은 상추를 안전하게 섭취할 수 있을 것으로 보인다. 식품 안전에 대한 우려가 줄어든 상황이다.",
-      "keywords": [
-        "상추",
-        "사이클로스포라",
-        "식품 안전"
-      ],
-      "source": "wired.com",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T20:26:01.000Z",
-      "url": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "ai",
-      "title": "ACE에 대한 생각? 더 적은 토큰으로 가능합니다",
-      "summary": "ACE에 대한 접근 방식을 제안합니다. 더 적은 토큰으로 효과적인 결과를 얻을 수 있는 방법을 탐구합니다.",
-      "summary_full": "ACE(Adaptive Computing Environment)에 대한 새로운 접근 방식을 제안합니다. 이 방법은 기존의 방식보다 더 적은 토큰을 사용하여 효율성을 높이는 데 중점을 둡니다. 이를 통해 비용 절감과 성능 향상을 동시에 이룰 수 있는 가능성을 보여줍니다. 다양한 사례를 통해 이 접근 방식의 유용성을 입증하고자 합니다.",
-      "keywords": [
-        "ACE",
-        "토큰",
-        "효율성"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T13:37:10.000Z",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "ai",
-      "title": "보이지 않는 AI 워터마크: 앤트로픽이 모든 클로드 텍스트에 마킹 시작",
-      "summary": "앤트로픽이 AI 텍스트에 보이지 않는 워터마크를 추가하기 시작했다. 이를 통해 생성된 콘텐츠의 출처를 추적할 수 있게 된다.",
-      "summary_full": "앤트로픽은 모든 클로드 텍스트에 보이지 않는 AI 워터마크를 추가하기 시작했다. 이 기술은 생성된 콘텐츠의 출처를 명확히 하고, 저작권 보호를 강화하는 데 기여할 것으로 기대된다. 워터마크는 사용자가 인식하지 못하는 방식으로 삽입되어, 텍스트의 진위를 확인할 수 있는 새로운 방법을 제공한다. 이는 AI 기술의 발전과 함께 콘텐츠의 신뢰성을 높이는 중요한 단계로 평가된다.",
-      "keywords": [
-        "AI",
-        "워터마크",
-        "앤트로픽"
-      ],
-      "source": "Google News Anthropic",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T11:34:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0dVcnZNTllsNTNmX3NpNGlNQ2JUWjQ5NENUeHZOVWtDZUdRQUlxS1NCZnZXMGFQZkc1SHp2Y3ktSEEyek1GbVdiUVJhNHBjN0Z1S2ZsTURELUFUWVNySzNNTzNLa2MzcmpHSTB5b0R6YURRdVEyc2x4Y1BvRHhiLVBHVzBVZTUzNTJ2YnA3Mm5ranJ6NXI3TGhOTzRDRC1qbXo3MUdjY004M1VjZS1ZRlBB0gG6AUFVX3lxTFBpUE1uUVAwMDg3WWZFNVo0QkVFcjRwWWRIeUF1a0UydjF2RzBHVHhjOW1yUzNKOU9VM3lpUUxMcVJ3VDRaNE5hS1d3X0lsN1hVejBUS1R2YmVwSEg3ZDR3aWMyNkl1UDhaZUR3b3lPcmVPVXFRVWdfZnRFaXotd2hpemVPZ0NidHhWMUlOLTc0T0E3NVVfejdzZEd4WHAyc3RwT3VFNTEyR1N5TDRVUTRFVnpvN0Q5YThuZw?oc=5",
-      "collectedAt": "2026-08-12"
     },
     {
       "category": "design",
@@ -4671,90 +4673,10 @@
       "collectedAt": "2026-08-13"
     },
     {
-      "category": "ai",
-      "title": "ChatGPT에서 광고 테스트",
-      "summary": "OpenAI가 무료 접근을 지원하기 위해 ChatGPT에서 광고 테스트를 시작했다. 광고는 명확하게 표시되며, 사용자에게 독립적인 답변과 강력한 개인정보 보호, 사용자 제어를 제공한다.",
-      "summary_full": "OpenAI는 ChatGPT에서 광고를 테스트하여 무료 서비스를 지원하고자 한다. 이 광고는 사용자에게 명확하게 표시되며, 사용자의 질문에 대한 독립적인 답변을 유지한다. 또한, 강력한 개인정보 보호 조치를 마련하고 사용자에게 광고에 대한 제어권을 부여한다. 이러한 조치는 사용자 경험을 개선하고 광고의 투명성을 높이기 위한 것이다.",
-      "keywords": [
-        "ChatGPT",
-        "광고 테스트",
-        "개인정보 보호"
-      ],
-      "source": "OpenAI News",
-      "date": "8월 11일",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "frontend",
-      "title": "CSS 테두리 이미지 애니메이션",
-      "summary": "테두리 이미지는 간과되기 쉬운 기능으로, 애니메이션을 통해 아름다운 효과를 만들어낼 수 있다. 이 글에서는 CSS 테두리 이미지의 애니메이션 기법을 소개한다.",
-      "summary_full": "테두리 이미지는 종종 간과되는 기능으로, 요소의 전체 테두리를 가로지르는 슬라이스를 사용할 수 있다. 이를 애니메이션으로 만들면 시각적으로 매력적인 효과를 생성할 수 있다. 이 글은 CSS-Tricks에서 손수 작성되어 게시된 내용을 바탕으로 한다. 뉴스레터 구독도 추천한다.",
-      "keywords": [
-        "CSS",
-        "테두리 이미지",
-        "애니메이션"
-      ],
-      "source": "css-tricks.com",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T15:58:47.000Z",
-      "url": "https://css-tricks.com/animating-css-border-image/",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "frontend",
-      "title": "모노리포 희망편, 절망의 리포가 희망의 리포로 부활하기까지 걸린 1년",
-      "summary": "토스의 프론트엔드 엔지니어들이 동일한 개발 환경에서 제품을 업데이트하며 사용자 경험을 개선하고 있다. 최신 버전의 React와 Next.js를 사용하여 혁신적인 기능을 제공하고 있다.",
-      "summary_full": "토스 클라이언트 엔지니어링 팀은 100명이 넘는 프론트엔드 엔지니어들이 참여하여 다양한 제품을 개발하고 매일 수백 번의 업데이트를 진행하고 있다. 모든 제품은 최신 버전의 React 19와 Next.js 15를 사용하여 일관된 개발 환경을 유지하고 있다. 이를 통해 사용자들은 React Concurrent Mode 및 React Server Components와 같은 최신 기능을 경험할 수 있다. 이러한 접근 방식은 제품의 품질과 사용자 경험을 크게 향상시키고 있다.",
-      "keywords": [
-        "토스",
-        "프론트엔드",
-        "React"
-      ],
-      "source": "toss.tech",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T02:40:00.000Z",
-      "url": "https://toss.tech/article/52209",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "ai",
-      "title": "클로드의 수학적 능력 탐구",
-      "summary": "클로드의 수학적 능력을 더 깊이 이해하는 내용이다. 이 기사는 클로드가 수학 문제를 해결하는 방식에 대해 설명한다.",
-      "summary_full": "이 글은 클로드의 수학적 능력에 대한 심층적인 탐구를 다룬다. 클로드가 다양한 수학 문제를 어떻게 접근하고 해결하는지를 살펴본다. 이를 통해 클로드의 계산 능력과 문제 해결 전략을 이해할 수 있다. 또한, 이러한 능력이 실제 응용에서 어떻게 활용될 수 있는지에 대한 논의도 포함되어 있다.",
-      "keywords": [
-        "클로드",
-        "수학적 능력",
-        "문제 해결"
-      ],
-      "source": "Anthropic Research",
-      "date": "8월 10일",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "collectedAt": "2026-08-12"
-    },
-    {
-      "category": "ai",
-      "title": "WeatherNext: AI 모델, 사이클론 예측의 혁신 달성",
-      "summary": "WeatherNext라는 AI 모델이 사이클론 예측에서 획기적인 성과를 올렸다. 이 모델은 기상 예측의 정확성을 크게 향상시킬 것으로 기대된다.",
-      "summary_full": "WeatherNext라는 AI 모델이 사이클론 예측에서 혁신적인 성과를 달성했다. 이 모델은 기존의 예측 방법보다 더 높은 정확도를 제공하여 기상 예측의 신뢰성을 높인다. 연구진은 이 기술이 자연재해에 대한 대응력을 강화할 것으로 기대하고 있다. 사이클론 예측의 발전은 인명과 재산 보호에 중요한 역할을 할 것이다.",
-      "keywords": [
-        "AI 모델",
-        "사이클론 예측",
-        "기상 예측"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "8월 6일",
-      "publishedAt": "2026-08-06T15:06:15.000Z",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "collectedAt": "2026-08-12"
-    },
-    {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 이러한 변화는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 극대화하기 위한 혁신적인 접근 방식을 제시하고 있다. 이러한 트렌드는 인터페이스의 직관성과 접근성을 높이는 데 중점을 두고 있으며, 다양한 색상과 형태의 활용이 두드러진다. 또한, 기술의 발전에 따라 더욱 개인화된 경험을 제공하는 방향으로 나아가고 있다. 이러한 변화는 디자인 업계에 큰 영향을 미치고 있으며, 앞으로의 발전이 기대된다.",
+      "summary": "디자이너들이 최근 주목하고 있는 UX/UI 트렌드를 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "최근 UX/UI 디자인 분야에서 주목받고 있는 새로운 트렌드에 대해 살펴본다. 디자이너들은 사용자 경험을 극대화하기 위해 다양한 혁신적인 방법을 모색하고 있다. 이러한 트렌드는 기술 발전과 함께 변화하고 있으며, 사용자 중심의 디자인이 더욱 중요해지고 있다. 이 글에서는 이러한 트렌드의 주요 요소들을 분석하고, 향후 디자인 방향성을 제시한다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4764,41 +4686,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-11"
-    },
-    {
-      "category": "ai",
-      "title": "윈즈의 멀티 LLM 통합 오케스트레이션 에이전트 '아이오나' 출시",
-      "summary": "윈즈가 질문 답변 중심에서 실행 중심으로 패러다임을 전환하며 '아이오나'를 정식 출시했다.",
-      "summary_full": "윈즈는 멀티 LLM 통합 오케스트레이션 에이전트인 '아이오나'를 출시하여 질문 답변 중심의 접근 방식에서 실행 중심으로의 패러다임 전환을 시도하고 있다. 이 에이전트는 다양한 LLM을 통합하여 사용자에게 더 나은 실행 경험을 제공하는 것을 목표로 한다. '아이오나'는 기업의 업무 효율성을 높이는 데 기여할 것으로 기대된다. 이러한 변화는 AI 기술의 발전과 함께 이루어지고 있다.",
-      "keywords": [
-        "윈즈",
-        "아이오나",
-        "멀티 LLM",
-        "오케스트레이션",
-        "AI 기술"
-      ],
-      "source": "Google News AI (KR)",
-      "date": "8월 3일",
-      "publishedAt": "2026-08-03T01:07:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pLWNyaEliM3FkYUtKcTRHUnFLenQ2V1Q0Vy1pX2thMDVySGdkN1BjY3VSazFxRlAxRmpVZFNoRGZQcFlPRVp1NlgzVm9ITjFLRm8zeV9xVUp0MVE5N0JWVVpLSkV0TzdISlJSVEVsX2HSAXRBVV95cUxNMXJWbnNSdGI5elNfODF1OU5Ba0VjdlU0V2dGSlNseXdMV2hCWjlKeDJvRVR6cndVbXk3UFhtZ2dBcXFWdjZ3aHU0bU9hM0hLYkJyeXQwcWNsRWNDbWV6dWRRS0ZtY2JRSWlqY2pQVTl3a2F0Zg?oc=5",
-      "collectedAt": "2026-08-12"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 영향을 미쳤다. 결국, 과거의 교수법이 현대의 언어 학습 도구에 어떻게 반영되었는지를 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경을 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
       "keywords": [
-        "언어학습",
-        "디자인",
-        "교육방법"
+        "언어 앱",
+        "라틴어",
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "ai",
@@ -4820,9 +4724,9 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션을 개발하는 데 중점을 둔다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 촉진하기 위한 협력 관계를 맺었다. 이 협력은 AI 기술의 혁신과 발전을 목표로 하며, 두 회사의 전문성을 결합하여 새로운 솔루션을 창출할 계획이다. 이를 통해 AI 기술의 상용화와 산업 전반에 걸친 적용을 가속화할 예정이다. 향후 이 파트너십이 AI 산업에 미칠 영향이 기대된다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화한다. 이 협력은 AI 기술의 발전과 상용화를 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화하는 프로젝트를 시작한다. 이 협력은 AI 기술의 발전을 가속화하고, 다양한 산업에 AI 솔루션을 통합하는 데 중점을 둔다. 두 회사는 혁신적인 기술을 통해 시장 경쟁력을 높이고, 고객에게 더 나은 서비스를 제공할 계획이다. 이러한 협력은 AI 기술의 상용화와 산업 전반에 긍정적인 영향을 미칠 것으로 예상된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4832,7 +4736,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-11"
+      "collectedAt": "2026-09-12"
     },
     {
       "category": "design",
