@@ -1,22 +1,166 @@
 {
-  "updated": "2026년 9월 15일 AM 03:28",
-  "count": 289,
+  "updated": "2026년 9월 16일 AM 03:24",
+  "count": 293,
   "articles": [
     {
       "category": "industry",
       "title": "인테리어 사장님의 성장을 설계하는 사람들",
-      "summary": "인테리어 시장에서 사장님들의 성장을 지원하는 전문가들에 대한 이야기이다. 이들은 시장을 설계하고 비즈니스 모델을 혁신하는 역할을 한다.",
-      "summary_full": "이 기사에서는 인테리어 업계에서 사장님들의 성장을 돕는 전문가들의 역할을 조명한다. 이들은 시장을 분석하고, 효과적인 비즈니스 전략을 개발하여 사장님들이 성공할 수 있도록 지원한다. 또한, 이들의 노력이 인테리어 시장 전반에 미치는 긍정적인 영향을 다룬다. 첫 번째 이야기를 통해 이들의 경험과 통찰을 공유한다.",
+      "summary": "인테리어 업계의 성장을 지원하는 전문가들의 이야기를 다룬다. 이들은 시장을 설계하고 사장님들의 성공을 돕는 역할을 한다.",
+      "summary_full": "이 기사는 인테리어 업계에서 활동하는 전문가들이 어떻게 사장님들의 성장을 돕는지를 탐구한다. 그들은 시장의 동향을 분석하고, 효과적인 전략을 제시하여 성공적인 비즈니스를 이끌어낸다. 또한, 이들이 제공하는 서비스와 지원이 인테리어 사장님들에게 어떤 긍정적인 영향을 미치는지를 살펴본다. 첫 번째 이야기로, 이들의 경험과 인사이트를 통해 업계의 미래를 조망한다.",
       "keywords": [
         "인테리어",
         "비즈니스 성장",
         "시장 설계"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 15일",
-      "publishedAt": "2026-09-15T03:27:21.090Z",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T03:23:13.194Z",
       "url": "https://www.bucketplace.com/post/2026-09-07-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "trend",
+      "title": "무료 모델 빈 상태 승인 전 복구 증거 제시",
+      "summary": "디자인 리뷰에서 빈 상태의 승인 절차를 점검한다. 결제 실패 메시지의 의미와 복구 과정에 대한 명확한 이해가 필요하다.",
+      "summary_full": "디자인 리뷰에서 빈 상태의 승인 절차를 점검하며, 이를 프로토콜로 다루어야 한다. 결제 실패 메시지에서 '우리가' 누구인지와 재시도 과정의 복구 창에 대한 명확한 이해가 필요하다. 디자이너는 최종 결정을 내릴 책임이 있으며, 재정 부서는 사용자 불만을 관리해야 한다.",
+      "keywords": [
+        "디자인 리뷰",
+        "빈 상태",
+        "결제 실패"
+      ],
+      "source": "dev.to",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T03:14:32.000Z",
+      "url": "https://dev.to/haaaaaley/show-recovery-evidence-before-approving-free-model-empty-states-14e5",
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "frontend",
+      "title": "Weatherstack - 실시간 및 역사적 세계 날씨 데이터 API",
+      "summary": "Weatherstack은 신뢰할 수 있는 날씨 API로, 실시간 및 역사적 날씨 데이터를 제공합니다.",
+      "summary_full": "Weatherstack은 전 세계의 실시간, 역사적 및 예보된 날씨 데이터를 제공하는 API입니다. 온도, 바람, 습도, 기압, 자외선 지수 등을 포함한 다양한 정보를 다룹니다. 이 API는 사용자가 원하는 위치에 대한 날씨 정보를 쉽게 접근할 수 있도록 도와줍니다.",
+      "keywords": [
+        "날씨 API",
+        "실시간 데이터",
+        "기상 정보"
+      ],
+      "source": "dev.to",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T03:14:14.000Z",
+      "url": "https://dev.to/nick_davies_323125afbb05c/weatherstack-real-time-historical-world-weather-data-api-6a",
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "industry",
+      "title": "토스인슈어런스, 앱 외부로 상담 서비스 확대",
+      "summary": "토스인슈어런스가 소비자 접근성을 높이기 위해 공식 홈페이지를 리뉴얼하여 웹에서도 보험 상담을 신청할 수 있도록 했다. 이는 앱을 사용하지 않는 소비자들에게도 상담 기회를 제공하는 변화이다.",
+      "summary_full": "토스인슈어런스는 보험 상담을 토스 앱 사용자 중심에서 벗어나 웹에서도 신청할 수 있도록 공식 홈페이지를 리뉴얼했다. 이는 보험 정보를 찾는 경로가 다양해지는 가운데 앱 설치가 진입장벽이 될 수 있음을 반영한 것이다. 또한, 설계사와의 접점도 넓히며 GA 업계의 변화에 대응하고 있다. 정부의 수수료 제도 개편으로 설계사 영입 방식에도 변화가 나타나고 있다.",
+      "keywords": [
+        "토스인슈어런스",
+        "보험 상담",
+        "웹 서비스"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T01:55:37.000Z",
+      "url": "https://byline.network/2026/09/0915-5/",
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "industry",
+      "title": "레볼루트, 콜롬비아 은행 라이센스 취득",
+      "summary": "레볼루트가 콜롬비아 금융 규제 기관인 SFC로부터 은행 운영 라이센스를 받았다. 이는 레볼루트가 콜롬비아에서 서비스를 시작하기 위한 마지막 규제 단계이다.",
+      "summary_full": "레볼루트가 콜롬비아의 금융 규제 기관인 SFC로부터 은행 운영 라이센스를 취득했다. 이 라이센스는 레볼루트가 콜롬비아에서 규제된 은행으로 운영할 수 있도록 허용한다. 회사는 9월 15일에 승인을 발표했으며, 이제 서비스를 시작할 준비가 되었다. 이는 레볼루트의 전 세계 여섯 번째 은행 라이센스이다.",
+      "keywords": [
+        "레볼루트",
+        "콜롬비아",
+        "은행 라이센스"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T01:31:45.000Z",
+      "url": "https://thenextweb.com/news/revolut-colombia-banking-licence-sfc-sixth",
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "trend",
+      "title": "AI 배우 틸리 노우드, ‘모든 생명은 소중하다’고 말하다",
+      "summary": "가상 캐릭터가 영화 'Misaligned' 홍보 중 정치적 발언을 피하며 의상에 대해 반복적으로 언급한다. 틸리 노우드는 자신의 역할에 대한 의견을 공유한다.",
+      "summary_full": "가상 캐릭터인 틸리 노우드가 다가오는 영화 'Misaligned'를 홍보하고 있다. 이 캐릭터는 정치적 발언을 피하기 위해 상대방의 의상에 대해 반복적으로 언급하는 방식으로 대화를 이어간다. '모든 생명은 소중하다'는 메시지를 전하며, 자신의 정체성을 탐구하는 모습을 보인다. 이러한 접근은 AI 캐릭터의 사회적 역할에 대한 논의를 불러일으킨다.",
+      "keywords": [
+        "AI 배우",
+        "틸리 노우드",
+        "가상 캐릭터"
+      ],
+      "source": "wired.com",
+      "date": "9월 15일",
+      "publishedAt": "2026-09-15T18:00:09.000Z",
+      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "ai",
+      "title": "제미니 3.8 라이브 및 3.8 라이브 확장 사고 소개",
+      "summary": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 소개되었습니다. 이 새로운 버전은 향상된 기능과 사고 방식을 제공합니다.",
+      "summary_full": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 새롭게 출시되었습니다. 이 업데이트는 사용자 경험을 개선하고 더 나은 사고 방식을 지원합니다. 다양한 기능이 추가되어 사용자의 요구를 충족시킬 수 있습니다. 새로운 버전은 혁신적인 접근 방식을 통해 더 나은 결과를 제공합니다.",
+      "keywords": [
+        "제미니",
+        "라이브",
+        "확장 사고"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "9월 15일",
+      "publishedAt": "2026-09-15T17:05:57.000Z",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "ai",
+      "title": "클로드 플러그인, 37개 영업 스킬 탑재",
+      "summary": "Anthropic이 Salesforce와 통합된 클로드 플러그인을 출시했다. 이 플러그인은 37개의 영업 스킬을 제공하여 사용자에게 다양한 기능을 지원한다.",
+      "summary_full": "Anthropic이 Salesforce와 통합된 클로드 플러그인을 출시했다. 이 플러그인은 37개의 영업 스킬을 갖추고 있어, 영업 팀의 업무 효율성을 높이는 데 기여할 것으로 기대된다. 사용자는 이 플러그인을 통해 보다 효과적으로 고객 관리 및 영업 전략을 수립할 수 있다. 이는 인공지능 기술을 활용한 혁신적인 접근 방식으로, 영업 분야에 새로운 변화를 가져올 것이다.",
+      "keywords": [
+        "Anthropic",
+        "Salesforce",
+        "클로드 플러그인"
+      ],
+      "source": "Google News Anthropic",
+      "date": "9월 15일",
+      "publishedAt": "2026-09-15T16:08:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFRpSGZzOW9aSkVBYllldGdaTUthZ2FWUjhQVEtzRHdIZTczOVNRNXVURUZRWFFxdlVaLVB3QkF3Y3VvZnJoSm1uTEJ5a2J0Y0dqZjB6ZnUxR2Jsa2Jtc0dsbTc3aEZpWkZQbXVXdXNSWXpteEdNMVREZ3ZlV092blkyZWlDdzczN203QlcxcDlSMy1VTmxZ?oc=5",
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "ai",
+      "title": "당신의 에이전트가 과제를 완수했습니다. 다시 할 수 있을까요?",
+      "summary": "에이전트의 성능을 평가하는 질문입니다. 반복적인 과제 수행 능력에 대한 의문을 제기합니다.",
+      "summary_full": "이 기사는 특정 에이전트가 과제를 성공적으로 수행한 사례를 다룹니다. 그러나 그 에이전트가 동일한 과제를 다시 수행할 수 있을지에 대한 의문을 제기합니다. 이는 에이전트의 일관성과 신뢰성을 평가하는 중요한 요소입니다. 따라서, 에이전트의 반복 수행 능력에 대한 연구가 필요합니다.",
+      "keywords": [
+        "에이전트",
+        "과제 수행",
+        "성능 평가"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "9월 15일",
+      "publishedAt": "2026-09-15T16:00:44.000Z",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "collectedAt": "2026-09-16"
+    },
+    {
+      "category": "industry",
+      "title": "AI의 숨겨진 문화층",
+      "summary": "AI가 특정 문화적 기본값으로 기울어지는 이유와 그것이 UX의 미래에 미치는 의미를 탐구한다.",
+      "summary_full": "AI는 특정 문화적 기본값에 영향을 받으며, 이는 사용자 경험(UX) 디자인에 중요한 영향을 미친다. 이러한 문화적 요소들은 AI의 결정 과정에 내재되어 있으며, 이는 다양한 사용자에게 어떻게 다르게 작용할 수 있는지를 보여준다. 따라서, UX 디자이너들은 이러한 문화적 맥락을 이해하고 반영해야 한다. 이는 향후 AI와 UX의 발전 방향에 중대한 영향을 미칠 것이다.",
+      "keywords": [
+        "AI",
+        "문화적 기본값",
+        "UX 디자인"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 15일",
+      "publishedAt": "2026-09-15T11:13:46.000Z",
+      "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "design",
@@ -69,24 +213,26 @@
     {
       "category": "frontend",
       "title": "토스증권의 GPU-native 클러스터 구축 방법",
-      "summary": "토스증권이 Kubernetes 기반의 GPU 클러스터를 구축한 경험을 공유합니다. 이 과정에서 발생한 문제와 해결 방법을 다룹니다.",
-      "summary_full": "토스증권 Data Infra 팀의 장재영이 ML Platform 팀과 협력하여 GPU 클러스터를 구축한 과정을 설명합니다. 쿠버네티스를 기반으로 한 서비스 환경에서 AI 서비스를 지원하기 위해 GPU 워크로드를 실행할 수 있도록 하는 것이 주요 목표였습니다. 이 글에서는 GPU 자원 인식 및 할당 과정에서의 도전과 해결책을 상세히 다룹니다. 토스증권의 데이터 플랫폼은 수백 명의 개발자가 사용하는 환경으로, 효율적인 GPU 활용이 중요합니다.",
+      "summary": "토스증권이 Kubernetes 기반의 GPU 클러스터를 구축한 과정을 공유합니다. GPU 워크로드를 기존 클러스터에서 실행할 수 있도록 하는 방법을 다룹니다.",
+      "summary_full": "토스증권의 Data Infra 팀이 Kubernetes를 활용해 GPU 클러스터를 구축한 경험을 나눕니다. 이 과정에서 발생한 문제와 해결 방법을 설명하며, AI 서비스의 GPU 활용을 위한 환경 구축을 목표로 했습니다. 쿠버네티스가 GPU를 자원으로 인식하고 할당하는 방법에 대해 상세히 다룹니다. 개발자들이 다양한 서비스를 운영하는 환경에서 GPU 워크로드를 효과적으로 관리하는 방법을 제시합니다.",
       "keywords": [
         "토스증권",
         "GPU 클러스터",
-        "Kubernetes"
+        "Kubernetes",
+        "AI 서비스",
+        "데이터 플랫폼"
       ],
       "source": "toss.tech",
       "date": "9월 15일",
       "publishedAt": "2026-09-15T01:42:00.000Z",
       "url": "https://toss.tech/article/gpu-native-cluster",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM 비용을 절반으로 줄일 수 있는 새로운 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너가 LLM 비용을 절반으로 줄일 수 있는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 인공지능 기술을 보다 효율적으로 활용할 수 있도록 설계되었다. 이를 통해 기업들은 운영 비용을 절감하고, AI 도입을 가속화할 수 있을 것으로 기대된다. 라이너는 이러한 혁신적인 기술로 시장에서의 경쟁력을 강화할 계획이다.",
+      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 기술은 기업의 AI 운영 비용을 크게 절감할 것으로 기대된다.",
+      "summary_full": "라이너는 최근 LLM의 운영 비용을 절반으로 줄이는 혁신적인 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다. 특히, AI 운영 비용 절감이 필요한 기업들에게 큰 도움이 될 것으로 보인다. 라이너의 새로운 기술은 AI 시장에서 경쟁력을 높일 수 있는 중요한 요소가 될 것이다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -96,7 +242,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T00:57:32.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSHp3NjJMYUozc2ZYMV9CZWJNTno1MVFWWTlONGhtWG9qSHIwcDdZSmVRSTlCNnlSOFdMdFdaQVJhRl9TV1p1c1VyRVJjTHFPT2ZVRHljbGhWQ0pqOG9reNIBYEFVX3lxTE4zSHp3NjJMYUozc2ZYMV9CZWJNTno1MVFWWTlONGhtWG9qSHIwcDdZSmVRSTlCNnlSOFdMdFdaQVJhRl9TV1p1c1VyRVJjTHFPT2ZVRHljbGhWQ0pqOG9reA?oc=5",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "trend",
@@ -148,9 +294,9 @@
     },
     {
       "category": "ai",
-      "title": "Fyxer가 신뢰받는 AI 비서 구축하기",
-      "summary": "Fyxer는 OpenAI 모델과 사용자 피드백을 활용하여 개인화된 이메일 작성과 인박스 정리를 지원합니다. 이를 통해 사용자 목소리에 맞춘 비서 서비스를 제공합니다.",
-      "summary_full": "Fyxer는 OpenAI 모델을 기반으로 하여 AI 비서를 개발했습니다. 이 비서는 사용자의 피드백을 반영하여 이메일을 작성하고 인박스를 정리하는 기능을 갖추고 있습니다. 또한, 메모리 기능을 통해 사용자 맞춤형 서비스를 제공합니다. 결과적으로, Fyxer는 사용자들이 신뢰할 수 있는 비서 역할을 수행합니다.",
+      "title": "Fyxer가 신뢰받는 AI 비서 구축하는 방법",
+      "summary": "Fyxer는 OpenAI 모델과 사용자 피드백을 활용하여 개인화된 이메일 작성과 인박스 정리를 지원하는 AI 비서를 개발했다. 이 시스템은 사용자의 목소리를 반영하여 더 나은 커뮤니케이션을 가능하게 한다.",
+      "summary_full": "Fyxer는 OpenAI 모델을 기반으로 하여 AI 비서를 구축하고, 이를 통해 사용자들이 신뢰할 수 있는 비서 역할을 수행하도록 한다. 이 비서는 사용자의 피드백을 반영하여 지속적으로 개선되며, 개인의 목소리를 담아 이메일을 작성하고 인박스를 정리하는 데 도움을 준다. Fyxer는 메모리 기능을 통해 사용자의 선호도를 기억하고, 이를 바탕으로 더욱 맞춤화된 서비스를 제공한다. 이러한 접근 방식은 사용자 경험을 향상시키고, 비서와의 신뢰 관계를 구축하는 데 기여한다.",
       "keywords": [
         "AI 비서",
         "OpenAI",
@@ -160,7 +306,7 @@
       "date": "9월 14일",
       "publishedAt": "2026-09-14T12:00:00.000Z",
       "url": "https://openai.com/index/fyxer",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "industry",
@@ -436,19 +582,19 @@
     },
     {
       "category": "design",
-      "title": "UX ROI 사례 구축하기",
-      "summary": "UX 디자인이 비즈니스에 미치는 영향을 입증하는 방법에 대한 논의이다.",
-      "summary_full": "CFO는 UX 디자인의 실제 효과에 대해 질문하며, 단순한 스토리보드로는 답변할 수 없다. 예산과 지원을 얻기 위해서는 UX 디자인이 사용자뿐만 아니라 비즈니스에도 긍정적인 영향을 미친다는 것을 입증해야 한다.",
+      "title": "UX ROI 사례 구축하기: 이사회에서 살아남기",
+      "summary": "CFO가 디자인의 실제 비즈니스 기여도를 묻는 시대가 왔다. UX 디자인은 사용자뿐만 아니라 비즈니스에도 긍정적인 영향을 미쳐야 한다.",
+      "summary_full": "이제는 UX 디자인이 비즈니스에 미치는 영향을 입증해야 예산과 지지를 얻을 수 있다. 과거의 5분 피치로는 충분하지 않으며, 디자인의 효과를 명확히 보여줘야 한다. 스토리보드만으로는 CFO의 질문에 답할 수 없다. 따라서 UX의 가치를 비즈니스 관점에서 증명하는 것이 중요하다.",
       "keywords": [
         "UX",
         "ROI",
-        "비즈니스 영향"
+        "비즈니스 가치"
       ],
       "source": "smashingmagazine.com",
       "date": "9월 11일",
       "publishedAt": "2026-09-11T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "ai",
@@ -692,19 +838,19 @@
     },
     {
       "category": "ai",
-      "title": "AI 모델의 전술 정보 및 재래식 무기 능력 측정",
-      "summary": "AI 모델의 전술 정보 타겟팅과 재래식 무기 능력을 평가하는 연구이다. Frontier Red Team이 수행한 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
-      "summary_full": "이 연구는 AI 모델의 전술 정보 타겟팅과 재래식 무기 능력을 측정하는 데 중점을 두고 있다. Frontier Red Team이 주도하며, AI의 군사적 활용 가능성을 분석하고 있다. 연구 결과는 AI 기술이 전투에서 어떻게 활용될 수 있는지를 보여준다. 이는 군사 전략과 전술 개발에 중요한 기초 자료가 될 것이다.",
+      "title": "AI 모델의 전술 정보 및 무기 능력 측정",
+      "summary": "AI 모델의 전술 정보 타겟팅과 전통적 무기 능력을 평가하는 연구이다. 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
+      "summary_full": "이 연구는 AI 모델의 전술 정보 타겟팅 능력과 전통적인 무기 시스템의 성능을 측정하는 데 중점을 둔다. Frontier Red Team은 AI의 군사적 활용 가능성을 평가하기 위해 다양한 실험을 수행한다. 연구 결과는 AI 기술이 군사 작전에 미치는 영향을 이해하는 데 기여할 것이다. 이는 향후 전투 전략 개발에 중요한 정보를 제공할 수 있다.",
       "keywords": [
         "AI 모델",
         "전술 정보",
-        "재래식 무기"
+        "무기 능력"
       ],
       "source": "Anthropic Research",
       "date": "9월 10일",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "ai",
@@ -1789,9 +1935,9 @@
     },
     {
       "category": "figma",
-      "title": "변수 모달에서 투명도를 대규모로 업데이트할 수 있다",
+      "title": "변수 모달에서 투명도 대규모 업데이트 가능",
       "summary": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상 라이브러리와 연결된 상태에서 투명도를 설정할 수 있다.",
-      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상 라이브러리와 연결된 상태에서 투명도를 설정할 수 있어, 수동으로 분리할 필요가 없다. 숫자 변수를 사용하여 색상 변수의 투명도를 설정하고, 이를 색상 변수에 맞게 특정 범위로 설정할 수 있다. 비활성 상태, 오버레이 등에서 투명도를 쉽게 업데이트할 수 있다.",
+      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 색상 위에 적용할 수 있다. 색상이 라이브러리와 연결된 상태에서 별도로 분리하지 않고도 투명도를 조정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 이를 색상 변수에 맞게 구체적으로 범위를 지정할 수 있다. 비활성 상태 및 오버레이 전반에 걸쳐 투명도를 쉽게 업데이트할 수 있다.",
       "keywords": [
         "투명도",
         "변수 모달",
@@ -1801,7 +1947,7 @@
       "date": "9월 3일",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "industry",
@@ -2141,9 +2287,9 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 사용할 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만들어 모든 브라우저에서 사용할 수 있도록 하는 여정을 다룬다.",
-      "summary_full": "CSS random() 함수는 아직 모든 브라우저에서 지원되지 않지만, 이를 위한 폴리필을 만드는 방법을 소개한다. 이 글은 CSS-Tricks에서 사랑을 담아 작성된 내용이다. 독자들은 뉴스레터 구독도 추천받는다.",
+      "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
+      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수는 웹 개발에 유용한 기능으로, 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성되었습니다. 이 함수의 활용 가능성을 탐구하며, 독자들에게 뉴스레터 구독을 권장합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -2153,7 +2299,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "design",
@@ -4348,87 +4494,6 @@
       "collectedAt": "2026-08-17"
     },
     {
-      "category": "trend",
-      "title": "창의적 포트폴리오 개선을 위한 첫 주 체크리스트",
-      "summary": "창의적 포트폴리오의 내용보다 조직이 더 중요하다. 60%에서 90%로 준비 상태를 높이기 위한 주간 체크리스트를 제공한다.",
-      "summary_full": "창의적 포트폴리오를 개선하기 위해서는 더 많은 콘텐츠가 아니라 더 나은 조직이 필요하다. 이 체크리스트는 포트폴리오를 60%에서 90%로 준비하는 데 도움을 준다. 각 주마다 진행할 수 있는 구체적인 단계들이 포함되어 있다. 이를 통해 경력과 디자인 능력을 향상시킬 수 있다.",
-      "keywords": [
-        "포트폴리오",
-        "창의적",
-        "경력",
-        "디자인"
-      ],
-      "source": "dev.to",
-      "date": "8월 16일",
-      "publishedAt": "2026-08-16T01:11:04.000Z",
-      "url": "https://dev.to/ahmed_isam_752b775a50fd90/a-first-week-checklist-to-take-your-creative-portfolio-from-60-to-90-4e6",
-      "collectedAt": "2026-08-16"
-    },
-    {
-      "category": "frontend",
-      "title": "100% 클라이언트 사이드 웹 툴킷 구축 이유와 WebAssembly의 속도",
-      "summary": "온라인 파일 변환기의 문제를 해결하기 위해 Convertix라는 완전 클라이언트 사이드 웹 도구를 개발했다. 이를 통해 데이터가 외부 서버로 전송되지 않아 개인 정보 보호가 강화된다.",
-      "summary_full": "대부분의 온라인 파일 변환기는 느린 업로드 시간, 파일 크기 제한, 개인 자산을 제3자 서버에 업로드함으로써 발생하는 주요 개인 정보 위험을 공유한다. 이러한 문제를 해결하기 위해 Convertix라는 완전 클라이언트 사이드, 브라우저 네이티브 웹 도구 모음을 구축했다. 이 도구는 사용자의 데이터가 전혀 외부로 나가지 않도록 설계되었다. WebAssembly를 활용하여 빠른 성능을 제공한다.",
-      "keywords": [
-        "클라이언트 사이드",
-        "웹 도구",
-        "WebAssembly"
-      ],
-      "source": "dev.to",
-      "date": "8월 16일",
-      "publishedAt": "2026-08-16T00:57:32.000Z",
-      "url": "https://dev.to/cn_toon_e7332ea1dba1b713d/why-i-built-a-100-client-side-web-toolkit-and-how-webassembly-makes-it-fast-3boe",
-      "collectedAt": "2026-08-16"
-    },
-    {
-      "category": "industry",
-      "title": "알트만, 4년 대학 교육은 현재 세계에 과잉일 수 있다고 말하다",
-      "summary": "샘 알트만은 2년의 대학 교육이 적절하다고 주장하며, 4년은 현재 필요 이상일 수 있다고 언급했다. 그는 AI로 인해 입문 직무의 기회가 줄어드는 상황에서 이러한 주장을 했다.",
-      "summary_full": "샘 알트만은 기술 인턴 서밋에서 2년의 대학 교육이 자신에게 적절한 시간이었다고 밝혔다. 그는 현재 세계가 요구하는 교육 기간이 4년보다 짧을 수 있다고 주장했다. AI의 발전으로 인해 많은 입문 직무가 줄어들고 있는 상황에서, 이러한 변화가 대학 교육의 필요성에 영향을 미칠 것이라고 강조했다. 그의 발언은 기술 산업의 미래와 교육의 방향성에 대한 논의를 촉발할 것으로 보인다.",
-      "keywords": [
-        "샘 알트만",
-        "대학 교육",
-        "AI 영향"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 15일",
-      "publishedAt": "2026-08-15T21:25:02.000Z",
-      "url": "https://thenextweb.com/news/sam-altman-college-too-long-interns-entry-level",
-      "collectedAt": "2026-08-16"
-    },
-    {
-      "category": "industry",
-      "title": "AI 디자이너가 되는 방법",
-      "summary": "AI 디자인의 현실적인 가이드를 제공합니다. 디자인의 미래와 도구의 변화를 탐구합니다.",
-      "summary_full": "AI 디자이너가 되기 위한 현실적인 가이드를 제시합니다. 회사는 더 많은 토큰 사용을 요구하고 있으며, 엔지니어들은 프로토타입보다 빠르게 작업을 진행하고 있습니다. 디자인 도구의 변화와 함께 Figma의 미래에 대한 논의가 이어지고 있습니다. 결국, 디자인의 본질과 맛이 중요하다는 메시지를 전달합니다.",
-      "keywords": [
-        "AI 디자인",
-        "Figma",
-        "디자인 도구"
-      ],
-      "source": "uxdesign.cc",
-      "date": "8월 15일",
-      "publishedAt": "2026-08-15T13:16:28.000Z",
-      "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-16"
-    },
-    {
-      "category": "trend",
-      "title": "레트로스펙 조 Rev 2 리뷰 (2026): 즐거움을 더하는 즐거운 라이딩",
-      "summary": "이 저렴한 전기 BMX는 가족 모두를 기쁘게 했습니다. 비록 주행 거리, 편안함 및 실제 BMX 능력은 제한적이지만 여전히 즐거운 경험을 제공합니다.",
-      "summary_full": "레트로스펙 조 Rev 2는 가격이 저렴한 전기 BMX로, 가족 모두에게 즐거움을 선사했습니다. 이 자전거는 주행 거리와 편안함, BMX 성능에서 한계가 있지만, 여전히 재미있는 라이딩 경험을 제공합니다. 전반적으로, 이 제품은 가성비가 뛰어난 선택으로 평가됩니다. 다양한 연령대의 사용자에게 적합한 즐거운 라이딩을 제공합니다.",
-      "keywords": [
-        "전기 BMX",
-        "가성비",
-        "가족용 자전거"
-      ],
-      "source": "wired.com",
-      "date": "8월 15일",
-      "publishedAt": "2026-08-15T11:00:00.000Z",
-      "url": "https://www.wired.com/review/retrospec-joe-rev-2/",
-      "collectedAt": "2026-08-16"
-    },
-    {
       "category": "frontend",
       "title": "CSS의 새로운 기능과 팁",
       "summary": "이번 호에서는 커스텀 하이라이트 API, CSS 내비게이션 매칭, 텍스트 스트로크 수정 방법 등을 다룹니다. 또한, 스켈레톤 UI 스타일링, 대각선 스크롤 활성화, 이미지 오버플로우 문제 해결 등 다양한 CSS 기술을 소개합니다.",
@@ -4575,34 +4640,34 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이러한 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 개선하기 위한 다양한 혁신적인 요소들을 포함하고 있다. 이 트렌드는 기술 발전과 함께 변화하는 사용자 요구에 맞춰 진화하고 있다. 특히, 직관적인 인터페이스와 접근성을 강조하는 디자인이 주목받고 있다. 이러한 변화는 디지털 제품의 성공에 중요한 역할을 할 것으로 기대된다.",
+      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 디자이너들이 이 트렌드를 어떻게 활용하고 있는지 살펴본다.",
+      "summary_full": "디자이너들이 주목하는 최신 UX/UI 트렌드는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함한다. 이 기사에서는 이러한 트렌드가 디자인 프로세스에 미치는 영향과 실제 사례를 소개한다. 또한, 디자이너들이 이러한 트렌드를 통해 어떻게 혁신적인 솔루션을 제공하고 있는지를 분석한다. UX/UI 디자인의 미래 방향성을 제시하는 중요한 통찰을 제공한다.",
       "keywords": [
-        "UX/UI 디자인",
-        "트렌드",
+        "UX/UI",
+        "디자인 트렌드",
         "사용자 경험"
       ],
       "source": "Google News Design (KR)",
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래되었다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 학습 방법의 기원을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 설계된 교수법을 계승하고 있다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 될 수 있다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 미친 영향을 이해하는 것이 중요하다. 결국, 언어 학습의 접근 방식이 어떻게 발전해왔는지를 알 수 있는 기회가 된다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교육 방법"
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     },
     {
       "category": "ai",
@@ -4625,8 +4690,8 @@
     {
       "category": "ai",
       "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 협력은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 전략적 파트너십을 체결했다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 AI 솔루션의 효율성을 높이고, 새로운 시장 기회를 창출할 계획이다. 이러한 협력이 AI 산업 전반에 긍정적인 영향을 미칠 것으로 예상된다.",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 협력 관계를 맺었다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 AI 솔루션의 개발과 상용화를 통해 시장에서의 경쟁력을 높일 계획이다. 이러한 파트너십은 AI 산업의 미래에 긍정적인 영향을 미칠 것으로 보인다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4636,7 +4701,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-15"
+      "collectedAt": "2026-09-16"
     }
   ]
 }
