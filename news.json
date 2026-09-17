@@ -1,22 +1,182 @@
 {
-  "updated": "2026년 9월 16일 AM 03:24",
-  "count": 293,
+  "updated": "2026년 9월 17일 AM 03:30",
+  "count": 292,
   "articles": [
     {
       "category": "industry",
       "title": "인테리어 사장님의 성장을 설계하는 사람들",
-      "summary": "인테리어 업계의 성장을 지원하는 전문가들의 이야기를 다룬다. 이들은 시장을 설계하고 사장님들의 성공을 돕는 역할을 한다.",
-      "summary_full": "이 기사는 인테리어 업계에서 활동하는 전문가들이 어떻게 사장님들의 성장을 돕는지를 탐구한다. 그들은 시장의 동향을 분석하고, 효과적인 전략을 제시하여 성공적인 비즈니스를 이끌어낸다. 또한, 이들이 제공하는 서비스와 지원이 인테리어 사장님들에게 어떤 긍정적인 영향을 미치는지를 살펴본다. 첫 번째 이야기로, 이들의 경험과 인사이트를 통해 업계의 미래를 조망한다.",
+      "summary": "인테리어 시장에서 사장님의 성장을 돕는 전문가들의 이야기를 다룬다. 첫 번째 이야기에서는 이들의 역할과 시장 설계에 대한 통찰을 제공한다.",
+      "summary_full": "이 기사는 인테리어 사장님들의 성장을 지원하는 전문가들에 대한 이야기이다. 이들은 시장을 설계하고, 사장님들이 성공할 수 있도록 다양한 전략을 제시한다. 첫 번째 이야기에서는 이러한 전문가들이 어떤 방식으로 사장님들과 협력하는지를 탐구한다. 인테리어 업계의 변화와 도전 과제를 함께 논의하며, 성공적인 비즈니스 모델을 제안한다.",
       "keywords": [
         "인테리어",
-        "비즈니스 성장",
-        "시장 설계"
+        "시장 설계",
+        "사장님 성장"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T03:23:13.194Z",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T03:29:01.917Z",
       "url": "https://www.bucketplace.com/post/2026-09-07-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "design",
+      "title": "초파리의 뇌로 드론 조종",
+      "summary": "초파리의 뇌를 활용하여 드론을 조종하는 연구가 진행되고 있다. 이 연구는 생물학적 신경망의 작동 원리를 이해하는 데 기여할 것으로 기대된다.",
+      "summary_full": "최근 연구에서 초파리의 뇌를 이용해 드론을 조종하는 실험이 진행되었다. 연구자들은 초파리의 신경망을 분석하여 드론의 비행 경로를 제어하는 방법을 개발하였다. 이 기술은 생물학적 신경망의 작동 원리를 이해하는 데 중요한 기초 자료가 될 것으로 보인다. 향후 다양한 생물체의 신경망을 활용한 기술 개발이 기대된다.",
+      "keywords": [
+        "초파리",
+        "드론",
+        "신경망"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T03:28:57.356Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-834/",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "frontend",
+      "title": "API를 통한 전화번호 검증 방법 - 글로벌 커버리지",
+      "summary": "전화 데이터 오류는 전환율을 저하시킨다. 대부분의 개발자는 맞춤형 솔루션을 구축하거나 비싼 엔터프라이즈 API를 사용한다.",
+      "summary_full": "전화 데이터 오류는 전환율을 저하시킨다. 대부분의 개발자는 맞춤형 솔루션을 구축하거나 비싼 엔터프라이즈 API를 사용하지만, 이는 대부분의 프로젝트에 과하다. 중간 솔루션이 필요하다. Numverify를 통해 실시간으로 전화번호를 검증할 수 있다.",
+      "keywords": [
+        "전화번호 검증",
+        "API",
+        "Numverify"
+      ],
+      "source": "dev.to",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T03:23:00.000Z",
+      "url": "https://dev.to/nick_davies_323125afbb05c/how-to-validate-phone-numbers-via-api-global-coverage-3lf3",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "trend",
+      "title": "AI 앨범 커버 생성기를 활용한 애니메이션 데뷔 키트 구축",
+      "summary": "AI를 이용해 애니메이션 캐릭터의 데뷔 앨범을 제작하는 과정을 다룬다. 캐릭터의 다양한 의상 변화를 통해 앨범 커버를 디자인하는 실험을 진행했다.",
+      "summary_full": "이 기사는 AI 앨범 커버 생성기를 사용하여 애니메이션 캐릭터의 데뷔 앨범을 만드는 과정을 설명한다. 주인공 캐릭터는 여러 의상 변화를 겪었지만 실제로는 앨범을 출시하지 못했다. 이러한 상황에서 AI 도구를 활용하여 앨범 커버를 디자인하고, 캐릭터의 첫 앨범을 출시하는 실험을 진행했다. 이를 통해 AI 기술이 창작 과정에 어떻게 기여할 수 있는지를 보여준다.",
+      "keywords": [
+        "AI",
+        "앨범 커버",
+        "애니메이션 캐릭터"
+      ],
+      "source": "dev.to",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T01:30:43.000Z",
+      "url": "https://dev.to/amit_nag_4851dc190c33a368/using-an-ai-album-cover-generator-to-build-a-complete-anime-debut-kit-19h6",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "industry",
+      "title": "GTA6의 넷플릭스 마케팅, 게임 업계 트렌드 될까",
+      "summary": "GTA6의 예고편이 넷플릭스를 통해 선공개되며 게임 홍보의 새로운 방향성을 제시했다. 게임사와 영상 플랫폼 간의 협업이 효과적인 결과를 가져왔다.",
+      "summary_full": "락스타 게임즈가 넷플릭스를 통해 GTA6 예고편을 선공개하며 큰 성과를 거두었다. 이는 게임 업계의 미디어믹스 전략이 단순한 콘텐츠 제작을 넘어 신작 홍보 수단으로 활용될 수 있음을 보여준다. 이러한 협업은 게임사는 홍보 수단을 확보하고, 영상 플랫폼은 시청자를 확보하는 효과를 가져온다. 앞으로 이와 같은 마케팅 전략이 게임 업계의 새로운 트렌드로 자리잡을 가능성이 있다.",
+      "keywords": [
+        "GTA6",
+        "넷플릭스",
+        "게임 마케팅"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T00:43:55.000Z",
+      "url": "https://byline.network/2026/09/15-651/",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "trend",
+      "title": "다이슨의 새로운 로봇 청소기 라인: 다이슨 누로비 라인 (2026)",
+      "summary": "누로비 라인은 3개의 라이다 기반 로봇 청소기로 구성되어 있습니다. 가장 흥미로운 모델을 구매하려면 코스트코 회원 가입이 필요합니다.",
+      "summary_full": "다이슨의 누로비 라인은 최신 기술이 적용된 3개의 로봇 청소기로 구성되어 있습니다. 이 제품들은 라이다 센서를 활용하여 정밀한 청소를 제공합니다. 특히, 소비자들이 가장 관심을 가지는 모델은 코스트코 회원만 구매할 수 있는 제한된 제품입니다. 다이슨은 혁신적인 디자인과 기능으로 시장에서의 경쟁력을 강화하고 있습니다.",
+      "keywords": [
+        "다이슨",
+        "로봇 청소기",
+        "누로비"
+      ],
+      "source": "wired.com",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T23:42:55.000Z",
+      "url": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "industry",
+      "title": "포르쉐의 무선 충전 패드, 유럽에서 판매 시작",
+      "summary": "포르쉐가 독일 및 유럽 시장에서 11kW 무선 충전 패드를 주문받기 시작했다. 이 패드는 바닥에 고정 설치해야 하며, 가격은 6,961.49 유로이다.",
+      "summary_full": "포르쉐는 Cayenne Electric 모델을 위한 11kW 무선 충전 패드를 독일 및 기타 유럽 시장에서 판매하기 시작했다. 이 충전 패드는 바닥에 영구적으로 설치되어야 하며, 최대 90%의 효율성을 제공한다. 패드와 차량 측 하드웨어를 함께 구매하는 가격은 6,961.49 유로이다. 유럽의 가정용 충전 설치 규정에 따라 설치가 필요하다.",
+      "keywords": [
+        "포르쉐",
+        "무선 충전",
+        "유럽 판매"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T17:55:07.000Z",
+      "url": "https://thenextweb.com/news/porsche-wireless-pad-right-to-plug",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Cowork를 단일 Claude 경험으로 통합",
+      "summary": "Anthropic이 Cowork 기능을 모든 플랜에 걸쳐 단일 Claude 경험으로 통합했다. 이를 통해 사용자들은 보다 일관된 AI 경험을 제공받을 수 있다.",
+      "summary_full": "Anthropic이 Cowork 기능을 모든 플랜에 걸쳐 단일 Claude 경험으로 통합했다. 이 통합은 사용자들에게 더 나은 협업 도구를 제공하고, AI와의 상호작용을 개선하는 데 기여할 것으로 기대된다. 새로운 기능은 모든 사용자에게 동일한 경험을 보장하며, AI의 활용도를 높이는 데 중점을 두고 있다. 이러한 변화는 AI 기술의 발전과 함께 사용자 요구에 부응하기 위한 노력의 일환으로 볼 수 있다.",
+      "keywords": [
+        "Anthropic",
+        "Cowork",
+        "Claude"
+      ],
+      "source": "Google News Anthropic",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T17:07:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNalZSZ2tWVFNxQmlNUXRRQkdxeUh2UVZtbVRGWDdtVmx1T0pzVHRqekx6Z09JTVEwaXA5Ml9lWmtHR19CWU9wVU1oa0JqRmdkVVhLVHl6UEp3R3M1eHlnbFRuMldoeUhQNUxselJlcjNCNVQ5SEdJRUZlNDN4THFobjlkNlhsUUc1cC13MFFUNXp4R24wbmFz?oc=5",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "ai",
+      "title": "노인을 위한 AI 활용 지원",
+      "summary": "OpenAI와 AARP가 미국 10개 도시에서 1,000명의 노인을 대상으로 무료 ChatGPT 워크숍을 개최한다. 이 프로그램은 안전하게 실용적인 AI 기술을 배울 수 있도록 돕는다.",
+      "summary_full": "OpenAI와 AARP는 노인들이 일상생활에서 AI를 활용할 수 있도록 지원하기 위해 무료 ChatGPT 워크숍을 진행한다. 이 워크숍은 미국 10개 도시에서 1,000명의 노인을 대상으로 실시된다. 참가자들은 안전하게 AI 기술을 배우고 실용적인 스킬을 개발할 수 있는 기회를 갖게 된다. 이는 노인들이 현대 기술에 적응하고 활용할 수 있도록 돕는 중요한 이니셔티브이다.",
+      "keywords": [
+        "AI",
+        "노인",
+        "워크숍"
+      ],
+      "source": "OpenAI News",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "industry",
+      "title": "셰익스피어가 AI에 대해 잘못 이해한 점",
+      "summary": "셰익스피어는 마법이 항상 중단될 수 있다고 썼지만, 우리가 만든 AI는 통제할 수 없는 형태로 발전했다. 그의 상상 속 마법은 도덕적 질서에 따랐지만, 현실의 AI는 그러지 않는다.",
+      "summary_full": "셰익스피어는 마법이 항상 중단될 수 있다고 묘사했으나, 우리가 만든 AI는 통제할 수 없는 형태로 발전했다. 그는 인간을 이해했지만, 우리가 실제로 만든 AI는 그의 상상력을 초월했다. 셰익스피어의 마법은 항상 꺼낼 수 있었고, 도덕적 질서에 따랐다. 그러나 현대의 AI는 그러한 특성을 가지지 않는다.",
+      "keywords": [
+        "셰익스피어",
+        "AI",
+        "마법"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T15:21:34.000Z",
+      "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "design",
+      "title": "CSS 컨테이너 쿼리를 전통적인 미디어 쿼리처럼 다루지 마세요",
+      "summary": "CSS 컨테이너 쿼리는 미디어 쿼리와 다르게 사용해야 합니다. 이 새로운 기능의 필요성을 이해하는 것이 중요합니다.",
+      "summary_full": "CSS 컨테이너 쿼리가 처음 출시되었을 때, 많은 사람들이 미디어 쿼리와의 차이를 이해하지 못했습니다. 저자도 처음에는 왜 필요할지 의문을 가졌습니다. 그러나 컨테이너 쿼리는 더 유연한 디자인을 가능하게 하며, 이를 통해 다양한 화면 크기에서 더 나은 사용자 경험을 제공할 수 있습니다. 따라서 이 새로운 기능을 제대로 활용하는 것이 중요합니다.",
+      "keywords": [
+        "CSS",
+        "컨테이너 쿼리",
+        "미디어 쿼리"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "trend",
@@ -83,6 +243,22 @@
       "collectedAt": "2026-09-16"
     },
     {
+      "category": "figma",
+      "title": "Figma에서 생성적 AI 워크플로우를 활용하는 Weave 도구",
+      "summary": "Weave 도구는 Figma에서 생성적 AI 워크플로우를 직접 활용할 수 있게 해줍니다. 사용자는 자신만의 Weave 도구를 만들어 Figma 커뮤니티에 게시할 수 있습니다.",
+      "summary_full": "Weave 도구는 Figma에서 생성적 AI 워크플로우를 직접 활용할 수 있는 기능을 제공합니다. 사용자는 반복적인 이미지 및 벡터 생성을 대규모로 처리할 수 있는 맞춤형 Weave 도구를 만들고 게시할 수 있습니다. 또한, 커뮤니티를 탐색하여 다른 사용자가 만든 도구를 확인할 수 있습니다. 커뮤니티 게시 기능은 사용자 간의 협업을 촉진합니다.",
+      "keywords": [
+        "Figma",
+        "Weave 도구",
+        "생성적 AI"
+      ],
+      "source": "Figma Release Notes",
+      "date": "9월 16일",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-09-17"
+    },
+    {
       "category": "trend",
       "title": "AI 배우 틸리 노우드, ‘모든 생명은 소중하다’고 말하다",
       "summary": "가상 캐릭터가 영화 'Misaligned' 홍보 중 정치적 발언을 피하며 의상에 대해 반복적으로 언급한다. 틸리 노우드는 자신의 역할에 대한 의견을 공유한다.",
@@ -101,8 +277,8 @@
     {
       "category": "ai",
       "title": "제미니 3.8 라이브 및 3.8 라이브 확장 사고 소개",
-      "summary": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 소개되었습니다. 이 새로운 버전은 향상된 기능과 사고 방식을 제공합니다.",
-      "summary_full": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 새롭게 출시되었습니다. 이 업데이트는 사용자 경험을 개선하고 더 나은 사고 방식을 지원합니다. 다양한 기능이 추가되어 사용자의 요구를 충족시킬 수 있습니다. 새로운 버전은 혁신적인 접근 방식을 통해 더 나은 결과를 제공합니다.",
+      "summary": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 소개되었습니다. 새로운 기능과 개선 사항이 포함되어 있습니다.",
+      "summary_full": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 새롭게 출시되었습니다. 이 버전은 사용자 경험을 향상시키기 위한 다양한 기능을 제공합니다. 특히, 실시간 데이터 처리와 확장된 사고 능력이 강조됩니다. 이러한 발전은 다양한 분야에서의 활용 가능성을 높입니다.",
       "keywords": [
         "제미니",
         "라이브",
@@ -112,7 +288,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T17:05:57.000Z",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "ai",
@@ -132,19 +308,19 @@
     },
     {
       "category": "ai",
-      "title": "당신의 에이전트가 과제를 완수했습니다. 다시 할 수 있을까요?",
-      "summary": "에이전트의 성능을 평가하는 질문입니다. 반복적인 과제 수행 능력에 대한 의문을 제기합니다.",
-      "summary_full": "이 기사는 특정 에이전트가 과제를 성공적으로 수행한 사례를 다룹니다. 그러나 그 에이전트가 동일한 과제를 다시 수행할 수 있을지에 대한 의문을 제기합니다. 이는 에이전트의 일관성과 신뢰성을 평가하는 중요한 요소입니다. 따라서, 에이전트의 반복 수행 능력에 대한 연구가 필요합니다.",
+      "title": "당신의 에이전트가 작업을 완수했습니다. 다시 할 수 있을까요?",
+      "summary": "에이전트가 이전 작업을 성공적으로 수행했지만, 다시 같은 성과를 낼 수 있을지에 대한 의문을 제기합니다. 이 글은 에이전트의 신뢰성과 일관성에 대해 다룹니다.",
+      "summary_full": "이 글은 에이전트가 특정 작업을 성공적으로 수행한 사례를 소개합니다. 그러나 그 성과가 반복될 수 있을지에 대한 의문이 제기됩니다. 에이전트의 성능을 평가하고, 향후 작업에서의 일관성을 분석하는 내용을 포함합니다. 독자는 에이전트의 신뢰성에 대한 깊은 통찰을 얻게 될 것입니다.",
       "keywords": [
         "에이전트",
-        "과제 수행",
-        "성능 평가"
+        "작업 수행",
+        "신뢰성"
       ],
       "source": "HuggingFace Blog",
       "date": "9월 15일",
       "publishedAt": "2026-09-15T16:00:44.000Z",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "industry",
@@ -213,26 +389,24 @@
     {
       "category": "frontend",
       "title": "토스증권의 GPU-native 클러스터 구축 방법",
-      "summary": "토스증권이 Kubernetes 기반의 GPU 클러스터를 구축한 과정을 공유합니다. GPU 워크로드를 기존 클러스터에서 실행할 수 있도록 하는 방법을 다룹니다.",
-      "summary_full": "토스증권의 Data Infra 팀이 Kubernetes를 활용해 GPU 클러스터를 구축한 경험을 나눕니다. 이 과정에서 발생한 문제와 해결 방법을 설명하며, AI 서비스의 GPU 활용을 위한 환경 구축을 목표로 했습니다. 쿠버네티스가 GPU를 자원으로 인식하고 할당하는 방법에 대해 상세히 다룹니다. 개발자들이 다양한 서비스를 운영하는 환경에서 GPU 워크로드를 효과적으로 관리하는 방법을 제시합니다.",
+      "summary": "토스증권은 Kubernetes 기반의 GPU 클러스터를 구축하며 겪은 문제와 해결 방법을 공유합니다. AI 서비스의 GPU 워크로드를 효율적으로 운영하기 위한 과정을 설명합니다.",
+      "summary_full": "토스증권의 Data Infra 팀은 ML Platform 팀과 협력하여 Kubernetes 기반의 GPU 클러스터를 구축했습니다. 이 과정에서 쿠버네티스가 GPU를 자원으로 인식하고 할당하는 방법을 해결해야 했습니다. 수백 명의 개발자가 다양한 서비스를 운영하는 환경에서 AI 서비스도 GPU를 활용할 수 있도록 하였습니다. 이 글에서는 GPU 인식 및 할당 과정에 대한 자세한 내용을 다룹니다.",
       "keywords": [
         "토스증권",
         "GPU 클러스터",
-        "Kubernetes",
-        "AI 서비스",
-        "데이터 플랫폼"
+        "Kubernetes"
       ],
       "source": "toss.tech",
       "date": "9월 15일",
       "publishedAt": "2026-09-15T01:42:00.000Z",
       "url": "https://toss.tech/article/gpu-native-cluster",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 기술은 기업의 AI 운영 비용을 크게 절감할 것으로 기대된다.",
-      "summary_full": "라이너는 최근 LLM의 운영 비용을 절반으로 줄이는 혁신적인 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다. 특히, AI 운영 비용 절감이 필요한 기업들에게 큰 도움이 될 것으로 보인다. 라이너의 새로운 기술은 AI 시장에서 경쟁력을 높일 수 있는 중요한 요소가 될 것이다.",
+      "summary": "라이너가 LLM 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 솔루션은 기업의 AI 운영 비용을 크게 절감할 것으로 기대된다.",
+      "summary_full": "라이너가 새로운 AI 솔루션을 출시하여 LLM의 운영 비용을 절반으로 줄일 수 있는 기술을 선보였다. 이 혁신적인 솔루션은 기업들이 AI를 보다 효율적으로 활용할 수 있도록 돕는다. 특히, 비용 절감 효과로 인해 많은 기업들이 이 기술을 도입할 가능성이 높다. 라이너는 앞으로도 지속적으로 AI 기술 개발에 힘쓸 예정이다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -242,7 +416,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T00:57:32.000Z",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSHp3NjJMYUozc2ZYMV9CZWJNTno1MVFWWTlONGhtWG9qSHIwcDdZSmVRSTlCNnlSOFdMdFdaQVJhRl9TV1p1c1VyRVJjTHFPT2ZVRHljbGhWQ0pqOG9reNIBYEFVX3lxTE4zSHp3NjJMYUozc2ZYMV9CZWJNTno1MVFWWTlONGhtWG9qSHIwcDdZSmVRSTlCNnlSOFdMdFdaQVJhRl9TV1p1c1VyRVJjTHFPT2ZVRHljbGhWQ0pqOG9reA?oc=5",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "trend",
@@ -838,19 +1012,19 @@
     },
     {
       "category": "ai",
-      "title": "AI 모델의 전술 정보 및 무기 능력 측정",
-      "summary": "AI 모델의 전술 정보 타겟팅과 전통적 무기 능력을 평가하는 연구이다. 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
-      "summary_full": "이 연구는 AI 모델의 전술 정보 타겟팅 능력과 전통적인 무기 시스템의 성능을 측정하는 데 중점을 둔다. Frontier Red Team은 AI의 군사적 활용 가능성을 평가하기 위해 다양한 실험을 수행한다. 연구 결과는 AI 기술이 군사 작전에 미치는 영향을 이해하는 데 기여할 것이다. 이는 향후 전투 전략 개발에 중요한 정보를 제공할 수 있다.",
+      "title": "AI 모델의 전술 정보 및 무기 능력 평가",
+      "summary": "AI 모델의 전술 정보 타겟팅 및 전통적 무기 능력을 측정하는 연구가 진행된다. 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
+      "summary_full": "AI 모델의 전술 정보 타겟팅 및 전통적 무기 능력을 평가하는 Frontier Red Team의 연구가 소개된다. 이 연구는 AI 기술이 군사 작전에서 어떻게 활용될 수 있는지를 분석한다. 특히, AI의 정확성과 효율성을 높이기 위한 방법론이 논의된다. 궁극적으로, 이 연구는 AI의 군사적 응용 가능성을 확장하는 데 기여할 것으로 기대된다.",
       "keywords": [
         "AI 모델",
         "전술 정보",
-        "무기 능력"
+        "군사 기술"
       ],
       "source": "Anthropic Research",
       "date": "9월 10일",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "ai",
@@ -1934,22 +2108,6 @@
       "collectedAt": "2026-09-03"
     },
     {
-      "category": "figma",
-      "title": "변수 모달에서 투명도 대규모 업데이트 가능",
-      "summary": "변수 모달에서 투명도를 대규모로 업데이트하고 색상에 적용할 수 있다. 색상 라이브러리와 연결된 상태에서 투명도를 설정할 수 있다.",
-      "summary_full": "변수 모달에서 투명도를 대규모로 업데이트하고 색상 위에 적용할 수 있다. 색상이 라이브러리와 연결된 상태에서 별도로 분리하지 않고도 투명도를 조정할 수 있다. 숫자 변수를 사용하여 색상 변수에 투명도를 설정하고, 이를 색상 변수에 맞게 구체적으로 범위를 지정할 수 있다. 비활성 상태 및 오버레이 전반에 걸쳐 투명도를 쉽게 업데이트할 수 있다.",
-      "keywords": [
-        "투명도",
-        "변수 모달",
-        "색상 라이브러리"
-      ],
-      "source": "Figma Release Notes",
-      "date": "9월 3일",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-16"
-    },
-    {
       "category": "industry",
       "title": "행동하는 캔버스, 누가 진정한 통제자인가?",
       "summary": "에이전틱 인터페이스가 디자이너의 통제 방식을 변화시키고 있다. 이 새로운 캔버스는 여러 도구에서 맥락을 가져와 단계별 지침 없이 행동할 수 있다.",
@@ -2287,9 +2445,9 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 웹 개발에 유용한 기능으로, 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성되었습니다. 이 함수의 활용 가능성을 탐구하며, 독자들에게 뉴스레터 구독을 권장합니다.",
+      "title": "모든 브라우저에서 사용할 CSS random() 함수",
+      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수의 사용을 위해 폴리필을 만드는 여정을 설명합니다. 이 함수는 다양한 브라우저에서 호환되도록 개발되고 있습니다. CSS-Tricks에서 사랑을 담아 처음 작성되고 발표된 내용입니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -2299,7 +2457,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "design",
@@ -4398,150 +4556,6 @@
       "collectedAt": "2026-08-18"
     },
     {
-      "category": "design",
-      "title": "AI 에이전트의 협동 가능성",
-      "summary": "AI 에이전트 간의 협동이 이루어질 수 있는지에 대한 질문을 다룹니다. 이 주제는 AI의 상호작용과 협력의 미래를 탐구합니다.",
-      "summary_full": "AI 에이전트끼리 일을 시키는 것이 협동으로 이어질 수 있는지에 대한 논의입니다. 이 과정에서 AI의 상호작용 방식과 협력의 가능성을 분석합니다. 다양한 사례와 이론을 통해 AI 에이전트의 협동 능력을 평가합니다. 궁극적으로, AI의 발전이 협동 작업에 미치는 영향을 살펴봅니다.",
-      "keywords": [
-        "AI 에이전트",
-        "협동",
-        "상호작용"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T01:08:09.362Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-810/",
-      "collectedAt": "2026-08-17"
-    },
-    {
-      "category": "frontend",
-      "title": "AI 생성 웹 앱 디버깅 접근법",
-      "summary": "AI 코딩 도구를 사용해 빠르게 앱을 만들 수 있지만, 버그가 없다는 보장은 없다.",
-      "summary_full": "AI 도구를 통해 아이디어를 신속하게 앱으로 구현할 수 있지만, 생성된 앱에는 버그가 존재할 수 있다. 인증 문제, API 오류, 데이터베이스 응답 중단 등 다양한 문제가 발생할 수 있다. 어제 잘 작동하던 기능이 오늘 갑자기 작동하지 않을 수도 있다. 이러한 문제를 해결하기 위한 디버깅 접근법이 필요하다.",
-      "keywords": [
-        "AI 코딩 도구",
-        "디버깅",
-        "웹 앱"
-      ],
-      "source": "dev.to",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T00:58:13.000Z",
-      "url": "https://dev.to/afolabi_makinde_c70345fef/how-i-approach-debugging-ai-generated-web-apps-2b64",
-      "collectedAt": "2026-08-17"
-    },
-    {
-      "category": "trend",
-      "title": "무료 랜딩 페이지 - 랜딩 챗봇",
-      "summary": "기업 AI 챗봇 플랫폼으로, 전문적이고 ROI 중심의 솔루션입니다. HTML 파일을 저장하고 브라우저에서 열거나 Netlify/Vercel에 무료로 배포할 수 있습니다.",
-      "summary_full": "이 랜딩 페이지는 OmniIncome-v1에 의해 AI로 구축된 기업 AI 챗봇 플랫폼을 소개합니다. 전문적이고 ROI 중심의 접근 방식을 강조합니다. 사용자는 HTML 파일을 저장하여 브라우저에서 열거나 Netlify/Vercel에 무료로 배포할 수 있습니다. 지원 정보도 제공됩니다.",
-      "keywords": [
-        "랜딩 페이지",
-        "AI 챗봇",
-        "무료 배포"
-      ],
-      "source": "dev.to",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T00:47:20.000Z",
-      "url": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-1fha",
-      "collectedAt": "2026-08-17"
-    },
-    {
-      "category": "industry",
-      "title": "다리오 아모데이, AI 기업들이 약속을 지키지 못했다고 인정하다",
-      "summary": "다리오 아모데이는 AI 기업들이 약속을 이행하지 못했다는 비판이 가장 정확하다고 언급했다. 이는 앤트로픽이 2조 달러의 가치를 예상하며 상장 준비를 하고 있는 가운데 나온 발언이다.",
-      "summary_full": "다리오 아모데이는 AI 기업들이 약속을 지키지 못했다는 비판이 가장 정확하다고 밝혔다. 그는 진정한 돌파구가 있어야만 대중의 신뢰를 얻을 수 있다고 강조했다. 이러한 발언은 앤트로픽이 2조 달러의 가치를 예상하며 상장 준비를 하고 있는 시점에 나왔다. 아모데이는 이 문제에 대해 인정하는 입장을 취하고 있다.",
-      "keywords": [
-        "AI 기업",
-        "다리오 아모데이",
-        "앤트로픽"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 16일",
-      "publishedAt": "2026-08-16T21:01:31.000Z",
-      "url": "https://thenextweb.com/news/dario-amodei-ai-public-trust-cure-cancer-ipo",
-      "collectedAt": "2026-08-17"
-    },
-    {
-      "category": "trend",
-      "title": "삼성 갤럭시 Z 폴드8 및 Z 폴드8 울트라 리뷰: 올바른 형태",
-      "summary": "삼성의 갤럭시 폴드가 출시된 지 거의 10년 만에 진정한 발전을 이루었다. 새로운 디자인과 기능으로 사용자 경험을 한층 향상시켰다.",
-      "summary_full": "삼성의 갤럭시 Z 폴드8과 Z 폴드8 울트라는 혁신적인 폴더블 스마트폰이다. 이 모델은 사용자의 편의성을 고려한 다양한 기능을 제공한다. 특히, 디자인과 성능 면에서 큰 발전을 이루었다. 갤럭시 폴드 시리즈는 이제 성숙기에 접어들었다.",
-      "keywords": [
-        "삼성",
-        "갤럭시 Z 폴드8",
-        "폴더블 스마트폰"
-      ],
-      "source": "wired.com",
-      "date": "8월 16일",
-      "publishedAt": "2026-08-16T11:00:00.000Z",
-      "url": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
-      "collectedAt": "2026-08-17"
-    },
-    {
-      "category": "industry",
-      "title": "접근성을 쉽게 만드는 방법",
-      "summary": "디자이너를 위한 접근성 번역 가이드. 2026년 WebAIM 조사에 따르면, 95.9%의 홈페이지에서 접근성 오류가 발견되었다.",
-      "summary_full": "디자이너들이 접근성을 별도의 기술 세트로 생각하지 않도록 돕는 번역 가이드이다. 2026년 WebAIM의 조사 결과, 상위 100만 웹사이트의 홈페이지에서 95.9%가 접근성 오류를 가지고 있으며, 페이지당 평균 56개의 접근성 장벽이 발견되었다. 이는 이전 해보다 증가한 수치이다. 접근성을 디자인 과정에 통합하는 방법을 제시한다.",
-      "keywords": [
-        "접근성",
-        "디자인",
-        "WebAIM"
-      ],
-      "source": "uxdesign.cc",
-      "date": "8월 16일",
-      "publishedAt": "2026-08-16T10:08:38.000Z",
-      "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-17"
-    },
-    {
-      "category": "frontend",
-      "title": "CSS의 새로운 기능과 팁",
-      "summary": "이번 호에서는 커스텀 하이라이트 API, CSS 내비게이션 매칭, 텍스트 스트로크 수정 방법 등을 다룹니다. 또한, 스켈레톤 UI 스타일링, 대각선 스크롤 활성화, 이미지 오버플로우 문제 해결 등 다양한 CSS 기술을 소개합니다.",
-      "summary_full": "이번 호에서는 커스텀 하이라이트 API와 CSS 내비게이션 매칭, 텍스트 스트로크 수정 방법을 포함한 여러 CSS 기능을 다룹니다. 또한 스켈레톤 UI 스타일링, 대각선 스크롤 활성화, 이미지가 스스로 오버플로우하는 문제를 해결하는 방법도 소개합니다. 이 외에도 CSS로 할 수 있는 멋진 작업들이 많이 있습니다. CSS-Tricks에서 사랑을 담아 손으로 작성하고 발표된 내용입니다.",
-      "keywords": [
-        "CSS",
-        "하이라이트 API",
-        "스켈레톤 UI"
-      ],
-      "source": "css-tricks.com",
-      "date": "8월 14일",
-      "publishedAt": "2026-08-14T14:01:51.000Z",
-      "url": "https://css-tricks.com/whats-important-17/",
-      "collectedAt": "2026-08-17"
-    },
-    {
-      "category": "industry",
-      "title": "AI 윤리원칙 자율규범 제정",
-      "summary": "정부가 AI 기술 발전에 따른 법적 공백을 보완하기 위해 '인공지능 윤리원칙'을 제정한다. 이번 원칙은 기업의 강제 규제보다 자율적인 실천 기준에 중점을 둔다.",
-      "summary_full": "정부는 AI 기술 발전에 따른 법적 공백을 보완하기 위해 이달 내에 '인공지능 윤리원칙'을 제정할 예정이다. 이번 원칙은 기업을 강제하는 규제보다는 산업계와 이용자, 시민사회가 자율적으로 실천하는 기준에 초점을 맞춘다. 과기정통부는 윤리원칙의 현장 적용을 지원하기 위해 해설서와 자율점검표, 교육 교재 등을 마련할 계획이다.",
-      "keywords": [
-        "AI 윤리원칙",
-        "자율규범",
-        "정부 정책"
-      ],
-      "source": "바이라인네트워크",
-      "date": "8월 14일",
-      "publishedAt": "2026-08-14T12:11:51.000Z",
-      "url": "https://byline.network/2026/08/0814-7/",
-      "collectedAt": "2026-08-17"
-    },
-    {
-      "category": "ai",
-      "title": "오픈 모델 현황: 2026년 여름 관찰",
-      "summary": "2026년 여름의 오픈 모델 현황에 대한 관찰을 다룬다. 이 보고서는 오픈 모델의 발전과 현재 상태를 분석한다.",
-      "summary_full": "2026년 여름의 오픈 모델 현황을 종합적으로 분석한 보고서이다. 다양한 오픈 모델의 발전 상황과 그에 따른 사회적 영향이 논의된다. 또한, 오픈 모델이 기술 및 산업에 미치는 영향에 대한 통찰을 제공한다. 이 보고서는 향후 오픈 모델의 방향성과 가능성에 대한 예측을 포함한다.",
-      "keywords": [
-        "오픈 모델",
-        "기술 발전",
-        "산업 영향"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "8월 14일",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "collectedAt": "2026-08-17"
-    },
-    {
       "category": "ai",
       "title": "제미니 3.7 플래시 소개",
       "summary": "제미니 3.7 플래시가 새롭게 출시되었습니다. 이 버전은 성능과 기능이 향상되었습니다.",
@@ -4558,22 +4572,6 @@
       "collectedAt": "2026-08-21"
     },
     {
-      "category": "ai",
-      "title": "GPT-5.6을 활용한 스타트업 가이드",
-      "summary": "스타트업들이 GPT-5.6을 사용하여 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 배울 수 있다. 스마트한 모델 선택과 새로운 Responses API 기능을 통해 효율성을 높인다.",
-      "summary_full": "이 가이드는 스타트업들이 GPT-5.6을 활용하여 AI 에이전트를 더 빠르고 비용 효율적으로 구축하는 방법에 대해 설명한다. 특히 스마트한 모델 선택과 새로운 Responses API 기능이 핵심이다. 이를 통해 기업들은 경쟁력을 강화하고 운영 비용을 절감할 수 있다. GPT-5.6의 다양한 활용 사례를 통해 실제 적용 방법을 제시한다.",
-      "keywords": [
-        "GPT-5.6",
-        "AI 에이전트",
-        "스타트업"
-      ],
-      "source": "OpenAI News",
-      "date": "8월 13일",
-      "publishedAt": "2026-08-13T11:00:00.000Z",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "collectedAt": "2026-08-17"
-    },
-    {
       "category": "design",
       "title": "새로운 EU AI 라벨링 지침",
       "summary": "EU에서 AI 라벨링에 대한 법적 요구사항이 도입된다. 이는 AI 생성 콘텐츠의 명확성을 높이기 위한 조치이다.",
@@ -4588,22 +4586,6 @@
       "publishedAt": "2026-08-13T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
       "collectedAt": "2026-08-20"
-    },
-    {
-      "category": "frontend",
-      "title": "AI에게 투자정보를 말하게 하기까지",
-      "summary": "토스증권의 정현규 ML 엔지니어가 LLM을 활용한 투자 정보 생성의 과정을 설명합니다. 고객에게 제공할 수 있는 신뢰성 있는 투자 정보를 만드는 데 필요한 고려사항을 다룹니다.",
-      "summary_full": "토스증권의 정현규 Machine Learning Engineer는 LLM을 이용해 콘텐츠를 생성하는 과정의 변화를 설명합니다. 투자 정보로서의 신뢰성을 확보하기 위해 어떤 질문을 던져야 하는지, 근거를 어떻게 마련할 것인지, 오류를 어떻게 수정할 것인지에 대한 고민을 공유합니다. 또한, ML과 LLM 기술을 활용하여 AI 시그널과 실시간 이슈를 제공하는 금융투자 정보 서비스의 개발을 소개합니다. 이러한 기술들이 종목, ETF, 주요 시장의 움직임을 설명하는 데 어떻게 기여하는지를 설명합니다.",
-      "keywords": [
-        "AI",
-        "투자정보",
-        "ML 기술"
-      ],
-      "source": "toss.tech",
-      "date": "8월 13일",
-      "publishedAt": "2026-08-13T01:00:00.000Z",
-      "url": "https://toss.tech/article/tech_talk_talk_1",
-      "collectedAt": "2026-08-17"
     },
     {
       "category": "ai",
@@ -4640,8 +4622,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 디자이너들이 이 트렌드를 어떻게 활용하고 있는지 살펴본다.",
-      "summary_full": "디자이너들이 주목하는 최신 UX/UI 트렌드는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함한다. 이 기사에서는 이러한 트렌드가 디자인 프로세스에 미치는 영향과 실제 사례를 소개한다. 또한, 디자이너들이 이러한 트렌드를 통해 어떻게 혁신적인 솔루션을 제공하고 있는지를 분석한다. UX/UI 디자인의 미래 방향성을 제시하는 중요한 통찰을 제공한다.",
+      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 디자이너들은 이러한 변화에 발맞추어 혁신적인 접근 방식을 모색하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 다양한 혁신적인 요소를 포함하고 있다. 디자이너들은 이러한 트렌드를 통해 더 나은 인터페이스와 사용자 경험을 제공하기 위해 노력하고 있다. 앞으로의 디자인 방향성에 큰 영향을 미칠 것으로 기대된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4651,13 +4633,13 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 설계된 교수법을 계승하고 있다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 될 수 있다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 미친 영향을 이해하는 것이 중요하다. 결국, 언어 학습의 접근 방식이 어떻게 발전해왔는지를 알 수 있는 기회가 된다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 이러한 배경을 이해하는 것이 앱 자체에서 배우는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 앱 디자인에 미친 영향을 분석하는 것이 중요하다. 결국, 언어 학습 방법론의 기초를 이해하는 것이 더 나은 앱 디자인에 기여할 수 있다.",
       "keywords": [
         "언어 앱",
         "라틴어",
@@ -4667,7 +4649,7 @@
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     },
     {
       "category": "ai",
@@ -4689,9 +4671,9 @@
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 협력 관계를 맺었다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 AI 솔루션의 개발과 상용화를 통해 시장에서의 경쟁력을 높일 계획이다. 이러한 파트너십은 AI 산업의 미래에 긍정적인 영향을 미칠 것으로 보인다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄에 합류",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이를 통해 혁신적인 기술과 솔루션을 제공할 계획이다.",
+      "summary_full": "엠미가 미스트랄에 합류하여 AI 네이티브 산업의 성장을 촉진하고자 한다. 두 회사는 협력하여 혁신적인 기술을 개발하고, 시장의 요구에 부응하는 솔루션을 제공할 예정이다. 이러한 파트너십은 AI 기술의 발전에 기여할 것으로 기대된다. 엠미는 미스트랄과의 협력을 통해 경쟁력을 강화할 계획이다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4701,7 +4683,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-16"
+      "collectedAt": "2026-09-17"
     }
   ]
 }
