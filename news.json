@@ -1,22 +1,150 @@
 {
-  "updated": "2026년 9월 17일 AM 03:30",
+  "updated": "2026년 9월 18일 AM 03:15",
   "count": 292,
   "articles": [
     {
       "category": "industry",
-      "title": "인테리어 사장님의 성장을 설계하는 사람들",
-      "summary": "인테리어 시장에서 사장님의 성장을 돕는 전문가들의 이야기를 다룬다. 첫 번째 이야기에서는 이들의 역할과 시장 설계에 대한 통찰을 제공한다.",
-      "summary_full": "이 기사는 인테리어 사장님들의 성장을 지원하는 전문가들에 대한 이야기이다. 이들은 시장을 설계하고, 사장님들이 성공할 수 있도록 다양한 전략을 제시한다. 첫 번째 이야기에서는 이러한 전문가들이 어떤 방식으로 사장님들과 협력하는지를 탐구한다. 인테리어 업계의 변화와 도전 과제를 함께 논의하며, 성공적인 비즈니스 모델을 제안한다.",
+      "title": "인테리어 사장님의 성장 설계",
+      "summary": "인테리어 업계에서 사장님들의 성장을 돕는 사람들의 이야기를 다룬다. 시장을 설계하는 이들의 첫 번째 이야기로, 업계의 변화와 도전 과제를 탐구한다.",
+      "summary_full": "이 기사는 인테리어 사장님들의 성장을 지원하는 전문가들의 역할을 조명한다. 이들은 시장의 트렌드와 요구를 분석하여 사장님들이 성공할 수 있도록 돕는다. 첫 번째 이야기에서는 이들의 경험과 인사이트를 공유하며, 업계의 현재 상황과 미래를 논의한다. 인테리어 시장의 발전을 위한 다양한 전략과 접근 방식이 소개된다.",
       "keywords": [
         "인테리어",
-        "시장 설계",
-        "사장님 성장"
+        "성장",
+        "시장설계"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 17일",
-      "publishedAt": "2026-09-17T03:29:01.917Z",
+      "date": "9월 18일",
+      "publishedAt": "2026-09-18T03:14:54.655Z",
       "url": "https://www.bucketplace.com/post/2026-09-07-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "design",
+      "title": "Codex를 활용한 벡터 일러스트 제작 결과",
+      "summary": "Codex를 사용하여 벡터 일러스트를 제작한 경험을 공유한다. 이 과정에서의 장단점과 결과물에 대한 평가를 포함한다.",
+      "summary_full": "이번 기사에서는 Codex를 활용하여 벡터 일러스트를 제작한 과정을 자세히 설명한다. 사용한 도구와 기술, 그리고 그 결과물에 대한 평가를 통해 Codex의 유용성을 분석한다. 또한, 제작 과정에서의 어려움과 해결 방법에 대해서도 언급한다. 최종적으로, Codex의 활용 가능성에 대한 통찰을 제공한다.",
+      "keywords": [
+        "Codex",
+        "벡터 일러스트",
+        "디자인 도구"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "9월 18일",
+      "publishedAt": "2026-09-18T03:14:49.251Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-835/",
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "trend",
+      "title": "330,000개의 무료 아이콘 제공",
+      "summary": "AtomCut에서 아이콘 패널을 새롭게 출시했습니다. 33만 개의 아이콘을 검색하고 편집할 수 있으며, 벡터 레이어로 쉽게 사용할 수 있습니다.",
+      "summary_full": "AtomCut이 아이콘 패널을 출시하여 Lucide, Tabler, Phosphor 등 다양한 아이콘 세트를 제공합니다. 208개의 오픈 소스 아이콘 세트와 33만 개의 아이콘을 포함하여, 사용자는 원하는 아이콘을 선택하고 드래그하여 사용할 수 있습니다. 아이콘은 자동으로 그려지며, 편집기 내에서 쉽게 검색할 수 있습니다. 이로 인해 비디오 제작이 더욱 간편해졌습니다.",
+      "keywords": [
+        "아이콘",
+        "AtomCut",
+        "비디오 제작"
+      ],
+      "source": "dev.to",
+      "date": "9월 18일",
+      "publishedAt": "2026-09-18T02:20:42.000Z",
+      "url": "https://dev.to/codeideal/330000-free-icons-for-video-and-every-one-of-them-can-draw-itself-on-gnd",
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude가 AI 연구 및 개발의 26%를 주도한다고 발표",
+      "summary": "Anthropic이 AI 연구 및 개발에서 Claude가 26%의 비율을 차지한다고 발표했다. 이는 AI 분야에서 Claude의 영향력을 강조하는 결과이다.",
+      "summary_full": "Anthropic은 최근 Claude가 AI 연구 및 개발의 26%를 차지하고 있다고 발표했다. 이 발표는 Claude의 기술적 기여와 AI 분야에서의 중요성을 부각시키고 있다. AI 생태계에서 Claude의 역할이 더욱 커지고 있다는 점에서 주목할 만하다. 이는 AI 기술 발전에 있어 Claude의 기여가 크다는 것을 의미한다.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AI 연구"
+      ],
+      "source": "Google News Anthropic",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T22:52:15.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWR1bnFxNkE3V1pJeE9acXlfR0UySFV4ckFzd0l3SGxPTW5Wb3dQV1RIM3ZUMjNXX2xXa0dWLVF0M2E4R09mb25STXpQNVA2d0JYNjlINm9CWVBZWjJCSUZkYkFtdDl0TmUzTkZISWVQUE80NVNJREotblVobXdBdGNCSjQ4TlJ1ZHpuaDIzanhROU9F?oc=5",
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "trend",
+      "title": "AI 종말의 모습",
+      "summary": "이번 주 '언캐니 밸리'에서는 세 가지 가능한 AI 종말 시나리오와 AI 안전성, AI에 반대하는 예상치 못한 초당파 동맹에 대해 논의합니다.",
+      "summary_full": "이번 주 '언캐니 밸리'에서는 AI의 종말을 초래할 수 있는 세 가지 시나리오를 살펴봅니다. 또한 AI 안전성 문제와 함께 AI에 대한 반대 의견이 초당파적으로 형성되고 있는 현상에 대해서도 논의합니다. 이러한 주제들은 AI 기술의 발전과 그로 인한 사회적 영향에 대한 깊은 고민을 불러일으킵니다. AI의 미래에 대한 다양한 시각을 통해 청중들에게 경각심을 일깨우고자 합니다.",
+      "keywords": [
+        "AI 종말",
+        "AI 안전성",
+        "초당파 동맹"
+      ],
+      "source": "wired.com",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T22:20:21.000Z",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "industry",
+      "title": "앱을 폴더블에 맞춰 늘리지 마세요",
+      "summary": "폴더블 기기는 고정된 화면 제약이 없기 때문에 앱 디자인에 주의가 필요합니다. 미국 시장에서는 대부분의 스마트폰이 iOS이기 때문에 폴더블 기기는 우선사항이 아닙니다.",
+      "summary_full": "폴더블 기기는 2019년 삼성 갤럭시 폴드 출시 이후 시장에 존재해 왔지만, 주로 안드로이드 사용자에게만 해당됩니다. 미국 시장에서는 iOS 기기가 대부분이기 때문에 폴더블 기기를 위한 앱 디자인은 우선순위가 아닙니다. 안드로이드 사용자 중에서도 폴더블 기기를 사용하는 비율은 매우 적습니다. 따라서 앱 개발자는 폴더블 기기에 맞춰 디자인할 때 신중해야 합니다.",
+      "keywords": [
+        "폴더블 기기",
+        "앱 디자인",
+        "안드로이드"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T21:34:12.000Z",
+      "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "industry",
+      "title": "고급 AI 사회, 리눅스 재단에 합류하여 개방형 검증 생태계 출시",
+      "summary": "고급 AI 사회가 리눅스 재단에 합류하고 개방형 검증 생태계를 출시했다. 이는 의회에서 에이전트 보안 관련 법안이 진행됨에 따라 이루어진 조치이다.",
+      "summary_full": "고급 AI 사회가 리눅스 재단에 합류하여 개방형 검증 생태계를 출시했다. 이는 양당의 법안이 검증 가능한 에이전트 제어를 요구함에 따라 이루어진 것이다. Proof-of-Control v1.0 초안이 공개 의견 수렴을 위해 발표되었으며, '기계들을 누가 감시하는가?'라는 이벤트가 개최되었다. 이러한 움직임은 지속적인 에이전트 검증과 제3자 평가를 요구하는 의회 제안과 관련이 있다.",
+      "keywords": [
+        "AI",
+        "리눅스 재단",
+        "검증 생태계"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T20:25:40.000Z",
+      "url": "https://thenextweb.com/news/advanced-ai-society-linux-foundation-proof-of-control",
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "ai",
+      "title": "Cooley가 ChatGPT로 IPO 작업을 가속화하는 방법",
+      "summary": "Cooley는 IPO 프로세스에 지능을 도입하기 위해 ChatGPT Work와 함께 GO Public을 구축했습니다. 이를 통해 변호사들은 문제를 조기에 발견하고 중요한 판단에 집중할 수 있습니다.",
+      "summary_full": "Cooley는 IPO 프로세스를 개선하기 위해 ChatGPT Work와 협력하여 GO Public을 개발했습니다. 이 플랫폼은 변호사들이 문제를 조기에 식별할 수 있도록 도와줍니다. 또한, 변호사들이 가장 중요한 판단에 집중할 수 있게 합니다. 결과적으로, IPO 작업의 효율성이 향상됩니다.",
+      "keywords": [
+        "Cooley",
+        "IPO",
+        "ChatGPT"
+      ],
+      "source": "OpenAI News",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "industry",
+      "title": "AI 시대, 데이터 중심 인프라 필요성 강조",
+      "summary": "에버퓨어는 데이터 파편화와 다크 데이터 문제를 지적하며 데이터 중심 인프라의 필요성을 강조했다. 4단계 데이터 분류 프레임워크와 EDC 전략을 제시했다.",
+      "summary_full": "에버퓨어는 AI 시대에 데이터 중심 인프라로의 전환이 필요하다고 주장했다. 데이터 파편화와 다크 데이터 문제를 해결하기 위해 4단계 데이터 분류 프레임워크를 제안했다. 또한, 엔터프라이즈 데이터 클라우드(EDC) 전략을 통해 효과적인 데이터 관리 방안을 모색했다. 국내 올플래시 스토리지 시장의 성장과 네오 클라우드 사업자들의 인프라 투자 확대에 대한 시장 동향도 공유했다.",
+      "keywords": [
+        "AI 시대",
+        "데이터 중심 인프라",
+        "에버퓨어"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T11:25:02.000Z",
+      "url": "https://byline.network/2026/09/0917-8/",
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "design",
@@ -81,6 +209,38 @@
       "publishedAt": "2026-09-17T00:43:55.000Z",
       "url": "https://byline.network/2026/09/15-651/",
       "collectedAt": "2026-09-17"
+    },
+    {
+      "category": "figma",
+      "title": "Figma 노드로 디자인 연결하기",
+      "summary": "Figma 노드가 Figma Design에서 만든 디자인을 Figma Weave 워크플로우에 연결할 수 있게 해줍니다. 사용자는 Figma 프레임을 복사하여 Weave에 붙여넣어 워크플로우의 노드로 변환할 수 있습니다.",
+      "summary_full": "Figma 노드가 오늘부터 사용 가능해졌습니다. 이를 통해 사용자는 Figma Design에서 생성한 디자인을 Figma Weave 워크플로우에 직접 연결할 수 있습니다. 사용자는 Figma 프레임을 복사하여 Weave에 붙여넣음으로써 이를 워크플로우의 노드로 변환할 수 있습니다. 이 기능은 디자인과 워크플로우 간의 통합을 더욱 원활하게 만들어줍니다.",
+      "keywords": [
+        "Figma",
+        "디자인 연결",
+        "워크플로우"
+      ],
+      "source": "Figma Release Notes",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "ai",
+      "title": "클로드가 생체분자 모델링을 혁신하다",
+      "summary": "클로드는 생체분자 모델링의 새로운 가능성을 열어주고 있다. 이 기술은 생명과학 연구에 큰 기여를 할 것으로 기대된다.",
+      "summary_full": "클로드는 생체분자 모델링 분야에서 혁신적인 접근 방식을 제공하고 있다. 이를 통해 연구자들은 더 정교하고 정확한 모델을 구축할 수 있게 되었다. 이 기술은 약물 개발 및 질병 이해에 중요한 역할을 할 것으로 보인다. 앞으로 생명과학 연구의 발전에 기여할 것으로 기대된다.",
+      "keywords": [
+        "생체분자",
+        "모델링",
+        "클로드"
+      ],
+      "source": "Anthropic Research",
+      "date": "9월 17일",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "trend",
@@ -165,8 +325,8 @@
     {
       "category": "design",
       "title": "CSS 컨테이너 쿼리를 전통적인 미디어 쿼리처럼 다루지 마세요",
-      "summary": "CSS 컨테이너 쿼리는 미디어 쿼리와 다르게 사용해야 합니다. 이 새로운 기능의 필요성을 이해하는 것이 중요합니다.",
-      "summary_full": "CSS 컨테이너 쿼리가 처음 출시되었을 때, 많은 사람들이 미디어 쿼리와의 차이를 이해하지 못했습니다. 저자도 처음에는 왜 필요할지 의문을 가졌습니다. 그러나 컨테이너 쿼리는 더 유연한 디자인을 가능하게 하며, 이를 통해 다양한 화면 크기에서 더 나은 사용자 경험을 제공할 수 있습니다. 따라서 이 새로운 기능을 제대로 활용하는 것이 중요합니다.",
+      "summary": "CSS 컨테이너 쿼리가 처음 출시되었을 때, 그 필요성에 대해 의문을 가졌던 사람들이 많았다. 그러나 이 기술은 미디어 쿼리와는 다른 유용한 기능을 제공한다.",
+      "summary_full": "CSS 컨테이너 쿼리가 처음 출시되었을 때, 많은 개발자들이 그 필요성에 대해 의문을 가졌다. 미디어 쿼리가 이미 존재하는 상황에서 컨테이너 쿼리가 왜 필요한지 이해하기 어려웠던 것이다. 하지만 시간이 지나면서 이 기술의 유용성을 깨닫게 되었고, 많은 사람들이 같은 생각을 하고 있다는 것을 알게 되었다. CSS 컨테이너 쿼리는 레이아웃을 보다 유연하게 조정할 수 있는 강력한 도구이다.",
       "keywords": [
         "CSS",
         "컨테이너 쿼리",
@@ -176,7 +336,7 @@
       "date": "9월 16일",
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "trend",
@@ -243,22 +403,6 @@
       "collectedAt": "2026-09-16"
     },
     {
-      "category": "figma",
-      "title": "Figma에서 생성적 AI 워크플로우를 활용하는 Weave 도구",
-      "summary": "Weave 도구는 Figma에서 생성적 AI 워크플로우를 직접 활용할 수 있게 해줍니다. 사용자는 자신만의 Weave 도구를 만들어 Figma 커뮤니티에 게시할 수 있습니다.",
-      "summary_full": "Weave 도구는 Figma에서 생성적 AI 워크플로우를 직접 활용할 수 있는 기능을 제공합니다. 사용자는 반복적인 이미지 및 벡터 생성을 대규모로 처리할 수 있는 맞춤형 Weave 도구를 만들고 게시할 수 있습니다. 또한, 커뮤니티를 탐색하여 다른 사용자가 만든 도구를 확인할 수 있습니다. 커뮤니티 게시 기능은 사용자 간의 협업을 촉진합니다.",
-      "keywords": [
-        "Figma",
-        "Weave 도구",
-        "생성적 AI"
-      ],
-      "source": "Figma Release Notes",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-17"
-    },
-    {
       "category": "trend",
       "title": "AI 배우 틸리 노우드, ‘모든 생명은 소중하다’고 말하다",
       "summary": "가상 캐릭터가 영화 'Misaligned' 홍보 중 정치적 발언을 피하며 의상에 대해 반복적으로 언급한다. 틸리 노우드는 자신의 역할에 대한 의견을 공유한다.",
@@ -278,7 +422,7 @@
       "category": "ai",
       "title": "제미니 3.8 라이브 및 3.8 라이브 확장 사고 소개",
       "summary": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 소개되었습니다. 새로운 기능과 개선 사항이 포함되어 있습니다.",
-      "summary_full": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 새롭게 출시되었습니다. 이 버전은 사용자 경험을 향상시키기 위한 다양한 기능을 제공합니다. 특히, 실시간 데이터 처리와 확장된 사고 능력이 강조됩니다. 이러한 발전은 다양한 분야에서의 활용 가능성을 높입니다.",
+      "summary_full": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 새롭게 발표되었습니다. 이 버전은 사용자 경험을 향상시키기 위한 다양한 기능을 포함하고 있습니다. 특히, 실시간 데이터 처리와 확장된 사고 능력이 강조됩니다. 이러한 변화는 기술 발전에 큰 기여를 할 것으로 기대됩니다.",
       "keywords": [
         "제미니",
         "라이브",
@@ -288,7 +432,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T17:05:57.000Z",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "ai",
@@ -308,19 +452,19 @@
     },
     {
       "category": "ai",
-      "title": "당신의 에이전트가 작업을 완수했습니다. 다시 할 수 있을까요?",
-      "summary": "에이전트가 이전 작업을 성공적으로 수행했지만, 다시 같은 성과를 낼 수 있을지에 대한 의문을 제기합니다. 이 글은 에이전트의 신뢰성과 일관성에 대해 다룹니다.",
-      "summary_full": "이 글은 에이전트가 특정 작업을 성공적으로 수행한 사례를 소개합니다. 그러나 그 성과가 반복될 수 있을지에 대한 의문이 제기됩니다. 에이전트의 성능을 평가하고, 향후 작업에서의 일관성을 분석하는 내용을 포함합니다. 독자는 에이전트의 신뢰성에 대한 깊은 통찰을 얻게 될 것입니다.",
+      "title": "당신의 에이전트가 과제를 완수했습니다. 다시 할 수 있을까요?",
+      "summary": "에이전트가 과제를 성공적으로 수행했지만, 반복적인 성과를 낼 수 있을지에 대한 의문을 제기합니다. 이는 에이전트의 신뢰성과 일관성을 평가하는 중요한 요소입니다.",
+      "summary_full": "에이전트가 특정 과제를 성공적으로 수행한 사례를 소개합니다. 그러나 이러한 성과가 지속적으로 이어질 수 있을지에 대한 의문이 남습니다. 이는 에이전트의 성능을 평가하는 데 있어 중요한 기준이 됩니다. 따라서, 반복적인 성공 여부는 에이전트의 신뢰성을 결정짓는 중요한 요소입니다.",
       "keywords": [
         "에이전트",
-        "작업 수행",
+        "과제 수행",
         "신뢰성"
       ],
       "source": "HuggingFace Blog",
       "date": "9월 15일",
       "publishedAt": "2026-09-15T16:00:44.000Z",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "industry",
@@ -389,8 +533,8 @@
     {
       "category": "frontend",
       "title": "토스증권의 GPU-native 클러스터 구축 방법",
-      "summary": "토스증권은 Kubernetes 기반의 GPU 클러스터를 구축하며 겪은 문제와 해결 방법을 공유합니다. AI 서비스의 GPU 워크로드를 효율적으로 운영하기 위한 과정을 설명합니다.",
-      "summary_full": "토스증권의 Data Infra 팀은 ML Platform 팀과 협력하여 Kubernetes 기반의 GPU 클러스터를 구축했습니다. 이 과정에서 쿠버네티스가 GPU를 자원으로 인식하고 할당하는 방법을 해결해야 했습니다. 수백 명의 개발자가 다양한 서비스를 운영하는 환경에서 AI 서비스도 GPU를 활용할 수 있도록 하였습니다. 이 글에서는 GPU 인식 및 할당 과정에 대한 자세한 내용을 다룹니다.",
+      "summary": "토스증권은 Kubernetes 기반의 GPU 클러스터를 구축하며 겪은 문제와 해결 방법을 공유합니다. AI 서비스의 GPU 워크로드를 효율적으로 관리하기 위한 과정이 소개됩니다.",
+      "summary_full": "토스증권의 Data Infra 팀은 ML Platform 팀과 협력하여 Kubernetes 기반의 GPU 클러스터를 구축했습니다. 이 과정에서 쿠버네티스가 GPU를 자원으로 인식하고 할당하는 문제를 해결해야 했습니다. 개발자들이 다양한 서비스를 운영하는 환경에서 AI 서비스도 GPU를 활용할 수 있도록 하였습니다. 이 글에서는 GPU 인식 및 워크로드 할당에 대한 구체적인 방법을 설명합니다.",
       "keywords": [
         "토스증권",
         "GPU 클러스터",
@@ -400,7 +544,23 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T01:42:00.000Z",
       "url": "https://toss.tech/article/gpu-native-cluster",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
+    },
+    {
+      "category": "ai",
+      "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
+      "summary": "라이너가 LLM(대형 언어 모델) 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
+      "summary_full": "라이너는 최근 LLM의 운영 비용을 절반으로 줄일 수 있는 AI 솔루션을 출시했다. 이 새로운 기술은 기업들이 AI를 활용하는 데 있어 경제적인 부담을 덜어줄 것으로 기대된다. 또한, 라이너의 솔루션은 다양한 산업 분야에서의 적용 가능성을 보여준다. 이를 통해 기업들은 더 나은 성과를 달성할 수 있을 것으로 보인다.",
+      "keywords": [
+        "라이너",
+        "AI 솔루션",
+        "LLM 비용 절감"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "9월 15일",
+      "publishedAt": "2026-09-15T00:57:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "ai",
@@ -2445,9 +2605,9 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 사용할 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수의 사용을 위해 폴리필을 만드는 여정을 설명합니다. 이 함수는 다양한 브라우저에서 호환되도록 개발되고 있습니다. CSS-Tricks에서 사랑을 담아 처음 작성되고 발표된 내용입니다. 뉴스레터 구독도 추천합니다.",
+      "title": "모든 브라우저에서 사용할 수 있는 emergent CSS random() 함수",
+      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수의 폴리필을 만드는 과정을 소개합니다. 이 함수는 모든 브라우저에서 호환되도록 개발되고 있습니다. CSS-Tricks에서 처음 작성되고 사랑을 담아 발표되었습니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -2457,7 +2617,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "design",
@@ -4380,38 +4540,6 @@
       "collectedAt": "2026-08-19"
     },
     {
-      "category": "frontend",
-      "title": "소리로 전화 스피커의 먼지를 청소할 수 있을까? 내가 설계해야 했던 경계",
-      "summary": "브라우저 기반 스피커 청소기를 만들면서 진동이 물방울을 움직일 수 있다면 먼지도 청소할 수 있는지에 대한 질문에 직면했다. 물과 먼지는 모두 전화 스피커의 소리를 둔탁하게 만들지만, 서로 다른 물리적 문제이다.",
-      "summary_full": "브라우저 기반 스피커 청소기를 만들면서 진동이 물방울을 움직일 수 있다면 먼지도 청소할 수 있는지에 대한 질문에 직면했다. 유혹적인 대답은 '예'이지만, 유용한 대답은 더 좁다. 물과 먼지는 모두 전화 스피커의 소리를 둔탁하게 만들지만, 서로 다른 물리적 문제이다. 이들을 하나의 문제로 간주하는 것은 잘못된 접근이다.",
-      "keywords": [
-        "스피커 청소",
-        "진동",
-        "물리적 문제"
-      ],
-      "source": "dev.to",
-      "date": "8월 18일",
-      "publishedAt": "2026-08-18T00:52:51.000Z",
-      "url": "https://dev.to/zack_e36e64fd6fcd12ebbc13/can-sound-clean-dust-from-a-phone-speaker-the-boundary-i-had-to-design-around-35nh",
-      "collectedAt": "2026-08-18"
-    },
-    {
-      "category": "industry",
-      "title": "유료 사용자 기본 설정으로 커서 오리진 제공, 데이터 조건 미공개",
-      "summary": "커서가 자체 코드 호스팅 플랫폼인 오리진을 출시했으며, 유료 사용자에게 기본적으로 활성화된다. 그러나 데이터 조건에 대한 정보는 공개되지 않았다.",
-      "summary_full": "커서가 월요일 아침에 자체 코드 호스팅 플랫폼인 오리진을 출시하기 시작했다. 출시 약 3시간 반 후, GitHub가 다운되었고, 이는 인터넷의 대부분이 이 순서를 뒤집었기 때문이다. 커서의 직원인 맷 팔머는 자신의 회사 출시 소식을 인용하여 트윗했으며, 이 내용이 제품보다 더 널리 퍼졌다. 이 이야기는 더 많은 내용을 포함하고 있다.",
-      "keywords": [
-        "커서",
-        "오리진",
-        "코드 호스팅"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 18일",
-      "publishedAt": "2026-08-18T00:34:52.000Z",
-      "url": "https://thenextweb.com/news/cursor-origin-opt-out-data-terms-spacex-github-outage",
-      "collectedAt": "2026-08-18"
-    },
-    {
       "category": "ai",
       "title": "클로드가 단백질 설계와 분석 화학을 가속화하는 방법",
       "summary": "클로드는 생명 과학자들이 연구 속도를 높일 수 있도록 돕는 두 가지 결과를 공유합니다.",
@@ -4426,54 +4554,6 @@
       "publishedAt": "2026-08-18T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
       "collectedAt": "2026-08-26"
-    },
-    {
-      "category": "trend",
-      "title": "홈 페이지에 '홈' 링크 없음",
-      "summary": "웹 사용성에 대한 통찰을 바탕으로 UI 디자인의 중요성을 강조한다.",
-      "summary_full": "디자인의 미적 요소와 사용성을 결합하려는 노력을 다룬다. 좋은 UI는 단순한 외관이 아니라 자연스러운 작동 방식에 달려있음을 설명한다. 화려한 디자인은 비디오 게임에서 더 적합하다는 의견을 제시한다.",
-      "keywords": [
-        "웹 사용성",
-        "UI 디자인",
-        "Jakob Nielsen"
-      ],
-      "source": "dev.to",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T22:35:19.000Z",
-      "url": "https://dev.to/devy/no-home-link-on-home-pages-27hi",
-      "collectedAt": "2026-08-18"
-    },
-    {
-      "category": "trend",
-      "title": "엘니뇨란 무엇이며, 날씨, 물, 그리고 세계 경제에 미치는 영향은?",
-      "summary": "올해의 엘니뇨는 역대 가장 강력할 것으로 예상된다. 이에 따라 다양한 기후 변화가 예상된다.",
-      "summary_full": "올해의 엘니뇨는 역대 가장 강력할 것으로 보인다. 이는 전 세계의 날씨 패턴에 큰 영향을 미칠 것이다. 또한, 물 자원과 농업 생산성에도 영향을 미쳐 경제에 중대한 변화를 가져올 수 있다. 따라서 이에 대한 준비와 대응이 필요하다.",
-      "keywords": [
-        "엘니뇨",
-        "기후변화",
-        "세계경제"
-      ],
-      "source": "wired.com",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T21:28:42.000Z",
-      "url": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/",
-      "collectedAt": "2026-08-18"
-    },
-    {
-      "category": "ai",
-      "title": "동일 클러스터, 33포인트 더 높은 활용도: 변화한 것은 순서",
-      "summary": "동일한 클러스터에서 활용도가 33포인트 증가한 이유는 순서의 변화였다. 이 변화가 어떻게 이루어졌는지에 대한 분석이 필요하다.",
-      "summary_full": "이 연구는 동일 클러스터에서 활용도가 33포인트 증가한 이유를 탐구한다. 핵심적인 요소는 작업의 순서 변경이었다. 이러한 순서 변경이 어떻게 효율성을 높였는지를 살펴본다. 결과적으로, 최적의 작업 순서가 클러스터의 성능을 극대화하는 데 기여했다.",
-      "keywords": [
-        "클러스터",
-        "활용도",
-        "작업 순서"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T19:46:21.000Z",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "collectedAt": "2026-08-18"
     },
     {
       "category": "frontend",
@@ -4492,22 +4572,6 @@
       "collectedAt": "2026-08-19"
     },
     {
-      "category": "industry",
-      "title": "리더십 재고, 판단의 병목, 기계의 윤리적 UX",
-      "summary": "디자인 리더십은 기계적 사고로 인해 어려움을 겪고 있다. 전략 변화나 경쟁자의 새로운 AI 기능 도입에 민감하게 반응한다.",
-      "summary_full": "현재 디자인 리더십은 기계적 사고로 인해 심각한 문제를 겪고 있다. 우리는 크로스 기능 정렬, 제품 개발, 운영 및 로드맵 예측에 대해 끝없이 이야기하지만, 기계적 시스템은 취약하다. 전략이 바뀌거나 경쟁자가 새로운 AI 기능을 도입하면 쉽게 무너진다. 이러한 문제를 해결하기 위해 윤리적 UX 접근이 필요하다.",
-      "keywords": [
-        "리더십",
-        "디자인",
-        "윤리적 UX"
-      ],
-      "source": "uxdesign.cc",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T11:23:18.000Z",
-      "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-18"
-    },
-    {
       "category": "ai",
       "title": "Anthropic, Claude의 텍스트에 지문 남겨 AI 콘텐츠 투명성 향상",
       "summary": "Anthropic은 AI가 생성한 콘텐츠의 투명성을 높이기 위해 Claude의 텍스트에 미세한 지문을 추가합니다. 이를 통해 사용자들은 AI가 생성한 콘텐츠를 쉽게 식별할 수 있습니다.",
@@ -4522,38 +4586,6 @@
       "publishedAt": "2026-08-17T09:11:45.000Z",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVlzejJCbUR3bWV2eXJVM1RlWkhJZExqYWdUN3JkM0pod2hETHRGaUJNYnZPTGNnOFhKVnN6Ujd3MGxvc3otUFJkUHhaWTg2SnRSTzJfY2NsOTcyallld1hWeDZXRV9yZ0xibEx1TWUyR2tLcllmVFBXeTBQM0lralJXdUZlblRjWnRKZG5hTHlMWngzMFRfZndoc0g1LXlOcl9LTkYwVkhVWTBNY1FJdXNjRl9jZXFlcmZV?oc=5",
       "collectedAt": "2026-08-21"
-    },
-    {
-      "category": "ai",
-      "title": "수비자의 창",
-      "summary": "AI가 공격자와 방어자 모두를 위한 사이버 보안을 재편하고 있다. OpenAI가 방어를 강화하는 방법과 보안 팀이 지금 할 수 있는 일에 대해 알아보자.",
-      "summary_full": "AI 기술이 사이버 보안의 판도를 바꾸고 있으며, 이는 공격자와 방어자 모두에게 영향을 미치고 있다. OpenAI는 자사의 방어 체계를 강화하기 위해 다양한 전략을 모색하고 있다. 보안 팀은 현재의 위협에 대응하기 위해 어떤 조치를 취할 수 있는지에 대한 통찰을 제공한다. 이러한 변화는 사이버 보안의 미래를 형성하는 데 중요한 역할을 할 것이다.",
-      "keywords": [
-        "AI",
-        "사이버 보안",
-        "OpenAI"
-      ],
-      "source": "OpenAI News",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T05:30:00.000Z",
-      "url": "https://openai.com/index/the-defenders-window",
-      "collectedAt": "2026-08-18"
-    },
-    {
-      "category": "industry",
-      "title": "라인게임즈의 협동 게임 ‘콰이어트’",
-      "summary": "라인게임즈의 ‘콰이어트’는 프렌드슬롭의 재미를 살린 협동 게임입니다. 현재 스팀 테스트 중이며, 일부 콘텐츠만 공개된 상태입니다.",
-      "summary_full": "라인게임즈가 개발 중인 ‘콰이어트(QUIET)’는 프렌드슬롭의 즐거움을 담은 협동 게임입니다. 게임의 설정과 방법은 프렌드슬롭의 장점을 잘 구현하고 있습니다. 함께 플레이할 때 더욱 재미를 느낄 수 있지만, 아직 완성되지 않아 보완이 필요한 부분도 있습니다. 현재 스팀에서 테스트 중이며, 일부 콘텐츠만 공개되었습니다.",
-      "keywords": [
-        "라인게임즈",
-        "콰이어트",
-        "프렌드슬롭"
-      ],
-      "source": "바이라인네트워크",
-      "date": "8월 17일",
-      "publishedAt": "2026-08-17T04:43:03.000Z",
-      "url": "https://byline.network/2026/08/14-620/",
-      "collectedAt": "2026-08-18"
     },
     {
       "category": "ai",
@@ -4589,22 +4621,6 @@
     },
     {
       "category": "ai",
-      "title": "신흥 다중 에이전트 시스템의 패턴과 문제",
-      "summary": "신흥 다중 에이전트 시스템에서 나타나는 주요 패턴과 문제점을 분석한다. 이 연구는 이러한 시스템의 발전에 따른 도전 과제를 조명한다.",
-      "summary_full": "이 논문은 신흥 다중 에이전트 시스템에서 발생하는 다양한 패턴과 문제를 탐구한다. 다중 에이전트 시스템의 복잡성과 상호작용이 증가함에 따라 새로운 도전 과제가 나타나고 있다. 연구팀은 이러한 문제를 해결하기 위한 접근 방식을 제시하고, 향후 연구 방향을 논의한다. 이를 통해 다중 에이전트 시스템의 효율성과 안정성을 높이는 방안을 모색한다.",
-      "keywords": [
-        "다중 에이전트 시스템",
-        "패턴 분석",
-        "문제 해결"
-      ],
-      "source": "Anthropic Research",
-      "date": "8월 13일",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "collectedAt": "2026-08-18"
-    },
-    {
-      "category": "ai",
       "title": "Shutterstock 주가 급등",
       "summary": "Shutterstock의 주가가 Anthropic AI의 'Claude' 통합 소식에 급등했다. 이는 AI 기술 통합의 긍정적인 영향을 반영한 결과로 보인다.",
       "summary_full": "Shutterstock의 주가는 최근 Anthropic AI의 'Claude' 통합 발표 이후 급등세를 보였다. 이 통합은 Shutterstock의 이미지 및 콘텐츠 제공 방식에 혁신을 가져올 것으로 기대된다. 투자자들은 AI 기술이 기업의 성장에 미치는 긍정적인 영향을 주목하고 있다. 이러한 변화는 Shutterstock의 시장 경쟁력을 높이는 데 기여할 것으로 예상된다.",
@@ -4622,8 +4638,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 디자이너들은 이러한 변화에 발맞추어 혁신적인 접근 방식을 모색하고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 다양한 혁신적인 요소를 포함하고 있다. 디자이너들은 이러한 트렌드를 통해 더 나은 인터페이스와 사용자 경험을 제공하기 위해 노력하고 있다. 앞으로의 디자인 방향성에 큰 영향을 미칠 것으로 기대된다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이러한 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 개선하기 위한 다양한 전략과 기술을 포함하고 있다. 특히, 직관적인 인터페이스와 개인화된 경험이 강조되고 있다. 이러한 변화는 디지털 제품의 경쟁력을 높이는 데 중요한 역할을 하고 있다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4633,47 +4649,29 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 이러한 배경을 이해하는 것이 앱 자체에서 배우는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 앱 디자인에 미친 영향을 분석하는 것이 중요하다. 결국, 언어 학습 방법론의 기초를 이해하는 것이 더 나은 앱 디자인에 기여할 수 있다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교육 방법을 계승했다. 그 이유를 이해하는 것이 앱들이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 학습의 기초를 이해하는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "디자인 교훈"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
     },
     {
       "category": "ai",
-      "title": "카페24, LLM 라우터 출시",
-      "summary": "카페24가 GPT와 클로드를 통합 운용할 수 있는 'LLM 라우터'를 출시했다. 이 제품은 다양한 언어 모델을 효율적으로 관리할 수 있도록 돕는다.",
-      "summary_full": "카페24가 새로운 'LLM 라우터'를 출시하여 GPT와 클로드를 통합 운용할 수 있는 기능을 제공한다. 이 라우터는 사용자들이 여러 언어 모델을 효과적으로 관리하고 활용할 수 있도록 설계되었다. 이를 통해 기업들은 AI 기술을 더욱 효율적으로 활용할 수 있을 것으로 기대된다. 카페24는 이 제품을 통해 AI 서비스의 접근성을 높이고자 한다.",
-      "keywords": [
-        "카페24",
-        "LLM 라우터",
-        "GPT",
-        "클로드",
-        "AI 서비스"
-      ],
-      "source": "Google News AI (KR)",
-      "date": "6월 23일",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Rd3o4YlhQQU51OGlYUVB6ZEx4ejRxcWp4TFhqMjNhTjFPNXZHaHhwUDlNbVl6Y3ZkX1JFa0Rqb19scmtRWE9fU2dxSVNrUQ?oc=5",
-      "collectedAt": "2026-08-18"
-    },
-    {
-      "category": "ai",
-      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄에 합류",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이를 통해 혁신적인 기술과 솔루션을 제공할 계획이다.",
-      "summary_full": "엠미가 미스트랄에 합류하여 AI 네이티브 산업의 성장을 촉진하고자 한다. 두 회사는 협력하여 혁신적인 기술을 개발하고, 시장의 요구에 부응하는 솔루션을 제공할 예정이다. 이러한 파트너십은 AI 기술의 발전에 기여할 것으로 기대된다. 엠미는 미스트랄과의 협력을 통해 경쟁력을 강화할 계획이다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화하는 프로젝트에 참여한다. 이 협력은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 양사는 서로의 기술력과 자원을 결합하여 시장에서의 경쟁력을 높일 계획이다. 이를 통해 AI 기반 솔루션의 개발과 상용화가 더욱 가속화될 것으로 보인다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4683,7 +4681,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-17"
+      "collectedAt": "2026-09-18"
     }
   ]
 }
