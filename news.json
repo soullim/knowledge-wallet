@@ -1,7 +1,199 @@
 {
-  "updated": "2026년 9월 21일 AM 03:23",
-  "count": 279,
+  "updated": "2026년 9월 22일 AM 03:22",
+  "count": 286,
   "articles": [
+    {
+      "category": "trend",
+      "title": "복잡한 인터페이스에서의 평온 구축",
+      "summary": "복잡한 인터페이스는 복잡하게 느껴질 필요가 없다. 사용자 경험을 개선하기 위한 방법을 탐구한다.",
+      "summary_full": "복잡한 인터페이스는 사용자에게 혼란을 줄 수 있지만, 이를 단순화하여 평온함을 제공할 수 있다. 디자인 원칙과 사용자 중심 접근 방식을 통해 복잡성을 줄이는 방법을 제시한다. 최종 목표는 사용자가 인터페이스를 보다 쉽게 이해하고 사용할 수 있도록 하는 것이다.",
+      "keywords": [
+        "인터페이스",
+        "사용자 경험",
+        "디자인 원칙"
+      ],
+      "source": "dev.to",
+      "date": "9월 22일",
+      "publishedAt": "2026-09-22T03:22:04.000Z",
+      "url": "https://dev.to/khanh_nguyen_04b1205f5a91/building-calm-in-complex-interfaces-18n8",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "industry",
+      "title": "정답 없는 제품 문제 해결법",
+      "summary": "오토태깅을 통해 콘텐츠와 상품을 연결하는 방법을 소개한다. AI 기술을 활용하여 더 쉽고 다양한 솔루션을 제공한다.",
+      "summary_full": "정답 없는 제품 문제를 해결하기 위한 오토태깅 개발 과정을 설명한다. 콘텐츠와 상품을 연결하는 플러스 태그의 중요성을 강조한다. AI 기술을 통해 문제 해결을 보다 쉽고 다양하게 접근할 수 있는 방법을 제시한다. 이 과정에서 AI 프론티어의 역할도 다룬다.",
+      "keywords": [
+        "오토태깅",
+        "AI 기술",
+        "플러스 태그"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "9월 22일",
+      "publishedAt": "2026-09-22T03:21:51.623Z",
+      "url": "https://www.bucketplace.com/post/2026-09-21-%EC%A0%95%EB%8B%B5-%EC%97%86%EB%8A%94-%EC%A0%9C%ED%92%88-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%ED%91%B8%EB%8A%94-%EB%B2%95-%EC%98%A4%ED%86%A0%ED%83%9C%EA%B9%85-%EA%B0%9C%EB%B0%9C%EA%B8%B0/",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "design",
+      "title": "고양이 사진으로 3D 스노우볼 만들기",
+      "summary": "이 영상에서는 고양이 사진을 활용하여 3D 스노우볼을 만드는 과정을 소개합니다. Codex와 VARCO 3D, Blender를 사용하여 제작하는 방법을 배울 수 있습니다.",
+      "summary_full": "이 영상에서는 고양이 사진을 활용하여 3D 스노우볼을 만드는 과정을 소개합니다. Codex와 VARCO 3D, Blender를 사용하여 스노우볼을 디자인하고 제작하는 방법을 배울 수 있습니다. 각 단계별로 필요한 도구와 기술을 설명하며, 시청자가 쉽게 따라할 수 있도록 안내합니다. 창의적인 프로젝트를 통해 3D 디자인의 재미를 느낄 수 있는 기회를 제공합니다.",
+      "keywords": [
+        "고양이 사진",
+        "3D 스노우볼",
+        "Blender"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "9월 22일",
+      "publishedAt": "2026-09-22T03:21:46.207Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-837/",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "frontend",
+      "title": "2026년 개발자를 위한 최고의 마케팅 API",
+      "summary": "앱에 필요한 마케팅 데이터를 위한 최고의 API를 소개합니다. APILayer에서 제공하는 다양한 API를 통해 마케팅 정보를 쉽게 활용할 수 있습니다.",
+      "summary_full": "2026년을 맞아 개발자들을 위한 최고의 마케팅 API를 소개합니다. 이 기사에서는 APILayer에서 제공하는 다양한 API를 통해 앱에 필요한 마케팅 데이터를 어떻게 활용할 수 있는지 설명합니다. 특히, 글로벌 전화번호 검증 및 조회 API인 Numverify를 통해 232개국의 전화번호를 실시간으로 검증하고, 통신사 정보 및 위치 데이터를 반환받을 수 있습니다. 이러한 API들은 마케팅 전략을 강화하는 데 큰 도움이 될 것입니다.",
+      "keywords": [
+        "마케팅 API",
+        "개발자",
+        "APILayer"
+      ],
+      "source": "dev.to",
+      "date": "9월 22일",
+      "publishedAt": "2026-09-22T03:17:34.000Z",
+      "url": "https://dev.to/nick_davies_323125afbb05c/best-marketing-apis-for-developers-in-2026-4ocg",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "industry",
+      "title": "IBM, AI 에이전트 통제의 시작은 신원 부여",
+      "summary": "AI의 신뢰성 문제를 해결하기 위해 AI 에이전트의 신원을 부여하고 통제해야 한다. 이는 엔터프라이즈 환경에서 AI와의 공존을 위한 첫걸음이다.",
+      "summary_full": "AI를 업무에 많이 활용해야 하는 시기가 다가오고 있으며, AI의 신뢰성을 높이기 위해 통제가 필요하다. AI 에이전트의 신원, 권한, 실행을 런타임에서 통제하지 못하는 것이 문제의 핵심이다. AI 에이전트를 보호하기 위해서는 고유한 신원을 부여하는 것이 중요하다. 이는 AI와의 원활한 공존을 위한 필수 조건이다.",
+      "keywords": [
+        "AI 에이전트",
+        "신원 부여",
+        "통제"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 22일",
+      "publishedAt": "2026-09-22T02:34:39.000Z",
+      "url": "https://byline.network/2026/09/22-602/",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "industry",
+      "title": "AI 규제에 대한 우리의 잘못된 믿음",
+      "summary": "AI 규제에 대한 합의가 없다는 이유로 규제를 미루는 것은 비웃음을 살 만한 일이다. 인터넷의 창립자들은 합의 없이도 기술을 다스렸다.",
+      "summary_full": "AI 규제에 대한 논의가 지지부진한 이유는 합의가 없기 때문이다. 그러나 인터넷을 만든 사람들은 그러한 상황에서도 기술을 효과적으로 관리했다. 현재 세계에서 가장 강력한 AI를 개발하는 이들은 규제를 요청하고 있다. 이는 AI의 발전과 안전성을 위해 반드시 필요한 논의임을 시사한다.",
+      "keywords": [
+        "AI 규제",
+        "인터넷 창립자",
+        "기술 관리"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 21일",
+      "publishedAt": "2026-09-21T22:47:57.000Z",
+      "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "industry",
+      "title": "Nvidia, SB Energy 주식 90% 가격에 인수",
+      "summary": "Nvidia가 SB Energy의 주식을 IPO 가격의 90%에 추가로 15억 달러어치 인수한다. 이를 통해 총 30억 달러의 지원을 하게 된다.",
+      "summary_full": "Nvidia는 SB Energy의 주식을 IPO 가격의 90%에 추가로 15억 달러어치 인수하여 총 30억 달러의 지원을 하게 된다. SB Energy는 텍사스와 오하이오에서 8.8기가와트의 계약을 체결하거나 건설 중이다. 반면, 모회사의 유럽 용량은 2031년 이전에는 가동되지 않을 예정이다. 이 소식은 The Next Web에서 계속됩니다.",
+      "keywords": [
+        "Nvidia",
+        "SB Energy",
+        "주식 인수"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 21일",
+      "publishedAt": "2026-09-21T19:15:41.000Z",
+      "url": "https://thenextweb.com/news/nvidia-sb-energy-pre-ipo-stake",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "trend",
+      "title": "AI, 관세, 희귀 광물: 트럼프와 시진핑의 정상 회담에서 기대할 사항",
+      "summary": "워싱턴과 베이징은 AI 붐으로 인해 더욱 긴밀하게 연결되고 있다. 하드웨어 수출과 기술 제한이 협상에서 중요한 카드로 작용하고 있다.",
+      "summary_full": "워싱턴과 베이징은 AI 붐으로 인해 더욱 긴밀하게 연결되고 있다. 이러한 상황에서 하드웨어 수출과 기술 제한은 협상에서 중요한 카드로 작용하고 있다. 트럼프와 시진핑의 정상 회담은 이러한 요소들이 어떻게 영향을 미칠지를 보여줄 중요한 기회가 될 것이다. 양국 간의 기술 경쟁과 협력의 미래가 이 회담에 달려 있다.",
+      "keywords": [
+        "AI",
+        "관세",
+        "희귀 광물"
+      ],
+      "source": "wired.com",
+      "date": "9월 21일",
+      "publishedAt": "2026-09-21T18:33:02.000Z",
+      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "ai",
+      "title": "물리학자처럼 LLM 가지치기: 블록 제거를 이징 최적화 문제로",
+      "summary": "이 논문은 대형 언어 모델(LLM)의 가지치기 방법을 물리학적 관점에서 접근한다. 블록 제거를 이징 최적화 문제로 변환하여 효율적인 모델 축소를 제안한다.",
+      "summary_full": "이 연구는 대형 언어 모델(LLM)의 가지치기 기술을 물리학의 이징 모델을 활용하여 설명한다. 블록 제거를 이징 최적화 문제로 설정함으로써, 모델의 성능을 유지하면서도 불필요한 파라미터를 제거할 수 있는 방법을 제시한다. 이를 통해 LLM의 효율성을 높이고, 계산 자원을 절약할 수 있는 가능성을 탐구한다. 이 접근법은 머신러닝 분야에서의 새로운 최적화 기법으로 주목받고 있다.",
+      "keywords": [
+        "LLM",
+        "가지치기",
+        "이징 최적화"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "9월 21일",
+      "publishedAt": "2026-09-21T13:44:34.000Z",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "ai",
+      "title": "수학 및 인공지능 자문 그룹",
+      "summary": "OpenAI는 독립적인 자문 그룹과 협력하여 새로운 AI 결과에 대한 검토 및 소통을 안내하고 있다.",
+      "summary_full": "OpenAI는 수학 및 인공지능에 관한 독립적인 자문 그룹과 협력하고 있다. 이 그룹은 AI의 새로운 결과를 검토하고 소통하는 데 도움을 준다. 자문 그룹의 목표는 AI 기술의 발전을 지원하고 그에 따른 사회적 영향을 고려하는 것이다. 이를 통해 OpenAI는 더 나은 의사결정을 할 수 있도록 노력하고 있다.",
+      "keywords": [
+        "OpenAI",
+        "자문 그룹",
+        "인공지능"
+      ],
+      "source": "OpenAI News",
+      "date": "9월 21일",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "frontend",
+      "title": "도메인 지식 없는 디자이너가 팀의 기준을 바꾼 방법",
+      "summary": "디자이너가 은행과 외화 지식이 부족한 상황에서 해외송금 기능을 런칭하며 팀의 기준을 변화시킨 경험을 공유한다. 수수료 외에도 팀의 강점을 고민하며 다양한 도전과제를 해결해 나간 과정을 이야기한다.",
+      "summary_full": "토스뱅크의 Product Designer 서자영이 해외송금 기능 런칭 과정에서의 경험을 나눈다. 은행과 외화에 대한 지식이 부족했던 그녀는 팀의 기준을 수수료 외의 요소로 확장시키기 위해 노력했다. 파트너사 선정과 규제 검토 등 복잡한 과정을 거치며 팀의 강점을 찾는 데 집중했다. 이를 통해 후발주자로서의 경쟁력을 확보하는 방법을 모색했다.",
+      "keywords": [
+        "디자인",
+        "해외송금",
+        "팀워크"
+      ],
+      "source": "toss.tech",
+      "date": "9월 21일",
+      "publishedAt": "2026-09-21T10:15:00.000Z",
+      "url": "https://toss.tech/article/remittance_transfer",
+      "collectedAt": "2026-09-22"
+    },
+    {
+      "category": "ai",
+      "title": "Claude의 Anthropic 연구개발 주도율 26%, 완전 자율은 아니다",
+      "summary": "Claude는 Anthropic의 연구개발에서 26%의 주도율을 보이고 있으며, 완전한 자율성은 갖추지 못하고 있다.",
+      "summary_full": "Claude는 Anthropic의 연구개발에서 26%의 주도율을 기록하고 있다. 그러나 이는 완전한 자율성을 의미하지 않는다. 연구개발의 방향성과 목표는 여전히 인간의 개입이 필요하다. 따라서 Claude는 자율적인 시스템으로 발전하기 위해 더 많은 연구가 필요하다.",
+      "keywords": [
+        "Claude",
+        "Anthropic",
+        "연구개발"
+      ],
+      "source": "Google News Anthropic",
+      "date": "9월 21일",
+      "publishedAt": "2026-09-21T08:51:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFYyU1lDNkZhbGJ6Y1RwaTNGUVdKZmRDaGVTUE44Z1gtSnphMnRvRUtEM0dxQkg5UU00aFlhX0l5OFZ0YVdyUC1qTUkzYlRPWmpYb2xFN2Q3Q3ctM09HNU9zYzY0Q3FJdEJMNG5tMVpWTy10X3QtLWI3b2I2dkdKX243R3VOQ09HbnlrRlRjaE9XWl9VREp4WnptOA?oc=5",
+      "collectedAt": "2026-09-22"
+    },
     {
       "category": "industry",
       "title": "인테리어 사장님의 성장 설계",
@@ -501,34 +693,34 @@
     {
       "category": "figma",
       "title": "Figma 노드로 디자인 연결하기",
-      "summary": "Figma 노드를 통해 기존에 만든 디자인을 Figma Weave 워크플로우에 연결할 수 있다. Figma Design에서 프레임을 복사하여 Weave에 붙여넣으면 워크플로우의 노드가 된다.",
-      "summary_full": "Figma 노드를 사용하면 Figma Design에서 만든 디자인을 Figma Weave 워크플로우에 직접 연결할 수 있다. 사용자는 Figma Design에서 프레임을 복사하고 Weave에 붙여넣음으로써 이를 워크플로우의 노드로 변환할 수 있다. 이 기능은 디자인과 워크플로우 간의 통합을 용이하게 한다. 이제 사용자는 보다 효율적으로 작업할 수 있다.",
+      "summary": "Figma 노드가 기존 디자인을 Figma Weave 워크플로우에 연결할 수 있게 해준다. 이제 Figma Design에서 프레임을 복사해 Weave에 붙여넣으면 워크플로우의 노드가 된다.",
+      "summary_full": "Figma 노드가 오늘부터 사용 가능해져, 사용자는 기존에 만든 디자인을 Figma Weave 워크플로우에 직접 연결할 수 있다. 사용자는 Figma Design에서 프레임을 복사하여 Weave에 붙여넣으면, 해당 프레임이 워크플로우의 노드로 변환된다. 이를 통해 디자인과 워크플로우 간의 통합이 더욱 원활해진다. Figma의 기능을 활용하여 효율적인 작업 환경을 구축할 수 있다.",
       "keywords": [
         "Figma",
-        "디자인",
+        "디자인 연결",
         "워크플로우"
       ],
       "source": "Figma Release Notes",
       "date": "9월 17일",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     },
     {
       "category": "ai",
       "title": "클로드가 생체분자 모델링을 혁신하다",
-      "summary": "클로드는 생체분자 모델링의 새로운 가능성을 제시하고 있다. 이 기술은 생명과학 연구에 큰 영향을 미칠 것으로 기대된다.",
-      "summary_full": "클로드는 생체분자 모델링 분야에서 혁신적인 접근 방식을 통해 연구자들에게 새로운 도구를 제공하고 있다. 이 기술은 복잡한 생물학적 시스템을 이해하는 데 도움을 주며, 실험적 방법과의 통합을 촉진한다. 또한, 클로드의 모델링 기법은 다양한 생명과학 분야에서 응용될 수 있는 잠재력을 가지고 있다. 이러한 발전은 향후 생명과학 연구의 방향성을 바꿀 것으로 예상된다.",
+      "summary": "클로드는 생체분자 모델링의 새로운 가능성을 열어주고 있다. 이 기술은 생명과학 연구에 중요한 기여를 할 것으로 기대된다.",
+      "summary_full": "클로드는 생체분자 모델링 분야에서 혁신적인 접근 방식을 제공하고 있다. 이를 통해 연구자들은 복잡한 생물학적 시스템을 더 정확하게 이해할 수 있게 되었다. 또한, 클로드의 기술은 생명과학 연구의 효율성을 높이고, 새로운 치료법 개발에 기여할 것으로 보인다. 이러한 발전은 생체분자 모델링의 미래를 밝히는 중요한 이정표가 될 것이다.",
       "keywords": [
-        "생체분자 모델링",
-        "클로드",
-        "생명과학 연구"
+        "생체분자",
+        "모델링",
+        "클로드"
       ],
       "source": "Anthropic Research",
       "date": "9월 17일",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     },
     {
       "category": "trend",
@@ -613,8 +805,8 @@
     {
       "category": "design",
       "title": "CSS 컨테이너 쿼리를 전통적인 미디어 쿼리처럼 다루지 마세요",
-      "summary": "CSS 컨테이너 쿼리의 필요성에 대한 의문을 제기하며, 기존 미디어 쿼리와의 차별성을 설명합니다.",
-      "summary_full": "CSS 컨테이너 쿼리가 처음 출시되었을 때 그 필요성을 이해하지 못했던 저자의 경험을 공유합니다. 기존의 미디어 쿼리와 비교하며, 컨테이너 쿼리가 제공하는 새로운 가능성을 강조합니다. 많은 사람들이 같은 의문을 가지고 있다는 점을 언급하며, 컨테이너 쿼리의 중요성을 재조명합니다. 이 글은 CSS 컨테이너 쿼리를 제대로 이해하고 활용할 필요성을 강조합니다.",
+      "summary": "CSS 컨테이너 쿼리는 미디어 쿼리와는 다른 필요성을 가지고 있습니다. 많은 개발자들이 이 새로운 기능의 필요성을 이해하지 못하고 있습니다.",
+      "summary_full": "CSS 컨테이너 쿼리가 처음 출시되었을 때 많은 사람들이 그 필요성을 인식하지 못했습니다. 기존의 미디어 쿼리와의 차별성을 이해하지 못한 채 반응하는 경우가 많았습니다. 그러나 CSS 컨테이너 쿼리는 더 유연한 디자인을 가능하게 하며, 다양한 컨텍스트에서의 스타일링을 지원합니다. 따라서 이 새로운 기능을 제대로 활용하는 것이 중요합니다.",
       "keywords": [
         "CSS",
         "컨테이너 쿼리",
@@ -624,7 +816,7 @@
       "date": "9월 16일",
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     },
     {
       "category": "trend",
@@ -710,7 +902,7 @@
       "category": "ai",
       "title": "제미니 3.8 라이브 및 3.8 라이브 확장 사고 소개",
       "summary": "제미니 3.8 라이브와 3.8 라이브 확장 사고를 소개합니다. 이 새로운 버전은 향상된 기능과 사고 방식을 제공합니다.",
-      "summary_full": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 새롭게 출시되었습니다. 이 버전은 사용자 경험을 향상시키기 위한 다양한 기능을 포함하고 있습니다. 또한, 사고 방식을 확장하여 더 깊이 있는 분석과 창의적인 접근을 가능하게 합니다. 이러한 변화는 사용자들에게 더 나은 도구를 제공하기 위한 노력의 일환입니다.",
+      "summary_full": "제미니 3.8 라이브와 3.8 라이브 확장 사고가 새롭게 출시되었습니다. 이 업데이트는 사용자에게 더 나은 경험을 제공하기 위해 설계되었습니다. 다양한 기능이 추가되어 사고의 폭을 넓힐 수 있습니다. 최신 기술을 통해 혁신적인 접근 방식을 제시합니다.",
       "keywords": [
         "제미니",
         "라이브",
@@ -720,7 +912,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T17:05:57.000Z",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     },
     {
       "category": "ai",
@@ -837,8 +1029,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 새로운 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 더 효율적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너가 LLM의 운영 비용을 절반으로 줄일 수 있는 혁신적인 AI 솔루션을 출시했다. 이 솔루션은 기업들이 인공지능 기술을 보다 경제적으로 활용할 수 있게 설계되었다. 이를 통해 기업들은 비용 절감과 함께 AI의 효율성을 극대화할 수 있을 것으로 기대된다. 라이너는 이 기술이 다양한 산업에 긍정적인 영향을 미칠 것이라고 밝혔다.",
+      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
+      "summary_full": "라이너가 새로운 AI 솔루션을 출시하여 LLM의 운영 비용을 절반으로 줄일 수 있는 방법을 제시했다. 이 솔루션은 기업들이 AI 기술을 보다 경제적으로 활용할 수 있도록 설계되었다. 이를 통해 기업들은 비용 절감과 함께 AI의 효율성을 극대화할 수 있을 것으로 기대된다. 라이너의 혁신적인 접근 방식은 AI 시장에서 주목받고 있다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -848,7 +1040,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T00:57:32.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     },
     {
       "category": "ai",
@@ -2893,19 +3085,19 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 CSS random() 함수 사용하기",
-      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룬다. 모든 브라우저에서 이 함수를 사용할 수 있도록 하는 방법을 설명한다.",
-      "summary_full": "CSS random() 함수는 아직 모든 브라우저에서 지원되지 않지만, 이를 위한 폴리필을 만드는 여정을 소개한다. 이 글에서는 CSS-Tricks에서 작성된 내용을 기반으로 하여, 다양한 브라우저에서 이 기능을 활용할 수 있도록 하는 방법을 설명한다. 독자들은 이 과정에서 CSS의 새로운 가능성을 탐구할 수 있다. 뉴스레터 구독도 추천한다.",
+      "title": "모든 브라우저에서 사용할 CSS random() 함수",
+      "summary": "CSS random() 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 다룬다. 이 글은 CSS-Tricks에서 사랑을 담아 작성되었다.",
+      "summary_full": "CSS random() 함수는 최근에 등장한 기능으로, 이를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 여정을 설명한다. 이 과정에서는 다양한 브라우저 호환성을 고려해야 한다. CSS-Tricks에서 작성된 이 글은 독자들에게 뉴스레터 구독을 권장하고 있다. CSS random() 함수의 활용 가능성을 탐구하는 흥미로운 내용이다.",
       "keywords": [
         "CSS",
         "random() 함수",
-        "폴리필"
+        "브라우저 호환성"
       ],
       "source": "css-tricks.com",
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     },
     {
       "category": "design",
@@ -4172,70 +4364,6 @@
       "collectedAt": "2026-08-27"
     },
     {
-      "category": "frontend",
-      "title": "Snowflake의 동적 모델 라우팅",
-      "summary": "Snowflake의 동적 모델 라우팅이 AI 모델 선택을 비용과 품질 측면에서 최적화하는 방법을 탐구한다.",
-      "summary_full": "Snowflake의 동적 모델 라우팅은 AI 모델 선택을 비용과 품질을 고려하여 최적화하는 기술이다. 이 기술은 비즈니스에 대한 깊이 있는 기술 분석을 제공한다. 이를 통해 기업은 더 나은 결정을 내릴 수 있다. 이 기사는 Snowflake의 혁신적인 접근 방식을 다룬다.",
-      "keywords": [
-        "Snowflake",
-        "AI 모델",
-        "비용 최적화"
-      ],
-      "source": "dev.to",
-      "date": "8월 22일",
-      "publishedAt": "2026-08-22T01:06:03.000Z",
-      "url": "https://dev.to/norviktech/snowflakes-dynamic-model-rout-49fa",
-      "collectedAt": "2026-08-22"
-    },
-    {
-      "category": "trend",
-      "title": "중국 AI 붐의 중심에 있는 뜻밖의 장소",
-      "summary": "내몽골의 한 도시가 저렴한 에너지와 풍부한 토지 덕분에 데이터 센터의 중요한 허브로 부상했다. 이 도시는 베이징과의 근접성 덕분에 더욱 주목받고 있다.",
-      "summary_full": "중국 내몽골의 한 도시가 저렴한 에너지, 풍부한 토지, 그리고 베이징과의 근접성 덕분에 데이터 센터의 중요한 허브로 자리 잡았다. 이러한 요소들은 AI 산업의 발전을 촉진하고 있다. 이 도시는 데이터 처리와 저장을 위한 최적의 환경을 제공하고 있다. 결과적으로, 이 지역은 중국의 AI 붐에서 중요한 역할을 하고 있다.",
-      "keywords": [
-        "AI",
-        "데이터 센터",
-        "내몽골"
-      ],
-      "source": "wired.com",
-      "date": "8월 21일",
-      "publishedAt": "2026-08-21T23:25:32.000Z",
-      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "collectedAt": "2026-08-22"
-    },
-    {
-      "category": "trend",
-      "title": "워드프레스 웹사이트, 사용자 친화적인가?",
-      "summary": "워드프레스 웹사이트는 기술적으로 작동할 수 있지만 사용자 경험이 좋지 않을 수 있다.",
-      "summary_full": "워드프레스 웹사이트는 페이지 로딩, 링크 작동, 연락처 양식 제출 등 기술적으로 기능할 수 있다. 그러나 이러한 기능이 사용자에게 편리함을 제공하는지는 별개의 문제이다. 사용자 경험을 고려하지 않으면 웹사이트의 효과가 제한될 수 있다. 따라서 웹사이트의 사용성을 평가하는 것이 중요하다.",
-      "keywords": [
-        "워드프레스",
-        "사용자 경험",
-        "웹사이트 디자인"
-      ],
-      "source": "dev.to",
-      "date": "8월 21일",
-      "publishedAt": "2026-08-21T22:53:19.000Z",
-      "url": "https://dev.to/imama_kh23_59fb4add57fe91/your-wordpress-website-works-but-is-it-easy-for-users-2c3i",
-      "collectedAt": "2026-08-22"
-    },
-    {
-      "category": "industry",
-      "title": "프라이버시가 소프트웨어의 새로운 킬러 기능으로 자리잡는 4가지 스마트 변화",
-      "summary": "기술 산업에서 '무료 제품은 사용자가 제품'이라는 오래된 격언이 이제는 시대에 뒤떨어진 것으로 여겨지고 있다. 데이터 스캔들과 프라이버시 문제로 인해 프라이버시가 소프트웨어의 중요한 요소로 부각되고 있다.",
-      "summary_full": "기술 산업의 오랜 격언이 시대에 뒤떨어진 것으로 여겨지면서, 프라이버시가 소프트웨어의 새로운 핵심 기능으로 떠오르고 있다. 데이터 스캔들과 추적 문제로 인해 사용자들은 더 이상 무료 제품의 대가로 자신의 정보를 제공하는 것을 수용하지 않게 되었다. 이러한 변화는 소프트웨어 개발자들에게 프라이버시를 중시하는 방향으로의 전환을 요구하고 있다. 결국, 프라이버시는 소프트웨어의 경쟁력을 좌우하는 중요한 요소로 자리잡고 있다.",
-      "keywords": [
-        "프라이버시",
-        "소프트웨어",
-        "데이터 스캔들"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 21일",
-      "publishedAt": "2026-08-21T20:42:50.000Z",
-      "url": "https://thenextweb.com/news/privacy-software-killer-feature-2026",
-      "collectedAt": "2026-08-22"
-    },
-    {
       "category": "industry",
       "title": "카카오의 인적분할 이유",
       "summary": "카카오는 AI 중심의 신설법인 '카카오AI'와 기타 사업을 포함하는 '카카오X'로 분할하여 새로운 시장 평가를 목표로 한다. 이번 분할은 카카오가 AI 기업으로 자리잡는 데 기여할 것으로 기대된다.",
@@ -4412,58 +4540,42 @@
       "collectedAt": "2026-08-26"
     },
     {
-      "category": "ai",
-      "title": "Shutterstock 주가 급등",
-      "summary": "Shutterstock의 주가가 Anthropic AI의 'Claude' 통합 소식에 급등했다. 이는 AI 기술 통합의 긍정적인 영향을 반영한 결과로 보인다.",
-      "summary_full": "Shutterstock의 주가는 최근 Anthropic AI의 'Claude' 통합 발표 이후 급등세를 보였다. 이 통합은 Shutterstock의 이미지 및 콘텐츠 제공 방식에 혁신을 가져올 것으로 기대된다. 투자자들은 AI 기술이 기업의 성장에 미치는 긍정적인 영향을 주목하고 있다. 이러한 변화는 Shutterstock의 시장 경쟁력을 높이는 데 기여할 것으로 예상된다.",
-      "keywords": [
-        "Shutterstock",
-        "주가 급등",
-        "Anthropic AI"
-      ],
-      "source": "Google News Anthropic",
-      "date": "8월 12일",
-      "publishedAt": "2026-08-12T19:34:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VM3Eya3BYY19pSUFYektBTWFiOW1vMmNIUzk5bnZEWW4yczhKZ2s0eUhxUmV0Qk8xNmJrb1hvTExuNDRzazNLdW82ZV9NcEJheGpjRG15Y1d0N2xzQ05nWlJwSTU1ajlNSHpScV8xZ1dvcVNoU3pF?oc=5",
-      "collectedAt": "2026-08-22"
-    },
-    {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 알아본다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드에 대해 논의한다. 이 트렌드는 사용자 경험을 개선하기 위한 다양한 혁신적인 방법을 제시하고 있다. 특히, 시각적 요소와 인터랙션 디자인의 조화가 강조되고 있다. 이러한 변화는 사용자와의 소통을 더욱 원활하게 만들어 줄 것으로 기대된다.",
+      "summary": "디자이너들이 최근 주목하고 있는 UX/UI 트렌드를 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함하고 있다.",
+      "summary_full": "최근 UX/UI 디자인 분야에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 디자이너들은 사용자 경험을 개선하기 위해 혁신적인 방법을 모색하고 있다. 이러한 트렌드는 시각적 요소뿐만 아니라 인터랙션 디자인에도 영향을 미친다. 따라서, 디자이너들은 최신 동향을 반영하여 더 나은 제품을 개발할 필요가 있다.",
       "keywords": [
-        "UX/UI 트렌드",
-        "디자인",
+        "UX/UI",
+        "디자인 트렌드",
         "사용자 경험"
       ],
       "source": "Google News Design (KR)",
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 설계된 교수법을 계승했다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위해 설계된 교수법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 미친 영향을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 시험을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 앱의 디자인을 이해하기 위해서는 라틴어 교육 방법의 유산을 살펴보는 것이 중요하다.",
       "keywords": [
-        "언어 앱",
-        "라틴어",
-        "디자인 교훈"
+        "언어학습",
+        "디자인",
+        "라틴어"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     },
     {
       "category": "ai",
-      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
-      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 파트너십은 AI 기술의 혁신을 가속화할 것으로 기대된다.",
-      "summary_full": "엠미가 AI 네이티브 산업의 성장을 위해 미스트랄과 협력하게 되었다. 이 협력은 AI 기술의 발전을 가속화하고, 산업 내 혁신을 촉진하는 데 기여할 것이다. 두 회사는 함께 AI 솔루션을 개발하고, 시장에서의 경쟁력을 강화할 계획이다. 이러한 파트너십은 AI 기술의 상용화에 중요한 역할을 할 것으로 보인다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 혁신적인 AI 솔루션을 통해 산업의 변화를 이끌 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업을 가속화하기 위한 협력을 시작했다. 이 협력은 최신 AI 기술을 활용하여 산업 전반에 걸쳐 혁신을 가져오는 것을 목표로 한다. 양사는 공동으로 연구 개발을 진행하며, AI 솔루션의 상용화를 촉진할 계획이다. 이를 통해 AI 기반의 새로운 비즈니스 모델과 서비스가 창출될 것으로 전망된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4473,7 +4585,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-21"
+      "collectedAt": "2026-09-22"
     }
   ]
 }
