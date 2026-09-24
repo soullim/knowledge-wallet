@@ -1,22 +1,184 @@
 {
-  "updated": "2026년 9월 23일 AM 03:24",
-  "count": 290,
+  "updated": "2026년 9월 24일 AM 03:13",
+  "count": 291,
   "articles": [
     {
       "category": "industry",
       "title": "정답 없는 제품 문제 해결법",
-      "summary": "오토태깅 개발을 통해 콘텐츠와 상품을 연결하는 방법을 소개한다. AI를 활용하여 태깅을 더 쉽고 다양하게 만드는 방안을 다룬다.",
-      "summary_full": "이 글에서는 정답이 없는 제품 문제를 해결하기 위한 오토태깅 개발 과정을 설명한다. 콘텐츠와 상품을 연결하는 플러스 태그의 중요성을 강조하며, AI 기술을 활용한 다양한 접근 방식을 제안한다. 이를 통해 사용자 경험을 향상시키고, 효율적인 태깅 시스템을 구축하는 방법을 논의한다. AI frontier의 최신 동향도 함께 살펴본다.",
+      "summary": "오토태깅을 통해 콘텐츠와 상품을 연결하는 방법을 소개한다. AI 기술을 활용하여 더 쉽고 다양한 방식으로 문제를 해결할 수 있다.",
+      "summary_full": "이 글에서는 정답이 없는 제품 문제를 해결하는 오토태깅 개발 과정을 다룬다. 콘텐츠와 상품을 연결하는 플러스 태그의 중요성을 강조하며, AI 기술을 통해 이를 더욱 간편하게 구현하는 방법을 설명한다. 다양한 사례를 통해 AI의 활용 가능성을 제시하고, 향후 발전 방향에 대한 통찰을 제공한다. 이러한 접근은 제품 문제 해결에 혁신적인 변화를 가져올 수 있다.",
       "keywords": [
         "오토태깅",
         "AI",
         "플러스 태그"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 23일",
-      "publishedAt": "2026-09-23T03:22:58.865Z",
+      "date": "9월 24일",
+      "publishedAt": "2026-09-24T03:12:23.991Z",
       "url": "https://www.bucketplace.com/post/2026-09-21-%EC%A0%95%EB%8B%B5-%EC%97%86%EB%8A%94-%EC%A0%9C%ED%92%88-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%ED%91%B8%EB%8A%94-%EB%B2%95-%EC%98%A4%ED%86%A0%ED%83%9C%EA%B9%85-%EA%B0%9C%EB%B0%9C%EA%B8%B0/",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "frontend",
+      "title": "Next.js 레이아웃에서 cookies() 사용 중지 — 부분 사전 렌더링 유지",
+      "summary": "Next.js의 cookies() 사용은 라우트를 동적으로 만들어 성능에 영향을 미친다. 루트 레이아웃에서 요청 시 데이터를 읽는 것은 개발자에게 쉬운 선택이지만, 전체 라우트를 옵트인하게 만든다.",
+      "summary_full": "Next.js의 cookies() 사용은 라우트를 동적으로 만들어 성능에 영향을 미친다. 특히, 스트리밍, 부분 사전 렌더링(PPR), 그리고 사이트 성능 인식에 측정 가능한 결과를 초래한다. 루트 레이아웃에서 요청 시 데이터를 읽는 것은 개발자에게 쉬운 선택이지만, 이는 전체 라우트를 옵트인하게 만든다. 따라서 PPR을 유지하기 위해서는 이러한 접근 방식을 피해야 한다.",
+      "keywords": [
+        "Next.js",
+        "부분 사전 렌더링",
+        "cookies()"
+      ],
+      "source": "dev.to",
+      "date": "9월 24일",
+      "publishedAt": "2026-09-24T03:02:33.000Z",
+      "url": "https://dev.to/nainikmehta/stop-reading-cookies-in-nextjs-layouts-preserve-ppr-l8e",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "trend",
+      "title": "2026년 GPT-Image-2.5와 Grok Imagine 비교 분석",
+      "summary": "2026년 OpenAI의 GPT-Image-2.5와 xAI의 Grok Imagine 2.0을 비교한 기사이다. 두 모델의 성능과 특징을 분석하여 AI 이미지 생성 기술의 발전을 조명한다.",
+      "summary_full": "2026년 OpenAI가 새로운 이미지 대모델 GPT-Image-2.5를 출시하고, xAI가 Grok Imagine 2.0을 선보였다. 이 기사에서는 두 모델의 성능을 Kollab, fal.ai, SuperFast와 비교하여 실험 결과를 제시한다. AI 이미지 생성 기술이 '정확한 텍스트 배치'와 '복잡한 주제 공간 논리'로 진화하고 있음을 강조한다. 이러한 발전은 디자인 및 그래픽 작업에 큰 영향을 미칠 것으로 기대된다.",
+      "keywords": [
+        "GPT-Image-2.5",
+        "Grok Imagine",
+        "AI 이미지 생성"
+      ],
+      "source": "dev.to",
+      "date": "9월 24일",
+      "publishedAt": "2026-09-24T03:00:02.000Z",
+      "url": "https://dev.to/gretchenweimannrh111/2026-guo-nei-zhi-lian-gpt-image-25-yu-grok-imagine-hui-tu-gong-zuo-tai-shen-du-heng-ping-kollab-falai-yu-superfast-hui-tu-gong-zuo-tai-shi-ce-5fa3",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "industry",
+      "title": "메타, 1,299달러 VR 안경 출시 및 AI 안경을 보청기로 전환",
+      "summary": "메타는 2027년 봄부터 1,299.99달러에 약 100그램의 VR 안경을 판매할 예정이다. 또한 AI 안경을 일반 판매용 보청기로 전환한다고 발표했다.",
+      "summary_full": "메타는 2027년 봄부터 1,299.99달러에 약 100그램의 VR 안경을 출시할 예정이다. 마크 저커버그는 메타 커넥트에서 이 사실을 발표하며, 오디오 전용 레이밴 안경과 100종 이상의 스타일로 확장된 제품군을 소개했다. 또한, 키체인 장치인 뮤즈 참도 공개했다. 이와 함께 AI 안경을 일반 판매용 보청기로 전환하는 계획도 밝혔다.",
+      "keywords": [
+        "메타",
+        "VR 안경",
+        "AI 안경"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 24일",
+      "publishedAt": "2026-09-24T00:07:04.000Z",
+      "url": "https://thenextweb.com/news/meta-vr-glasses-hearing-aid-connect-2026",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "trend",
+      "title": "메타, 스마트 안경의 개인 정보 보호 강화 약속",
+      "summary": "메타가 비판받아온 스마트 안경에 개인 정보 보호를 위한 Private Processing 암호화 서비스를 도입한다. 이는 사용자 프라이버시를 개선하기 위한 노력의 일환이다.",
+      "summary_full": "메타는 스마트 안경에 대한 비판을 수용하고, 개인 정보 보호를 강화하기 위해 Private Processing 암호화 서비스를 도입할 예정이다. 이 서비스는 사용자 데이터를 안전하게 처리하여 프라이버시를 보장하는 데 중점을 둔다. 메타는 이러한 조치를 통해 소비자 신뢰를 회복하고자 한다. 스마트 안경의 기능과 사용자 경험을 향상시키는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "메타",
+        "스마트 안경",
+        "개인 정보 보호"
+      ],
+      "source": "wired.com",
+      "date": "9월 24일",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "ai",
+      "title": "NVIDIA Warp와 MjWarp를 활용한 로봇 시뮬레이션 및 학습 워크플로우 가속화",
+      "summary": "NVIDIA Warp와 MjWarp를 사용하여 로봇 시뮬레이션과 학습 과정을 효율적으로 가속화하는 방법을 소개한다. 이 기술들은 로봇 개발자들에게 더 빠르고 효과적인 시뮬레이션 환경을 제공한다.",
+      "summary_full": "이 기사에서는 NVIDIA Warp와 MjWarp를 활용하여 로봇 시뮬레이션과 학습 워크플로우를 가속화하는 방법을 설명한다. 이러한 기술들은 복잡한 물리 시뮬레이션을 실시간으로 처리할 수 있게 해준다. 이를 통해 로봇 개발자들은 더 빠르고 효율적인 프로토타입 개발이 가능해진다. 또한, 이러한 도구들은 인공지능 학습 과정에서도 큰 도움이 된다.",
+      "keywords": [
+        "NVIDIA Warp",
+        "MjWarp",
+        "로봇 시뮬레이션"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "9월 23일",
+      "publishedAt": "2026-09-23T18:41:40.000Z",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude가 CRISPR와 유사한 새로운 효소 시스템 발견",
+      "summary": "Anthropic의 Claude가 CRISPR와 유사한 새로운 효소 시스템을 발견했다고 발표했다. 이 발견은 유전자 편집 기술에 중요한 진전을 가져올 것으로 기대된다.",
+      "summary_full": "Anthropic의 Claude가 CRISPR와 유사한 새로운 효소 시스템을 발견했다고 발표했다. 이 새로운 효소 시스템은 유전자 편집 기술의 발전에 기여할 가능성이 있다. 연구자들은 이 시스템이 기존의 CRISPR 기술보다 더 효율적일 수 있다고 보고 있다. 이러한 발견은 생명과학 및 의학 분야에서 큰 영향을 미칠 것으로 예상된다.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "CRISPR",
+        "효소 시스템",
+        "유전자 편집"
+      ],
+      "source": "Google News Anthropic",
+      "date": "9월 23일",
+      "publishedAt": "2026-09-23T18:19:30.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWpyQVd3cWh4RjBXYjRpNlhzMXZLM3l4R0FNdkZUaDhPN2pZcS1OX0pMTDRjbDRiMGVySldsSjNqRnpSV21KQzZwWEhFajE1bU0xd3V3NEdzelVCWkdNdGhYTXJpVktVdVRVVXVLOGQ4X0VEQ3FvVTBZcXB0UURjanFPRXhPYnBYNnh2eWlkdzRBN3RBd2dITUJ4OA?oc=5",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "ai",
+      "title": "오픈AI 아카데미 2주년",
+      "summary": "오픈AI 아카데미의 2주년을 기념하며 AI 기술을 더 많은 커뮤니티에 전파하고 있다.",
+      "summary_full": "오픈AI 아카데미가 2주년을 맞이했다. 이 프로그램은 AI 기술을 다양한 커뮤니티에 제공하여 기술 격차를 줄이는 데 기여하고 있다. 앞으로도 더 많은 사람들에게 AI 교육을 확장할 계획이다. 이는 AI 기술의 접근성을 높이는 중요한 이니셔티브로 평가받고 있다.",
+      "keywords": [
+        "오픈AI",
+        "AI 교육",
+        "커뮤니티"
+      ],
+      "source": "OpenAI News",
+      "date": "9월 23일",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "industry",
+      "title": "금융사 AI 도입 활발, 1000억대 AI 예산 투입 변화 주목",
+      "summary": "금융권에서 AI 도입이 가속화되며, 1000억원 규모의 예산이 투입되고 있다. AI는 단순 챗봇을 넘어 핵심 업무를 수행하는 에이전트 중심으로 발전하고 있다.",
+      "summary_full": "금융권의 IT 예산이 AI 관련 인프라와 서비스에 대한 투자를 늘리며 변화하고 있다. 기술 검증을 넘어 실제 업무에 AI를 적용하는 사례가 증가하고 있다. 이러한 변화는 금융사의 AI 활용을 에이전트 중심으로 확대시키고 있으며, 생성형 AI 2.0 시대로의 전환을 이끌고 있다.",
+      "keywords": [
+        "금융사",
+        "AI 도입",
+        "예산 투입"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 23일",
+      "publishedAt": "2026-09-23T06:41:39.000Z",
+      "url": "https://byline.network/2026/09/0923-4/",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "frontend",
+      "title": "연 300시간을 아낀 AI 상담 서비스",
+      "summary": "AI 상담 서비스 도입으로 연간 300시간을 절약하게 된 사례를 소개합니다. 사용자들의 불안감을 해소하고 서류 제출 문제를 해결하기 위한 디자인 과정이 담겨 있습니다.",
+      "summary_full": "토스뱅크의 전세대출 팀에서 AI 상담 서비스를 디자인한 경험을 공유합니다. 사용자의 문의 데이터를 분석한 결과, 서류 제출 방법과 간단한 정보에 대한 문의가 많다는 것을 발견했습니다. 이를 통해 상담팀의 부담을 줄이고 사용자 경험을 개선하기 위한 노력이 이루어졌습니다. AI 상담 서비스 도입으로 연간 300시간의 시간을 절약하게 되었습니다.",
+      "keywords": [
+        "AI 상담 서비스",
+        "전세대출",
+        "사용자 경험"
+      ],
+      "source": "toss.tech",
+      "date": "9월 23일",
+      "publishedAt": "2026-09-23T06:39:00.000Z",
+      "url": "https://toss.tech/article/AI_chatbot",
+      "collectedAt": "2026-09-24"
+    },
+    {
+      "category": "industry",
+      "title": "디자인 팀에 맞지 않는 최고의 이력서",
+      "summary": "디자인 리더십이 팀의 경험, 전문성 및 혁신에 대해 잘못 이해하는 점을 다룬다. 이력서의 내용이 디자인 팀의 요구와 맞지 않을 수 있음을 강조한다.",
+      "summary_full": "디자인 팀에 적합한 이력서를 찾는 것이 중요하다. 그러나 많은 디자인 리더들이 경험과 전문성을 과대평가하는 경향이 있다. 이로 인해 팀의 혁신성과 적합성을 저해할 수 있다. 따라서 이력서의 내용이 팀의 실제 요구와 잘 맞아야 한다.",
+      "keywords": [
+        "디자인 팀",
+        "이력서",
+        "전문성"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 23일",
+      "publishedAt": "2026-09-23T04:06:17.000Z",
+      "url": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-24"
     },
     {
       "category": "frontend",
@@ -853,24 +1015,24 @@
     {
       "category": "figma",
       "title": "Figma 노드로 디자인 연결하기",
-      "summary": "Figma 노드를 통해 기존에 만든 디자인을 Figma Weave 워크플로우에 연결할 수 있습니다. Figma 디자인에서 프레임을 복사하여 Weave에 붙여넣으면 워크플로우의 노드가 됩니다.",
-      "summary_full": "Figma 노드 기능이 추가되어 사용자는 기존 디자인을 Figma Weave 워크플로우에 쉽게 연결할 수 있습니다. 사용자는 Figma 디자인에서 프레임을 복사한 후 Weave에 붙여넣기만 하면 됩니다. 이렇게 하면 해당 프레임이 워크플로우의 노드로 변환됩니다. 이 기능은 디자인과 워크플로우 간의 통합을 더욱 원활하게 만들어 줍니다.",
+      "summary": "Figma 노드를 통해 기존에 만든 디자인을 Figma Weave 워크플로우에 연결할 수 있습니다. Figma Design에서 프레임을 복사하여 Figma Weave에 붙여넣으면 워크플로우의 노드로 변환됩니다.",
+      "summary_full": "Figma 노드를 사용하면 사용자가 이미 만든 디자인을 Figma Weave와 직접 연결할 수 있습니다. 이 기능을 통해 Figma Design에서 프레임을 복사하고 Figma Weave에 붙여넣으면 해당 프레임이 워크플로우의 노드로 변환됩니다. 이는 디자인과 워크플로우 간의 통합을 용이하게 하여 작업 효율성을 높입니다. 사용자는 이제 더 쉽게 디자인을 관리하고 연결할 수 있습니다.",
       "keywords": [
         "Figma",
-        "디자인",
+        "디자인 연결",
         "워크플로우"
       ],
       "source": "Figma Release Notes",
       "date": "9월 17일",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
     },
     {
       "category": "ai",
-      "title": "클로드가 생체분자 모델링을 혁신하다",
-      "summary": "클로드는 생체분자 모델링의 새로운 가능성을 열어주고 있다. 이 기술은 생명과학 연구에 큰 영향을 미칠 것으로 기대된다.",
-      "summary_full": "클로드는 생체분자 모델링의 혁신을 통해 연구자들에게 더 나은 도구를 제공하고 있다. 이 기술은 복잡한 생물학적 시스템을 이해하는 데 도움을 줄 수 있다. 또한, 생명과학 분야의 발전에 기여할 것으로 보인다. 클로드의 접근 방식은 기존의 모델링 기법을 개선하는 데 중점을 두고 있다.",
+      "title": "클로드가 생체분자 모델링을 향상시키는 방법",
+      "summary": "클로드는 생체분자 모델링의 새로운 가능성을 열고 있다. 이 기술은 생명과학 연구에 혁신적인 변화를 가져올 것으로 기대된다.",
+      "summary_full": "클로드는 생체분자 모델링의 정확성과 효율성을 높이는 데 기여하고 있다. 이를 통해 연구자들은 복잡한 생물학적 시스템을 더 잘 이해할 수 있게 된다. 또한, 이 기술은 신약 개발 및 질병 연구에 중요한 역할을 할 것으로 보인다. 클로드의 발전은 생명과학 분야의 미래를 밝히는 중요한 이정표가 될 것이다.",
       "keywords": [
         "생체분자",
         "모델링",
@@ -880,7 +1042,7 @@
       "date": "9월 17일",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
     },
     {
       "category": "trend",
@@ -965,8 +1127,8 @@
     {
       "category": "design",
       "title": "CSS 컨테이너 쿼리를 전통적인 미디어 쿼리처럼 다루지 마세요",
-      "summary": "CSS 컨테이너 쿼리가 도입되었지만, 많은 사람들이 미디어 쿼리와의 차이를 이해하지 못하고 있다. 이 글에서는 컨테이너 쿼리의 필요성과 장점을 설명한다.",
-      "summary_full": "CSS 컨테이너 쿼리가 처음 도입되었을 때 많은 사람들이 그 필요성을 의문시했다. 기존의 미디어 쿼리가 이미 존재하는데 왜 새로운 것이 필요한지에 대한 혼란이 있었다. 하지만 컨테이너 쿼리는 더 유연하고 효율적인 디자인을 가능하게 해준다. 이 글에서는 이러한 컨테이너 쿼리의 장점과 활용 방법에 대해 논의한다.",
+      "summary": "CSS 컨테이너 쿼리의 필요성을 이해하지 못했던 많은 사람들이 있다. 이 글에서는 컨테이너 쿼리가 미디어 쿼리와 어떻게 다른지 설명한다.",
+      "summary_full": "CSS 컨테이너 쿼리가 처음 출시되었을 때, 많은 사람들이 그 필요성을 의문시했다. 기존의 미디어 쿼리가 이미 존재하는데 왜 새로운 기능이 필요한지에 대한 혼란이 있었다. 그러나 컨테이너 쿼리는 더 유연하고 효율적인 디자인을 가능하게 해준다. 이 글에서는 이러한 차이점과 컨테이너 쿼리의 장점을 설명한다.",
       "keywords": [
         "CSS",
         "컨테이너 쿼리",
@@ -976,7 +1138,7 @@
       "date": "9월 16일",
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
     },
     {
       "category": "trend",
@@ -1189,8 +1351,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 기술은 기업의 AI 운영 비용을 크게 절감할 것으로 기대된다.",
-      "summary_full": "라이너가 새로운 AI 솔루션을 출시하여 LLM의 운영 비용을 절반으로 줄일 수 있는 기술을 개발했다. 이 솔루션은 기업들이 AI를 보다 효율적으로 활용할 수 있도록 돕는다. 비용 절감 외에도 성능 향상도 기대되며, 다양한 산업에 적용 가능할 것으로 보인다. 라이너는 이 기술을 통해 AI 시장에서의 경쟁력을 강화할 계획이다.",
+      "summary": "라이너가 LLM 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
+      "summary_full": "라이너가 새로운 AI 솔루션을 출시하여 LLM 비용을 절반으로 줄일 수 있는 방법을 제시했다. 이 솔루션은 기업들이 AI 기술을 보다 경제적으로 활용할 수 있게 해준다. 이를 통해 기업들은 운영 비용을 절감하고, AI 도입을 촉진할 수 있을 것으로 기대된다. 라이너는 이 기술이 다양한 산업에 긍정적인 영향을 미칠 것이라고 밝혔다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -1200,7 +1362,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T00:57:32.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
     },
     {
       "category": "ai",
@@ -3246,8 +3408,8 @@
     {
       "category": "frontend",
       "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 앞으로 모든 브라우저에서 사용할 수 있도록 개발되고 있습니다. 이 글에서는 해당 함수의 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 사랑을 담아 작성된 이 글은 독자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
+      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수의 사용을 위한 폴리필 개발 과정을 설명합니다. 이 함수는 다양한 브라우저에서 호환되도록 만들어졌습니다. CSS-Tricks에서 사랑을 담아 작성된 이 글은 독자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -3257,7 +3419,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
     },
     {
       "category": "design",
@@ -4332,118 +4494,6 @@
       "collectedAt": "2026-08-25"
     },
     {
-      "category": "design",
-      "title": "챗GPT로 아이메시지 보내기",
-      "summary": "챗GPT를 활용하여 아이메시지를 보내는 방법에 대해 설명한다. 이 과정은 간단한 설정으로 이루어져 있다.",
-      "summary_full": "이 기사에서는 챗GPT를 사용하여 아이메시지를 보내는 방법을 소개한다. 사용자는 간단한 설정을 통해 챗GPT와 연동하여 메시지를 작성할 수 있다. 이를 통해 보다 효율적으로 메시지를 송신할 수 있는 방법을 제시한다. 챗GPT의 기능을 활용하여 개인화된 메시지를 쉽게 보낼 수 있는 장점을 강조한다.",
-      "keywords": [
-        "챗GPT",
-        "아이메시지",
-        "메시지 전송"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "8월 24일",
-      "publishedAt": "2026-08-24T01:09:55.249Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-815/",
-      "collectedAt": "2026-08-24"
-    },
-    {
-      "category": "frontend",
-      "title": "코딩 없이 FAQ 스키마 작성하기",
-      "summary": "FAQ 스키마는 페이지의 질문과 답변을 기계가 이해할 수 있는 형식으로 다시 작성하는 것이다.",
-      "summary_full": "FAQ 스키마는 페이지의 질문과 답변을 기계가 이해할 수 있는 형식으로 다시 작성하는 것이다. 이를 통해 검색 엔진과 AI는 FAQ를 정확한 질문-답변 쌍으로 인식하게 된다. 일반 텍스트 FAQ도 GEO 가치를 제공하지만, 스키마는 그 신호를 더욱 선명하게 만든다. 이 방법은 복사-붙여넣기로 간단하게 구현할 수 있다.",
-      "keywords": [
-        "FAQ 스키마",
-        "검색 엔진 최적화",
-        "AI 인식"
-      ],
-      "source": "dev.to",
-      "date": "8월 24일",
-      "publishedAt": "2026-08-24T01:00:38.000Z",
-      "url": "https://dev.to/bulti_global/faq-schema-no-coding-required-a-copy-and-paste-guide-38j7",
-      "collectedAt": "2026-08-24"
-    },
-    {
-      "category": "trend",
-      "title": "샤오미 첫 NAS 출시: 스마트 스토리지 디자인 분석",
-      "summary": "샤오미가 2,699 RMB에 첫 NAS를 출시했다. 이 제품은 4베이 데스크탑 NAS로, 듀얼 2.5G 이더넷 포트와 도커 지원 기능을 갖추고 있다.",
-      "summary_full": "샤오미가 2,699 RMB에 첫 NAS인 샤오미 스마트 스토리지를 예약 판매 시작했다. 이 NAS는 4베이 데스크탑 디자인으로, 듀얼 2.5G 이더넷 포트와 도커 지원 기능을 제공한다. 외관은 매트 화이트 색상으로, 상단에는 각진 열 방출 그릴이 있으며, 자석으로 부착되는 전면 디자인이 특징이다. 산업 디자이너가 스마트 스토리지 디자인을 분석하는 내용도 포함되어 있다.",
-      "keywords": [
-        "샤오미",
-        "NAS",
-        "스마트 스토리지"
-      ],
-      "source": "dev.to",
-      "date": "8월 24일",
-      "publishedAt": "2026-08-24T00:55:57.000Z",
-      "url": "https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e",
-      "collectedAt": "2026-08-24"
-    },
-    {
-      "category": "industry",
-      "title": "OKLCH 밝기를 색상 스케일에 사용하지 마세요",
-      "summary": "OKLCH는 색상을 생성하는 데 뛰어나지만 대비 예측에는 한계가 있습니다. 색상 팔레트의 가중치를 위해 더 나은 수치가 존재합니다.",
-      "summary_full": "OKLCH는 색상 생성에 매우 유용하지만, 대비를 예측하는 데는 적합하지 않습니다. 색상 팔레트를 구성할 때는 다른 수치를 사용하는 것이 더 효과적입니다. 이 글에서는 OKLCH의 한계와 대안에 대해 설명합니다. UX 디자인에서 색상 선택의 중요성을 강조합니다.",
-      "keywords": [
-        "OKLCH",
-        "색상 스케일",
-        "대비 예측"
-      ],
-      "source": "uxdesign.cc",
-      "date": "8월 23일",
-      "publishedAt": "2026-08-23T20:37:16.000Z",
-      "url": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-08-24"
-    },
-    {
-      "category": "industry",
-      "title": "갈봇 로봇, 테니스 챔피언과 100회 연속 랠리 성공",
-      "summary": "갈봇의 로봇이 베이징에서 열린 세계 휴머노이드 로봇 게임에서 전 세계 랭킹 15위인 정제와 100회 이상의 연속 자율 테니스 랠리를 성공적으로 수행했다. 이 기록은 갈봇의 주장에 기반하고 있다.",
-      "summary_full": "갈봇의 로봇이 베이징에서 열린 세계 휴머노이드 로봇 게임에서 전 세계 랭킹 15위인 정제와 100회 이상의 연속 자율 테니스 랠리를 성공적으로 수행했다. 이 랠리 수와 자율성 주장은 모두 갈봇의 주장에 의존하고 있다. 로봇은 토요일에 전 윔블던 준결승 진출자와 랠리를 진행했다. 이 이야기는 더 넥스트 웹에서 계속된다.",
-      "keywords": [
-        "갈봇",
-        "로봇",
-        "테니스"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 23일",
-      "publishedAt": "2026-08-23T20:08:09.000Z",
-      "url": "https://thenextweb.com/news/galbot-autonomous-tennis-robot-100-rallies-claim",
-      "collectedAt": "2026-08-24"
-    },
-    {
-      "category": "trend",
-      "title": "아수스 ROG 스위프트 RGB 스트라이프 OLED 리뷰: 선명함의 왕",
-      "summary": "아수스 PG27UCWM은 OLED 게이밍 모니터에 새로운 서브 픽셀 레이아웃을 도입하였다. 테스트 결과, 이 모니터가 제공하는 개선 사항을 높이 평가했다.",
-      "summary_full": "아수스 PG27UCWM은 OLED 게이밍 모니터에 새로운 서브 픽셀 레이아웃을 도입하였다. 이로 인해 화면의 선명도가 크게 향상되었다. 개인적인 테스트에서 이 모니터의 성능을 높이 평가했다. 특히 게임 플레이 시의 시각적 경험이 개선된 점이 인상적이었다.",
-      "keywords": [
-        "아수스",
-        "OLED",
-        "게이밍 모니터"
-      ],
-      "source": "wired.com",
-      "date": "8월 23일",
-      "publishedAt": "2026-08-23T13:00:00.000Z",
-      "url": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
-      "collectedAt": "2026-08-24"
-    },
-    {
-      "category": "industry",
-      "title": "코인원, 워터밤 속초 2026 메인 스폰서 참여",
-      "summary": "코인원이 '워터밤 속초 2026'의 메인 스폰서로 참여하여 브랜드 체험 부스를 운영했다. 관람객들이 코인원을 경험할 수 있는 다양한 이벤트와 휴식 공간을 제공했다.",
-      "summary_full": "코인원은 '워터밤 속초 2026'의 메인 스폰서로 참여해 2층 규모의 브랜드 체험 부스를 선보였다. 관람객들이 코인원을 경험할 수 있도록 체험형 이벤트와 휴식 공간을 마련했다. 이를 통해 오프라인에서 고객과의 접점을 확대하고자 했다. 코인원의 다양한 서비스와 브랜드를 직접 체험할 수 있는 기회를 제공했다.",
-      "keywords": [
-        "코인원",
-        "워터밤 속초",
-        "메인 스폰서"
-      ],
-      "source": "바이라인네트워크",
-      "date": "8월 23일",
-      "publishedAt": "2026-08-23T06:51:51.000Z",
-      "url": "https://byline.network/2026/08/0823/",
-      "collectedAt": "2026-08-24"
-    },
-    {
       "category": "ai",
       "title": "AI 모델 ‘Claude’ 개발사 Anthropic, 자체 칩 제작 착수",
       "summary": "AI 모델 ‘Claude’를 개발한 Anthropic이 자체 칩을 만들기 시작했다. 구글의 반도체 전문가를 영입하여 기술력을 강화하고 있다.",
@@ -4458,22 +4508,6 @@
       "publishedAt": "2026-08-22T02:48:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wbXM1Vmd3RnhTYXZ0MlE0WnlLZElTaUluZV8wU0VKS0hFak10ekhtSkpLSnJxSDFDQ0QycmtncE1tVEMwdDFzVDY4X3ZfYlBqU1R0d09uV0pDbFhkQlE?oc=5",
       "collectedAt": "2026-08-27"
-    },
-    {
-      "category": "frontend",
-      "title": "CSS 클래스 접두사 선택자 해결",
-      "summary": "새롭게 해결된 제안은 와일드카드를 사용하여 변형의 접두사 클래스를 선택할 수 있게 해줍니다. 예를 들어 .prefix-*와 같은 형식입니다.",
-      "summary_full": "새롭게 해결된 제안은 CSS에서 접두사 클래스를 선택할 수 있는 기능을 제공합니다. 이를 통해 .prefix-*와 같은 형식으로 변형을 쉽게 선택할 수 있게 됩니다. 이 내용은 CSS-Tricks에서 처음 작성되고 발표되었습니다. 뉴스레터 구독을 추천합니다.",
-      "keywords": [
-        "CSS",
-        "클래스 선택자",
-        "와일드카드"
-      ],
-      "source": "css-tricks.com",
-      "date": "8월 21일",
-      "publishedAt": "2026-08-21T15:13:03.000Z",
-      "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-      "collectedAt": "2026-08-24"
     },
     {
       "category": "ai",
@@ -4522,22 +4556,6 @@
       "publishedAt": "2026-08-20T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
       "collectedAt": "2026-08-25"
-    },
-    {
-      "category": "ai",
-      "title": "AI 미래 소개",
-      "summary": "AI Futures는 AI가 권력, 거버넌스, 경제, 개인의 자유를 어떻게 변화시킬 수 있는지를 탐구하는 OpenAI의 새로운 블로그입니다.",
-      "summary_full": "AI Futures는 AI 기술이 사회의 다양한 측면에 미치는 영향을 다루는 블로그입니다. 이 블로그는 AI가 권력 구조와 거버넌스를 어떻게 재편할 수 있는지를 탐구합니다. 또한 경제와 개인의 자유에 대한 AI의 잠재적 영향을 분석합니다. 이러한 주제를 통해 독자들에게 AI의 미래에 대한 통찰력을 제공합니다.",
-      "keywords": [
-        "AI",
-        "거버넌스",
-        "경제"
-      ],
-      "source": "OpenAI News",
-      "date": "8월 20일",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "collectedAt": "2026-08-24"
     },
     {
       "category": "frontend",
@@ -4606,8 +4624,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 극대화하기 위한 다양한 전략을 포함하고 있다. 이러한 트렌드는 기술 발전과 함께 변화하며, 디지털 환경에서의 사용성을 높이는 데 중점을 둔다. 특히, 인터페이스의 직관성과 접근성을 강조하는 경향이 두드러진다. 이 글에서는 최신 트렌드와 그 적용 사례를 소개한다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 극대화하기 위해 다양한 혁신적인 요소를 통합하고 있다. 특히, 시각적 요소와 인터랙션 디자인의 조화가 강조되고 있다. 이러한 변화는 디지털 제품의 경쟁력을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "UX/UI 디자인",
         "트렌드",
@@ -4617,29 +4635,29 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이 과정에서 라틴어 교수법이 현대 언어 학습에 미친 영향을 살펴보는 것이 중요하다. 결국, 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 어떻게 반영되었는지를 이해하는 것이 핵심이다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래되었다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 영향을 미쳤다. 따라서 언어 학습의 기초를 이해하는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교수법"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 함께 AI 네이티브 산업 가속화",
-      "summary": "엠미가 미스트랄에 합류하여 AI 네이티브 산업의 발전을 가속화한다. 이 협력은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 성장을 가속화하기로 했다. 두 회사는 AI 기술의 혁신을 통해 새로운 기회를 창출할 계획이다. 이번 합작은 AI 분야에서의 경쟁력을 높이는 데 기여할 것으로 보인다. 엠미와 미스트랄의 협력은 업계에 긍정적인 영향을 미칠 것으로 기대된다.",
+      "title": "엠미, 미스트랄과 협력하여 AI 네이티브 산업 가속화",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 촉진한다. 이 파트너십은 혁신적인 AI 솔루션을 개발하는 데 중점을 둔다.",
+      "summary_full": "엠미가 미스트랄과 협력하여 AI 네이티브 산업을 가속화하기 위한 전략적 파트너십을 체결했다. 이 협력은 AI 기술의 혁신을 촉진하고, 산업 전반에 걸쳐 AI 솔루션을 통합하는 데 중점을 둔다. 양사는 함께 AI 기반의 새로운 제품과 서비스를 개발하여 시장의 요구에 부응할 계획이다. 이러한 협력은 AI 기술의 발전을 가속화하고, 산업의 경쟁력을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "엠미",
         "미스트랄",
@@ -4649,7 +4667,7 @@
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-23"
+      "collectedAt": "2026-09-24"
     }
   ]
 }
