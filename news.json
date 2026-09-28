@@ -1,22 +1,104 @@
 {
-  "updated": "2026년 9월 27일 AM 03:45",
-  "count": 280,
+  "updated": "2026년 9월 28일 AM 03:43",
+  "count": 277,
   "articles": [
     {
       "category": "industry",
       "title": "정답 없는 제품 문제 해결법",
-      "summary": "오토태깅 개발을 통해 콘텐츠와 상품을 연결하는 방법을 소개한다. AI를 활용하여 더 쉽고 다양한 방식으로 문제를 해결할 수 있다.",
-      "summary_full": "정답 없는 제품 문제를 해결하기 위한 오토태깅 개발 과정을 다룬다. 콘텐츠와 상품을 연결하는 플러스 태그의 중요성을 강조한다. AI 기술을 통해 문제 해결의 효율성을 높이고 다양한 접근 방식을 제시한다. 이러한 혁신적인 방법이 어떻게 실현될 수 있는지를 탐구한다.",
+      "summary": "오토태깅 개발을 통해 콘텐츠와 상품을 연결하는 방법을 소개한다. AI를 활용하여 더 쉽고 다양하게 문제를 해결할 수 있는 방안을 제시한다.",
+      "summary_full": "정답이 없는 제품 문제를 해결하기 위한 오토태깅 개발 과정을 다룬다. 콘텐츠와 상품을 연결하는 플러스 태그의 중요성을 강조한다. AI 기술을 통해 문제 해결을 더 쉽고 다양하게 할 수 있는 방법을 모색한다. 이 과정에서 AI frontier의 역할도 함께 논의된다.",
       "keywords": [
         "오토태깅",
         "AI",
         "플러스 태그"
       ],
       "source": "오늘의집 Culture",
-      "date": "9월 27일",
-      "publishedAt": "2026-09-27T03:44:33.297Z",
+      "date": "9월 28일",
+      "publishedAt": "2026-09-28T03:42:58.976Z",
       "url": "https://www.bucketplace.com/post/2026-09-21-%EC%A0%95%EB%8B%B5-%EC%97%86%EB%8A%94-%EC%A0%9C%ED%92%88-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%ED%91%B8%EB%8A%94-%EB%B2%95-%EC%98%A4%ED%86%A0%ED%83%9C%EA%B9%85-%EA%B0%9C%EB%B0%9C%EA%B8%B0/",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
+    },
+    {
+      "category": "frontend",
+      "title": "سلطان فيرست의 디자인 및 비주얼 아이덴티티 서비스 리뷰",
+      "summary": "عرعر의 고급 시계 가게에서 9개월 후의 경험을 공유한다.",
+      "summary_full": "이 리뷰는 عرعر의 고급 시계 가게 소유자인 منى الحازمي가 سلطان فيرست의 디자인 및 비주얼 아이덴티티 서비스를 사용한 후기를 다룬다. 서비스 이용 후 9개월이 지난 현재, 그녀의 가게에서의 변화와 경험을 상세히 설명하고 있다.",
+      "keywords": [
+        "디자인",
+        "비주얼 아이덴티티",
+        "고급 시계 가게"
+      ],
+      "source": "dev.to",
+      "date": "9월 28일",
+      "publishedAt": "2026-09-28T03:38:42.000Z",
+      "url": "https://dev.to/__32a29f7485a94d/mrj-mn-lhzmy-lkhdm-ltsmym-wlhwy-lbsry-mn-sltn-fyrst-tjrb-mhl-st-fkhm-fy-rr-bd-1lik",
+      "collectedAt": "2026-09-28"
+    },
+    {
+      "category": "industry",
+      "title": "AI 시대에 UX 초급 작업을 지키는 방법",
+      "summary": "AI의 발전으로 인해 초급 UX 작업이 사라지고 있지만, 여전히 인간의 요소가 중요한 사용자 경험을 유지해야 한다. 이를 위해 2030년을 대비한 실습 중심의 작업이 필요하다.",
+      "summary_full": "AI와 자동화가 초급 UX 작업의 일부를 대체하고 있지만, 여전히 인간의 요소가 중요한 사용자 경험을 유지하기 위해서는 실습을 통한 학습이 필요하다. 많은 팀들이 AI의 도움으로 전사 태깅 작업을 중단했지만, 이는 사용자 경험의 질을 저하시킬 수 있다. 이 글에서는 2030년을 대비하기 위해 필요한 7가지 실습 작업을 제안한다. 이러한 작업을 통해 UX 분야의 기초를 다지고, 인간의 창의성을 유지할 수 있다.",
+      "keywords": [
+        "UX 디자인",
+        "AI",
+        "자동화"
+      ],
+      "source": "uxdesign.cc",
+      "date": "9월 27일",
+      "publishedAt": "2026-09-27T19:38:02.000Z",
+      "url": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-09-28"
+    },
+    {
+      "category": "industry",
+      "title": "AI 저작권 계획을 저지한 영국 캠페인단, 호주에 경고",
+      "summary": "영국의 캠페인단이 AI 기업들이 저작권이 있는 작품을 무단으로 학습하는 것을 막은 경험을 바탕으로 호주 정부에 경고했다. 호주는 창작자의 이의 제기가 없을 경우 AI 기업들이 작품을 학습할 수 있는 선택적 모델을 검토하고 있다.",
+      "summary_full": "영국에서 AI 기업들이 저작권이 있는 작품을 무단으로 학습하는 것을 저지한 캠페인단이 호주에 경고의 메시지를 전했다. 이들은 호주 정부가 창작자의 이의 제기가 없으면 AI 기업들이 자유롭게 작품을 학습할 수 있는 선택적 모델을 고려하고 있다는 점에 우려를 표명했다. 캠페인단은 저작권 보호의 중요성을 강조하며, 호주가 유사한 길을 따르지 않기를 바라고 있다. 이 이야기는 가디언의 댄 밀모와의 인터뷰를 통해 전해졌다.",
+      "keywords": [
+        "AI 저작권",
+        "호주 정부",
+        "캠페인단"
+      ],
+      "source": "thenextweb.com",
+      "date": "9월 27일",
+      "publishedAt": "2026-09-27T18:57:18.000Z",
+      "url": "https://thenextweb.com/news/uk-campaigners-warn-australia-ai-copyright",
+      "collectedAt": "2026-09-28"
+    },
+    {
+      "category": "trend",
+      "title": "사출 성형 조립체의 구조적 소음: 문제 해결 순서",
+      "summary": "같은 배치의 열 개 기계 중 일부는 조용히 작동하고, 일부는 윙윙거리며, 일부는 클릭 소리를 낸다. 문제 해결 순서는 소리의 특성에 따라 결함을 분류하고, 조립 스트레스를 점검한 후, 이동 부품, 배선 및 공진 공간을 점검하는 것이다.",
+      "summary_full": "같은 배치의 열 개 기계 중 일부는 조용히 작동하고, 일부는 윙윙거리며, 일부는 클릭 소리를 낸다. 문제 해결 순서는 소리의 특성에 따라 결함을 분류하고, 조립 스트레스를 점검한 후, 이동 부품, 배선 및 공진 공간을 점검하는 것이다. 대부분의 경우, 결함은 첫 두 단계에서 발견된다. 완전히 조립된 기계에 대한 추측은 어려운 작업이다.",
+      "keywords": [
+        "사출 성형",
+        "소음 문제",
+        "조립체"
+      ],
+      "source": "dev.to",
+      "date": "9월 27일",
+      "publishedAt": "2026-09-27T13:39:24.000Z",
+      "url": "https://dev.to/asher_hu_42c5945e09721211/structural-noise-in-injection-molded-assemblies-a-troubleshooting-order-co4",
+      "collectedAt": "2026-09-28"
+    },
+    {
+      "category": "trend",
+      "title": "최고의 파티 스피커 (2026): JBL, 소니, 마샬 등",
+      "summary": "이 스피커들은 강력한 볼륨과 풍부한 베이스, 휴대성을 갖추고 있어 어디서나 파티를 즐길 수 있게 해줍니다. 때때로 노래방 세션도 가능하여 더욱 재미를 더합니다.",
+      "summary_full": "이 스피커들은 강력한 볼륨과 풍부한 베이스, 휴대성을 갖추고 있어 어디서나 파티를 즐길 수 있게 해줍니다. JBL, 소니, 마샬 등 다양한 브랜드가 포함되어 있습니다. 또한, 때때로 노래방 세션도 가능하여 더욱 재미를 더합니다. 이로 인해 친구들과의 모임이나 야외 활동에 적합한 선택이 됩니다.",
+      "keywords": [
+        "파티 스피커",
+        "JBL",
+        "소니",
+        "마샬",
+        "휴대성"
+      ],
+      "source": "wired.com",
+      "date": "9월 27일",
+      "publishedAt": "2026-09-27T11:30:00.000Z",
+      "url": "https://www.wired.com/story/best-party-speaker/",
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "design",
@@ -49,6 +131,22 @@
       "publishedAt": "2026-09-27T03:38:31.000Z",
       "url": "https://dev.to/wo_ytao_734002744cb9586f0/one-series-multiple-watch-orders-designing-flexible-viewing-lists-4m8o",
       "collectedAt": "2026-09-27"
+    },
+    {
+      "category": "industry",
+      "title": "토스, 앱인토스 미니앱 1만3000개 돌파 및 AI 안전성 검수",
+      "summary": "토스의 앱인토스팀이 미니앱 1만3000개를 넘겼으며, AI가 생성한 외부 코드의 보안성을 강조했다. 이를 위해 안전장치를 마련하고 있다고 밝혔다.",
+      "summary_full": "토스의 권순우 PO는 금융 테크 컨퍼런스에서 AI가 생성한 외부 코드의 실행에 따른 보안의 중요성을 강조했다. 앱인토스 플랫폼에 맞는 안전장치를 마련하고 있다고 설명했다. 미니앱 수는 1만3000개를 돌파했다. 이는 토스의 기술적 진전을 보여준다.",
+      "keywords": [
+        "토스",
+        "앱인토스",
+        "AI 보안"
+      ],
+      "source": "바이라인네트워크",
+      "date": "9월 27일",
+      "publishedAt": "2026-09-27T02:29:15.000Z",
+      "url": "https://byline.network/2026/09/0923-5/",
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "trend",
@@ -165,8 +263,8 @@
     {
       "category": "ai",
       "title": "Proaction, Codex로 매출 60% 증가 및 75시간 이상 절약",
-      "summary": "Proaction은 Codex를 활용하여 현대적인 차량 관리 시스템을 더 빠르게 구축하고 운영하며 판매하고 있다. 이를 통해 매출이 60% 증가하고 75시간 이상의 시간을 절약했다.",
-      "summary_full": "Proaction은 Codex, GPT-Live-1, GPT-6 Astra를 통해 현대적인 차량 관리 시스템을 구축하고 운영하는 속도를 높이고 있다. 이 과정에서 매출이 60% 증가했으며, 75시간 이상의 시간 절약 효과를 보고 있다. 이러한 기술적 혁신은 Proaction의 비즈니스 모델을 더욱 효율적으로 만들어준다. Codex의 도입은 회사의 성장에 크게 기여하고 있다.",
+      "summary": "Proaction은 Codex를 통해 현대적인 차량 관리 시스템을 더 빠르게 구축하고 운영하여 매출을 60% 증가시켰습니다. 또한, 75시간 이상의 시간을 절약했습니다.",
+      "summary_full": "Proaction은 Codex, GPT-Live-1, GPT-6 Astra를 활용하여 현대적인 차량 관리 시스템을 신속하게 구축하고 운영합니다. 이로 인해 매출이 60% 증가했습니다. 또한, 운영 효율성을 높여 75시간 이상의 시간을 절약하는 성과를 올렸습니다. 이러한 혁신적인 접근 방식은 Proaction의 판매 전략에 긍정적인 영향을 미치고 있습니다.",
       "keywords": [
         "Proaction",
         "Codex",
@@ -176,13 +274,13 @@
       "date": "9월 25일",
       "publishedAt": "2026-09-25T19:00:00.000Z",
       "url": "https://openai.com/index/proaction",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "ai",
       "title": "Anthropic, Claude 플러그인 디렉터리 제출 포털 개설",
-      "summary": "Anthropic이 Claude 플러그인을 위한 새로운 제출 포털을 개설했다. 이 포털은 개발자들이 플러그인을 쉽게 제출하고 관리할 수 있도록 돕는다.",
-      "summary_full": "Anthropic은 최근 Claude 플러그인용 디렉터리 제출 포털을 개설했다. 이 포털은 개발자들이 자신의 플러그인을 쉽게 제출할 수 있는 플랫폼을 제공한다. 이를 통해 사용자들은 다양한 플러그인을 탐색하고 활용할 수 있게 된다. Anthropic은 이러한 노력을 통해 Claude의 생태계를 더욱 확장할 계획이다.",
+      "summary": "Anthropic이 Claude 플러그인용 디렉터리 제출 포털을 개설했다. 이 포털은 개발자들이 플러그인을 제출하고 관리할 수 있는 플랫폼을 제공한다.",
+      "summary_full": "Anthropic은 최근 Claude 플러그인용 디렉터리 제출 포털을 개설했다. 이 포털은 개발자들이 자신들의 플러그인을 제출하고, 이를 관리할 수 있는 기능을 제공한다. 이를 통해 Anthropic은 Claude의 생태계를 확장하고, 다양한 플러그인을 통해 사용자 경험을 향상시키려는 목표를 가지고 있다. 개발자들은 이 포털을 통해 더 쉽게 플러그인을 배포하고, 사용자와의 소통을 강화할 수 있을 것으로 기대된다.",
       "keywords": [
         "Anthropic",
         "Claude",
@@ -192,7 +290,7 @@
       "date": "9월 25일",
       "publishedAt": "2026-09-25T18:22:53.000Z",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDZrSi1fWVpXUXFEaVFPZTZoUU1nSWl4RVBWX3hSdHYxNUpfMWNzWk5MQmF4S1FIRVhUdnE4cHlRZk9FRVZIampzdHRXVlR6cFYyOTVHNHN0aHdGSEFTQmk4Q2g4YThqeVNuQUdzUEx0S1NjTUdNYlVNSEh4VWZsWXJVX3FDTlI1WWc3bHZ1c24?oc=5",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "trend",
@@ -245,8 +343,8 @@
     {
       "category": "figma",
       "title": "자동 레이아웃에서 수직 흐름 설정 시 수직 랩 기능 추가",
-      "summary": "자동 레이아웃을 수직 흐름으로 설정할 때 수직 랩 기능이 추가되었습니다. 콘텐츠가 추가되거나 제거될 때 반응형 멀티 컬럼 레이아웃을 구축할 수 있습니다.",
-      "summary_full": "자동 레이아웃을 수직 흐름으로 설정할 때 수직 랩 기능이 추가되었습니다. 이제 오버플로우 콘텐츠가 프레임을 넘어가는 대신 새로운 열로 랩됩니다. 이는 CSS 플렉스박스의 동작과 일치하여 자동 레이아웃을 CSS에 더 가깝게 만듭니다. 이러한 변화로 인해 레이아웃의 유연성이 향상되었습니다.",
+      "summary": "자동 레이아웃의 수직 흐름 설정 시 수직 랩 기능이 추가되었습니다. 콘텐츠가 추가되거나 제거될 때도 반응형 멀티 컬럼 레이아웃을 구축할 수 있습니다.",
+      "summary_full": "자동 레이아웃에서 수직 흐름 설정 시 수직 랩 기능이 새롭게 추가되었습니다. 이제 오버플로우 콘텐츠가 프레임을 넘어가지 않고 새로운 열로 랩됩니다. 이는 CSS 플렉스박스의 동작과 일치하여 자동 레이아웃을 CSS에 더 가깝게 만듭니다. 이 기능을 통해 콘텐츠 조정 시에도 유연한 레이아웃을 유지할 수 있습니다.",
       "keywords": [
         "자동 레이아웃",
         "수직 흐름",
@@ -256,23 +354,23 @@
       "date": "9월 25일",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "ai",
       "title": "클로드는 아홉 개의 루프를 수행할 수 있다",
-      "summary": "클로드는 아홉 개의 루프를 성공적으로 수행할 수 있는 능력을 보여주었다. 이는 그의 기술적 발전을 의미한다.",
-      "summary_full": "클로드는 아홉 개의 루프를 수행하는 데 성공하며, 이는 그의 기술적 능력이 크게 향상되었음을 나타낸다. 이러한 성과는 그가 복잡한 작업을 처리할 수 있는 능력을 갖추었음을 보여준다. 앞으로의 연구와 개발에 있어 중요한 이정표가 될 것이다. 클로드의 성과는 다양한 분야에서의 응용 가능성을 시사한다.",
+      "summary": "클로드는 아홉 개의 루프를 성공적으로 수행할 수 있는 능력을 보여주었다. 이는 그의 기술적 발전을 나타내는 중요한 이정표이다.",
+      "summary_full": "클로드는 최근 아홉 개의 루프를 수행하는 데 성공하며 그의 능력을 입증했다. 이 성과는 그가 기술적으로 얼마나 발전했는지를 보여주는 중요한 사례로 평가받고 있다. 이러한 능력은 다양한 분야에서의 응용 가능성을 열어줄 것으로 기대된다. 앞으로 클로드의 기술이 어떻게 발전할지 주목된다.",
       "keywords": [
         "클로드",
         "루프",
-        "기술적 발전"
+        "기술 발전"
       ],
       "source": "Anthropic Research",
       "date": "9월 25일",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "trend",
@@ -357,24 +455,24 @@
     {
       "category": "ai",
       "title": "제미니 3.8 라이브와 라이브 아바타 소개",
-      "summary": "제미니 3.8 라이브가 라이브 아바타 기능을 도입했습니다. 이 새로운 기능은 사용자와의 상호작용을 더욱 향상시킬 것입니다.",
-      "summary_full": "제미니 3.8 라이브가 새로운 라이브 아바타 기능을 소개합니다. 이 기능은 사용자가 실시간으로 아바타와 상호작용할 수 있게 해줍니다. 이를 통해 더욱 몰입감 있는 경험을 제공하며, 다양한 상황에서 활용될 수 있습니다. 제미니는 사용자 경험을 개선하기 위해 지속적으로 발전하고 있습니다.",
+      "summary": "제미니 3.8 라이브가 라이브 아바타 기능을 도입했습니다. 이 새로운 기능은 사용자와의 상호작용을 더욱 향상시킵니다.",
+      "summary_full": "제미니 3.8 라이브는 최신 라이브 아바타 기능을 소개합니다. 이 기능은 사용자와의 실시간 상호작용을 가능하게 하여 더욱 몰입감 있는 경험을 제공합니다. 아바타는 사용자의 감정과 반응을 실시간으로 반영하여 소통을 강화합니다. 이러한 혁신은 다양한 분야에서 활용될 수 있는 가능성을 열어줍니다.",
       "keywords": [
         "제미니",
         "라이브 아바타",
-        "기술 혁신"
+        "상호작용"
       ],
       "source": "Google DeepMind Blog",
       "date": "9월 24일",
       "publishedAt": "2026-09-24T16:20:39.000Z",
       "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "ai",
-      "title": "LFM2.5-VL-DSpark로 비전-언어 모델 가속화",
-      "summary": "LFM2.5-VL-DSpark를 사용하여 비전-언어 모델의 성능을 향상시키는 방법을 다룬다. 이 기술은 모델의 처리 속도를 높이고 효율성을 개선하는 데 기여한다.",
-      "summary_full": "이 기사에서는 LFM2.5-VL-DSpark라는 새로운 기술을 통해 비전-언어 모델의 성능을 가속화하는 방법을 소개한다. LFM2.5-VL-DSpark는 모델의 처리 속도를 높이고, 더 나은 결과를 도출할 수 있도록 설계되었다. 이를 통해 다양한 비전-언어 작업에서의 효율성을 개선할 수 있다. 이 기술은 AI와 머신러닝 분야에서 중요한 발전을 나타낸다.",
+      "title": "LFM2.5-VL-DSpark를 통한 비전-언어 모델 가속화",
+      "summary": "LFM2.5-VL-DSpark는 비전-언어 모델의 성능을 향상시키기 위한 새로운 접근 방식이다. 이 기술은 모델의 처리 속도를 높이고 효율성을 개선하는 데 중점을 두고 있다.",
+      "summary_full": "LFM2.5-VL-DSpark는 비전-언어 모델의 성능을 가속화하기 위해 개발된 혁신적인 기술이다. 이 모델은 데이터 처리 속도를 크게 향상시키며, 더 나은 결과를 도출할 수 있도록 설계되었다. 또한, LFM2.5-VL-DSpark는 다양한 비전-언어 작업에 적용 가능하여 연구자와 개발자들에게 유용한 도구가 될 것이다. 이러한 기술적 발전은 AI 모델의 효율성을 높이고, 실시간 응용 프로그램에서의 활용 가능성을 확대한다.",
       "keywords": [
         "비전-언어 모델",
         "LFM2.5-VL-DSpark",
@@ -384,7 +482,7 @@
       "date": "9월 24일",
       "publishedAt": "2026-09-24T14:08:57.000Z",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "frontend",
@@ -535,18 +633,18 @@
     {
       "category": "frontend",
       "title": "연 300시간을 아낀 AI 상담 서비스",
-      "summary": "AI 상담 서비스 도입으로 연간 300시간을 절약하게 된 사례를 소개합니다.",
-      "summary_full": "토스뱅크의 전세대출 팀에서 AI 상담 서비스를 디자인한 경험을 공유합니다. 사용자의 불안감을 해소하고 상담팀의 문의량을 줄이기 위해 데이터 분석을 통해 문제를 파악했습니다. 이를 통해 서류 제출 방법과 간단한 정보에 대한 문의를 줄일 수 있었습니다. AI 상담 서비스는 효율성을 높이고 고객의 만족도를 향상시키는 데 기여했습니다.",
+      "summary": "AI 상담 서비스 도입으로 연간 300시간을 절약하게 된 사례를 소개한다.",
+      "summary_full": "토스뱅크의 전세대출 팀은 사용자들이 서류 제출에 어려움을 겪는 문제를 해결하기 위해 AI 상담 서비스를 디자인했다. 상담팀의 문의 데이터를 분석한 결과, 사용자가 필요한 정보를 쉽게 얻지 못해 고객센터에 문의하는 경우가 많다는 사실을 발견했다. 이를 통해 AI 상담 서비스가 도입되어 사용자 경험을 개선하고 상담 시간을 단축시켰다.",
       "keywords": [
         "AI 상담 서비스",
         "전세대출",
-        "토스뱅크"
+        "사용자 경험 개선"
       ],
       "source": "toss.tech",
       "date": "9월 23일",
       "publishedAt": "2026-09-23T06:39:00.000Z",
       "url": "https://toss.tech/article/AI_chatbot",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "industry",
@@ -1495,8 +1593,8 @@
     {
       "category": "design",
       "title": "CSS 컨테이너 쿼리를 전통적인 미디어 쿼리처럼 다루지 마세요",
-      "summary": "CSS 컨테이너 쿼리가 처음 출시되었을 때 많은 사람들이 그 필요성을 의문시했습니다. 그러나 이 새로운 기능은 미디어 쿼리와는 다른 유용성을 제공합니다.",
-      "summary_full": "CSS 컨테이너 쿼리가 처음 출시되었을 때, 많은 개발자들이 미디어 쿼리와의 차이를 이해하지 못했습니다. 이 글에서는 CSS 컨테이너 쿼리의 필요성과 그 유용성에 대해 설명합니다. 전통적인 미디어 쿼리와는 다른 방식으로 디자인을 최적화할 수 있는 방법을 제시합니다. 이를 통해 개발자들이 더 나은 사용자 경험을 제공할 수 있도록 돕고자 합니다.",
+      "summary": "CSS 컨테이너 쿼리가 처음 출시되었을 때 많은 사람들이 그 필요성을 의문시했습니다. 하지만 이 새로운 기능은 미디어 쿼리와는 다른 유용성을 제공합니다.",
+      "summary_full": "CSS 컨테이너 쿼리가 처음 출시되었을 때, 많은 개발자들은 기존의 미디어 쿼리로 충분하다고 생각했습니다. 그러나 이 새로운 기능은 다양한 레이아웃과 디자인 요구에 맞춰 더 유연한 접근 방식을 제공합니다. CSS 컨테이너 쿼리는 요소의 크기에 따라 스타일을 조정할 수 있어, 반응형 디자인을 더욱 쉽게 구현할 수 있습니다. 따라서 전통적인 미디어 쿼리와는 다른 방식으로 활용해야 할 필요성이 있습니다.",
       "keywords": [
         "CSS",
         "컨테이너 쿼리",
@@ -1506,7 +1604,7 @@
       "date": "9월 16일",
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "trend",
@@ -1655,8 +1753,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 새로운 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너는 최근 LLM의 운영 비용을 절반으로 줄일 수 있는 혁신적인 AI 솔루션을 출시했다. 이 솔루션은 기업들이 인공지능 기술을 보다 경제적으로 활용할 수 있도록 설계되었다. 이를 통해 기업들은 비용 절감과 함께 AI의 효율성을 극대화할 수 있을 것으로 기대된다. 라이너는 이 기술이 다양한 산업 분야에 적용될 수 있을 것이라고 밝혔다.",
+      "summary": "라이너가 LLM(대형 언어 모델) 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 지원한다.",
+      "summary_full": "라이너가 새로운 AI 솔루션을 출시하여 LLM의 운영 비용을 절반으로 줄일 수 있는 방법을 제시했다. 이 솔루션은 기업들이 AI 기술을 보다 경제적으로 활용할 수 있도록 설계되었다. 라이너는 이 기술이 다양한 산업에서의 AI 적용을 촉진할 것으로 기대하고 있다. 이를 통해 기업들은 비용 절감과 함께 효율성을 높일 수 있을 것으로 보인다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -1666,7 +1764,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "design",
@@ -3776,8 +3874,8 @@
     {
       "category": "frontend",
       "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 모든 브라우저에서 이 기능을 사용할 수 있도록 하는 방법을 설명합니다.",
-      "summary_full": "CSS random() 함수는 다가오는 기능으로, 이를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 여정을 소개합니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성된 것입니다. 독자들에게 뉴스레터 구독을 권장합니다. CSS의 발전을 함께 경험해보세요.",
+      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수는 현재 개발 중이며, 이를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. 이 글은 CSS-Tricks에서 작성되었으며, 독자들에게 뉴스레터 구독을 권장합니다. CSS의 발전을 따라가고자 하는 개발자들에게 유용한 정보가 될 것입니다. 다양한 브라우저에서의 호환성을 확보하는 방법에 대해 논의합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -3787,7 +3885,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "design",
@@ -4126,70 +4224,6 @@
       "collectedAt": "2026-09-01"
     },
     {
-      "category": "frontend",
-      "title": "모든 기기에 Zyctra AI 설치—앱 스토어 불필요",
-      "summary": "Zyctra AI는 다양한 기기에서 사용할 수 있는 AI 도구를 제공합니다. 이 도구는 일상 업무에 필요한 스마트 AI 어시스턴트와 앱에 지능을 통합할 수 있는 API를 포함합니다.",
-      "summary_full": "Zyctra AI는 모든 기기에서 설치할 수 있으며, 앱 스토어 없이도 사용 가능합니다. 개발자와 전문가들은 여러 기기에서 도구를 관리하는 데 어려움을 겪고 있습니다. 이 AI 도구는 일상 업무를 돕는 스마트 어시스턴트와 앱에 통합할 수 있는 API를 제공합니다. 또한, 세련된 이력서를 작성하는 방법도 지원합니다.",
-      "keywords": [
-        "Zyctra AI",
-        "AI 도구",
-        "다양한 기기"
-      ],
-      "source": "dev.to",
-      "date": "8월 28일",
-      "publishedAt": "2026-08-28T09:30:13.000Z",
-      "url": "https://dev.to/zyctraai/install-zyctra-ai-on-any-device-no-app-store-required-i8g",
-      "collectedAt": "2026-08-28"
-    },
-    {
-      "category": "trend",
-      "title": "돌리 파튼과 백신에 대한 음모론",
-      "summary": "우익 음모론자들이 코로나 백신이 돌리 파튼을 죽였다고 주장하고 있다. 이는 사실이 아니며, 그녀는 백신을 지지하는 인물이다.",
-      "summary_full": "돌리 파튼은 백신을 지지하는 유명한 인물로 알려져 있다. 그러나 일부 우익 음모론자들은 그녀가 코로나 백신으로 인해 사망했다고 잘못 주장하고 있다. 이러한 주장은 사실이 아니며, 그녀의 기부 활동과 백신 홍보 활동과는 정반대의 내용을 담고 있다. 이러한 음모론은 사회적 혼란을 야기할 수 있다.",
-      "keywords": [
-        "돌리 파튼",
-        "백신",
-        "음모론"
-      ],
-      "source": "wired.com",
-      "date": "8월 28일",
-      "publishedAt": "2026-08-28T09:30:00.000Z",
-      "url": "https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/",
-      "collectedAt": "2026-08-28"
-    },
-    {
-      "category": "industry",
-      "title": "AI 학습 데이터 공개 논란",
-      "summary": "AI 모델 학습 데이터의 투명성 문제로 사회적 갈등이 심화되고 있다. 데이터 출처 공개 요구와 영업비밀 보호 주장이 충돌하고 있다.",
-      "summary_full": "거대 인공지능 모델의 학습 데이터 투명성을 둘러싼 갈등이 커지고 있다. 알고리즘 편향성을 방지하고 신뢰를 구축하기 위해 데이터 출처 공개를 요구하는 목소리와, 기업의 기술 경쟁력을 지키기 위한 영업비밀 보호 주장이 대립하고 있다. 최근 국내 기업들이 대규모 학습 데이터를 무료로 개방하기로 했지만, 상용 서비스의 투명성 의무화에 대한 논의는 여전히 결론을 내지 못하고 있다.",
-      "keywords": [
-        "AI",
-        "학습 데이터",
-        "투명성"
-      ],
-      "source": "바이라인네트워크",
-      "date": "8월 28일",
-      "publishedAt": "2026-08-28T09:16:04.000Z",
-      "url": "https://byline.network/2026/08/0828-8/",
-      "collectedAt": "2026-08-28"
-    },
-    {
-      "category": "industry",
-      "title": "구글, 일요일부터 EU 출판사에 대한 스팸 정책 강등 중단",
-      "summary": "구글은 일요일부터 유럽 뉴스 출판사가 사이트에서 후원 콘텐츠를 운영하더라도 수동 강등 위험이 없어진다고 발표했다. 이는 유럽연합 집행위원회의 조사와 관련된 조치로, 벌금 부과를 피하기 위한 것이다.",
-      "summary_full": "구글은 일요일부터 유럽 뉴스 출판사가 후원 콘텐츠를 운영할 경우 더 이상 수동 강등의 위험이 없다고 발표했다. 이 변화는 유럽연합 집행위원회의 조사와 관련이 있으며, 구글은 이를 통해 벌금 부과를 피하고자 한다. 구글의 이 결정은 금요일에 확인되었으며, 이는 EU 출판사들에게 긍정적인 영향을 미칠 것으로 보인다. 이와 관련된 자세한 내용은 The Next Web에서 확인할 수 있다.",
-      "keywords": [
-        "구글",
-        "EU 출판사",
-        "스팸 정책"
-      ],
-      "source": "thenextweb.com",
-      "date": "8월 28일",
-      "publishedAt": "2026-08-28T09:02:55.000Z",
-      "url": "https://thenextweb.com/news/google-eu-spam-policy-demotions-dma",
-      "collectedAt": "2026-08-28"
-    },
-    {
       "category": "industry",
       "title": "AI·N2SF 변화 속 상반기 보안업계 실적",
       "summary": "올해 상반기 보안기업들은 클라우드와 서비스 사업이 실적을 이끌었다. AI 보안과 양자내성암호가 실적에 반영된 사례도 있으나, 많은 기업은 하반기 성장 사업으로 보고 있다.",
@@ -4207,38 +4241,6 @@
     },
     {
       "category": "ai",
-      "title": "세일즈포스와 앤트로픽의 협력으로 탄생한 클로드포스",
-      "summary": "세일즈포스와 앤트로픽이 협력하여 클로드포스를 공개했다. 이 새로운 플랫폼은 클로드에 CRM 실행력을 더해준다.",
-      "summary_full": "세일즈포스와 앤트로픽이 손잡고 클로드포스를 출시했다. 클로드포스는 클로드에 CRM 기능을 통합하여 더욱 강력한 실행력을 제공한다. 이 협력은 인공지능과 고객 관계 관리의 결합을 통해 비즈니스 성과를 극대화하는 데 기여할 것으로 기대된다. 클로드포스는 기업들이 고객 데이터를 효과적으로 활용할 수 있도록 지원한다.",
-      "keywords": [
-        "세일즈포스",
-        "앤트로픽",
-        "클로드포스"
-      ],
-      "source": "Google News Anthropic",
-      "date": "8월 28일",
-      "publishedAt": "2026-08-28T07:06:24.000Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96eG90TVE1aUtqMThURlU4YUFCNHA2NV84VUZNcnRuS2s2Z1lQSVVYOGotVnlHWTFYTDBMOTNSbTY0QTllSEZjdHM5T01OLTBQMC0zWDdIUW9wMVVYT3FqSDNsUFAtWl9oUGhxbQ?oc=5",
-      "collectedAt": "2026-08-28"
-    },
-    {
-      "category": "trend",
-      "title": "크랩스 롤의 개성을 유지하는 방법",
-      "summary": "크랩스 게임에서의 롤링 방식이 어떻게 개성을 잃지 않고 유지되는지를 다룬다.",
-      "summary_full": "이 글에서는 크랩스 게임의 롤링 메커니즘이 어떻게 플레이어의 개성을 반영하는지를 설명한다. 게임의 규칙과 전략이 어떻게 개인의 스타일을 표현할 수 있는지에 대한 통찰을 제공한다. 또한, 다양한 플레이어의 접근 방식이 게임의 경험에 미치는 영향을 분석한다.",
-      "keywords": [
-        "크랩스",
-        "게임 디자인",
-        "개성 유지"
-      ],
-      "source": "dev.to",
-      "date": "8월 28일",
-      "publishedAt": "2026-08-28T07:00:26.000Z",
-      "url": "https://dev.to/fullwin/how-craps-roll-keeps-the-personality-without-the-568o",
-      "collectedAt": "2026-08-28"
-    },
-    {
-      "category": "ai",
       "title": "SpaceX에 인수된 Cursor에 대한 우리의 결정",
       "summary": "SpaceX의 인수 이후 Cursor에 대한 계약을 종료하기로 결정했다. OpenAI 모델을 제공하는 계약이 종료된다.",
       "summary_full": "SpaceX에 의해 Cursor가 인수된 이후, OpenAI는 Cursor에 대한 계약을 종료하기로 결정했다. 이는 OpenAI 모델을 Cursor에 제공하는 계약을 포함한다. 이러한 결정은 SpaceX의 인수로 인해 이루어진 것이다. 계약 종료는 향후 Cursor의 운영에 영향을 미칠 수 있다.",
@@ -4252,22 +4254,6 @@
       "publishedAt": "2026-08-28T06:00:00.000Z",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "collectedAt": "2026-08-31"
-    },
-    {
-      "category": "ai",
-      "title": "태국의 차세대 AI 스타트업 지원",
-      "summary": "OpenAI와 태국 MHESI가 10개의 건강, 웰니스, 교육 스타트업을 위한 8주간의 액셀러레이터 프로그램을 시작합니다. 이 프로그램은 AI 프로토타입을 신뢰할 수 있는 제품으로 발전시키는 데 도움을 줍니다.",
-      "summary_full": "OpenAI와 태국의 고등교육과학부(MHESI)가 협력하여 10개의 스타트업을 지원하는 8주간의 액셀러레이터를 시작했습니다. 이 프로그램은 건강, 웰니스, 교육 분야의 스타트업들이 AI 프로토타입을 신뢰할 수 있는 제품으로 발전시키는 데 중점을 두고 있습니다. 참가 스타트업들은 AI 기술을 활용하여 혁신적인 솔루션을 개발할 기회를 가집니다. 이를 통해 태국의 AI 스타트업 생태계가 더욱 활성화될 것으로 기대됩니다.",
-      "keywords": [
-        "AI 스타트업",
-        "태국",
-        "액셀러레이터 프로그램"
-      ],
-      "source": "OpenAI News",
-      "date": "8월 28일",
-      "publishedAt": "2026-08-28T02:00:00.000Z",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "collectedAt": "2026-08-28"
     },
     {
       "category": "ai",
@@ -4383,38 +4369,6 @@
     },
     {
       "category": "ai",
-      "title": "클로드 사용에 대한 독립 연구 촉진",
-      "summary": "클로드의 사용 방식에 대한 독립적인 연구를 지원하는 방안이 논의된다. 이는 사회적 영향에 대한 이해를 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "2026년 8월 26일, 클로드의 사용 방식에 대한 독립 연구를 촉진하는 방안이 소개되었다. 이 연구는 사람들이 클로드를 어떻게 활용하는지를 분석하여 사회적 영향을 평가하는 데 중점을 둔다. 이를 통해 클로드의 사용이 개인과 사회에 미치는 영향을 보다 명확히 이해할 수 있을 것으로 보인다. 연구 결과는 향후 기술 발전과 정책 수립에 중요한 기초 자료가 될 것이다.",
-      "keywords": [
-        "클로드",
-        "독립 연구",
-        "사회적 영향"
-      ],
-      "source": "Anthropic Research",
-      "date": "8월 26일",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/enabling-independent-research",
-      "collectedAt": "2026-08-28"
-    },
-    {
-      "category": "ai",
-      "title": "문장 변환기를 이용한 다중 벡터 임베딩 모델 훈련 및 미세 조정",
-      "summary": "문장 변환기를 활용하여 다중 벡터 임베딩 모델을 훈련하고 미세 조정하는 방법을 다룬다.",
-      "summary_full": "이 글에서는 문장 변환기를 이용하여 다중 벡터 임베딩 모델을 효과적으로 훈련하고 미세 조정하는 기술을 설명한다. 다양한 데이터셋을 활용하여 모델의 성능을 극대화하는 방법을 제시한다. 또한, 훈련 과정에서의 하이퍼파라미터 조정과 평가 방법에 대해서도 논의한다. 이러한 접근법은 자연어 처리 분야에서의 다양한 응용 가능성을 열어준다.",
-      "keywords": [
-        "문장 변환기",
-        "다중 벡터 임베딩",
-        "자연어 처리"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "8월 26일",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "collectedAt": "2026-08-28"
-    },
-    {
-      "category": "ai",
       "title": "KT, AI 반도체와 LLM 결합한 소버린 AI 어플라이언스 출시",
       "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 소버린 AI 어플라이언스를 출시했다. 이 제품은 기업의 AI 활용을 지원하며, 고성능 연산을 가능하게 한다.",
       "summary_full": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업들이 AI 기술을 보다 효과적으로 활용할 수 있도록 설계되었다. 소버린 AI 어플라이언스는 고성능 연산을 지원하여 다양한 산업 분야에 적용될 수 있다. KT는 이를 통해 AI 시장에서의 경쟁력을 강화할 계획이다.",
@@ -4448,50 +4402,50 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 극대화하기 위한 다양한 혁신적인 요소를 포함하고 있다. 이러한 트렌드는 시각적 요소와 기능성을 결합하여 사용자에게 보다 직관적인 경험을 제공한다. 또한, 최신 기술을 활용하여 디자인의 효율성을 높이는 방법도 소개된다. 이 글에서는 이러한 트렌드의 주요 특징과 적용 사례를 살펴본다.",
+      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드들을 살펴본다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드에 대해 논의한다. 이 트렌드는 사용자 경험을 개선하고, 디자인의 효율성을 높이기 위한 다양한 방법들을 포함하고 있다. 최신 기술과 디자인 원칙이 결합되어, 사용자에게 더 나은 경험을 제공하는 방향으로 발전하고 있다. 이러한 변화는 앞으로의 디자인 환경에 큰 영향을 미칠 것으로 예상된다.",
       "keywords": [
-        "UX/UI 디자인",
-        "트렌드",
+        "UX/UI",
+        "디자인 트렌드",
         "사용자 경험"
       ],
       "source": "Google News Design (KR)",
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교수법을 계승했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 설계에 미친 영향을 탐구한다. 결국, 언어 학습의 방식은 과거의 전통에 뿌리를 두고 있다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 미친 영향을 이해하는 것이 중요하다. 따라서, 언어 앱의 설계 원리를 이해하는 것이 실제 학습보다 더 많은 통찰을 제공할 수 있다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "디자인 교훈"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     },
     {
       "category": "ai",
-      "title": "엠미, 미스트랄과 협력하여 AI 원주율 산업 가속화",
-      "summary": "엠미가 미스트랄과 협력하여 AI 원주율 산업을 가속화한다. 이 파트너십은 AI 기술의 발전을 촉진할 것으로 기대된다.",
-      "summary_full": "엠미가 미스트랄과 손잡고 AI 원주율 산업의 성장을 가속화하기 위한 협력 관계를 맺었다. 이 파트너십은 AI 기술의 혁신과 발전을 촉진하는 데 중점을 두고 있다. 엠미는 AI 솔루션을 통해 다양한 산업에 기여할 계획이다. 미스트랄과의 협력은 AI 기술의 상용화를 더욱 앞당길 것으로 예상된다.",
+      "title": "엠미, AI 네이티브 산업 가속화를 위해 미스트랄과 협력",
+      "summary": "엠미가 미스트랄과 협력하여 AI 네이티브 산업의 발전을 가속화한다. 이 파트너십은 AI 기술의 혁신을 촉진할 것으로 기대된다.",
+      "summary_full": "엠미가 미스트랄과 손잡고 AI 네이티브 산업의 성장을 가속화하기 위한 협력을 시작했다. 이 협력은 AI 기술의 혁신과 발전을 도모하며, 양사는 공동으로 새로운 솔루션을 개발할 예정이다. AI 네이티브 산업의 중요성이 커지는 가운데, 이번 파트너십은 시장에서의 경쟁력을 높이는 데 기여할 것으로 보인다. 엠미와 미스트랄은 AI 기술을 통해 다양한 산업에 긍정적인 영향을 미칠 계획이다.",
       "keywords": [
         "엠미",
         "미스트랄",
-        "AI 원주율 산업"
+        "AI 네이티브 산업"
       ],
       "source": "Mistral AI",
       "date": "5월 22일",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "collectedAt": "2026-09-27"
+      "collectedAt": "2026-09-28"
     }
   ]
 }
