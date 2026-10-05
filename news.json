@@ -1,38 +1,134 @@
 {
-  "updated": "2026년 10월 4일 AM 04:23",
-  "count": 281,
+  "updated": "2026년 10월 5일 AM 04:08",
+  "count": 279,
   "articles": [
     {
       "category": "industry",
       "title": "주방 시공 기준을 만드는 사람들",
-      "summary": "주방 시공의 새로운 기준을 제시하는 전문가들의 이야기를 다룬다. 인테리어 시장의 혁신을 이끌고 있는 이들의 접근 방식을 살펴본다.",
-      "summary_full": "이 기사는 주방 시공의 기준을 직접 설정하는 전문가들의 이야기를 중심으로 진행된다. 그들은 인테리어 시장에서의 혁신적인 접근 방식을 통해 새로운 기준을 제시하고 있다. 또한, 이들의 경험과 노하우를 통해 주방 시공의 미래를 엿볼 수 있다. 두 번째 이야기에서는 이들이 어떻게 시장을 설계하고 있는지를 심층적으로 분석한다.",
+      "summary": "주방 시공의 새로운 기준을 설정하는 전문가들의 이야기를 다룬다. 이들은 인테리어 시장에서 혁신적인 접근 방식을 통해 변화를 이끌고 있다.",
+      "summary_full": "이 기사에서는 주방 시공의 기준을 직접 만드는 전문가들의 노력을 조명한다. 그들은 인테리어 시장에서 고객의 요구를 반영한 새로운 기준을 제시하고 있다. 또한, 이 과정에서의 도전과 성공 사례를 통해 업계의 변화를 이끌고 있다. 이러한 접근은 소비자들에게 더 나은 선택지를 제공하고, 시장의 발전에 기여하고 있다.",
       "keywords": [
         "주방 시공",
         "인테리어",
-        "시장 설계"
+        "시장 혁신"
       ],
       "source": "오늘의집 Culture",
-      "date": "10월 4일",
-      "publishedAt": "2026-10-04T04:22:00.781Z",
+      "date": "10월 5일",
+      "publishedAt": "2026-10-05T04:06:56.618Z",
       "url": "https://www.bucketplace.com/post/2026-09-29-%EC%A3%BC%EB%B0%A9-%EC%8B%9C%EA%B3%B5%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "design",
       "title": "엑셀로 스토리보드 제작하기",
-      "summary": "이 기사에서는 스토리보드를 엑셀 파일로 만드는 방법을 설명합니다. Codex를 활용하여 효율적으로 스토리보드를 작성할 수 있습니다.",
-      "summary_full": "이 기사에서는 스토리보드를 엑셀 파일로 제작하는 방법을 다룹니다. Codex를 사용하여 스토리보드를 쉽게 구성하고 관리할 수 있는 방법을 제시합니다. 또한, 엑셀의 다양한 기능을 활용하여 스토리보드를 시각적으로 효과적으로 표현하는 방법도 설명합니다. 이 과정을 통해 사용자들은 스토리보드 작업을 보다 효율적으로 수행할 수 있게 됩니다.",
+      "summary": "엑셀을 활용하여 스토리보드를 만드는 방법을 소개한다. 이 과정은 효율적인 스토리보드 작성에 도움이 된다.",
+      "summary_full": "이 기사에서는 엑셀 파일을 사용하여 스토리보드를 제작하는 방법을 설명한다. 스토리보드는 프로젝트의 시각적 흐름을 계획하는 데 유용하다. 엑셀의 다양한 기능을 활용하여 사용자 맞춤형 스토리보드를 만들 수 있다. 이를 통해 팀원 간의 의사소통과 협업이 원활해질 것이다.",
       "keywords": [
         "스토리보드",
         "엑셀",
-        "Codex"
+        "프로젝트 관리"
       ],
       "source": "Secondbrush Blog",
-      "date": "10월 4일",
-      "publishedAt": "2026-10-04T04:21:55.347Z",
+      "date": "10월 5일",
+      "publishedAt": "2026-10-05T04:06:51.186Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-845/",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
+    },
+    {
+      "category": "frontend",
+      "title": "Shopify 관리 자동화의 어려움과 해결책",
+      "summary": "Shopify 플랫폼은 신뢰성 있게 자동화하기 어려운 이유를 설명한다. CloudQA QA 팀이 안정적인 자동화를 구축한 방법을 다룬다.",
+      "summary_full": "Shopify는 제품 생성이나 피드 동기화와 같은 복잡한 논리가 아닌 주변 요소들 때문에 자동화가 어렵다. 이 글에서는 CloudQA의 QA 팀이 안정적이고 무인으로 작동하는 자동화를 구축하는 방법을 설명한다. 자동화의 어려움과 그에 대한 해결책을 제시한다. Shopify 플랫폼의 특성과 도전 과제를 이해하는 데 도움이 된다.",
+      "keywords": [
+        "Shopify",
+        "자동화",
+        "CloudQA"
+      ],
+      "source": "dev.to",
+      "date": "10월 5일",
+      "publishedAt": "2026-10-05T03:57:50.000Z",
+      "url": "https://dev.to/cloudqa/why-automating-shopify-admin-is-a-nightmare-and-how-we-solved-it-1hmo",
+      "collectedAt": "2026-10-05"
+    },
+    {
+      "category": "trend",
+      "title": "1~3장의 사진을 활용한 짧은 형식의 트렌드 비디오 기능 디자인",
+      "summary": "짧은 형식의 트렌드 기능은 외견상 사소해 보이지만 운영이 복잡하다. 이 제품에서 반복적으로 나타나는 패턴은 소수의 고정된 입력 사진으로 구성된 짧은 클립이다.",
+      "summary_full": "짧은 형식의 트렌드 기능은 외견상 사소해 보이지만 운영이 복잡하다. 이러한 제품에서 반복적으로 나타나는 패턴은 소수의 고정된 입력 사진으로 구성된 짧은 클립이다. 필자는 이러한 파이프라인을 면밀히 살펴보고 실제로 중요한 결정 사항을 기록했다. 이 과정에서 어떤 요소들이 중요한지를 이해할 수 있었다.",
+      "keywords": [
+        "짧은 형식 비디오",
+        "트렌드 기능",
+        "사진 활용"
+      ],
+      "source": "dev.to",
+      "date": "10월 5일",
+      "publishedAt": "2026-10-05T03:14:53.000Z",
+      "url": "https://dev.to/voorai/designing-a-short-form-trend-video-feature-around-one-to-three-photos-4l67",
+      "collectedAt": "2026-10-05"
+    },
+    {
+      "category": "industry",
+      "title": "머스크, 테슬라 로봇택시가 밤에 반려동물을 신뢰성 있게 인식하지 못한다고 밝혀",
+      "summary": "엘론 머스크는 테슬라의 로봇택시가 밤에 도로에 섞여 있는 동물을 인식하는 데 어려움을 겪고 있다고 전했다. 이 문제를 회색 아기 고양이가 회색 아스팔트에 있는 것에 비유했다.",
+      "summary_full": "엘론 머스크는 테슬라의 로봇택시가 밤에 도로에 섞여 있는 동물을 인식하는 데 여전히 문제가 있다고 밝혔다. 그는 이 문제를 회색 아기 고양이가 회색 아스팔트에 있는 것에 비유했다. 또한, 오스틴의 운영 시간이 10시에서 11시로 변경되었다고 언급했다. EU의 자동차 기술 위원회는 10월 6일 같은 카메라 전용 센서 장비의 블록 차원 승인을 투표할 예정이다.",
+      "keywords": [
+        "테슬라",
+        "로봇택시",
+        "엘론 머스크"
+      ],
+      "source": "thenextweb.com",
+      "date": "10월 4일",
+      "publishedAt": "2026-10-04T18:13:23.000Z",
+      "url": "https://thenextweb.com/news/tesla-robotaxi-night-pets-eu-vote",
+      "collectedAt": "2026-10-05"
+    },
+    {
+      "category": "industry",
+      "title": "건물이 먼저 있었다",
+      "summary": "스타일의 진정한 결과는 그것이 만들어내는 것이 아니라, 보는 이에게 어떤 범주를 설치하는가에 있다.",
+      "summary_full": "스타일의 진정한 출력은 단순히 만들어내는 것이 아니다. 그것은 보는 사람에게 어떤 카테고리를 설치하는가에 달려 있다. 이러한 관점은 디자인과 사용자 경험(UX)에서 중요한 요소로 작용한다. 따라서, 디자인은 단순한 형태가 아니라 그 의미와 맥락을 고려해야 한다.",
+      "keywords": [
+        "디자인",
+        "사용자 경험",
+        "스타일"
+      ],
+      "source": "uxdesign.cc",
+      "date": "10월 4일",
+      "publishedAt": "2026-10-04T14:34:28.000Z",
+      "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-10-05"
+    },
+    {
+      "category": "trend",
+      "title": "2026년 최고의 사무용 의자 15선—70개를 테스트하여 선정",
+      "summary": "편안하고 스타일리시한 WFH 환경을 위한 의자 추천 기사입니다. WIRED에서 테스트한 제품들로 구성되어 있습니다.",
+      "summary_full": "2026년을 맞아 최고의 사무용 의자 15개를 소개합니다. 70개의 의자를 테스트하여 편안함과 디자인을 고려한 제품들을 선정했습니다. 이 의자들은 재택근무 환경을 개선하는 데 도움을 줄 것입니다. 스타일과 기능성을 모두 갖춘 의자들로, 작업 효율성을 높이는 데 기여할 것입니다.",
+      "keywords": [
+        "사무용 의자",
+        "재택근무",
+        "WIRED 테스트"
+      ],
+      "source": "wired.com",
+      "date": "10월 4일",
+      "publishedAt": "2026-10-04T11:03:00.000Z",
+      "url": "https://www.wired.com/gallery/best-office-chairs/",
+      "collectedAt": "2026-10-05"
+    },
+    {
+      "category": "industry",
+      "title": "AI가 빌딩 관리를 맡는다…엑스와이지의 로봇빌딩솔루션",
+      "summary": "엑스와이지의 로봇빌딩솔루션은 AI가 건물 내 상황을 인지하고 자동으로 로봇 청소기를 보내 청소하는 시스템이다. 이는 피지컬 AI 기술을 활용하여 효율적인 빌딩 관리를 가능하게 한다.",
+      "summary_full": "엑스와이지의 로봇빌딩솔루션은 AI가 건물 내 상황을 실시간으로 인식하여 자동으로 로봇 청소기를 보내는 혁신적인 시스템이다. 예를 들어, 커피가 쏟아진 경우 AI는 이를 감지하고 즉시 청소를 진행한다. 이 시스템은 사람의 개입 없이도 청소가 이루어지도록 하여 효율성을 극대화한다. 피지컬 AI 기술이 적용된 이 솔루션은 미래의 빌딩 관리 방식을 변화시킬 것으로 기대된다.",
+      "keywords": [
+        "AI",
+        "로봇 청소기",
+        "빌딩 관리"
+      ],
+      "source": "바이라인네트워크",
+      "date": "10월 4일",
+      "publishedAt": "2026-10-04T09:28:05.000Z",
+      "url": "https://byline.network/2026/10/84953840538/",
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "frontend",
@@ -68,19 +164,19 @@
     },
     {
       "category": "ai",
-      "title": "대리인은 완료됐다고 했지만, 데이터베이스는 다르게 말했다.",
-      "summary": "대리인이 작업이 완료되었다고 주장했으나, 데이터베이스의 상태는 이를 반박했다. 이로 인해 데이터 일관성 문제와 시스템 간의 신뢰성에 대한 논의가 필요하다.",
-      "summary_full": "대리인은 특정 작업이 완료되었다고 보고했지만, 데이터베이스의 정보는 이와 상충하는 내용을 담고 있었다. 이러한 상황은 데이터베이스와 애플리케이션 간의 불일치를 나타내며, 시스템의 신뢰성에 대한 의문을 제기한다. 데이터 일관성을 유지하기 위해서는 더 나은 검증 절차와 오류 처리 메커니즘이 필요하다. 이 문제는 데이터 관리 및 시스템 통합의 중요성을 강조한다.",
+      "title": "대리인은 완료했다고 했지만, 데이터베이스는 다르게 말했다.",
+      "summary": "대리인의 말과 데이터베이스의 상태가 상충하는 상황을 다룬다. 데이터베이스의 신뢰성과 대리인의 의사소통의 중요성을 강조한다.",
+      "summary_full": "이 기사는 대리인이 작업이 완료되었다고 주장하지만, 데이터베이스의 상태가 이를 반박하는 상황을 설명한다. 이러한 불일치는 시스템의 신뢰성에 대한 문제를 제기하며, 데이터베이스의 정확성과 대리인의 의사소통이 얼마나 중요한지를 보여준다. 또한, 이와 같은 상황이 발생할 경우 어떻게 해결할 수 있는지에 대한 통찰을 제공한다. 결국, 데이터와 의사소통 간의 일관성을 유지하는 것이 중요하다는 메시지를 전달한다.",
       "keywords": [
         "데이터베이스",
-        "신뢰성",
-        "데이터 일관성"
+        "의사소통",
+        "신뢰성"
       ],
       "source": "HuggingFace Blog",
       "date": "10월 3일",
       "publishedAt": "2026-10-03T22:56:48.000Z",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "industry",
@@ -197,8 +293,8 @@
     {
       "category": "ai",
       "title": "GPT-6 모델 가이드",
-      "summary": "스타트업이 GPT-6 모델을 선택하고 조정하는 방법을 배울 수 있다. 생산을 위한 워크플로우 준비와 도구 조정에 대한 정보도 포함되어 있다.",
-      "summary_full": "이 가이드는 스타트업이 GPT-6 모델을 선택하는 방법을 안내한다. 또한, 추론 노력을 조정하고 프롬프트 및 기술을 개선하는 방법을 설명한다. 도구를 조정하고 생산을 위한 워크플로우를 준비하는 방법도 다룬다. 이를 통해 효과적인 AI 활용을 지원한다.",
+      "summary": "스타트업이 GPT-6 모델을 선택하고 조정하는 방법을 배울 수 있다. 생산을 위한 워크플로우 준비와 도구 조정도 포함된다.",
+      "summary_full": "이 가이드는 스타트업이 GPT-6 모델을 선택하는 데 도움이 되는 방법을 제시한다. 모델의 추론 노력을 조정하고, 프롬프트와 기술을 개선하는 방법을 설명한다. 또한, 도구를 조정하고 생산을 위한 워크플로우를 준비하는 방법도 다룬다. 이를 통해 스타트업은 효율적으로 GPT-6를 활용할 수 있다.",
       "keywords": [
         "GPT-6",
         "스타트업",
@@ -208,7 +304,7 @@
       "date": "10월 2일",
       "publishedAt": "2026-10-02T16:15:00.000Z",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "ai",
@@ -455,18 +551,18 @@
     {
       "category": "ai",
       "title": "클로드 형태의 과학",
-      "summary": "클로드 형태의 과학에 대한 새로운 접근법을 다룬다. 이 연구는 과학적 방법론의 혁신을 제안한다.",
-      "summary_full": "클로드 형태의 과학은 기존의 과학적 접근을 재구성하는 새로운 방법론을 제시한다. 이 연구는 과학적 탐구의 효율성을 높이는 데 중점을 두고 있다. 또한, 다양한 분야에서의 응용 가능성을 탐색하며, 미래의 과학적 발견에 기여할 것으로 기대된다. 이 접근법은 과학자들에게 새로운 시각을 제공할 것이다.",
+      "summary": "클로드 형태의 과학에 대한 개념을 탐구한다. 이 주제는 과학의 다양한 측면을 클로드의 형태로 설명하는 데 중점을 둔다.",
+      "summary_full": "클로드 형태의 과학은 과학적 원리와 이론을 클로드의 형태로 시각화하여 이해를 돕는 접근 방식이다. 이 방법은 복잡한 과학적 개념을 보다 쉽게 전달하고, 학습자들이 내용을 더 잘 이해할 수 있도록 한다. 또한, 클로드 형태는 과학적 사고를 촉진하고 창의적인 문제 해결을 장려하는 데 기여한다. 이러한 접근은 과학 교육 및 연구에 새로운 시각을 제공할 수 있다.",
       "keywords": [
-        "과학",
         "클로드",
-        "혁신"
+        "과학",
+        "형태"
       ],
       "source": "Anthropic Research",
       "date": "10월 1일",
       "publishedAt": "2026-10-01T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-shaped-science",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "industry",
@@ -518,19 +614,19 @@
     },
     {
       "category": "ai",
-      "title": "제미니 4 아르곤: 우리의 다음 시대의 최전선 지능",
-      "summary": "제미니 4 아르곤은 새로운 시대의 지능 혁신을 선도합니다. 이 기술은 최전선에서의 정보 처리와 분석을 향상시키는 데 중점을 둡니다.",
-      "summary_full": "제미니 4 아르곤은 인공지능의 새로운 시대를 열기 위한 혁신적인 기술입니다. 이 시스템은 최전선에서의 데이터 수집과 분석을 통해 보다 효율적인 의사 결정을 지원합니다. 또한, 다양한 산업 분야에서 활용될 수 있는 가능성을 가지고 있습니다. 앞으로의 발전이 기대되는 기술입니다.",
+      "title": "제미니 4 아르곤: 우리의 다음 경계 지능 시대",
+      "summary": "제미니 4 아르곤은 새로운 경계 지능 시대를 여는 기술입니다. 이 혁신은 인공지능의 발전을 통해 다양한 분야에 적용될 수 있습니다.",
+      "summary_full": "제미니 4 아르곤은 차세대 인공지능 기술을 기반으로 한 혁신적인 플랫폼입니다. 이 기술은 데이터 분석과 의사결정 지원을 통해 기업과 개인의 효율성을 극대화할 수 있습니다. 또한, 다양한 산업 분야에서의 응용 가능성을 가지고 있습니다. 이를 통해 우리는 새로운 지능 시대를 맞이하게 될 것입니다.",
       "keywords": [
         "제미니 4",
         "인공지능",
-        "최전선 지능"
+        "혁신 기술"
       ],
       "source": "Google DeepMind Blog",
       "date": "9월 30일",
       "publishedAt": "2026-09-30T20:01:45.000Z",
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "ai",
@@ -551,8 +647,8 @@
     {
       "category": "design",
       "title": "가을의 마법 (2026년 10월 배경화면 에디션)",
-      "summary": "10월의 아름다움을 기념하기 위한 새로운 배경화면을 소개합니다. 할로윈 시즌을 맞아 특별한 매력을 지닌 10월을 즐겨보세요.",
-      "summary_full": "안개 낀 아침, 화려한 빨강, 노랑, 주황색의 나뭇잎, 그리고 나타나는 유령 같은 생물들로 10월은 특별한 매력을 지니고 있습니다. Smashing Magazine에서 15년 이상 이어온 전통에 따라, 이번 10월을 기념하기 위한 새로운 데스크탑 배경화면을 제공합니다. 가을의 아름다움과 다가오는 할로윈 시즌을 함께 즐길 수 있는 기회를 놓치지 마세요.",
+      "summary": "10월의 아름다움을 기념하기 위한 새로운 데스크탑 배경화면을 소개합니다. 할로윈 시즌을 맞아 특별한 매력을 지닌 10월을 만끽해보세요.",
+      "summary_full": "안개 낀 아침과 화려한 빨강, 노랑, 주황색의 잎들이 어우러지는 10월은 특별한 매력을 지니고 있습니다. 할로윈 시즌을 맞아 새로운 데스크탑 배경화면을 통해 10월의 아름다움을 기념해보는 것은 어떨까요? Smashing Magazine에서는 15년 넘게 매달 새로운 배경화면을 제공해왔습니다. 이번에도 여러분을 위해 멋진 배경화면을 준비했습니다.",
       "keywords": [
         "가을",
         "배경화면",
@@ -562,7 +658,7 @@
       "date": "9월 30일",
       "publishedAt": "2026-09-30T13:30:00.000Z",
       "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "ai",
@@ -630,35 +726,35 @@
     },
     {
       "category": "frontend",
-      "title": "9인조 다람쥐 아이돌을 데뷔시켰습니다",
-      "summary": "토스뱅크의 Visual Designer 고명은이 9가지 다람쥐 캐릭터와 관련된 적금 상품을 소개합니다. 새로운 버전은 사용자가 직접 저금해야 캐릭터가 성장하도록 설계되었습니다.",
-      "summary_full": "토스뱅크의 Visual Designer 고명은이 9가지 다람쥐 캐릭터와 함께하는 적금 상품을 소개합니다. 이 적금은 사용자가 직접 캐릭터를 키우며 저금하는 방식으로, 매일 앱에 방문해야 캐릭터와 이자가 자란다는 점이 특징입니다. 초기 버전은 자동이체로 운영되었으나, 리텐션 저하 문제로 인해 새로운 버전에서는 사용자의 참여를 유도하는 방향으로 변경되었습니다. 이를 통해 사용자가 적금에 더 많은 관심을 가질 수 있도록 설계되었습니다.",
+      "title": "9인조 다람쥐 아이돌의 데뷔",
+      "summary": "토스뱅크의 새로운 적금 상품인 '키워봐요 적금'의 9가지 다람쥐 캐릭터를 소개합니다. 사용자가 직접 저금해야 캐릭터가 성장하는 방식으로 리텐션을 높이고자 합니다.",
+      "summary_full": "토스뱅크 Visual Designer 고명은이 '키워봐요 적금'의 9가지 다람쥐 캐릭터와 그 화면 디자인 과정을 설명합니다. 이 적금은 사용자가 직접 저금하며 캐릭터를 키우는 방식으로, 초기 자동이체 방식에서 변화했습니다. 새로운 설계는 사용자의 참여를 유도하여 리텐션을 높이는 데 초점을 맞추고 있습니다. 캐릭터가 성장하는 재미를 통해 고객의 지속적인 관심을 이끌어내고자 합니다.",
       "keywords": [
-        "다람쥐",
-        "아이돌",
-        "적금"
+        "다람쥐 아이돌",
+        "키워봐요 적금",
+        "사용자 참여"
       ],
       "source": "toss.tech",
       "date": "9월 30일",
       "publishedAt": "2026-09-30T01:29:00.000Z",
       "url": "https://toss.tech/article/chipmunk",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "figma",
       "title": "커뮤니티 리프: 아이디어와 프로토타입 공유하기",
-      "summary": "커뮤니티 리프는 최신 아이디어, 애니메이션, 프로토타입을 공유하는 새로운 방법입니다. Figma 커뮤니티에 리프를 게시하여 창의적인 포트폴리오를 구축할 수 있습니다.",
-      "summary_full": "커뮤니티 리프는 사용자가 최신 아이디어, 애니메이션, 프로토타입 및 실험을 공유할 수 있는 새로운 방법입니다. Figma 커뮤니티와 개인 프로필에 리프를 게시하여 자신의 작품을 선보일 수 있습니다. 이를 통해 사용자는 자신이 자랑스러워하는 창의적인 포트폴리오를 구축할 수 있습니다. 이 기능은 디자인 커뮤니티 내에서 협업과 피드백을 촉진하는 데 기여합니다.",
+      "summary": "커뮤니티 리프는 최신 아이디어, 애니메이션, 프로토타입 및 실험을 공유하는 새로운 방법입니다. Figma 커뮤니티에 리프를 게시하여 창의적인 포트폴리오를 구축할 수 있습니다.",
+      "summary_full": "커뮤니티 리프는 사용자들이 자신의 최신 아이디어와 작업을 공유하는 혁신적인 방법입니다. Figma 커뮤니티에 리프를 게시함으로써, 사용자들은 자신의 작품을 전시하고 자랑할 수 있습니다. 이는 개인의 창의적인 포트폴리오를 확장하는 데 도움을 줍니다. 사용자는 다양한 실험과 프로토타입을 통해 커뮤니티와 소통할 수 있습니다.",
       "keywords": [
         "커뮤니티 리프",
         "Figma",
-        "디자인 포트폴리오"
+        "아이디어 공유"
       ],
       "source": "Figma Release Notes",
       "date": "9월 30일",
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "ai",
@@ -774,9 +870,9 @@
     },
     {
       "category": "ai",
-      "title": "Anthropic의 서비스 중단 보고",
-      "summary": "Anthropic이 Claude.ai, Code, Cowork 및 API 서비스의 중단을 발표했다. 이로 인해 사용자들은 해당 서비스에 접근할 수 없게 되었다.",
-      "summary_full": "Anthropic은 최근 Claude.ai, Code, Cowork 및 API에 대한 서비스 중단을 보고했다. 이 결정은 사용자들에게 큰 영향을 미칠 것으로 예상된다. 서비스 중단의 이유는 명확히 밝혀지지 않았지만, 회사의 전략적 변화와 관련이 있을 수 있다. 사용자들은 대체 서비스에 대한 필요성을 느낄 것으로 보인다.",
+      "title": "Anthropic, Claude.ai 및 기타 서비스 중단 보고",
+      "summary": "Anthropic이 Claude.ai, Code, Cowork 및 API 서비스의 중단을 발표했다. 이로 인해 사용자들에게 미치는 영향이 우려되고 있다.",
+      "summary_full": "Anthropic이 최근 Claude.ai, Code, Cowork 및 API 서비스의 중단을 공식적으로 발표했다. 이 결정은 여러 사용자들에게 혼란을 초래할 수 있으며, 서비스 이용에 대한 우려가 커지고 있다. 회사는 중단의 이유와 향후 계획에 대한 추가 정보를 제공할 예정이다. 사용자들은 이에 따른 대체 서비스나 해결책을 모색해야 할 것으로 보인다.",
       "keywords": [
         "Anthropic",
         "Claude.ai",
@@ -786,7 +882,7 @@
       "date": "9월 29일",
       "publishedAt": "2026-09-29T15:15:53.000Z",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWhYdkVLVjRXVVpMUlFiMWx2N1NKdHdHeXFoUmVEQUdoaVFLMFhWWVJLaUhGN1ptN3V1eGZSRTAwWXNvRkw5VGQxeFlxVlZZem1pYmczd1NwVmNjNnppQkFtS2ZDVXkwb2plMGhRT1E1a25wcks4ZGJ1ZFVWTzYxU0ZOcE1ITlAxSEZrNTBtcm56YWtScDROcHJwZ25RTkU?oc=5",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "ai",
@@ -947,6 +1043,22 @@
       "publishedAt": "2026-09-28T18:22:14.000Z",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVjIxR0VvSFFJS29ROXNqSjB3STduRm1ZWEhTc3ZKSkszWUlaZldjZWtVS0tJcThPVlpOLXNxSnM4SW1WTXFmQ2VqY3ZXaWwzNjlNN3hueDJSYjZWd3gzS2ZHSUt0X3FTaWxhb3A3N3g5dy1ZUHJ1TmhIcGZ6LS1NbDRzSnoxeTI2a0pUQU9jd0E2eDN0bXc?oc=5",
       "collectedAt": "2026-09-29"
+    },
+    {
+      "category": "ai",
+      "title": "안녕하세요, 독일!",
+      "summary": "Mistral이 뮌헨에 물리학 AI 및 산업 AI 연구를 위한 허브를 개설했습니다. 독일 산업과 협력하여 혁신을 추구합니다.",
+      "summary_full": "Mistral이 독일 뮌헨에 물리학 AI와 산업 AI 연구를 위한 새로운 허브를 열었습니다. 이 허브는 독일 산업과의 파트너십을 통해 운영됩니다. Mistral은 최신 기술을 활용하여 연구 개발을 촉진하고 있습니다. 이는 독일의 AI 연구 환경을 더욱 풍부하게 할 것으로 기대됩니다.",
+      "keywords": [
+        "Mistral",
+        "AI 연구",
+        "독일 산업"
+      ],
+      "source": "Mistral AI",
+      "date": "9월 28일",
+      "publishedAt": "2026-09-28T15:57:59.000Z",
+      "url": "https://mistral.ai/news/hallo-deutschland",
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "ai",
@@ -2699,8 +2811,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM(대형 언어 모델) 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너가 새로운 AI 솔루션을 출시하여 LLM의 운영 비용을 절반으로 줄일 수 있는 방법을 제시했다. 이 솔루션은 기업들이 AI를 보다 경제적으로 활용할 수 있게 하며, 다양한 산업에서의 적용 가능성을 보여준다. 또한, 라이너는 이 기술이 기업의 생산성을 높이는 데 기여할 것이라고 강조했다. 향후 AI 기술의 발전과 함께 더욱 많은 기업들이 이 솔루션을 도입할 것으로 기대된다.",
+      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 새로운 AI 솔루션을 발표했다. 이 기술은 기업들이 AI 모델을 보다 효율적으로 운영할 수 있도록 돕는다.",
+      "summary_full": "라이너가 최근 LLM의 운영 비용을 절반으로 줄일 수 있는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 모델을 보다 경제적으로 활용할 수 있게 해준다. 이를 통해 기업들은 더 낮은 비용으로 AI 기술을 도입하고 운영할 수 있을 것으로 기대된다. 라이너는 이 기술이 AI 시장에서 큰 변화를 가져올 것이라고 전망하고 있다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -2710,7 +2822,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "design",
@@ -4194,86 +4306,6 @@
       "collectedAt": "2026-09-07"
     },
     {
-      "category": "design",
-      "title": "사진에서 감성 일러스트로 변환하기",
-      "summary": "사진을 감성적인 일러스트로 변환하는 방법을 소개한다. 이를 위한 프롬프트 작성법에 대해 설명한다.",
-      "summary_full": "이 기사에서는 사진 한 장을 감성적인 일러스트로 변환하는 과정을 다룬다. 효과적인 프롬프트 작성법을 통해 원하는 스타일의 일러스트를 얻는 방법을 설명한다. 다양한 예시와 함께 실용적인 팁을 제공하여 독자들이 쉽게 따라할 수 있도록 돕는다. 창의적인 작업을 위한 영감을 제공하는 내용이다.",
-      "keywords": [
-        "사진",
-        "일러스트",
-        "프롬프트"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "9월 4일",
-      "publishedAt": "2026-09-04T02:58:11.031Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-824/",
-      "collectedAt": "2026-09-04"
-    },
-    {
-      "category": "trend",
-      "title": "테슬라의 운명을 좌우할 사이버택시 조용한 데뷔",
-      "summary": "테슬라의 사이버택시가 오스틴에서 초대 전용 행사로 조용히 공개되었다. 온라인 팬들은 몇 시간 동안 소식이 없었다.",
-      "summary_full": "테슬라의 사이버택시가 오스틴에서 초대 전용 행사로 조용히 데뷔했다. 이 행사에서는 많은 온라인 팬들이 몇 시간 동안 소식을 기다렸지만, 정보가 부족했다. 테슬라의 미래에 중요한 역할을 할 것으로 기대되는 이 차량은 기대와 우려가 교차하는 상황이다. 사이버택시의 성공 여부가 테슬라의 향후 방향성에 큰 영향을 미칠 것으로 보인다.",
-      "keywords": [
-        "테슬라",
-        "사이버택시",
-        "오스틴"
-      ],
-      "source": "wired.com",
-      "date": "9월 4일",
-      "publishedAt": "2026-09-04T02:53:44.000Z",
-      "url": "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/",
-      "collectedAt": "2026-09-04"
-    },
-    {
-      "category": "frontend",
-      "title": "HR 기술의 주체적 행동이 SaaS 대재앙 속에서 소프트웨어를 돋보이게 한다",
-      "summary": "HR 기술의 주체적 행동이 소프트웨어의 차별성을 강조한다. 이 기사는 HR 기술이 어떻게 경쟁력을 유지하는지를 탐구한다.",
-      "summary_full": "HR 기술의 주체적 행동이 소프트웨어의 차별성을 강조하며, SaaS 시장의 혼란 속에서도 두각을 나타내고 있다. 이 기사는 HR 기술이 변화하는 환경에서 어떻게 적응하고 경쟁력을 유지하는지를 탐구한다. 또한, HR 기술의 혁신적인 접근 방식이 기업에 미치는 긍정적인 영향을 분석한다. 결국, HR 기술은 단순한 도구가 아닌 전략적 파트너로서의 역할을 강화하고 있다.",
-      "keywords": [
-        "HR 기술",
-        "소프트웨어 차별성",
-        "SaaS 시장"
-      ],
-      "source": "dev.to",
-      "date": "9월 4일",
-      "publishedAt": "2026-09-04T02:48:51.000Z",
-      "url": "https://dev.to/sam_raisinghani_b6dec128c/hr-tech8217s-agentic-action-makes-the-software-stand-out-amid-saaspocalypse-8211-1dm8",
-      "collectedAt": "2026-09-04"
-    },
-    {
-      "category": "industry",
-      "title": "엔비디아, 허깅페이스 인수",
-      "summary": "엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 18조원에 인수하기로 합의했다. 이로써 엔비디아는 AI 유통망을 강화하게 된다.",
-      "summary_full": "엔비디아가 허깅페이스를 129억달러에 인수하기로 발표했다. 주주들에게 119억달러를 지급하고, 핵심 인력 유지를 위해 10억달러 규모의 지분을 배정할 예정이다. 이번 인수는 엔비디아의 AI 유통망을 확장하는 중요한 계기가 될 것으로 보인다. 허깅페이스의 오픈소스 플랫폼은 AI 개발자들 사이에서 큰 인기를 끌고 있다.",
-      "keywords": [
-        "엔비디아",
-        "허깅페이스",
-        "AI 플랫폼"
-      ],
-      "source": "바이라인네트워크",
-      "date": "9월 4일",
-      "publishedAt": "2026-09-04T02:27:42.000Z",
-      "url": "https://byline.network/2026/09/nvidia-huggingface-2/",
-      "collectedAt": "2026-09-04"
-    },
-    {
-      "category": "trend",
-      "title": "AI 캐릭터 생성기로 디자인한 3개의 대체 우주 스파이더맨 버전",
-      "summary": "스파이더맨이 전통적인 빨간색과 파란색 슈트를 입지 않았다면 어떤 모습일지 상상해보았다. AI 캐릭터 생성기를 사용하여 이를 실현해보았다.",
-      "summary_full": "스파이더맨이 전통적인 빨간색과 파란색 슈트를 입지 않았다면 어떤 모습일지 항상 궁금했다. 그래서 어느 날 AI 캐릭터 생성기를 사용하여 대체 우주 스파이더맨 버전을 디자인해보았다. PixAI Studio를 열고 Tsubaki.3 모델을 선택하여 작업을 시작했다. 다양한 버전의 스파이더맨을 창조하는 재미를 느꼈다.",
-      "keywords": [
-        "스파이더맨",
-        "AI 캐릭터 생성기",
-        "대체 우주"
-      ],
-      "source": "dev.to",
-      "date": "9월 4일",
-      "publishedAt": "2026-09-04T01:59:55.000Z",
-      "url": "https://dev.to/amit_nag_4851dc190c33a368/how-i-used-an-ai-character-generator-to-design-3-alternate-universe-spider-man-versions-1m3h",
-      "collectedAt": "2026-09-04"
-    },
-    {
       "category": "ai",
       "title": "페르마의 마지막 정리 정형화",
       "summary": "페르마의 마지막 정리를 정형화하는 과정에 대해 다룬다. 이 정리는 수학의 중요한 문제로, 그 증명은 수세기 동안 수학자들을 괴롭혔다.",
@@ -4288,38 +4320,6 @@
       "publishedAt": "2026-09-04T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "collectedAt": "2026-09-09"
-    },
-    {
-      "category": "industry",
-      "title": "뉴저지가 저렴한 플러그인 발코니 태양광 패널을 합법화하다",
-      "summary": "뉴저지는 1,200W까지의 플러그인 발코니 태양광 패널을 합법화하며, 지방 정부가 승인 요구를 할 수 없고 집주인이 설치를 막을 수 없도록 했다.",
-      "summary_full": "뉴저지는 1,200W까지의 플러그인 발코니 태양광 패널을 합법화하는 법안을 통과시켰다. 이 법안은 지방 정부가 설치 승인을 요구할 수 없도록 하고, 집주인이 설치를 차단하는 것을 금지한다. 독일은 2024년 10월에 유사한 권리를 민법에 명시했으며, 현재 131만 개의 등록 시스템을 보유하고 있다. 뉴저지의 이번 법안은 태양광 에너지 사용을 촉진할 것으로 기대된다.",
-      "keywords": [
-        "뉴저지",
-        "태양광 패널",
-        "발코니 태양광"
-      ],
-      "source": "thenextweb.com",
-      "date": "9월 3일",
-      "publishedAt": "2026-09-03T22:57:11.000Z",
-      "url": "https://thenextweb.com/news/new-jersey-plug-in-balcony-solar-law-germany-tenant-right-554-bgb-uk-plug-in-kits-legal",
-      "collectedAt": "2026-09-04"
-    },
-    {
-      "category": "industry",
-      "title": "AI에 대한 '마이너리티 리포트'의 오해",
-      "summary": "영화는 예측 시스템과 범죄 예방에 대한 경고를 했지만, 우리는 이를 쉽게 시연할 수 있는 형태로 재구성했다. '마이너리티 리포트'는 상호작용의 미래를 상징하는 작품이 되었다.",
-      "summary_full": "영화 '마이너리티 리포트'는 두 가지 미래를 제시했다. 우리는 그 중 시연하기 쉬운 미래를 재구성했다. 영화는 예측 시스템과 범죄 예방에 대한 경고를 했지만, 우리는 이를 스크린세이버로 변형했다. 20년 동안 '마이너리티 리포트'는 상호작용의 미래를 상징하는 작품으로 남아있다.",
-      "keywords": [
-        "AI",
-        "마이너리티 리포트",
-        "예측 시스템"
-      ],
-      "source": "uxdesign.cc",
-      "date": "9월 3일",
-      "publishedAt": "2026-09-03T22:39:12.000Z",
-      "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-09-04"
     },
     {
       "category": "ai",
@@ -4387,19 +4387,19 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 CSS random() 함수 사용하기",
-      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 아직 모든 브라우저에서 지원되지 않지만, 이를 위한 폴리필을 만드는 방법을 소개합니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성된 내용입니다. 다양한 브라우저에서 CSS random() 함수를 사용할 수 있도록 하는 방법을 탐구합니다. 뉴스레터 구독도 추천합니다.",
+      "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
+      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 모든 브라우저에서 이 기능을 사용할 수 있도록 하는 방법을 설명합니다.",
+      "summary_full": "CSS random() 함수는 앞으로 모든 브라우저에서 지원될 예정입니다. 이 글에서는 이를 위한 폴리필을 만드는 과정을 소개합니다. CSS-Tricks에서 사랑을 담아 작성된 이 글은 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
-        "브라우저 호환성"
+        "폴리필"
       ],
       "source": "css-tricks.com",
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "design",
@@ -4416,38 +4416,6 @@
       "publishedAt": "2026-08-31T11:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
       "collectedAt": "2026-09-09"
-    },
-    {
-      "category": "ai",
-      "title": "자동화된 연구자들이 정렬 실패를 신뢰성 있게 완화할 수 있다",
-      "summary": "자동화된 연구자들은 정렬 실패를 효과적으로 해결할 수 있는 방법을 개발했다. 이 기술은 연구의 정확성과 신뢰성을 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "자동화된 연구자들은 정렬 실패를 신뢰성 있게 완화할 수 있는 새로운 접근 방식을 제시했다. 이 방법은 다양한 연구 분야에서 발생할 수 있는 정렬 문제를 해결하는 데 도움을 준다. 연구자들은 이 기술을 통해 연구의 정확성과 신뢰성을 높일 수 있을 것으로 보고 있다. 향후 이 기술이 더 많은 분야에 적용될 가능성이 있다.",
-      "keywords": [
-        "자동화",
-        "정렬 실패",
-        "연구자"
-      ],
-      "source": "Anthropic Research",
-      "date": "8월 28일",
-      "publishedAt": "2026-08-28T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "collectedAt": "2026-09-04"
-    },
-    {
-      "category": "frontend",
-      "title": "토스증권 추천과 검색의 진화",
-      "summary": "토스증권의 추천 시스템은 배치 중심에서 실시간 개인화로 변화하고 있으며, 검색 시스템은 키워드와 필터를 넘어 RAG와 그래프 RAG로 확장되고 있다.",
-      "summary_full": "토스증권의 추천 시스템은 과거의 배치 중심 방식에서 실시간 개인화로 진화하고 있으며, 이는 사용자 경험을 향상시키기 위한 노력의 일환이다. 또한 검색 시스템은 단순한 키워드와 필터를 넘어서 RAG(리트리벌-어그리게이션-그래프)와 그래프 RAG로 발전하고 있다. 이러한 변화는 데이터 생태계의 통합과 품질 향상을 목표로 하고 있다. 토스증권 AI 데이터 플랫폼 팀은 이러한 시스템을 구축하며 마주친 고민들을 공유하고 있다.",
-      "keywords": [
-        "토스증권",
-        "추천 시스템",
-        "검색 시스템"
-      ],
-      "source": "toss.tech",
-      "date": "8월 26일",
-      "publishedAt": "2026-08-26T01:00:00.000Z",
-      "url": "https://toss.tech/article/tech_talk_talk_3",
-      "collectedAt": "2026-09-04"
     },
     {
       "category": "ai",
@@ -4468,34 +4436,34 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 중심으로 한 혁신적인 디자인 접근 방식을 제안한다. 이러한 트렌드는 기술 발전과 함께 변화하는 사용자 요구에 맞춰 발전하고 있다. 다양한 사례를 통해 이 트렌드가 어떻게 적용되고 있는지 살펴볼 수 있다. 디자이너들은 이러한 변화를 통해 더 나은 사용자 경험을 제공하고자 노력하고 있다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 개선하기 위해 다양한 혁신적인 요소를 포함하고 있다. 특히, 인터페이스의 직관성과 접근성을 강조하며, 사용자와의 상호작용을 보다 원활하게 만들어준다. 이러한 변화는 디자인 분야에 큰 영향을 미칠 것으로 예상된다.",
       "keywords": [
-        "UX/UI",
-        "디자인 트렌드",
+        "UX/UI 트렌드",
+        "디자인",
         "사용자 경험"
       ],
       "source": "Google News Design (KR)",
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 채용을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 결국, 언어 학습 방법론의 기원을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현대 언어 학습 앱의 디자인에 미치는 영향을 이해하는 것이 중요하다.",
       "keywords": [
-        "언어학습",
-        "디자인",
-        "라틴어"
+        "언어 앱",
+        "라틴어",
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-10-04"
+      "collectedAt": "2026-10-05"
     },
     {
       "category": "ai",
