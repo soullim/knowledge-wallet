@@ -1,7 +1,217 @@
 {
-  "updated": "2026년 10월 6일 AM 04:57",
-  "count": 282,
+  "updated": "2026년 10월 7일 AM 04:23",
+  "count": 288,
   "articles": [
+    {
+      "category": "industry",
+      "title": "DB 업무 자동화의 한계와 가능성",
+      "summary": "DB 업무의 자동화 수준에 대한 논의가 이루어지고 있다. DBRE가 제시하는 두 가지 접근 방식이 주목받고 있다.",
+      "summary_full": "DB 업무의 자동화는 효율성을 높일 수 있지만, 그 한계에 대한 고민이 필요하다. DBRE는 자동화의 두 가지 방향성을 제시하며, 각 접근 방식의 장단점을 분석한다. 이러한 논의는 기업들이 DB 업무를 어떻게 최적화할 수 있을지에 대한 통찰을 제공한다. 결국, 자동화의 범위와 방향성을 결정하는 것은 각 기업의 필요에 달려 있다.",
+      "keywords": [
+        "DB 자동화",
+        "DBRE",
+        "업무 최적화"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T04:22:36.240Z",
+      "url": "https://www.bucketplace.com/post/2026-10-07-db-%EC%97%85%EB%AC%B4-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A0%EA%B9%8C-dbre%EC%9D%98-%EB%91%90-%EA%B0%80%EC%A7%80-%EB%8B%B5/",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "design",
+      "title": "판단만 하는 AI의 주목",
+      "summary": "Jev와 Decisions API를 통해 판단하는 AI의 중요성이 강조되고 있다. 이러한 기술은 데이터 기반의 의사결정을 지원한다.",
+      "summary_full": "Jev와 Decisions API는 판단만 하는 AI의 발전을 이끌고 있다. 이 기술은 복잡한 데이터 분석을 통해 신속하고 정확한 의사결정을 가능하게 한다. AI의 판단 능력은 다양한 산업에서 활용될 수 있으며, 효율성을 높이는 데 기여한다. 따라서 이러한 AI 기술이 주목받고 있는 이유는 명확하다.",
+      "keywords": [
+        "AI",
+        "Jev",
+        "Decisions API"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T04:22:31.643Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-848/",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "frontend",
+      "title": "무료 디지털 명함은 올바른 콘텐츠 유형의 vCard",
+      "summary": "디지털 명함은 웹 페이지, QR 코드, vCard로 구성된다. 대부분의 무료 플랜은 처음 두 가지에 관대하지만, vCard에 대한 정보는 부족하다.",
+      "summary_full": "디지털 명함은 웹 페이지, QR 코드, 그리고 전화기에 저장할 수 있는 vCard로 이루어져 있다. 많은 무료 플랜은 웹 페이지와 QR 코드에 대해 관대하게 제공하지만, vCard에 대한 정보는 상대적으로 부족하다. vCard는 실제로 사용자가 저장하고 활용해야 하는 중요한 요소이다. 따라서 사용자는 vCard의 내용과 형식에 주의해야 한다.",
+      "keywords": [
+        "디지털 명함",
+        "vCard",
+        "QR 코드"
+      ],
+      "source": "dev.to",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T04:20:39.000Z",
+      "url": "https://dev.to/karuha/a-free-digital-business-card-is-a-vcard-with-the-right-content-type-1fbd",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "trend",
+      "title": "프라임 데이 최고의 기술 및 가젯 거래 20선",
+      "summary": "프라임 데이 동안 할인된 기술 제품을 구매할 수 있는 기회를 소개합니다. WIRED에서 테스트한 최고의 가젯들을 저렴한 가격에 만나보세요.",
+      "summary_full": "프라임 데이의 할인 혜택을 활용하여 다양한 기술 제품을 저렴하게 구매할 수 있습니다. WIRED에서 검증한 최고의 가젯들을 모아 소개합니다. 이 기사를 통해 최상의 거래를 찾아보세요. 절대 정가를 지불하지 마세요!",
+      "keywords": [
+        "프라임 데이",
+        "기술 거래",
+        "가젯 할인"
+      ],
+      "source": "wired.com",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T00:34:56.000Z",
+      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "trend",
+      "title": "DESIGN.md 파일의 공식 린터 검사 결과",
+      "summary": "1,162개의 DESIGN.md 파일 중 78.1%가 YAML 디자인 토큰을 포함하지 않았다. 254개의 파일 중 88.6%는 린터를 통과했다.",
+      "summary_full": "공식 린터에 대한 검사 결과, 1,162개의 DESIGN.md 파일 중 78.1%가 YAML 디자인 토큰을 포함하지 않고 있다. 그럼에도 불구하고 이들 중 747개는 텍스트에 세 가지 이상의 헥스 색상을 명시하고 있다. 254개의 파일이 디자인 토큰을 포함하고 있으며, 이 중 88.6%가 린터를 오류 없이 통과했다. 전체적으로 디자인 토큰의 사용이 부족한 상황이다.",
+      "keywords": [
+        "DESIGN.md",
+        "린터",
+        "디자인 토큰"
+      ],
+      "source": "dev.to",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T00:03:10.000Z",
+      "url": "https://dev.to/dotcomjack/designmd-files-against-the-official-linter-1162-checked-3lc3",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "industry",
+      "title": "Jev: UX에서 더 나은, 빠른, 저렴한 사용자 결정을 위한 활용법",
+      "summary": "Jev는 UX 디자이너가 애플리케이션에서 의사 결정 모델을 적용할 수 있도록 돕는 분류기 모델이다. 사용자는 컨텍스트와 질문, 선택지를 제공하면 Jev가 단일 선택과 점수를 반환한다.",
+      "summary_full": "Jev는 2026년 9월 15일 샌프란시스코의 TypeSafe AI에서 출시된 분류기 모델이다. 이 모델은 사용자가 제공한 컨텍스트와 질문, 선택지를 바탕으로 신속하게 결정을 내릴 수 있도록 돕는다. UX 디자이너는 이를 통해 사용자 경험을 개선하고 의사 결정을 보다 효율적으로 만들 수 있다. Jev는 키 입력 속도로 답변을 제공하여 인터페이스가 제안하거나 질문할 수 있는 기능을 갖춘다.",
+      "keywords": [
+        "Jev",
+        "UX 디자인",
+        "의사 결정 모델"
+      ],
+      "source": "uxdesign.cc",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T23:35:43.000Z",
+      "url": "https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "industry",
+      "title": "시애라, 개인 AI 에이전트를 위한 오픈 표준 발표",
+      "summary": "시애라와 메타가 개인 AI 에이전트의 인증 및 기능을 정의하는 오픈 표준인 개인 에이전트 프로토콜을 개발하고 있다. 이번 달에 v0.1 사양이 발표될 예정이며, 결제 기능은 향후 확장으로 계획되고 있다.",
+      "summary_full": "시애라와 메타는 개인 AI 에이전트가 기업과 인증하는 방법과 기업이 허용하는 기능을 정의하는 개인 에이전트 프로토콜을 개발 중이다. 이 프로토콜은 Genesys, Instinct, Rocket, Shopify, Stripe, Walmart와 협력하여 진행된다. v0.1 사양은 이번 달에 발표될 예정이며, 결제 기능은 향후 확장으로 예정되어 있다. 메타는 이 프로젝트에 참여하고 있다.",
+      "keywords": [
+        "개인 AI 에이전트",
+        "오픈 표준",
+        "시애라"
+      ],
+      "source": "thenextweb.com",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T19:43:23.000Z",
+      "url": "https://thenextweb.com/news/personal-agent-protocol-sierra-meta",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Google Workspace 앱에 Claude 연동 추가",
+      "summary": "Anthropic이 Google Workspace 앱에 AI 모델 Claude를 통합했다. 이를 통해 사용자들은 더 나은 작업 효율성을 경험할 수 있을 것으로 기대된다.",
+      "summary_full": "Anthropic이 자사의 AI 모델 Claude를 Google Workspace 앱에 통합했다. 이 연동은 사용자가 문서 작성, 이메일 관리 등 다양한 작업을 보다 효율적으로 수행할 수 있도록 지원한다. Claude는 자연어 처리 기능을 통해 사용자와의 상호작용을 개선하며, 업무 생산성을 높이는 데 기여할 것으로 보인다. 이러한 변화는 AI 기술이 비즈니스 환경에 점점 더 깊숙이 통합되고 있음을 보여준다.",
+      "keywords": [
+        "Anthropic",
+        "Google Workspace",
+        "Claude"
+      ],
+      "source": "Google News Anthropic",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T18:08:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yblllYmFHZS1FRENsaUljRF9mRnZEenFyY0JGcGVpWXNKbm1VWnkyVXNnUU55d21hd29RUkVuV0dOZEhzeTF1U2pPbHZ2elNDVjM3S3dPQnpVd2VETC1tY3JPejk3ekVSRVNST3FSbVB1akotS2pR?oc=5",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "industry",
+      "title": "금융권, AI로 인한 해킹 위협에 대응",
+      "summary": "금융권에서 개인 및 신용정보 유출 사고가 잇따르며 비상이 걸렸다. 금융당국은 해킹에 사용된 IP를 공유하고 금융사들은 취약점 점검을 강화하고 있다.",
+      "summary_full": "최근 금융권에서 개인 및 신용정보 유출 사고가 빈발하고 있다. 이에 금융당국은 해킹에 사용된 IP 주소를 전 금융권에 공유하며 자체 점검을 요구하고 있다. 금융사들도 외부 침입 차단에 그치지 않고 추가 취약점과 공격 가능성을 점검하며 대응 범위를 넓히고 있다. AI 기술의 발전으로 해킹 위협이 커지고 있는 상황이다.",
+      "keywords": [
+        "금융권",
+        "정보 유출",
+        "해킹 위협"
+      ],
+      "source": "바이라인네트워크",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T14:36:47.000Z",
+      "url": "https://byline.network/2026/10/1006-7/",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "ai",
+      "title": "미스트랄 대형 4 소개",
+      "summary": "미스트랄 대형 4가 소개됩니다. 이 모델은 최신 기술을 적용하여 성능을 향상시켰습니다.",
+      "summary_full": "미스트랄 대형 4는 혁신적인 기능과 성능을 자랑하는 새로운 모델입니다. 이 제품은 다양한 용도로 활용될 수 있으며, 사용자 편의를 고려한 디자인이 특징입니다. 최신 기술이 적용되어 효율성과 안정성을 높였습니다. 미스트랄 대형 4는 시장에서 큰 주목을 받고 있습니다.",
+      "keywords": [
+        "미스트랄",
+        "대형 4",
+        "신제품"
+      ],
+      "source": "Mistral AI",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T12:00:27.000Z",
+      "url": "https://mistral.ai/news/mistral-large-4",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "ai",
+      "title": "점프 트레이딩, ChatGPT로 퀀트 연구 확장",
+      "summary": "점프 트레이딩은 OpenAI를 활용하여 퀀트 연구를 확장하고 있다. AI 워크플로우가 여러 데이터 소스를 결합하고 인간의 검토와 함께 작동하는 방식을 살펴본다.",
+      "summary_full": "점프 트레이딩은 OpenAI의 기술을 통해 퀀트 연구의 범위를 넓히고 있다. 이들은 AI 기반의 장기적인 워크플로우를 통해 다양한 데이터 소스를 통합하고 있다. 또한, 이러한 과정에서 인간의 검토가 중요한 역할을 하고 있다. 이를 통해 보다 정교하고 신뢰할 수 있는 연구 결과를 도출하고자 한다.",
+      "keywords": [
+        "점프 트레이딩",
+        "퀀트 연구",
+        "OpenAI",
+        "AI 워크플로우",
+        "데이터 통합"
+      ],
+      "source": "OpenAI News",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "url": "https://openai.com/index/jump-trading",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "design",
+      "title": "사물 이름 짓기의 실용 가이드",
+      "summary": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화 방식에 영향을 미친다. 디자인 토큰, HTML 클래스, 변수의 이름을 짓는 데 어려움을 겪는 이유는 이 때문이다.",
+      "summary_full": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화 방식에 영향을 미친다. 색상, 아이콘, UI 구성 요소, 기능에 대한 혼란이 많은 이유도 여기에 있다. 때때로 선택한 이름이 너무 일반적이어서 정확한 의미를 이해하기 어렵다. 이러한 문제는 디자인 토큰, HTML 클래스, 변수의 이름을 짓는 데 어려움을 더한다.",
+      "keywords": [
+        "이름 짓기",
+        "디자인 토큰",
+        "UI 구성 요소"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+      "collectedAt": "2026-10-07"
+    },
+    {
+      "category": "ai",
+      "title": "팔콘-에미리트: LLM이 방언, 문화, 뉘앙스를 배울 때",
+      "summary": "이 기사는 LLM이 에미리트 방언과 문화를 어떻게 학습하는지를 다룬다. 방언의 뉘앙스를 이해하는 것이 중요하다는 점을 강조한다.",
+      "summary_full": "이 기사는 Falcon-Emirati라는 LLM이 에미리트 방언을 배우는 과정과 그로 인해 문화적 뉘앙스를 이해하게 되는 방법을 설명한다. LLM이 단순한 언어 처리 능력을 넘어 문화적 맥락을 이해하는 것이 얼마나 중요한지를 강조한다. 이를 통해 AI가 사람들과의 소통에서 더 깊은 이해를 가질 수 있는 가능성을 제시한다. 결국, 언어와 문화의 융합이 AI의 발전에 기여할 수 있음을 보여준다.",
+      "keywords": [
+        "LLM",
+        "에미리트 방언",
+        "문화적 뉘앙스"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T06:44:39.000Z",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "collectedAt": "2026-10-07"
+    },
     {
       "category": "industry",
       "title": "주방 시공 기준을 만드는 사람들",
@@ -83,6 +293,22 @@
       "publishedAt": "2026-10-06T00:00:38.000Z",
       "url": "https://thenextweb.com/news/mcp-flaw-ssrf-google-jpmorgan-dinum-protocol-pivoting",
       "collectedAt": "2026-10-06"
+    },
+    {
+      "category": "figma",
+      "title": "피그마 에이전트, 베타 종료 및 개선된 기능 공개",
+      "summary": "피그마 에이전트가 베타를 종료하고 개선된 지연 시간과 채팅 내 피그마 파일 검색 기능을 추가했습니다. 사용자가 디자인 라이브러리에 대한 맥락을 제공할 수 있는 가이드라인도 설정할 수 있습니다.",
+      "summary_full": "피그마 에이전트가 베타를 종료하며 여러 개선 사항을 도입했습니다. 이제 사용자는 채팅에서 피그마 파일을 검색할 수 있으며, 디자인 라이브러리에 대한 가이드라인을 설정할 수 있습니다. 사용자는 규칙, 모범 사례, 안티 패턴 등을 포함한 마크다운 파일을 업로드할 수 있습니다. 이러한 파일은 라이브러리가 활성화된 상태에서 사용자가 프롬프트를 입력할 때마다 에이전트에 의해 읽힙니다.",
+      "keywords": [
+        "피그마",
+        "에이전트",
+        "디자인 라이브러리"
+      ],
+      "source": "Figma Release Notes",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-10-07"
     },
     {
       "category": "industry",
@@ -179,22 +405,6 @@
       "publishedAt": "2026-10-05T03:14:53.000Z",
       "url": "https://dev.to/voorai/designing-a-short-form-trend-video-feature-around-one-to-three-photos-4l67",
       "collectedAt": "2026-10-05"
-    },
-    {
-      "category": "figma",
-      "title": "Figma와 GitHub 조직 다중 연결 기능",
-      "summary": "이제 여러 GitHub 조직을 단일 Figma 플랜에 연결할 수 있습니다. 이를 통해 팀과 프로젝트 간의 코드 작업이 더 쉬워집니다.",
-      "summary_full": "여러 GitHub 조직을 하나의 Figma 플랜에 연결할 수 있게 되었습니다. 이 기능은 팀과 프로젝트 간의 코드 작업을 더 효율적으로 만들어 줍니다. 공유 디자인 시스템을 한 곳에 유지하면서 팀이 사용하는 GitHub 조직을 연결할 수 있습니다. 이 기능은 조직 및 엔터프라이즈 플랜에서 이용 가능합니다.",
-      "keywords": [
-        "Figma",
-        "GitHub",
-        "조직 연결"
-      ],
-      "source": "Figma Release Notes",
-      "date": "10월 5일",
-      "publishedAt": "2026-10-05T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-10-06"
     },
     {
       "category": "industry",
@@ -680,19 +890,19 @@
     },
     {
       "category": "ai",
-      "title": "클로드 형태의 과학",
-      "summary": "클로드 형태의 과학은 특정한 형태나 구조를 기반으로 한 과학적 접근 방식을 의미한다. 이는 과학적 탐구와 발견에 있어 새로운 시각을 제공할 수 있다.",
-      "summary_full": "클로드 형태의 과학은 과학적 원리나 현상을 특정한 형태로 표현하는 방법론을 제시한다. 이러한 접근은 복잡한 과학적 개념을 시각적으로 이해하는 데 도움을 줄 수 있다. 또한, 이는 다양한 분야에서 혁신적인 연구와 개발을 촉진할 수 있는 가능성을 지닌다. 따라서 클로드 형태의 과학은 현대 과학의 발전에 기여할 수 있는 중요한 요소로 작용할 수 있다.",
+      "title": "클로드 형상의 과학",
+      "summary": "클로드 형상에 대한 과학적 탐구를 다룬다. 이 연구는 클로드 형상이 자연과학에서 어떻게 적용되는지를 설명한다.",
+      "summary_full": "클로드 형상은 다양한 과학적 현상에서 중요한 역할을 한다. 이 연구는 클로드 형상이 물리학, 생물학, 화학 등 여러 분야에서 어떻게 나타나는지를 분석한다. 또한, 클로드 형상의 특성과 그 응용 가능성에 대해 논의한다. 이를 통해 과학적 이해를 넓히고 새로운 연구 방향을 제시한다.",
       "keywords": [
-        "과학",
-        "형태",
-        "혁신"
+        "클로드 형상",
+        "과학적 탐구",
+        "응용 가능성"
       ],
       "source": "Anthropic Research",
       "date": "10월 1일",
       "publishedAt": "2026-10-01T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-shaped-science",
-      "collectedAt": "2026-10-06"
+      "collectedAt": "2026-10-07"
     },
     {
       "category": "industry",
@@ -856,19 +1066,19 @@
     },
     {
       "category": "frontend",
-      "title": "9인조 다람쥐 아이돌 데뷔",
-      "summary": "토스뱅크의 9가지 다람쥐 캐릭터를 활용한 적금 서비스가 소개된다. 사용자가 직접 저금해야 캐릭터가 성장하는 새로운 구조로 리텐션을 높이고자 한다.",
-      "summary_full": "토스뱅크의 Visual Designer 고명은이 9가지 다람쥐 캐릭터와 함께하는 적금 서비스의 디자인 과정을 설명한다. 이 적금 서비스는 사용자가 직접 저금해야 캐릭터가 성장하는 구조로 설계되었다. 초기 버전은 자동이체로 인해 사용자 리텐션이 떨어졌고, 이를 개선하기 위해 새로운 버전을 도입했다. 사용자 참여를 유도하여 적금의 지속성을 높이는 것이 목표이다.",
+      "title": "9인조 다람쥐 아이돌의 데뷔",
+      "summary": "토스뱅크의 Visual Designer 고명은이 9가지 다람쥐 캐릭터를 소개하며, 저금과 캐릭터 성장의 과정을 설명합니다.",
+      "summary_full": "토스뱅크의 Visual Designer 고명은이 9가지 다람쥐 캐릭터를 활용한 적금 상품을 소개합니다. 이 적금은 사용자가 직접 저금해야 캐릭터가 성장하는 구조로 설계되었습니다. 초기 버전은 자동이체로 인해 사용자의 리텐션이 떨어졌고, 이를 개선하기 위해 새로운 버전에서는 사용자의 참여를 유도하고자 했습니다. 캐릭터와 이자가 함께 자라는 재미를 통해 사용자 경험을 향상시키려는 노력이 담겨 있습니다.",
       "keywords": [
-        "다람쥐",
-        "적금",
+        "다람쥐 아이돌",
+        "저금",
         "사용자 참여"
       ],
       "source": "toss.tech",
       "date": "9월 30일",
       "publishedAt": "2026-09-30T01:29:00.000Z",
       "url": "https://toss.tech/article/chipmunk",
-      "collectedAt": "2026-10-06"
+      "collectedAt": "2026-10-07"
     },
     {
       "category": "ai",
@@ -2925,8 +3135,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM 비용을 절반으로 줄이는 새로운 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너는 최근 LLM 비용을 절반으로 줄이는 혁신적인 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 경제적으로 운영할 수 있도록 설계되었다. 이를 통해 기업들은 비용 절감과 함께 AI의 활용도를 높일 수 있을 것으로 기대된다. 라이너는 이 솔루션이 다양한 산업에서 활용될 수 있을 것이라고 밝혔다.",
+      "summary": "라이너가 LLM 비용을 절반으로 줄이는 새로운 AI 솔루션을 발표했다. 이 기술은 기업들이 AI 모델 운영 비용을 효율적으로 관리할 수 있도록 돕는다.",
+      "summary_full": "라이너가 최근 LLM 비용을 절반으로 줄이는 혁신적인 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 모델을 운영하는 데 드는 비용을 크게 절감할 수 있도록 설계되었다. 라이너는 이 기술을 통해 AI의 접근성을 높이고, 더 많은 기업들이 AI를 활용할 수 있도록 지원할 계획이다. 이로 인해 AI 기술의 확산이 더욱 가속화될 것으로 기대된다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -2936,7 +3146,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-10-06"
+      "collectedAt": "2026-10-07"
     },
     {
       "category": "design",
@@ -4224,103 +4434,6 @@
     },
     {
       "category": "industry",
-      "title": "데이터 놀이터 - 오늘의집 바이브 코딩 플랫폼",
-      "summary": "오늘의집 바이브 코딩 플랫폼을 통해 사용자가 스스로 앱을 개발할 수 있는 방법을 소개한다. 데이터 수집부터 배포까지의 전 과정을 다룬다.",
-      "summary_full": "오늘의집 바이브 코딩 플랫폼은 사용자가 데이터부터 배포까지 스스로 앱을 개발할 수 있는 환경을 제공한다. 이 플랫폼은 AI 기술을 활용하여 사용자에게 더 나은 개발 경험을 선사한다. 데이터 놀이터라는 이름처럼, 다양한 데이터 실험이 가능하다. 사용자는 코딩에 대한 지식이 없어도 쉽게 접근할 수 있다.",
-      "keywords": [
-        "오늘의집",
-        "코딩 플랫폼",
-        "AI 기술"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "9월 6일",
-      "publishedAt": "2026-09-06T02:59:28.975Z",
-      "url": "https://www.bucketplace.com/post/2026-08-30-data-playground-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9-%ED%94%8C%EB%9E%AB%ED%8F%BC/",
-      "collectedAt": "2026-09-06"
-    },
-    {
-      "category": "frontend",
-      "title": "작은 오픈소스 도구를 만들었습니다",
-      "summary": "작업보다 시작이 더 어려웠기 때문에 작은 첫 단계를 필요로 했습니다. 그래서 브라우저에서 실행되는 무료의 오픈소스 반프로크라스티네이션 도구인 StartTiny를 만들었습니다.",
-      "summary_full": "작업보다 시작이 더 어려웠기 때문에 작은 첫 단계를 필요로 했습니다. 그래서 브라우저에서 실행되는 무료의 오픈소스 반프로크라스티네이션 도구인 StartTiny를 만들었습니다. 이 도구는 계정이나 백엔드, 광고가 필요 없으며, 작업, 메모 및 설정은 로컬 스토리지에 저장됩니다. 라이브 데모는 제공된 링크에서 확인할 수 있습니다.",
-      "keywords": [
-        "오픈소스",
-        "반프로크라스티네이션",
-        "생산성 도구"
-      ],
-      "source": "dev.to",
-      "date": "9월 6일",
-      "publishedAt": "2026-09-06T02:57:57.000Z",
-      "url": "https://dev.to/g4hio/i-built-a-tiny-open-source-tool-because-starting-was-harder-than-the-work-3d7k",
-      "collectedAt": "2026-09-06"
-    },
-    {
-      "category": "trend",
-      "title": "비디자이너가 Codex로 1천 달러 품질의 랜딩 페이지를 만든 방법",
-      "summary": "이 글에서는 비디자이너가 Codex를 활용하여 고품질의 랜딩 페이지를 제작한 과정을 설명합니다. 이를 통해 디자인 경험이 없는 사람도 효과적인 웹 페이지를 만들 수 있는 방법을 제시합니다.",
-      "summary_full": "이 글에서는 비디자이너가 Codex를 활용하여 1천 달러 품질의 랜딩 페이지를 제작한 과정을 상세히 설명합니다. Codex의 기능을 이용하여 디자인 지식이 없는 사람도 쉽게 웹 페이지를 만들 수 있는 방법을 제시합니다. 또한, 실제 사례를 통해 랜딩 페이지 제작의 단계별 과정을 보여줍니다. 이 글은 비디자인 전공자에게도 유용한 정보가 될 것입니다.",
-      "keywords": [
-        "랜딩 페이지",
-        "Codex",
-        "비디자이너"
-      ],
-      "source": "dev.to",
-      "date": "9월 5일",
-      "publishedAt": "2026-09-05T20:36:48.000Z",
-      "url": "https://dev.to/clastron_main/how-a-non-designer-built-a-1k-quality-landing-page-with-codex-2o8d",
-      "collectedAt": "2026-09-06"
-    },
-    {
-      "category": "industry",
-      "title": "시애틀 타임스와 뉴스데이, OpenAI와 Microsoft를 상대로 소송 제기",
-      "summary": "시애틀 타임스와 뉴스데이가 OpenAI와 Microsoft를 상대로 소송을 제기했다. 이들은 두 회사가 유료 구독 모델을 우회하여 기사를 수집했다고 주장하고 있다.",
-      "summary_full": "시애틀 타임스와 뉴스데이가 OpenAI와 Microsoft를 상대로 소송을 제기했다. 이들은 두 회사가 유료 구독 모델과 페이월을 우회하는 방식으로 기사를 체계적으로 수집했다고 주장하고 있다. 유럽연합의 일반 목적 AI 규정은 서명국들이 접근 제한을 우회하지 않도록 의무화하고 있으며, 특히 구독 모델과 페이월을 명시하고 있다. 이번 소송은 언론사들의 저작권 보호를 위한 중요한 사례로 주목받고 있다.",
-      "keywords": [
-        "OpenAI",
-        "Microsoft",
-        "소송"
-      ],
-      "source": "thenextweb.com",
-      "date": "9월 5일",
-      "publishedAt": "2026-09-05T19:49:28.000Z",
-      "url": "https://thenextweb.com/news/seattle-times-newsday-sue-openai-microsoft-copyright-paywall-bypass-gpai-code-of-practice-copyright-chapter-measure-1-2",
-      "collectedAt": "2026-09-06"
-    },
-    {
-      "category": "trend",
-      "title": "내가 테스트한 4가지 최고의 알렉사 스피커 (2026)",
-      "summary": "알렉사와 대화할 수 있는 최고의 스마트 스피커를 소개합니다. 인기 있는 에코 닷부터 최신 에코 스튜디오까지 다양한 옵션을 제공합니다.",
-      "summary_full": "이 기사에서는 알렉사와 상호작용할 수 있는 최고의 스마트 스피커를 모았습니다. 에코 닷과 최신 에코 스튜디오를 포함하여 다양한 모델을 비교하고 특징을 설명합니다. 각 스피커의 장단점을 분석하여 소비자들이 선택할 수 있도록 돕습니다. 스마트 홈 환경을 구축하려는 이들에게 유용한 정보가 될 것입니다.",
-      "keywords": [
-        "알렉사",
-        "스마트 스피커",
-        "에코 닷",
-        "에코 스튜디오"
-      ],
-      "source": "wired.com",
-      "date": "9월 5일",
-      "publishedAt": "2026-09-05T11:01:00.000Z",
-      "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
-      "collectedAt": "2026-09-06"
-    },
-    {
-      "category": "industry",
-      "title": "읽기와 쓰기는 인터페이스이며, AI는 그 마찰을 줄일 수 있다.",
-      "summary": "AI는 작업을 줄이는 것이 아니라 지적 작업의 위치를 이동시킨다. 인간은 이미 AI가 등장하기 전부터 얕고 파생적인 콘텐츠를 생산해왔다.",
-      "summary_full": "AI는 작업의 양을 줄이는 것이 아니라 지적 작업이 어디로 이동하는지를 질문하게 만든다. 인터넷에는 많은 AI 관련 저질 콘텐츠가 존재하며, 이는 비판받을 만하다. 그러나 저질 콘텐츠는 AI가 등장하기 전부터 인간에 의해 생산되어 왔다. 따라서 AI의 등장이 새로운 문제를 만든 것은 아니다.",
-      "keywords": [
-        "AI",
-        "지적 작업",
-        "콘텐츠 생산"
-      ],
-      "source": "uxdesign.cc",
-      "date": "9월 5일",
-      "publishedAt": "2026-09-05T00:21:17.000Z",
-      "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-09-06"
-    },
-    {
-      "category": "industry",
       "title": "카카오·SKT·KT의 모두의 AI 서비스, 12월 출시",
       "summary": "국내 주요 통신·플랫폼 기업들이 대국민 인공지능 비서를 출시한다. 기존 채널을 활용해 사용자의 접근성을 높였다.",
       "summary_full": "카카오, SKT, KT가 별도 앱 설치 없이 카카오톡이나 전화, 문자로 이용할 수 있는 AI 비서를 연내 출시한다. 복잡한 사용법을 익힐 필요 없이 전 국민이 쉽게 접근할 수 있도록 설계되었다. 이는 외산 AI와의 차별점으로, 진입 장벽을 낮추는 데 기여할 것으로 기대된다. 이러한 서비스는 사용자들에게 더 나은 편의성을 제공할 예정이다.",
@@ -4387,22 +4500,6 @@
     },
     {
       "category": "ai",
-      "title": "전선 방어자를 위한 데이브레이크: 필수 서비스 보호를 위한 10억 달러",
-      "summary": "OpenAI가 전선 방어자를 위한 데이브레이크를 소개합니다. 10억 달러의 투자로 최전선 사이버 AI, 교육 및 필수 서비스 지원을 확대합니다.",
-      "summary_full": "OpenAI는 전선 방어자를 위한 데이브레이크를 발표했습니다. 이 프로그램은 10억 달러의 자금을 통해 필수 서비스에 대한 접근을 확대합니다. 또한, 최전선 사이버 AI와 교육, 지원을 제공하여 안전성을 높이는 데 기여할 것입니다. 이는 중요한 서비스의 보호를 위한 중요한 이니셔티브입니다.",
-      "keywords": [
-        "OpenAI",
-        "사이버 AI",
-        "필수 서비스"
-      ],
-      "source": "OpenAI News",
-      "date": "9월 3일",
-      "publishedAt": "2026-09-03T13:15:00.000Z",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "collectedAt": "2026-09-06"
-    },
-    {
-      "category": "ai",
       "title": "NeoMME: 효율적인 다중모드 및 다국어 인코더",
       "summary": "NeoMME는 다중모드 및 다국어 처리를 위한 효율적인 인코더입니다. 이 기술은 다양한 입력 형식을 동시에 처리할 수 있는 능력을 가지고 있습니다.",
       "summary_full": "NeoMME는 효율적인 다중모드 및 다국어 인코더로, 다양한 입력 형식을 동시에 처리할 수 있는 능력을 갖추고 있습니다. 이 인코더는 멀티모달 데이터의 통합을 통해 더 나은 성능을 발휘합니다. 또한, 여러 언어를 지원하여 글로벌 애플리케이션에 적합합니다. NeoMME는 최신 기술을 활용하여 효율성과 정확성을 높이는 데 중점을 두고 개발되었습니다.",
@@ -4435,19 +4532,19 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 CSS random() 함수 사용하기",
-      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 앞으로의 웹 디자인에 중요한 기능입니다. 이 글에서는 이 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 사랑을 담아 작성된 이 글은 웹 개발자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
+      "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
+      "summary": "CSS random() 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 다룹니다.",
+      "summary_full": "CSS random() 함수는 아직 모든 브라우저에서 지원되지 않지만, 이를 위한 폴리필을 만드는 방법을 소개합니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성된 내용을 기반으로 합니다. 브라우저 호환성을 높이기 위한 다양한 접근법이 논의됩니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
-        "폴리필"
+        "브라우저 호환성"
       ],
       "source": "css-tricks.com",
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-10-06"
+      "collectedAt": "2026-10-07"
     },
     {
       "category": "design",
@@ -4484,8 +4581,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이러한 트렌드는 사용자 경험을 향상시키기 위해 다양한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자인 분야에서 UX/UI 트렌드는 지속적으로 변화하고 있으며, 최근에는 사용자 중심의 디자인이 더욱 강조되고 있다. 새로운 기술과 도구들이 등장하면서 디자이너들은 창의적인 솔루션을 모색하고 있다. 이러한 트렌드는 사용자와의 상호작용을 개선하고, 더 나은 경험을 제공하기 위해 필수적이다. 따라서 디자이너들은 이러한 변화에 주목하고, 최신 트렌드를 반영한 디자인을 구현해야 한다.",
+      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드에 대한 기사이다. 이 트렌드는 사용자 경험을 개선하기 위한 다양한 혁신적인 요소들을 포함하고 있다. 특히, 시각적 요소와 인터랙션 디자인의 중요성이 강조되고 있다. 이러한 변화는 사용자와의 상호작용을 보다 매끄럽고 직관적으로 만들어준다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4495,23 +4592,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-10-06"
+      "collectedAt": "2026-10-07"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
       "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 언어 학습 앱 디자인에 대한 더 깊은 통찰을 제공한다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교수법"
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-10-06"
+      "collectedAt": "2026-10-07"
     },
     {
       "category": "ai",
