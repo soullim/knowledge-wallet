@@ -1,7 +1,183 @@
 {
-  "updated": "2026년 10월 7일 AM 04:23",
-  "count": 288,
+  "updated": "2026년 10월 8일 AM 04:35",
+  "count": 289,
   "articles": [
+    {
+      "category": "industry",
+      "title": "주방 시공 기준을 만드는 사람들",
+      "summary": "주방 시공의 새로운 기준을 설정하는 전문가들의 이야기를 다룬다. 이들은 인테리어 시장의 변화를 이끌고 있다.",
+      "summary_full": "주방 시공의 기준을 새롭게 정의하는 사람들을 소개한다. 이들은 인테리어 디자인과 시장의 흐름을 설계하며, 혁신적인 접근 방식을 통해 고객의 요구를 충족시키고 있다. 두 번째 이야기에서는 이들의 경험과 비전을 통해 주방 시공의 미래를 탐구한다. 인테리어 시장의 변화에 대한 통찰을 제공한다.",
+      "keywords": [
+        "주방 시공",
+        "인테리어 디자인",
+        "시장 변화"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "10월 8일",
+      "publishedAt": "2026-10-08T04:34:05.475Z",
+      "url": "https://www.bucketplace.com/post/2026-09-29-%EC%A3%BC%EB%B0%A9-%EC%8B%9C%EA%B3%B5%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "design",
+      "title": "판단만 하는 AI의 주목",
+      "summary": "Jev와 Decisions API를 통해 판단을 내리는 AI의 중요성이 증가하고 있다. 이러한 기술은 다양한 분야에서 의사결정 과정을 혁신하고 있다.",
+      "summary_full": "Jev와 Decisions API는 판단을 내리는 AI의 발전을 보여준다. 이 기술은 데이터 분석을 통해 신속하고 정확한 결정을 가능하게 한다. 기업과 조직은 이를 활용하여 효율성을 높이고 경쟁력을 강화할 수 있다. AI의 판단 능력은 앞으로도 더욱 중요해질 것으로 예상된다.",
+      "keywords": [
+        "AI",
+        "Jev",
+        "Decisions API"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "10월 8일",
+      "publishedAt": "2026-10-08T04:34:00.358Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-848/",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "frontend",
+      "title": "텍스트에서 중복된 줄 제거하는 방법 (온라인, 엑셀, 명령줄)",
+      "summary": "중복된 줄은 이메일 목록, 키워드 내보내기, 로그 및 URL 수집에 발생할 수 있습니다. 수동으로 제거하는 것은 비효율적이며, 결과를 예상하기 위해 몇 가지 설정을 아는 것이 중요합니다.",
+      "summary_full": "중복된 줄은 이메일 목록, 키워드 내보내기, 로그 및 URL 수집에 자주 발생합니다. 수동으로 제거하는 것은 확장성이 떨어지므로, 몇 가지 설정을 통해 결과를 조정하는 것이 필요합니다. 도구에 따라 첫 번째 또는 마지막 발생을 유지할 수 있으며, 대부분의 도구는 첫 번째를 유지하고 이후의 반복을 제거합니다. 따라서 중복 제거 방법을 이해하는 것이 중요합니다.",
+      "keywords": [
+        "중복 제거",
+        "텍스트 처리",
+        "온라인 도구"
+      ],
+      "source": "dev.to",
+      "date": "10월 8일",
+      "publishedAt": "2026-10-08T04:30:00.000Z",
+      "url": "https://dev.to/pulkitgovrani/how-to-remove-duplicate-lines-from-text-online-excel-and-the-command-line-5mi",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "trend",
+      "title": "유니코드 화려한 텍스트 생성기 작동 원리",
+      "summary": "인스타그램에서 사용되는 다양한 장식 스타일의 텍스트는 전통적인 폰트가 아닌 유니코드 문자로 구성되어 있다.",
+      "summary_full": "인스타그램의 바이오, 사용자 이름, 캡션 등에서 볼 수 있는 화려한 텍스트는 전통적인 폰트처럼 보이지만, 실제로는 유니코드 문자로 이루어져 있다. 이러한 문자들은 다양한 타입 스타일을 흉내 내며, 사용자가 쉽게 복사하여 사용할 수 있다. 이로 인해 사용자들은 독특한 스타일의 텍스트를 손쉽게 생성할 수 있다.",
+      "keywords": [
+        "유니코드",
+        "텍스트 생성기",
+        "스타일"
+      ],
+      "source": "dev.to",
+      "date": "10월 8일",
+      "publishedAt": "2026-10-08T03:30:01.000Z",
+      "url": "https://dev.to/rajesh_mondal_cded2f82459/how-unicode-fancy-text-generators-work-3ifk",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "industry",
+      "title": "윈도우11, 하이브리드 인텔리전스로 변화",
+      "summary": "마이크로소프트가 윈도우11의 플랫폼 업데이트를 발표하며 AI 에이전트 활용에 최적화된 기능을 추가했다. 새로운 서피스 제품은 엔비디아 RTX 스파크 SoC를 탑재하여 고성능을 자랑한다.",
+      "summary_full": "마이크로소프트는 2년 만에 윈도우와 서피스 노트북 행사를 개최했다. 이번 행사에서는 예상했던 윈도우12 공개 대신, AI 에이전트 활용에 최적화된 윈도우11의 플랫폼 업데이트가 발표되었다. 윈도우11은 모델 라우터를 내장하여 로컬 기기와 클라우드 환경에서 다양한 AI 모델을 선택할 수 있게 하며, 여러 AI 에이전트를 로컬에서 안전하게 실행할 수 있는 에이전트 샌드박스를 제공한다. 또한, 엔비디아 RTX 스파크 SoC를 탑재한 초고사양 서피스 제품도 소개되었다.",
+      "keywords": [
+        "윈도우11",
+        "AI 에이전트",
+        "서피스 노트북"
+      ],
+      "source": "바이라인네트워크",
+      "date": "10월 8일",
+      "publishedAt": "2026-10-08T03:27:09.000Z",
+      "url": "https://byline.network/2026/10/8-532/",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "trend",
+      "title": "2026년 프라임 데이 애플 할인 종료 임박",
+      "summary": "프라임 데이를 맞아 맥북, 아이패드, 에어팟 등 다양한 애플 제품이 할인 중이다. 하지만 할인 혜택은 몇 시간 후에 종료된다.",
+      "summary_full": "프라임 데이를 맞아 애플의 다양한 제품들이 할인 판매되고 있다. 맥북, 아이패드, 에어팟 등 거의 모든 애플 액세서리가 포함된다. 하지만 이 할인은 제한된 시간 동안만 유효하다. 따라서 구매를 원한다면 서둘러야 한다.",
+      "keywords": [
+        "프라임 데이",
+        "애플 할인",
+        "맥북 아이패드"
+      ],
+      "source": "wired.com",
+      "date": "10월 8일",
+      "publishedAt": "2026-10-08T02:02:56.000Z",
+      "url": "https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "industry",
+      "title": "제한된 위임: AI는 얼마나 많은 권한을 가져야 하는가?",
+      "summary": "AI의 권한과 인간의 소유권을 결정하는 실용적인 모델을 제시한다. 제품 팀이 경계를 설정해야 하는 지점에 대해 논의한다.",
+      "summary_full": "AI가 수행할 수 있는 작업과 인간이 여전히 소유해야 하는 작업을 결정하기 위한 실용적인 모델을 제안한다. 이 모델은 제품 팀이 AI의 권한을 어디까지 위임할지를 판단하는 데 도움을 준다. 예를 들어, AI 도구가 고객 의견을 클러스터링하고 '가격 마찰'이라는 주제를 도출하는 사례를 통해 설명한다. 팀은 AI가 제안하는 가격 실험을 비교하고 분석하는 과정을 통해 AI의 활용 가능성을 탐색한다.",
+      "keywords": [
+        "AI 권한",
+        "인간 소유권",
+        "제품 팀"
+      ],
+      "source": "uxdesign.cc",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T19:54:06.000Z",
+      "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude Sonnet 5.5 캐시 읽기 비용 절감",
+      "summary": "Anthropic이 Claude Sonnet 5.5의 캐시 읽기 비용을 50% 줄였다. 이는 시스템 효율성을 크게 향상시킬 것으로 기대된다.",
+      "summary_full": "Anthropic은 최신 모델인 Claude Sonnet 5.5의 캐시 읽기 비용을 50% 절감하는 성과를 발표했다. 이러한 비용 절감은 데이터 처리 속도를 개선하고, 전반적인 시스템 성능을 향상시키는 데 기여할 것으로 보인다. 이로 인해 사용자 경험이 개선되고, 더 많은 데이터 요청을 처리할 수 있는 가능성이 열릴 것으로 예상된다. 이는 인공지능 기술의 발전에 중요한 이정표가 될 것이다.",
+      "keywords": [
+        "Anthropic",
+        "Claude Sonnet 5.5",
+        "캐시 읽기 비용"
+      ],
+      "source": "Google News Anthropic",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T19:44:51.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1dpUGljR0M4dWVtbHV3U3JKd05ZYW83amZfZ19heGlELWxySWdHVmh2aktFelI5c3lnR1lFM0dPc09MR3ZSeXpTSWZrZHpZV1dqa1BhRVNtYS1weTlhNkRSeEJsX0ttb3h1cWZmeTNpLU9MWm9xdThGZXNkS0FfeUhrbzF0eHFpR0E?oc=5",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "industry",
+      "title": "마이크로소프트, 엔비디아 칩 탑재한 2,599달러 노트북은 맥북보다 성능 우수",
+      "summary": "마이크로소프트는 엔비디아 칩을 탑재한 첫 번째 서피스 노트북을 2,599.99달러에 출시했다. 이 노트북은 로컬 AI 프롬프트에서 맥북 프로 M5의 성능을 두 배로 초월한다고 주장했다.",
+      "summary_full": "마이크로소프트는 엔비디아 칩을 탑재한 첫 번째 서피스 노트북을 2,599.99달러에 출시했다. 이 제품은 로컬 AI 프롬프트에서 맥북 프로 M5의 성능을 두 배로 초월한다고 주장했지만, 그 수치의 측정 방법은 공개되지 않았다. 노트북에 탑재된 칩은 2022년에 엔비디아가 인수하지 못한 영국의 ARM 아키텍처 기반으로 제작되었다. 마이크로소프트는 이 새로운 노트북의 성능을 강조하고 있다.",
+      "keywords": [
+        "마이크로소프트",
+        "엔비디아",
+        "서피스 노트북"
+      ],
+      "source": "thenextweb.com",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T19:26:33.000Z",
+      "url": "https://thenextweb.com/news/surface-laptop-ultra-nvidia-europe",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "ai",
+      "title": "엣지를 위한 다중 모달 오픈 D1 의사결정 모델",
+      "summary": "이 논문은 엣지 컴퓨팅을 위한 다중 모달 오픈 D1 의사결정 모델에 대해 다룬다. 다양한 데이터 소스를 통합하여 효율적인 의사결정을 지원하는 방법을 제시한다.",
+      "summary_full": "이 연구에서는 엣지 컴퓨팅 환경에서 활용할 수 있는 다중 모달 오픈 D1 의사결정 모델을 제안한다. 모델은 다양한 데이터 소스와 정보를 통합하여 실시간으로 의사결정을 지원한다. 이를 통해 엣지 디바이스에서의 데이터 처리와 분석의 효율성을 높일 수 있다. 또한, 이 모델은 다양한 산업 분야에 적용 가능성을 보여준다.",
+      "keywords": [
+        "엣지 컴퓨팅",
+        "다중 모달",
+        "의사결정 모델"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T16:54:33.000Z",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "collectedAt": "2026-10-08"
+    },
+    {
+      "category": "ai",
+      "title": "청소년을 위한 AI 미래 설계 지원",
+      "summary": "대학생 계획 도구가 ChatGPT for Teens에 도입되어 학생들이 대학 지원을 관리할 수 있도록 돕습니다. 새로운 플래시카드, 퀴즈, 청소년 AI 위원회도 함께 제공됩니다.",
+      "summary_full": "대학생 계획 도구가 ChatGPT for Teens에 추가되어 청소년들이 대학 지원 과정을 보다 효과적으로 관리할 수 있도록 지원합니다. 이 도구는 학생들이 필요한 정보를 쉽게 찾고 계획을 세울 수 있게 도와줍니다. 또한, 새로운 플래시카드와 퀴즈 기능이 추가되어 학습을 더욱 재미있고 효율적으로 만들어 줍니다. 청소년 AI 위원회도 구성되어 학생들의 의견을 반영한 AI 발전에 기여할 예정입니다.",
+      "keywords": [
+        "AI 교육",
+        "대학 지원",
+        "청소년 기술"
+      ],
+      "source": "OpenAI News",
+      "date": "10월 7일",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "collectedAt": "2026-10-08"
+    },
     {
       "category": "industry",
       "title": "DB 업무 자동화의 한계와 가능성",
@@ -16,22 +192,6 @@
       "date": "10월 7일",
       "publishedAt": "2026-10-07T04:22:36.240Z",
       "url": "https://www.bucketplace.com/post/2026-10-07-db-%EC%97%85%EB%AC%B4-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A0%EA%B9%8C-dbre%EC%9D%98-%EB%91%90-%EA%B0%80%EC%A7%80-%EB%8B%B5/",
-      "collectedAt": "2026-10-07"
-    },
-    {
-      "category": "design",
-      "title": "판단만 하는 AI의 주목",
-      "summary": "Jev와 Decisions API를 통해 판단하는 AI의 중요성이 강조되고 있다. 이러한 기술은 데이터 기반의 의사결정을 지원한다.",
-      "summary_full": "Jev와 Decisions API는 판단만 하는 AI의 발전을 이끌고 있다. 이 기술은 복잡한 데이터 분석을 통해 신속하고 정확한 의사결정을 가능하게 한다. AI의 판단 능력은 다양한 산업에서 활용될 수 있으며, 효율성을 높이는 데 기여한다. 따라서 이러한 AI 기술이 주목받고 있는 이유는 명확하다.",
-      "keywords": [
-        "AI",
-        "Jev",
-        "Decisions API"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "10월 7일",
-      "publishedAt": "2026-10-07T04:22:31.643Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-848/",
       "collectedAt": "2026-10-07"
     },
     {
@@ -99,6 +259,22 @@
       "collectedAt": "2026-10-07"
     },
     {
+      "category": "ai",
+      "title": "EmbeddingGemma 2: 경량 멀티모달 임베딩 모델",
+      "summary": "EmbeddingGemma 2는 개방형 경량 멀티모달 임베딩 모델이다. 다양한 데이터 유형을 통합하여 효율적인 임베딩을 제공한다.",
+      "summary_full": "EmbeddingGemma 2는 개방형 경량 멀티모달 임베딩 모델로, 다양한 데이터 유형을 효과적으로 처리할 수 있도록 설계되었다. 이 모델은 사용자에게 유연한 사용성을 제공하며, 다양한 응용 프로그램에 적용 가능하다. 또한, 경량화된 구조로 인해 빠른 처리 속도를 자랑한다. 연구자와 개발자들이 쉽게 접근하고 활용할 수 있도록 공개되어 있다.",
+      "keywords": [
+        "임베딩 모델",
+        "멀티모달",
+        "경량화"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "10월 6일",
+      "publishedAt": "2026-10-06T19:57:04.000Z",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "collectedAt": "2026-10-08"
+    },
+    {
       "category": "industry",
       "title": "시애라, 개인 AI 에이전트를 위한 오픈 표준 발표",
       "summary": "시애라와 메타가 개인 AI 에이전트의 인증 및 기능을 정의하는 오픈 표준인 개인 에이전트 프로토콜을 개발하고 있다. 이번 달에 v0.1 사양이 발표될 예정이며, 결제 기능은 향후 확장으로 계획되고 있다.",
@@ -149,18 +325,18 @@
     {
       "category": "ai",
       "title": "미스트랄 대형 4 소개",
-      "summary": "미스트랄 대형 4가 소개됩니다. 이 모델은 최신 기술을 적용하여 성능을 향상시켰습니다.",
-      "summary_full": "미스트랄 대형 4는 혁신적인 기능과 성능을 자랑하는 새로운 모델입니다. 이 제품은 다양한 용도로 활용될 수 있으며, 사용자 편의를 고려한 디자인이 특징입니다. 최신 기술이 적용되어 효율성과 안정성을 높였습니다. 미스트랄 대형 4는 시장에서 큰 주목을 받고 있습니다.",
+      "summary": "미스트랄 대형 4가 새롭게 소개되었습니다. 이 모델은 성능과 효율성을 극대화한 최신 기술을 적용하고 있습니다.",
+      "summary_full": "미스트랄 대형 4가 새롭게 출시되었습니다. 이 모델은 인공지능 기술을 활용하여 더욱 향상된 성능을 제공합니다. 또한, 에너지 효율성을 높여 지속 가능한 사용이 가능합니다. 다양한 응용 분야에 적합한 기능을 갖추고 있습니다.",
       "keywords": [
         "미스트랄",
-        "대형 4",
-        "신제품"
+        "대형 모델",
+        "인공지능 기술"
       ],
       "source": "Mistral AI",
       "date": "10월 6일",
       "publishedAt": "2026-10-06T12:00:27.000Z",
       "url": "https://mistral.ai/news/mistral-large-4",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "ai",
@@ -182,9 +358,9 @@
     },
     {
       "category": "design",
-      "title": "사물 이름 짓기의 실용 가이드",
-      "summary": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화 방식에 영향을 미친다. 디자인 토큰, HTML 클래스, 변수의 이름을 짓는 데 어려움을 겪는 이유는 이 때문이다.",
-      "summary_full": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화 방식에 영향을 미친다. 색상, 아이콘, UI 구성 요소, 기능에 대한 혼란이 많은 이유도 여기에 있다. 때때로 선택한 이름이 너무 일반적이어서 정확한 의미를 이해하기 어렵다. 이러한 문제는 디자인 토큰, HTML 클래스, 변수의 이름을 짓는 데 어려움을 더한다.",
+      "title": "사물 이름 짓기 실용 가이드",
+      "summary": "이름 짓기는 어렵고, 사용하는 언어가 사물에 대한 사고와 대화를 형성한다. 디자인 토큰, HTML 클래스, 변수의 이름을 정하는 데 어려움을 겪는 이유는 이 때문이다.",
+      "summary_full": "이름 짓기는 어렵고, 사용하는 언어가 사물에 대한 사고와 대화를 형성한다. 색상, 아이콘, UI 구성 요소, 기능에 대한 혼란이 많고, 이름이 너무 일반적일 경우 의미를 이해하기 어렵다. 디자인 토큰, HTML 클래스, 변수의 이름을 정하는 데 어려움을 겪는 이유는 이러한 혼란 때문이다. 따라서 명확하고 구체적인 이름을 선택하는 것이 중요하다.",
       "keywords": [
         "이름 짓기",
         "디자인 토큰",
@@ -194,7 +370,7 @@
       "date": "10월 6일",
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/10/how-name-things/",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "ai",
@@ -211,22 +387,6 @@
       "publishedAt": "2026-10-06T06:44:39.000Z",
       "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
       "collectedAt": "2026-10-07"
-    },
-    {
-      "category": "industry",
-      "title": "주방 시공 기준을 만드는 사람들",
-      "summary": "주방 시공의 기준을 설정하는 전문가들의 이야기를 다룬다. 이들은 인테리어와 시장 설계에 대한 새로운 접근 방식을 제시한다.",
-      "summary_full": "주방 시공의 기준을 직접 만드는 전문가들의 이야기를 통해 인테리어 업계의 변화를 살펴본다. 이들은 시장을 설계하며 고객의 요구에 맞춘 혁신적인 솔루션을 제공한다. 또한, 그들의 경험과 노하우를 바탕으로 주방 시공의 미래를 전망한다. 두 번째 이야기에서는 이러한 과정에서의 도전과 성취를 조명한다.",
-      "keywords": [
-        "주방 시공",
-        "인테리어",
-        "시장 설계"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "10월 6일",
-      "publishedAt": "2026-10-06T04:55:55.731Z",
-      "url": "https://www.bucketplace.com/post/2026-09-29-%EC%A3%BC%EB%B0%A9-%EC%8B%9C%EA%B3%B5%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-10-06"
     },
     {
       "category": "design",
@@ -296,9 +456,9 @@
     },
     {
       "category": "figma",
-      "title": "피그마 에이전트, 베타 종료 및 개선된 기능 공개",
-      "summary": "피그마 에이전트가 베타를 종료하고 개선된 지연 시간과 채팅 내 피그마 파일 검색 기능을 추가했습니다. 사용자가 디자인 라이브러리에 대한 맥락을 제공할 수 있는 가이드라인도 설정할 수 있습니다.",
-      "summary_full": "피그마 에이전트가 베타를 종료하며 여러 개선 사항을 도입했습니다. 이제 사용자는 채팅에서 피그마 파일을 검색할 수 있으며, 디자인 라이브러리에 대한 가이드라인을 설정할 수 있습니다. 사용자는 규칙, 모범 사례, 안티 패턴 등을 포함한 마크다운 파일을 업로드할 수 있습니다. 이러한 파일은 라이브러리가 활성화된 상태에서 사용자가 프롬프트를 입력할 때마다 에이전트에 의해 읽힙니다.",
+      "title": "피그마 에이전트, 개선된 지연 시간과 검색 기능으로 베타 종료",
+      "summary": "피그마 에이전트가 베타를 종료하고 개선된 지연 시간과 채팅에서 피그마 파일 검색 기능을 제공한다. 사용자 맞춤형 가이드라인을 추가하여 디자인 라이브러리에 대한 컨텍스트를 제공할 수 있다.",
+      "summary_full": "피그마 에이전트가 베타를 종료하며 개선된 지연 시간과 채팅에서 피그마 파일을 검색할 수 있는 기능을 도입했다. 사용자는 디자인 라이브러리에 대한 컨텍스트를 제공하기 위해 가이드라인을 설정할 수 있다. 이러한 가이드라인은 규칙, 모범 사례, 안티패턴 등을 포함하는 마크다운 파일로 업로드할 수 있다. 사용자가 라이브러리를 활성화한 상태에서 프롬프트를 입력할 때마다 에이전트가 이 파일을 읽는다.",
       "keywords": [
         "피그마",
         "에이전트",
@@ -308,7 +468,7 @@
       "date": "10월 6일",
       "publishedAt": "2026-10-06T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "industry",
@@ -891,18 +1051,18 @@
     {
       "category": "ai",
       "title": "클로드 형상의 과학",
-      "summary": "클로드 형상에 대한 과학적 탐구를 다룬다. 이 연구는 클로드 형상이 자연과학에서 어떻게 적용되는지를 설명한다.",
-      "summary_full": "클로드 형상은 다양한 과학적 현상에서 중요한 역할을 한다. 이 연구는 클로드 형상이 물리학, 생물학, 화학 등 여러 분야에서 어떻게 나타나는지를 분석한다. 또한, 클로드 형상의 특성과 그 응용 가능성에 대해 논의한다. 이를 통해 과학적 이해를 넓히고 새로운 연구 방향을 제시한다.",
+      "summary": "클로드 형상에 대한 과학적 탐구를 다룬다. 이 연구는 클로드 형상이 어떻게 형성되고 그 특성이 무엇인지에 대한 내용을 포함한다.",
+      "summary_full": "클로드 형상은 과학적 연구의 중요한 주제로 부각되고 있다. 이 연구에서는 클로드 형상의 형성과정과 그 특성에 대해 심도 있게 분석한다. 다양한 실험과 이론적 접근을 통해 클로드 형상의 이해를 높이는 데 기여하고자 한다. 이러한 연구는 관련 분야에서의 응용 가능성을 제시한다.",
       "keywords": [
         "클로드 형상",
         "과학적 탐구",
-        "응용 가능성"
+        "형성과정"
       ],
       "source": "Anthropic Research",
       "date": "10월 1일",
       "publishedAt": "2026-10-01T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-shaped-science",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "industry",
@@ -1067,18 +1227,18 @@
     {
       "category": "frontend",
       "title": "9인조 다람쥐 아이돌의 데뷔",
-      "summary": "토스뱅크의 Visual Designer 고명은이 9가지 다람쥐 캐릭터를 소개하며, 저금과 캐릭터 성장의 과정을 설명합니다.",
-      "summary_full": "토스뱅크의 Visual Designer 고명은이 9가지 다람쥐 캐릭터를 활용한 적금 상품을 소개합니다. 이 적금은 사용자가 직접 저금해야 캐릭터가 성장하는 구조로 설계되었습니다. 초기 버전은 자동이체로 인해 사용자의 리텐션이 떨어졌고, 이를 개선하기 위해 새로운 버전에서는 사용자의 참여를 유도하고자 했습니다. 캐릭터와 이자가 함께 자라는 재미를 통해 사용자 경험을 향상시키려는 노력이 담겨 있습니다.",
+      "summary": "토스뱅크의 새로운 적금 서비스 '키워봐요 적금'이 9가지 다람쥐 캐릭터를 선보입니다. 사용자가 직접 저금해야 캐릭터가 성장하는 구조로 리텐션을 높이고자 합니다.",
+      "summary_full": "토스뱅크 Visual Designer 고명은이 9인조 다람쥐 아이돌을 소개합니다. '키워봐요 적금'은 사용자가 저금하면서 캐릭터를 키우는 적금 서비스입니다. 초기 버전은 자동이체로 캐릭터가 자랐지만, 리텐션 문제로 새로운 버전에서는 사용자가 직접 저금해야 캐릭터와 이자가 성장하도록 설계했습니다. 이로 인해 사용자가 매일 찾아오는 이유를 제공하고자 합니다.",
       "keywords": [
         "다람쥐 아이돌",
-        "저금",
+        "적금 서비스",
         "사용자 참여"
       ],
       "source": "toss.tech",
       "date": "9월 30일",
       "publishedAt": "2026-09-30T01:29:00.000Z",
       "url": "https://toss.tech/article/chipmunk",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "ai",
@@ -3135,8 +3295,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM 비용을 절반으로 줄이는 새로운 AI 솔루션을 발표했다. 이 기술은 기업들이 AI 모델 운영 비용을 효율적으로 관리할 수 있도록 돕는다.",
-      "summary_full": "라이너가 최근 LLM 비용을 절반으로 줄이는 혁신적인 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 모델을 운영하는 데 드는 비용을 크게 절감할 수 있도록 설계되었다. 라이너는 이 기술을 통해 AI의 접근성을 높이고, 더 많은 기업들이 AI를 활용할 수 있도록 지원할 계획이다. 이로 인해 AI 기술의 확산이 더욱 가속화될 것으로 기대된다.",
+      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 효율성을 높이고 비용 절감을 목표로 한다.",
+      "summary_full": "라이너는 최근 LLM의 운영 비용을 절반으로 줄일 수 있는 AI 솔루션을 발표했다. 이 혁신적인 기술은 기업들이 인공지능 모델을 보다 경제적으로 활용할 수 있도록 돕는다. 라이너는 이 솔루션을 통해 고객들에게 더 나은 가치를 제공할 계획이다. 향후 AI 기술의 발전에 따라 더욱 다양한 응용 가능성이 기대된다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -3146,7 +3306,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "design",
@@ -4305,54 +4465,6 @@
       "collectedAt": "2026-09-10"
     },
     {
-      "category": "design",
-      "title": "음성 지시로 작동하는 GPT-6 Astra 사례",
-      "summary": "GPT-6 Astra는 음성 지시를 통해 다양한 작업을 수행할 수 있는 인공지능이다. 이 기사에서는 그 활용 사례 5가지를 소개한다.",
-      "summary_full": "GPT-6 Astra는 음성 명령을 통해 여러 작업을 자동으로 수행하는 혁신적인 AI 시스템이다. 이 기술은 사용자에게 더 나은 편의성을 제공하며, 다양한 분야에서 활용될 수 있다. 기사에서는 특히 주목할 만한 5가지 사례를 통해 GPT-6 Astra의 기능과 장점을 설명한다. 이를 통해 음성 인식 기술의 발전과 그 응용 가능성을 엿볼 수 있다.",
-      "keywords": [
-        "GPT-6",
-        "음성 인식",
-        "인공지능"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "9월 7일",
-      "publishedAt": "2026-09-07T02:57:17.342Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-825/",
-      "collectedAt": "2026-09-07"
-    },
-    {
-      "category": "frontend",
-      "title": "M&T 은행, 기술 개편 후 기업 AI 확장",
-      "summary": "M&T 은행이 기술 개편을 마친 후 기업 AI를 확장하고 있다. 이는 은행의 디지털 혁신을 위한 중요한 단계로 평가된다.",
-      "summary_full": "M&T 은행은 수년간의 기술 개편을 거쳐 기업 AI를 확장하고 있다. 이 과정은 은행의 운영 효율성을 높이고 고객 서비스를 개선하기 위한 노력의 일환이다. AI 기술의 도입은 금융 서비스의 혁신을 촉진하며, 경쟁력을 강화하는 데 기여하고 있다. M&T 은행은 이러한 변화를 통해 디지털 시대에 발맞추고자 한다.",
-      "keywords": [
-        "M&T 은행",
-        "기업 AI",
-        "기술 개편"
-      ],
-      "source": "dev.to",
-      "date": "9월 7일",
-      "publishedAt": "2026-09-07T02:53:00.000Z",
-      "url": "https://dev.to/sam_raisinghani_b6dec128c/mampt-bank-expands-enterprise-ai-after-years-of-technology-overhaul-8211-ai-24a8",
-      "collectedAt": "2026-09-07"
-    },
-    {
-      "category": "trend",
-      "title": "F.L.Y; 올바르게 실행하기",
-      "summary": "F.L.Y 프로젝트의 성공적인 실행 방법에 대해 설명합니다. 이 기사는 올바른 접근 방식을 통해 프로젝트를 어떻게 완수할 수 있는지를 다룹니다.",
-      "summary_full": "F.L.Y 프로젝트의 성공적인 실행을 위한 전략을 제시합니다. 올바른 방법론과 팀워크의 중요성을 강조하며, 실질적인 사례를 통해 효과적인 실행 방안을 설명합니다. 또한, 프로젝트 관리에서의 도전과제를 극복하는 방법에 대해서도 논의합니다. 이 글은 프로젝트 관리에 관심 있는 사람들에게 유용한 통찰을 제공합니다.",
-      "keywords": [
-        "F.L.Y",
-        "프로젝트 관리",
-        "팀워크"
-      ],
-      "source": "dev.to",
-      "date": "9월 7일",
-      "publishedAt": "2026-09-07T02:45:53.000Z",
-      "url": "https://dev.to/lovelustlost/fly-done-right-3kp9",
-      "collectedAt": "2026-09-07"
-    },
-    {
       "category": "ai",
       "title": "우크라이나의 독립 저널리즘 지원",
       "summary": "OpenAI, AIRPPU, WAN-IFRA가 우크라이나 뉴스 조직의 혁신과 회복력, 독립 저널리즘을 강화하기 위한 AI 프로그램을 시작했다.",
@@ -4367,104 +4479,6 @@
       "publishedAt": "2026-09-07T00:00:00.000Z",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "collectedAt": "2026-09-08"
-    },
-    {
-      "category": "industry",
-      "title": "AI 캔버스, 합성 자아, 프롬프트는 제품이다",
-      "summary": "디자이너를 위한 주간 큐레이션 자료로, AI 코딩 에이전트가 상호작용 모델을 재도입하고 있다. 사용자는 결과를 설명하고 에이전트가 어떤 명령을 실행할지 결정하게 할 수 있다.",
-      "summary_full": "AI 코딩 에이전트는 사용자에게 결과를 설명하도록 하고, 에이전트가 어떤 명령을 실행할지 결정하게 하여 소프트웨어를 단계별로 조작할 필요성을 줄인다. 이는 디자이너에게 시스템이 이해한 바를 질문하는 새로운 디자인 문제를 제기한다. 이러한 변화는 디지털 디자인 환경에서의 상호작용 방식을 혁신적으로 변화시키고 있다. 디자이너와 제작자들에게 유용한 자원으로 활용될 수 있다.",
-      "keywords": [
-        "AI",
-        "디자인",
-        "코딩 에이전트"
-      ],
-      "source": "uxdesign.cc",
-      "date": "9월 6일",
-      "publishedAt": "2026-09-06T23:49:45.000Z",
-      "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-09-07"
-    },
-    {
-      "category": "industry",
-      "title": "OpenAI 수석 과학자, 실험실의 최대 속도 유지 반대",
-      "summary": "OpenAI는 연구자들이 하루에 3.1일의 기계 작업을 얻고 있다고 발표했다. 그러나 수석 과학자는 이러한 속도로 진행하는 것은 바람직하지 않다고 경고했다.",
-      "summary_full": "OpenAI는 연구자들이 하루에 3.1일의 기계 작업을 수행할 수 있다고 발표했다. 그러나 수석 과학자는 이러한 빠른 속도로 진행하는 것이 바람직하지 않다고 주장했다. 이 발표는 GPT-6 Astra 출시 3일 후에 이루어졌다. OpenAI는 연구의 지속 가능성을 강조하고 있다.",
-      "keywords": [
-        "OpenAI",
-        "수석 과학자",
-        "연구 지속 가능성"
-      ],
-      "source": "thenextweb.com",
-      "date": "9월 6일",
-      "publishedAt": "2026-09-06T22:14:05.000Z",
-      "url": "https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute",
-      "collectedAt": "2026-09-07"
-    },
-    {
-      "category": "trend",
-      "title": "2026년 최고의 노트북 백팩",
-      "summary": "잘못된 가방은 매일 불편함을 초래할 수 있다. WIRED에서 테스트한 이 백팩들은 편안함, 수납력, 조직력을 완벽하게 갖추고 있다.",
-      "summary_full": "잘못된 가방은 매일 불편함을 초래할 수 있다. 이 기사에서는 WIRED에서 테스트한 최고의 노트북 백팩을 소개한다. 이 백팩들은 편안함과 수납력, 조직력을 모두 갖추고 있어 다양한 용도에 적합하다. 여행, 업무 등 모든 상황에서 활용할 수 있는 제품들이다.",
-      "keywords": [
-        "노트북 백팩",
-        "WIRED",
-        "편안함"
-      ],
-      "source": "wired.com",
-      "date": "9월 6일",
-      "publishedAt": "2026-09-06T11:30:00.000Z",
-      "url": "https://www.wired.com/story/best-laptop-backpacks/",
-      "collectedAt": "2026-09-07"
-    },
-    {
-      "category": "ai",
-      "title": "외계인의 사고",
-      "summary": "Jakub Pachocki는 점점 더 능력 있는 AI와 그 정렬을 유지하는 도전 과제를 반영한다. 그는 더 강력한 안전 장치와 국제적 협력을 촉구한다.",
-      "summary_full": "Jakub Pachocki는 AI의 능력이 향상됨에 따라 그 정렬을 유지하는 것이 점점 더 어려워지고 있다고 언급한다. 그는 AI의 안전성을 보장하기 위해 더 강력한 보호 장치가 필요하다고 주장한다. 또한, 국제적인 협력이 필수적이라고 강조한다. 이러한 조치들이 AI의 발전을 안전하게 이끌어갈 수 있을 것이라고 믿는다.",
-      "keywords": [
-        "AI",
-        "안전장치",
-        "국제협력"
-      ],
-      "source": "OpenAI News",
-      "date": "9월 6일",
-      "publishedAt": "2026-09-06T09:00:00.000Z",
-      "url": "https://openai.com/index/an-alien-mind",
-      "collectedAt": "2026-09-07"
-    },
-    {
-      "category": "industry",
-      "title": "카카오·SKT·KT의 모두의 AI 서비스, 12월 출시",
-      "summary": "국내 주요 통신·플랫폼 기업들이 대국민 인공지능 비서를 출시한다. 기존 채널을 활용해 사용자의 접근성을 높였다.",
-      "summary_full": "카카오, SKT, KT가 별도 앱 설치 없이 카카오톡이나 전화, 문자로 이용할 수 있는 AI 비서를 연내 출시한다. 복잡한 사용법을 익힐 필요 없이 전 국민이 쉽게 접근할 수 있도록 설계되었다. 이는 외산 AI와의 차별점으로, 진입 장벽을 낮추는 데 기여할 것으로 기대된다. 이러한 서비스는 사용자들에게 더 나은 편의성을 제공할 예정이다.",
-      "keywords": [
-        "AI 서비스",
-        "카카오",
-        "SKT",
-        "KT",
-        "인공지능 비서"
-      ],
-      "source": "바이라인네트워크",
-      "date": "9월 4일",
-      "publishedAt": "2026-09-04T09:56:33.000Z",
-      "url": "https://byline.network/2026/09/0904-6/",
-      "collectedAt": "2026-09-07"
-    },
-    {
-      "category": "frontend",
-      "title": "AI가 만든 코드로 어드민 구축하기",
-      "summary": "어드민을 만들기 위해서는 여러 단계의 과정이 필요하며, 보안 요건도 고려해야 한다. 토스에서는 다양한 어드민을 빠르게 만들기 위해 표준화된 방식이 필요하다.",
-      "summary_full": "어드민 하나를 만들기 위해서는 프로젝트 스캐폴딩, 의존성 추가, 빌드 도구 선택, 인증 및 배포 설정 등의 과정이 필요하다. 또한 개인정보 마스킹, 정보 조회 사유 수취, 다운로드 파일 암호화와 같은 보안 요건도 고려해야 한다. 토스에서는 여러 팀이 다양한 어드민을 빠르게 만들고 수정해야 하므로, 기존의 반복적인 개발 및 배포 과정을 줄이는 방식이 필요하다. 이를 통해 수요 증가에 따른 비용 상승을 방지할 수 있다.",
-      "keywords": [
-        "AI",
-        "어드민",
-        "보안 요건"
-      ],
-      "source": "toss.tech",
-      "date": "9월 4일",
-      "publishedAt": "2026-09-04T08:47:00.000Z",
-      "url": "https://toss.tech/article/52885",
-      "collectedAt": "2026-09-07"
     },
     {
       "category": "ai",
@@ -4533,18 +4547,18 @@
     {
       "category": "frontend",
       "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
-      "summary": "CSS random() 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 다룹니다.",
-      "summary_full": "CSS random() 함수는 아직 모든 브라우저에서 지원되지 않지만, 이를 위한 폴리필을 만드는 방법을 소개합니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성된 내용을 기반으로 합니다. 브라우저 호환성을 높이기 위한 다양한 접근법이 논의됩니다. 뉴스레터 구독도 추천합니다.",
+      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룬다. 이 함수는 모든 브라우저에서 작동하도록 설계되었다.",
+      "summary_full": "CSS random() 함수의 출현과 이를 모든 브라우저에서 사용할 수 있도록 하는 폴리필 개발 과정을 설명한다. 이 기사는 CSS-Tricks에서 작성되었으며, 독자들에게 뉴스레터 구독을 권장한다. CSS random() 함수는 웹 디자인에 랜덤성을 추가하는 유용한 도구가 될 것이다. 개발자들은 이 기능을 통해 더 창의적인 디자인을 구현할 수 있다.",
       "keywords": [
         "CSS",
         "random() 함수",
-        "브라우저 호환성"
+        "폴리필"
       ],
       "source": "css-tricks.com",
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "design",
@@ -4581,8 +4595,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드에 대한 기사이다. 이 트렌드는 사용자 경험을 개선하기 위한 다양한 혁신적인 요소들을 포함하고 있다. 특히, 시각적 요소와 인터랙션 디자인의 중요성이 강조되고 있다. 이러한 변화는 사용자와의 상호작용을 보다 매끄럽고 직관적으로 만들어준다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개되었다. 이 트렌드는 사용자 경험을 개선하기 위해 최신 기술과 디자인 원칙을 통합하고 있다. 또한, 다양한 산업에서 적용 가능한 사례를 통해 실질적인 효과를 보여준다. 이러한 트렌드는 앞으로의 디자인 방향성을 제시하는 중요한 요소로 작용할 것으로 기대된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4592,23 +4606,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 언어 학습 앱 디자인에 대한 더 깊은 통찰을 제공한다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 그 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 언어 학습 앱의 디자인을 이해하는 데 더 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "디자인 교훈"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-10-07"
+      "collectedAt": "2026-10-08"
     },
     {
       "category": "ai",
