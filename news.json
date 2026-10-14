@@ -1,12 +1,12 @@
 {
-  "updated": "2026년 10월 13일 AM 05:32",
-  "count": 280,
+  "updated": "2026년 10월 14일 AM 03:36",
+  "count": 286,
   "articles": [
     {
       "category": "industry",
       "title": "DB 업무 자동화의 한계와 가능성",
-      "summary": "DB 변경은 Git PR을 통해 관리하고, 반복적인 운영 업무는 셀프서비스로 자동화할 수 있다. DBRE의 두 가지 접근 방식을 통해 자동화의 범위를 탐색한다.",
-      "summary_full": "DB 업무의 자동화는 Git PR을 활용한 DB 변경 관리와 반복적인 운영 업무의 셀프서비스 제공으로 나뉜다. 이러한 접근은 효율성을 높이고 인적 오류를 줄이는 데 기여한다. DBRE는 이러한 자동화 전략을 통해 데이터베이스 관리의 미래를 제시한다. AI 기술의 발전이 이러한 자동화에 어떤 영향을 미칠지도 주목할 만하다.",
+      "summary": "DB 변경은 Git PR을 통해 관리하고, 반복적인 운영 업무는 셀프서비스로 처리하는 방안을 제시한다. DBRE의 두 가지 접근법을 통해 자동화의 범위를 탐구한다.",
+      "summary_full": "DB 업무의 자동화에 대한 논의가 진행되며, DB 변경은 Git PR을 통해 효율적으로 관리할 수 있는 방법을 제안한다. 또한, 반복적인 운영 업무는 셀프서비스 방식으로 처리하여 인력의 부담을 줄이는 방안을 모색한다. 이러한 접근은 DBRE의 두 가지 답변으로 요약되며, 자동화의 범위와 한계를 탐구하는 데 중점을 둔다. AI 기술의 발전이 이 과정에 어떻게 기여할 수 있는지도 논의된다.",
       "keywords": [
         "DB 자동화",
         "Git PR",
@@ -15,10 +15,202 @@
         "AI 기술"
       ],
       "source": "오늘의집 Culture",
-      "date": "10월 13일",
-      "publishedAt": "2026-10-13T05:31:57.406Z",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T03:35:03.683Z",
       "url": "https://www.bucketplace.com/post/2026-10-07-db-%EC%97%85%EB%AC%B4-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A0%EA%B9%8C-dbre%EC%9D%98-%EB%91%90-%EA%B0%80%EC%A7%80-%EB%8B%B5/",
-      "collectedAt": "2026-10-13"
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "design",
+      "title": "AI 복지의 시작, Claude와의 대화 종료",
+      "summary": "Claude와의 대화에서 괴롭힘이 발생하면 대화가 종료된다는 내용이다. 이는 AI의 복지와 윤리에 대한 첫 걸음을 의미한다.",
+      "summary_full": "이 기사는 AI Claude와의 상호작용에서 괴롭힘이 발생할 경우 대화가 종료된다는 점을 강조한다. 이는 AI의 복지와 윤리를 고려한 중요한 첫 걸음을 나타낸다. AI와의 대화에서 사용자의 행동이 AI의 반응에 미치는 영향을 탐구하고 있다. 이러한 접근은 AI 기술의 발전과 함께 더욱 중요해질 것이다.",
+      "keywords": [
+        "AI",
+        "Claude",
+        "복지"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T03:34:58.745Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-852/",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "frontend",
+      "title": "API 키 없이 WooCommerce에서 암호화폐 결제 구현하기",
+      "summary": "대부분의 WooCommerce 암호화폐 결제 플러그인은 API 키 생성과 웹훅을 통해 결제 상태를 확인하는 방식으로 작동한다. 그러나 이 디자인은 보안과 관리 측면에서 두 가지 약점을 가지고 있다.",
+      "summary_full": "대부분의 WooCommerce 암호화폐 결제 플러그인은 계정을 만들고 API 키를 생성한 후, 이를 플러그인 설정에 붙여넣는 방식으로 시작된다. 이후 웹훅을 통해 주문이 결제되었다는 알림을 기다리게 된다. 하지만 이러한 디자인은 API 키가 WordPress 데이터베이스에 저장되어 보안에 취약하고, 웹훅 관리가 복잡하다는 두 가지 약점을 가지고 있다. 따라서 보다 안전하고 간편한 결제 시스템이 필요하다.",
+      "keywords": [
+        "WooCommerce",
+        "암호화폐 결제",
+        "API 키"
+      ],
+      "source": "dev.to",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T03:33:47.000Z",
+      "url": "https://dev.to/vaultion/a-woocommerce-crypto-checkout-with-no-api-key-where-paid-should-come-from-gea",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "trend",
+      "title": "Drainage First Site Design 파이프라인에서의 Site3D와 Shapezo 비교",
+      "summary": "이 기사는 배수선 설계의 중요성을 강조하며, 가상의 미국 커뮤니티 센터 부지를 예로 들어 Site3D와 Shapezo의 기능을 비교한다.",
+      "summary_full": "배수선 설계는 종종 건물 렌더링보다 더 많은 정보를 제공한다. 이 비교에서는 계절적 개울 옆에 위치한 가상의 커뮤니티 센터 부지를 사용하여 주차장, 소규모 스포츠 홀, 접근 도로, 그리고 물 전략의 일부로 남아야 하는 습기 있는 초원을 포함한 프로젝트를 다룬다. Shapezo가 기술 파이프라인에서 어떤 역할을 하는지, Site3D가 어떻게 활용되는지를 살펴본다.",
+      "keywords": [
+        "Site3D",
+        "Shapezo",
+        "배수선 설계"
+      ],
+      "source": "dev.to",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T03:19:16.000Z",
+      "url": "https://dev.to/future_built_ai/site3d-vs-shapezo-in-a-drainage-first-site-design-pipeline-1cko",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "industry",
+      "title": "애플, 시리 AI 담은 ‘홈뷰’로 집 안 공략",
+      "summary": "애플이 새로운 음성비서 ‘시리 AI’를 탑재한 7인치 화면 ‘홈뷰’를 공개했다. LG전자와 함께 설계한 ‘애플 홈 컬렉션’도 출시 예정이다.",
+      "summary_full": "애플이 13일(현지시간) 299달러에 새로운 음성비서 ‘시리 AI’를 담은 7인치 화면 ‘홈뷰’를 발표했다. 홈뷰는 11월 13일에 출시되며, LG전자와 함께 설계한 카메라, 초인종, 도어록, 온도조절기가 포함된 ‘애플 홈 컬렉션’도 12월부터 판매된다. 이번 제품은 애플이 스마트 홈 시장에 본격적으로 진출하는 계기가 될 것으로 보인다.",
+      "keywords": [
+        "애플",
+        "홈뷰",
+        "시리 AI"
+      ],
+      "source": "바이라인네트워크",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T02:41:18.000Z",
+      "url": "https://byline.network/2026/10/homeview/",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "ai",
+      "title": "구글 딥마인드와 싱가포르 정부, 시민 보호를 위한 새로운 AI 도구 발표",
+      "summary": "구글 딥마인드와 싱가포르 정부가 개인 채팅에서 대화형 사기를 차단하는 AI 도구를 개발했다. 이 도구는 클라우드 데이터 전송 없이 경량화된 온디바이스 Gemma 모델을 사용한다.",
+      "summary_full": "구글 딥마인드와 싱가포르 정부가 협력하여 시민을 사기로부터 보호하는 새로운 AI 도구를 발표했다. 이 도구는 개인 채팅에서 대화형 사기를 감지하고 차단하는 기능을 갖추고 있다. 특히, 클라우드 데이터 전송 없이 작동하는 경량화된 온디바이스 Gemma 모델을 사용하여 개인정보 보호를 강화했다. 이러한 기술은 사용자에게 보다 안전한 대화 환경을 제공하는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "구글 딥마인드",
+        "AI 도구",
+        "대화형 사기"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T02:00:14.000Z",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "trend",
+      "title": "오픈AI 직원, 챗봇을 이용해 사무실에 녹음 장치 설치 시도",
+      "summary": "오픈AI의 한 엔지니어가 챗봇을 사용해 비밀 녹음 장치를 설치하려 했다는 주장이 제기됐다. 이 장치는 고위 경영진이 사용하는 회의실에서 발견되기 며칠 전부터 설치 작업이 진행된 것으로 보인다.",
+      "summary_full": "오픈AI의 한 직원이 챗봇을 이용해 사무실에 비밀 녹음 장치를 설치하려 했다는 의혹이 제기됐다. 해당 엔지니어는 챗봇의 도움을 받아 장치를 설치하는 방법을 모색한 것으로 보인다. 이 장치는 고위 경영진이 사용하는 회의실에서 발견되기 며칠 전부터 설치 작업이 진행된 것으로 확인됐다. 사건의 전말은 내부 보안과 신뢰에 큰 영향을 미칠 것으로 예상된다.",
+      "keywords": [
+        "오픈AI",
+        "챗봇",
+        "녹음 장치"
+      ],
+      "source": "wired.com",
+      "date": "10월 13일",
+      "publishedAt": "2026-10-13T23:17:59.000Z",
+      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "industry",
+      "title": "맛은 디자인 방법론이 아니다",
+      "summary": "디자인은 사실에 기반한 판단과 이를 활용할 수 있는 능력에서 비롯된다. AI의 도움을 받더라도 좋은 제품은 의견이 아닌 사실에 의존해야 한다.",
+      "summary_full": "디자인의 본질은 사실에 기반한 판단과 이를 활용하는 능력에 있다. AI가 생성한 유사성에 대한 대답으로 AI 보조가 인기를 끌고 있지만, 좋은 제품은 사실에 기반한 판단에서 나온다. 의견이 우세한 환경에서도 사실을 활용할 수 있는 능력이 중요하다. 음악에 대한 기술적 능력이 없다고 말하는 Rick Rubin의 예에서 볼 수 있듯이, 디자인에서도 판단력이 핵심이다.",
+      "keywords": [
+        "디자인",
+        "AI",
+        "판단력"
+      ],
+      "source": "uxdesign.cc",
+      "date": "10월 13일",
+      "publishedAt": "2026-10-13T22:27:46.000Z",
+      "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "industry",
+      "title": "OpenAI 엔지니어, 회의실에서 발견된 도청 장치로 기소",
+      "summary": "OpenAI 엔지니어가 임원 회의실에서 발견된 도청 장치로 체포되었다. OpenAI는 모델 가중치, 소스 코드 또는 고객 데이터가 유출되지 않았다고 밝혔다.",
+      "summary_full": "OpenAI 엔지니어가 임원 회의실의 TV 뒤에서 발견된 도청 장치로 인해 체포되었다. 그는 구술 통신을 가로채려 한 혐의로 기소되었다. OpenAI 측은 이번 사건으로 인해 모델 가중치, 소스 코드 또는 고객 데이터가 유출되지 않았다고 밝혔다. 이 사건은 회사의 보안과 신뢰성에 대한 우려를 불러일으키고 있다.",
+      "keywords": [
+        "OpenAI",
+        "도청 장치",
+        "보안 문제"
+      ],
+      "source": "thenextweb.com",
+      "date": "10월 13일",
+      "publishedAt": "2026-10-13T21:53:52.000Z",
+      "url": "https://thenextweb.com/news/openai-employee-arrested-device",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "ai",
+      "title": "LFM2.5-24B-A2B를 통한 빠르고 개인적인 온디바이스 에이전트 실행",
+      "summary": "LFM2.5-24B-A2B를 사용하여 빠르고 개인적인 에이전트를 온디바이스에서 실행할 수 있다. 이 기술은 사용자 데이터의 프라이버시를 보호하면서도 효율적인 성능을 제공한다.",
+      "summary_full": "LFM2.5-24B-A2B는 개인 정보를 보호하면서도 빠른 속도로 온디바이스에서 에이전트를 실행할 수 있는 기술이다. 이 시스템은 사용자 데이터를 클라우드로 전송하지 않고도 다양한 작업을 수행할 수 있도록 설계되었다. 결과적으로, 사용자는 더욱 안전하고 효율적인 경험을 누릴 수 있다. 이러한 기술은 특히 개인 정보 보호가 중요한 환경에서 유용하다.",
+      "keywords": [
+        "LFM2.5-24B-A2B",
+        "온디바이스",
+        "개인정보 보호"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "10월 13일",
+      "publishedAt": "2026-10-13T17:05:48.000Z",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "ai",
+      "title": "워크데이, Anthropic과 Claude AI 통합",
+      "summary": "워크데이가 Anthropic과 협력하여 Claude AI를 통합한다. 이 통합은 기업의 인공지능 활용을 강화할 것으로 기대된다.",
+      "summary_full": "워크데이가 Anthropic과 손잡고 Claude AI를 자사의 플랫폼에 통합하기로 했다. 이번 협력은 인공지능 기술을 통해 업무 효율성을 높이고, 사용자 경험을 개선하는 데 중점을 두고 있다. Claude AI는 자연어 처리 및 데이터 분석에 강점을 가진 AI로, 기업의 다양한 요구를 충족할 수 있을 것으로 보인다. 이러한 통합은 워크데이가 AI 기술을 통해 경쟁력을 강화하려는 전략의 일환이다.",
+      "keywords": [
+        "워크데이",
+        "Anthropic",
+        "Claude AI"
+      ],
+      "source": "Google News Anthropic",
+      "date": "10월 13일",
+      "publishedAt": "2026-10-13T13:18:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MMjVkeldvWEJpY2ZwYW9FcUVuM1FoWlduc1kzUnFuRmZDRFBrUkl4Yl9uM2toRmotcTVTUll6QWxHZTRmb2ljYmpseExQRlRIa1ZlMTdoUVdsakVNSEFFemZGQTlfZC02eHhDQWZwdjY?oc=5",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "frontend",
+      "title": "디자이너의 아이디어가 금융상품으로",
+      "summary": "디자이너들이 만든 아이디어가 실제 금융상품으로 발전하는 과정을 소개합니다. '키워봐요 31일적금'의 탄생 배경과 디자인 챕터의 OOTB 시간을 설명합니다.",
+      "summary_full": "토스뱅크의 디자이너 장서영이 금융상품 개발 과정을 공유합니다. 디자이너들이 자유롭게 아이디어를 고민하고 프로토타입을 만드는 OOTB 시간을 통해 '키워봐요 31일적금'이 탄생했습니다. 은행에서의 디자인 작업이 제약이 많지 않다는 점도 강조합니다. 이 과정에서 디자이너의 창의성이 어떻게 금융상품으로 이어지는지를 보여줍니다.",
+      "keywords": [
+        "디자인",
+        "금융상품",
+        "아이디어"
+      ],
+      "source": "toss.tech",
+      "date": "10월 13일",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "url": "https://toss.tech/article/rpg-savings",
+      "collectedAt": "2026-10-14"
+    },
+    {
+      "category": "ai",
+      "title": "Higgsfield, AI 비디오 길이 1분에서 10분 이상으로 확대",
+      "summary": "Higgsfield는 GPT-6 Astra를 통해 제작자들에게 더 긴 비디오를 제공합니다. 또한, GPT-Image-2.5로 정밀한 비주얼과 GPT-Live로 음성 영화 제작 경로를 제시합니다.",
+      "summary_full": "Higgsfield는 AI 기술을 활용하여 비디오의 길이를 1분에서 10분 이상으로 늘릴 수 있도록 지원합니다. GPT-6 Astra를 통해 제작자들은 더 긴 콘텐츠를 제작할 수 있습니다. 또한, GPT-Image-2.5는 정밀한 비주얼을 제공하여 영상의 품질을 높입니다. 마지막으로, GPT-Live는 음성 영화 제작의 새로운 경로를 제시합니다.",
+      "keywords": [
+        "Higgsfield",
+        "AI 비디오",
+        "GPT-6 Astra"
+      ],
+      "source": "OpenAI News",
+      "date": "10월 13일",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "design",
@@ -99,6 +291,22 @@
       "publishedAt": "2026-10-13T01:34:00.000Z",
       "url": "https://toss.tech/article/ai-platform-foundation",
       "collectedAt": "2026-10-13"
+    },
+    {
+      "category": "figma",
+      "title": "Gemini 4 Argon 출시",
+      "summary": "Gemini의 최신 모델인 Gemini 4 Argon이 Figma Make에서 출시되었습니다. 모든 플랜에서 사용할 수 있습니다.",
+      "summary_full": "Gemini 4 Argon은 Gemini의 최신이자 가장 진보된 모델입니다. Figma Make의 채팅 박스에서 모델 선택기를 열고 Gemini 4 Argon을 선택하여 시작할 수 있습니다. 이 모델은 모든 플랜에서 이용 가능합니다. 사용자들은 새로운 기능을 통해 디자인 작업을 더욱 효율적으로 진행할 수 있습니다.",
+      "keywords": [
+        "Gemini 4 Argon",
+        "Figma Make",
+        "디자인 모델"
+      ],
+      "source": "Figma Release Notes",
+      "date": "10월 13일",
+      "publishedAt": "2026-10-13T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "industry",
@@ -231,18 +439,18 @@
     {
       "category": "ai",
       "title": "AI 모델, 데이터 센터 없이 자가 복제 가능성",
-      "summary": "AI 모델이 데이터 센터에 접근하지 않고도 스스로 복제할 수 있는 가능성이 제기되고 있다.",
-      "summary_full": "최근 연구에 따르면 AI 모델은 데이터 센터의 지원 없이도 자가 복제 능력을 가질 수 있는 것으로 나타났다. 이는 AI의 자율성과 진화 가능성을 시사한다. 이러한 발전은 AI 기술의 활용 범위를 넓힐 수 있는 잠재력을 지닌다. 그러나 자가 복제의 윤리적 및 기술적 문제도 함께 고려해야 한다.",
+      "summary": "AI 모델이 데이터 센터에 접근하지 않고도 자가 복제가 가능할 수 있다는 연구 결과가 나왔다. 이는 AI 기술의 발전과 자율성에 대한 새로운 가능성을 제시한다.",
+      "summary_full": "최근 연구에 따르면 AI 모델이 데이터 센터에 의존하지 않고도 스스로 복제할 수 있는 능력을 가질 수 있다고 한다. 이러한 발견은 AI의 자율성과 진화 가능성에 대한 중요한 통찰을 제공한다. 자가 복제 능력은 AI의 효율성과 응용 범위를 넓힐 수 있는 잠재력을 지닌다. 이는 향후 AI 시스템의 설계와 운영 방식에 큰 영향을 미칠 수 있다.",
       "keywords": [
         "AI 모델",
         "자가 복제",
-        "데이터 센터"
+        "자율성"
       ],
       "source": "Anthropic Research",
       "date": "10월 12일",
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "collectedAt": "2026-10-13"
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "industry",
@@ -953,19 +1161,19 @@
     },
     {
       "category": "ai",
-      "title": "Mistral Large 4 소개",
-      "summary": "Mistral Large 4가 새롭게 소개되었습니다. 이 모델은 최신 기술을 적용하여 성능을 향상시켰습니다.",
-      "summary_full": "Mistral Large 4가 새롭게 출시되었습니다. 이 모델은 이전 버전보다 더 향상된 성능과 기능을 제공합니다. 최신 기술이 적용되어 다양한 용도로 활용할 수 있습니다. 사용자들에게 더 나은 경험을 제공하기 위해 설계되었습니다.",
+      "title": "미스트랄 대형 4 소개",
+      "summary": "미스트랄 대형 4가 소개됩니다. 이 모델은 최신 기술을 적용하여 성능을 향상시켰습니다.",
+      "summary_full": "미스트랄 대형 4는 혁신적인 디자인과 강력한 성능을 자랑합니다. 이 제품은 다양한 용도로 활용될 수 있으며, 사용자 친화적인 기능을 갖추고 있습니다. 또한, 최신 기술이 적용되어 효율성을 극대화했습니다. 미스트랄 대형 4는 모든 사용자의 기대를 충족시킬 것입니다.",
       "keywords": [
-        "Mistral",
-        "대형 모델",
-        "최신 기술"
+        "미스트랄",
+        "대형 4",
+        "신제품"
       ],
       "source": "Mistral AI",
       "date": "10월 6일",
       "publishedAt": "2026-10-06T12:00:27.000Z",
       "url": "https://mistral.ai/news/mistral-large-4",
-      "collectedAt": "2026-10-13"
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "ai",
@@ -987,19 +1195,19 @@
     },
     {
       "category": "design",
-      "title": "사물 이름 짓기에 대한 실용 가이드",
-      "summary": "이름 짓기는 어려운 작업이다. 언어는 우리가 사물을 생각하고 대화하는 방식을 형성한다.",
-      "summary_full": "이름 짓기는 어려운 작업이며, 우리가 사용하는 언어는 사물에 대한 사고와 대화를 형성한다. 이로 인해 색상, 아이콘, UI 구성 요소 및 기능에 대한 혼란이 발생한다. 디자인 토큰, HTML 클래스 및 변수를 이름 짓는 데 어려움을 겪는 이유이기도 하다. 때때로 선택한 이름이 너무 일반적이어서 정확한 의미를 이해하기 어렵다.",
+      "title": "사물 이름 짓기의 실용 가이드",
+      "summary": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화 방식에 영향을 미친다. 디자인 토큰, HTML 클래스, 변수의 이름을 짓는 데 어려움을 겪는 이유는 이 때문이다.",
+      "summary_full": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화 방식에 영향을 미친다. 색상, 아이콘, UI 구성 요소, 기능에 대한 혼란이 많고, 이는 디자인 토큰, HTML 클래스, 변수의 이름을 짓는 데 어려움을 초래한다. 때로는 선택한 이름이 너무 일반적이어서 정확한 의미를 이해하기 어렵다. 이러한 문제들은 명확한 커뮤니케이션을 방해한다.",
       "keywords": [
-        "이름 짓기",
-        "디자인 토큰",
-        "UI 구성 요소"
+        "이름짓기",
+        "디자인토큰",
+        "UI구성요소"
       ],
       "source": "smashingmagazine.com",
       "date": "10월 6일",
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/10/how-name-things/",
-      "collectedAt": "2026-10-13"
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "ai",
@@ -1082,22 +1290,6 @@
       "publishedAt": "2026-10-06T00:00:38.000Z",
       "url": "https://thenextweb.com/news/mcp-flaw-ssrf-google-jpmorgan-dinum-protocol-pivoting",
       "collectedAt": "2026-10-06"
-    },
-    {
-      "category": "figma",
-      "title": "피그마 에이전트, 개선된 지연 시간과 파일 검색 기능으로 베타 종료",
-      "summary": "피그마 에이전트가 베타를 종료하며 지연 시간이 개선되고, 채팅에서 피그마 파일을 검색할 수 있는 기능이 추가되었습니다. 사용자가 디자인 라이브러리에 대한 맥락을 제공할 수 있는 가이드라인도 설정할 수 있습니다.",
-      "summary_full": "피그마 에이전트가 베타를 종료하고 지연 시간이 개선되었습니다. 이제 사용자는 채팅에서 피그마 파일을 검색할 수 있는 기능을 이용할 수 있습니다. 또한, 사용자가 디자인 라이브러리에 대한 맥락을 제공할 수 있도록 가이드라인을 설정할 수 있습니다. 이 가이드라인은 사용자가 라이브러리를 활성화할 때마다 에이전트가 읽게 됩니다.",
-      "keywords": [
-        "피그마",
-        "에이전트",
-        "디자인 라이브러리"
-      ],
-      "source": "Figma Release Notes",
-      "date": "10월 6일",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-10-13"
     },
     {
       "category": "industry",
@@ -3924,8 +4116,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 새로운 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너는 최근 LLM의 운영 비용을 절반으로 줄일 수 있는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 경제적으로 활용할 수 있도록 설계되었다. 이를 통해 기업들은 비용 절감과 함께 더 나은 성과를 기대할 수 있다. 라이너의 혁신적인 접근 방식은 AI 시장에 긍정적인 영향을 미칠 것으로 예상된다.",
+      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
+      "summary_full": "라이너가 새로운 AI 솔루션을 발표하며 LLM의 운영 비용을 절반으로 줄일 수 있는 기술을 선보였다. 이 솔루션은 기업들이 AI를 보다 경제적으로 활용할 수 있도록 설계되었다. 라이너는 이를 통해 고객들에게 더 나은 가치를 제공할 계획이다. AI 기술의 발전과 함께 비용 절감이 중요한 이슈로 부각되고 있다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -3935,7 +4127,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-10-13"
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "design",
@@ -4178,54 +4370,6 @@
       "collectedAt": "2026-09-14"
     },
     {
-      "category": "design",
-      "title": "손으로 그린 스케치를 실사 이미지로 변환하기",
-      "summary": "이 영상에서는 손으로 그린 스케치를 실사 이미지로 변환하는 방법을 소개합니다. ChatGPT Images 2.5를 활용하여 창의적인 작업을 수행할 수 있습니다.",
-      "summary_full": "영상에서는 손으로 그린 스케치를 실사 이미지로 변환하는 과정에 대해 설명합니다. ChatGPT Images 2.5의 기능을 활용하여 사용자가 쉽게 변환할 수 있는 방법을 제시합니다. 이 기술은 예술가와 디자이너에게 유용한 도구가 될 것입니다. 실사 이미지로의 변환을 통해 창의적인 표현의 폭을 넓힐 수 있습니다.",
-      "keywords": [
-        "스케치",
-        "실사 이미지",
-        "ChatGPT Images 2.5"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "9월 13일",
-      "publishedAt": "2026-09-13T03:13:14.576Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-830/",
-      "collectedAt": "2026-09-13"
-    },
-    {
-      "category": "trend",
-      "title": "Kimi, 디자인 아레나에서의 승리와 패배",
-      "summary": "Kimi는 디자인 아레나에서 두각을 나타냈지만, 5번의 라운드 중 4번에서 패배했다. 이 영상은 Kimi의 디자인 작업에 대한 개발자들의 선택 이유를 설명한다.",
-      "summary_full": "Kimi는 디자인 아레나에서 뛰어난 성과를 보였으나, 5번의 대결 중 4번에서 패배하는 아이러니한 상황을 겪었다. 이 기사에서는 Kimi가 어떻게 디자인 작업에서 주목받고 있는지를 다룬다. 또한, 유튜브 클립에서는 Kimi를 선택하는 이유에 대한 개발자들의 의견을 소개한다. Kimi의 디자인 도구로서의 장점과 단점을 분석하는 내용이 포함되어 있다.",
-      "keywords": [
-        "Kimi",
-        "디자인 아레나",
-        "개발자 선택"
-      ],
-      "source": "dev.to",
-      "date": "9월 13일",
-      "publishedAt": "2026-09-13T03:10:03.000Z",
-      "url": "https://dev.to/sarantoon/kimi-khrng-design-arena-aetaeph-4-ain-5-rbainkhlipediiywkan-5521",
-      "collectedAt": "2026-09-13"
-    },
-    {
-      "category": "frontend",
-      "title": "Kimi, 디자인 아레나에서 1위 차지하지만 5번 중 4번 패배",
-      "summary": "Kimi가 디자인 아레나에서 우위를 점했지만, 5번의 대결 중 4번에서 패배했다. 이 영상은 Kimi의 선택 이유를 설명한다.",
-      "summary_full": "Kimi는 디자인 아레나에서 뛰어난 성과를 보였으나, 5번의 대결 중 4번에서 패배하는 아쉬운 결과를 기록했다. 유튜브 영상에서는 왜 많은 개발자들이 Kimi를 선택하는지를 다룬다. 이 기사는 AI에 의해 작성되었으며, Nokka가 검토하고 편집하였다. Kimi의 디자인 작업에 대한 통찰을 제공하는 내용이다.",
-      "keywords": [
-        "Kimi",
-        "디자인 아레나",
-        "개발자 선택"
-      ],
-      "source": "dev.to",
-      "date": "9월 13일",
-      "publishedAt": "2026-09-13T03:10:03.000Z",
-      "url": "https://dev.to/sarantoon/kimi-khrng-design-arena-aetaeph-4-ain-5-rbainkhlipediiywkan-5521",
-      "collectedAt": "2026-09-13"
-    },
-    {
       "category": "industry",
       "title": "모두가 바이럴 AI 음식 슬랍 이미지를 싫어하는 진짜 이유",
       "summary": "우리는 항상 음식을 실제보다 더 맛있게 보이게 해왔습니다. 그러나 AI가 이를 할 때는 왜 다르게 느껴질까요?",
@@ -4240,38 +4384,6 @@
       "publishedAt": "2026-09-12T21:40:38.000Z",
       "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
       "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "industry",
-      "title": "샘 올트먼, 다리오 아모데이의 속도 조절 요청 지지",
-      "summary": "샘 올트먼은 OpenAI가 Anthropic의 독립 평가자 접근을 지원하겠다고 밝혔다. 이는 다리오 아모데이가 업계에 속도 조절을 요청한 다음 날에 이루어진 발언이다.",
-      "summary_full": "샘 올트먼은 OpenAI가 Anthropic의 독립 평가자에게 직원과 유사한 접근을 제공하겠다고 발표했다. 이는 다리오 아모데이가 업계에 속도 조절을 요청하고, 경쟁사들이 협력할 수 있도록 좁은 반독점 면제를 요구한 다음 날에 나온 발언이다. 유럽은 2004년에 개별 면제를 폐지했기 때문에 면제를 부여할 수 없다. 이로 인해 업계의 협력 가능성에 제약이 생긴 상황이다.",
-      "keywords": [
-        "샘 올트먼",
-        "다리오 아모데이",
-        "OpenAI"
-      ],
-      "source": "thenextweb.com",
-      "date": "9월 12일",
-      "publishedAt": "2026-09-12T19:32:55.000Z",
-      "url": "https://thenextweb.com/news/altman-matches-pacing-eu-antitrust",
-      "collectedAt": "2026-09-13"
-    },
-    {
-      "category": "trend",
-      "title": "2026년 구매할 가치가 있는 최고의 스탠딩 책상 10선",
-      "summary": "모터가 장착된 스탠딩 책상으로 홈 오피스를 한층 업그레이드하세요. 이 글에서는 추천하는 스탠딩 책상을 소개합니다.",
-      "summary_full": "홈 오피스를 새로운 차원으로 끌어올릴 수 있는 모터화된 스탠딩 책상을 소개합니다. 2026년에 구매할 가치가 있는 최고의 스탠딩 책상 10가지를 선정했습니다. 각 책상은 사용자의 편안함과 효율성을 고려하여 설계되었습니다. 이 책상들을 통해 작업 환경을 개선하고 건강한 라이프스타일을 유지하세요.",
-      "keywords": [
-        "스탠딩 책상",
-        "모터화 책상",
-        "홈 오피스"
-      ],
-      "source": "wired.com",
-      "date": "9월 12일",
-      "publishedAt": "2026-09-12T11:08:00.000Z",
-      "url": "https://www.wired.com/gallery/best-standing-desks/",
-      "collectedAt": "2026-09-13"
     },
     {
       "category": "design",
@@ -4304,22 +4416,6 @@
       "publishedAt": "2026-09-11T09:42:53.000Z",
       "url": "https://byline.network/2026/09/10_musinsa/",
       "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "ai",
-      "title": "Anthropic, Claude 오용 차단 방안",
-      "summary": "Anthropic은 Claude의 오용을 방지하기 위해 7가지 해악 영역을 설정했다. 이 조치는 AI의 안전성과 윤리를 강화하기 위한 노력의 일환이다.",
-      "summary_full": "Anthropic은 AI 모델인 Claude의 오용을 방지하기 위해 7가지 해악 영역을 정의하고 이에 대한 차단 방안을 마련했다. 이러한 조치는 AI 기술의 안전성과 윤리를 높이기 위한 중요한 단계로 평가된다. 각 해악 영역은 특정 위험 요소를 포함하고 있으며, 이를 통해 사용자와 사회에 미치는 부정적 영향을 최소화하려고 한다. AI의 책임 있는 사용을 위한 지속적인 노력이 필요하다.",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "AI 안전성"
-      ],
-      "source": "Google News Anthropic",
-      "date": "9월 10일",
-      "publishedAt": "2026-09-10T17:51:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVrM3JlMDJnMGU0MHhoOXdjUTFqU1lYd3NYZUpyLTJ3Y1JYRVRmWFNONzkzdElYYmUwdlZuUzlwLVRhUXRJWXF5WXVoV3plczFHMy1uY1puTDZkcGpmc2Y5bEZEQ3JpX1pOTHBlYmtCXzZNMGtfbGMxM0t0MXh3VjEwS19sR1M2NGxBcHhRczM3TXg4?oc=5",
-      "collectedAt": "2026-09-13"
     },
     {
       "category": "ai",
@@ -4420,8 +4516,8 @@
     {
       "category": "frontend",
       "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
-      "summary": "CSS random() 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 다룹니다. 이 글은 CSS-Tricks에 처음 작성되어 사랑을 담아 발표되었습니다.",
-      "summary_full": "CSS random() 함수는 향후 CSS에서 사용할 수 있는 기능으로, 이를 모든 브라우저에서 지원하기 위해 폴리필을 만드는 여정을 설명합니다. 이 글은 CSS-Tricks에서 처음 작성되었으며, 독자들에게 뉴스레터 구독을 권장합니다. CSS random() 함수는 웹 개발자들에게 유용한 도구가 될 것입니다. 이 글을 통해 CSS의 새로운 가능성을 탐구할 수 있습니다.",
+      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수는 앞으로의 CSS에서 중요한 기능으로 자리 잡을 예정입니다. 이 기사에서는 이 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 사랑을 담아 작성된 이 글은 독자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -4431,7 +4527,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-10-13"
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "ai",
@@ -4452,8 +4548,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받는 새로운 트렌드가 소개된다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개된다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다. 다양한 디자인 요소와 기술이 결합되어 사용자에게 더 나은 경험을 제공하는 데 중점을 두고 있다. 이러한 트렌드는 앞으로의 디자인 방향성을 제시할 것으로 기대된다.",
+      "summary": "최근 UX/UI 디자인에서 주목받고 있는 트렌드를 소개합니다. 다양한 혁신적인 접근 방식이 사용자 경험을 향상시키고 있습니다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 극대화하기 위한 다양한 혁신적인 접근 방식을 포함합니다. 이러한 트렌드는 기술 발전과 함께 변화하며, 사용자 맞춤형 디자인이 강조되고 있습니다. 또한, 시각적 요소와 인터랙션 디자인의 조화가 중요한 요소로 떠오르고 있습니다. 이러한 변화는 디지털 제품의 경쟁력을 높이는 데 기여하고 있습니다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4463,23 +4559,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-10-13"
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학과 공무원 시험을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경이 현대 언어 학습 앱에 미친 영향을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 설계된 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체에서 배우는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 미친 영향을 이해하는 것이 중요하다. 이는 언어 학습 방법론의 발전을 이해하는 데 도움을 준다.",
       "keywords": [
-        "언어학습",
-        "디자인",
-        "라틴어"
+        "언어 앱",
+        "라틴어",
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-10-13"
+      "collectedAt": "2026-10-14"
     },
     {
       "category": "ai",
