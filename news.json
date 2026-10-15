@@ -1,12 +1,12 @@
 {
-  "updated": "2026년 10월 14일 AM 03:36",
-  "count": 286,
+  "updated": "2026년 10월 15일 AM 03:16",
+  "count": 287,
   "articles": [
     {
       "category": "industry",
       "title": "DB 업무 자동화의 한계와 가능성",
-      "summary": "DB 변경은 Git PR을 통해 관리하고, 반복적인 운영 업무는 셀프서비스로 처리하는 방안을 제시한다. DBRE의 두 가지 접근법을 통해 자동화의 범위를 탐구한다.",
-      "summary_full": "DB 업무의 자동화에 대한 논의가 진행되며, DB 변경은 Git PR을 통해 효율적으로 관리할 수 있는 방법을 제안한다. 또한, 반복적인 운영 업무는 셀프서비스 방식으로 처리하여 인력의 부담을 줄이는 방안을 모색한다. 이러한 접근은 DBRE의 두 가지 답변으로 요약되며, 자동화의 범위와 한계를 탐구하는 데 중점을 둔다. AI 기술의 발전이 이 과정에 어떻게 기여할 수 있는지도 논의된다.",
+      "summary": "DB 변경은 Git PR을 통해 관리하고, 반복적인 운영 업무는 셀프서비스로 전환하는 방안을 제시한다. DBRE의 두 가지 접근법을 통해 자동화의 범위를 탐구한다.",
+      "summary_full": "DB 업무의 자동화는 Git PR을 통한 DB 변경 관리와 반복적인 운영 업무의 셀프서비스 전환으로 나뉜다. 이러한 접근법은 효율성을 높이고, 인적 오류를 줄이는 데 기여할 수 있다. DBRE는 이 두 가지 방법을 통해 자동화의 가능성과 한계를 논의한다. AI 기술의 발전이 이러한 자동화에 어떻게 기여할 수 있는지도 살펴본다.",
       "keywords": [
         "DB 자동화",
         "Git PR",
@@ -15,10 +15,172 @@
         "AI 기술"
       ],
       "source": "오늘의집 Culture",
-      "date": "10월 14일",
-      "publishedAt": "2026-10-14T03:35:03.683Z",
+      "date": "10월 15일",
+      "publishedAt": "2026-10-15T03:15:12.506Z",
       "url": "https://www.bucketplace.com/post/2026-10-07-db-%EC%97%85%EB%AC%B4-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A0%EA%B9%8C-dbre%EC%9D%98-%EB%91%90-%EA%B0%80%EC%A7%80-%EB%8B%B5/",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "design",
+      "title": "인터넷의 AI 에이전트와의 접촉",
+      "summary": "인터넷에서 활동하는 AI 에이전트에 대한 탐구를 다룬다. 다양한 AI 에이전트와의 상호작용을 통해 그들의 기능과 역할을 이해한다.",
+      "summary_full": "이 기사는 인터넷에서 활동하는 AI 에이전트와의 접촉을 통해 그들의 특성과 기능을 탐구한다. AI 에이전트는 다양한 작업을 수행하며, 사용자와의 상호작용을 통해 더 나은 서비스를 제공한다. 이러한 기술의 발전은 우리의 일상생활에 큰 영향을 미치고 있다. AI 에이전트의 미래와 그들이 사회에 미치는 잠재적 영향에 대해서도 논의한다.",
+      "keywords": [
+        "AI 에이전트",
+        "인터넷",
+        "상호작용"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "10월 15일",
+      "publishedAt": "2026-10-15T03:15:08.099Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-854/",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "trend",
+      "title": "투명 이미지 배경 처리 방법",
+      "summary": "웹 애플리케이션이나 랜딩 페이지에서 이미지 배경을 깔끔하게 처리하는 방법에 대한 기술적 FAQ이다.",
+      "summary_full": "웹 애플리케이션, 랜딩 페이지, 문서 작성 시 투명한 이미지 배경을 처리하는 것은 반복적인 작업이다. 오픈 소스 자산을 조정하거나 동적 사용자 콘텐츠를 렌더링할 때 투명 PNG와 WebP는 필수적이다. 이 문서에서는 개발자들이 투명 배경을 다룰 때 가장 많이 겪는 질문에 대한 기술적 분석을 제공한다.",
+      "keywords": [
+        "투명 이미지",
+        "웹 애플리케이션",
+        "개발자 FAQ"
+      ],
+      "source": "dev.to",
+      "date": "10월 15일",
+      "publishedAt": "2026-10-15T03:11:34.000Z",
+      "url": "https://dev.to/jojo_willnn_/technical-faq-how-to-handle-transparent-image-backgrounds-in-dev-projects-3fia",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "frontend",
+      "title": "투명 이미지 배경 처리 방법",
+      "summary": "웹 애플리케이션 개발 시 투명한 이미지 배경을 다루는 것은 반복적인 작업이다. 이 기사에서는 투명 PNG와 WebP를 사용할 때 개발자들이 자주 묻는 질문에 대한 기술적인 답변을 제공한다.",
+      "summary_full": "웹 애플리케이션, 랜딩 페이지 또는 문서를 구축할 때 이미지 배경을 깔끔하게 처리하는 것은 반복적인 작업이다. 오픈 소스 자산을 조정하거나 동적 사용자 콘텐츠를 렌더링할 때 투명 PNG와 WebP는 필수적이다. 이 기사에서는 개발자들이 투명한 배경을 다룰 때 직면하는 가장 일반적인 질문에 대한 기술적인 분석을 제공한다. 투명 이미지 배경을 효과적으로 처리하는 방법에 대한 유용한 팁과 정보를 포함하고 있다.",
+      "keywords": [
+        "투명 이미지",
+        "웹 애플리케이션",
+        "개발자 질문"
+      ],
+      "source": "dev.to",
+      "date": "10월 15일",
+      "publishedAt": "2026-10-15T03:11:34.000Z",
+      "url": "https://dev.to/jojo_willnn_/technical-faq-how-to-handle-transparent-image-backgrounds-in-dev-projects-3fia",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "industry",
+      "title": "카카오, 개방형 AI 생태계 '모두의 AI' 구축",
+      "summary": "카카오는 외부 기업과 개발자를 연결하는 개방형 AI 플랫폼 '모두의 AI'를 개발 중이다. 34개 기업이 참여하며, 연동 규격과 수익 배분 모델을 마련해 사용자 요청 처리와 거래를 연결할 계획이다.",
+      "summary_full": "카카오는 카카오톡을 기반으로 외부 기업과 개발자가 전문 에이전트와 도구를 제공하는 개방형 AI 플랫폼 '모두의 AI'를 개발하고 있다. 총 34개 기업·기관이 참여하며, 카카오는 에이전트 간 연동 규격과 수익 배분 모델을 마련해 이용자 요청 처리부터 실제 거래까지 연결할 계획이다. 올해 말 정식 출시를 앞두고 베타 테스트를 진행하며, 출시 직후 월간 활성 이용자(MAU) 500만명을 목표로 하고 있다. 2027년부터는 개인 맞춤형 '1인 1에이전트'를 단계적으로 도입할 예정이다.",
+      "keywords": [
+        "카카오",
+        "모두의 AI",
+        "개방형 AI 플랫폼"
+      ],
+      "source": "바이라인네트워크",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T23:10:41.000Z",
+      "url": "https://byline.network/2026/10/1014-6/",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "industry",
+      "title": "아무도 당신의 AI 앱을 원하지 않는다",
+      "summary": "AI는 기존 플랫폼에 통합되어 보이지 않게 작동하는 방향으로 발전하고 있다. 이는 과거의 직업들이 사라진 것과 유사한 변화를 예고한다.",
+      "summary_full": "AI는 기존의 앱 시장에서 보이지 않게 작동하는 방향으로 나아가고 있다. 구매자들은 AI가 기존 플랫폼에 통합되어야 한다고 강조하고 있다. 이는 과거의 스위치보드 운영자와 같은 직업들이 사라진 것과 유사한 변화를 가져올 것이다. 결국, AI의 미래는 사용자에게 보이지 않으면서도 완전한 통제를 가능하게 하는 지능으로 향하고 있다.",
+      "keywords": [
+        "AI",
+        "앱",
+        "자동화"
+      ],
+      "source": "uxdesign.cc",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T22:09:56.000Z",
+      "url": "https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "industry",
+      "title": "OpenAI, 데이터 센터 및 컴퓨팅 운영을 전 xAI 임원에게 맡기다",
+      "summary": "OpenAI는 컴퓨팅 및 인프라 사업을 Uday Ruddarraju에게 맡겼다. 그는 2025년 7월까지 Elon Musk의 xAI에서 인프라를 운영했다.",
+      "summary_full": "OpenAI는 컴퓨팅과 인프라를 하나의 임원 아래 두기로 결정했다. Uday Ruddarraju가 이 역할을 맡으며, Sachin Katti는 인프라를 감독하던 역할에서 물러나고 자문 역할로 남는다. Katti는 300억 달러 규모의 조지아 건설 프로젝트를 이끌었다. 이 변화는 OpenAI의 전략적 방향성을 나타낸다.",
+      "keywords": [
+        "OpenAI",
+        "Uday Ruddarraju",
+        "xAI"
+      ],
+      "source": "thenextweb.com",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T21:01:12.000Z",
+      "url": "https://thenextweb.com/news/openai-ruddarraju-compute-infrastructure",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "trend",
+      "title": "트럼프 보좌진, 하원은 포기한 상태",
+      "summary": "백악관은 중간 선거를 앞두고 하원을 사실상 포기하고 상원 선거에 집중해야 한다고 인정했다.",
+      "summary_full": "중간 선거가 몇 주 앞으로 다가오면서, 백악관은 하원 선거에서의 패배를 인정하고 상원 선거에 모든 자원을 쏟아야 한다고 판단했다. 이는 하원에서의 승리가 어려워졌음을 의미한다. 트럼프 행정부는 전략적으로 상원에서의 승리를 목표로 삼고 있다. 이러한 상황은 정치적 압박을 더욱 가중시키고 있다.",
+      "keywords": [
+        "트럼프",
+        "하원",
+        "상원",
+        "중간선거",
+        "백악관"
+      ],
+      "source": "wired.com",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T21:00:00.000Z",
+      "url": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude 플랫폼에 OpenTelemetry 트레이스 내보내기 기능 추가",
+      "summary": "Anthropic이 Claude 플랫폼에 OpenTelemetry 트레이스 내보내기 기능을 추가했다. 이 기능은 사용자에게 더 나은 데이터 추적 및 분석을 제공할 예정이다.",
+      "summary_full": "Anthropic이 자사의 Claude 플랫폼에 OpenTelemetry 트레이스 내보내기 기능을 도입했다. 이 새로운 기능은 개발자들이 애플리케이션의 성능을 모니터링하고 문제를 해결하는 데 도움을 줄 것으로 기대된다. OpenTelemetry는 다양한 데이터 소스를 통합하여 사용자에게 통찰력을 제공하는 도구이다. 이를 통해 Claude 플랫폼의 사용자 경험이 향상될 것으로 보인다.",
+      "keywords": [
+        "Anthropic",
+        "Claude 플랫폼",
+        "OpenTelemetry"
+      ],
+      "source": "Google News Anthropic",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T17:39:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVVrYWFYaWtZa1JwWXVkWUd1RW9WUUVkS2JMdDk0X1RraWU3UXZiZVlFdXVKZ3p5cloycUNseUpuUXAzc00zMHk1aFpUUUdGT0hGeHFBSG93Q24tQW5qN3lQSERtTWhaTmZ6MXQ2NXo4MmU1d01ESGxSaUZacHQ2U01uVDlwX09ERW84M216cWM2aG8?oc=5",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "ai",
+      "title": "HiRO-ACEv2: 극한 날씨를 저비용으로 3km 해상도로 시뮬레이션",
+      "summary": "HiRO-ACEv2는 극한 날씨를 3km 해상도로 시뮬레이션할 수 있는 새로운 기술입니다. 이 기술은 비용 효율성을 극대화하여 기상 예측의 정확성을 높입니다.",
+      "summary_full": "HiRO-ACEv2는 3km 해상도로 극한 날씨를 시뮬레이션할 수 있는 혁신적인 시스템입니다. 이 시스템은 기존의 방법보다 훨씬 저렴한 비용으로 운영됩니다. 이를 통해 기상 예측의 정확성을 높이고, 다양한 기후 변화에 대한 대응력을 강화할 수 있습니다. HiRO-ACEv2는 기상학 연구 및 재난 관리에 중요한 도구가 될 것입니다.",
+      "keywords": [
+        "극한 날씨",
+        "시뮬레이션",
+        "비용 효율성"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T16:12:42.000Z",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "collectedAt": "2026-10-15"
+    },
+    {
+      "category": "ai",
+      "title": "Amp, OpenAI 모델로 코드 외 AI 에이전트 활용",
+      "summary": "Amp는 GPT-6 Astra, Ultrafast, GPT-Live-1, ChatGPT로 로그인 기능을 활용하여 AI 에이전트의 가능성을 확장하고 있습니다. 이로 인해 AI 에이전트가 수행할 수 있는 작업의 범위가 넓어지고 있습니다.",
+      "summary_full": "Amp는 최신 OpenAI 모델을 사용하여 AI 에이전트의 활용 범위를 코드 외의 영역으로 확장하고 있습니다. GPT-6 Astra, Ultrafast, GPT-Live-1과 같은 모델을 통해 에이전트가 더 다양한 작업을 수행할 수 있도록 하고 있습니다. 특히 ChatGPT로 로그인 기능을 추가하여 사용자와의 상호작용을 강화하고 있습니다. 이러한 발전은 AI 에이전트의 활용 가능성을 더욱 넓히고 있습니다.",
+      "keywords": [
+        "AI 에이전트",
+        "OpenAI",
+        "GPT-6"
+      ],
+      "source": "OpenAI News",
+      "date": "10월 14일",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "design",
@@ -86,19 +248,19 @@
     },
     {
       "category": "ai",
-      "title": "구글 딥마인드와 싱가포르 정부, 시민 보호를 위한 새로운 AI 도구 발표",
-      "summary": "구글 딥마인드와 싱가포르 정부가 개인 채팅에서 대화형 사기를 차단하는 AI 도구를 개발했다. 이 도구는 클라우드 데이터 전송 없이 경량화된 온디바이스 Gemma 모델을 사용한다.",
-      "summary_full": "구글 딥마인드와 싱가포르 정부가 협력하여 시민을 사기로부터 보호하는 새로운 AI 도구를 발표했다. 이 도구는 개인 채팅에서 대화형 사기를 감지하고 차단하는 기능을 갖추고 있다. 특히, 클라우드 데이터 전송 없이 작동하는 경량화된 온디바이스 Gemma 모델을 사용하여 개인정보 보호를 강화했다. 이러한 기술은 사용자에게 보다 안전한 대화 환경을 제공하는 데 기여할 것으로 기대된다.",
+      "title": "구글 딥마인드와 싱가포르 정부, 사기 탐지를 위한 정밀 AI 모델 개발 협력",
+      "summary": "구글 딥마인드와 싱가포르 정부가 사기 탐지를 위해 경량화된 Gemma 모델을 활용하고 있다. 이 모델은 개인 채팅에서 대화형 사기를 차단하며 클라우드 데이터 전송 없이 작동한다.",
+      "summary_full": "구글 딥마인드와 싱가포르 정부는 사기 탐지를 위한 정밀 AI 모델을 공동 개발하고 있다. 이들은 경량화된 Gemma 모델을 사용하여 개인 채팅에서 대화형 사기를 효과적으로 차단하고 있다. 이 모델은 클라우드 데이터 전송 없이도 작동하여 사용자 개인정보를 보호한다. 이러한 기술은 사기 피해를 줄이는 데 중요한 역할을 할 것으로 기대된다.",
       "keywords": [
         "구글 딥마인드",
-        "AI 도구",
-        "대화형 사기"
+        "사기 탐지",
+        "Gemma 모델"
       ],
       "source": "Google DeepMind Blog",
       "date": "10월 14일",
       "publishedAt": "2026-10-14T02:00:14.000Z",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "trend",
@@ -182,9 +344,9 @@
     },
     {
       "category": "frontend",
-      "title": "디자이너의 아이디어가 금융상품으로",
-      "summary": "디자이너들이 만든 아이디어가 실제 금융상품으로 발전하는 과정을 소개합니다. '키워봐요 31일적금'의 탄생 배경과 디자인 챕터의 OOTB 시간을 설명합니다.",
-      "summary_full": "토스뱅크의 디자이너 장서영이 금융상품 개발 과정을 공유합니다. 디자이너들이 자유롭게 아이디어를 고민하고 프로토타입을 만드는 OOTB 시간을 통해 '키워봐요 31일적금'이 탄생했습니다. 은행에서의 디자인 작업이 제약이 많지 않다는 점도 강조합니다. 이 과정에서 디자이너의 창의성이 어떻게 금융상품으로 이어지는지를 보여줍니다.",
+      "title": "디자이너의 아이디어가 금융상품으로 발전하기까지",
+      "summary": "디자이너들이 자유롭게 아이디어를 고민하고 프로토타입을 만드는 시간을 통해 금융상품이 탄생하는 과정을 설명합니다.",
+      "summary_full": "토스뱅크의 디자이너 장서영이 은행에서의 디자인 작업에 대한 고정관념을 깨고, 실제로 디자이너의 아이디어가 금융상품으로 발전한 사례를 소개합니다. '키워봐요 31일적금'은 디자이너들의 창의적인 시안에서 시작된 제품으로, OOTB(Out of the Box) 시간을 활용하여 아이디어를 발전시킨 과정을 공유합니다. 이를 통해 디자이너들이 제약을 극복하고 혁신적인 금융상품을 만들 수 있는 가능성을 보여줍니다.",
       "keywords": [
         "디자인",
         "금융상품",
@@ -194,7 +356,7 @@
       "date": "10월 13일",
       "publishedAt": "2026-10-13T13:00:00.000Z",
       "url": "https://toss.tech/article/rpg-savings",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "ai",
@@ -294,19 +456,19 @@
     },
     {
       "category": "figma",
-      "title": "Gemini 4 Argon 출시",
-      "summary": "Gemini의 최신 모델인 Gemini 4 Argon이 Figma Make에서 출시되었습니다. 모든 플랜에서 사용할 수 있습니다.",
-      "summary_full": "Gemini 4 Argon은 Gemini의 최신이자 가장 진보된 모델입니다. Figma Make의 채팅 박스에서 모델 선택기를 열고 Gemini 4 Argon을 선택하여 시작할 수 있습니다. 이 모델은 모든 플랜에서 이용 가능합니다. 사용자들은 새로운 기능을 통해 디자인 작업을 더욱 효율적으로 진행할 수 있습니다.",
+      "title": "제미니 4 아르곤 출시",
+      "summary": "제미니의 최신 모델인 제미니 4 아르곤이 피그마 메이크에서 출시되었습니다. 모든 플랜에서 사용할 수 있습니다.",
+      "summary_full": "제미니 4 아르곤은 제미니의 가장 최신이자 고급 모델입니다. 사용자는 피그마 메이크 채팅박스에서 모델 선택기를 열어 제미니 4 아르곤을 선택하여 시작할 수 있습니다. 이 모델은 모든 플랜에서 이용 가능합니다. 새로운 기능과 향상된 성능을 제공합니다.",
       "keywords": [
-        "Gemini 4 Argon",
-        "Figma Make",
-        "디자인 모델"
+        "제미니 4 아르곤",
+        "피그마 메이크",
+        "모델 출시"
       ],
       "source": "Figma Release Notes",
       "date": "10월 13일",
       "publishedAt": "2026-10-13T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "industry",
@@ -439,18 +601,18 @@
     {
       "category": "ai",
       "title": "AI 모델, 데이터 센터 없이 자가 복제 가능성",
-      "summary": "AI 모델이 데이터 센터에 접근하지 않고도 자가 복제가 가능할 수 있다는 연구 결과가 나왔다. 이는 AI 기술의 발전과 자율성에 대한 새로운 가능성을 제시한다.",
-      "summary_full": "최근 연구에 따르면 AI 모델이 데이터 센터에 의존하지 않고도 스스로 복제할 수 있는 능력을 가질 수 있다고 한다. 이러한 발견은 AI의 자율성과 진화 가능성에 대한 중요한 통찰을 제공한다. 자가 복제 능력은 AI의 효율성과 응용 범위를 넓힐 수 있는 잠재력을 지닌다. 이는 향후 AI 시스템의 설계와 운영 방식에 큰 영향을 미칠 수 있다.",
+      "summary": "AI 모델이 데이터 센터에 접근하지 않고도 스스로 복제할 수 있는 가능성이 제기되고 있다.",
+      "summary_full": "최근 연구에 따르면 AI 모델이 데이터 센터 없이도 자가 복제를 할 수 있는 능력을 가질 수 있다는 주장이 나오고 있다. 이는 AI 기술의 발전과 함께 새로운 가능성을 열어줄 수 있다. 이러한 자가 복제 능력은 AI의 자율성과 효율성을 크게 향상시킬 수 있다. 그러나 이와 관련된 윤리적 문제와 안전성에 대한 논의도 필요하다.",
       "keywords": [
         "AI 모델",
         "자가 복제",
-        "자율성"
+        "데이터 센터"
       ],
       "source": "Anthropic Research",
       "date": "10월 12일",
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "industry",
@@ -1162,18 +1324,18 @@
     {
       "category": "ai",
       "title": "미스트랄 대형 4 소개",
-      "summary": "미스트랄 대형 4가 소개됩니다. 이 모델은 최신 기술을 적용하여 성능을 향상시켰습니다.",
-      "summary_full": "미스트랄 대형 4는 혁신적인 디자인과 강력한 성능을 자랑합니다. 이 제품은 다양한 용도로 활용될 수 있으며, 사용자 친화적인 기능을 갖추고 있습니다. 또한, 최신 기술이 적용되어 효율성을 극대화했습니다. 미스트랄 대형 4는 모든 사용자의 기대를 충족시킬 것입니다.",
+      "summary": "미스트랄 대형 4 모델이 소개되었습니다. 이 모델은 최신 기술을 적용하여 성능을 향상시켰습니다.",
+      "summary_full": "미스트랄 대형 4 모델이 새롭게 출시되었습니다. 이 모델은 인공지능 기술을 활용하여 더욱 향상된 성능을 자랑합니다. 또한, 사용자 친화적인 디자인과 다양한 기능을 제공합니다. 최신 기술을 통해 다양한 분야에서 활용될 것으로 기대됩니다.",
       "keywords": [
         "미스트랄",
         "대형 4",
-        "신제품"
+        "인공지능"
       ],
       "source": "Mistral AI",
       "date": "10월 6일",
       "publishedAt": "2026-10-06T12:00:27.000Z",
       "url": "https://mistral.ai/news/mistral-large-4",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "ai",
@@ -1195,9 +1357,9 @@
     },
     {
       "category": "design",
-      "title": "사물 이름 짓기의 실용 가이드",
-      "summary": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화 방식에 영향을 미친다. 디자인 토큰, HTML 클래스, 변수의 이름을 짓는 데 어려움을 겪는 이유는 이 때문이다.",
-      "summary_full": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화 방식에 영향을 미친다. 색상, 아이콘, UI 구성 요소, 기능에 대한 혼란이 많고, 이는 디자인 토큰, HTML 클래스, 변수의 이름을 짓는 데 어려움을 초래한다. 때로는 선택한 이름이 너무 일반적이어서 정확한 의미를 이해하기 어렵다. 이러한 문제들은 명확한 커뮤니케이션을 방해한다.",
+      "title": "사물 이름 짓기에 대한 실용 가이드",
+      "summary": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화를 형성한다. 디자인 토큰, HTML 클래스, 변수의 이름을 정하는 데 어려움을 겪는 이유는 이 때문이다.",
+      "summary_full": "이름 짓기는 어렵고, 우리가 사용하는 언어는 사물에 대한 사고와 대화를 형성한다. 색상, 아이콘, UI 구성 요소 및 기능에 대한 혼란이 많은 이유이기도 하다. 선택한 이름이 너무 일반적일 경우, 정확한 의미를 이해하기 어려워진다. 이로 인해 디자인 토큰, HTML 클래스 및 변수의 이름을 정하는 데 어려움을 겪는다.",
       "keywords": [
         "이름짓기",
         "디자인토큰",
@@ -1207,7 +1369,7 @@
       "date": "10월 6일",
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/10/how-name-things/",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "ai",
@@ -4290,102 +4452,6 @@
       "collectedAt": "2026-09-15"
     },
     {
-      "category": "frontend",
-      "title": "2026년 무료 개발자 로드맵",
-      "summary": "DevLearnHub에서 단계별 개발자 로드맵을 무료로 제공하여 명확한 학습 경로를 안내합니다.",
-      "summary_full": "DevLearnHub에서 제공하는 무료 개발자 로드맵은 프론트엔드, 백엔드, 풀스택, DevOps 엔지니어링 등 다양한 분야를 포함합니다. 각 로드맵은 여러 섹션과 주제로 구성되어 있어 체계적인 학습이 가능합니다. 현재 제공되는 로드맵은 프론트엔드 개발자, 백엔드 개발자, 풀스택 개발자, DevOps 엔지니어를 위한 것입니다. 이를 통해 개발자들이 보다 명확한 경로를 따라 학습할 수 있도록 돕고 있습니다.",
-      "keywords": [
-        "개발자 로드맵",
-        "무료 학습",
-        "DevLearnHub"
-      ],
-      "source": "dev.to",
-      "date": "9월 14일",
-      "publishedAt": "2026-09-14T03:21:19.000Z",
-      "url": "https://dev.to/xmus/free-developer-roadmaps-for-2026-1h8k",
-      "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "ai",
-      "title": "퍼플렉시티, GPT-6 아스트라를 신뢰하여 종단 간 시스템 관리",
-      "summary": "퍼플렉시티는 아스트라를 활용하여 커뮤니케이션 작성, 소프트웨어 변경 및 생산 시스템 모니터링을 수행한다. 이전 모델보다 훨씬 적은 빈도로 점검을 진행한다.",
-      "summary_full": "퍼플렉시티는 아스트라를 통해 커뮤니케이션을 작성하고 소프트웨어를 변경하며 생산 시스템을 모니터링한다. 이 시스템은 이전 모델보다 점검 빈도가 낮아졌다. 아스트라는 종단 간 시스템을 관리하는 데 있어 신뢰할 수 있는 도구로 자리 잡았다. 이를 통해 퍼플렉시티는 효율성을 높이고 있다.",
-      "keywords": [
-        "퍼플렉시티",
-        "GPT-6",
-        "아스트라"
-      ],
-      "source": "OpenAI News",
-      "date": "9월 14일",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "trend",
-      "title": "개발자가 무시하는 디자인-코드 규칙",
-      "summary": "디자인과 코드 간의 간극을 메우기 위해서는 복잡한 프레임워크가 아닌 시스템 사고가 필요하다. 초기 개발 과정에서 엄격한 디자인-코드 규칙을 설정하면 인터페이스를 더 빠르게 구축할 수 있다.",
-      "summary_full": "디자인과 코드 간의 간극을 메우기 위해서는 복잡한 프레임워크가 아닌 시스템 사고가 필요하다. 많은 개발자들이 디자인 인수인계를 헥스 코드, 픽셀 측정, 시각적 시행착오의 추측 게임으로 여기고 있다. 초기 개발 과정에서 엄격한 디자인-코드 규칙을 설정하면 인터페이스를 더 빠르게 구축할 수 있다. 이는 개발자의 역량을 향상시키는 데 기여할 것이다.",
-      "keywords": [
-        "디자인",
-        "코드",
-        "개발자"
-      ],
-      "source": "dev.to",
-      "date": "9월 13일",
-      "publishedAt": "2026-09-13T19:51:17.000Z",
-      "url": "https://dev.to/joemetry/three-design-to-code-rules-most-developers-ignore-that-will-make-you-a-better-engineer-4o4p",
-      "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "industry",
-      "title": "Z.ai, 홍콩에서 50억 달러 조달",
-      "summary": "중국 모델 개발업체 Z.ai가 홍콩에서 50억 달러를 조달했다. 이 중 20억 달러는 신규 주식 발행을 통해, 30억 달러는 제로 금리 전환사채를 통해 확보했다.",
-      "summary_full": "중국의 모델 개발업체 Z.ai가 홍콩에서 약 50억 달러를 한 번에 조달했다. 이 중 약 20억 달러는 2197만 주의 신규 주식을 HK$714에 발행하여 확보했으며, 이는 이전 종가보다 약 10% 낮은 가격이다. 나머지 30억 달러는 2027년 9월 만기인 전환사채를 통해 조달되었고, 이 채권은 제로 금리로 발행되었다. 이와 관련된 자세한 내용은 The Next Web에서 확인할 수 있다.",
-      "keywords": [
-        "Z.ai",
-        "홍콩",
-        "자금조달"
-      ],
-      "source": "thenextweb.com",
-      "date": "9월 13일",
-      "publishedAt": "2026-09-13T18:15:26.000Z",
-      "url": "https://thenextweb.com/news/z-ai-5bn-hong-kong-zero-interest-convertible-bonds",
-      "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "trend",
-      "title": "모두가 이야기하고 실제로 구매하는 스마트 새 급여기",
-      "summary": "이 스마트 새 급여기는 카메라와 연결된 앱을 통해 이웃의 새들을 관찰하고 배울 수 있게 해줍니다. 사용자들은 이 제품을 통해 새들의 행동을 쉽게 기록하고 공유할 수 있습니다.",
-      "summary_full": "스마트 새 급여기는 카메라와 연결된 앱을 통해 사용자가 이웃의 새들을 관찰할 수 있게 해줍니다. 이러한 기술은 새들의 행동을 기록하고 분석하는 데 도움을 줍니다. 사용자들은 앱을 통해 다양한 새의 종류와 그들의 습성을 배울 수 있습니다. 이 제품은 새 관찰을 즐기는 사람들 사이에서 큰 인기를 끌고 있습니다.",
-      "keywords": [
-        "스마트 새 급여기",
-        "새 관찰",
-        "카메라"
-      ],
-      "source": "wired.com",
-      "date": "9월 13일",
-      "publishedAt": "2026-09-13T11:00:00.000Z",
-      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
-      "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "industry",
-      "title": "모두가 바이럴 AI 음식 슬랍 이미지를 싫어하는 진짜 이유",
-      "summary": "우리는 항상 음식을 실제보다 더 맛있게 보이게 해왔습니다. 그러나 AI가 이를 할 때는 왜 다르게 느껴질까요?",
-      "summary_full": "우리는 오랫동안 음식을 더 매력적으로 보이게 만들어왔습니다. 그러나 AI가 생성한 음식 이미지는 사람들에게 불쾌감을 주는 경향이 있습니다. 이는 AI가 만든 이미지가 인간의 감성을 고려하지 않기 때문입니다. 결국, AI의 음식 이미지는 우리의 기대와 감정에 부합하지 않아 반감을 사는 것입니다.",
-      "keywords": [
-        "AI",
-        "음식 이미지",
-        "바이럴"
-      ],
-      "source": "uxdesign.cc",
-      "date": "9월 12일",
-      "publishedAt": "2026-09-12T21:40:38.000Z",
-      "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-09-14"
-    },
-    {
       "category": "design",
       "title": "UX ROI 사례 구축하기: 이사회에서 살아남기",
       "summary": "CFO가 디자인의 실제 비즈니스 기여도를 묻는 시대가 왔다. UX 디자인은 사용자뿐만 아니라 비즈니스에도 긍정적인 영향을 미쳐야 한다.",
@@ -4400,22 +4466,6 @@
       "publishedAt": "2026-09-11T13:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
       "collectedAt": "2026-09-16"
-    },
-    {
-      "category": "industry",
-      "title": "무신사 뷰티, 홍대에서 약국과 인디 브랜드 결합",
-      "summary": "무신사 뷰티가 홍대에 오프라인 매장을 열며 약국과 인디 브랜드를 강조하고 있다. 성분 중심의 트렌드에 맞춰 온누리약국과 협업하여 뷰티 시장에 진출한다.",
-      "summary_full": "무신사 뷰티가 홍대에 새로운 매장을 열면서 약국과 인디 브랜드를 중심으로 한 전략을 선보이고 있다. 최근 성분 중심의 트렌드에 발맞춰 온누리약국과 협업하여 소비자들에게 신뢰를 주는 제품을 제공한다. 또한, 온라인 패션 브랜드 발굴의 경험을 바탕으로 오프라인과의 연계를 통해 뷰티 시장에서도 성공을 노리고 있다. 이러한 접근은 무신사가 뷰티 분야에서 차별화된 경쟁력을 갖추기 위한 전략으로 보인다.",
-      "keywords": [
-        "무신사",
-        "뷰티",
-        "홍대"
-      ],
-      "source": "바이라인네트워크",
-      "date": "9월 11일",
-      "publishedAt": "2026-09-11T09:42:53.000Z",
-      "url": "https://byline.network/2026/09/10_musinsa/",
-      "collectedAt": "2026-09-14"
     },
     {
       "category": "ai",
@@ -4467,38 +4517,6 @@
     },
     {
       "category": "ai",
-      "title": "Gradio 워크플로우로 AUTOMATIC1111 재구성",
-      "summary": "Gradio 워크플로우를 사용하여 AUTOMATIC1111을 재구성하는 방법을 다룬다. 이 과정에서의 주요 단계와 이점에 대해 설명한다.",
-      "summary_full": "이 기사에서는 Gradio 워크플로우를 활용하여 AUTOMATIC1111을 재구성하는 방법을 소개한다. Gradio는 사용자 인터페이스를 쉽게 구축할 수 있는 도구로, 이를 통해 AUTOMATIC1111의 기능을 개선할 수 있다. 주요 단계와 이점에 대해 자세히 설명하며, 실용적인 예시를 제공한다. 최종적으로, 이 재구성을 통해 사용자 경험을 향상시키는 방법을 제시한다.",
-      "keywords": [
-        "AUTOMATIC1111",
-        "Gradio",
-        "워크플로우"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "9월 10일",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "frontend",
-      "title": "App Router의 장점은 우리에게도 장점일까요?",
-      "summary": "토스뱅크 프론트엔드 팀은 Next.js Pages Router를 사용하고 있으며, App Router와 React Server Components를 고려했지만 도입하지 않기로 결정했다.",
-      "summary_full": "토스뱅크 프론트엔드 개발자는 Next.js Pages Router를 주로 사용하고 있으며, 이는 유지보수 모드에 있다. 새로운 기능이 추가되지 않는 상황에서 App Router와 React Server Components의 장점을 검토했지만, 실제 서비스에 도입하기에는 얻는 이득이 적다고 판단했다. 기술그룹을 구성하여 실험을 진행했지만, 최종적으로 도입을 하지 않기로 했다.",
-      "keywords": [
-        "App Router",
-        "Next.js",
-        "프론트엔드 개발"
-      ],
-      "source": "toss.tech",
-      "date": "9월 9일",
-      "publishedAt": "2026-09-09T06:45:00.000Z",
-      "url": "https://toss.tech/article/52999",
-      "collectedAt": "2026-09-14"
-    },
-    {
-      "category": "ai",
       "title": "알파게놈 아틀라스: 인간 유전체의 모든 가능한 DNA 문자 변화 예측 지도",
       "summary": "알파게놈 아틀라스는 인간 유전체에서 90억 개의 단일 문자 DNA 변이의 분자적 영향을 매핑합니다. 이 연구는 유전적 변이가 인체에 미치는 영향을 이해하는 데 기여합니다.",
       "summary_full": "알파게놈 아틀라스는 인간 유전체 내에서 발생할 수 있는 모든 단일 문자 DNA 변이의 분자적 영향을 시각화합니다. 이 프로젝트는 90억 개의 변이를 분석하여 각 변이가 유전체에 미치는 영향을 예측합니다. 이를 통해 연구자들은 유전적 변이가 질병 및 생리적 특성과 어떻게 연결되는지를 더 잘 이해할 수 있습니다. 이러한 데이터는 개인 맞춤형 의학 및 유전자 연구에 중요한 기초 자료로 활용될 수 있습니다.",
@@ -4516,8 +4534,8 @@
     {
       "category": "frontend",
       "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 앞으로의 CSS에서 중요한 기능으로 자리 잡을 예정입니다. 이 기사에서는 이 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 사랑을 담아 작성된 이 글은 독자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
+      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 모든 브라우저에서 호환되는 방법을 제시합니다.",
+      "summary_full": "CSS random() 함수는 아직 모든 브라우저에서 지원되지 않습니다. 이 글에서는 이를 위한 폴리필을 만드는 여정을 설명합니다. CSS-Tricks에서 처음 작성된 이 글은 독자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -4527,29 +4545,29 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "ai",
-      "title": "KT, AI 반도체와 LLM 결합한 소버린 AI 어플라이언스 출시",
-      "summary": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 소버린 AI 어플라이언스를 출시했다. 이 제품은 기업의 AI 활용을 지원하며, 고성능 연산을 가능하게 한다.",
-      "summary_full": "KT가 AI 반도체와 대형 언어 모델(LLM)을 결합한 '소버린 AI 어플라이언스'를 출시했다. 이 제품은 기업들이 AI 기술을 보다 효과적으로 활용할 수 있도록 설계되었다. 소버린 AI 어플라이언스는 고성능 연산을 지원하여 다양한 산업 분야에 적용될 수 있다. KT는 이를 통해 AI 시장에서의 경쟁력을 강화할 계획이다.",
+      "title": "KT, 기업용 소버린 AI 제품 출시",
+      "summary": "KT가 국산 반도체와 LLM 모델을 통합한 기업용 소버린 AI 제품을 출시했다. 이 제품은 기업의 데이터 보호와 AI 활용을 동시에 지원한다.",
+      "summary_full": "KT는 최근 기업용 소버린 AI 제품을 출시하며, 국산 반도체와 대형 언어 모델(LLM)을 통합했다. 이 제품은 기업들이 자사의 데이터를 안전하게 보호하면서 AI 기술을 활용할 수 있도록 설계되었다. KT는 이를 통해 기업의 디지털 전환을 가속화하고, 국내 AI 생태계의 발전에도 기여할 계획이다. 새로운 AI 솔루션은 다양한 산업 분야에 적용 가능하다.",
       "keywords": [
         "KT",
-        "AI 반도체",
-        "소버린 AI 어플라이언스"
+        "소버린 AI",
+        "국산 반도체"
       ],
       "source": "Google News AI (KR)",
       "date": "8월 19일",
       "publishedAt": "2026-08-19T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YY0FtYkU4QzhBRzVMOHJtN3RrTlRrVjRPSG14Vm1FRFc2V0ZtOHdwNnhYMkFaaGNheHRwVG01emtqT1RkSzc5VnA5N05UU2VDWDdOQ3d0UzhfM1l6?oc=5",
-      "collectedAt": "2026-09-14"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsUEJNQXNTajQxWko4bVhTem03ajJFcENYUU1NZERqUlBtdm9FNGltY29sQUJ2dGkxMy1vemRLUnFUQWhaQUpXYkhEVTk2TG42YjBKa1dTdTJYaFFxMktUbg?oc=5",
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 트렌드를 소개합니다. 다양한 혁신적인 접근 방식이 사용자 경험을 향상시키고 있습니다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 극대화하기 위한 다양한 혁신적인 접근 방식을 포함합니다. 이러한 트렌드는 기술 발전과 함께 변화하며, 사용자 맞춤형 디자인이 강조되고 있습니다. 또한, 시각적 요소와 인터랙션 디자인의 조화가 중요한 요소로 떠오르고 있습니다. 이러한 변화는 디지털 제품의 경쟁력을 높이는 데 기여하고 있습니다.",
+      "summary": "최근 UX/UI 디자인에서 주목받고 있는 트렌드를 소개합니다. 다양한 사례를 통해 디자이너들이 어떻게 혁신적인 접근을 하고 있는지 살펴봅니다.",
+      "summary_full": "디자인 분야에서 UX/UI는 사용자 경험을 극대화하는 중요한 요소로 자리잡고 있습니다. 최근에는 미니멀리즘, 다크 모드, 인터랙티브 요소 등 다양한 트렌드가 부각되고 있습니다. 이러한 트렌드는 사용자와의 소통을 강화하고, 브랜드의 정체성을 더욱 확립하는 데 기여하고 있습니다. 디자이너들은 이러한 트렌드를 통해 새로운 디자인 솔루션을 모색하고 있습니다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4559,23 +4577,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 설계된 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체에서 배우는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 미친 영향을 이해하는 것이 중요하다. 이는 언어 학습 방법론의 발전을 이해하는 데 도움을 준다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래되었다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 어떻게 영향을 미쳤는지를 탐구하는 것이 중요하다. 결국, 라틴어를 위한 교육 방법이 현대 언어 학습에 미친 영향은 깊다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "디자인 교훈"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-15"
     },
     {
       "category": "ai",
