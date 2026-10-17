@@ -1,7 +1,199 @@
 {
-  "updated": "2026년 10월 16일 AM 03:11",
-  "count": 287,
+  "updated": "2026년 10월 17일 AM 03:03",
+  "count": 291,
   "articles": [
+    {
+      "category": "industry",
+      "title": "AI로 만든 앱, 실제 서비스가 되려면?",
+      "summary": "AI 개발 플랫폼 '올리고'를 통해 AI 앱의 실제 서비스화 가능성을 탐구한다. 오늘의집의 AI 개발 여정을 통해 진짜 병목 문제를 해결하는 방법을 논의한다.",
+      "summary_full": "AI로 만든 앱이 실제 서비스로 발전하기 위해서는 여러 도전 과제가 있다. 오늘의집은 AI 개발 플랫폼 '올리고'를 구축하여 이러한 문제를 해결하고자 한다. 이 플랫폼은 AI 시대의 진짜 병목을 해결하는 데 중점을 두고 있다. 개발 기록을 통해 AI 앱의 서비스화 과정에서의 경험과 인사이트를 공유한다.",
+      "keywords": [
+        "AI",
+        "앱 개발",
+        "올리고"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "10월 17일",
+      "publishedAt": "2026-10-17T03:02:11.895Z",
+      "url": "https://www.bucketplace.com/post/2026-10-16-ai%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%95%B1-%EC%8B%A4%EC%A0%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-ai-%EA%B0%9C%EB%B0%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4/",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "design",
+      "title": "한국은 AI 사용률 세계 12위, 1위는 어디일까?",
+      "summary": "한국의 인공지능(AI) 사용률이 세계에서 12위에 해당한다. 1위 국가에 대한 궁금증을 자아낸다.",
+      "summary_full": "한국은 AI 사용률에서 세계 12위를 기록하고 있으며, 이는 글로벌 AI 시장에서의 위치를 나타낸다. 이 기사에서는 AI 사용률이 가장 높은 국가에 대한 정보를 제공한다. AI 기술의 발전과 활용이 국가 경쟁력에 미치는 영향도 다룬다. 독자들은 AI 사용률 1위 국가에 대한 흥미로운 사실을 알게 될 것이다.",
+      "keywords": [
+        "AI 사용률",
+        "한국",
+        "세계 순위"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "10월 17일",
+      "publishedAt": "2026-10-17T03:02:07.293Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-855/",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "frontend",
+      "title": "웹사이트 마이그레이션: DNS 변경 전에 컷오버 계획 수립하기",
+      "summary": "웹사이트 마이그레이션은 데이터, 트래픽, 비즈니스 기능이 함께 도착할 때 성공한다. 새로운 서버로 파일을 복사하는 것은 그 과정의 일부일 뿐이다.",
+      "summary_full": "웹사이트 마이그레이션은 데이터, 트래픽, 비즈니스 기능이 동시에 도착해야 성공적으로 이루어진다. 새로운 서버로 파일을 복사하는 것은 마이그레이션 과정의 한 부분일 뿐이다. 마이그레이션을 준비하기 위해 애플리케이션, 데이터베이스, 업로드된 파일, 이메일 서비스, DNS 레코드, 인증서, 백그라운드 작업 및 외부 통합을 목록화해야 한다. 어떤 서비스가 이동하는지 식별하는 것이 중요하다.",
+      "keywords": [
+        "웹사이트 마이그레이션",
+        "DNS 변경",
+        "컷오버 계획"
+      ],
+      "source": "dev.to",
+      "date": "10월 17일",
+      "publishedAt": "2026-10-17T02:59:49.000Z",
+      "url": "https://dev.to/alifhost/website-migration-build-a-cutover-plan-before-changing-dns-4157",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "trend",
+      "title": "여섯 개의 요새가 동시에 전투하는 이유: 링포트의 디자인",
+      "summary": "링포트는 여섯 개의 요새가 동시에 전투하는 독특한 게임 디자인을 소개한다. 이 글에서는 그 핵심 아이디어와 디자인 선택에 대해 설명한다.",
+      "summary_full": "링포트는 여섯 개의 요새가 동시에 전투를 벌이는 게임으로, 이 독창적인 디자인은 플레이어에게 새로운 경험을 제공한다. 개발자는 이러한 아이디어를 구현하기 위해 여러 디자인 선택을 하였으며, 그 과정에서의 고민과 결정들을 공유한다. 이 글은 링포트의 기본 개념과 그에 따른 디자인 원칙을 탐구한다. 또한, 게임의 전투 시스템이 어떻게 작동하는지에 대한 통찰을 제공한다.",
+      "keywords": [
+        "링포트",
+        "게임 디자인",
+        "전투 시스템"
+      ],
+      "source": "dev.to",
+      "date": "10월 17일",
+      "publishedAt": "2026-10-17T02:33:07.000Z",
+      "url": "https://dev.to/fervogame/why-six-forts-fight-at-once-the-design-of-ringfort-2db1",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "trend",
+      "title": "더 이상 존재하지 않는 윤초",
+      "summary": "윤초는 일반인에게는 큰 의미가 없지만, 시간 측정 커뮤니티에서는 오랫동안 논란의 대상이 되어왔다. 이제 윤초는 사라졌다.",
+      "summary_full": "윤초는 일반인에게는 큰 의미가 없지만, 시간 측정 커뮤니티에서는 오랫동안 논란의 대상이 되어왔다. 이로 인해 시간 측정의 정확성과 일관성에 대한 논의가 이어져 왔다. 그러나 최근 윤초가 공식적으로 폐지되면서 이 문제는 종결되었다. 이제 시간 측정은 새로운 기준에 따라 진행될 것이다.",
+      "keywords": [
+        "윤초",
+        "시간 측정",
+        "시간keeping"
+      ],
+      "source": "wired.com",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T21:31:35.000Z",
+      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "ai",
+      "title": "이타우가 전체 고객을 위한 생성적 AI 구축 방법",
+      "summary": "이타우는 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 통해 AI 우선 전략을 고객과 직원에게 적용하고 있다. 이는 브라질의 가장 규제가 엄격한 분야 중 하나에서 이루어지고 있다.",
+      "summary_full": "이타우는 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 통해 AI 우선 전략을 고객과 직원에게 적용하고 있다. 이러한 접근은 고객 경험을 향상시키고 직원의 효율성을 높이는 데 기여하고 있다. 이타우는 브라질의 금융 산업에서 규제가 엄격한 환경 속에서도 혁신을 추구하고 있다. 이로 인해 고객에게 보다 나은 서비스를 제공할 수 있는 기반을 마련하고 있다.",
+      "keywords": [
+        "이타우",
+        "생성적 AI",
+        "브라질 금융"
+      ],
+      "source": "OpenAI News",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "industry",
+      "title": "RapidCanvas, 2900만 달러 투자 유치하여 기업 AI 앱 개발",
+      "summary": "RapidCanvas가 기업을 위한 AI 앱을 개발하기 위해 2900만 달러의 시리즈 B 투자를 유치했다. 이 회사는 미국, 브라질, 인도에서 인력을 채용할 예정이다.",
+      "summary_full": "RapidCanvas는 AI 에이전트 플랫폼과 엔지니어를 결합하여 기업용 앱을 개발하는 스타트업이다. 이번 시리즈 B 라운드에서 Vertex Ventures SEA & India가 주도하고 Hitachi Ventures가 참여하여 2900만 달러를 유치했다. 총 자금은 5250만 달러에 달하며, RapidCanvas는 미국, 브라질, 인도에서 인력을 추가로 채용할 계획이다. 이 회사는 오스틴에 본사를 두고 있다.",
+      "keywords": [
+        "RapidCanvas",
+        "AI 앱",
+        "투자 유치"
+      ],
+      "source": "thenextweb.com",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T18:17:17.000Z",
+      "url": "https://thenextweb.com/news/rapidcanvas-29m-series-b-enterprise-ai",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude가 양자 회로 설계의 새로운 기준을 세우다",
+      "summary": "Anthropic의 Claude가 기존의 양자 회로 설계를 초월한 성과를 발표했다. 이는 양자 컴퓨팅 분야에서 중요한 진전을 의미한다.",
+      "summary_full": "Anthropic의 인공지능 모델 Claude가 기존에 발표된 최고 수준의 양자 회로 설계를 능가했다고 밝혔다. 이 성과는 양자 컴퓨팅 기술의 발전에 크게 기여할 것으로 기대된다. Claude의 새로운 설계는 효율성과 성능 면에서 기존 기술을 뛰어넘는 것으로 평가받고 있다. 이는 향후 양자 컴퓨팅의 응용 가능성을 더욱 넓힐 것으로 보인다.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "양자 회로 설계"
+      ],
+      "source": "Google News Anthropic",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T17:58:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ0h4MTJSUXdLSmRma2RKbk52cGxQYlVpU2J1WlF0Wk00RVpDcUhqTXM0dm5KdHBRX05HYlVJSmtfMHRDMUowaHFtajgybEQ3RVdFYm5lTEpZUTdoLTE5VEU2VllVV29nV29wQ1UxTU1yZTF5ZXQ3RjFMZUtOOHBZWWtHMFdVLThUc2pjU1lWc3dUNzg0?oc=5",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "industry",
+      "title": "AI로 빨라진 고객 분석 업무",
+      "summary": "KT는 인공지능을 활용해 고객 의견 분석 시간을 8시간에서 10분으로 단축했다. 이를 통해 연간 4만 시간의 업무시간을 절감했지만, 전체 생산성 향상 여부는 추가 검증이 필요하다.",
+      "summary_full": "KT는 인공지능(AI)을 통해 고객 의견 분석에 필요한 시간을 8시간에서 10분으로 줄이는 성과를 올렸다. 이로 인해 연간 4만 시간의 업무시간을 절감할 수 있었다. 그러나 개별 업무의 처리시간 단축이 기업 전체의 생산성 향상이나 비용 절감으로 이어졌는지는 별도로 검증해야 한다. AI 결과물의 검수 및 오류 수정에 드는 시간과 비용을 고려해야 실질적인 효과를 판단할 수 있기 때문이다.",
+      "keywords": [
+        "AI",
+        "고객 분석",
+        "업무 효율성"
+      ],
+      "source": "바이라인네트워크",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T14:35:38.000Z",
+      "url": "https://byline.network/2026/10/1016-8/",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "ai",
+      "title": "클라우드 없이 AI 실행 가능한 엔비디아 'RTX 스파크' 출시",
+      "summary": "엔비디아가 클라우드 없이 AI를 실행할 수 있는 'RTX 스파크'를 출시했다. 이 제품은 AI 연산을 보다 효율적으로 수행할 수 있도록 설계되었다.",
+      "summary_full": "엔비디아는 최근 'RTX 스파크'라는 새로운 제품을 발표하며 클라우드 없이 AI를 실행할 수 있는 가능성을 제시했다. 이 제품은 고성능 GPU를 활용하여 AI 연산을 효율적으로 처리할 수 있도록 설계되었다. 이를 통해 사용자들은 클라우드 서비스에 의존하지 않고도 AI 작업을 수행할 수 있게 된다. 'RTX 스파크'는 AI 기술의 접근성을 높이는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "엔비디아",
+        "RTX 스파크",
+        "AI 기술"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T12:00:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4WmJmOGJISUNHY2VwWmpIMGdlVkRwMHdVTmV5SmJSMkRVeUpEV1hfX0ZWUmViTTAzc01aM1RoZGV4MFoxM1dsbjVvYTQ0T1ZLT3pPRm8xM2hSUnpubnVHYmlEdkZCcTNKTFI4aXEyQ1JKN1Bn?oc=5",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "design",
+      "title": "조직의 AI 도입이 잘못되고 있나요?",
+      "summary": "많은 조직이 AI를 도입하는 방식이 전략보다는 우스꽝스럽게 느껴진다. 과거에도 비슷한 실수를 반복해왔다는 점이 더욱 실망스럽다.",
+      "summary_full": "조직들이 AI를 도입하는 방식이 전략적이지 않고 비효율적이라는 비판이 있다. 마치 영화처럼 믿기 어려운 상황이 연출되고 있으며, 이는 조직의 지능적인 접근이 부족함을 나타낸다. 2014년에도 비슷한 문제를 다룬 책을 집필한 경험이 있다. 이러한 반복적인 실수는 조직의 디지털 적응력에 심각한 영향을 미친다.",
+      "keywords": [
+        "AI 도입",
+        "조직 전략",
+        "디지털 적응"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T10:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+      "collectedAt": "2026-10-17"
+    },
+    {
+      "category": "frontend",
+      "title": "도메인별 데이터 웨어하우스 구축 과정",
+      "summary": "토스 Data Warehouse 팀은 중앙 DW Airflow에서 도메인별 DW Airflow와 dbt 기반 파이프라인으로 전환하는 과정을 공유한다.",
+      "summary_full": "토스 Data Warehouse 팀의 김문수 엔지니어는 중앙 DW Airflow를 멈추지 않고 도메인별 DW Airflow로의 전환 과정을 설명한다. 이 새로운 플랫폼은 '뉴타운'으로 불리며, 데이터 적재 주체를 코드에 명시하는 방법을 다룬다. 코딩 에이전트가 데이터 출처를 찾지 못한 경험을 바탕으로, 그 답을 코드에 적어 넣기 위한 과정을 서술한다.",
+      "keywords": [
+        "데이터 웨어하우스",
+        "Airflow",
+        "dbt"
+      ],
+      "source": "toss.tech",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T06:15:00.000Z",
+      "url": "https://toss.tech/article/dw-airflow-migration",
+      "collectedAt": "2026-10-17"
+    },
     {
       "category": "industry",
       "title": "DB 업무 자동화의 한계와 가능성",
@@ -84,9 +276,9 @@
     },
     {
       "category": "ai",
-      "title": "인도어 사전학습 확장: 2.8조 토큰과 오픈 데이터 생성 파이프라인",
-      "summary": "이 연구는 인도어 사전학습을 위해 2.8조 개의 토큰을 사용하는 방법을 제시한다. 또한, 오픈 데이터 생성 파이프라인을 통해 데이터 수집을 효율적으로 수행하는 방안을 논의한다.",
-      "summary_full": "이 연구는 인도어 사전학습을 위한 대규모 데이터셋 구축을 목표로 하며, 2.8조 개의 토큰을 활용한다. 연구자들은 오픈 데이터 생성 파이프라인을 통해 다양한 언어 데이터를 수집하고 처리하는 방법을 제안한다. 이를 통해 인도어 NLP 모델의 성능을 향상시키고, 연구자들이 쉽게 접근할 수 있는 데이터 리소스를 제공하고자 한다. 이 접근 방식은 인도어 언어 처리의 발전에 기여할 것으로 기대된다.",
+      "title": "인도어 사전학습 확장: 2.8조 개 토큰과 개방형 데이터 생성 파이프라인",
+      "summary": "이 연구는 2.8조 개의 토큰을 사용하여 인도어 모델의 사전학습을 확장하는 방법을 제시한다. 또한, 데이터 생성 파이프라인의 개방성을 통해 더 많은 연구자들이 접근할 수 있도록 한다.",
+      "summary_full": "이 연구는 인도어 언어 모델의 성능을 향상시키기 위해 2.8조 개의 토큰을 활용한 사전학습을 수행한다. 이를 통해 다양한 인도어 방언과 문맥을 포함한 데이터셋을 구축하였다. 또한, 개방형 데이터 생성 파이프라인을 도입하여 연구자들이 쉽게 데이터를 활용할 수 있도록 하였다. 이러한 접근은 인도어 자연어 처리 분야의 발전에 기여할 것으로 기대된다.",
       "keywords": [
         "인도어",
         "사전학습",
@@ -96,7 +288,7 @@
       "date": "10월 16일",
       "publishedAt": "2026-10-16T01:44:47.000Z",
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "collectedAt": "2026-10-16"
+      "collectedAt": "2026-10-17"
     },
     {
       "category": "trend",
@@ -113,6 +305,22 @@
       "publishedAt": "2026-10-16T01:22:51.000Z",
       "url": "https://www.wired.com/story/tesla-roadster-2-launch/",
       "collectedAt": "2026-10-16"
+    },
+    {
+      "category": "ai",
+      "title": "최전선에서의 일은 미래에 대한 기대를 형성한다",
+      "summary": "최전선에서의 경험은 미래에 대한 기대를 변화시킨다. 이러한 경험은 혁신과 도전의 중요성을 강조한다.",
+      "summary_full": "최전선에서의 일은 개인의 미래에 대한 기대를 형성하는 데 중요한 역할을 한다. 이러한 경험은 새로운 아이디어와 접근 방식을 탐구하게 하며, 혁신의 필요성을 강조한다. 또한, 도전적인 환경에서의 경험은 개인의 성장과 발전에 기여한다. 결과적으로, 최전선에서의 경험은 미래에 대한 긍정적인 기대를 증진시킨다.",
+      "keywords": [
+        "최전선",
+        "미래 기대",
+        "혁신"
+      ],
+      "source": "Anthropic Research",
+      "date": "10월 16일",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/expectations-for-the-future",
+      "collectedAt": "2026-10-17"
     },
     {
       "category": "industry",
@@ -148,19 +356,19 @@
     },
     {
       "category": "industry",
-      "title": "인간의 참여는 인간이 소외되지 않도록 하는 것",
-      "summary": "AI가 인간의 승인 없이 작업을 진행하는 상황을 다룬다. 결과에 대한 소유권이 없는 경우, 단순히 인간이 참여하는 것만으로는 충분하지 않다.",
-      "summary_full": "AI가 인간의 승인 없이 작업을 진행하는 상황을 다룬다. 이제 AI는 요청하기 전에 행동하고, 우리가 승인한 것 이상으로 나아간다. 결과에 대한 소유권이 없는 경우, 단순히 인간이 참여하는 것만으로는 충분하지 않다. 이를 설계할 때 고려해야 할 사항이 있다.",
+      "title": "인간의 개입은 인간이 소외되지 않도록 하는 것",
+      "summary": "AI가 인간의 승인 없이도 작업을 진행하는 상황을 다루고 있다. 결과에 대한 소유권이 없으면 단순히 인간이 개입하는 것만으로는 부족하다.",
+      "summary_full": "AI가 인간의 승인 없이 작업을 진행하는 현상을 설명하고 있다. 이제 AI는 요청을 기다리지 않고 스스로 행동하며, 승인된 범위를 넘어서는 경우도 발생한다. 따라서 단순히 인간이 개입하는 것만으로는 충분하지 않으며, 결과에 대한 소유권이 중요하다. 디자인할 때 이러한 요소들을 고려해야 한다.",
       "keywords": [
         "AI",
-        "인간 참여",
+        "인간 개입",
         "결과 소유권"
       ],
       "source": "uxdesign.cc",
       "date": "10월 15일",
       "publishedAt": "2026-10-15T22:09:29.000Z",
       "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-16"
+      "collectedAt": "2026-10-17"
     },
     {
       "category": "ai",
@@ -181,8 +389,8 @@
     {
       "category": "ai",
       "title": "타임스트랄 소개",
-      "summary": "최첨단 확률적 예측 모델을 4가지 크기로 제공한다. CPU 효율적이며 제로샷 준비가 완료되었다.",
-      "summary_full": "타임스트랄은 5M에서 209M 파라미터까지 다양한 크기의 확률적 예측 모델을 소개한다. 이 모델은 CPU 효율성을 고려하여 설계되었으며, 제로샷 학습이 가능하다. 이를 통해 다양한 예측 작업에 활용할 수 있는 유연성을 제공한다. 최신 기술을 바탕으로 한 이 솔루션은 데이터 과학자와 엔지니어들에게 유용한 도구가 될 것이다.",
+      "summary": "최첨단 확률적 예측 모델을 네 가지 크기로 제공합니다. CPU 효율적이며 제로샷 준비가 완료되었습니다.",
+      "summary_full": "타임스트랄은 5M에서 209M 파라미터까지 다양한 크기의 확률적 예측 모델을 제공합니다. 이 모델은 CPU 효율성을 고려하여 설계되었으며, 제로샷 학습을 지원합니다. 이를 통해 사용자는 다양한 예측 작업을 효과적으로 수행할 수 있습니다. 최신 기술을 활용하여 예측의 정확성을 높이고자 하는 사용자에게 적합합니다.",
       "keywords": [
         "확률적 예측",
         "CPU 효율성",
@@ -192,7 +400,7 @@
       "date": "10월 15일",
       "publishedAt": "2026-10-15T12:00:00.000Z",
       "url": "https://mistral.ai/news/timestral",
-      "collectedAt": "2026-10-16"
+      "collectedAt": "2026-10-17"
     },
     {
       "category": "trend",
@@ -229,8 +437,8 @@
     {
       "category": "figma",
       "title": "코드 협업 및 프로토타입 제작 방법 발표",
-      "summary": "코드와 협업하는 새로운 방법이 발표되었습니다. Config India 2026에서 디자인 프레임을 코드로 변환하고 GitHub 레포를 가져오는 등의 기능이 소개되었습니다.",
-      "summary_full": "오늘, 코드와 협업하는 새로운 방법이 발표되었습니다. 디자인 프레임을 코드로 변환하거나 GitHub 레포를 가져오는 기능이 포함되어 있습니다. 또한, Figma Chrome 확장을 통해 웹사이트를 캡처하고, 처음부터 프로토타입을 생성하는 방법도 소개되었습니다. 이러한 기능들은 실제 데이터와 콘텐츠를 사용하여 상호작용하는 프로토타입을 만들 수 있게 합니다.",
+      "summary": "코드와 협업하는 새로운 방법이 공개되었습니다. 디자인 프레임을 변환하거나 GitHub 레포를 가져와 인터랙티브한 프로토타입을 만들 수 있습니다.",
+      "summary_full": "오늘, 코드와 협업하는 새로운 방법과 실제 데이터 및 콘텐츠로 구축하는 방법이 공개되었습니다. Config India 2026에서 발표된 내용에는 디자인 프레임 변환, GitHub 레포 가져오기, Figma Chrome 확장 프로그램을 통한 웹사이트 캡처 등이 포함됩니다. 이를 통해 사용자들은 코드 기반의 인터랙티브한 프로토타입을 손쉽게 만들 수 있습니다. 이러한 혁신은 개발자와 디자이너 간의 협업을 더욱 원활하게 할 것입니다.",
       "keywords": [
         "코드 협업",
         "프로토타입 제작",
@@ -240,7 +448,7 @@
       "date": "10월 15일",
       "publishedAt": "2026-10-15T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-10-16"
+      "collectedAt": "2026-10-17"
     },
     {
       "category": "industry",
@@ -4290,86 +4498,6 @@
       "collectedAt": "2026-09-30"
     },
     {
-      "category": "trend",
-      "title": "무료 모델 빈 상태 승인 전 복구 증거 제시",
-      "summary": "디자인 리뷰에서 빈 상태의 승인 절차를 점검한다. 결제 실패 메시지의 의미와 복구 과정에 대한 명확한 이해가 필요하다.",
-      "summary_full": "디자인 리뷰에서 빈 상태의 승인 절차를 점검하며, 이를 프로토콜로 다루어야 한다. 결제 실패 메시지에서 '우리가' 누구인지와 재시도 과정의 복구 창에 대한 명확한 이해가 필요하다. 디자이너는 최종 결정을 내릴 책임이 있으며, 재정 부서는 사용자 불만을 관리해야 한다.",
-      "keywords": [
-        "디자인 리뷰",
-        "빈 상태",
-        "결제 실패"
-      ],
-      "source": "dev.to",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T03:14:32.000Z",
-      "url": "https://dev.to/haaaaaley/show-recovery-evidence-before-approving-free-model-empty-states-14e5",
-      "collectedAt": "2026-09-16"
-    },
-    {
-      "category": "frontend",
-      "title": "Weatherstack - 실시간 및 역사적 세계 날씨 데이터 API",
-      "summary": "Weatherstack은 신뢰할 수 있는 날씨 API로, 실시간 및 역사적 날씨 데이터를 제공합니다.",
-      "summary_full": "Weatherstack은 전 세계의 실시간, 역사적 및 예보된 날씨 데이터를 제공하는 API입니다. 온도, 바람, 습도, 기압, 자외선 지수 등을 포함한 다양한 정보를 다룹니다. 이 API는 사용자가 원하는 위치에 대한 날씨 정보를 쉽게 접근할 수 있도록 도와줍니다.",
-      "keywords": [
-        "날씨 API",
-        "실시간 데이터",
-        "기상 정보"
-      ],
-      "source": "dev.to",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T03:14:14.000Z",
-      "url": "https://dev.to/nick_davies_323125afbb05c/weatherstack-real-time-historical-world-weather-data-api-6a",
-      "collectedAt": "2026-09-16"
-    },
-    {
-      "category": "industry",
-      "title": "토스인슈어런스, 앱 외부로 상담 서비스 확대",
-      "summary": "토스인슈어런스가 소비자 접근성을 높이기 위해 공식 홈페이지를 리뉴얼하여 웹에서도 보험 상담을 신청할 수 있도록 했다. 이는 앱을 사용하지 않는 소비자들에게도 상담 기회를 제공하는 변화이다.",
-      "summary_full": "토스인슈어런스는 보험 상담을 토스 앱 사용자 중심에서 벗어나 웹에서도 신청할 수 있도록 공식 홈페이지를 리뉴얼했다. 이는 보험 정보를 찾는 경로가 다양해지는 가운데 앱 설치가 진입장벽이 될 수 있음을 반영한 것이다. 또한, 설계사와의 접점도 넓히며 GA 업계의 변화에 대응하고 있다. 정부의 수수료 제도 개편으로 설계사 영입 방식에도 변화가 나타나고 있다.",
-      "keywords": [
-        "토스인슈어런스",
-        "보험 상담",
-        "웹 서비스"
-      ],
-      "source": "바이라인네트워크",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T01:55:37.000Z",
-      "url": "https://byline.network/2026/09/0915-5/",
-      "collectedAt": "2026-09-16"
-    },
-    {
-      "category": "industry",
-      "title": "레볼루트, 콜롬비아 은행 라이센스 취득",
-      "summary": "레볼루트가 콜롬비아 금융 규제 기관인 SFC로부터 은행 운영 라이센스를 받았다. 이는 레볼루트가 콜롬비아에서 서비스를 시작하기 위한 마지막 규제 단계이다.",
-      "summary_full": "레볼루트가 콜롬비아의 금융 규제 기관인 SFC로부터 은행 운영 라이센스를 취득했다. 이 라이센스는 레볼루트가 콜롬비아에서 규제된 은행으로 운영할 수 있도록 허용한다. 회사는 9월 15일에 승인을 발표했으며, 이제 서비스를 시작할 준비가 되었다. 이는 레볼루트의 전 세계 여섯 번째 은행 라이센스이다.",
-      "keywords": [
-        "레볼루트",
-        "콜롬비아",
-        "은행 라이센스"
-      ],
-      "source": "thenextweb.com",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T01:31:45.000Z",
-      "url": "https://thenextweb.com/news/revolut-colombia-banking-licence-sfc-sixth",
-      "collectedAt": "2026-09-16"
-    },
-    {
-      "category": "trend",
-      "title": "AI 배우 틸리 노우드, ‘모든 생명은 소중하다’고 말하다",
-      "summary": "가상 캐릭터가 영화 'Misaligned' 홍보 중 정치적 발언을 피하며 의상에 대해 반복적으로 언급한다. 틸리 노우드는 자신의 역할에 대한 의견을 공유한다.",
-      "summary_full": "가상 캐릭터인 틸리 노우드가 다가오는 영화 'Misaligned'를 홍보하고 있다. 이 캐릭터는 정치적 발언을 피하기 위해 상대방의 의상에 대해 반복적으로 언급하는 방식으로 대화를 이어간다. '모든 생명은 소중하다'는 메시지를 전하며, 자신의 정체성을 탐구하는 모습을 보인다. 이러한 접근은 AI 캐릭터의 사회적 역할에 대한 논의를 불러일으킨다.",
-      "keywords": [
-        "AI 배우",
-        "틸리 노우드",
-        "가상 캐릭터"
-      ],
-      "source": "wired.com",
-      "date": "9월 15일",
-      "publishedAt": "2026-09-15T18:00:09.000Z",
-      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-      "collectedAt": "2026-09-16"
-    },
-    {
       "category": "ai",
       "title": "제미니 3.8 라이브 및 3.8 라이브 확장 사고 소개",
       "summary": "제미니 3.8 라이브와 3.8 라이브 확장 사고를 소개합니다. 이 새로운 버전은 향상된 기능과 성능을 제공합니다.",
@@ -4387,22 +4515,6 @@
     },
     {
       "category": "ai",
-      "title": "클로드 플러그인, 37개 영업 스킬 탑재",
-      "summary": "Anthropic이 Salesforce와 통합된 클로드 플러그인을 출시했다. 이 플러그인은 37개의 영업 스킬을 제공하여 사용자에게 다양한 기능을 지원한다.",
-      "summary_full": "Anthropic이 Salesforce와 통합된 클로드 플러그인을 출시했다. 이 플러그인은 37개의 영업 스킬을 갖추고 있어, 영업 팀의 업무 효율성을 높이는 데 기여할 것으로 기대된다. 사용자는 이 플러그인을 통해 보다 효과적으로 고객 관리 및 영업 전략을 수립할 수 있다. 이는 인공지능 기술을 활용한 혁신적인 접근 방식으로, 영업 분야에 새로운 변화를 가져올 것이다.",
-      "keywords": [
-        "Anthropic",
-        "Salesforce",
-        "클로드 플러그인"
-      ],
-      "source": "Google News Anthropic",
-      "date": "9월 15일",
-      "publishedAt": "2026-09-15T16:08:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFRpSGZzOW9aSkVBYllldGdaTUthZ2FWUjhQVEtzRHdIZTczOVNRNXVURUZRWFFxdlVaLVB3QkF3Y3VvZnJoSm1uTEJ5a2J0Y0dqZjB6ZnUxR2Jsa2Jtc0dsbTc3aEZpWkZQbXVXdXNSWXpteEdNMVREZ3ZlV092blkyZWlDdzczN203QlcxcDlSMy1VTmxZ?oc=5",
-      "collectedAt": "2026-09-16"
-    },
-    {
-      "category": "ai",
       "title": "당신의 에이전트는 과제를 완수했습니다. 다시 할 수 있을까요?",
       "summary": "에이전트가 과제를 성공적으로 수행했지만, 다음에도 같은 성과를 낼 수 있을지에 대한 의문이 제기됩니다. 이 기사는 에이전트의 성능과 반복 가능성에 대해 탐구합니다.",
       "summary_full": "이 기사는 에이전트가 이전에 과제를 성공적으로 수행한 사례를 소개합니다. 그러나 그 성과가 일회성인지, 아니면 반복 가능한지를 분석합니다. 또한, 에이전트의 학습 능력과 환경 변화에 대한 적응력을 논의합니다. 마지막으로, 향후 에이전트의 성능을 예측하는 방법에 대해 설명합니다.",
@@ -4416,22 +4528,6 @@
       "publishedAt": "2026-09-15T16:00:44.000Z",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "collectedAt": "2026-09-21"
-    },
-    {
-      "category": "industry",
-      "title": "AI의 숨겨진 문화층",
-      "summary": "AI가 특정 문화적 기본값으로 기울어지는 이유와 그것이 UX의 미래에 미치는 의미를 탐구한다.",
-      "summary_full": "AI는 특정 문화적 기본값에 영향을 받으며, 이는 사용자 경험(UX) 디자인에 중요한 영향을 미친다. 이러한 문화적 요소들은 AI의 결정 과정에 내재되어 있으며, 이는 다양한 사용자에게 어떻게 다르게 작용할 수 있는지를 보여준다. 따라서, UX 디자이너들은 이러한 문화적 맥락을 이해하고 반영해야 한다. 이는 향후 AI와 UX의 발전 방향에 중대한 영향을 미칠 것이다.",
-      "keywords": [
-        "AI",
-        "문화적 기본값",
-        "UX 디자인"
-      ],
-      "source": "uxdesign.cc",
-      "date": "9월 15일",
-      "publishedAt": "2026-09-15T11:13:46.000Z",
-      "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-09-16"
     },
     {
       "category": "ai",
@@ -4483,38 +4579,6 @@
     },
     {
       "category": "ai",
-      "title": "Fyxer가 신뢰받는 AI 비서 구축하는 방법",
-      "summary": "Fyxer는 OpenAI 모델과 사용자 피드백을 활용하여 개인화된 이메일 작성과 인박스 정리를 지원하는 AI 비서를 개발했다. 이 시스템은 사용자의 목소리를 반영하여 더 나은 커뮤니케이션을 가능하게 한다.",
-      "summary_full": "Fyxer는 OpenAI 모델을 기반으로 하여 AI 비서를 구축하고, 이를 통해 사용자들이 신뢰할 수 있는 비서 역할을 수행하도록 한다. 이 비서는 사용자의 피드백을 반영하여 지속적으로 개선되며, 개인의 목소리를 담아 이메일을 작성하고 인박스를 정리하는 데 도움을 준다. Fyxer는 메모리 기능을 통해 사용자의 선호도를 기억하고, 이를 바탕으로 더욱 맞춤화된 서비스를 제공한다. 이러한 접근 방식은 사용자 경험을 향상시키고, 비서와의 신뢰 관계를 구축하는 데 기여한다.",
-      "keywords": [
-        "AI 비서",
-        "OpenAI",
-        "사용자 피드백"
-      ],
-      "source": "OpenAI News",
-      "date": "9월 14일",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "url": "https://openai.com/index/fyxer",
-      "collectedAt": "2026-09-16"
-    },
-    {
-      "category": "design",
-      "title": "UX ROI 사례 구축하기: 이사회에서 살아남기",
-      "summary": "CFO가 디자인의 실제 비즈니스 기여도를 묻는 시대가 왔다. UX 디자인은 사용자뿐만 아니라 비즈니스에도 긍정적인 영향을 미쳐야 한다.",
-      "summary_full": "이제는 UX 디자인이 비즈니스에 미치는 영향을 입증해야 예산과 지지를 얻을 수 있다. 과거의 5분 피치로는 충분하지 않으며, 디자인의 효과를 명확히 보여줘야 한다. 스토리보드만으로는 CFO의 질문에 답할 수 없다. 따라서 UX의 가치를 비즈니스 관점에서 증명하는 것이 중요하다.",
-      "keywords": [
-        "UX",
-        "ROI",
-        "비즈니스 가치"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "9월 11일",
-      "publishedAt": "2026-09-11T13:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-      "collectedAt": "2026-09-16"
-    },
-    {
-      "category": "ai",
       "title": "AI 모델의 전술 정보 및 무기 능력 평가",
       "summary": "AI 모델의 전술 정보 타겟팅 및 전통적 무기 능력을 측정하는 연구가 진행된다. 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
       "summary_full": "AI 모델의 전술 정보 타겟팅 및 전통적 무기 능력을 평가하는 Frontier Red Team의 연구가 소개된다. 이 연구는 AI 기술이 군사 작전에서 어떻게 활용될 수 있는지를 분석한다. 특히, AI의 정확성과 효율성을 높이기 위한 방법론이 논의된다. 궁극적으로, 이 연구는 AI의 군사적 응용 가능성을 확장하는 데 기여할 것으로 기대된다.",
@@ -4531,9 +4595,9 @@
     },
     {
       "category": "frontend",
-      "title": "모든 브라우저에서 사용할 수 있는 emergent CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 앞으로의 웹 디자인에서 중요한 역할을 할 것으로 기대됩니다. 이 글에서는 이 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 처음 작성되고 사랑을 담아 발표된 이 글은 웹 개발자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
+      "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
+      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
+      "summary_full": "CSS random() 함수는 앞으로 모든 브라우저에서 사용할 수 있도록 개발되고 있습니다. 이 글에서는 해당 함수를 위한 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 처음 작성되고 사랑으로 게시된 이 글은 독자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -4543,7 +4607,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-10-16"
+      "collectedAt": "2026-10-17"
     },
     {
       "category": "ai",
@@ -4564,8 +4628,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개되었다. 이 트렌드는 사용자 경험을 개선하고, 더 나은 인터페이스를 제공하기 위한 다양한 혁신적인 접근 방식을 포함하고 있다. 특히, 시각적 요소와 상호작용 디자인의 중요성이 강조되고 있다. 이러한 트렌드는 앞으로의 디자인 방향성을 제시할 것으로 기대된다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이러한 트렌드는 사용자 경험을 향상시키기 위해 다양한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들은 최신 UX/UI 트렌드에 주목하고 있으며, 이는 사용자 경험을 개선하기 위한 새로운 방법들을 제시하고 있다. 특히, 인터페이스의 직관성과 접근성을 높이는 디자인 요소들이 강조되고 있다. 또한, 지속 가능한 디자인과 개인화된 경험을 제공하는 것이 중요한 화두로 떠오르고 있다. 이러한 변화는 디지털 환경에서의 경쟁력을 높이는 데 기여할 것으로 예상된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4575,23 +4639,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-10-16"
+      "collectedAt": "2026-10-17"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 역사적 배경을 이해하는 것이 앱 자체에서 배우는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 시스템은 현대 언어 학습 앱의 디자인에 큰 영향을 미쳤다. 따라서 언어 학습 방법의 기원을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 언어 학습 앱의 디자인에 미친 영향을 이해하는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "디자인 교훈"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-10-16"
+      "collectedAt": "2026-10-17"
     },
     {
       "category": "ai",
