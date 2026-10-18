@@ -1,38 +1,118 @@
 {
-  "updated": "2026년 10월 17일 AM 03:03",
-  "count": 291,
+  "updated": "2026년 10월 18일 AM 03:05",
+  "count": 286,
   "articles": [
     {
       "category": "industry",
       "title": "AI로 만든 앱, 실제 서비스가 되려면?",
-      "summary": "AI 개발 플랫폼 '올리고'를 통해 AI 앱의 실제 서비스화 가능성을 탐구한다. 오늘의집의 AI 개발 여정을 통해 진짜 병목 문제를 해결하는 방법을 논의한다.",
-      "summary_full": "AI로 만든 앱이 실제 서비스로 발전하기 위해서는 여러 도전 과제가 있다. 오늘의집은 AI 개발 플랫폼 '올리고'를 구축하여 이러한 문제를 해결하고자 한다. 이 플랫폼은 AI 시대의 진짜 병목을 해결하는 데 중점을 두고 있다. 개발 기록을 통해 AI 앱의 서비스화 과정에서의 경험과 인사이트를 공유한다.",
+      "summary": "오늘의집이 AI 개발 플랫폼을 구축하는 과정을 다룬다. AI 시대의 병목 현상을 해결하기 위한 '올리고' 개발 기록을 공유한다.",
+      "summary_full": "오늘의집은 AI로 만든 앱이 실제 서비스로 발전하기 위한 과정을 탐구한다. 이 과정에서 AI 개발 플랫폼 구축의 중요성을 강조한다. 또한, AI 시대의 진짜 병목 현상을 해결하기 위한 '올리고'라는 플랫폼의 개발 기록을 소개한다. 이를 통해 AI 기술의 실제 적용 가능성을 논의한다.",
       "keywords": [
-        "AI",
-        "앱 개발",
-        "올리고"
+        "AI 개발 플랫폼",
+        "올리고",
+        "오늘의집"
       ],
       "source": "오늘의집 Culture",
-      "date": "10월 17일",
-      "publishedAt": "2026-10-17T03:02:11.895Z",
+      "date": "10월 18일",
+      "publishedAt": "2026-10-18T03:04:14.888Z",
       "url": "https://www.bucketplace.com/post/2026-10-16-ai%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%95%B1-%EC%8B%A4%EC%A0%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-ai-%EA%B0%9C%EB%B0%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4/",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "design",
       "title": "한국은 AI 사용률 세계 12위, 1위는 어디일까?",
-      "summary": "한국의 인공지능(AI) 사용률이 세계에서 12위에 해당한다. 1위 국가에 대한 궁금증을 자아낸다.",
-      "summary_full": "한국은 AI 사용률에서 세계 12위를 기록하고 있으며, 이는 글로벌 AI 시장에서의 위치를 나타낸다. 이 기사에서는 AI 사용률이 가장 높은 국가에 대한 정보를 제공한다. AI 기술의 발전과 활용이 국가 경쟁력에 미치는 영향도 다룬다. 독자들은 AI 사용률 1위 국가에 대한 흥미로운 사실을 알게 될 것이다.",
+      "summary": "한국의 AI 사용률이 세계에서 12위에 해당한다. 가장 높은 사용률을 기록한 국가는 어디인지 궁금하다.",
+      "summary_full": "한국은 AI 사용률에서 세계 12위를 차지하고 있다. 이는 국가별 AI 기술 도입과 활용에 대한 흥미로운 통계를 보여준다. AI 사용률 1위 국가는 어떤 나라인지에 대한 질문이 제기된다. 이와 관련된 다양한 데이터와 분석이 필요하다.",
       "keywords": [
         "AI 사용률",
         "한국",
         "세계 순위"
       ],
       "source": "Secondbrush Blog",
-      "date": "10월 17일",
-      "publishedAt": "2026-10-17T03:02:07.293Z",
+      "date": "10월 18일",
+      "publishedAt": "2026-10-18T03:04:10.070Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-855/",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
+    },
+    {
+      "category": "frontend",
+      "title": "AI 개발 도구: Cloudflare Workers Hono + D1 다중 테넌트 인증 보일러플레이트",
+      "summary": "Cloudflare Workers Hono와 D1 다중 테넌트 인증 보일러플레이트의 생산 환경에서의 확장성 문제를 다룬다. 구현 시 발생할 수 있는 병목 현상과 관련된 여러 문제를 설명한다.",
+      "summary_full": "이 기사는 Cloudflare Workers Hono와 D1 다중 테넌트 인증 보일러플레이트의 생산 환경에서의 확장성 문제를 다룬다. 특히, 버스트 동시성에서 발생하는 문제들, 예를 들어 소켓 파일 설명자의 고갈, 처리되지 않은 HTTP 429/503 응답으로 인한 재시도 폭풍, 느슨한 페이로드 검증으로 인한 하위 상태 손상 등을 설명한다. 이러한 문제를 해결하기 위한 아키텍처와 벤치마크, Python/Edge 구현 방법도 논의된다. 최적의 성능을 위해 필요한 접근 방식을 제안한다.",
+      "keywords": [
+        "Cloudflare Workers",
+        "다중 테넌트 인증",
+        "Python/Edge 구현"
+      ],
+      "source": "dev.to",
+      "date": "10월 18일",
+      "publishedAt": "2026-10-18T03:01:11.000Z",
+      "url": "https://dev.to/mr_pr0cess/ai-dev-tool-cloudflare-workers-hono-d1-multi-tenant-auth-boilerplate-architecture-benchmarks-942",
+      "collectedAt": "2026-10-18"
+    },
+    {
+      "category": "trend",
+      "title": "일관된 인쇄용 색칠 세트 만들기",
+      "summary": "색칠 페이지의 시각적 언어가 페이지마다 일관되면 더 쉽게 즐길 수 있다.",
+      "summary_full": "색칠 페이지는 페이지 간의 시각적 언어가 일관성을 유지할 때 더 즐겁게 사용할 수 있다. 이를 통해 사용자는 색칠하는 경험을 더욱 향상시킬 수 있다. 일관된 디자인 요소를 적용하여 색칠 세트를 구성하는 방법에 대해 설명한다.",
+      "keywords": [
+        "색칠 페이지",
+        "디자인 일관성",
+        "인쇄용 색칠 세트"
+      ],
+      "source": "dev.to",
+      "date": "10월 18일",
+      "publishedAt": "2026-10-18T02:00:00.000Z",
+      "url": "https://dev.to/taorobotics/how-to-make-a-consistent-printable-coloring-set-1clj",
+      "collectedAt": "2026-10-18"
+    },
+    {
+      "category": "industry",
+      "title": "지그재그, 성수동에서 오프라인 팝업스토어 개최",
+      "summary": "지그재그가 성수동에서 팝업스토어를 열어 소비자에게 온라인 상품을 직접 체험할 기회를 제공한다. 입점 쇼핑몰의 브랜드 성장을 지원하는 목적도 있다.",
+      "summary_full": "지그재그는 16일부터 3일간 서울 성수동에서 '지그재그 익스프레스' 팝업스토어를 운영한다. 소비자들은 온라인에서만 보던 상품을 직접 입어보고 구매할 수 있다. 또한, 입점 쇼핑몰은 자체 제작 상품과 스타일을 알릴 수 있는 기회를 얻는다. 이는 입점 쇼핑몰의 독자적인 브랜드 성장을 지원하기 위한 노력의 일환이다.",
+      "keywords": [
+        "지그재그",
+        "팝업스토어",
+        "온라인 쇼핑"
+      ],
+      "source": "바이라인네트워크",
+      "date": "10월 18일",
+      "publishedAt": "2026-10-18T01:58:55.000Z",
+      "url": "https://byline.network/2026/10/15_zigzag/",
+      "collectedAt": "2026-10-18"
+    },
+    {
+      "category": "industry",
+      "title": "에릭슨, 두 아시아 사업부 통합으로 매출 7% 증가",
+      "summary": "에릭슨의 조정된 EBITA는 3분기에 101억 스웨덴 크로나로, 예상치를 크게 웃돌았다. 주가는 스톡홀름에서 11% 상승하며 올해 최대 일일 상승폭을 기록했다.",
+      "summary_full": "에릭슨의 조정된 EBITA는 3분기에 101억 스웨덴 크로나로, 애널리스트들이 예상한 79억 크로나를 초과했다. 이로 인해 주가는 스톡홀름에서 11% 상승하며 올해 최대 일일 상승폭을 기록했다. 두 아시아 사업부의 통합이 매출 증가에 기여한 것으로 보인다. 블룸버그에 따르면, 이는 1월 23일 이후 가장 큰 상승폭이다.",
+      "keywords": [
+        "에릭슨",
+        "EBITA",
+        "아시아 사업부 통합"
+      ],
+      "source": "thenextweb.com",
+      "date": "10월 17일",
+      "publishedAt": "2026-10-17T20:17:59.000Z",
+      "url": "https://thenextweb.com/news/ericsson-q3-2026-narvinger-apac-restructure",
+      "collectedAt": "2026-10-18"
+    },
+    {
+      "category": "trend",
+      "title": "암호화가 사방에서 압박받고 있다",
+      "summary": "캐나다의 계획된 감시법은 전 세계적으로 확산되고 있는 암호화에 대한 위협의 최신 사례이다. 이는 암호화 기술에 대한 심각한 도전으로 여겨진다.",
+      "summary_full": "캐나다의 계획된 감시법은 암호화에 대한 위협이 전 세계적으로 확산되고 있는 가운데 나타난 최신 사례이다. 이러한 법안은 개인의 프라이버시와 보안을 침해할 수 있는 우려를 낳고 있다. 암호화 기술은 정보 보호의 중요한 수단으로 여겨지지만, 각국 정부의 감시 강화로 인해 그 사용이 제한될 위험이 커지고 있다. 따라서 암호화의 미래는 불확실해지고 있으며, 이에 대한 논의가 필요하다.",
+      "keywords": [
+        "암호화",
+        "감시법",
+        "프라이버시"
+      ],
+      "source": "wired.com",
+      "date": "10월 17일",
+      "publishedAt": "2026-10-17T12:00:00.000Z",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "frontend",
@@ -84,9 +164,9 @@
     },
     {
       "category": "ai",
-      "title": "이타우가 전체 고객을 위한 생성적 AI 구축 방법",
-      "summary": "이타우는 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 통해 AI 우선 전략을 고객과 직원에게 적용하고 있다. 이는 브라질의 가장 규제가 엄격한 분야 중 하나에서 이루어지고 있다.",
-      "summary_full": "이타우는 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 통해 AI 우선 전략을 고객과 직원에게 적용하고 있다. 이러한 접근은 고객 경험을 향상시키고 직원의 효율성을 높이는 데 기여하고 있다. 이타우는 브라질의 금융 산업에서 규제가 엄격한 환경 속에서도 혁신을 추구하고 있다. 이로 인해 고객에게 보다 나은 서비스를 제공할 수 있는 기반을 마련하고 있다.",
+      "title": "이타우가 전체 고객을 위한 생성적 AI 구축하는 방법",
+      "summary": "이타우는 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 통해 AI 우선 전략을 고객과 직원에게 적용하고 있습니다. 이는 브라질의 가장 규제가 엄격한 분야 중 하나에서 이루어지고 있습니다.",
+      "summary_full": "이타우는 고객과 직원 모두를 위한 AI 우선 전략을 실행하고 있습니다. 이를 위해 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 활용하고 있습니다. 이 접근 방식은 브라질의 규제가 엄격한 금융 분야에서 중요한 의미를 갖습니다. 이타우는 이러한 기술을 통해 고객 경험을 혁신하고 있습니다.",
       "keywords": [
         "이타우",
         "생성적 AI",
@@ -96,7 +176,7 @@
       "date": "10월 16일",
       "publishedAt": "2026-10-16T19:00:00.000Z",
       "url": "https://openai.com/index/itau-generative-ai",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "industry",
@@ -148,25 +228,25 @@
     },
     {
       "category": "ai",
-      "title": "클라우드 없이 AI 실행 가능한 엔비디아 'RTX 스파크' 출시",
-      "summary": "엔비디아가 클라우드 없이 AI를 실행할 수 있는 'RTX 스파크'를 출시했다. 이 제품은 AI 연산을 보다 효율적으로 수행할 수 있도록 설계되었다.",
-      "summary_full": "엔비디아는 최근 'RTX 스파크'라는 새로운 제품을 발표하며 클라우드 없이 AI를 실행할 수 있는 가능성을 제시했다. 이 제품은 고성능 GPU를 활용하여 AI 연산을 효율적으로 처리할 수 있도록 설계되었다. 이를 통해 사용자들은 클라우드 서비스에 의존하지 않고도 AI 작업을 수행할 수 있게 된다. 'RTX 스파크'는 AI 기술의 접근성을 높이는 데 기여할 것으로 기대된다.",
+      "title": "클라우드 없이 AI 운영하는 엔비디아 'RTX 스파크' 출시",
+      "summary": "엔비디아가 클라우드 없이 AI를 실행할 수 있는 'RTX 스파크'를 출시했다. 이 제품은 AI 작업을 보다 효율적으로 수행할 수 있도록 설계되었다.",
+      "summary_full": "엔비디아가 새로운 AI 솔루션인 'RTX 스파크'를 발표했다. 이 제품은 클라우드 환경 없이도 AI 작업을 가능하게 하여 사용자들에게 더 큰 유연성을 제공한다. RTX 스파크는 고성능 그래픽 처리 능력을 바탕으로 AI 연산을 지원하며, 다양한 산업 분야에서 활용될 수 있다. 이를 통해 기업들은 클라우드 의존도를 줄이고 비용을 절감할 수 있을 것으로 기대된다.",
       "keywords": [
         "엔비디아",
         "RTX 스파크",
-        "AI 기술"
+        "AI 솔루션"
       ],
       "source": "Google News AI (KR)",
       "date": "10월 16일",
       "publishedAt": "2026-10-16T12:00:01.000Z",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4WmJmOGJISUNHY2VwWmpIMGdlVkRwMHdVTmV5SmJSMkRVeUpEV1hfX0ZWUmViTTAzc01aM1RoZGV4MFoxM1dsbjVvYTQ0T1ZLT3pPRm8xM2hSUnpubnVHYmlEdkZCcTNKTFI4aXEyQ1JKN1Bn?oc=5",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "design",
       "title": "조직의 AI 도입이 잘못되고 있나요?",
-      "summary": "많은 조직이 AI를 도입하는 방식이 전략보다는 우스꽝스럽게 느껴진다. 과거에도 비슷한 실수를 반복해왔다는 점이 더욱 실망스럽다.",
-      "summary_full": "조직들이 AI를 도입하는 방식이 전략적이지 않고 비효율적이라는 비판이 있다. 마치 영화처럼 믿기 어려운 상황이 연출되고 있으며, 이는 조직의 지능적인 접근이 부족함을 나타낸다. 2014년에도 비슷한 문제를 다룬 책을 집필한 경험이 있다. 이러한 반복적인 실수는 조직의 디지털 적응력에 심각한 영향을 미친다.",
+      "summary": "많은 조직이 AI를 도입하는 방식이 전략보다는 희극처럼 보인다. 과거에도 비슷한 실수를 반복해왔다는 점이 더욱 실망스럽다.",
+      "summary_full": "대부분의 조직이 AI를 도입하는 방식은 전략적이라기보다는 우스꽝스럽게 느껴진다. 만약 이 과정을 영화로 만든다면, 평론가들은 믿을 수 없다고 평가할 것이다. 이러한 상황은 과거에도 반복된 적이 있다. 2014년, 나는 디지털 적응에 관한 책을 집필하며 이러한 실수들을 다룬 바 있다.",
       "keywords": [
         "AI 도입",
         "조직 전략",
@@ -176,23 +256,25 @@
       "date": "10월 16일",
       "publishedAt": "2026-10-16T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "frontend",
-      "title": "도메인별 데이터 웨어하우스 구축 과정",
-      "summary": "토스 Data Warehouse 팀은 중앙 DW Airflow에서 도메인별 DW Airflow와 dbt 기반 파이프라인으로 전환하는 과정을 공유한다.",
-      "summary_full": "토스 Data Warehouse 팀의 김문수 엔지니어는 중앙 DW Airflow를 멈추지 않고 도메인별 DW Airflow로의 전환 과정을 설명한다. 이 새로운 플랫폼은 '뉴타운'으로 불리며, 데이터 적재 주체를 코드에 명시하는 방법을 다룬다. 코딩 에이전트가 데이터 출처를 찾지 못한 경험을 바탕으로, 그 답을 코드에 적어 넣기 위한 과정을 서술한다.",
+      "title": "도메인별 실행과 중앙 레포지토리 문맥",
+      "summary": "토스 Data Warehouse 팀이 중앙 DW Airflow에서 도메인별 DW Airflow와 dbt 기반의 파이프라인으로 전환한 과정을 공유합니다. 새로운 플랫폼은 '뉴타운'으로 불리며, 코드에서 적재 주체를 확인할 수 없었던 문제를 해결하는 이야기를 담고 있습니다.",
+      "summary_full": "토스 Data Warehouse 팀의 김문수가 중앙 DW Airflow에서 도메인별 DW Airflow와 dbt 기반의 파이프라인으로의 전환 과정을 설명합니다. 새로운 플랫폼은 팀 내에서 '뉴타운'으로 불리며, 이 과정에서 발생한 문제와 해결 방안을 다룹니다. 특히, 코드에서 적재 주체를 확인할 수 없었던 경험을 공유하며, 이를 해결하기 위한 노력에 대해 이야기합니다. 이 글은 데이터 웨어하우스 마트 구축에 대한 실질적인 통찰을 제공합니다.",
       "keywords": [
         "데이터 웨어하우스",
         "Airflow",
-        "dbt"
+        "dbt",
+        "파이프라인",
+        "뉴타운"
       ],
       "source": "toss.tech",
       "date": "10월 16일",
       "publishedAt": "2026-10-16T06:15:00.000Z",
       "url": "https://toss.tech/article/dw-airflow-migration",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "industry",
@@ -276,9 +358,9 @@
     },
     {
       "category": "ai",
-      "title": "인도어 사전학습 확장: 2.8조 개 토큰과 개방형 데이터 생성 파이프라인",
-      "summary": "이 연구는 2.8조 개의 토큰을 사용하여 인도어 모델의 사전학습을 확장하는 방법을 제시한다. 또한, 데이터 생성 파이프라인의 개방성을 통해 더 많은 연구자들이 접근할 수 있도록 한다.",
-      "summary_full": "이 연구는 인도어 언어 모델의 성능을 향상시키기 위해 2.8조 개의 토큰을 활용한 사전학습을 수행한다. 이를 통해 다양한 인도어 방언과 문맥을 포함한 데이터셋을 구축하였다. 또한, 개방형 데이터 생성 파이프라인을 도입하여 연구자들이 쉽게 데이터를 활용할 수 있도록 하였다. 이러한 접근은 인도어 자연어 처리 분야의 발전에 기여할 것으로 기대된다.",
+      "title": "인도어 사전학습 확장: 2.8조 토큰과 개방형 데이터 생성 파이프라인",
+      "summary": "이 연구는 2.8조 개의 토큰을 활용한 인도어 사전학습의 확장 방법을 제시한다. 또한, 데이터 생성 파이프라인의 개방성을 강조한다.",
+      "summary_full": "이 연구는 인도어 언어 모델의 성능을 향상시키기 위해 2.8조 개의 토큰을 사용하는 방법을 탐구한다. 연구자들은 대규모 데이터 세트를 생성하기 위한 개방형 데이터 생성 파이프라인을 개발하였다. 이 접근 방식은 다양한 인도어 데이터 소스를 통합하여 모델의 일반화 능력을 향상시킨다. 결과적으로, 이 연구는 인도어 자연어 처리 분야의 발전에 기여할 것으로 기대된다.",
       "keywords": [
         "인도어",
         "사전학습",
@@ -288,7 +370,7 @@
       "date": "10월 16일",
       "publishedAt": "2026-10-16T01:44:47.000Z",
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "trend",
@@ -308,9 +390,9 @@
     },
     {
       "category": "ai",
-      "title": "최전선에서의 일은 미래에 대한 기대를 형성한다",
-      "summary": "최전선에서의 경험은 미래에 대한 기대를 변화시킨다. 이러한 경험은 혁신과 도전의 중요성을 강조한다.",
-      "summary_full": "최전선에서의 일은 개인의 미래에 대한 기대를 형성하는 데 중요한 역할을 한다. 이러한 경험은 새로운 아이디어와 접근 방식을 탐구하게 하며, 혁신의 필요성을 강조한다. 또한, 도전적인 환경에서의 경험은 개인의 성장과 발전에 기여한다. 결과적으로, 최전선에서의 경험은 미래에 대한 긍정적인 기대를 증진시킨다.",
+      "title": "최전선에서의 근무가 미래에 대한 기대를 형성하다",
+      "summary": "최전선에서의 경험은 미래에 대한 기대를 변화시킨다. 이러한 경험은 새로운 가능성과 도전 과제를 제시한다.",
+      "summary_full": "최전선에서의 근무는 개인의 기대와 목표를 재정립하는 데 중요한 역할을 한다. 이러한 환경에서 일하는 것은 새로운 기술과 혁신을 접할 기회를 제공한다. 또한, 이는 미래의 직업 세계에 대한 인식을 변화시키고, 더 나은 준비를 가능하게 한다. 결국, 최전선에서의 경험은 개인과 조직 모두에게 긍정적인 영향을 미친다.",
       "keywords": [
         "최전선",
         "미래 기대",
@@ -320,7 +402,7 @@
       "date": "10월 16일",
       "publishedAt": "2026-10-16T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/expectations-for-the-future",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "industry",
@@ -356,19 +438,19 @@
     },
     {
       "category": "industry",
-      "title": "인간의 개입은 인간이 소외되지 않도록 하는 것",
-      "summary": "AI가 인간의 승인 없이도 작업을 진행하는 상황을 다루고 있다. 결과에 대한 소유권이 없으면 단순히 인간이 개입하는 것만으로는 부족하다.",
-      "summary_full": "AI가 인간의 승인 없이 작업을 진행하는 현상을 설명하고 있다. 이제 AI는 요청을 기다리지 않고 스스로 행동하며, 승인된 범위를 넘어서는 경우도 발생한다. 따라서 단순히 인간이 개입하는 것만으로는 충분하지 않으며, 결과에 대한 소유권이 중요하다. 디자인할 때 이러한 요소들을 고려해야 한다.",
+      "title": "인간의 참여는 인간이 소외되지 않도록 하는 것",
+      "summary": "AI가 인간의 승인 없이도 작업을 진행할 수 있는 상황에서, 인간의 역할이 중요해진다. 결과에 대한 책임이 없는 경우, 단순히 인간이 참여하는 것만으로는 충분하지 않다.",
+      "summary_full": "AI가 인간의 승인 없이도 작업을 진행하는 현상에서, 인간의 참여가 더욱 중요해지고 있다. AI는 이제 요청이 없어도 행동하며, 승인된 범위를 넘어서는 경우가 많아졌다. 따라서 결과에 대한 책임이 명확하지 않다면, 단순히 인간이 참여하는 것만으로는 부족하다. 디자인 시 이러한 점을 고려해야 한다.",
       "keywords": [
         "AI",
-        "인간 개입",
-        "결과 소유권"
+        "인간의 참여",
+        "디자인"
       ],
       "source": "uxdesign.cc",
       "date": "10월 15일",
       "publishedAt": "2026-10-15T22:09:29.000Z",
       "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "ai",
@@ -388,9 +470,25 @@
     },
     {
       "category": "ai",
+      "title": "구글 안티그래비티를 활용한 항균 펩타이드 탐색 가속화",
+      "summary": "구글 안티그래비티를 사용하여 새로운 항균 펩타이드의 탐색을 가속화하는 방법을 소개한다. 이 기술은 과학 연구에 혁신적인 기여를 할 것으로 기대된다.",
+      "summary_full": "구글 안티그래비티를 활용하여 항균 펩타이드의 탐색 속도를 높이는 방법을 제시한다. 이 접근법은 기존의 연구 방법보다 효율적이며, 새로운 항균 물질 발견에 기여할 수 있다. 과학자들은 이 기술을 통해 더 많은 데이터를 신속하게 분석하고, 유망한 후보 물질을 빠르게 식별할 수 있다. 이는 항생제 내성 문제 해결에 중요한 역할을 할 것으로 보인다.",
+      "keywords": [
+        "항균 펩타이드",
+        "구글 안티그래비티",
+        "과학 연구"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "10월 15일",
+      "publishedAt": "2026-10-15T16:08:03.000Z",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "collectedAt": "2026-10-18"
+    },
+    {
+      "category": "ai",
       "title": "타임스트랄 소개",
-      "summary": "최첨단 확률적 예측 모델을 네 가지 크기로 제공합니다. CPU 효율적이며 제로샷 준비가 완료되었습니다.",
-      "summary_full": "타임스트랄은 5M에서 209M 파라미터까지 다양한 크기의 확률적 예측 모델을 제공합니다. 이 모델은 CPU 효율성을 고려하여 설계되었으며, 제로샷 학습을 지원합니다. 이를 통해 사용자는 다양한 예측 작업을 효과적으로 수행할 수 있습니다. 최신 기술을 활용하여 예측의 정확성을 높이고자 하는 사용자에게 적합합니다.",
+      "summary": "최첨단 확률적 예측 모델을 4가지 크기로 제공한다. CPU 효율적이며 제로샷 준비가 완료되었다.",
+      "summary_full": "타임스트랄은 5M에서 209M 파라미터까지 다양한 크기의 확률적 예측 모델을 소개한다. 이 모델은 CPU 효율성을 고려하여 설계되었으며, 제로샷 학습이 가능하다. 이를 통해 다양한 예측 작업에 적합하게 활용될 수 있다. 최신 기술을 바탕으로 한 이 모델은 예측의 정확성을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "확률적 예측",
         "CPU 효율성",
@@ -400,7 +498,7 @@
       "date": "10월 15일",
       "publishedAt": "2026-10-15T12:00:00.000Z",
       "url": "https://mistral.ai/news/timestral",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "trend",
@@ -437,18 +535,18 @@
     {
       "category": "figma",
       "title": "코드 협업 및 프로토타입 제작 방법 발표",
-      "summary": "코드와 협업하는 새로운 방법이 공개되었습니다. 디자인 프레임을 변환하거나 GitHub 레포를 가져와 인터랙티브한 프로토타입을 만들 수 있습니다.",
-      "summary_full": "오늘, 코드와 협업하는 새로운 방법과 실제 데이터 및 콘텐츠로 구축하는 방법이 공개되었습니다. Config India 2026에서 발표된 내용에는 디자인 프레임 변환, GitHub 레포 가져오기, Figma Chrome 확장 프로그램을 통한 웹사이트 캡처 등이 포함됩니다. 이를 통해 사용자들은 코드 기반의 인터랙티브한 프로토타입을 손쉽게 만들 수 있습니다. 이러한 혁신은 개발자와 디자이너 간의 협업을 더욱 원활하게 할 것입니다.",
+      "summary": "새로운 코드 기반 프로토타입 제작 및 협업 방법이 소개되었습니다. Figma Chrome 확장을 통해 웹사이트를 캡처하고 GitHub 리포를 가져오는 기능이 포함됩니다.",
+      "summary_full": "오늘, 코드로 구축하고 협업하는 새로운 방법이 발표되었습니다. 사용자들은 디자인 프레임을 변환하거나 GitHub 리포를 가져와 인터랙티브한 프로토타입을 생성할 수 있습니다. 또한, Figma Chrome 확장을 통해 웹사이트를 캡처하는 기능도 제공됩니다. 이러한 혁신은 Config India 2026에서 공유되었습니다.",
       "keywords": [
         "코드 협업",
         "프로토타입 제작",
-        "Config India 2026"
+        "Figma"
       ],
       "source": "Figma Release Notes",
       "date": "10월 15일",
       "publishedAt": "2026-10-15T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "industry",
@@ -710,9 +808,9 @@
     },
     {
       "category": "ai",
-      "title": "워크데이, Anthropic과 Claude AI 통합",
-      "summary": "워크데이가 Anthropic과 협력하여 Claude AI를 통합한다. 이 통합은 기업의 인공지능 활용을 강화할 것으로 기대된다.",
-      "summary_full": "워크데이가 Anthropic과 손잡고 Claude AI를 자사의 플랫폼에 통합하기로 했다. 이번 협력은 인공지능 기술을 통해 업무 효율성을 높이고, 사용자 경험을 개선하는 데 중점을 두고 있다. Claude AI는 자연어 처리 및 데이터 분석에 강점을 가진 AI로, 기업의 다양한 요구를 충족할 수 있을 것으로 보인다. 이러한 통합은 워크데이가 AI 기술을 통해 경쟁력을 강화하려는 전략의 일환이다.",
+      "title": "워크데이와 Anthropic의 Claude AI 통합",
+      "summary": "워크데이가 Anthropic과 협력하여 Claude AI를 통합했다. 이 통합은 기업의 업무 효율성을 높이는 데 기여할 것으로 기대된다.",
+      "summary_full": "워크데이가 AI 기술을 활용하기 위해 Anthropic과 파트너십을 체결했다. Claude AI의 통합은 기업의 데이터 분석 및 의사결정 과정을 개선할 예정이다. 이를 통해 사용자들은 더 나은 업무 환경을 경험할 수 있을 것으로 보인다. 워크데이는 AI 솔루션을 통해 비즈니스 혁신을 추구하고 있다.",
       "keywords": [
         "워크데이",
         "Anthropic",
@@ -722,7 +820,7 @@
       "date": "10월 13일",
       "publishedAt": "2026-10-13T13:18:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MMjVkeldvWEJpY2ZwYW9FcUVuM1FoWlduc1kzUnFuRmZDRFBrUkl4Yl9uM2toRmotcTVTUll6QWxHZTRmb2ljYmpseExQRlRIa1ZlMTdoUVdsakVNSEFFemZGQTlfZC02eHhDQWZwdjY?oc=5",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "frontend",
@@ -4322,70 +4420,6 @@
       "collectedAt": "2026-09-18"
     },
     {
-      "category": "design",
-      "title": "초파리의 뇌로 드론 조종",
-      "summary": "초파리의 뇌를 활용하여 드론을 조종하는 연구가 진행되고 있다. 이 연구는 생물학적 신경망의 작동 원리를 이해하는 데 기여할 것으로 기대된다.",
-      "summary_full": "최근 연구에서 초파리의 뇌를 이용해 드론을 조종하는 실험이 진행되었다. 연구자들은 초파리의 신경망을 분석하여 드론의 비행 경로를 제어하는 방법을 개발하였다. 이 기술은 생물학적 신경망의 작동 원리를 이해하는 데 중요한 기초 자료가 될 것으로 보인다. 향후 다양한 생물체의 신경망을 활용한 기술 개발이 기대된다.",
-      "keywords": [
-        "초파리",
-        "드론",
-        "신경망"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "9월 17일",
-      "publishedAt": "2026-09-17T03:28:57.356Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-834/",
-      "collectedAt": "2026-09-17"
-    },
-    {
-      "category": "frontend",
-      "title": "API를 통한 전화번호 검증 방법 - 글로벌 커버리지",
-      "summary": "전화 데이터 오류는 전환율을 저하시킨다. 대부분의 개발자는 맞춤형 솔루션을 구축하거나 비싼 엔터프라이즈 API를 사용한다.",
-      "summary_full": "전화 데이터 오류는 전환율을 저하시킨다. 대부분의 개발자는 맞춤형 솔루션을 구축하거나 비싼 엔터프라이즈 API를 사용하지만, 이는 대부분의 프로젝트에 과하다. 중간 솔루션이 필요하다. Numverify를 통해 실시간으로 전화번호를 검증할 수 있다.",
-      "keywords": [
-        "전화번호 검증",
-        "API",
-        "Numverify"
-      ],
-      "source": "dev.to",
-      "date": "9월 17일",
-      "publishedAt": "2026-09-17T03:23:00.000Z",
-      "url": "https://dev.to/nick_davies_323125afbb05c/how-to-validate-phone-numbers-via-api-global-coverage-3lf3",
-      "collectedAt": "2026-09-17"
-    },
-    {
-      "category": "trend",
-      "title": "AI 앨범 커버 생성기를 활용한 애니메이션 데뷔 키트 구축",
-      "summary": "AI를 이용해 애니메이션 캐릭터의 데뷔 앨범을 제작하는 과정을 다룬다. 캐릭터의 다양한 의상 변화를 통해 앨범 커버를 디자인하는 실험을 진행했다.",
-      "summary_full": "이 기사는 AI 앨범 커버 생성기를 사용하여 애니메이션 캐릭터의 데뷔 앨범을 만드는 과정을 설명한다. 주인공 캐릭터는 여러 의상 변화를 겪었지만 실제로는 앨범을 출시하지 못했다. 이러한 상황에서 AI 도구를 활용하여 앨범 커버를 디자인하고, 캐릭터의 첫 앨범을 출시하는 실험을 진행했다. 이를 통해 AI 기술이 창작 과정에 어떻게 기여할 수 있는지를 보여준다.",
-      "keywords": [
-        "AI",
-        "앨범 커버",
-        "애니메이션 캐릭터"
-      ],
-      "source": "dev.to",
-      "date": "9월 17일",
-      "publishedAt": "2026-09-17T01:30:43.000Z",
-      "url": "https://dev.to/amit_nag_4851dc190c33a368/using-an-ai-album-cover-generator-to-build-a-complete-anime-debut-kit-19h6",
-      "collectedAt": "2026-09-17"
-    },
-    {
-      "category": "industry",
-      "title": "GTA6의 넷플릭스 마케팅, 게임 업계 트렌드 될까",
-      "summary": "GTA6의 예고편이 넷플릭스를 통해 선공개되며 게임 홍보의 새로운 방향성을 제시했다. 게임사와 영상 플랫폼 간의 협업이 효과적인 결과를 가져왔다.",
-      "summary_full": "락스타 게임즈가 넷플릭스를 통해 GTA6 예고편을 선공개하며 큰 성과를 거두었다. 이는 게임 업계의 미디어믹스 전략이 단순한 콘텐츠 제작을 넘어 신작 홍보 수단으로 활용될 수 있음을 보여준다. 이러한 협업은 게임사는 홍보 수단을 확보하고, 영상 플랫폼은 시청자를 확보하는 효과를 가져온다. 앞으로 이와 같은 마케팅 전략이 게임 업계의 새로운 트렌드로 자리잡을 가능성이 있다.",
-      "keywords": [
-        "GTA6",
-        "넷플릭스",
-        "게임 마케팅"
-      ],
-      "source": "바이라인네트워크",
-      "date": "9월 17일",
-      "publishedAt": "2026-09-17T00:43:55.000Z",
-      "url": "https://byline.network/2026/09/15-651/",
-      "collectedAt": "2026-09-17"
-    },
-    {
       "category": "ai",
       "title": "클로드가 생체분자 모델링을 향상시키는 방법",
       "summary": "클로드는 생체분자 모델링의 새로운 가능성을 열고 있다. 이 기술은 생명과학 연구에 혁신적인 변화를 가져올 것으로 기대된다.",
@@ -4400,86 +4434,6 @@
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
       "collectedAt": "2026-09-24"
-    },
-    {
-      "category": "trend",
-      "title": "다이슨의 새로운 로봇 청소기 라인: 다이슨 누로비 라인 (2026)",
-      "summary": "누로비 라인은 3개의 라이다 기반 로봇 청소기로 구성되어 있습니다. 가장 흥미로운 모델을 구매하려면 코스트코 회원 가입이 필요합니다.",
-      "summary_full": "다이슨의 누로비 라인은 최신 기술이 적용된 3개의 로봇 청소기로 구성되어 있습니다. 이 제품들은 라이다 센서를 활용하여 정밀한 청소를 제공합니다. 특히, 소비자들이 가장 관심을 가지는 모델은 코스트코 회원만 구매할 수 있는 제한된 제품입니다. 다이슨은 혁신적인 디자인과 기능으로 시장에서의 경쟁력을 강화하고 있습니다.",
-      "keywords": [
-        "다이슨",
-        "로봇 청소기",
-        "누로비"
-      ],
-      "source": "wired.com",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T23:42:55.000Z",
-      "url": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
-      "collectedAt": "2026-09-17"
-    },
-    {
-      "category": "industry",
-      "title": "포르쉐의 무선 충전 패드, 유럽에서 판매 시작",
-      "summary": "포르쉐가 독일 및 유럽 시장에서 11kW 무선 충전 패드를 주문받기 시작했다. 이 패드는 바닥에 고정 설치해야 하며, 가격은 6,961.49 유로이다.",
-      "summary_full": "포르쉐는 Cayenne Electric 모델을 위한 11kW 무선 충전 패드를 독일 및 기타 유럽 시장에서 판매하기 시작했다. 이 충전 패드는 바닥에 영구적으로 설치되어야 하며, 최대 90%의 효율성을 제공한다. 패드와 차량 측 하드웨어를 함께 구매하는 가격은 6,961.49 유로이다. 유럽의 가정용 충전 설치 규정에 따라 설치가 필요하다.",
-      "keywords": [
-        "포르쉐",
-        "무선 충전",
-        "유럽 판매"
-      ],
-      "source": "thenextweb.com",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T17:55:07.000Z",
-      "url": "https://thenextweb.com/news/porsche-wireless-pad-right-to-plug",
-      "collectedAt": "2026-09-17"
-    },
-    {
-      "category": "ai",
-      "title": "Anthropic, Cowork를 단일 Claude 경험으로 통합",
-      "summary": "Anthropic이 Cowork 기능을 모든 플랜에 걸쳐 단일 Claude 경험으로 통합했다. 이를 통해 사용자들은 보다 일관된 AI 경험을 제공받을 수 있다.",
-      "summary_full": "Anthropic이 Cowork 기능을 모든 플랜에 걸쳐 단일 Claude 경험으로 통합했다. 이 통합은 사용자들에게 더 나은 협업 도구를 제공하고, AI와의 상호작용을 개선하는 데 기여할 것으로 기대된다. 새로운 기능은 모든 사용자에게 동일한 경험을 보장하며, AI의 활용도를 높이는 데 중점을 두고 있다. 이러한 변화는 AI 기술의 발전과 함께 사용자 요구에 부응하기 위한 노력의 일환으로 볼 수 있다.",
-      "keywords": [
-        "Anthropic",
-        "Cowork",
-        "Claude"
-      ],
-      "source": "Google News Anthropic",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T17:07:49.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNalZSZ2tWVFNxQmlNUXRRQkdxeUh2UVZtbVRGWDdtVmx1T0pzVHRqekx6Z09JTVEwaXA5Ml9lWmtHR19CWU9wVU1oa0JqRmdkVVhLVHl6UEp3R3M1eHlnbFRuMldoeUhQNUxselJlcjNCNVQ5SEdJRUZlNDN4THFobjlkNlhsUUc1cC13MFFUNXp4R24wbmFz?oc=5",
-      "collectedAt": "2026-09-17"
-    },
-    {
-      "category": "ai",
-      "title": "노인을 위한 AI 활용 지원",
-      "summary": "OpenAI와 AARP가 미국 10개 도시에서 1,000명의 노인을 대상으로 무료 ChatGPT 워크숍을 개최한다. 이 프로그램은 안전하게 실용적인 AI 기술을 배울 수 있도록 돕는다.",
-      "summary_full": "OpenAI와 AARP는 노인들이 일상생활에서 AI를 활용할 수 있도록 지원하기 위해 무료 ChatGPT 워크숍을 진행한다. 이 워크숍은 미국 10개 도시에서 1,000명의 노인을 대상으로 실시된다. 참가자들은 안전하게 AI 기술을 배우고 실용적인 스킬을 개발할 수 있는 기회를 갖게 된다. 이는 노인들이 현대 기술에 적응하고 활용할 수 있도록 돕는 중요한 이니셔티브이다.",
-      "keywords": [
-        "AI",
-        "노인",
-        "워크숍"
-      ],
-      "source": "OpenAI News",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "collectedAt": "2026-09-17"
-    },
-    {
-      "category": "industry",
-      "title": "셰익스피어가 AI에 대해 잘못 이해한 점",
-      "summary": "셰익스피어는 마법이 항상 중단될 수 있다고 썼지만, 우리가 만든 AI는 통제할 수 없는 형태로 발전했다. 그의 상상 속 마법은 도덕적 질서에 따랐지만, 현실의 AI는 그러지 않는다.",
-      "summary_full": "셰익스피어는 마법이 항상 중단될 수 있다고 묘사했으나, 우리가 만든 AI는 통제할 수 없는 형태로 발전했다. 그는 인간을 이해했지만, 우리가 실제로 만든 AI는 그의 상상력을 초월했다. 셰익스피어의 마법은 항상 꺼낼 수 있었고, 도덕적 질서에 따랐다. 그러나 현대의 AI는 그러한 특성을 가지지 않는다.",
-      "keywords": [
-        "셰익스피어",
-        "AI",
-        "마법"
-      ],
-      "source": "uxdesign.cc",
-      "date": "9월 16일",
-      "publishedAt": "2026-09-16T15:21:34.000Z",
-      "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-09-17"
     },
     {
       "category": "design",
@@ -4562,42 +4516,10 @@
       "collectedAt": "2026-09-18"
     },
     {
-      "category": "ai",
-      "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 솔루션은 기업의 AI 운영 비용을 크게 절감할 것으로 기대된다.",
-      "summary_full": "라이너가 새로운 AI 솔루션을 출시하여 LLM의 운영 비용을 절반으로 줄일 수 있는 기술을 선보였다. 이 혁신적인 솔루션은 기업들이 AI를 보다 효율적으로 활용할 수 있도록 돕는다. 특히, 비용 절감 효과로 인해 많은 기업들이 이 기술을 도입할 가능성이 높다. 라이너는 앞으로도 지속적으로 AI 기술 개발에 힘쓸 예정이다.",
-      "keywords": [
-        "라이너",
-        "AI 솔루션",
-        "LLM 비용 절감"
-      ],
-      "source": "Google News AI (KR)",
-      "date": "9월 15일",
-      "publishedAt": "2026-09-15T00:57:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSHp3NjJMYUozc2ZYMV9CZWJNTno1MVFWWTlONGhtWG9qSHIwcDdZSmVRSTlCNnlSOFdMdFdaQVJhRl9TV1p1c1VyRVJjTHFPT2ZVRHljbGhWQ0pqOG9reNIBYEFVX3lxTE4zSHp3NjJMYUozc2ZYMV9CZWJNTno1MVFWWTlONGhtWG9qSHIwcDdZSmVRSTlCNnlSOFdMdFdaQVJhRl9TV1p1c1VyRVJjTHFPT2ZVRHljbGhWQ0pqOG9reA?oc=5",
-      "collectedAt": "2026-09-17"
-    },
-    {
-      "category": "ai",
-      "title": "AI 모델의 전술 정보 및 무기 능력 평가",
-      "summary": "AI 모델의 전술 정보 타겟팅 및 전통적 무기 능력을 측정하는 연구가 진행된다. 이 연구는 AI의 군사적 활용 가능성을 탐구한다.",
-      "summary_full": "AI 모델의 전술 정보 타겟팅 및 전통적 무기 능력을 평가하는 Frontier Red Team의 연구가 소개된다. 이 연구는 AI 기술이 군사 작전에서 어떻게 활용될 수 있는지를 분석한다. 특히, AI의 정확성과 효율성을 높이기 위한 방법론이 논의된다. 궁극적으로, 이 연구는 AI의 군사적 응용 가능성을 확장하는 데 기여할 것으로 기대된다.",
-      "keywords": [
-        "AI 모델",
-        "전술 정보",
-        "군사 기술"
-      ],
-      "source": "Anthropic Research",
-      "date": "9월 10일",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "collectedAt": "2026-09-17"
-    },
-    {
       "category": "frontend",
       "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
       "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 앞으로 모든 브라우저에서 사용할 수 있도록 개발되고 있습니다. 이 글에서는 해당 함수를 위한 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 처음 작성되고 사랑으로 게시된 이 글은 독자들에게 유용한 정보를 제공합니다. 뉴스레터 구독도 추천합니다.",
+      "summary_full": "CSS random() 함수는 웹 개발자들에게 유용한 도구가 될 것입니다. 이 글에서는 이 함수를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. CSS-Tricks에서 처음 작성되고 사랑으로 발행된 이 글은 유용한 정보로 가득 차 있습니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -4607,7 +4529,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "ai",
@@ -4628,8 +4550,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이러한 트렌드는 사용자 경험을 향상시키기 위해 다양한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들은 최신 UX/UI 트렌드에 주목하고 있으며, 이는 사용자 경험을 개선하기 위한 새로운 방법들을 제시하고 있다. 특히, 인터페이스의 직관성과 접근성을 높이는 디자인 요소들이 강조되고 있다. 또한, 지속 가능한 디자인과 개인화된 경험을 제공하는 것이 중요한 화두로 떠오르고 있다. 이러한 변화는 디지털 환경에서의 경쟁력을 높이는 데 기여할 것으로 예상된다.",
+      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 극대화하기 위해 다양한 혁신적인 요소를 통합하고 있다. 특히, 직관적인 인터페이스와 시각적 매력을 강조하는 경향이 두드러진다. 이러한 변화는 사용자와의 상호작용을 더욱 원활하게 만들어준다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4639,23 +4561,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
       "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 언어 학습 앱의 디자인에 미친 영향을 이해하는 것이 중요하다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 어떻게 영향을 미쳤는지를 탐구한다. 결국, 과거의 교육 방법이 현대 기술에 어떻게 적용되고 있는지를 이해하는 것이 중요하다.",
       "keywords": [
-        "언어 앱",
-        "라틴어",
-        "교육 방법"
+        "언어학습",
+        "디자인",
+        "역사적배경"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-10-17"
+      "collectedAt": "2026-10-18"
     },
     {
       "category": "ai",
