@@ -1,22 +1,214 @@
 {
-  "updated": "2026년 10월 22일 AM 03:21",
-  "count": 296,
+  "updated": "2026년 10월 23일 AM 03:26",
+  "count": 298,
   "articles": [
     {
       "category": "industry",
       "title": "AI로 만든 앱, 실제 서비스가 되려면?",
-      "summary": "오늘의집이 AI 개발 플랫폼을 구축하는 과정과 그 도전 과제를 다룬다. AI 시대의 진정한 병목 문제를 해결하기 위한 '올리고' 개발 기록이 소개된다.",
-      "summary_full": "오늘의집은 AI로 만든 앱이 실제 서비스로 발전하기 위한 과정을 탐구하고 있다. 이 과정에서 AI 개발 플랫폼 '올리고'의 개발 기록을 통해 직면한 여러 도전 과제를 공유한다. AI 시대에 필요한 진정한 혁신을 이루기 위한 노력과 그에 따른 병목 문제 해결 방안이 논의된다. 이러한 개발 기록은 AI 기술의 실용성을 높이는 데 기여할 것으로 기대된다.",
+      "summary": "오늘의집이 AI 개발 플랫폼을 구축하는 과정을 다룬다. AI 시대의 병목 문제를 해결하기 위한 '올리고' 개발 기록을 소개한다.",
+      "summary_full": "오늘의집이 AI로 만든 앱이 실제 서비스로 발전하기 위한 과정을 설명한다. AI 개발 플랫폼 '올리고'의 개발 기록을 통해 AI 시대의 진짜 병목 문제를 해결하고자 한다. 이 플랫폼은 AI 기술을 활용하여 효율적인 서비스 제공을 목표로 한다. 다양한 도전과 해결책이 제시된다.",
       "keywords": [
-        "AI 개발 플랫폼",
-        "올리고",
-        "오늘의집"
+        "AI 앱",
+        "개발 플랫폼",
+        "올리고"
       ],
       "source": "오늘의집 Culture",
-      "date": "10월 22일",
-      "publishedAt": "2026-10-22T03:20:31.775Z",
+      "date": "10월 23일",
+      "publishedAt": "2026-10-23T03:25:42.480Z",
       "url": "https://www.bucketplace.com/post/2026-10-16-ai%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%95%B1-%EC%8B%A4%EC%A0%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-ai-%EA%B0%9C%EB%B0%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4/",
-      "collectedAt": "2026-10-22"
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "design",
+      "title": "AI가 발견한 PHP 보안 취약점",
+      "summary": "AI가 발견한 PHP의 보안 취약점으로 인해 전 세계적으로 경각심이 높아지고 있다. 이 취약점은 웹 애플리케이션의 안전성을 위협할 수 있다.",
+      "summary_full": "최근 AI가 발견한 PHP의 보안 취약점이 전 세계적으로 큰 이슈가 되고 있다. 이 취약점은 해커들이 악용할 수 있는 가능성을 내포하고 있어, 많은 웹사이트와 애플리케이션이 위험에 처할 수 있다. 전문가들은 즉각적인 패치와 보안 점검을 권장하고 있다. 따라서 개발자들은 이 문제에 대한 경각심을 가져야 할 필요가 있다.",
+      "keywords": [
+        "AI",
+        "PHP",
+        "보안 취약점"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "10월 23일",
+      "publishedAt": "2026-10-23T03:25:37.520Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-860/",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "frontend",
+      "title": "내 1인 비즈니스를 한 페이지에 맵핑했습니다 — 시스템 소개",
+      "summary": "저는 혼자서 운영하는 디지털 제품 상점을 가지고 있습니다. 이 시스템은 무료 서비스와 자동화를 활용하여 비즈니스를 효율적으로 관리하는 방법을 보여줍니다.",
+      "summary_full": "저는 혼자서 운영하는 디지털 제품 상점을 가지고 있으며, 서버나 직원, 투자자가 없습니다. 몇 달 전에 설정한 자동화 시스템을 통해 비즈니스를 운영하고 있습니다. 최근에야 제 비즈니스 구조를 명확히 이해하게 되었고, 이를 한 페이지에 맵핑했습니다. 이 글에서는 제가 사용한 시스템과 그 효율성을 공유합니다.",
+      "keywords": [
+        "1인 비즈니스",
+        "디지털 제품",
+        "자동화 시스템"
+      ],
+      "source": "dev.to",
+      "date": "10월 23일",
+      "publishedAt": "2026-10-23T03:20:05.000Z",
+      "url": "https://dev.to/tobywater/i-mapped-my-entire-one-person-business-on-one-page-heres-the-system-3lg6",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "industry",
+      "title": "AI와 에이전트 협업의 새로운 조직 운영 방식",
+      "summary": "AI가 실무를 맡고 사람은 설계와 책임을 지는 '휴먼 온 더 루프' 체계가 주목받고 있다. 해시드는 에이전트 기반 업무 체계를 도입하여 AI 활용 경쟁력을 강화하고 있다.",
+      "summary_full": "AI가 실무를 수행하고 사람은 업무 구조를 설계하고 결과에 책임지는 '휴먼 온 더 루프' 체계가 새로운 조직 운영 방식으로 떠오르고 있다. 해시드는 내부 개발 조직에 에이전트 기반 업무 체계를 적용하고 있으며, 창업자들은 AI 활용 경쟁력을 확보하기 위해 문제 해결과 모델 선택, 개발 의사결정 기록 등을 활용하고 있다. 업계에서는 AI 활용을 넘어서 에이전트와의 협업 역량이 스타트업의 핵심 경쟁력이 될 것으로 보고 있다. 이러한 변화는 사용자에게 자연스럽고 빠른 서비스를 제공하는 능력으로 이어질 것이다.",
+      "keywords": [
+        "AI",
+        "에이전트",
+        "조직 운영"
+      ],
+      "source": "바이라인네트워크",
+      "date": "10월 23일",
+      "publishedAt": "2026-10-23T02:25:41.000Z",
+      "url": "https://byline.network/2026/10/1022-6/",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "trend",
+      "title": "아이들을 위한 친근한 할로윈 색칠 활동",
+      "summary": "할로윈 색칠은 무섭지 않으면서도 재미있을 수 있습니다.",
+      "summary_full": "할로윈 색칠 활동은 아이들에게 즐거움을 주는 방법입니다. 이 활동은 공포감을 주지 않고도 창의력을 발휘할 수 있는 기회를 제공합니다. 아이들은 다양한 색상을 사용하여 자신만의 할로윈 테마를 표현할 수 있습니다. 이러한 활동은 가족과 함께 즐길 수 있는 좋은 방법입니다.",
+      "keywords": [
+        "할로윈",
+        "색칠활동",
+        "아이들"
+      ],
+      "source": "dev.to",
+      "date": "10월 23일",
+      "publishedAt": "2026-10-23T02:00:00.000Z",
+      "url": "https://dev.to/taorobotics/a-friendly-halloween-coloring-activity-for-kids-4oa2",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "frontend",
+      "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+      "summary": "토스 앱의 로그를 정확하고 일관되게 정의하여 서비스 품질을 높이는 방법을 소개합니다. 비개발자인 DataOps Manager들이 AI 스킬을 활용해 로그 정의 업무를 개선한 과정을 다룹니다.",
+      "summary_full": "토스 앱에서 사용자가 어떤 화면을 보고 무엇을 눌렀는지를 기록하는 앱로그를 통해 서비스 품질을 향상시키는 방법을 설명합니다. 로그 정의의 중요성을 강조하며, DataOps Manager가 로그 명세를 관리하는 플랫폼인 로그센터의 역할을 소개합니다. 비개발자인 DataOps Manager들이 수동으로 진행하던 로그 정의 업무를 AI 기술을 통해 개선한 사례를 공유합니다. 이를 통해 로그 정의의 정확성과 일관성을 높이는 방법을 제시합니다.",
+      "keywords": [
+        "토스",
+        "로그 정의",
+        "AI 스킬"
+      ],
+      "source": "toss.tech",
+      "date": "10월 23일",
+      "publishedAt": "2026-10-23T01:53:00.000Z",
+      "url": "https://toss.tech/article/dataops-log-definition-skill",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "trend",
+      "title": "팔머 러키, 유전자 변형 군용 개 스타트업 설립",
+      "summary": "워하운드가 2억 달러의 자금을 확보하며 비공식 활동을 시작했다. 이 스타트업은 '첨단 방탄복'을 장착한 '엘리트 작업 개'를 만드는 것을 목표로 하고 있다.",
+      "summary_full": "워하운드가 2억 달러의 자금을 확보하며 비공식 활동을 시작했다. 이 스타트업은 군사 작전에서 활용될 수 있는 유전자 변형 개들을 개발하고 있다. 그들은 '첨단 방탄복'을 장착하여 더욱 효과적인 임무 수행을 목표로 하고 있다. 이러한 혁신적인 접근은 군용 동물의 역할을 재정의할 가능성을 지니고 있다.",
+      "keywords": [
+        "팔머 러키",
+        "군용 개",
+        "유전자 변형"
+      ],
+      "source": "wired.com",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T23:15:00.000Z",
+      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "ai",
+      "title": "데이터베이스 평가를 RL 보상으로 전환하기: ThinkingBox와 함께하는 포스트 트레이닝 에이전트",
+      "summary": "이 기사는 데이터베이스 평가를 강화 학습 보상으로 변환하는 방법을 다룬다. ThinkingBox를 활용하여 포스트 트레이닝 에이전트를 개선하는 방안을 제시한다.",
+      "summary_full": "이 기사는 데이터베이스 평가를 강화 학습(RL) 보상으로 전환하는 방법을 탐구한다. ThinkingBox라는 도구를 사용하여 포스트 트레이닝 에이전트를 효과적으로 개선할 수 있는 전략을 제안한다. 이를 통해 에이전트의 성능을 높이고, 데이터베이스 평가의 효율성을 증대시킬 수 있다. 이러한 접근은 AI와 데이터베이스 관리의 융합을 보여준다.",
+      "keywords": [
+        "데이터베이스",
+        "강화 학습",
+        "ThinkingBox"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T22:24:34.000Z",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude가 123개 라이브러리의 보안 속성을 증명",
+      "summary": "Anthropic은 AI 모델 Claude가 123개의 라이브러리의 보안 속성을 성공적으로 증명했다고 발표했다. 이는 AI의 보안 신뢰성을 높이는 중요한 이정표로 평가된다.",
+      "summary_full": "Anthropic은 AI 모델 Claude가 123개의 라이브러리의 보안 속성을 증명했다고 밝혔다. 이로 인해 AI의 보안 신뢰성이 크게 향상될 것으로 기대된다. Claude는 다양한 라이브러리의 보안 기능을 검증하여 개발자들에게 신뢰할 수 있는 도구를 제공하고 있다. 이러한 성과는 AI 기술의 발전과 함께 보안 문제 해결에 기여할 것으로 보인다.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "보안 속성"
+      ],
+      "source": "Google News Anthropic",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T22:24:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRm02aTFBTU1JV2o3SllwUVFKdS1yeWlKMHZLY3VTWUJKYVp4bUNsX2lwVXRnamFvZlJMOGtRN1hmbDFKM21kc215MFVqb2RCa2plYjhTeUEyVUF4WGUxems1U1NYR2ExYWlOM0ZhZndCaXR5Zmw2NmRMSTNBTS1vdTFrYlJEaFc2RUxBOUpRenBoU2J6YTF6UFNn?oc=5",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "industry",
+      "title": "구매 대 구축: UX 결정으로서의 중요성",
+      "summary": "제품 팀이 구매 도구와 내부 구축을 비교하는 과정에서 UX가 중요한 요소로 떠오르고 있다.",
+      "summary_full": "인공지능의 발전으로 구축 비용이 저렴해지고 구매가 쉬워지면서, 도구 간의 통합 및 데이터 관리가 주요 고려사항이 되었다. 과거에는 제품 관리자가 구매 대 구축을 결정했지만, 이제는 UX와 관련된 요소들이 중요한 결정 기준으로 작용하고 있다.",
+      "keywords": [
+        "UX",
+        "구매 대 구축",
+        "인공지능"
+      ],
+      "source": "uxdesign.cc",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T21:55:36.000Z",
+      "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "ai",
+      "title": "결정 API로 더 반응형 앱 만들기",
+      "summary": "결정 API를 활용하여 빠르고 저렴한 결정을 내릴 수 있는 애플리케이션을 구축할 수 있다. 이는 사용자 경험을 향상시키고 개발 비용을 절감하는 데 기여한다.",
+      "summary_full": "결정 API는 애플리케이션에서 신속하고 집중적인 결정을 지원한다. 이를 통해 개발자들은 더 반응형이고 효율적인 앱을 만들 수 있다. 저비용으로 빠른 의사결정을 가능하게 하여 사용자 경험을 개선한다. 다양한 애플리케이션에 적용할 수 있는 유연성을 제공한다.",
+      "keywords": [
+        "결정 API",
+        "반응형 앱",
+        "의사결정"
+      ],
+      "source": "OpenAI News",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "url": "https://openai.com/index/decisions-api",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "industry",
+      "title": "시애틀, 주민이 선택하는 200개의 도로변 전기차 충전소 설치",
+      "summary": "시애틀은 2030년까지 아파트 밀집 지역에 200개의 도로변 Level 2 전기차 충전소를 설치할 계획이다. 주민들은 2027년 가을까지 충전소 위치를 제안할 수 있다.",
+      "summary_full": "시애틀은 2030년까지 최대 200개의 도로변 Level 2 전기차 충전소를 설치할 계획이다. 이 충전소는 아파트 건물이 많은 지역에 집중될 예정이다. 주민들은 2027년 가을까지 충전소 설치 위치를 제안할 수 있으며, 이 프로젝트는 15억 5천만 달러의 교통세로 자금을 지원받는다. 이는 58개의 충전소를 포함한 파일럿 프로젝트에 이어 진행된다.",
+      "keywords": [
+        "시애틀",
+        "전기차 충전소",
+        "주민 참여"
+      ],
+      "source": "thenextweb.com",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T18:58:59.000Z",
+      "url": "https://thenextweb.com/news/seattle-200-curbside-ev-chargers-2030",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "ai",
+      "title": "나무 덮개를 넘어: 세계의 숲 유형 지도화",
+      "summary": "지구상의 모든 10미터 구역을 독특한 숲 유형으로 분류한 글로벌 지도이다. 이 연구는 숲의 다양성을 이해하는 데 기여한다.",
+      "summary_full": "이 연구는 지구상의 모든 10미터 구역을 다양한 숲 유형으로 분류한 글로벌 지도를 제공한다. 이를 통해 각 지역의 숲의 특성과 분포를 명확히 파악할 수 있다. 이러한 지도화는 숲의 생태계와 보존 전략을 이해하는 데 중요한 역할을 한다. 또한, 기후 변화와 인간 활동이 숲에 미치는 영향을 분석하는 데 유용하다.",
+      "keywords": [
+        "숲 유형",
+        "지도화",
+        "생태계"
+      ],
+      "source": "Google DeepMind Blog",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T14:30:24.000Z",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "collectedAt": "2026-10-23"
     },
     {
       "category": "design",
@@ -81,6 +273,38 @@
       "publishedAt": "2026-10-22T02:24:17.000Z",
       "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
       "collectedAt": "2026-10-22"
+    },
+    {
+      "category": "figma",
+      "title": "기업 플랜의 관리자, 유료 AI 크레딧 관리 기능 확대",
+      "summary": "기업 플랜의 관리자들은 유료 AI 크레딧 사용을 관리하는 새로운 방법을 갖게 되었습니다. 이제 조직 및 청구 그룹 수준에서 사용자별 기본 액세스를 설정할 수 있습니다.",
+      "summary_full": "기업 플랜의 관리자들은 유료 AI 크레딧 사용을 보다 효과적으로 관리할 수 있는 여러 가지 방법을 제공받습니다. 새로운 기능으로는 조직 및 청구 그룹 수준에서 사용자별 기본 액세스를 설정할 수 있는 옵션이 포함됩니다. 이러한 기본 설정은 사용자 맞춤 액세스 권한이 없는 신규 및 기존 사용자에게 적용됩니다. 이를 통해 지원 팀 협업 및 일상적인 워크플로우 자동화가 가능해집니다.",
+      "keywords": [
+        "AI 크레딧",
+        "기업 플랜",
+        "관리 기능"
+      ],
+      "source": "Figma Release Notes",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-10-23"
+    },
+    {
+      "category": "ai",
+      "title": "LLM을 통한 대규모 소프트웨어 형식 검증 가능성",
+      "summary": "형식 검증은 코드에서 특정 버그가 없음을 증명할 수 있지만, 역사적으로 소규모 코드베이스에만 적용 가능했다. AI 모델의 발전으로 이제는 실제 오픈소스 라이브러리에서 보안 속성을 증명하는 것이 가능해졌다.",
+      "summary_full": "형식 검증은 코드의 특정 버그가 없음을 증명하는 방법으로, 과거에는 소규모 코드베이스에만 적용 가능했다. 그러나 AI 모델의 발전으로 이 상황이 변화하고 있다. 최근 Claude를 사용하여 몇 주 만에 100개 이상의 실제 오픈소스 라이브러리에서 보안 속성을 증명하는 데 성공했다. 이는 소프트웨어 검증의 범위를 크게 확장할 수 있는 가능성을 보여준다.",
+      "keywords": [
+        "형식 검증",
+        "AI 모델",
+        "오픈소스 라이브러리"
+      ],
+      "source": "Anthropic Research",
+      "date": "10월 22일",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "collectedAt": "2026-10-23"
     },
     {
       "category": "industry",
@@ -185,8 +409,8 @@
     {
       "category": "ai",
       "title": "Mistral, NVIDIA와 함께 AI 엔지니어링 혁신",
-      "summary": "Mistral은 NVIDIA와 협력하여 AI 기반 엔지니어링 워크플로우를 개발하고 있습니다. 이 새로운 워크플로우는 NVIDIA의 가속 컴퓨팅 기술을 활용합니다.",
-      "summary_full": "Mistral은 NVIDIA와의 협력을 통해 AI 네이티브 엔지니어링 워크플로우의 새로운 세대를 개발하고 있습니다. 이 혁신적인 접근 방식은 NVIDIA의 가속 컴퓨팅 기술을 기반으로 하여 엔지니어링 프로세스를 혁신할 것입니다. 이를 통해 더 빠르고 효율적인 설계 및 분석이 가능해질 것으로 기대됩니다. Mistral과 NVIDIA의 협업은 AI 기술의 발전을 통해 엔지니어링 분야에 큰 변화를 가져올 것입니다.",
+      "summary": "Mistral은 NVIDIA와 협력하여 AI 기반의 엔지니어링 워크플로우를 개발하고 있습니다. 이 새로운 기술은 NVIDIA의 가속 컴퓨팅을 활용하여 엔지니어링 분야에 혁신을 가져올 것입니다.",
+      "summary_full": "Mistral은 NVIDIA와의 협력을 통해 AI 네이티브 엔지니어링 워크플로우의 새로운 세대를 개발하고 있습니다. 이 프로젝트는 NVIDIA의 가속 컴퓨팅 기술을 기반으로 하여 엔지니어링 작업의 효율성을 높이는 것을 목표로 합니다. AI 기술을 통해 엔지니어링 프로세스의 혁신을 이루고, 더 나은 성과를 도출할 수 있을 것으로 기대됩니다. 이러한 협력은 엔지니어링 분야의 미래를 변화시킬 중요한 이정표가 될 것입니다.",
       "keywords": [
         "Mistral",
         "NVIDIA",
@@ -196,7 +420,7 @@
       "date": "10월 21일",
       "publishedAt": "2026-10-21T12:00:20.000Z",
       "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
-      "collectedAt": "2026-10-22"
+      "collectedAt": "2026-10-23"
     },
     {
       "category": "design",
@@ -345,18 +569,18 @@
     {
       "category": "design",
       "title": "CSS `random()` 함수로 즐기는 유쾌한 불완전함",
-      "summary": "디자인에서 일관성과 정렬에 집착하는 것과는 달리, CSS의 `random()` 함수가 Safari에 도입되고 Chrome 156에서 출시되면서 웹에서의 무작위성이 어떤 의미가 있는지 고민하게 되었다. 이를 통해 디자인 시스템에 무작위성을 포함하는 것이 바람직한지 탐구하였다.",
-      "summary_full": "디자인에서는 일관성과 그리드, 정렬에 많은 시간을 소비하는 경향이 있다. 그러나 CSS의 `random()` 함수가 Safari에 도입되고 Chrome 156에서 출시되면서 웹에서 무작위성이 어떤 의미가 있는지에 대해 생각하게 되었다. 이를 알아보기 위해 여러 가지 유쾌한 CodePen 데모를 제작하였다. 이러한 실험을 통해 디자인 시스템에 무작위성을 포함하는 것이 적절한지 탐구하였다.",
+      "summary": "디자인에서 일관성에 집착하는 것과는 달리, CSS의 `random()` 함수가 웹에서 어떻게 활용될 수 있는지 탐구한다. 이를 위해 여러 가지 재미있는 CodePen 데모를 제작했다.",
+      "summary_full": "디자인에서는 일관성과 정렬에 많은 시간을 투자하지만, CSS의 `random()` 함수가 Safari에 도입되고 Chrome 156에서도 적용되면서 웹에서의 무작위성이 어떤 의미가 있는지 고민하게 되었다. 이 무작위성이 디자인 시스템에 필요한 것인지 알아보기 위해 여러 가지 재미있는 CodePen 데모를 제작했다. 이를 통해 디자인에 무작위성을 도입하는 것이 어떻게 유용할 수 있는지를 탐구하고자 했다.",
       "keywords": [
         "CSS",
         "random() 함수",
-        "웹 디자인"
+        "디자인 시스템"
       ],
       "source": "smashingmagazine.com",
       "date": "10월 20일",
       "publishedAt": "2026-10-20T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-      "collectedAt": "2026-10-22"
+      "collectedAt": "2026-10-23"
     },
     {
       "category": "ai",
@@ -696,9 +920,9 @@
     },
     {
       "category": "ai",
-      "title": "엔비디아, 차세대 AI PC 'RTX 스파크' 출시",
-      "summary": "엔비디아가 클라우드 없이 노트북에서 AI 기능을 지원하는 차세대 PC 'RTX 스파크'를 출시했다. 이 제품은 사용자에게 향상된 AI 경험을 제공할 것으로 기대된다.",
-      "summary_full": "엔비디아가 새로운 AI PC인 'RTX 스파크'를 발표했다. 이 제품은 클라우드에 의존하지 않고도 노트북에서 AI 기능을 원활하게 수행할 수 있도록 설계되었다. 사용자들은 더 나은 AI 성능을 경험할 수 있을 것으로 보인다. 엔비디아는 이 기술을 통해 PC 시장에서의 경쟁력을 강화할 계획이다.",
+      "title": "엔비디아, 클라우드 없이 AI 수행 가능한 RTX 스파크 노트북 출시",
+      "summary": "엔비디아가 차세대 PC인 RTX 스파크를 출시했다. 이 제품은 클라우드 없이도 노트북에서 AI 기능을 원활하게 수행할 수 있다.",
+      "summary_full": "엔비디아가 새로운 AI PC인 RTX 스파크를 발표했다. 이 노트북은 클라우드 연결 없이도 강력한 AI 성능을 제공한다. 사용자들은 더 이상 인터넷에 의존하지 않고도 다양한 AI 작업을 수행할 수 있다. 이는 개인 사용자와 전문가 모두에게 큰 이점을 제공할 것으로 기대된다.",
       "keywords": [
         "엔비디아",
         "AI PC",
@@ -708,7 +932,7 @@
       "date": "10월 17일",
       "publishedAt": "2026-10-17T21:05:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sc25UQkl4Vzd4SGVERzB0ZGN4cFdtMFJtdnVyNGdCVVZoR2d1QUxXaUx5ZXV0ZlpTRkh4cWVtQUR5dmo0RHhJQU1BNUkxRmJDTThNNFlCbEtTbEN4WUo1VzJGWko5aUp6?oc=5",
-      "collectedAt": "2026-10-22"
+      "collectedAt": "2026-10-23"
     },
     {
       "category": "industry",
@@ -1159,22 +1383,6 @@
       "publishedAt": "2026-10-15T03:11:34.000Z",
       "url": "https://dev.to/jojo_willnn_/technical-faq-how-to-handle-transparent-image-backgrounds-in-dev-projects-3fia",
       "collectedAt": "2026-10-15"
-    },
-    {
-      "category": "figma",
-      "title": "코드로 협업하는 새로운 방법 발표",
-      "summary": "우리는 코드로 협업하고, 맥락을 캡처하며, 실제 데이터와 콘텐츠로 구축하는 새로운 방법을 발표했습니다. Config India 2026에서 공유한 모든 내용을 소개합니다.",
-      "summary_full": "오늘 우리는 코드로 협업하고, 맥락을 캡처하며, 실제 데이터와 콘텐츠로 구축하는 새로운 방법을 발표했습니다. 코드 레이어를 통해 디자인 프레임을 변환하거나 GitHub 리포지토리를 가져오고, Figma Chrome 확장 프로그램을 사용하여 웹사이트를 캡처하거나 처음부터 프롬프트를 제공하여 인터랙티브한 프로토타입을 만들 수 있습니다. 이러한 기능은 사용자들이 보다 효율적으로 작업할 수 있도록 돕습니다. Config India 2026에서 발표된 내용은 이러한 혁신적인 도구들이 어떻게 활용될 수 있는지를 보여줍니다.",
-      "keywords": [
-        "코드 협업",
-        "프로토타입",
-        "Config India 2026"
-      ],
-      "source": "Figma Release Notes",
-      "date": "10월 15일",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-10-22"
     },
     {
       "category": "industry",
@@ -4424,70 +4632,6 @@
       "collectedAt": "2026-09-23"
     },
     {
-      "category": "trend",
-      "title": "복잡한 인터페이스에서의 평온 구축",
-      "summary": "복잡한 인터페이스는 복잡하게 느껴질 필요가 없다. 사용자 경험을 개선하기 위한 방법을 탐구한다.",
-      "summary_full": "복잡한 인터페이스는 사용자에게 혼란을 줄 수 있지만, 이를 단순화하여 평온함을 제공할 수 있다. 디자인 원칙과 사용자 중심 접근 방식을 통해 복잡성을 줄이는 방법을 제시한다. 최종 목표는 사용자가 인터페이스를 보다 쉽게 이해하고 사용할 수 있도록 하는 것이다.",
-      "keywords": [
-        "인터페이스",
-        "사용자 경험",
-        "디자인 원칙"
-      ],
-      "source": "dev.to",
-      "date": "9월 22일",
-      "publishedAt": "2026-09-22T03:22:04.000Z",
-      "url": "https://dev.to/khanh_nguyen_04b1205f5a91/building-calm-in-complex-interfaces-18n8",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "design",
-      "title": "고양이 사진으로 3D 스노우볼 만들기",
-      "summary": "이 영상에서는 고양이 사진을 활용하여 3D 스노우볼을 만드는 과정을 소개합니다. Codex와 VARCO 3D, Blender를 사용하여 제작하는 방법을 배울 수 있습니다.",
-      "summary_full": "이 영상에서는 고양이 사진을 활용하여 3D 스노우볼을 만드는 과정을 소개합니다. Codex와 VARCO 3D, Blender를 사용하여 스노우볼을 디자인하고 제작하는 방법을 배울 수 있습니다. 각 단계별로 필요한 도구와 기술을 설명하며, 시청자가 쉽게 따라할 수 있도록 안내합니다. 창의적인 프로젝트를 통해 3D 디자인의 재미를 느낄 수 있는 기회를 제공합니다.",
-      "keywords": [
-        "고양이 사진",
-        "3D 스노우볼",
-        "Blender"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "9월 22일",
-      "publishedAt": "2026-09-22T03:21:46.207Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-837/",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "frontend",
-      "title": "2026년 개발자를 위한 최고의 마케팅 API",
-      "summary": "앱에 필요한 마케팅 데이터를 위한 최고의 API를 소개합니다. APILayer에서 제공하는 다양한 API를 통해 마케팅 정보를 쉽게 활용할 수 있습니다.",
-      "summary_full": "2026년을 맞아 개발자들을 위한 최고의 마케팅 API를 소개합니다. 이 기사에서는 APILayer에서 제공하는 다양한 API를 통해 앱에 필요한 마케팅 데이터를 어떻게 활용할 수 있는지 설명합니다. 특히, 글로벌 전화번호 검증 및 조회 API인 Numverify를 통해 232개국의 전화번호를 실시간으로 검증하고, 통신사 정보 및 위치 데이터를 반환받을 수 있습니다. 이러한 API들은 마케팅 전략을 강화하는 데 큰 도움이 될 것입니다.",
-      "keywords": [
-        "마케팅 API",
-        "개발자",
-        "APILayer"
-      ],
-      "source": "dev.to",
-      "date": "9월 22일",
-      "publishedAt": "2026-09-22T03:17:34.000Z",
-      "url": "https://dev.to/nick_davies_323125afbb05c/best-marketing-apis-for-developers-in-2026-4ocg",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "industry",
-      "title": "IBM, AI 에이전트 통제의 시작은 신원 부여",
-      "summary": "AI의 신뢰성 문제를 해결하기 위해 AI 에이전트의 신원을 부여하고 통제해야 한다. 이는 엔터프라이즈 환경에서 AI와의 공존을 위한 첫걸음이다.",
-      "summary_full": "AI를 업무에 많이 활용해야 하는 시기가 다가오고 있으며, AI의 신뢰성을 높이기 위해 통제가 필요하다. AI 에이전트의 신원, 권한, 실행을 런타임에서 통제하지 못하는 것이 문제의 핵심이다. AI 에이전트를 보호하기 위해서는 고유한 신원을 부여하는 것이 중요하다. 이는 AI와의 원활한 공존을 위한 필수 조건이다.",
-      "keywords": [
-        "AI 에이전트",
-        "신원 부여",
-        "통제"
-      ],
-      "source": "바이라인네트워크",
-      "date": "9월 22일",
-      "publishedAt": "2026-09-22T02:34:39.000Z",
-      "url": "https://byline.network/2026/09/22-602/",
-      "collectedAt": "2026-09-22"
-    },
-    {
       "category": "ai",
       "title": "영국 AISI와 EvalEval의 벤치마크 결과 재현성 향상",
       "summary": "영국 AISI와 EvalEval은 벤치마크 결과의 재현성을 높이기 위해 협력하고 있다. 이들은 데이터와 방법론의 표준화를 통해 연구 결과의 신뢰성을 강화하고 있다.",
@@ -4502,118 +4646,6 @@
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "url": "https://huggingface.co/blog/evaleval-aisi",
       "collectedAt": "2026-09-23"
-    },
-    {
-      "category": "industry",
-      "title": "AI 규제에 대한 우리의 잘못된 믿음",
-      "summary": "AI 규제에 대한 합의가 없다는 이유로 규제를 미루는 것은 비웃음을 살 만한 일이다. 인터넷의 창립자들은 합의 없이도 기술을 다스렸다.",
-      "summary_full": "AI 규제에 대한 논의가 지지부진한 이유는 합의가 없기 때문이다. 그러나 인터넷을 만든 사람들은 그러한 상황에서도 기술을 효과적으로 관리했다. 현재 세계에서 가장 강력한 AI를 개발하는 이들은 규제를 요청하고 있다. 이는 AI의 발전과 안전성을 위해 반드시 필요한 논의임을 시사한다.",
-      "keywords": [
-        "AI 규제",
-        "인터넷 창립자",
-        "기술 관리"
-      ],
-      "source": "uxdesign.cc",
-      "date": "9월 21일",
-      "publishedAt": "2026-09-21T22:47:57.000Z",
-      "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "industry",
-      "title": "Nvidia, SB Energy 주식 90% 가격에 인수",
-      "summary": "Nvidia가 SB Energy의 주식을 IPO 가격의 90%에 추가로 15억 달러어치 인수한다. 이를 통해 총 30억 달러의 지원을 하게 된다.",
-      "summary_full": "Nvidia는 SB Energy의 주식을 IPO 가격의 90%에 추가로 15억 달러어치 인수하여 총 30억 달러의 지원을 하게 된다. SB Energy는 텍사스와 오하이오에서 8.8기가와트의 계약을 체결하거나 건설 중이다. 반면, 모회사의 유럽 용량은 2031년 이전에는 가동되지 않을 예정이다. 이 소식은 The Next Web에서 계속됩니다.",
-      "keywords": [
-        "Nvidia",
-        "SB Energy",
-        "주식 인수"
-      ],
-      "source": "thenextweb.com",
-      "date": "9월 21일",
-      "publishedAt": "2026-09-21T19:15:41.000Z",
-      "url": "https://thenextweb.com/news/nvidia-sb-energy-pre-ipo-stake",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "trend",
-      "title": "AI, 관세, 희귀 광물: 트럼프와 시진핑의 정상 회담에서 기대할 사항",
-      "summary": "워싱턴과 베이징은 AI 붐으로 인해 더욱 긴밀하게 연결되고 있다. 하드웨어 수출과 기술 제한이 협상에서 중요한 카드로 작용하고 있다.",
-      "summary_full": "워싱턴과 베이징은 AI 붐으로 인해 더욱 긴밀하게 연결되고 있다. 이러한 상황에서 하드웨어 수출과 기술 제한은 협상에서 중요한 카드로 작용하고 있다. 트럼프와 시진핑의 정상 회담은 이러한 요소들이 어떻게 영향을 미칠지를 보여줄 중요한 기회가 될 것이다. 양국 간의 기술 경쟁과 협력의 미래가 이 회담에 달려 있다.",
-      "keywords": [
-        "AI",
-        "관세",
-        "희귀 광물"
-      ],
-      "source": "wired.com",
-      "date": "9월 21일",
-      "publishedAt": "2026-09-21T18:33:02.000Z",
-      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "ai",
-      "title": "물리학자처럼 LLM 가지치기: 블록 제거를 이징 최적화 문제로",
-      "summary": "이 논문은 대형 언어 모델(LLM)의 가지치기 방법을 물리학적 관점에서 접근한다. 블록 제거를 이징 최적화 문제로 변환하여 효율적인 모델 축소를 제안한다.",
-      "summary_full": "이 연구는 대형 언어 모델(LLM)의 가지치기 기술을 물리학의 이징 모델을 활용하여 설명한다. 블록 제거를 이징 최적화 문제로 설정함으로써, 모델의 성능을 유지하면서도 불필요한 파라미터를 제거할 수 있는 방법을 제시한다. 이를 통해 LLM의 효율성을 높이고, 계산 자원을 절약할 수 있는 가능성을 탐구한다. 이 접근법은 머신러닝 분야에서의 새로운 최적화 기법으로 주목받고 있다.",
-      "keywords": [
-        "LLM",
-        "가지치기",
-        "이징 최적화"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "9월 21일",
-      "publishedAt": "2026-09-21T13:44:34.000Z",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "ai",
-      "title": "수학 및 인공지능 자문 그룹",
-      "summary": "OpenAI는 독립적인 자문 그룹과 협력하여 새로운 AI 결과에 대한 검토 및 소통을 안내하고 있다.",
-      "summary_full": "OpenAI는 수학 및 인공지능에 관한 독립적인 자문 그룹과 협력하고 있다. 이 그룹은 AI의 새로운 결과를 검토하고 소통하는 데 도움을 준다. 자문 그룹의 목표는 AI 기술의 발전을 지원하고 그에 따른 사회적 영향을 고려하는 것이다. 이를 통해 OpenAI는 더 나은 의사결정을 할 수 있도록 노력하고 있다.",
-      "keywords": [
-        "OpenAI",
-        "자문 그룹",
-        "인공지능"
-      ],
-      "source": "OpenAI News",
-      "date": "9월 21일",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "frontend",
-      "title": "도메인 지식 없는 디자이너가 팀의 기준을 바꾼 방법",
-      "summary": "디자이너가 은행과 외화 지식이 부족한 상황에서 해외송금 기능을 런칭하며 팀의 기준을 변화시킨 경험을 공유한다. 수수료 외에도 팀의 강점을 고민하며 다양한 도전과제를 해결해 나간 과정을 이야기한다.",
-      "summary_full": "토스뱅크의 Product Designer 서자영이 해외송금 기능 런칭 과정에서의 경험을 나눈다. 은행과 외화에 대한 지식이 부족했던 그녀는 팀의 기준을 수수료 외의 요소로 확장시키기 위해 노력했다. 파트너사 선정과 규제 검토 등 복잡한 과정을 거치며 팀의 강점을 찾는 데 집중했다. 이를 통해 후발주자로서의 경쟁력을 확보하는 방법을 모색했다.",
-      "keywords": [
-        "디자인",
-        "해외송금",
-        "팀워크"
-      ],
-      "source": "toss.tech",
-      "date": "9월 21일",
-      "publishedAt": "2026-09-21T10:15:00.000Z",
-      "url": "https://toss.tech/article/remittance_transfer",
-      "collectedAt": "2026-09-22"
-    },
-    {
-      "category": "ai",
-      "title": "Claude의 Anthropic 연구개발 주도율 26%, 완전 자율은 아니다",
-      "summary": "Claude는 Anthropic의 연구개발에서 26%의 주도율을 보이고 있으며, 완전한 자율성은 갖추지 못하고 있다.",
-      "summary_full": "Claude는 Anthropic의 연구개발에서 26%의 주도율을 기록하고 있다. 그러나 이는 완전한 자율성을 의미하지 않는다. 연구개발의 방향성과 목표는 여전히 인간의 개입이 필요하다. 따라서 Claude는 자율적인 시스템으로 발전하기 위해 더 많은 연구가 필요하다.",
-      "keywords": [
-        "Claude",
-        "Anthropic",
-        "연구개발"
-      ],
-      "source": "Google News Anthropic",
-      "date": "9월 21일",
-      "publishedAt": "2026-09-21T08:51:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFYyU1lDNkZhbGJ6Y1RwaTNGUVdKZmRDaGVTUE44Z1gtSnphMnRvRUtEM0dxQkg5UU00aFlhX0l5OFZ0YVdyUC1qTUkzYlRPWmpYb2xFN2Q3Q3ctM09HNU9zYzY0Q3FJdEJMNG5tMVpWTy10X3QtLWI3b2I2dkdKX243R3VOQ09HbnlrRlRjaE9XWl9VREp4WnptOA?oc=5",
-      "collectedAt": "2026-09-22"
     },
     {
       "category": "ai",
@@ -4682,8 +4714,8 @@
     {
       "category": "frontend",
       "title": "모든 브라우저에서 사용할 수 있는 CSS random() 함수",
-      "summary": "CSS random() 함수의 폴리필을 만드는 여정을 다룹니다. 이 함수는 모든 브라우저에서 작동하도록 설계되었습니다.",
-      "summary_full": "CSS random() 함수는 현재 개발 중이며, 이를 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 과정을 설명합니다. 이 글은 CSS-Tricks에서 작성되었으며, 독자들에게 뉴스레터 구독을 권장합니다. 폴리필을 통해 개발자들은 다양한 브라우저에서 CSS의 새로운 기능을 활용할 수 있게 됩니다. 이 과정은 웹 디자인과 개발에 있어 중요한 진전을 의미합니다.",
+      "summary": "CSS random() 함수의 폴리필을 만드는 과정을 다룹니다. 모든 브라우저에서 작동하는 이 함수를 활용해보세요.",
+      "summary_full": "CSS random() 함수는 다가오는 기능으로, 모든 브라우저에서 사용할 수 있도록 폴리필을 만드는 여정을 설명합니다. 이 글은 CSS-Tricks에서 사랑을 담아 작성되었습니다. 이 기능을 통해 웹 디자인에 랜덤성을 추가할 수 있습니다. 뉴스레터 구독도 추천합니다.",
       "keywords": [
         "CSS",
         "random() 함수",
@@ -4693,7 +4725,7 @@
       "date": "8월 31일",
       "publishedAt": "2026-08-31T15:12:19.000Z",
       "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "collectedAt": "2026-10-22"
+      "collectedAt": "2026-10-23"
     },
     {
       "category": "ai",
@@ -4714,8 +4746,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개된다. 이 트렌드는 사용자 경험을 극대화하기 위해 다양한 혁신적인 요소를 포함하고 있다. 특히, 직관적인 인터페이스와 접근성을 강조하는 디자인이 주목받고 있다. 이러한 변화는 디지털 환경에서 사용자와의 상호작용을 더욱 원활하게 만들어준다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들은 최신 UX/UI 트렌드에 주목하고 있으며, 이는 사용자 경험을 극대화하기 위한 혁신적인 방법들을 제시하고 있다. 이러한 트렌드는 시각적 요소뿐만 아니라 인터랙션 디자인에도 영향을 미치고 있다. 특히, 사용자 맞춤형 디자인과 접근성 향상에 중점을 두고 있다. 이와 같은 변화는 디지털 제품의 경쟁력을 높이는 데 기여하고 있다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4725,23 +4757,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-10-20"
+      "collectedAt": "2026-10-23"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래되었다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 채용을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경이 현재의 언어 학습 앱 디자인에 영향을 미쳤다. 따라서 언어 학습 방법론의 기원을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 그 이유를 이해하는 것이 앱들이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 언어 학습 앱 디자인에 대한 더 깊은 통찰을 제공한다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교육 방법론"
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-10-22"
+      "collectedAt": "2026-10-23"
     },
     {
       "category": "ai",
