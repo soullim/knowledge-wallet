@@ -1,38 +1,118 @@
 {
-  "updated": "2026년 11월 7일 AM 04:43",
-  "count": 314,
+  "updated": "2026년 11월 8일 AM 04:31",
+  "count": 308,
   "articles": [
     {
-      "category": "industry",
-      "title": "오늘의집 Self-Service Data Analytics 구축기",
-      "summary": "오늘의집에서 AI를 활용한 데이터 분석 시스템을 구축하는 과정을 다룹니다. AI가 데이터를 해석하고, 오늘의집의 기준에 맞춰 답변하는 방법을 설명합니다.",
-      "summary_full": "오늘의집은 Self-Service Data Analytics 시스템을 구축하여 AI를 통해 데이터를 분석하는 방법을 소개합니다. 이 시스템은 AI가 데이터를 읽고, 이를 바탕으로 오늘의집의 기준에 맞는 답변을 제공하는 기능을 갖추고 있습니다. AI의 활용은 데이터 분석의 효율성을 높이고, 사용자에게 맞춤형 정보를 제공하는 데 기여합니다. 이 과정은 AI 기술의 발전과 데이터 분석의 중요성을 강조합니다.",
+      "category": "frontend",
+      "title": "Hono: 거의 모든 곳에서 실행 가능한 소형 API",
+      "summary": "소형 서점이 고객을 위한 API를 필요로 한다. Hono는 다양한 호스트 환경에서 쉽게 실행할 수 있는 API 솔루션을 제공한다.",
+      "summary_full": "소형 서점이 고객이 책을 목록화하고 주문할 수 있는 API를 필요로 한다. 서점 주인은 저렴한 호스트에서 이번 주에 서비스를 시작하고 싶어한다. Hono는 다양한 호스트 환경에서 쉽게 실행할 수 있도록 설계되어, API를 한 번 작성하고 호스트 변경 시 재작성할 필요가 없다. 이는 개발자에게 유연성과 편리함을 제공한다.",
       "keywords": [
-        "AI",
+        "API",
+        "Hono",
+        "서버리스"
+      ],
+      "source": "dev.to",
+      "date": "11월 8일",
+      "publishedAt": "2026-11-08T04:30:43.000Z",
+      "url": "https://dev.to/practicaldevblog/hono-one-small-api-that-runs-almost-anywhere-54gj",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "category": "industry",
+      "title": "오늘의집 셀프 서비스 데이터 분석 구축기",
+      "summary": "오늘의집에서 AI를 활용한 데이터 분석 시스템을 구축하는 과정에 대해 설명한다. AI가 데이터를 해석하고, 오늘의집의 기준에 맞춰 결과를 도출하는 방법을 다룬다.",
+      "summary_full": "오늘의집은 셀프 서비스 데이터 분석 시스템을 구축하여 AI가 데이터를 읽고 분석할 수 있도록 했다. 이 시스템은 오늘의집의 기준에 따라 AI가 적절한 답변을 제공하는 데 중점을 둔다. 데이터 분석의 효율성을 높이고, 사용자에게 더 나은 서비스를 제공하기 위한 노력의 일환이다. AI 기술의 발전이 데이터 분석에 미치는 영향을 살펴보는 기회가 된다.",
+      "keywords": [
+        "오늘의집",
         "데이터 분석",
-        "오늘의집"
+        "AI 기술"
       ],
       "source": "오늘의집 Culture",
-      "date": "11월 7일",
-      "publishedAt": "2026-11-07T04:42:30.982Z",
+      "date": "11월 8일",
+      "publishedAt": "2026-11-08T04:30:16.073Z",
       "url": "https://www.bucketplace.com/post/2026-10-29-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-self-service-data-analytics-%EA%B5%AC%EC%B6%95%EA%B8%B0/",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "design",
-      "title": "ChatGPT에서 GIF 만드는 프롬프트 5가지",
-      "summary": "ChatGPT를 활용하여 GIF를 만드는 방법을 소개한다. 이 글에서는 5가지 유용한 프롬프트를 제안한다.",
-      "summary_full": "이 글에서는 ChatGPT를 사용하여 GIF를 생성하는 다양한 방법을 탐구한다. 특히, 효과적인 프롬프트 5가지를 제시하여 사용자가 쉽게 GIF를 만들 수 있도록 돕는다. 각 프롬프트는 창의적인 아이디어를 제공하며, 사용자 경험을 향상시키는 데 기여한다. ChatGPT의 이미지 생성 기능을 활용하여 재미있고 유용한 GIF를 제작할 수 있는 기회를 제공한다.",
+      "title": "ChatGPT에서 GIF 만드는 5가지 프롬프트",
+      "summary": "이 기사에서는 ChatGPT를 사용하여 GIF를 만드는 다섯 가지 프롬프트를 소개합니다. 각 프롬프트는 창의적인 GIF 제작을 위한 아이디어를 제공합니다.",
+      "summary_full": "이 기사에서는 ChatGPT를 활용하여 GIF를 만드는 다섯 가지 유용한 프롬프트를 소개합니다. 각 프롬프트는 사용자가 창의적인 GIF를 제작할 수 있도록 돕는 다양한 아이디어를 제공합니다. 이를 통해 사용자들은 ChatGPT의 기능을 극대화하여 독창적인 비주얼 콘텐츠를 생성할 수 있습니다. GIF 제작에 관심이 있는 사람들에게 유용한 정보를 제공합니다.",
       "keywords": [
         "ChatGPT",
-        "GIF",
+        "GIF 제작",
         "프롬프트"
       ],
       "source": "Secondbrush Blog",
-      "date": "11월 7일",
-      "publishedAt": "2026-11-07T04:42:25.707Z",
+      "date": "11월 8일",
+      "publishedAt": "2026-11-08T04:30:09.913Z",
       "url": "https://blog.secondbrush.co.kr/dailyprompt-870/",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "category": "trend",
+      "title": "사람들이 실제로 읽는 클라이언트 보고서 디자인 방법",
+      "summary": "비즈니스 소유자와 에이전시 리더는 클라이언트 보고서를 작성하는 데 많은 시간을 소모하지만, 클라이언트는 종종 이를 스킴하거나 무시한다. 보고서의 실패 원인은 데이터 부족이 아니라 맥락 없이 원시 수치를 제시하기 때문이다.",
+      "summary_full": "비즈니스 소유자와 에이전시 리더는 월간 성과 보고서와 클라이언트 분석을 작성하는 데 많은 시간을 소모한다. 그러나 이러한 보고서는 클라이언트가 스킴하거나 혼란스러워 하며 무시하는 경우가 많다. 문제는 데이터 부족이 아니라, 대부분의 보고서가 원시 수치를 맥락 없이 제시하기 때문이다. 따라서 효과적인 보고서를 위해서는 데이터를 이해하기 쉽게 구성하는 것이 중요하다.",
+      "keywords": [
+        "보고서 디자인",
+        "클라이언트 커뮤니케이션",
+        "데이터 시각화"
+      ],
+      "source": "dev.to",
+      "date": "11월 8일",
+      "publishedAt": "2026-11-08T04:30:00.000Z",
+      "url": "https://dev.to/sagarbharvadiya1/how-to-design-client-reports-people-actually-read-113j",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "category": "industry",
+      "title": "그렇지 않으면 당신은 단지 기계일 뿐이다",
+      "summary": "AI가 디자인 분야에서 발전하고 있다. 디자이너들도 이에 발맞춰 성장해야 한다.",
+      "summary_full": "AI가 디자인 작업에서 점점 더 나아지고 있다. 디자이너들은 이러한 변화에 대응하기 위해 필요한 기술을 개발해야 한다. 포트폴리오 검토, 디자이너 채용, 디자인 리더와의 협업을 통해 뛰어난 디자이너의 특징을 파악할 수 있다. 결국, AI와의 경쟁에서 살아남기 위해서는 인간적인 창의성과 기술이 중요하다.",
+      "keywords": [
+        "AI 디자인",
+        "디자이너 기술",
+        "창의성"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 7일",
+      "publishedAt": "2026-11-07T20:15:42.000Z",
+      "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "category": "trend",
+      "title": "냉장고 해킹 spree는 사물인터넷의 경각심을 일깨운다",
+      "summary": "혈액 실험실과 식료품점에 대한 해킹이 증가하면서 인터넷에 연결된 장치의 보안 허점이 중요한 인프라에 미치는 실제 위험을 보여준다.",
+      "summary_full": "최근 혈액 실험실과 식료품점에서 발생한 해킹 사건들이 증가하고 있다. 이러한 사건들은 인터넷에 연결된 장치의 기본적인 보안 결함이 중요한 인프라에 미치는 심각한 위험을 드러낸다. 해킹 spree는 사물인터넷(IoT) 장치의 보안 강화 필요성을 강조하고 있다. 이는 기업과 기관들이 보안 대책을 재검토해야 할 시점임을 알린다.",
+      "keywords": [
+        "해킹",
+        "사물인터넷",
+        "보안"
+      ],
+      "source": "wired.com",
+      "date": "11월 7일",
+      "publishedAt": "2026-11-07T13:00:00.000Z",
+      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "category": "industry",
+      "title": "안트로픽, 클로드 맥스 광고로 사용자 오도 혐의에 직면",
+      "summary": "미국 판사가 안트로픽이 클로드 맥스 플랜에 대한 사용자 오도 혐의에 직면해야 한다고 판결했다. 이 사건은 캘리포니아 북부 연방 법원에서 진행 중이다.",
+      "summary_full": "미국 판사 알렉스 체는 안트로픽이 클로드 맥스 플랜에 대해 고객을 오도했다는 주요 주장에 직면해야 한다고 판결했다. 금요일에 여러 다른 주장은 기각되었다고 보도되었다. 이 사건은 Kahn 대 안트로픽이라는 제안된 집단 소송으로, 캘리포니아 북부 연방 법원에서 진행되고 있다. TNW는 이 이야기가 계속된다고 전했다.",
+      "keywords": [
+        "안트로픽",
+        "클로드 맥스",
+        "소송"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 7일",
+      "publishedAt": "2026-11-07T12:15:11.000Z",
+      "url": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims",
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "frontend",
@@ -68,9 +148,9 @@
     },
     {
       "category": "industry",
-      "title": "로컬 AI 시대, 엔비디아 RTX 스파크의 미래",
-      "summary": "올해는 로컬 AI 에이전트의 중요한 변곡점으로, AI가 PC와의 상호작용 방식을 변화시키고 있다. 로컬 에이전트의 지능이 향상되어 고성능 모델에 가까워지고 있으며, 앞으로 PC에 대한 요구사항도 변화할 것으로 예상된다.",
-      "summary_full": "올해는 로컬 AI 에이전트의 해로, AI가 우리가 PC와 상호작용하는 방식을 변화시키고 있다. 로컬 에이전트의 지능이 상당히 향상되어 고성능 프런티어 모델에 가까운 수준으로 발전하고 있다. 앞으로 AI 에이전트가 실행되는 PC에 대한 요구사항도 달라질 것으로 보인다. 제프 옌 엔비디아 아시아태평양 테크니컬 마케팅 디렉터가 기자간담회에서 이와 같은 내용을 전했다.",
+      "title": "로컬 AI 시대와 엔비디아 RTX 스파크의 미래",
+      "summary": "로컬 AI 에이전트의 발전이 PC와의 상호작용 방식을 변화시키고 있다. 향후 AI 에이전트의 실행 요구사항도 변화할 것으로 예상된다.",
+      "summary_full": "올해는 로컬 AI 에이전트의 중요한 변곡점으로, AI가 PC와의 상호작용 방식을 혁신하고 있다. 엔비디아의 제프 옌은 로컬 에이전트의 지능이 고성능 모델에 가까워졌다고 설명했다. 앞으로 AI 에이전트가 실행되는 PC에 대한 요구사항도 변화할 것이라고 전망했다.",
       "keywords": [
         "로컬 AI",
         "엔비디아",
@@ -80,7 +160,7 @@
       "date": "11월 7일",
       "publishedAt": "2026-11-07T02:02:10.000Z",
       "url": "https://byline.network/2026/11/6-475/",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "industry",
@@ -149,40 +229,40 @@
     {
       "category": "frontend",
       "title": "RSS 클럽: CSS-Tricks 리디자인 미리보기",
-      "summary": "CSS-Tricks의 사이트 리디자인이 진행되었습니다. 자세한 내용은 곧 발표될 예정입니다.",
-      "summary_full": "RSS 구독자들에게 CSS-Tricks의 새로운 디자인을 미리 보여주고 있습니다. 이번 리디자인은 사용자 경험을 개선하기 위해 진행되었습니다. 곧 더 많은 정보와 함께 전체 글이 공개될 예정입니다. 뉴스레터 구독도 추천드립니다.",
+      "summary": "CSS-Tricks의 사이트 리디자인을 소프트 론칭했습니다. 곧 자세한 내용을 담은 글이 올라올 예정입니다.",
+      "summary_full": "RSS 클럽에서 CSS-Tricks의 새로운 디자인을 미리 공개합니다. 이번 리디자인은 사용자 경험을 개선하기 위해 진행되었습니다. 전체적인 내용은 곧 자세히 설명될 예정입니다. 뉴스레터 구독도 추천드립니다.",
       "keywords": [
         "CSS-Tricks",
         "리디자인",
-        "RSS 구독"
+        "RSS 클럽"
       ],
       "source": "css-tricks.com",
       "date": "11월 6일",
       "publishedAt": "2026-11-06T18:52:59.000Z",
       "url": "https://css-tricks.com/css-tricks-redesign-preview/",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "ai",
       "title": "토이블록스: 로봇 학습 및 평가를 위한 제어된 세계",
-      "summary": "토이블록스는 로봇 학습과 평가를 위한 통제된 환경을 제공한다. 이 시스템은 로봇의 성능을 체계적으로 테스트하고 개선하는 데 도움을 준다.",
-      "summary_full": "토이블록스는 로봇 학습과 평가를 위한 제어된 환경을 구축한 시스템이다. 이 플랫폼은 다양한 시나리오에서 로봇의 행동을 분석하고 최적화할 수 있도록 설계되었다. 연구자들은 이를 통해 로봇의 성능을 체계적으로 테스트하고 개선할 수 있다. 결과적으로, 토이블록스는 로봇 기술 발전에 기여하는 중요한 도구로 자리잡고 있다.",
+      "summary": "토이블록스는 로봇 학습과 평가를 위한 통제된 환경을 제공한다. 이 시스템은 로봇이 다양한 작업을 수행하며 학습할 수 있도록 설계되었다.",
+      "summary_full": "토이블록스는 로봇 학습과 평가를 위한 제어된 환경을 제공하는 혁신적인 플랫폼이다. 이 시스템은 로봇이 다양한 작업을 수행하며 효과적으로 학습할 수 있도록 설계되었다. 이를 통해 연구자들은 로봇의 성능을 평가하고 개선할 수 있는 기회를 얻는다. 또한, 이 환경은 로봇 기술의 발전에 기여할 것으로 기대된다.",
       "keywords": [
         "로봇학습",
-        "평가시스템",
+        "로봇평가",
         "제어환경"
       ],
       "source": "HuggingFace Blog",
       "date": "11월 6일",
       "publishedAt": "2026-11-06T14:00:48.000Z",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "ai",
       "title": "Hacktron과 협력하여 OpenAI 시스템의 취약점 찾기",
-      "summary": "OpenAI는 Hacktron과 협력하여 시스템의 취약점을 찾아내고 있습니다. 이를 통해 제3자 서비스와의 연결을 테스트하고 방어력을 강화할 계획입니다.",
-      "summary_full": "OpenAI는 Hacktron과 파트너십을 맺고 시스템의 취약점을 발견하기 위한 작업을 진행하고 있습니다. 이 협력은 OpenAI의 방어력을 강화하고, 최첨단 AI 기술을 활용하여 보안을 높이기 위한 것입니다. Hacktron은 제3자 서비스와의 연결을 테스트하여 잠재적인 위험 요소를 식별하는 데 도움을 줄 것입니다. 이러한 노력은 OpenAI의 시스템을 더욱 안전하게 만드는 데 기여할 것입니다.",
+      "summary": "OpenAI는 Hacktron과 협력하여 시스템의 취약점을 찾고 있습니다. 이를 통해 제3자 서비스와의 연결을 테스트하고 방어력을 강화할 계획입니다.",
+      "summary_full": "OpenAI는 Hacktron과 협력하여 자사의 시스템에서 취약점을 찾아내고 있습니다. 이 파트너십을 통해 제3자 서비스와의 연결을 테스트하며, 보안 방어력을 강화하는 데 집중하고 있습니다. 이러한 노력은 최첨단 AI 기술을 활용하여 이루어집니다. OpenAI는 이를 통해 더 안전한 시스템을 구축하고자 합니다.",
       "keywords": [
         "OpenAI",
         "Hacktron",
@@ -192,13 +272,13 @@
       "date": "11월 6일",
       "publishedAt": "2026-11-06T08:00:00.000Z",
       "url": "https://openai.com/index/partnering-with-hacktron",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "design",
       "title": "사내 UX 전문가를 위한 새로운 커뮤니티",
-      "summary": "Smashing Magazine과 함께 새로운 커뮤니티를 시작합니다. 이 커뮤니티는 사내 UX 전문가들을 위한 공간으로, 서로의 경험과 지식을 공유할 수 있는 기회를 제공합니다.",
-      "summary_full": "Paul Boag가 Smashing Magazine과 협력하여 사내 UX 전문가들을 위한 새로운 커뮤니티를 1월에 런칭합니다. 이 커뮤니티는 UX 분야의 전문가들이 모여 경험과 지식을 나누고, 서로의 문제를 해결하는 데 도움을 줄 것입니다. Boag는 Smashing Magazine에서 여러 권의 책과 기사를 집필한 경력이 있으며, 이번 프로젝트에 큰 기대를 걸고 있습니다. 커뮤니티의 목표는 사내 UX 전문가들이 더 나은 환경에서 협력하고 성장할 수 있도록 지원하는 것입니다.",
+      "summary": "Smashing Magazine과 함께 새로운 커뮤니티를 런칭합니다. 이 커뮤니티는 사내 UX 전문가들이 모여 경험과 지식을 공유하는 공간이 될 것입니다.",
+      "summary_full": "저는 Smashing Magazine에서 여러 권의 책과 기사를 집필한 Paul Boag입니다. 이번에 Smashing과 협력하여 사내 UX 전문가들을 위한 새로운 커뮤니티를 1월에 런칭할 예정입니다. 이 커뮤니티는 UX 전문가들이 서로의 경험을 나누고, 네트워킹할 수 있는 기회를 제공할 것입니다. 여러분의 많은 관심과 참여를 부탁드립니다.",
       "keywords": [
         "UX",
         "커뮤니티",
@@ -208,7 +288,7 @@
       "date": "11월 6일",
       "publishedAt": "2026-11-06T08:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "frontend",
@@ -261,34 +341,34 @@
     {
       "category": "figma",
       "title": "선택 영역: AI 이미지 편집 도구",
-      "summary": "선택 영역은 이미지의 일부를 선택하여 분리하거나 지울 수 있는 AI 이미지 편집 도구입니다. 이제 이미지를 클릭하면 Figma가 자동으로 객체를 선택해줍니다.",
-      "summary_full": "선택 영역은 이미지의 특정 부분을 쉽게 선택하고 편집할 수 있도록 도와주는 AI 기반 도구입니다. 사용자는 이제 손으로 윤곽선을 그리지 않고도 클릭만으로 객체를 선택할 수 있습니다. 이 기능은 현재 macOS 데스크톱 앱에서만 사용할 수 있습니다. 효율적인 이미지 편집을 원하는 사용자에게 유용한 도구입니다.",
+      "summary": "선택 영역은 이미지의 일부를 선택하여 분리하거나 지울 수 있는 AI 이미지 편집 도구입니다. 이제 Figma에서 이미지를 클릭하면 자동으로 선택해 줍니다.",
+      "summary_full": "선택 영역은 이미지의 일부를 선택하여 분리하거나 지울 수 있는 AI 기반의 이미지 편집 도구입니다. 사용자는 이제 이미지를 클릭하기만 하면 Figma가 자동으로 해당 객체를 선택해 줍니다. 이로 인해 수작업으로 경계를 그릴 필요가 없어졌습니다. 현재 이 기능은 macOS 데스크탑 앱에서만 사용할 수 있습니다.",
       "keywords": [
         "AI 이미지 편집",
         "Figma",
-        "macOS"
+        "자동 선택"
       ],
       "source": "Figma Release Notes",
       "date": "11월 6일",
       "publishedAt": "2026-11-06T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "ai",
-      "title": "AI를 활용한 과학 모델 구축 교육",
-      "summary": "AI가 과학 모델링 과정에 미치는 영향을 논의한다. 모델의 구축부터 해석까지 AI의 변화가 어떻게 이루어지고 있는지를 설명한다.",
-      "summary_full": "이 글에서는 AI가 과학 모델링 프로세스를 어떻게 변화시키고 있는지를 다룬다. 저자들은 AI의 도움으로 모델을 구축하고 해석하는 방식이 어떻게 진화하고 있는지를 설명한다. 과학자들이 AI를 활용하여 더 효율적으로 모델을 개발할 수 있는 방법을 제시한다. AI의 도입이 과학적 발견에 미치는 긍정적인 영향을 강조한다.",
+      "title": "AI를 이용한 과학 모델 구축 교육",
+      "summary": "AI가 과학 모델링 과정에 미치는 영향을 논의한다. 모델의 구축부터 해석까지 AI의 변화를 살펴본다.",
+      "summary_full": "이 글에서는 AI가 과학 모델링 프로세스를 어떻게 변화시키고 있는지 설명한다. 저자들은 모델의 구성과 해석 과정에서 AI의 역할을 강조한다. AI 기술이 과학적 접근 방식을 혁신하고 있다는 점을 부각시킨다. 이러한 변화는 연구자들에게 새로운 통찰력을 제공할 수 있다.",
       "keywords": [
         "AI",
         "과학 모델링",
-        "모델 구축"
+        "모델 해석"
       ],
       "source": "Anthropic Research",
       "date": "11월 6일",
       "publishedAt": "2026-11-06T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "trend",
@@ -356,9 +436,25 @@
     },
     {
       "category": "ai",
+      "title": "Anthropic, Claude에서 읽기 전용 개인 금융 베타 출시",
+      "summary": "Anthropic이 Claude에서 읽기 전용 개인 금융 기능의 베타 버전을 출시했다. 이 기능은 사용자들이 개인 금융 데이터를 안전하게 관리할 수 있도록 돕는다.",
+      "summary_full": "Anthropic이 AI 모델인 Claude에서 읽기 전용 개인 금융 베타 버전을 출시했다. 이 새로운 기능은 사용자가 자신의 금융 정보를 안전하게 관리하고 분석할 수 있도록 설계되었다. 사용자들은 Claude를 통해 금융 데이터를 조회하고, 필요한 정보를 쉽게 접근할 수 있다. 이는 개인 금융 관리의 효율성을 높이는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "개인 금융"
+      ],
+      "source": "Google News Anthropic",
+      "date": "11월 5일",
+      "publishedAt": "2026-11-05T18:17:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNS00eFNvLWN2WVRQc2Jrbi05Wl8tYzNPdVRpeWY1MENaSGxTTFNuS3JWNTdkaFdvV040T3V1QlVaa2pwWVp0VmJPZUw2eE1yR3VmajRCUWdLVHJJNjFodnMtM1NnT0NvTjVtRkJYRlY5NUZ2RVNSdy1saVBMdmtHZ0NGbHJxMF9xZndaTWp6eWQ?oc=5",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "category": "ai",
       "title": "제미니 옴니 1.2 플래시",
-      "summary": "제미니 옴니 1.2 플래시는 빠르고 경제적이며 긴 클립을 제공합니다. 이 제품은 효율적인 성능으로 주목받고 있습니다.",
-      "summary_full": "제미니 옴니 1.2 플래시는 빠르고 비용 효율적인 솔루션을 제공합니다. 특히 긴 클립을 지원하여 다양한 촬영 요구를 충족할 수 있습니다. 이 제품은 사용자들에게 높은 만족도를 제공하며, 촬영 작업의 효율성을 높이는 데 기여합니다. 혁신적인 기술이 적용되어 있어 시장에서 경쟁력을 갖추고 있습니다.",
+      "summary": "제미니 옴니 1.2 플래시는 빠르고 비용 효율적이며 긴 클립을 지원합니다. 이 제품은 영상 제작에 최적화된 성능을 제공합니다.",
+      "summary_full": "제미니 옴니 1.2 플래시는 빠른 속도와 경제성을 자랑합니다. 또한, 긴 클립을 지원하여 다양한 영상 제작 요구를 충족할 수 있습니다. 이 제품은 특히 영상 제작자들에게 유용한 도구로 평가받고 있습니다. 효율적인 성능 덕분에 많은 사용자들이 선호하고 있습니다.",
       "keywords": [
         "제미니",
         "옴니 1.2",
@@ -368,7 +464,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T17:05:16.000Z",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "ai",
@@ -420,9 +516,9 @@
     },
     {
       "category": "ai",
-      "title": "Le Chonk가 지능을 발휘하다. 스튜디오가 이를 활용하다.",
-      "summary": "Mistral Studio와 Le Chonk를 통해 기업 에이전트, 워크플로우 및 앱을 더 빠르게 구축하고 배포할 수 있다. 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
-      "summary_full": "Mistral Studio와 Le Chonk를 활용하여 기업 에이전트, 워크플로우 및 앱을 신속하게 구축하고 배포할 수 있다. 이 솔루션은 모델, 데이터 및 인프라에 대한 완전한 제어를 제공하여 효율성을 높인다. 기업은 이를 통해 더 나은 의사결정을 내리고, 운영을 최적화할 수 있다. Le Chonk는 지능적인 기능을 통해 기업의 요구를 충족시키는 데 기여한다.",
+      "title": "Le Chonk의 지능을 활용하는 Mistral Studio",
+      "summary": "Mistral Studio와 Le Chonk를 통해 기업 에이전트와 워크플로우, 앱을 더 빠르게 구축하고 배포할 수 있다. 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
+      "summary_full": "Mistral Studio와 Le Chonk를 활용하여 기업의 에이전트, 워크플로우 및 앱을 신속하게 구축하고 배포할 수 있다. 이 플랫폼은 사용자가 모델, 데이터 및 인프라를 완전히 제어할 수 있도록 지원한다. 이를 통해 기업은 효율성을 높이고 혁신을 가속화할 수 있다. Le Chonk는 특히 지능형 솔루션을 제공하여 다양한 비즈니스 요구에 대응한다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -432,7 +528,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "design",
@@ -1863,8 +1959,8 @@
     {
       "category": "frontend",
       "title": "손가락 튕기기로 LLM 비용 줄이기",
-      "summary": "LLM을 활용한 생성형 AI의 사용이 증가하고 있으며, 데이터 레이블링의 필요성을 줄이고 있다. 그러나 대량 호출 시 비용과 지연 문제에 직면하게 된다.",
-      "summary_full": "토스는 생성형 AI를 통해 다양한 서비스와 업무에 LLM을 활용하고 있으며, 이는 데이터 레이블링의 전통적인 방식보다 빠르고 효율적인 솔루션을 제공한다. 하지만 프롬프트 튜닝 후 대량 호출을 시작하면 비용과 Latency 문제가 발생한다. 이러한 문제를 해결하기 위해 손가락 튕기기와 같은 새로운 접근 방식이 필요하다. LLM의 지속적인 필요성에 대한 의문도 제기된다.",
+      "summary": "LLM을 활용하여 데이터 레이블링 없이 빠르게 솔루션을 만들 수 있지만, 대량 호출 시 비용과 지연 문제가 발생한다.",
+      "summary_full": "토스는 생성형 AI를 통해 다양한 서비스와 업무에 LLM을 활용하고 있다. 과거의 데이터 레이블링 방식과 달리, LLM을 사용하면 신속하게 솔루션을 제공할 수 있다. 그러나 대량 호출을 시작하면 비용과 Latency 문제가 나타난다. 이러한 문제를 해결하기 위한 방법으로 손가락 튕기기 같은 접근이 논의되고 있다.",
       "keywords": [
         "LLM",
         "비용 절감",
@@ -1874,7 +1970,7 @@
       "date": "10월 27일",
       "publishedAt": "2026-10-27T07:05:00.000Z",
       "url": "https://toss.tech/article/snap-llm-cost-reduction",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "frontend",
@@ -3727,18 +3823,18 @@
     {
       "category": "ai",
       "title": "앤트로픽, '페이블 5.5' 출시 예정",
-      "summary": "앤트로픽이 새로운 AI 모델 '페이블 5.5'를 출시할 가능성이 제기되었다. 최근 애저와의 연동 설정서가 포착되면서 이목이 집중되고 있다.",
-      "summary_full": "앤트로픽이 AI 모델 '페이블 5.5'의 출시를 준비하고 있는 것으로 보인다. 이와 관련하여 애저와의 연동 설정서가 발견되어 업계의 관심을 끌고 있다. 이는 앤트로픽의 기술 발전과 시장 경쟁력 강화에 중요한 이정표가 될 것으로 예상된다. 향후 발표될 공식 정보에 귀추가 주목된다.",
+      "summary": "앤트로픽이 새로운 AI 모델 '페이블 5.5'를 출시할 가능성이 제기되었다. 최근 애저 연동 설정서에서 관련 정보가 포착됐다.",
+      "summary_full": "앤트로픽이 AI 모델 '페이블 5.5'의 출시를 준비하고 있는 것으로 보인다. 이와 관련된 정보가 애저 연동 설정서에서 발견되었다. 이는 AI 기술의 발전과 함께 기업들이 경쟁력을 높이기 위한 노력의 일환으로 해석된다. 향후 '페이블 5.5'의 기능과 성능에 대한 기대가 커지고 있다.",
       "keywords": [
         "앤트로픽",
         "페이블 5.5",
-        "애저 연동"
+        "AI 모델"
       ],
       "source": "Google News AI (KR)",
       "date": "10월 15일",
       "publishedAt": "2026-10-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vd1JjemNYenJ6QzJWaDU3UXNPMS1NT3kwUGF5YzJha2Y1RjA4SndBMG1oU2R5d3pSOXBBaHlWdGtWZDdacGplaTRseWZHVHp0T053QXZR?oc=5",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "trend",
@@ -4674,102 +4770,6 @@
       "collectedAt": "2026-10-11"
     },
     {
-      "category": "industry",
-      "title": "주방 시공 기준을 만드는 사람들",
-      "summary": "주방 시공의 새로운 기준을 설정하는 전문가들의 이야기를 다룬다. 이들은 인테리어 시장의 변화를 이끌고 있다.",
-      "summary_full": "주방 시공의 기준을 새롭게 정의하는 사람들을 소개한다. 이들은 인테리어 디자인과 시장의 흐름을 설계하며, 혁신적인 접근 방식을 통해 고객의 요구를 충족시키고 있다. 두 번째 이야기에서는 이들의 경험과 비전을 통해 주방 시공의 미래를 탐구한다. 인테리어 시장의 변화에 대한 통찰을 제공한다.",
-      "keywords": [
-        "주방 시공",
-        "인테리어 디자인",
-        "시장 변화"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "10월 8일",
-      "publishedAt": "2026-10-08T04:34:05.475Z",
-      "url": "https://www.bucketplace.com/post/2026-09-29-%EC%A3%BC%EB%B0%A9-%EC%8B%9C%EA%B3%B5%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4/",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "design",
-      "title": "판단만 하는 AI의 주목",
-      "summary": "Jev와 Decisions API를 통해 판단을 내리는 AI의 중요성이 증가하고 있다. 이러한 기술은 다양한 분야에서 의사결정 과정을 혁신하고 있다.",
-      "summary_full": "Jev와 Decisions API는 판단을 내리는 AI의 발전을 보여준다. 이 기술은 데이터 분석을 통해 신속하고 정확한 결정을 가능하게 한다. 기업과 조직은 이를 활용하여 효율성을 높이고 경쟁력을 강화할 수 있다. AI의 판단 능력은 앞으로도 더욱 중요해질 것으로 예상된다.",
-      "keywords": [
-        "AI",
-        "Jev",
-        "Decisions API"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "10월 8일",
-      "publishedAt": "2026-10-08T04:34:00.358Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-848/",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "frontend",
-      "title": "텍스트에서 중복된 줄 제거하는 방법 (온라인, 엑셀, 명령줄)",
-      "summary": "중복된 줄은 이메일 목록, 키워드 내보내기, 로그 및 URL 수집에 발생할 수 있습니다. 수동으로 제거하는 것은 비효율적이며, 결과를 예상하기 위해 몇 가지 설정을 아는 것이 중요합니다.",
-      "summary_full": "중복된 줄은 이메일 목록, 키워드 내보내기, 로그 및 URL 수집에 자주 발생합니다. 수동으로 제거하는 것은 확장성이 떨어지므로, 몇 가지 설정을 통해 결과를 조정하는 것이 필요합니다. 도구에 따라 첫 번째 또는 마지막 발생을 유지할 수 있으며, 대부분의 도구는 첫 번째를 유지하고 이후의 반복을 제거합니다. 따라서 중복 제거 방법을 이해하는 것이 중요합니다.",
-      "keywords": [
-        "중복 제거",
-        "텍스트 처리",
-        "온라인 도구"
-      ],
-      "source": "dev.to",
-      "date": "10월 8일",
-      "publishedAt": "2026-10-08T04:30:00.000Z",
-      "url": "https://dev.to/pulkitgovrani/how-to-remove-duplicate-lines-from-text-online-excel-and-the-command-line-5mi",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "trend",
-      "title": "유니코드 화려한 텍스트 생성기 작동 원리",
-      "summary": "인스타그램에서 사용되는 다양한 장식 스타일의 텍스트는 전통적인 폰트가 아닌 유니코드 문자로 구성되어 있다.",
-      "summary_full": "인스타그램의 바이오, 사용자 이름, 캡션 등에서 볼 수 있는 화려한 텍스트는 전통적인 폰트처럼 보이지만, 실제로는 유니코드 문자로 이루어져 있다. 이러한 문자들은 다양한 타입 스타일을 흉내 내며, 사용자가 쉽게 복사하여 사용할 수 있다. 이로 인해 사용자들은 독특한 스타일의 텍스트를 손쉽게 생성할 수 있다.",
-      "keywords": [
-        "유니코드",
-        "텍스트 생성기",
-        "스타일"
-      ],
-      "source": "dev.to",
-      "date": "10월 8일",
-      "publishedAt": "2026-10-08T03:30:01.000Z",
-      "url": "https://dev.to/rajesh_mondal_cded2f82459/how-unicode-fancy-text-generators-work-3ifk",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "industry",
-      "title": "윈도우11, 하이브리드 인텔리전스로 변화",
-      "summary": "마이크로소프트가 윈도우11의 플랫폼 업데이트를 발표하며 AI 에이전트 활용에 최적화된 기능을 추가했다. 새로운 서피스 제품은 엔비디아 RTX 스파크 SoC를 탑재하여 고성능을 자랑한다.",
-      "summary_full": "마이크로소프트는 2년 만에 윈도우와 서피스 노트북 행사를 개최했다. 이번 행사에서는 예상했던 윈도우12 공개 대신, AI 에이전트 활용에 최적화된 윈도우11의 플랫폼 업데이트가 발표되었다. 윈도우11은 모델 라우터를 내장하여 로컬 기기와 클라우드 환경에서 다양한 AI 모델을 선택할 수 있게 하며, 여러 AI 에이전트를 로컬에서 안전하게 실행할 수 있는 에이전트 샌드박스를 제공한다. 또한, 엔비디아 RTX 스파크 SoC를 탑재한 초고사양 서피스 제품도 소개되었다.",
-      "keywords": [
-        "윈도우11",
-        "AI 에이전트",
-        "서피스 노트북"
-      ],
-      "source": "바이라인네트워크",
-      "date": "10월 8일",
-      "publishedAt": "2026-10-08T03:27:09.000Z",
-      "url": "https://byline.network/2026/10/8-532/",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "trend",
-      "title": "2026년 프라임 데이 애플 할인 종료 임박",
-      "summary": "프라임 데이를 맞아 맥북, 아이패드, 에어팟 등 다양한 애플 제품이 할인 중이다. 하지만 할인 혜택은 몇 시간 후에 종료된다.",
-      "summary_full": "프라임 데이를 맞아 애플의 다양한 제품들이 할인 판매되고 있다. 맥북, 아이패드, 에어팟 등 거의 모든 애플 액세서리가 포함된다. 하지만 이 할인은 제한된 시간 동안만 유효하다. 따라서 구매를 원한다면 서둘러야 한다.",
-      "keywords": [
-        "프라임 데이",
-        "애플 할인",
-        "맥북 아이패드"
-      ],
-      "source": "wired.com",
-      "date": "10월 8일",
-      "publishedAt": "2026-10-08T02:02:56.000Z",
-      "url": "https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/",
-      "collectedAt": "2026-10-08"
-    },
-    {
       "category": "ai",
       "title": "하늘의 잃어버린 지도",
       "summary": "하늘의 지도를 찾는 여정에 대한 이야기이다. 이 과정에서 우주에 대한 새로운 이해와 발견이 이루어진다.",
@@ -4800,86 +4800,6 @@
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "url": "https://huggingface.co/blog/building-with-ml-intern",
       "collectedAt": "2026-10-09"
-    },
-    {
-      "category": "industry",
-      "title": "제한된 위임: AI는 얼마나 많은 권한을 가져야 하는가?",
-      "summary": "AI의 권한과 인간의 소유권을 결정하는 실용적인 모델을 제시한다. 제품 팀이 경계를 설정해야 하는 지점에 대해 논의한다.",
-      "summary_full": "AI가 수행할 수 있는 작업과 인간이 여전히 소유해야 하는 작업을 결정하기 위한 실용적인 모델을 제안한다. 이 모델은 제품 팀이 AI의 권한을 어디까지 위임할지를 판단하는 데 도움을 준다. 예를 들어, AI 도구가 고객 의견을 클러스터링하고 '가격 마찰'이라는 주제를 도출하는 사례를 통해 설명한다. 팀은 AI가 제안하는 가격 실험을 비교하고 분석하는 과정을 통해 AI의 활용 가능성을 탐색한다.",
-      "keywords": [
-        "AI 권한",
-        "인간 소유권",
-        "제품 팀"
-      ],
-      "source": "uxdesign.cc",
-      "date": "10월 7일",
-      "publishedAt": "2026-10-07T19:54:06.000Z",
-      "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "ai",
-      "title": "Anthropic, Claude Sonnet 5.5 캐시 읽기 비용 절감",
-      "summary": "Anthropic이 Claude Sonnet 5.5의 캐시 읽기 비용을 50% 줄였다. 이는 시스템 효율성을 크게 향상시킬 것으로 기대된다.",
-      "summary_full": "Anthropic은 최신 모델인 Claude Sonnet 5.5의 캐시 읽기 비용을 50% 절감하는 성과를 발표했다. 이러한 비용 절감은 데이터 처리 속도를 개선하고, 전반적인 시스템 성능을 향상시키는 데 기여할 것으로 보인다. 이로 인해 사용자 경험이 개선되고, 더 많은 데이터 요청을 처리할 수 있는 가능성이 열릴 것으로 예상된다. 이는 인공지능 기술의 발전에 중요한 이정표가 될 것이다.",
-      "keywords": [
-        "Anthropic",
-        "Claude Sonnet 5.5",
-        "캐시 읽기 비용"
-      ],
-      "source": "Google News Anthropic",
-      "date": "10월 7일",
-      "publishedAt": "2026-10-07T19:44:51.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1dpUGljR0M4dWVtbHV3U3JKd05ZYW83amZfZ19heGlELWxySWdHVmh2aktFelI5c3lnR1lFM0dPc09MR3ZSeXpTSWZrZHpZV1dqa1BhRVNtYS1weTlhNkRSeEJsX0ttb3h1cWZmeTNpLU9MWm9xdThGZXNkS0FfeUhrbzF0eHFpR0E?oc=5",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "industry",
-      "title": "마이크로소프트, 엔비디아 칩 탑재한 2,599달러 노트북은 맥북보다 성능 우수",
-      "summary": "마이크로소프트는 엔비디아 칩을 탑재한 첫 번째 서피스 노트북을 2,599.99달러에 출시했다. 이 노트북은 로컬 AI 프롬프트에서 맥북 프로 M5의 성능을 두 배로 초월한다고 주장했다.",
-      "summary_full": "마이크로소프트는 엔비디아 칩을 탑재한 첫 번째 서피스 노트북을 2,599.99달러에 출시했다. 이 제품은 로컬 AI 프롬프트에서 맥북 프로 M5의 성능을 두 배로 초월한다고 주장했지만, 그 수치의 측정 방법은 공개되지 않았다. 노트북에 탑재된 칩은 2022년에 엔비디아가 인수하지 못한 영국의 ARM 아키텍처 기반으로 제작되었다. 마이크로소프트는 이 새로운 노트북의 성능을 강조하고 있다.",
-      "keywords": [
-        "마이크로소프트",
-        "엔비디아",
-        "서피스 노트북"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 7일",
-      "publishedAt": "2026-10-07T19:26:33.000Z",
-      "url": "https://thenextweb.com/news/surface-laptop-ultra-nvidia-europe",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "ai",
-      "title": "엣지를 위한 다중 모달 오픈 D1 의사결정 모델",
-      "summary": "이 논문은 엣지 컴퓨팅을 위한 다중 모달 오픈 D1 의사결정 모델에 대해 다룬다. 다양한 데이터 소스를 통합하여 효율적인 의사결정을 지원하는 방법을 제시한다.",
-      "summary_full": "이 연구에서는 엣지 컴퓨팅 환경에서 활용할 수 있는 다중 모달 오픈 D1 의사결정 모델을 제안한다. 모델은 다양한 데이터 소스와 정보를 통합하여 실시간으로 의사결정을 지원한다. 이를 통해 엣지 디바이스에서의 데이터 처리와 분석의 효율성을 높일 수 있다. 또한, 이 모델은 다양한 산업 분야에 적용 가능성을 보여준다.",
-      "keywords": [
-        "엣지 컴퓨팅",
-        "다중 모달",
-        "의사결정 모델"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "10월 7일",
-      "publishedAt": "2026-10-07T16:54:33.000Z",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "collectedAt": "2026-10-08"
-    },
-    {
-      "category": "ai",
-      "title": "청소년을 위한 AI 미래 설계 지원",
-      "summary": "대학생 계획 도구가 ChatGPT for Teens에 도입되어 학생들이 대학 지원을 관리할 수 있도록 돕습니다. 새로운 플래시카드, 퀴즈, 청소년 AI 위원회도 함께 제공됩니다.",
-      "summary_full": "대학생 계획 도구가 ChatGPT for Teens에 추가되어 청소년들이 대학 지원 과정을 보다 효과적으로 관리할 수 있도록 지원합니다. 이 도구는 학생들이 필요한 정보를 쉽게 찾고 계획을 세울 수 있게 도와줍니다. 또한, 새로운 플래시카드와 퀴즈 기능이 추가되어 학습을 더욱 재미있고 효율적으로 만들어 줍니다. 청소년 AI 위원회도 구성되어 학생들의 의견을 반영한 AI 발전에 기여할 예정입니다.",
-      "keywords": [
-        "AI 교육",
-        "대학 지원",
-        "청소년 기술"
-      ],
-      "source": "OpenAI News",
-      "date": "10월 7일",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "collectedAt": "2026-10-08"
     },
     {
       "category": "ai",
@@ -4928,22 +4848,6 @@
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/10/how-name-things/",
       "collectedAt": "2026-10-16"
-    },
-    {
-      "category": "ai",
-      "title": "클로드 형상의 과학",
-      "summary": "클로드 형상에 대한 과학적 탐구를 다룬다. 이 연구는 클로드 형상이 어떻게 형성되고 그 특성이 무엇인지에 대한 내용을 포함한다.",
-      "summary_full": "클로드 형상은 과학적 연구의 중요한 주제로 부각되고 있다. 이 연구에서는 클로드 형상의 형성과정과 그 특성에 대해 심도 있게 분석한다. 다양한 실험과 이론적 접근을 통해 클로드 형상의 이해를 높이는 데 기여하고자 한다. 이러한 연구는 관련 분야에서의 응용 가능성을 제시한다.",
-      "keywords": [
-        "클로드 형상",
-        "과학적 탐구",
-        "형성과정"
-      ],
-      "source": "Anthropic Research",
-      "date": "10월 1일",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/claude-shaped-science",
-      "collectedAt": "2026-10-08"
     },
     {
       "category": "frontend",
@@ -5012,8 +4916,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 이러한 트렌드는 사용자 경험을 향상시키기 위해 혁신적인 접근 방식을 채택하고 있다.",
-      "summary_full": "디자이너들은 최신 UX/UI 트렌드에 주목하고 있으며, 이는 사용자 경험을 극대화하기 위한 다양한 전략을 포함하고 있다. 특히, 인터랙티브한 요소와 개인화된 디자인이 강조되고 있다. 이러한 변화는 사용자와의 소통을 강화하고, 더 나은 사용성을 제공하는 데 기여하고 있다. 앞으로의 디자인 방향성에 큰 영향을 미칠 것으로 예상된다.",
+      "summary": "최근 UX/UI 디자인의 새로운 트렌드가 주목받고 있다. 디자이너들은 이러한 변화에 발맞춰 혁신적인 접근 방식을 모색하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 등장했다. 이 트렌드는 사용자 경험을 향상시키기 위한 다양한 혁신적인 요소를 포함하고 있다. 디자이너들은 이러한 변화를 통해 더욱 매력적이고 직관적인 인터페이스를 제공하고자 한다. 앞으로의 디자인 방향성에 큰 영향을 미칠 것으로 예상된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -5023,23 +4927,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
       "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 입증해야 했다. 이러한 역사적 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 앱의 설계 원리를 이해하는 것이 중요하다.",
       "keywords": [
         "언어 앱",
-        "라틴어 교육",
-        "아비투르"
+        "라틴어",
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-07"
+      "collectedAt": "2026-11-08"
     }
   ]
 }
