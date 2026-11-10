@@ -1,7 +1,199 @@
 {
-  "updated": "2026년 11월 9일 AM 04:43",
-  "count": 304,
+  "updated": "2026년 11월 10일 AM 05:59",
+  "count": 313,
   "articles": [
+    {
+      "category": "frontend",
+      "title": "웹 개발자를 위한 HLS 적응형 비트 전송 설명",
+      "summary": "이 글은 적응형 비트 전송(ABR) 스트리밍의 일반적인 기술을 설명한다. MP4 비디오가 4G에서 멈추는 문제를 해결하는 방법을 다룬다.",
+      "summary_full": "이 글은 TPStreams에서 작성된 것으로, 적응형 비트 전송(ABR) 스트리밍의 기본 원리를 설명한다. ABR 스트리밍은 비디오가 다양한 네트워크 속도에서 원활하게 재생될 수 있도록 돕는다. 특히, MP4 비디오를 <video> 태그로 삽입했을 때 발생하는 버퍼링 문제를 해결하는 방법을 제시한다. 이 기술은 특정 제공업체에 국한되지 않고 일반적으로 적용된다.",
+      "keywords": [
+        "적응형 비트 전송",
+        "HLS",
+        "비디오 스트리밍"
+      ],
+      "source": "dev.to",
+      "date": "11월 10일",
+      "publishedAt": "2026-11-10T05:59:04.000Z",
+      "url": "https://dev.to/monisha_90/adaptive-bitrate-streaming-with-hls-explained-for-web-developers-3ao8",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "industry",
+      "title": "이사떡 캠페인 제작기",
+      "summary": "오늘의집이 이웃에게 첫인사를 디자인하는 캠페인을 진행했다. 이 캠페인은 이사하는 이웃에게 떡을 전달하는 방식으로 소통을 강조한다.",
+      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 '이사떡 캠페인'을 기획했다. 이 캠페인은 이사하는 이웃에게 떡을 선물하여 따뜻한 소통을 유도하는 것을 목표로 한다. 제작 과정에서는 디자인과 메시지 전달 방식에 대한 고민이 담겨 있다. 이 캠페인은 이웃 간의 관계를 더욱 돈독히 하는 데 기여하고자 한다.",
+      "keywords": [
+        "이사떡",
+        "캠페인",
+        "첫인사"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "11월 10일",
+      "publishedAt": "2026-11-10T05:58:10.290Z",
+      "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "design",
+      "title": "에이전트를 활용한 설명 영상 제작 방법",
+      "summary": "에이전트를 이용해 효과적인 설명 영상을 만드는 방법을 소개한다. 다양한 팁과 기법을 통해 시청자의 이해를 돕는 콘텐츠를 제작할 수 있다.",
+      "summary_full": "이 영상에서는 에이전트를 사용하여 설명 영상을 제작하는 구체적인 방법을 설명한다. 시청자의 관심을 끌고 이해를 돕기 위한 다양한 기법과 팁을 제공한다. 또한, 에이전트를 활용한 제작 과정에서의 유용한 도구와 리소스도 소개한다. 이를 통해 누구나 쉽게 설명 영상을 만들 수 있는 방법을 배울 수 있다.",
+      "keywords": [
+        "에이전트",
+        "설명 영상",
+        "제작 방법"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "11월 10일",
+      "publishedAt": "2026-11-10T05:58:04.605Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-872/",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "trend",
+      "title": "AI가 디자이너와 사진작가의 작업을 변화시키고 있다",
+      "summary": "인공지능은 디자이너와 사진작가의 일상적인 창작 작업에 빠르게 통합되고 있다. 이 기술은 이미지 생성뿐만 아니라 편집 속도 향상, 아이디어 생성, 클라이언트 자료 준비, 반복 작업 처리에도 사용된다.",
+      "summary_full": "인공지능은 디자이너와 사진작가의 창작 작업에 필수적인 요소로 자리잡고 있다. 이 기술은 이미지 생성뿐만 아니라 편집 속도 향상, 아이디어 생성, 클라이언트 자료 준비, 반복 작업 처리에도 활용되고 있다. AI의 도입은 창의 산업을 변화시키고 있지만, 자동화된 작업만을 대체하는 것은 아니다. 디자이너와 사진작가는 AI를 통해 더 창의적이고 효율적인 작업을 할 수 있는 기회를 얻고 있다.",
+      "keywords": [
+        "인공지능",
+        "디자인",
+        "사진작업"
+      ],
+      "source": "dev.to",
+      "date": "11월 10일",
+      "publishedAt": "2026-11-10T05:46:20.000Z",
+      "url": "https://dev.to/nadiras/ai-is-changing-the-work-of-designers-and-photographers-1dc",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "trend",
+      "title": "구글 딥마인드의 새로운 AI 도구, 신호 프로토콜의 보안성 입증",
+      "summary": "딥마인드 연구자들이 널리 사용되는 암호화 프로토콜이 의도한 대로 작동함을 공식적으로 검증했다. 그들의 목표는 '전 세계의 모든 소프트웨어'에 대해서도 같은 작업을 수행하는 것이다.",
+      "summary_full": "구글 딥마인드의 연구팀이 신호 프로토콜의 보안성을 공식적으로 검증하였다. 이 프로토콜은 널리 사용되고 있으며, 그 기능이 제대로 작동함을 입증했다. 연구자들은 앞으로 '전 세계의 모든 소프트웨어'에 대해 동일한 검증을 목표로 하고 있다. 이는 보안 소프트웨어의 신뢰성을 높이는 중요한 이정표가 될 것이다.",
+      "keywords": [
+        "AI 도구",
+        "신호 프로토콜",
+        "보안성 검증"
+      ],
+      "source": "wired.com",
+      "date": "11월 10일",
+      "publishedAt": "2026-11-10T05:01:00.000Z",
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "industry",
+      "title": "스타트업 CEO의 워라밸 변화",
+      "summary": "임은성 대표는 AI 에이전트를 통해 업무의 80%를 처리하게 되어 워라밸을 찾았다. 과거에는 주 100시간을 일했지만, 이제는 효율적인 업무 방식으로 변화했다.",
+      "summary_full": "임은성 대표는 1년 전 주 100시간을 일했으나, AI 에이전트를 도입하면서 업무의 80%를 맡기게 되었다. 이를 통해 그는 워라밸을 찾게 되었고, 회사 전체가 AI를 기반으로 일하는 방식을 도입했다. 임 대표는 바이라인플러스 웨비나에서 AI 에이전트의 운영 과정을 공유했다. 이 변화는 작은 스타트업에서도 AI를 활용하여 효율성을 높일 수 있음을 보여준다.",
+      "keywords": [
+        "스타트업",
+        "AI 에이전트",
+        "워라밸"
+      ],
+      "source": "바이라인네트워크",
+      "date": "11월 10일",
+      "publishedAt": "2026-11-10T00:29:10.000Z",
+      "url": "https://byline.network/2026/11/webinar/",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "industry",
+      "title": "바이트댄스의 Seedream 5.5, 이미지 100회 편집 가능",
+      "summary": "바이트댄스는 Seedream 5.5라는 AI 이미지 모델을 출시했다. 이 모델은 이미지의 변경되지 않은 부분을 100회 편집해도 유지하며 투명 배경 자산을 생성할 수 있다.",
+      "summary_full": "바이트댄스는 Seedream 5.5라는 새로운 AI 이미지 모델을 발표했다. 이 모델은 이미지의 변경되지 않은 부분을 100회 편집해도 손상되지 않도록 유지할 수 있다고 주장한다. 또한, 투명 배경 자산을 생성하는 기능도 포함되어 있다. 현재 이 모델은 바이트댄스의 중국 앱에서 배포되고 있다.",
+      "keywords": [
+        "바이트댄스",
+        "AI 이미지 모델",
+        "Seedream 5.5"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 9일",
+      "publishedAt": "2026-11-09T21:44:29.000Z",
+      "url": "https://thenextweb.com/news/bytedance-seedream-5-5-image-editing-100-rounds",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, IPO 앞두고 클로드 모델 업그레이드 공개",
+      "summary": "앤트로픽이 IPO를 앞두고 새로운 클로드 모델을 공개했다. 이 모델은 성능 향상과 함께 다양한 기능을 추가하여 주목받고 있다.",
+      "summary_full": "앤트로픽이 IPO를 준비하면서 업그레이드된 클로드 모델을 발표했다. 이번 모델은 이전 버전보다 성능이 크게 향상되었으며, 사용자 경험을 개선하기 위한 여러 기능이 추가되었다. 이러한 변화는 인공지능 기술의 발전을 반영하며, 시장에서의 경쟁력을 높이는 데 기여할 것으로 기대된다. 앤트로픽은 이 모델을 통해 더 많은 사용자에게 다가갈 계획이다.",
+      "keywords": [
+        "앤트로픽",
+        "클로드 모델",
+        "IPO"
+      ],
+      "source": "Google News Anthropic",
+      "date": "11월 9일",
+      "publishedAt": "2026-11-09T19:09:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13c01yVDVCTVdvX2dkX2d5bU80MFlycUc0X29DODFEeUpDQ0c1VXh0YXpRUDRsU2V5YUV0YmRNR3NXeXZPblhJeEp3X08tYm5ibktPRnFITXE3ZlNRM29vTWF5NEVJX19CWjVuRE8ySEc?oc=5",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "ai",
+      "title": "AWS 마켓플레이스에서 제공되는 ChatGPT Enterprise",
+      "summary": "ChatGPT Enterprise가 AWS 마켓플레이스를 통해 제공됩니다. 이를 통해 조직은 기존 AWS 구매 및 청구 관계를 통해 조달을 간소화할 수 있습니다.",
+      "summary_full": "ChatGPT Enterprise가 이제 AWS 마켓플레이스를 통해 이용 가능해졌습니다. 이 서비스는 조직들이 기존의 AWS 구매 및 청구 관계를 활용하여 조달 과정을 간소화하는 데 도움을 줍니다. 이를 통해 기업들은 보다 효율적으로 AI 솔루션을 도입할 수 있습니다. AWS와의 통합으로 사용자 경험이 향상될 것으로 기대됩니다.",
+      "keywords": [
+        "ChatGPT Enterprise",
+        "AWS 마켓플레이스",
+        "조달 간소화"
+      ],
+      "source": "OpenAI News",
+      "date": "11월 9일",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "frontend",
+      "title": "CSS-Tricks 20번째 버전",
+      "summary": "CSS-Tricks의 20번째 버전이 새롭게 디자인되었습니다. 새로운 기능과 변화에 대해 알아보세요.",
+      "summary_full": "CSS-Tricks의 20번째 버전이 출시되면서 사이트 디자인이 새롭게 변화했습니다. 이번 업데이트에서는 다양한 새로운 기능과 개선 사항이 포함되어 있습니다. 사용자들은 새로운 디자인을 통해 더 나은 경험을 할 수 있을 것입니다. 뉴스레터 구독도 추천합니다.",
+      "keywords": [
+        "CSS-Tricks",
+        "사이트 디자인",
+        "업데이트"
+      ],
+      "source": "css-tricks.com",
+      "date": "11월 9일",
+      "publishedAt": "2026-11-09T15:49:48.000Z",
+      "url": "https://css-tricks.com/css-tricks-version-20/",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "ai",
+      "title": "일본의 인구 및 금융 맥락을 포착한 합성 데이터셋",
+      "summary": "Nemotron-Personas-Finance-Japan은 일본의 인구 통계 및 금융 상황을 반영한 합성 데이터셋이다. 이 데이터셋은 연구 및 분석을 위한 유용한 자원으로 활용될 수 있다.",
+      "summary_full": "Nemotron-Personas-Finance-Japan은 일본의 다양한 인구 통계와 금융 맥락을 포착한 합성 데이터셋이다. 이 데이터셋은 일본의 경제적 특성을 이해하고 분석하는 데 도움을 줄 수 있다. 연구자와 분석가들이 일본 시장에 대한 통찰력을 얻는 데 유용하게 사용될 수 있다. 또한, 이 데이터셋은 인공지능 및 머신러닝 모델의 훈련에도 활용될 수 있다.",
+      "keywords": [
+        "합성 데이터셋",
+        "일본 금융",
+        "인구 통계"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "11월 9일",
+      "publishedAt": "2026-11-09T15:05:57.000Z",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "collectedAt": "2026-11-10"
+    },
+    {
+      "category": "industry",
+      "title": "숫자로 디자인하기, AI 프로토타입 교육, 맥락이 새로운 UI",
+      "summary": "AI가 기존 패턴을 기반으로 인터페이스를 생성하는 시대에 디자인의 중요성이 강조된다. 도구에게 제품에 적합한 요소를 전달하는 것 외에도 순간에 맞는 요소를 결정하는 것이 필요하다.",
+      "summary_full": "AI는 인터페이스를 생성할 수 있지만, 우리가 왜 그것에 관심을 가져야 하는지가 중요하다. 디자인 자원들을 주간으로 선별하여 제공하며, 디자이너들이 생각하고 만들 수 있도록 돕는다. AI의 발전과 함께 디자인의 맥락을 고려하는 것이 필수적이다. 이러한 변화 속에서 디자이너들은 새로운 도전과 기회를 마주하게 된다.",
+      "keywords": [
+        "AI",
+        "디자인",
+        "인터페이스"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 9일",
+      "publishedAt": "2026-11-09T12:20:07.000Z",
+      "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-10"
+    },
     {
       "category": "industry",
       "title": "오늘의집 셀프 서비스 데이터 분석 구축기",
@@ -65,6 +257,22 @@
       "publishedAt": "2026-11-09T03:43:06.000Z",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSFFTQVFSWTh5SEVlbzg3c2RzN0l1N2xfT0YtUmNiM1hVNHNrdEtfZ05fbnJSNkoxNXdZZFl6WHZOX0JNZHRnY2V4aWdsYXJVZF8yb0k0Z245WC01ZWlyYXRhOGpDVUM1bnVSdlA2SEsyNm1PSWZHbFRVRWRSVDg2cllwcWJUQQ?oc=5",
       "collectedAt": "2026-11-09"
+    },
+    {
+      "category": "ai",
+      "title": "실제 전자 설계에서 클로드 테스트하기",
+      "summary": "클로드 파블 5.2에게 스피커폰, 음성 비서 허브, 휴대용 가상 애완동물 등 세 가지 전자 기기를 설계해 달라고 요청했다. 다이오드 컴퓨터는 이 파일을 바탕으로 작동하는 프로토타입을 제작했다.",
+      "summary_full": "클로드 파블 5.2에게 짧은 프롬프트를 통해 세 가지 전자 기기를 설계하도록 요청했다. 요청된 기기는 스피커폰, 음성 비서 허브, 휴대용 가상 애완동물이다. 다이오드 컴퓨터는 클로드가 설계한 파일을 기반으로 실제 작동하는 프로토타입을 제작했다. 이 실험은 AI의 전자 기기 설계 능력을 평가하기 위한 것이다.",
+      "keywords": [
+        "전자 설계",
+        "AI",
+        "프로토타입"
+      ],
+      "source": "Anthropic Research",
+      "date": "11월 9일",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "collectedAt": "2026-11-10"
     },
     {
       "category": "industry",
@@ -339,6 +547,22 @@
       "collectedAt": "2026-11-09"
     },
     {
+      "category": "design",
+      "title": "사내 UX 전문가를 위한 새로운 커뮤니티",
+      "summary": "Smashing Magazine와 함께 새로운 커뮤니티를 런칭합니다. 이 커뮤니티는 사내 UX 전문가들을 위한 공간입니다.",
+      "summary_full": "Paul Boag가 Smashing Magazine과 협력하여 사내 UX 전문가들을 위한 새로운 커뮤니티를 1월에 런칭합니다. 그는 Smashing Magazine에서 여러 권의 책과 기사를 집필한 경험이 있습니다. 이 커뮤니티는 UX 전문가들이 서로 소통하고 지식을 공유할 수 있는 플랫폼을 제공할 것입니다. Boag는 이 기회를 소중히 여기고 있습니다.",
+      "keywords": [
+        "UX",
+        "커뮤니티",
+        "Smashing Magazine"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "11월 6일",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+      "collectedAt": "2026-11-10"
+    },
+    {
       "category": "ai",
       "title": "Hacktron과 협력하여 OpenAI 시스템의 취약점 찾기",
       "summary": "OpenAI는 Hacktron과 협력하여 시스템의 취약점을 찾고 있습니다. 이를 통해 제3자 서비스와의 연결을 테스트하고 방어력을 강화할 계획입니다.",
@@ -352,22 +576,6 @@
       "date": "11월 6일",
       "publishedAt": "2026-11-06T08:00:00.000Z",
       "url": "https://openai.com/index/partnering-with-hacktron",
-      "collectedAt": "2026-11-09"
-    },
-    {
-      "category": "design",
-      "title": "사내 UX 전문가를 위한 새로운 커뮤니티",
-      "summary": "Smashing Magazine과 함께 사내 UX 전문가를 위한 새로운 커뮤니티를 시작합니다. 이 커뮤니티는 UX 분야의 전문가들이 모여 경험과 지식을 나누는 공간이 될 것입니다.",
-      "summary_full": "Paul Boag가 Smashing Magazine과 협력하여 사내 UX 전문가를 위한 새로운 커뮤니티를 런칭합니다. 이 커뮤니티는 UX 디자이너들이 서로의 경험을 공유하고, 최신 트렌드와 기술에 대해 논의하는 플랫폼을 제공합니다. Boag는 Smashing Magazine에서 여러 권의 책과 기사를 집필한 경력이 있으며, 이번 프로젝트에 큰 기대를 걸고 있습니다. 커뮤니티는 1월에 공식적으로 시작될 예정입니다.",
-      "keywords": [
-        "UX",
-        "커뮤니티",
-        "디자인"
-      ],
-      "source": "smashingmagazine.com",
-      "date": "11월 6일",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
       "collectedAt": "2026-11-09"
     },
     {
@@ -421,18 +629,18 @@
     {
       "category": "figma",
       "title": "선택 영역: AI 이미지 편집 도구",
-      "summary": "선택 영역은 이미지의 일부를 선택하여 분리하거나 지울 수 있는 AI 이미지 편집 도구입니다. 이제 Figma를 사용하여 이미지에서 객체를 클릭하면 자동으로 선택됩니다.",
-      "summary_full": "선택 영역은 이미지의 특정 부분을 선택하여 분리하거나 지울 수 있는 AI 기반의 이미지 편집 도구입니다. 사용자는 이제 손으로 윤곽선을 그리지 않고도 이미지에서 객체를 클릭하여 자동으로 선택할 수 있습니다. 이 기능은 현재 macOS 데스크탑 앱에서만 사용할 수 있습니다. 편리한 이미지 편집을 통해 작업 효율성을 높일 수 있습니다.",
+      "summary": "선택 영역은 이미지의 일부를 선택하여 분리하거나 지울 수 있는 AI 이미지 편집 도구입니다. 이제 Figma에서 이미지를 클릭하면 자동으로 객체를 선택해 줍니다.",
+      "summary_full": "선택 영역은 이미지의 특정 부분을 선택하고 편집할 수 있는 AI 기반 도구입니다. 사용자는 이제 손으로 따라 그리지 않고도 이미지를 클릭하여 객체를 선택할 수 있습니다. 이 기능은 현재 macOS 데스크탑 앱에서만 사용할 수 있습니다. 이미지 편집의 효율성을 크게 향상시켜 줍니다.",
       "keywords": [
         "AI 이미지 편집",
         "Figma",
-        "macOS"
+        "macOS 앱"
       ],
       "source": "Figma Release Notes",
       "date": "11월 6일",
       "publishedAt": "2026-11-06T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-09"
+      "collectedAt": "2026-11-10"
     },
     {
       "category": "ai",
@@ -533,8 +741,8 @@
     {
       "category": "ai",
       "title": "제미니 옴니 1.2 플래시",
-      "summary": "제미니 옴니 1.2 플래시는 빠르고 비용 효율적이며 긴 클립을 지원합니다. 이 제품은 영상 제작에 최적화된 성능을 제공합니다.",
-      "summary_full": "제미니 옴니 1.2 플래시는 빠른 속도와 경제성을 자랑합니다. 또한, 긴 클립을 지원하여 다양한 영상 제작 요구를 충족할 수 있습니다. 이 제품은 특히 영상 제작자들에게 유용한 도구로 평가받고 있습니다. 효율적인 성능 덕분에 많은 사용자들이 선호하고 있습니다.",
+      "summary": "제미니 옴니 1.2 플래시는 빠르고 비용 효율적이며 긴 클립을 지원합니다. 이 제품은 촬영 시간을 늘려 더 많은 콘텐츠를 제작할 수 있게 해줍니다.",
+      "summary_full": "제미니 옴니 1.2 플래시는 빠른 속도와 비용 효율성을 자랑하는 촬영 장비입니다. 이 장비는 긴 클립을 지원하여 사용자에게 더 많은 촬영 시간을 제공합니다. 결과적으로, 콘텐츠 제작자들은 더 많은 영상을 쉽게 제작할 수 있습니다. 따라서, 이 제품은 효율적인 작업 흐름을 원하는 이들에게 적합합니다.",
       "keywords": [
         "제미니",
         "옴니 1.2",
@@ -544,7 +752,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T17:05:16.000Z",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "collectedAt": "2026-11-08"
+      "collectedAt": "2026-11-10"
     },
     {
       "category": "ai",
@@ -596,9 +804,9 @@
     },
     {
       "category": "ai",
-      "title": "Le Chonk의 지능 활용",
-      "summary": "Mistral Studio를 통해 기업 에이전트와 워크플로우를 더 빠르게 구축하고 배포할 수 있다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
-      "summary_full": "Mistral Studio는 기업 에이전트와 워크플로우, 앱을 신속하게 구축하고 배포할 수 있는 도구이다. Le Chonk는 이 과정에서 모델과 데이터, 인프라에 대한 완전한 제어를 가능하게 한다. 이를 통해 기업은 효율성을 높이고 혁신을 가속화할 수 있다. Le Chonk의 지능적인 기능이 Mistral Studio와 결합되어 더 나은 결과를 이끌어낸다.",
+      "title": "Le Chonk의 지능을 활용하다. 스튜디오가 이를 실현하다.",
+      "summary": "Mistral Studio와 Le Chonk를 통해 기업 에이전트, 워크플로우 및 앱을 더 빠르게 구축하고 배포할 수 있다. 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
+      "summary_full": "Mistral Studio와 Le Chonk를 활용하여 기업 에이전트, 워크플로우 및 앱을 신속하게 구축하고 배포할 수 있다. 이 솔루션은 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다. 이를 통해 기업은 효율성을 높이고 혁신적인 작업 환경을 조성할 수 있다. Le Chonk는 지능적인 기능을 통해 기업의 요구에 맞춘 최적의 솔루션을 제공한다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -608,7 +816,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-09"
+      "collectedAt": "2026-11-10"
     },
     {
       "category": "design",
@@ -2039,18 +2247,18 @@
     {
       "category": "frontend",
       "title": "손가락 튕기기로 LLM 비용 줄이기",
-      "summary": "LLM을 활용한 데이터 처리의 효율성을 높이고 비용을 절감하는 방법에 대해 설명합니다.",
-      "summary_full": "토스에서 생성형 AI를 활용하여 복잡한 업무를 처리하는 방법을 소개합니다. LLM을 통해 데이터 레이블링의 필요성을 줄이고 빠른 솔루션을 제공할 수 있습니다. 그러나 대량 호출 시 비용과 지연 문제에 직면하게 됩니다. 이 문제를 해결하기 위한 방안에 대해 논의합니다.",
+      "summary": "LLM을 활용하여 데이터 레이블링 비용을 줄이고 빠른 솔루션을 제공하는 방법에 대해 설명합니다. 그러나 대량 호출 시 비용과 지연 문제도 발생할 수 있습니다.",
+      "summary_full": "토스는 생성형 AI를 통해 다양한 서비스와 내부 업무를 효율적으로 처리하고 있습니다. LLM을 사용하면 데이터 레이블링 없이도 빠르게 솔루션을 만들 수 있지만, 대량 호출 시 비용과 Latency 문제가 발생합니다. 이러한 문제를 해결하기 위한 방법으로 손가락 튕기기와 같은 접근법이 제안됩니다. LLM의 지속적인 필요성과 비용 문제에 대한 고민이 필요합니다.",
       "keywords": [
         "LLM",
         "비용 절감",
-        "생성형 AI"
+        "프롬프트 튜닝"
       ],
       "source": "toss.tech",
       "date": "10월 27일",
       "publishedAt": "2026-10-27T07:05:00.000Z",
       "url": "https://toss.tech/article/snap-llm-cost-reduction",
-      "collectedAt": "2026-11-09"
+      "collectedAt": "2026-11-10"
     },
     {
       "category": "frontend",
@@ -4577,38 +4785,6 @@
       "collectedAt": "2026-10-11"
     },
     {
-      "category": "frontend",
-      "title": "앙골라에서 휴대폰으로 4시간 만에 $99 SaaS 랜딩 페이지 구축",
-      "summary": "앙골라의 윌슨이 Tailwind CSS를 사용해 SaaS 랜딩 페이지를 만들었다. 가격 섹션과 전환 중심의 카피를 포함하여 4:49 AM에 배터리 7%로 작업을 완료했다.",
-      "summary_full": "앙골라의 윌슨은 휴대폰으로 4시간 만에 완전한 SaaS 랜딩 페이지를 구축했다. 이 페이지는 Tailwind CSS로 제작되었으며, 가격 섹션($29/$99/$299)과 전환 중심의 카피가 포함되어 있다. 작업은 4:49 AM에 진행되었고, 배터리는 7% 남아 있었다. 라이브 데모 링크도 제공된다.",
-      "keywords": [
-        "SaaS",
-        "랜딩 페이지",
-        "Tailwind CSS"
-      ],
-      "source": "dev.to",
-      "date": "10월 10일",
-      "publishedAt": "2026-10-10T04:16:51.000Z",
-      "url": "https://dev.to/wilsonbacolo/i-built-a-99-saas-landing-page-in-4-hours-from-my-phone-in-angola-4133",
-      "collectedAt": "2026-10-10"
-    },
-    {
-      "category": "trend",
-      "title": "3D 인테리어 디자인에서 시공 도면까지: 설계를 가능하게 하는 요소는?",
-      "summary": "이 기사는 3D 인테리어 디자인이 실제 시공 가능한 도면으로 전환되는 과정에 대해 설명합니다. 설계의 실현 가능성을 높이는 요소들을 다룹니다.",
-      "summary_full": "이 기사는 3D 인테리어 디자인이 실제 시공 도면으로 변환되는 과정에서 고려해야 할 요소들을 설명합니다. 설계가 실제로 구현될 수 있도록 하는 중요한 요소들을 분석합니다. 또한, 디자인의 실현 가능성을 높이기 위한 전략과 방법론을 제시합니다. 이를 통해 건축 및 인테리어 분야의 전문가들에게 유용한 통찰을 제공합니다.",
-      "keywords": [
-        "3D 인테리어 디자인",
-        "시공 도면",
-        "설계 가능성"
-      ],
-      "source": "dev.to",
-      "date": "10월 10일",
-      "publishedAt": "2026-10-10T02:49:32.000Z",
-      "url": "https://dev.to/owen_george/from-3d-interior-design-to-shop-drawings-what-makes-a-design-buildable-54g3",
-      "collectedAt": "2026-10-10"
-    },
-    {
       "category": "ai",
       "title": "Anthropic, Claude 대시보드와 Motion 출시 및 Docs 베타 해제",
       "summary": "Anthropic이 Claude 대시보드와 Motion 기능을 출시했습니다. 또한, Docs 기능이 베타 상태에서 정식으로 출시되었습니다.",
@@ -4639,38 +4815,6 @@
       "publishedAt": "2026-10-09T20:32:02.000Z",
       "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
       "collectedAt": "2026-10-12"
-    },
-    {
-      "category": "industry",
-      "title": "인도, 밴스의 ‘계약 노동자’ 발언에 강력 반발",
-      "summary": "인도 외교부는 미국 부통령 JD 밴스가 마이크로소프트에 고용된 외국 근로자를 ‘계약 노동자’라고 언급한 것에 대해 깊은 유감을 표명했다. 외교부 대변인은 역사적이고 식민지적 의미를 지닌 용어 사용이 매우 불쾌하다고 밝혔다.",
-      "summary_full": "인도 외교부는 미국 부통령 JD 밴스가 마이크로소프트에 고용된 외국 근로자를 ‘계약 노동자’라고 언급한 것에 대해 깊은 유감을 표명했다. 대변인 랜디르 자이스왈은 뉴델리에서 열린 브리핑에서 이 같은 입장을 밝혔다. 그는 역사적이고 식민지적 의미를 지닌 용어 사용이 매우 불쾌하다고 강조했다. 인도 정부는 이러한 발언이 불쾌감을 초래한다고 지적했다.",
-      "keywords": [
-        "인도",
-        "JD 밴스",
-        "계약 노동자"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 9일",
-      "publishedAt": "2026-10-09T20:28:11.000Z",
-      "url": "https://thenextweb.com/news/india-vance-indentured-servants-perm-suspension",
-      "collectedAt": "2026-10-10"
-    },
-    {
-      "category": "trend",
-      "title": "테슬라의 '완전 자율주행', 유럽에서 '보조 주행'으로 변경",
-      "summary": "테슬라는 유럽 규제 기관을 위해 자율주행 기능의 이름을 변경하고 있다. 이로 인해 운전자가 기능의 실제 성격에 대해 오해하지 않도록 하려는 의도이다.",
-      "summary_full": "테슬라는 '완전 자율주행'이라는 기능 이름이 운전자를 오도할 수 있다는 비판을 받아왔다. 이에 따라 유럽에서 이 기능을 '보조 주행'으로 변경하기로 결정했다. 이 변화는 유럽 규제 기관의 요구에 따른 것이다. 테슬라는 운전자가 기능의 실제 작동 방식을 명확히 이해할 수 있도록 하고자 한다.",
-      "keywords": [
-        "테슬라",
-        "자율주행",
-        "유럽 규제"
-      ],
-      "source": "wired.com",
-      "date": "10월 9일",
-      "publishedAt": "2026-10-09T20:18:15.000Z",
-      "url": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/",
-      "collectedAt": "2026-10-10"
     },
     {
       "category": "ai",
@@ -4803,8 +4947,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너가 새로운 AI 솔루션을 발표하며 LLM의 운영 비용을 절반으로 줄일 수 있는 기술을 선보였다. 이 솔루션은 기업들이 AI를 보다 경제적으로 활용할 수 있도록 설계되었다. 라이너는 이를 통해 고객들에게 더 나은 가치를 제공할 계획이다. AI 기술의 발전과 함께 비용 절감이 중요한 이슈로 부각되고 있다.",
+      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 혁신적인 기술은 기업의 운영 비용을 크게 절감할 것으로 기대된다.",
+      "summary_full": "라이너는 최근 LLM의 운영 비용을 절반으로 줄일 수 있는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 인공지능을 활용하는 데 있어 경제적 부담을 덜어줄 것으로 보인다. 또한, 효율성을 높여 기업의 생산성을 향상시킬 수 있는 가능성을 제시하고 있다. 이러한 기술 발전은 AI 시장에서의 경쟁력을 강화하는 데 기여할 것으로 예상된다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -4814,7 +4958,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-10-14"
+      "collectedAt": "2026-11-10"
     },
     {
       "category": "frontend",
@@ -4851,8 +4995,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 개선하고 혁신적인 디자인을 통해 더 나은 인터페이스를 제공하는 데 중점을 둔다.",
-      "summary_full": "디자이너들이 주목하는 최신 UX/UI 트렌드가 소개된다. 이 트렌드는 사용자 경험을 극대화하고, 직관적인 인터페이스를 제공하기 위한 다양한 접근 방식을 포함한다. 또한, 디자인의 혁신성과 실용성을 동시에 고려한 요소들이 강조된다. 이러한 트렌드는 앞으로의 디자인 방향성을 제시하는 중요한 지표가 될 것이다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 등장하고 있다. 디자이너들은 이러한 변화에 발맞추어 혁신적인 접근 방식을 모색하고 있다.",
+      "summary_full": "디자인 분야에서 UX/UI는 사용자 경험을 극대화하는 중요한 요소로 자리 잡고 있다. 최근에는 미니멀리즘, 인터랙티브 요소, 개인화된 경험 등이 주요 트렌드로 부각되고 있다. 이러한 변화는 사용자와의 소통을 더욱 원활하게 하고, 브랜드의 가치를 높이는 데 기여하고 있다. 디자이너들은 이러한 트렌드를 반영하여 더욱 창의적이고 효과적인 디자인을 구현하고 있다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4862,23 +5006,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-09"
+      "collectedAt": "2026-11-10"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
       "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 학생들은 이를 통과하기 위해 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 언어 학습 앱의 디자인을 이해하는 데 더 유용하다.",
       "keywords": [
         "언어 앱",
-        "라틴어 교육",
-        "아비투르"
+        "라틴어",
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-09"
+      "collectedAt": "2026-11-10"
     }
   ]
 }
