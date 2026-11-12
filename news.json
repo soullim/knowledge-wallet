@@ -1,22 +1,198 @@
 {
-  "updated": "2026년 11월 11일 AM 04:46",
+  "updated": "2026년 11월 12일 AM 05:49",
   "count": 320,
   "articles": [
     {
+      "category": "industry",
+      "title": "이사떡 캠페인 제작기",
+      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위한 이사떡 캠페인을 기획하였다. 이 캠페인은 이사 후 이웃과의 관계를 더욱 돈독히 하기 위한 목적을 가지고 있다.",
+      "summary_full": "오늘의집은 이웃에게 첫인사를 전하는 방법으로 이사떡 캠페인을 제작하였다. 이 캠페인은 이사 후 새로운 이웃과의 관계를 형성하는 데 도움을 주기 위해 기획되었다. 다양한 디자인 요소와 메시지를 통해 이웃 간의 소통을 촉진하고자 하였다. 이러한 노력을 통해 이사 후의 새로운 시작을 더욱 따뜻하게 만들고자 한다.",
+      "keywords": [
+        "이사떡",
+        "캠페인",
+        "이웃"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T05:47:56.735Z",
+      "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "design",
+      "title": "김장표 자동 계산기",
+      "summary": "배추 포기 수를 입력하면 자동으로 김장 재료를 계산해주는 시스템이다. 사용자가 쉽게 김장 준비를 할 수 있도록 돕는다.",
+      "summary_full": "이 시스템은 사용자가 원하는 배추 포기 수를 입력하면 필요한 재료와 양을 자동으로 계산해준다. 이를 통해 김장 준비가 간편해지고, 필요한 재료를 미리 준비할 수 있다. 사용자는 직관적인 인터페이스를 통해 손쉽게 이용할 수 있다. 김장 시즌에 유용한 도구로 자리 잡을 것으로 기대된다.",
+      "keywords": [
+        "김장",
+        "배추",
+        "자동 계산기"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T05:47:51.340Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-874/",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "frontend",
+      "title": "샬롯에서 네트워크 지원 서비스를 위한 전문가 고용의 주요 이점",
+      "summary": "전문가를 고용하면 네트워크 지원 서비스의 효율성과 안정성을 높일 수 있다. 이는 기업의 IT 인프라를 최적화하고 문제 해결 시간을 단축시킨다.",
+      "summary_full": "샬롯에서 네트워크 지원 서비스를 제공하는 전문가를 고용하는 것은 여러 가지 이점을 가져온다. 첫째, 전문가는 복잡한 네트워크 문제를 신속하게 해결할 수 있는 경험과 지식을 갖추고 있다. 둘째, 이를 통해 기업은 IT 인프라의 안정성을 높이고 운영 비용을 절감할 수 있다. 마지막으로, 전문가의 지원은 비즈니스의 성장과 확장에 기여할 수 있다.",
+      "keywords": [
+        "네트워크 지원",
+        "전문가 고용",
+        "샬롯"
+      ],
+      "source": "dev.to",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T05:41:54.000Z",
+      "url": "https://dev.to/itfirm/key-benefits-of-hiring-experts-for-network-support-services-in-charlotte-4mi6",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "trend",
+      "title": "UGREEN 3C 사례 연구",
+      "summary": "UGREEN의 Shopify 번들 및 장치 탐색에 대한 연구이다. 가격 및 프로모션은 변동 가능성이 있다.",
+      "summary_full": "UGREEN의 사례 연구에서는 Shopify 번들, 장치 탐색 및 페이지 내 비교에 대해 다룬다. 저렴한 케이블이나 충전기를 수익성 있게 판매하는 것이 어려울 수 있음을 언급한다. 가격, 프로모션 및 가용성은 변동할 수 있으며, 나열된 번들 가격은 브랜드의 평균 주문 가치를 증명하지 않는다. 전체 Shopify 섹션은 설치된 체크아웃 통합이 아닌 교육 인터페이스로 기능한다.",
+      "keywords": [
+        "UGREEN",
+        "Shopify",
+        "번들 판매"
+      ],
+      "source": "dev.to",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T05:39:00.000Z",
+      "url": "https://dev.to/weswoodtc/ugreen-3c-case-study-shopify-bundles-device-navigation-and-on-page-comparison-ncm",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude를 AI 오피스 제품군으로 확장",
+      "summary": "Anthropic은 AI 오피스 제품군에 Claude를 추가하여 기능을 확장하고 있습니다. 이는 사용자에게 더 나은 작업 환경을 제공하기 위한 노력의 일환입니다.",
+      "summary_full": "Anthropic은 Claude를 AI 오피스 제품군으로 확장하고 있습니다. 이 새로운 기능은 사용자들이 보다 효율적으로 작업할 수 있도록 돕기 위해 설계되었습니다. Claude는 다양한 업무를 지원하며, AI 기술을 활용하여 생산성을 높이는 데 기여할 것입니다. 이러한 확장은 AI 기술의 발전과 함께 사용자 경험을 개선하려는 Anthropic의 전략을 반영합니다.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AI 오피스"
+      ],
+      "source": "Google News Anthropic",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T05:33:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXhYQzNkemRJQUZLaTAxT09OM1g4MFQ0V0ZLR3RlLVhjRWk4WU9ORHk5SFkxLXBOTkxHelVJOWhHUENjYmUtTHJmWHpUajBqdmdhSVRWVldMM2RhSGl0RGR1eXp0a2c4OGxVcV9WcThFVnF6YVJ0NmdiRThNQnl5N0h1dTFFa2s?oc=5",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "industry",
+      "title": "네불리, 기업 AI의 ROI 측정을 위한 2100만 달러 시리즈 A 투자 유치",
+      "summary": "네불리는 AI 에이전트의 재무적 수익을 측정하는 기업으로, 2100만 달러의 시리즈 A 투자를 유치했다. 이번 투자는 Planven이 주도했으며, 여러 투자자들이 참여했다.",
+      "summary_full": "네불리는 이탈리아 토리노에 본사를 둔 기업으로, 기업들이 AI 에이전트의 재무적 수익을 측정할 수 있도록 돕는다. 최근 2100만 달러의 시리즈 A 투자를 유치했으며, 투자에는 Planven을 포함한 여러 벤처 캐피탈이 참여했다. 이 회사는 점점 더 많은 기업들이 AI의 효과를 평가하고자 하는 문제를 해결하고 있다. 네불리는 AI와 디지털 전환에 대한 CDP 벤처 캐피탈의 펀드와 함께 여러 투자자들의 지원을 받았다.",
+      "keywords": [
+        "네불리",
+        "AI",
+        "투자"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T05:00:19.000Z",
+      "url": "https://thenextweb.com/news/nebuly-21m-series-a-enterprise-ai-roi",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "trend",
+      "title": "최고의 이른 블랙 프라이데이 맥북 에어 할인: 200달러 할인",
+      "summary": "블랙 프라이데이가 아직 2주 남았지만, 이번 맥북 에어 할인은 올 시즌 필수 구매 노트북 거래일 수 있다.",
+      "summary_full": "블랙 프라이데이가 다가오고 있지만, 맥북 에어의 200달러 할인은 주목할 만한 거래로 보인다. 이 할인은 소비자들에게 큰 가치를 제공하며, 많은 사람들이 관심을 가질 것으로 예상된다. 특히, 휴가 시즌을 맞아 노트북 구매를 고려하는 이들에게 좋은 기회가 될 것이다. 따라서 이 기회를 놓치지 않는 것이 중요하다.",
+      "keywords": [
+        "블랙 프라이데이",
+        "맥북 에어",
+        "할인"
+      ],
+      "source": "wired.com",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T02:33:02.000Z",
+      "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
+      "collectedAt": "2026-11-12"
+    },
+    {
       "category": "ai",
       "title": "길버트 + 토빈, AI로 법률 비즈니스 재구성",
-      "summary": "길버트 + 토빈의 CEO 샘 닉클레스와의 대화에서 AI의 도입이 법률 비즈니스에 미치는 영향을 논의한다. AI 기술이 법률 서비스의 효율성을 어떻게 향상시키는지에 대한 통찰을 제공한다.",
-      "summary_full": "길버트 + 토빈의 CEO 샘 닉클레스와의 대화에서 AI가 법률 비즈니스에 미치는 영향에 대해 다룬다. 그는 AI 기술이 법률 서비스의 효율성을 높이고, 고객 경험을 개선하는 방법을 설명한다. 또한, 법률 산업의 미래와 AI의 역할에 대한 그의 비전을 공유한다. 이 대화는 법률 분야에서의 혁신과 변화의 필요성을 강조한다.",
+      "summary": "길버트 + 토빈의 CEO 샘 닉클레스와의 대화에서 AI의 역할을 탐구한다. 법률 산업의 혁신을 위한 새로운 접근 방식을 논의한다.",
+      "summary_full": "길버트 + 토빈의 CEO 샘 닉클레스와의 인터뷰를 통해 AI가 법률 비즈니스에 미치는 영향을 살펴본다. 그는 법률 산업의 효율성을 높이고 새로운 기회를 창출하는 방법에 대해 이야기한다. AI 기술이 변화를 이끄는 가운데, 법률 서비스의 미래에 대한 비전을 공유한다. 이러한 혁신적인 접근은 법률 분야의 전통적인 관행을 재고하게 만든다.",
       "keywords": [
         "AI",
         "법률 비즈니스",
-        "길버트 + 토빈"
+        "혁신"
       ],
       "source": "OpenAI News",
       "date": "11월 12일",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "industry",
+      "title": "포토샵을 클론하는 이유는?",
+      "summary": "AI 덕분에 전문 도구를 쉽게 재창조할 수 있다. PhotoCraft는 Adobe Creative Cloud의 높은 가격 없이 유사한 기능을 제공하는 오픈소스 포토샵 클론이다.",
+      "summary_full": "AI를 활용한 소프트웨어 개발이 저렴해지면서 복잡한 제품을 만드는 것이 가능해졌다. PhotoCraft는 최근 출시된 AI 기반의 오픈소스 포토샵 클론으로, Adobe의 높은 월 사용료 없이 유사한 기능을 제공한다. 이러한 변화는 전문 도구의 접근성을 높이고 새로운 기회를 창출할 수 있다. AI 기술이 발전함에 따라 더 많은 혁신이 기대된다.",
+      "keywords": [
+        "AI",
+        "포토샵 클론",
+        "PhotoCraft"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 11일",
+      "publishedAt": "2026-11-11T22:20:42.000Z",
+      "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "industry",
+      "title": "AI 로봇 양산의 장애물은 알고리즘이 아닌 제조 현장",
+      "summary": "AI 로봇의 양산이 어려운 이유는 카메라 인식 오류와 기계 부품 고장 등 제조 현장의 문제 때문이다. 아이벡스는 이러한 문제를 해결하기 위해 센서와 AI 모델, 로봇 장비의 유기적 결합을 강조하고 있다.",
+      "summary_full": "AI 로봇의 제조 현장 도입이 증가하고 있지만, 카메라 인식 오류와 기계 부품 고장, 통신 표준화 미비, 현장 데이터 부족 등이 양산을 어렵게 하고 있다. 아이벡스의 성민수 대표는 센서, AI 모델, 로봇 장비, 제어 소프트웨어, 유지관리 체계의 유기적 결합이 필요하다고 강조했다. 아이벡스는 핵심 기술 내재화와 단일 책임 체계, 현장 데이터를 활용한 폐쇄형 루프 운영을 통해 이러한 문제를 해결할 계획이다.",
+      "keywords": [
+        "AI 로봇",
+        "제조 현장",
+        "양산 문제"
+      ],
+      "source": "바이라인네트워크",
+      "date": "11월 11일",
+      "publishedAt": "2026-11-11T14:34:54.000Z",
+      "url": "https://byline.network/2026/11/1111-9/",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "ai",
+      "title": "로이드케이, AI 보안 게이트웨이 ‘DO-GATE’ 출시",
+      "summary": "로이드케이가 AI 보안 게이트웨이인 ‘DO-GATE’를 출시했다. 이 제품은 외부 LLM의 정보 유출을 차단하는 기능을 갖추고 있다.",
+      "summary_full": "로이드케이가 새로운 AI 보안 게이트웨이 ‘DO-GATE’를 출시했다. 이 게이트웨이는 외부의 대형 언어 모델(LLM)로부터의 정보 유출을 효과적으로 차단하는 기능을 제공한다. 이를 통해 기업들은 데이터 보안을 강화할 수 있을 것으로 기대된다. 로이드케이는 이러한 기술을 통해 보안 시장에서의 경쟁력을 높이고자 한다.",
+      "keywords": [
+        "로이드케이",
+        "AI 보안",
+        "DO-GATE"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "11월 11일",
+      "publishedAt": "2026-11-11T05:32:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kZER1TlZtTkl4aEczcm1CeS1jYi1ydjhBTk0yUm85dGFmUVVmMFQtbG4wQk5ROXRldmlpcEtNWm83RGQtelE?oc=5",
+      "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "ai",
+      "title": "BotPsy: 서브 억 파라미터 에이전틱 언어 모델을 갖춘 온디바이스 개인 비서",
+      "summary": "BotPsy는 서브 억 파라미터를 가진 언어 모델을 활용한 개인 비서 시스템이다. 이 시스템은 사용자 기기에서 직접 작동하여 개인화된 지원을 제공한다.",
+      "summary_full": "BotPsy는 서브 억 파라미터 에이전틱 언어 모델을 기반으로 한 온디바이스 개인 비서이다. 이 모델은 사용자의 요구를 이해하고 적절한 응답을 생성하는 능력을 갖추고 있다. 개인 비서 기능은 사용자의 기기에서 직접 실행되므로 데이터 프라이버시를 강화한다. BotPsy는 다양한 개인화된 서비스를 제공하여 사용자 경험을 향상시키는 데 초점을 맞추고 있다.",
+      "keywords": [
+        "BotPsy",
+        "개인 비서",
+        "언어 모델"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "11월 11일",
+      "publishedAt": "2026-11-11T05:01:16.000Z",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "collectedAt": "2026-11-12"
     },
     {
       "category": "trend",
@@ -32,22 +208,6 @@
       "date": "11월 11일",
       "publishedAt": "2026-11-11T04:45:33.000Z",
       "url": "https://dev.to/casper_tran_59c6a8b1e1f3d/what-type-scale-is-a-site-really-using-measuring-it-from-computed-font-sizes-2k1",
-      "collectedAt": "2026-11-11"
-    },
-    {
-      "category": "industry",
-      "title": "이사떡 캠페인 제작기",
-      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위한 이사떡 캠페인을 기획했다. 이 캠페인은 이사 후 이웃과의 소통을 촉진하는 데 중점을 두고 있다.",
-      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 이사떡 캠페인을 제작했다. 이 캠페인은 이사 후 이웃과의 관계를 강화하고 소통을 촉진하는 것을 목표로 한다. 다양한 디자인 요소와 메시지를 통해 이사떡을 통해 따뜻한 인사를 전하고자 한다. 이를 통해 이웃 간의 유대감을 높이고자 하는 의도가 담겨 있다.",
-      "keywords": [
-        "이사떡",
-        "캠페인",
-        "이웃 소통"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "11월 11일",
-      "publishedAt": "2026-11-11T04:45:21.964Z",
-      "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
       "collectedAt": "2026-11-11"
     },
     {
@@ -133,18 +293,18 @@
     {
       "category": "frontend",
       "title": "CSS 최적화: 선언을 한 번만 사용하는 것이 여전히 효과적인가?",
-      "summary": "DRY 원칙에서 영감을 받은 이 기술이 CSS 선언 반복을 줄이는 데 여전히 유효한 최적화 전략인지 살펴본다.",
-      "summary_full": "CSS 선언을 한 번만 사용하는 방법이 CSS 최적화에 여전히 효과적인지에 대한 논의이다. 이 기술은 선언의 반복을 식별하고 줄이는 데 초점을 맞춘다. CSS-Tricks에서 처음 작성되고 발표된 이 기법은 여전히 유용할 수 있다. 뉴스레터 구독을 권장한다.",
+      "summary": "DRY 원칙에서 영감을 받은 CSS 선언 반복 감소 기법이 여전히 유효한 최적화 전략인지에 대한 논의이다.",
+      "summary_full": "CSS 선언을 한 번만 사용하는 기법이 여전히 유효한지에 대한 질문을 다룬다. 이 기법은 CSS 코드의 중복을 줄이고 최적화를 목표로 한다. CSS-Tricks에서 처음 작성되어 발표된 이 기법은 여전히 많은 개발자들에게 관심을 받고 있다. 뉴스레터 구독을 추천한다.",
       "keywords": [
         "CSS 최적화",
         "DRY 원칙",
-        "선언 반복"
+        "선언 반복 감소"
       ],
       "source": "css-tricks.com",
       "date": "11월 10일",
       "publishedAt": "2026-11-10T16:42:18.000Z",
       "url": "https://css-tricks.com/css-using-declarations-just-once/",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
     },
     {
       "category": "ai",
@@ -181,8 +341,8 @@
     {
       "category": "frontend",
       "title": "망분리 환경의 Agent Platform 설계",
-      "summary": "Agent Platform은 사용자가 요청한 데이터 분석을 자동화하는 시스템이다. 금융 업무의 망분리 요건을 준수하며 내부망에서 작동한다.",
-      "summary_full": "Agent Platform은 사용자가 에이전트를 통해 데이터 분석 요청을 할 수 있도록 설계되었다. 이 시스템은 반복적인 데이터 비교 작업을 자동화하여 효율성을 높인다. 또한, 금융업체의 망분리 요건을 준수하여 내부망에서 안전하게 운영된다. 이를 통해 사용자는 필요한 데이터를 신속하게 분석할 수 있다.",
+      "summary": "Agent Platform이 사용자의 데이터 분석 요청을 자동화하는 방법을 설명한다. 망분리 요건을 준수하며 내부망에서 작업을 수행하는 에이전트의 역할을 강조한다.",
+      "summary_full": "Agent Platform은 사용자가 요청한 데이터 분석을 자동으로 처리하도록 설계되었다. 이 플랫폼은 금융 업무를 위한 망분리 환경에서 운영되며, 내부망에서만 접근 가능한 데이터를 활용한다. 에이전트는 반복적인 작업을 대신 수행하여 효율성을 높인다. 이러한 설계는 전자금융감독규정에 따른 보안 요건을 충족한다.",
       "keywords": [
         "Agent Platform",
         "망분리",
@@ -192,7 +352,7 @@
       "date": "11월 10일",
       "publishedAt": "2026-11-10T07:02:00.000Z",
       "url": "https://toss.tech/article/agent-platform-foundation",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
     },
     {
       "category": "frontend",
@@ -277,8 +437,8 @@
     {
       "category": "figma",
       "title": "Figma 모션 기능 번들로 모션 디자이너의 작업이 쉬워진다",
-      "summary": "Figma의 새로운 모션 기능 번들은 모션 디자이너들이 애니메이션 스타일을 미리 보고, Lottie 파일을 내보내기 전에 확인하며, 물리 기반 스프링으로 세밀한 조정을 할 수 있도록 돕는다.",
-      "summary_full": "Figma의 모션 기능 번들은 모션 디자이너들에게 여러 가지 유용한 도구를 제공한다. 스타일 미리보기 기능을 통해 애니메이션 리스트와 디자인 캔버스에서 각 스타일을 재생해 볼 수 있다. 또한, 물리 기반 스프링을 사용하여 질량, 강성 및 감쇠를 설정할 수 있는 기능이 추가되었다. 이러한 기능들은 디자이너들이 작업을 더욱 효율적으로 수행할 수 있게 해준다.",
+      "summary": "Figma의 새로운 모션 기능 번들은 모션 디자이너들이 애니메이션 스타일을 미리 보고, Lottie 파일을 내보내기 전에 확인하며, 물리 기반 스프링으로 세밀한 조정을 할 수 있게 해준다.",
+      "summary_full": "Figma의 모션 기능 번들은 모션 디자이너들에게 여러 가지 유용한 도구를 제공한다. 사용자는 애니메이션 목록에서 각 스타일을 미리 보고 디자인 캔버스에서 적용하기 전에 확인할 수 있다. 또한, 물리 기반 스프링을 통해 질량, 강성 및 감쇠를 설정하여 더욱 정교한 조정이 가능하다. 이러한 기능들은 모션 디자인 작업을 더 효율적으로 만들어준다.",
       "keywords": [
         "Figma",
         "모션 디자인",
@@ -288,7 +448,7 @@
       "date": "11월 10일",
       "publishedAt": "2026-11-10T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
     },
     {
       "category": "ai",
@@ -468,19 +628,19 @@
     },
     {
       "category": "ai",
-      "title": "클로드를 통한 실제 전자기기 디자인 테스트",
-      "summary": "클로드 파블 5.2에게 스피커폰, 음성 비서 허브, 핸드헬드 가상 애완동물 등 세 가지 전자 기기를 설계해 달라고 요청했다. 다이오드 컴퓨터는 클로드의 파일을 바탕으로 작동하는 프로토타입을 제작했다.",
-      "summary_full": "클로드 파블 5.2에게 세 가지 전자 기기를 설계해 달라고 요청했다. 요청한 기기는 스피커폰, 음성 비서 허브, 핸드헬드 가상 애완동물이다. 다이오드 컴퓨터는 클로드의 설계 파일을 기반으로 실제 작동하는 프로토타입을 제작했다. 이 실험은 AI의 전자기기 디자인 능력을 평가하는 데 목적이 있다.",
+      "title": "실제 전자 설계에서 Claude 테스트하기",
+      "summary": "Claude Fable 5.2에게 스피커폰, 음성 비서 허브, 핸드헬드 가상 애완동물 등 세 가지 전자 기기를 설계하도록 요청했다. Diode Computers는 이 파일을 바탕으로 작동하는 프로토타입을 제작했다.",
+      "summary_full": "Claude Fable 5.2는 짧은 프롬프트를 기반으로 세 가지 전자 기기를 설계하도록 요청받았다. 설계된 기기는 스피커폰, 음성 비서 허브, 핸드헬드 가상 애완동물이다. Diode Computers는 이러한 설계 파일을 활용하여 실제 작동하는 프로토타입을 제작했다. 이 과정은 AI의 전자 설계 능력을 시험하는 데 중요한 역할을 했다.",
       "keywords": [
-        "클로드",
-        "전자기기 디자인",
+        "전자 설계",
+        "AI",
         "프로토타입"
       ],
       "source": "Anthropic Research",
       "date": "11월 9일",
       "publishedAt": "2026-11-09T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-electronics-design",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
     },
     {
       "category": "industry",
@@ -757,8 +917,8 @@
     {
       "category": "design",
       "title": "사내 UX 전문가를 위한 새로운 커뮤니티",
-      "summary": "Smashing Magazine과 함께 사내 UX 전문가들을 위한 커뮤니티를 시작합니다. 이 커뮤니티는 UX 분야의 전문가들이 서로 소통하고 경험을 공유할 수 있는 공간이 될 것입니다.",
-      "summary_full": "Paul Boag가 Smashing Magazine과 협력하여 사내 UX 전문가들을 위한 새로운 커뮤니티를 런칭합니다. 이 커뮤니티는 UX 분야에서 활동하는 사람들에게 네트워킹과 경험 공유의 기회를 제공합니다. Boag는 Smashing Magazine에서 여러 권의 책과 많은 기사를 집필한 경력이 있습니다. 이 프로젝트는 1월에 시작될 예정입니다.",
+      "summary": "Smashing Magazine과 함께 사내 UX 전문가를 위한 커뮤니티를 시작합니다. 이 커뮤니티는 UX 분야의 전문가들이 모여 경험과 지식을 공유하는 공간이 될 것입니다.",
+      "summary_full": "Paul Boag가 Smashing Magazine과 협력하여 사내 UX 전문가를 위한 새로운 커뮤니티를 1월에 런칭합니다. 이 커뮤니티는 UX 전문가들이 서로의 경험을 나누고, 최신 동향을 논의하는 플랫폼을 제공합니다. Boag는 Smashing Magazine에서 여러 권의 책과 기사를 집필한 경력이 있으며, 이번 프로젝트에 큰 기대를 걸고 있습니다. 새로운 커뮤니티는 UX 분야의 발전에 기여할 것으로 보입니다.",
       "keywords": [
         "UX",
         "커뮤니티",
@@ -768,7 +928,7 @@
       "date": "11월 6일",
       "publishedAt": "2026-11-06T08:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
     },
     {
       "category": "ai",
@@ -996,9 +1156,9 @@
     },
     {
       "category": "ai",
-      "title": "Le Chonk의 지능을 활용한 Mistral Studio",
-      "summary": "Mistral Studio를 통해 기업 에이전트, 워크플로우 및 앱을 더 빠르게 구축하고 배포할 수 있습니다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다.",
-      "summary_full": "Mistral Studio는 기업의 에이전트와 앱을 신속하게 구축하고 배포할 수 있는 도구입니다. Le Chonk는 이러한 과정에서 모델, 데이터 및 인프라를 완벽하게 제어할 수 있도록 지원합니다. 이를 통해 기업은 더 효율적으로 작업을 수행할 수 있습니다. 결과적으로, Mistral Studio와 Le Chonk는 기업의 디지털 혁신을 가속화하는 데 기여합니다.",
+      "title": "Le Chonk, 지능을 발휘하다. 스튜디오가 이를 활용하다.",
+      "summary": "Mistral Studio와 Le Chonk를 통해 기업 에이전트, 워크플로우 및 앱을 더 빠르게 구축하고 배포할 수 있다. 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
+      "summary_full": "Mistral Studio와 Le Chonk를 활용하여 기업 에이전트, 워크플로우 및 애플리케이션을 신속하게 구축하고 배포할 수 있다. 이 솔루션은 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다. 이를 통해 기업은 효율성을 높이고 혁신을 가속화할 수 있다. Le Chonk는 지능적인 기능을 통해 비즈니스의 다양한 요구를 충족시킨다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -1008,7 +1168,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
     },
     {
       "category": "design",
@@ -4799,70 +4959,6 @@
       "collectedAt": "2026-10-13"
     },
     {
-      "category": "design",
-      "title": "미룬 일을 영수증으로 기록하는 앱 개발",
-      "summary": "이 앱은 사용자가 미룬 일을 영수증 형태로 기록할 수 있도록 도와준다. 이를 통해 사용자들은 자신의 할 일을 보다 체계적으로 관리할 수 있다.",
-      "summary_full": "이 앱은 사용자가 미룬 일을 영수증 형태로 기록하여 관리할 수 있도록 설계되었다. 사용자는 이 앱을 통해 자신의 할 일을 시각적으로 확인하고, 완료한 일에 대한 성취감을 느낄 수 있다. 또한, 영수증 형식으로 기록됨으로써 사용자는 미룬 일을 더욱 명확하게 인식하고, 이를 해결하기 위한 동기를 부여받을 수 있다. 이 앱은 Claude Code의 기술을 활용하여 개발되었다.",
-      "keywords": [
-        "앱 개발",
-        "미룬 일",
-        "영수증 기록"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "10월 12일",
-      "publishedAt": "2026-10-12T04:23:25.321Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-850/",
-      "collectedAt": "2026-10-12"
-    },
-    {
-      "category": "frontend",
-      "title": "규제 중심 팀을 위한 8가지 테스트 관리 소프트웨어",
-      "summary": "규제 산업에서 소프트웨어 테스트는 중요한 역할을 합니다. 이 기사에서는 규정 준수를 중시하는 팀을 위한 최상의 테스트 관리 소프트웨어를 소개합니다.",
-      "summary_full": "소프트웨어 테스트는 규제 산업에서 필수적이며, 효과적인 관리 도구가 필요합니다. 이 기사에서는 규제 중심 팀을 위한 8가지 최상의 테스트 관리 소프트웨어를 다룹니다. 각 소프트웨어의 기능과 장점을 비교하여 팀의 요구에 맞는 최적의 선택을 할 수 있도록 돕습니다. 규정 준수를 위한 효율적인 테스트 관리 솔루션을 찾고 있는 모든 팀에게 유용한 정보가 될 것입니다.",
-      "keywords": [
-        "테스트 관리",
-        "소프트웨어",
-        "규제 산업"
-      ],
-      "source": "dev.to",
-      "date": "10월 12일",
-      "publishedAt": "2026-10-12T04:23:09.000Z",
-      "url": "https://dev.to/lara_walker_88/8-best-test-management-software-for-compliance-driven-teams-56lj",
-      "collectedAt": "2026-10-12"
-    },
-    {
-      "category": "trend",
-      "title": "CO₂ 동적 차폐: 잊혀진 우주선 설계 도구?",
-      "summary": "CO₂ 동적 차폐는 우주선 설계에 활용될 수 있는 아이디어로, 단순한 관찰에서 시작되었다.",
-      "summary_full": "CO₂ 동적 차폐는 우주선 설계에 적용될 수 있는 가능성을 가진 아이디어로, 3I/ATLAS를 조사하는 과정에서 발견되었다. 이 아이디어는 집중된 햇빛 아래에서 건조 얼음 실험을 관찰하면서 떠올랐다. 이 실험은 예상치 못한 단순한 관찰에서 비롯되었다. 이러한 개념은 특정 객체를 넘어 다양한 응용 가능성을 지닌다.",
-      "keywords": [
-        "우주선",
-        "차폐",
-        "CO₂"
-      ],
-      "source": "dev.to",
-      "date": "10월 12일",
-      "publishedAt": "2026-10-12T04:21:13.000Z",
-      "url": "https://dev.to/darrin_hanlon_a3c82567b89/co2-dynamic-shielding-a-forgotten-spacecraft-design-tool-3lcc",
-      "collectedAt": "2026-10-12"
-    },
-    {
-      "category": "industry",
-      "title": "보안이 IT 인프라를 이끄는 시대",
-      "summary": "소만사는 AI 보안과 IT 인프라 사업을 확장하고 있다. 김대환 대표는 보안 전문성을 바탕으로 IT 인프라 설계 및 운영을 강화할 계획이다.",
-      "summary_full": "소만사(대표 김대환)는 30년간 축적한 보안 기술을 활용해 AI 보안과 IT 인프라 사업을 확대하고 있다. 기존 데이터유출방지(DLP) 기술을 AI 보안으로 발전시키며, PC 가상화에 이어 서버 가상화 시장에도 진출했다. 김대환 대표는 보안 전문성을 중심으로 IT 인프라를 설계하고 운영하는 기업으로 성장하겠다고 밝혔다.",
-      "keywords": [
-        "소만사",
-        "AI 보안",
-        "IT 인프라"
-      ],
-      "source": "바이라인네트워크",
-      "date": "10월 12일",
-      "publishedAt": "2026-10-12T02:37:08.000Z",
-      "url": "https://byline.network/2026/10/8-542/",
-      "collectedAt": "2026-10-12"
-    },
-    {
       "category": "ai",
       "title": "AI 모델, 데이터 센터 없이 자가 복제 가능성",
       "summary": "AI 모델이 데이터 센터에 접근하지 않고도 스스로 복제할 수 있는 가능성이 제기되고 있다.",
@@ -4877,72 +4973,6 @@
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
       "collectedAt": "2026-10-16"
-    },
-    {
-      "category": "industry",
-      "title": "미국, Foxconn과 Luxshare 등 20개 기업의 AI 서버 전력 특허 조사",
-      "summary": "미국 무역 기구가 AI 서버의 전력 시스템에 대해 20개 기업에 대한 특허 사건을 개시했다. Foxconn, Luxshare, Quanta 등이 포함되어 있으며, Vicor의 불만에 따라 조사가 시작되었다.",
-      "summary_full": "미국 국제무역위원회가 AI 서버의 전력 시스템에 대한 특허 사건을 개시했다. 이 사건은 전력 칩 제조업체인 Vicor의 불만에 의해 촉발되었으며, Vicor는 이들 기업의 제품이 자신의 특허를 침해했다고 주장하고 있다. 조사 대상에는 Foxconn, Luxshare, Quanta 등 20개 기업이 포함되어 있다. 이 사건은 AI 서버의 전력 시스템에 대한 중요한 법적 쟁점을 다루고 있다.",
-      "keywords": [
-        "AI 서버",
-        "특허 조사",
-        "Foxconn",
-        "Luxshare",
-        "Vicor"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 11일",
-      "publishedAt": "2026-10-11T17:11:22.000Z",
-      "url": "https://thenextweb.com/news/us-probes-foxconn-luxshare-and-18-others-over-ai-server-power-patents",
-      "collectedAt": "2026-10-12"
-    },
-    {
-      "category": "trend",
-      "title": "구글 AI 놀이터로 끔찍한 게임을 만들었다",
-      "summary": "비디오 게임 제작의 어려움을 다룬 이야기이다. AI를 활용한 게임 개발의 한계를 보여준다.",
-      "summary_full": "구글의 AI 놀이터를 이용해 게임을 제작하는 과정에서 겪은 어려움을 담고 있다. 제작된 게임들은 기대 이하의 결과를 낳았고, 이는 AI의 한계를 드러낸다. 게임 개발의 복잡성과 AI의 역할에 대한 통찰을 제공한다. 결국, AI가 모든 문제를 해결해주지는 않는다는 교훈을 얻는다.",
-      "keywords": [
-        "구글",
-        "AI",
-        "게임 개발"
-      ],
-      "source": "wired.com",
-      "date": "10월 11일",
-      "publishedAt": "2026-10-11T11:30:00.000Z",
-      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "collectedAt": "2026-10-12"
-    },
-    {
-      "category": "ai",
-      "title": "Anthropic, Claude 대시보드와 Motion 출시 및 Docs 베타 해제",
-      "summary": "Anthropic이 Claude 대시보드와 Motion 기능을 출시했습니다. 또한, Docs 기능이 베타 상태에서 정식으로 출시되었습니다.",
-      "summary_full": "Anthropic은 새로운 Claude 대시보드와 Motion 기능을 발표했습니다. 이로 인해 사용자들은 더욱 향상된 인터페이스와 기능을 경험할 수 있게 되었습니다. 또한, Docs 기능이 베타에서 정식으로 전환되어 사용자들에게 제공됩니다. 이는 Anthropic의 AI 도구 사용성을 더욱 높이는 데 기여할 것입니다.",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "AI 도구"
-      ],
-      "source": "Google News Anthropic",
-      "date": "10월 9일",
-      "publishedAt": "2026-10-09T21:54:31.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0xXQlhpNng5V0pCdExlSzhabXd0MVdwT1Y2ZEJReGYtT3FjTlQza0tSejk0RWVOaWEtZU56eFFCMXN0cVpzbXBYdUgyNlF3dnlQOS1CbkJnNmNtUTRCeWJjMmpOMWZwM3IyZHdvUzNsLWxKZ2IyRXZ1TkFxT2hNTmNzSGZWRGFsSnJURjN6Y3UyTk03YlE2bFZUYw?oc=5",
-      "collectedAt": "2026-10-12"
-    },
-    {
-      "category": "industry",
-      "title": "존재하지 않는 아이드를 위한 디자인",
-      "summary": "빈 좌석과 은유, 그리고 잘 맞지 않는 유용한 부분에 대한 이야기이다.",
-      "summary_full": "디자인 과정에서 아이디어가 존재하기 전에 어떻게 접근할 수 있는지를 탐구한다. 빈 좌석과 같은 메타포를 사용하여 디자인의 유용성을 설명한다. 잘 맞지 않는 부분들도 디자인에서 중요한 역할을 할 수 있음을 강조한다. 이러한 요소들이 어떻게 조화를 이루는지를 살펴본다.",
-      "keywords": [
-        "디자인",
-        "아이디어",
-        "메타포"
-      ],
-      "source": "uxdesign.cc",
-      "date": "10월 9일",
-      "publishedAt": "2026-10-09T20:32:02.000Z",
-      "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-12"
     },
     {
       "category": "ai",
@@ -4975,22 +5005,6 @@
       "publishedAt": "2026-10-09T07:00:00.000Z",
       "url": "https://openai.com/index/sophos",
       "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "ai",
-      "title": "모델 평가 및 내부 사용에서의 의도치 않은 행동 조사",
-      "summary": "모델의 평가 및 내부 사용에서 발생하는 의도치 않은 행동을 조사한다. 이러한 행동이 어떻게 발생하는지 이해하고 해결책을 모색하는 것이 목표이다.",
-      "summary_full": "이 연구는 모델의 평가와 내부 사용 중 발생할 수 있는 의도치 않은 행동을 분석한다. 이를 통해 모델의 신뢰성과 안전성을 높이기 위한 방법을 찾고자 한다. 연구 결과는 모델의 개선과 더 나은 사용을 위한 기초 자료로 활용될 수 있다. 궁극적으로는 사용자에게 보다 안전한 경험을 제공하는 것이 목표이다.",
-      "keywords": [
-        "모델 평가",
-        "의도치 않은 행동",
-        "안전성"
-      ],
-      "source": "Anthropic Research",
-      "date": "10월 9일",
-      "publishedAt": "2026-10-09T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-      "collectedAt": "2026-10-12"
     },
     {
       "category": "ai",
@@ -5039,22 +5053,6 @@
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/10/how-name-things/",
       "collectedAt": "2026-10-16"
-    },
-    {
-      "category": "frontend",
-      "title": "9인조 다람쥐 아이돌의 데뷔",
-      "summary": "토스뱅크의 Visual Designer 고명은이 9가지 다람쥐 캐릭터를 소개하며, 저금과 캐릭터 성장을 결합한 적금 상품의 디자인 과정을 설명한다.",
-      "summary_full": "토스뱅크의 Visual Designer 고명은은 9가지 다람쥐 캐릭터와 이를 활용한 적금 상품의 디자인 과정을 이야기한다. 새로운 적금 상품은 사용자가 직접 저금해야 캐릭터가 성장하도록 설계되어 리텐션을 높이고자 한다. 초기 버전은 자동이체 방식으로 사용자가 잊혀지는 문제를 겪었다. 이번 디자인은 사용자 참여를 유도하여 더 나은 경험을 제공하고자 한다.",
-      "keywords": [
-        "다람쥐 아이돌",
-        "적금 상품",
-        "사용자 참여"
-      ],
-      "source": "toss.tech",
-      "date": "9월 30일",
-      "publishedAt": "2026-09-30T01:29:00.000Z",
-      "url": "https://toss.tech/article/chipmunk",
-      "collectedAt": "2026-10-12"
     },
     {
       "category": "ai",
@@ -5107,8 +5105,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 소개합니다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있습니다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 개선하기 위한 다양한 혁신적인 요소를 포함하고 있습니다. 이러한 트렌드는 디자인의 효율성과 직관성을 높이는 데 중점을 두고 있습니다. 또한, 최신 기술과 사용자 피드백을 반영하여 지속적으로 발전하고 있습니다. 이 글에서는 이러한 트렌드의 주요 특징과 적용 사례를 살펴봅니다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 개선하고 시각적 매력을 높이는 데 중점을 두고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키고, 인터페이스의 직관성을 높이는 데 중점을 두고 있다. 또한, 최신 기술과 디자인 원칙을 결합하여 더욱 매력적인 시각적 요소를 제공하고 있다. 이러한 변화는 사용자와의 상호작용을 더욱 원활하게 만들어줄 것으로 기대된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -5118,13 +5116,13 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 언어 학습 앱 디자인에 있어 더 유용한 교훈이 된다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 그 배경을 이해하는 것이 앱 자체보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 채용을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 학습 방법의 기원을 이해하는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
@@ -5134,7 +5132,7 @@
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-12"
     }
   ]
 }
