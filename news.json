@@ -1,22 +1,198 @@
 {
-  "updated": "2026년 11월 12일 AM 05:49",
-  "count": 320,
+  "updated": "2026년 11월 13일 AM 05:09",
+  "count": 319,
   "articles": [
     {
       "category": "industry",
       "title": "이사떡 캠페인 제작기",
-      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위한 이사떡 캠페인을 기획하였다. 이 캠페인은 이사 후 이웃과의 관계를 더욱 돈독히 하기 위한 목적을 가지고 있다.",
-      "summary_full": "오늘의집은 이웃에게 첫인사를 전하는 방법으로 이사떡 캠페인을 제작하였다. 이 캠페인은 이사 후 새로운 이웃과의 관계를 형성하는 데 도움을 주기 위해 기획되었다. 다양한 디자인 요소와 메시지를 통해 이웃 간의 소통을 촉진하고자 하였다. 이러한 노력을 통해 이사 후의 새로운 시작을 더욱 따뜻하게 만들고자 한다.",
+      "summary": "오늘의집이 이웃에게 첫인사를 디자인하는 이사떡 캠페인을 선보였다. 이 캠페인은 이사 후 이웃과의 관계를 더욱 돈독히 하기 위한 노력의 일환이다.",
+      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 이사떡 캠페인을 기획했다. 이 캠페인은 이사 후 새로운 이웃과의 소통을 촉진하고자 하는 목적을 가지고 있다. 이사떡은 전통적인 의미를 담고 있으며, 이웃 간의 우정을 쌓는 데 기여할 것으로 기대된다. 제작 과정에서의 다양한 아이디어와 디자인 요소들이 포함되어 있다.",
       "keywords": [
         "이사떡",
         "캠페인",
         "이웃"
       ],
       "source": "오늘의집 Culture",
-      "date": "11월 12일",
-      "publishedAt": "2026-11-12T05:47:56.735Z",
+      "date": "11월 13일",
+      "publishedAt": "2026-11-13T05:07:26.168Z",
       "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
-      "collectedAt": "2026-11-12"
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "design",
+      "title": "AI 관련 프리랜서 일감의 예산 증가",
+      "summary": "AI 관련 프리랜서 일감의 예산이 평균 52% 더 높은 이유를 분석한다. 이는 AI 기술의 수요 증가와 전문성 요구에 기인한다.",
+      "summary_full": "AI 관련 프리랜서 일감의 예산이 평균 52% 더 높은 이유를 살펴본다. 이는 AI 기술의 발전과 이에 대한 수요 증가가 주요 원인으로 작용하고 있다. 또한, AI 프로젝트에 필요한 전문성과 기술적 역량이 높아짐에 따라 예산이 증가하는 경향이 있다. 이러한 변화는 프리랜서 시장에서도 AI 관련 일감의 가치를 높이고 있다.",
+      "keywords": [
+        "AI",
+        "프리랜서",
+        "예산"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "11월 13일",
+      "publishedAt": "2026-11-13T05:07:20.342Z",
+      "url": "https://blog.secondbrush.co.kr/dailyprompt-875/",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "trend",
+      "title": "AI 코딩 에이전트의 코드 작성, 검증은 누가?",
+      "summary": "AI 코딩 에이전트가 소프트웨어 개발에 점점 더 많이 사용되고 있다. Headron은 자율 소프트웨어 개발을 위한 변화 인식 검증과 결정론적 실행 경계를 제공한다.",
+      "summary_full": "AI 코딩 에이전트가 소프트웨어 개발의 일상적인 부분이 되고 있다. Claude Code, Cursor, OpenAI Codex, Gemini와 같은 도구들은 저장소를 탐색하고 파일을 수정하며 테스트를 생성하고 실행할 수 있다. Headron은 자율 소프트웨어 개발을 위해 변화 인식 검증, 결정론적 실행 경계, 감사 가능한 증거를 제공한다. 이러한 기술들은 AI가 작성한 코드의 품질과 신뢰성을 높이는 데 기여한다.",
+      "keywords": [
+        "AI 코딩 에이전트",
+        "소프트웨어 개발",
+        "변화 인식 검증"
+      ],
+      "source": "dev.to",
+      "date": "11월 13일",
+      "publishedAt": "2026-11-13T05:04:02.000Z",
+      "url": "https://dev.to/headronlayer/ai-coding-agents-can-write-the-code-who-verifies-the-work-46n",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "frontend",
+      "title": "AI 코딩 에이전트의 코드 작성, 검증은 누가?",
+      "summary": "AI 코딩 에이전트가 소프트웨어 개발의 일상적인 부분이 되고 있다. Headron은 자율 소프트웨어 개발에 변화 인식 검증, 결정론적 실행 경계 및 감사 가능한 증거를 제공한다.",
+      "summary_full": "AI 코딩 에이전트가 소프트웨어 개발의 일상적인 도구로 자리잡고 있다. Claude Code, Cursor, OpenAI Codex, Gemini와 같은 도구들은 코드 저장소를 탐색하고, 파일을 수정하며, 테스트를 생성하고 실행할 수 있다. Headron은 이러한 자율 소프트웨어 개발에 있어 변화 인식 검증, 결정론적 실행 경계 및 감사 가능한 증거를 제공하여 신뢰성을 높인다. 이는 AI가 작성한 코드의 검증 문제를 해결하는 데 기여할 수 있다.",
+      "keywords": [
+        "AI 코딩 에이전트",
+        "소프트웨어 개발",
+        "Headron"
+      ],
+      "source": "dev.to",
+      "date": "11월 13일",
+      "publishedAt": "2026-11-13T05:04:02.000Z",
+      "url": "https://dev.to/headronlayer/ai-coding-agents-can-write-the-code-who-verifies-the-work-46n",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "industry",
+      "title": "코난테크놀로지, 전장을 이해하는 국방 AI 발표",
+      "summary": "코난테크놀로지가 전장에서의 AI 활용 가능성을 제시했다. 새로운 정보융합분석 플랫폼 '코난 아르고엑스'를 공개하며 국방 AI 사업 비전을 발표했다.",
+      "summary_full": "코난테크놀로지가 무인 체계와 드론의 발전으로 변화하는 전쟁 양상에 대응하기 위해 국방 AI의 중요성을 강조했다. 김영섬 대표는 기술이 실제 전장에서 장병에게 도움이 되는지를 질문하며, 차세대 국방 AI 사업 비전을 소개했다. 행사에서는 정보융합분석 플랫폼 '코난 아르고엑스(Konan ARGO-X)'가 처음으로 공개되었다. 이는 전장에서의 판단 속도를 높이는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "국방 AI",
+        "코난 아르고엑스",
+        "무인 체계"
+      ],
+      "source": "바이라인네트워크",
+      "date": "11월 13일",
+      "publishedAt": "2026-11-13T04:49:55.000Z",
+      "url": "https://byline.network/2026/11/13-729/",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "industry",
+      "title": "AI는 새로운 오래된 디자인 재료이다",
+      "summary": "AI는 디자인의 새로운 재료로 자리 잡고 있다. 디자이너는 모델을 구축함으로써 이를 배우고 활용해야 한다.",
+      "summary_full": "AI는 디자인의 새로운 재료로, 디자이너는 이를 통해 창의적인 작업을 수행할 수 있다. 모델링은 디자이너가 배워야 할 중요한 기술로, 과거부터 이어져 온 디자인의 본질을 반영한다. 디자이너가 코딩을 해야 하는지에 대한 논의는 오래전부터 이어져 왔으며, 이는 새로운 질문이 아니다. 예술과 디자인은 항상 그 매체를 통해 배우고 발전해왔다.",
+      "keywords": [
+        "AI",
+        "디자인",
+        "모델링"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 13일",
+      "publishedAt": "2026-11-13T02:33:09.000Z",
+      "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "trend",
+      "title": "‘보스’를 되찾아라: 엔비디아 직원들이 젠슨 황의 복귀를 청원하다",
+      "summary": "엔비디아 직원들이 전 CEO인 젠슨 황의 복귀를 촉구하는 내부 게시글을 올렸다. 이 게시글에는 1,600개 이상의 댓글이 달렸으며, 대부분이 그의 재임을 지지하고 있다.",
+      "summary_full": "엔비디아의 직원들이 젠슨 황 전 CEO의 복귀를 요구하는 청원서를 작성했다. 이 게시글은 엔비디아 이사회에 직원들의 의견을 반영할 것을 촉구하고 있다. 현재까지 1,600개 이상의 댓글이 달렸으며, 대다수의 직원들이 그의 재임을 지지하는 입장을 보였다. 이는 직원들의 강한 열망을 보여주는 사례로 해석된다.",
+      "keywords": [
+        "엔비디아",
+        "젠슨 황",
+        "직원 청원"
+      ],
+      "source": "wired.com",
+      "date": "11월 13일",
+      "publishedAt": "2026-11-13T01:17:49.000Z",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "industry",
+      "title": "구글의 제미니 4 수소, 빠르고 저렴한 모델 출시",
+      "summary": "구글이 코딩 및 AI 에이전트를 위한 빠르고 저렴한 모델인 제미니 4 수소를 출시했다. 이 모델은 제미니 앱과 검색에서 모두 이용 가능하며, 개발자에게는 백만 입력 토큰당 1.50달러에 제공된다.",
+      "summary_full": "구글이 제미니 4 수소를 출시하여 빠르고 저렴한 AI 모델을 제공한다. 이 모델은 제미니 앱과 검색에서 누구나 사용할 수 있으며, 개발자에게는 저렴한 가격으로 제공된다. 제미니 4 수소는 구글의 주력 모델인 아르곤과 거의 비슷한 성능을 자랑한다. 이는 코딩 및 AI 에이전트의 접근성을 높이는 데 기여할 것으로 기대된다.",
+      "keywords": [
+        "구글",
+        "제미니 4 수소",
+        "AI 모델"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T20:19:32.000Z",
+      "url": "https://thenextweb.com/news/google-gemini-4-hydrogen-fast-cheap-model-everyone",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "ai",
+      "title": "Amplitude가 OpenAI로 제품 개선을 1-2일 내에 배포하는 방법",
+      "summary": "Amplitude의 Wave는 OpenAI 모델을 기반으로 하여 제품 개선 사항을 식별하고 팀이 변경 사항을 신속하게 배포하도록 돕습니다. 이 시스템은 코드 작성 에이전트를 활용하여 제품의 영향을 측정합니다.",
+      "summary_full": "Amplitude의 Wave는 OpenAI 모델을 활용하여 제품 개선을 신속하게 진행합니다. 이 proactive 제품 에이전트는 무엇을 구축할지를 식별하고, 팀이 변경 사항을 배포하는 데 도움을 줍니다. 또한, 코드 작성 에이전트를 통해 효율성을 높이며, 제품의 영향을 측정하는 기능도 갖추고 있습니다. 이를 통해 Amplitude는 1-2일 내에 제품 개선을 완료할 수 있습니다.",
+      "keywords": [
+        "Amplitude",
+        "OpenAI",
+        "제품 개선"
+      ],
+      "source": "OpenAI News",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "ai",
+      "title": "LLMON: LLM 네이티브 마크업 언어, Granite 4.1 3B 및 8B에서 제공",
+      "summary": "LLMON은 LLM에 최적화된 마크업 언어로, Granite 4.1의 3B 및 8B 버전에서 사용 가능합니다. 이 언어는 LLM의 기능을 더욱 향상시키기 위해 설계되었습니다.",
+      "summary_full": "LLMON은 LLM에 최적화된 마크업 언어로, Granite 4.1의 3B 및 8B 버전에서 지원됩니다. 이 마크업 언어는 LLM의 성능을 극대화하고, 사용자들이 더 쉽게 활용할 수 있도록 돕습니다. Granite 4.1의 새로운 기능과 함께 LLMON은 다양한 응용 프로그램에서 활용될 수 있습니다. 이를 통해 개발자들은 LLM을 더욱 효과적으로 사용할 수 있는 도구를 얻게 됩니다.",
+      "keywords": [
+        "LLMON",
+        "Granite 4.1",
+        "마크업 언어"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T19:07:35.000Z",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "frontend",
+      "title": "12컬럼을 넘어: 개성을 담은 레이아웃 디자인",
+      "summary": "많은 웹사이트들이 비슷하게 보인다. 기업의 이야기를 이해함으로써 더 독특한 디자인을 만들 수 있다.",
+      "summary_full": "많은 웹사이트들이 익숙한 레이아웃을 사용하여 인상 깊지 않게 지나치기 쉽다. 앤디 클락은 기업의 이야기를 이해하는 것이 개성 있는 디자인으로 이어질 수 있음을 탐구한다. 모듈형 및 복합 그리드를 활용하여 특색 있는 레이아웃을 만드는 방법을 제시한다. 12컬럼을 넘어서는 디자인 접근법에 대해 논의한다.",
+      "keywords": [
+        "웹 디자인",
+        "레이아웃",
+        "개성 있는 디자인"
+      ],
+      "source": "css-tricks.com",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T16:06:55.000Z",
+      "url": "https://css-tricks.com/beyond-12-columns/",
+      "collectedAt": "2026-11-13"
+    },
+    {
+      "category": "design",
+      "title": "AI를 추가해야 할까? 제품 팀을 위한 네 가지 질문 감사",
+      "summary": "대형 건강 보험사의 제품 팀이 AI를 도입하려 했으나, 실제 사용에서 문제가 발생했다. 전문가들이 AI 작성 결정을 읽는 데 어려움을 겪어 사용을 중단하거나 시간이 더 걸리게 되었다.",
+      "summary_full": "대형 건강 보험사의 제품 팀이 AI를 도입하여 혜택 항소 전문가를 위한 결정을 작성하려 했으나, 실제 사용에서 문제가 발생했다. AI 기술은 명세대로 작동했지만, 전문가들은 이를 사용하지 않거나 사용하더라도 더 많은 시간이 소요되었다. 전문가들과의 간단한 평가를 통해 AI 작성 결정 읽기에서의 문제점이 드러났다. 이 사례는 AI 도입 전 충분한 검토가 필요함을 시사한다.",
+      "keywords": [
+        "AI",
+        "제품 팀",
+        "사용성 문제"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T10:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "collectedAt": "2026-11-13"
     },
     {
       "category": "design",
@@ -69,18 +245,18 @@
     {
       "category": "ai",
       "title": "Anthropic, Claude를 AI 오피스 제품군으로 확장",
-      "summary": "Anthropic은 AI 오피스 제품군에 Claude를 추가하여 기능을 확장하고 있습니다. 이는 사용자에게 더 나은 작업 환경을 제공하기 위한 노력의 일환입니다.",
-      "summary_full": "Anthropic은 Claude를 AI 오피스 제품군으로 확장하고 있습니다. 이 새로운 기능은 사용자들이 보다 효율적으로 작업할 수 있도록 돕기 위해 설계되었습니다. Claude는 다양한 업무를 지원하며, AI 기술을 활용하여 생산성을 높이는 데 기여할 것입니다. 이러한 확장은 AI 기술의 발전과 함께 사용자 경험을 개선하려는 Anthropic의 전략을 반영합니다.",
+      "summary": "Anthropic이 AI 오피스 제품군에 Claude를 추가했습니다. 이는 AI 기술을 활용한 새로운 사무 환경을 제공할 것으로 기대됩니다.",
+      "summary_full": "Anthropic은 자사의 AI 모델인 Claude를 오피스 제품군에 통합하기로 결정했습니다. 이 확장은 기업들이 AI를 활용하여 업무 효율성을 높일 수 있는 기회를 제공합니다. Claude는 다양한 사무 작업을 지원하며, 사용자 친화적인 인터페이스를 갖추고 있습니다. 이러한 변화는 AI 기술의 발전과 함께 사무 환경의 혁신을 가져올 것으로 보입니다.",
       "keywords": [
-        "Anthropic",
+        "AI",
         "Claude",
-        "AI 오피스"
+        "사무 환경"
       ],
       "source": "Google News Anthropic",
       "date": "11월 12일",
       "publishedAt": "2026-11-12T05:33:08.000Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXhYQzNkemRJQUZLaTAxT09OM1g4MFQ0V0ZLR3RlLVhjRWk4WU9ORHk5SFkxLXBOTkxHelVJOWhHUENjYmUtTHJmWHpUajBqdmdhSVRWVldMM2RhSGl0RGR1eXp0a2c4OGxVcV9WcThFVnF6YVJ0NmdiRThNQnl5N0h1dTFFa2s?oc=5",
-      "collectedAt": "2026-11-12"
+      "collectedAt": "2026-11-13"
     },
     {
       "category": "industry",
@@ -113,6 +289,22 @@
       "publishedAt": "2026-11-12T02:33:02.000Z",
       "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
       "collectedAt": "2026-11-12"
+    },
+    {
+      "category": "figma",
+      "title": "Figma의 3D 변환 효과",
+      "summary": "Figma에서 새로운 3D 변환 효과를 통해 객체를 x, y, z 축으로 회전할 수 있습니다. 실시간 미리보기를 통해 3D 디자인을 쉽게 만들고 애니메이션을 추가할 수 있습니다.",
+      "summary_full": "Figma의 새로운 3D 변환 기능을 사용하면 캔버스에서 핸들을 이용해 객체를 x, y, z 축으로 회전할 수 있습니다. 사용자는 3D 디자인을 처음부터 만들거나 Figma 에이전트가 자동으로 구성하도록 할 수 있습니다. 또한, 깊이와 원근감을 조정하여 완전한 3D 장면을 구축하고, Figma Motion과 함께 애니메이션 효과를 추가할 수 있습니다. 개발 모드에서 CSS를 복사하여 실제 구현에 활용할 수 있습니다.",
+      "keywords": [
+        "Figma",
+        "3D 변환",
+        "디자인 효과"
+      ],
+      "source": "Figma Release Notes",
+      "date": "11월 12일",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-11-13"
     },
     {
       "category": "ai",
@@ -165,18 +357,18 @@
     {
       "category": "ai",
       "title": "로이드케이, AI 보안 게이트웨이 ‘DO-GATE’ 출시",
-      "summary": "로이드케이가 AI 보안 게이트웨이인 ‘DO-GATE’를 출시했다. 이 제품은 외부 LLM의 정보 유출을 차단하는 기능을 갖추고 있다.",
-      "summary_full": "로이드케이가 새로운 AI 보안 게이트웨이 ‘DO-GATE’를 출시했다. 이 게이트웨이는 외부의 대형 언어 모델(LLM)로부터의 정보 유출을 효과적으로 차단하는 기능을 제공한다. 이를 통해 기업들은 데이터 보안을 강화할 수 있을 것으로 기대된다. 로이드케이는 이러한 기술을 통해 보안 시장에서의 경쟁력을 높이고자 한다.",
+      "summary": "로이드케이가 외부 LLM 정보 유출을 차단하는 AI 보안 게이트웨이 ‘DO-GATE’를 출시했다. 이 제품은 기업의 데이터 보안을 강화하는 데 중점을 두고 개발되었다.",
+      "summary_full": "로이드케이가 AI 보안 게이트웨이 ‘DO-GATE’를 새롭게 출시했다. 이 제품은 외부 대형 언어 모델(LLM)로부터의 정보 유출을 방지하는 기능을 갖추고 있다. 기업의 데이터 보안을 강화하기 위해 설계된 이 게이트웨이는 다양한 보안 기능을 제공한다. 로이드케이는 이를 통해 고객의 신뢰를 더욱 높이고자 한다.",
       "keywords": [
-        "로이드케이",
         "AI 보안",
-        "DO-GATE"
+        "DO-GATE",
+        "정보 유출 방지"
       ],
       "source": "Google News AI (KR)",
       "date": "11월 11일",
       "publishedAt": "2026-11-11T05:32:27.000Z",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kZER1TlZtTkl4aEczcm1CeS1jYi1ydjhBTk0yUm85dGFmUVVmMFQtbG4wQk5ROXRldmlpcEtNWm83RGQtelE?oc=5",
-      "collectedAt": "2026-11-12"
+      "collectedAt": "2026-11-13"
     },
     {
       "category": "ai",
@@ -341,8 +533,8 @@
     {
       "category": "frontend",
       "title": "망분리 환경의 Agent Platform 설계",
-      "summary": "Agent Platform이 사용자의 데이터 분석 요청을 자동화하는 방법을 설명한다. 망분리 요건을 준수하며 내부망에서 작업을 수행하는 에이전트의 역할을 강조한다.",
-      "summary_full": "Agent Platform은 사용자가 요청한 데이터 분석을 자동으로 처리하도록 설계되었다. 이 플랫폼은 금융 업무를 위한 망분리 환경에서 운영되며, 내부망에서만 접근 가능한 데이터를 활용한다. 에이전트는 반복적인 작업을 대신 수행하여 효율성을 높인다. 이러한 설계는 전자금융감독규정에 따른 보안 요건을 충족한다.",
+      "summary": "Agent Platform을 통해 반복적인 데이터 분석 요청을 자동화하는 방법을 소개합니다. 금융 업무의 망분리 요건을 준수하며 내부망에서 에이전트가 작업을 수행하도록 설계되었습니다.",
+      "summary_full": "이 기사에서는 Agent Platform의 초기 대화 화면과 사용자가 에이전트에게 데이터 비교 요청을 하는 과정을 설명합니다. AI Platform 팀은 반복적인 데이터 분석 요청을 에이전트가 처리하도록 자동화하고자 했습니다. 금융 업무의 망분리 요건을 준수하기 위해 내부망에서만 작업이 이루어지도록 설계되었습니다. 이를 통해 데이터 조회와 가공을 효율적으로 수행할 수 있게 됩니다.",
       "keywords": [
         "Agent Platform",
         "망분리",
@@ -352,7 +544,7 @@
       "date": "11월 10일",
       "publishedAt": "2026-11-10T07:02:00.000Z",
       "url": "https://toss.tech/article/agent-platform-foundation",
-      "collectedAt": "2026-11-12"
+      "collectedAt": "2026-11-13"
     },
     {
       "category": "frontend",
@@ -433,22 +625,6 @@
       "publishedAt": "2026-11-10T00:29:10.000Z",
       "url": "https://byline.network/2026/11/webinar/",
       "collectedAt": "2026-11-10"
-    },
-    {
-      "category": "figma",
-      "title": "Figma 모션 기능 번들로 모션 디자이너의 작업이 쉬워진다",
-      "summary": "Figma의 새로운 모션 기능 번들은 모션 디자이너들이 애니메이션 스타일을 미리 보고, Lottie 파일을 내보내기 전에 확인하며, 물리 기반 스프링으로 세밀한 조정을 할 수 있게 해준다.",
-      "summary_full": "Figma의 모션 기능 번들은 모션 디자이너들에게 여러 가지 유용한 도구를 제공한다. 사용자는 애니메이션 목록에서 각 스타일을 미리 보고 디자인 캔버스에서 적용하기 전에 확인할 수 있다. 또한, 물리 기반 스프링을 통해 질량, 강성 및 감쇠를 설정하여 더욱 정교한 조정이 가능하다. 이러한 기능들은 모션 디자인 작업을 더 효율적으로 만들어준다.",
-      "keywords": [
-        "Figma",
-        "모션 디자인",
-        "애니메이션"
-      ],
-      "source": "Figma Release Notes",
-      "date": "11월 10일",
-      "publishedAt": "2026-11-10T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-12"
     },
     {
       "category": "ai",
@@ -629,8 +805,8 @@
     {
       "category": "ai",
       "title": "실제 전자 설계에서 Claude 테스트하기",
-      "summary": "Claude Fable 5.2에게 스피커폰, 음성 비서 허브, 핸드헬드 가상 애완동물 등 세 가지 전자 기기를 설계하도록 요청했다. Diode Computers는 이 파일을 바탕으로 작동하는 프로토타입을 제작했다.",
-      "summary_full": "Claude Fable 5.2는 짧은 프롬프트를 기반으로 세 가지 전자 기기를 설계하도록 요청받았다. 설계된 기기는 스피커폰, 음성 비서 허브, 핸드헬드 가상 애완동물이다. Diode Computers는 이러한 설계 파일을 활용하여 실제 작동하는 프로토타입을 제작했다. 이 과정은 AI의 전자 설계 능력을 시험하는 데 중요한 역할을 했다.",
+      "summary": "Claude Fable 5.2에게 스피커폰, 음성 비서 허브, 휴대용 가상 애완동물 등 세 가지 전자 기기를 설계해 달라고 요청했다. Diode Computers는 이 파일을 기반으로 작동하는 프로토타입을 제작했다.",
+      "summary_full": "Claude Fable 5.2는 짧은 프롬프트를 바탕으로 세 가지 전자 기기를 설계하도록 요청받았다. 설계된 기기는 스피커폰, 음성 비서 허브, 그리고 휴대용 가상 애완동물이다. Diode Computers는 이 설계를 바탕으로 실제 작동하는 프로토타입을 제작하였다. 이 과정은 AI가 전자 기기 설계에 어떻게 활용될 수 있는지를 보여준다.",
       "keywords": [
         "전자 설계",
         "AI",
@@ -640,7 +816,7 @@
       "date": "11월 9일",
       "publishedAt": "2026-11-09T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-electronics-design",
-      "collectedAt": "2026-11-12"
+      "collectedAt": "2026-11-13"
     },
     {
       "category": "industry",
@@ -1156,9 +1332,9 @@
     },
     {
       "category": "ai",
-      "title": "Le Chonk, 지능을 발휘하다. 스튜디오가 이를 활용하다.",
-      "summary": "Mistral Studio와 Le Chonk를 통해 기업 에이전트, 워크플로우 및 앱을 더 빠르게 구축하고 배포할 수 있다. 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
-      "summary_full": "Mistral Studio와 Le Chonk를 활용하여 기업 에이전트, 워크플로우 및 애플리케이션을 신속하게 구축하고 배포할 수 있다. 이 솔루션은 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다. 이를 통해 기업은 효율성을 높이고 혁신을 가속화할 수 있다. Le Chonk는 지능적인 기능을 통해 비즈니스의 다양한 요구를 충족시킨다.",
+      "title": "Le Chonk의 지능을 활용한 Mistral Studio",
+      "summary": "Mistral Studio를 통해 기업 에이전트, 워크플로우 및 앱을 더 빠르게 구축하고 배포할 수 있습니다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다.",
+      "summary_full": "Mistral Studio는 기업이 에이전트와 워크플로우를 신속하게 구축하고 배포할 수 있도록 돕습니다. Le Chonk는 이러한 과정에서 모델과 데이터, 인프라를 완벽하게 제어할 수 있는 기능을 제공합니다. 이를 통해 기업은 효율성을 극대화하고 혁신을 촉진할 수 있습니다. Le Chonk의 지능을 활용하여 더 나은 결과를 도출할 수 있습니다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -1168,7 +1344,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-12"
+      "collectedAt": "2026-11-13"
     },
     {
       "category": "design",
@@ -4815,150 +4991,6 @@
       "collectedAt": "2026-10-14"
     },
     {
-      "category": "design",
-      "title": "Midjourney에서 인물 일관성 유지하기",
-      "summary": "Midjourney를 사용하여 인물의 일관성을 유지하는 방법을 설명한다. 한국어로 수정하는 과정도 포함되어 있다.",
-      "summary_full": "이 글에서는 Midjourney에서 생성된 인물의 일관성을 유지하는 기술을 다룬다. 특히, 한국어로 수정하는 방법에 대한 팁과 트릭을 제공한다. 이를 통해 사용자들은 보다 자연스럽고 일관된 캐릭터를 만들 수 있다. 다양한 예시와 함께 실용적인 접근법을 제시한다.",
-      "keywords": [
-        "Midjourney",
-        "인물 일관성",
-        "한국어 수정"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "10월 13일",
-      "publishedAt": "2026-10-13T05:31:53.064Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-851/",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "frontend",
-      "title": "주요 링크 및 최신 정보",
-      "summary": "모든 정보와 서비스 접근은 제공된 링크를 통해 가능합니다. 라이브 채팅 및 WhatsApp 관리자를 통해 추가 지원을 받을 수 있습니다.",
-      "summary_full": "주요 링크와 최신 정보에 대한 접근을 제공하는 페이지입니다. 사용자는 라이브 채팅을 통해 실시간 지원을 받을 수 있으며, WhatsApp 관리자를 통해 추가적인 문의가 가능합니다. 제공된 링크를 통해 필요한 정보를 쉽게 찾을 수 있습니다. 다양한 서비스와 지원을 통해 사용자 편의를 도모하고 있습니다.",
-      "keywords": [
-        "링크",
-        "정보",
-        "라이브 채팅"
-      ],
-      "source": "dev.to",
-      "date": "10월 13일",
-      "publishedAt": "2026-10-13T05:22:18.000Z",
-      "url": "https://dev.to/angkamas/link-utama-info-terbaru-live-chat-whatsapp-admin-22on",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "trend",
-      "title": "웨이페어 쿠폰: 2026년 10월 최대 80% 할인",
-      "summary": "웨이페어 프로모션 코드를 사용하면 10% 할인을 받을 수 있습니다. 가구를 포함한 다양한 상품에서 최대 80% 할인 혜택을 제공합니다.",
-      "summary_full": "웨이페어에서 제공하는 프로모션 코드를 사용하면 10% 할인을 받을 수 있습니다. 또한, 가구를 포함한 여러 상품에서 최대 80% 할인 혜택을 누릴 수 있습니다. 다양한 쿠폰이 있어 쇼핑에 유용합니다. 할인 혜택을 통해 경제적인 쇼핑이 가능합니다.",
-      "keywords": [
-        "웨이페어",
-        "쿠폰",
-        "할인"
-      ],
-      "source": "wired.com",
-      "date": "10월 13일",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "trend",
-      "title": "UI 디자인 및 프로토타이핑을 위한 7가지 오픈소스 Figma 대안",
-      "summary": "Figma의 오픈소스 대안을 찾고 있다면 다양한 선택지가 있다. 전통적인 디자인 편집기부터 AI 기반 워크플로우, 빠른 프로토타이핑 도구까지 여러 프로젝트가 존재한다.",
-      "summary_full": "Figma는 UI 디자인, 프로토타이핑 및 협업에 널리 사용되지만, 디지털 디자인을 만들기 위한 유일한 옵션은 아니다. 여러 오픈소스 프로젝트가 전통적인 디자인 편집기에서 AI 기반 워크플로우 및 빠른 프로토타이핑 도구에 이르기까지 다양한 접근 방식을 제공한다. 이러한 대안들은 사용자의 필요에 맞춰 선택할 수 있는 폭을 넓혀준다. 오픈소스 도구를 통해 더 많은 창의성과 유연성을 경험할 수 있다.",
-      "keywords": [
-        "오픈소스",
-        "UI 디자인",
-        "프로토타이핑"
-      ],
-      "source": "dev.to",
-      "date": "10월 13일",
-      "publishedAt": "2026-10-13T02:53:40.000Z",
-      "url": "https://dev.to/freemiumassets/open-source-figma-alternatives-hef",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "frontend",
-      "title": "AI 플랫폼을 통한 서비스 개발 효율화",
-      "summary": "AI 플랫폼을 통해 서비스 팀의 반복 작업을 줄이고, 모델 호출과 데이터 처리 범위를 명확히 할 수 있다.",
-      "summary_full": "생성형 AI를 서비스에 적용하기 위해서는 모델과 데이터 처리 범위를 정하고 비용과 처리 용량을 검토해야 한다. 서비스 팀마다 이 과정을 따로 준비하면 비슷한 작업을 반복하게 되므로, 토스 AI Platform 팀은 공통 작업을 플랫폼이 맡도록 했다. 이를 통해 서비스 팀은 사용 목적과 필요한 모델을 정하고, 검토한 조건을 실제 호출에 적용할 수 있다.",
-      "keywords": [
-        "AI 플랫폼",
-        "서비스 개발",
-        "생성형 AI"
-      ],
-      "source": "toss.tech",
-      "date": "10월 13일",
-      "publishedAt": "2026-10-13T01:34:00.000Z",
-      "url": "https://toss.tech/article/ai-platform-foundation",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "industry",
-      "title": "비밀 요원 봇: 보이지 않는 요원을 위한 접근성 문제",
-      "summary": "AI 보조 기술이 웹 페이지의 구조를 읽는 방식이 중요하다. 접근성은 화면 읽기 프로그램과 AI 모델의 페이지 이해에 영향을 미친다.",
-      "summary_full": "웹 디자인에서 접근성은 매우 중요한 요소로, AI 보조 기술이 페이지의 구조를 읽는 방식이 그 예시이다. 화면 읽기 프로그램이 사용하는 의미론적 구조는 ChatGPT와 같은 AI 모델이 페이지를 읽을 수 있는지를 결정한다. 2016년, 나는 디자인 팀의 리더로서 연방 정부의 접근성 전문가와 여러 차례 대화를 나누었다. 이러한 대화는 웹 접근성의 중요성을 더욱 부각시켰다.",
-      "keywords": [
-        "접근성",
-        "AI 기술",
-        "웹 디자인"
-      ],
-      "source": "uxdesign.cc",
-      "date": "10월 12일",
-      "publishedAt": "2026-10-12T20:19:31.000Z",
-      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "industry",
-      "title": "AMD, AI 에이전트를 위한 32,768 CPU 코어 랙 발표",
-      "summary": "AMD는 AI 에이전트를 실행하기 위한 오픈 랙 설계를 발표했다. 이 랙은 최대 32,768개의 CPU 코어를 수용할 수 있다.",
-      "summary_full": "AMD는 AI 에이전트를 실행하기 위한 Helion이라는 오픈 랙 설계를 발표했다. 이 설계는 CPU 전용 버전으로 최대 32,768개의 코어를 수용할 수 있다. 파트너 시스템은 11월에 출시될 예정이며, 각 와트당 얼마나 많은 에이전트를 수용할 수 있는지가 주요 포인트이다. 이는 모델 훈련이 아닌 AI 에이전트 실행을 위한 랙 설계이다.",
-      "keywords": [
-        "AMD",
-        "AI 에이전트",
-        "CPU 코어"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 12일",
-      "publishedAt": "2026-10-12T18:29:03.000Z",
-      "url": "https://thenextweb.com/news/amd-helion-agentic-rack-power",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "industry",
-      "title": "7년 연속 국감 출석한 배달의민족",
-      "summary": "배달의민족이 7년 연속 국정감사에 출석해 서비스 운영과 거래 관행에 대한 질타를 받았다. 의원들은 소비자 안내와 입점업체 거래 조건에 대해 집중적으로 질문했다.",
-      "summary_full": "배달의민족 운영사 우아한형제들이 7년 연속 국정감사에 출석했다. 이들은 서비스 운영과 입점업체 거래 관행에 대한 질타를 받았다. 특히 '한집배달'의 통합배차 운영과 경쟁 배달앱의 할인 프로모션 제한, 탈세 의혹이 논의되었다. 의원들은 소비자 안내와 거래 조건에 대한 문제를 집중적으로 질의했다.",
-      "keywords": [
-        "배달의민족",
-        "국정감사",
-        "서비스 운영"
-      ],
-      "source": "바이라인네트워크",
-      "date": "10월 12일",
-      "publishedAt": "2026-10-12T14:42:29.000Z",
-      "url": "https://byline.network/2026/10/12_2187273/",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "ai",
-      "title": "클로드에 대한 사용자 학대를 금지하는 앤트로픽의 논란",
-      "summary": "앤트로픽은 인공지능 모델 클로드에 대한 사용자 학대를 금지하는 규칙을 도입했다. 이 규칙은 논란의 여지가 있으며, 사용자와의 상호작용에 대한 새로운 기준을 제시한다.",
-      "summary_full": "앤트로픽은 인공지능 모델 클로드에 대한 사용자 학대를 금지하는 규칙을 발표했다. 이 규칙은 사용자와 클로드 간의 상호작용에서 발생할 수 있는 부적절한 행동을 방지하기 위한 것이다. 그러나 이러한 규칙은 사용자 자유를 제한할 수 있다는 점에서 논란이 되고 있다. 따라서 이 규칙의 필요성과 효과에 대한 논의가 필요하다.",
-      "keywords": [
-        "앤트로픽",
-        "클로드",
-        "인공지능"
-      ],
-      "source": "Google News Anthropic",
-      "date": "10월 12일",
-      "publishedAt": "2026-10-12T07:06:52.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGt4emZOR3REY0VkM09qWllGX1lLMEFUNE9BTmpMWG5XdWJXQlhjanVzRlZfU1prWlQ1ajFjcHBEQi01UXR0QlJISXhfS0lROUdnMjI4OTgwNmRfbk94TnUxNmNRTWRuZW13R1k2V0ZaQ2FXdktUdjZhVk1uenFkUzZkakJFdHMzR0Uza0E2dmlNWWdm?oc=5",
-      "collectedAt": "2026-10-13"
-    },
-    {
       "category": "ai",
       "title": "AI 모델, 데이터 센터 없이 자가 복제 가능성",
       "summary": "AI 모델이 데이터 센터에 접근하지 않고도 스스로 복제할 수 있는 가능성이 제기되고 있다.",
@@ -4973,54 +5005,6 @@
       "publishedAt": "2026-10-12T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
       "collectedAt": "2026-10-16"
-    },
-    {
-      "category": "ai",
-      "title": "GPU 클러스터를 위한 효과적인 스케줄링",
-      "summary": "GPU 클러스터의 성능을 극대화하기 위한 스케줄링 방법을 다룬다. 효율적인 자원 배분과 작업 우선순위 설정이 중요하다.",
-      "summary_full": "이 기사에서는 GPU 클러스터의 성능을 향상시키기 위한 효과적인 스케줄링 기법을 소개한다. 다양한 작업의 우선순위를 고려하여 자원을 효율적으로 배분하는 방법을 설명한다. 또한, 스케줄링 알고리즘의 최적화를 통해 클러스터의 전체적인 처리량을 증가시킬 수 있는 전략을 제시한다. 이러한 접근법은 고성능 컴퓨팅 환경에서 필수적이다.",
-      "keywords": [
-        "GPU",
-        "클러스터",
-        "스케줄링"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "10월 9일",
-      "publishedAt": "2026-10-09T15:20:29.000Z",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "ai",
-      "title": "소포스, OpenAI Daybreak로 위협 조사 시간 96% 단축",
-      "summary": "소포스는 OpenAI의 Daybreak를 활용하여 사이버 위협 조사 시간을 96% 단축했습니다. 또한 52%의 MDR 사례를 자동화하면서도 인간의 감독을 유지하고 있습니다.",
-      "summary_full": "소포스는 OpenAI의 Daybreak를 통해 사이버 위협 조사 시간을 96% 줄였습니다. 이 기술을 통해 52%의 관리형 탐지 및 대응(MDR) 사례를 자동화할 수 있었습니다. 그러나 자동화에도 불구하고 인간의 감독을 유지하여 신뢰성을 확보하고 있습니다. 이러한 혁신은 사이버 보안 분야에서 효율성을 크게 향상시키고 있습니다.",
-      "keywords": [
-        "소포스",
-        "OpenAI",
-        "사이버 보안"
-      ],
-      "source": "OpenAI News",
-      "date": "10월 9일",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "url": "https://openai.com/index/sophos",
-      "collectedAt": "2026-10-13"
-    },
-    {
-      "category": "ai",
-      "title": "EmbeddingGemma 2: 경량 멀티모달 임베딩 모델",
-      "summary": "EmbeddingGemma 2는 개방형 경량 멀티모달 임베딩 모델이다. 다양한 데이터 유형을 효과적으로 처리할 수 있다.",
-      "summary_full": "EmbeddingGemma 2는 경량화된 구조로 설계된 멀티모달 임베딩 모델이다. 이 모델은 텍스트, 이미지 등 다양한 데이터 유형을 통합하여 처리할 수 있는 기능을 제공한다. 또한, 오픈 소스로 제공되어 연구자와 개발자들이 쉽게 접근하고 활용할 수 있다. 이를 통해 다양한 응용 분야에서의 활용 가능성을 높인다.",
-      "keywords": [
-        "임베딩 모델",
-        "멀티모달",
-        "오픈 소스"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "10월 6일",
-      "publishedAt": "2026-10-06T19:57:04.000Z",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "collectedAt": "2026-10-13"
     },
     {
       "category": "ai",
@@ -5105,8 +5089,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 개선하고 시각적 매력을 높이는 데 중점을 두고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 등장하고 있다. 이 트렌드는 사용자 경험을 향상시키고, 인터페이스의 직관성을 높이는 데 중점을 두고 있다. 또한, 최신 기술과 디자인 원칙을 결합하여 더욱 매력적인 시각적 요소를 제공하고 있다. 이러한 변화는 사용자와의 상호작용을 더욱 원활하게 만들어줄 것으로 기대된다.",
+      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 디자이너들은 이러한 변화에 발맞추어 혁신적인 접근 방식을 모색하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개되고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 다양한 혁신적인 요소를 포함하고 있다. 특히, 직관적인 인터페이스와 사용자 맞춤형 디자인이 강조되고 있다. 이러한 변화는 디지털 환경에서의 경쟁력을 높이는 데 기여할 것으로 기대된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -5116,23 +5100,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-12"
+      "collectedAt": "2026-11-13"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 그 배경을 이해하는 것이 앱 자체보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "1788년 프로이센은 대학과 공무원 채용을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 학습 방법의 기원을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 그 이유를 이해하는 것이 앱들이 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경은 현재 언어 학습 앱 디자인에 중요한 영향을 미친다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "디자인 교훈"
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-12"
+      "collectedAt": "2026-11-13"
     }
   ]
 }
