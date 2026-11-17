@@ -1,7 +1,185 @@
 {
-  "updated": "2026년 11월 16일 AM 04:49",
-  "count": 312,
+  "updated": "2026년 11월 17일 AM 06:37",
+  "count": 318,
   "articles": [
+    {
+      "category": "industry",
+      "title": "이사떡 캠페인 제작기",
+      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위한 이사떡 캠페인을 기획했다. 이 캠페인은 이사 후 이웃과의 관계를 더욱 돈독히 하기 위한 아이디어에서 출발했다.",
+      "summary_full": "오늘의집이 이웃에게 건네는 첫인사를 디자인하기 위해 이사떡 캠페인을 제작했다. 이 캠페인은 이사 후 새로운 이웃과의 관계를 형성하는 데 중점을 두고 있다. 이사떡은 전통적인 의미를 담고 있으며, 이웃 간의 친밀감을 높이는 역할을 한다. 제작 과정에서의 다양한 아이디어와 디자인 요소들이 소개된다.",
+      "keywords": [
+        "이사떡",
+        "캠페인",
+        "이웃 관계"
+      ],
+      "source": "오늘의집 Culture",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T06:36:30.717Z",
+      "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "design",
+      "title": "데일리 프롬프트 전체",
+      "summary": "데일리 프롬프트의 모든 내용을 포함하고 있습니다. 다양한 주제와 아이디어를 제공합니다.",
+      "summary_full": "데일리 프롬프트는 창의적인 글쓰기와 사고를 촉진하기 위한 다양한 주제를 제시합니다. 이 자료는 매일 새로운 아이디어를 제공하여 사용자들이 영감을 얻을 수 있도록 돕습니다. 각 프롬프트는 독창적인 접근 방식을 유도하며, 글쓰기 능력을 향상시키는 데 기여합니다. 전체적으로, 데일리 프롬프트는 창작 활동을 활성화하는 유용한 도구입니다.",
+      "keywords": [
+        "프롬프트",
+        "창의성",
+        "글쓰기"
+      ],
+      "source": "Secondbrush Blog",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T06:36:25.209Z",
+      "url": "https://blog.secondbrush.co.kr/tag/daily-prompt/",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "design",
+      "title": "일라이 릴리, 칼리트릭스 인수 합의",
+      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료의 혁신을 목표로 하고 있다.",
+      "summary_full": "일라이 릴리가 CALR 변이 혈액암 스타트업인 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 혈액암 치료에 대한 새로운 접근 방식을 제공할 것으로 기대된다. 칼리트릭스는 혁신적인 치료법 개발에 주력하고 있으며, 이번 거래를 통해 연구 및 개발을 가속화할 계획이다. 일라이 릴리는 이번 인수를 통해 혈액암 분야에서의 입지를 더욱 강화할 예정이다.",
+      "keywords": [
+        "일라이 릴리",
+        "칼리트릭스",
+        "혈액암",
+        "CALR 변이",
+        "인수 합의"
+      ],
+      "source": "TMSS 매거진",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T06:36:18.456Z",
+      "url": "https://tmssmag.com/article/lilly-calytrix-bio-acquisition-mcalr-15-billion",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "trend",
+      "title": "디자인 에이전시 창립자들이 고가 고객에게 ExodeUI를 추천하는 이유",
+      "summary": "디자인 에이전시는 정적인 Figma 파일 대신 작동하는 코드를 제공함으로써 고객의 디자인 구현 문제를 해결하고 있다. 이는 고객과의 원활한 협업을 통해 더 많은 수익을 창출할 수 있는 방법이다.",
+      "summary_full": "디자인 에이전시는 정적인 Figma 파일을 제공하는 대신, 작동하는 코드를 전달함으로써 고객이 디자인을 정확하게 구현하는 데 도움을 주고 있다. 이는 종종 해외 엔지니어링 팀과의 협업에서 발생하는 문제를 줄여준다. 혁신적인 디자인 에이전시는 이러한 접근 방식을 통해 고객과의 관계를 강화하고, 더 많은 수익을 창출할 수 있는 기회를 얻고 있다. ExodeUI는 이러한 변화의 중심에 서 있다.",
+      "keywords": [
+        "디자인 에이전시",
+        "ExodeUI",
+        "고객 협업"
+      ],
+      "source": "dev.to",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T06:36:02.000Z",
+      "url": "https://dev.to/shinoj_cm_6b559b3ab51bf47/why-design-agency-founders-are-recommending-exodeui-to-high-ticket-clients-ak",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "frontend",
+      "title": "인스타그램 비디오 다운로드 문제: 일반적인 원인과 실용적인 해결책",
+      "summary": "인스타그램 비디오나 릴을 다운로드하는 데 어려움을 겪고 있나요? 링크 실패 원인과 일반적인 다운로드 문제 해결 방법을 알아보세요.",
+      "summary_full": "인스타그램 비디오나 릴을 다운로드하는 데 문제가 발생할 수 있습니다. 이 기사에서는 링크가 실패하는 이유와 일반적인 다운로드 문제를 해결하는 방법을 설명합니다. 또한, 지원되는 콘텐츠를 더 쉽게 저장하는 방법도 안내합니다. 스마트폰이나 컴퓨터에서 인스타그램 콘텐츠를 저장하는 팁을 제공합니다.",
+      "keywords": [
+        "인스타그램",
+        "비디오 다운로드",
+        "문제 해결"
+      ],
+      "source": "dev.to",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T06:26:50.000Z",
+      "url": "https://dev.to/ahtasham_hashim1214/instagram-video-download-problems-common-causes-and-practical-solutions-96d",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "trend",
+      "title": "추위 프로모션 코드: 2026년 11월 25% 할인",
+      "summary": "2026년 11월에 사용할 수 있는 추위 쿠폰 코드를 확인하세요. 첫 주문 시 $49 이상 구매 시 $20 할인, 반려동물 사료 50% 할인 등의 혜택이 있습니다.",
+      "summary_full": "2026년 11월에 사용할 수 있는 다양한 추위 쿠폰 코드를 소개합니다. 첫 주문 시 $49 이상 구매 시 $20 할인을 받을 수 있습니다. 또한, 반려동물 사료에 대해 50% 할인 혜택도 제공됩니다. 추가적인 할인 혜택도 확인해 보세요.",
+      "keywords": [
+        "추위",
+        "프로모션 코드",
+        "할인"
+      ],
+      "source": "wired.com",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T06:00:00.000Z",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "industry",
+      "title": "AI 에이전트 보안의 시작은 데이터 거버넌스",
+      "summary": "기업이 AI 에이전트를 도입하기 위해서는 데이터 연결이 필수적이다. 파수AI는 데이터 거버넌스의 중요성을 강조하며, 접근권한 유지를 통해 보안을 강화해야 한다.",
+      "summary_full": "AI 에이전트 플랫폼 도입 시 데이터 연결이 필요하지만, 기존 문서의 접근권한이 사라질 수 있는 문제가 있다. 파수AI는 AI 에이전트 보안의 출발점으로 데이터 거버넌스를 강조하고 있다. 이는 기업 데이터의 품질, 변경 이력, 접근권한을 일관되게 관리하는 체계이다. 따라서 기업은 AI 환경에서도 기존 접근권한을 유지해야 한다.",
+      "keywords": [
+        "AI 에이전트",
+        "데이터 거버넌스",
+        "보안 정책"
+      ],
+      "source": "바이라인네트워크",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T05:38:25.000Z",
+      "url": "https://byline.network/2026/11/17-628/",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "industry",
+      "title": "마이크로소프트, 365 서비스 중단 원인을 7월 업데이트 결함으로 밝혀",
+      "summary": "마이크로소프트는 지난주 발생한 전 세계 Microsoft 365 서비스 중단의 원인을 7월 업데이트의 결함으로 추적했다. 이 결함은 3개월 이상 잠복하다가 부하 증가와 용량 감소로 인해 발생했다.",
+      "summary_full": "마이크로소프트는 최근의 Microsoft 365 서비스 중단이 7월에 배포된 네트워크 게이트웨이 서버 업데이트의 결함 때문이라고 밝혔다. 이 결함은 3개월 이상 잠복해 있었으며, 서비스 부하의 급증과 용량의 감소가 원인이 되었다. 회사는 사건 발생 후 고객에게 초기 보고서를 발표했다. 이 보고서는 서비스 중단의 원인과 관련된 정보를 담고 있다.",
+      "keywords": [
+        "Microsoft 365",
+        "서비스 중단",
+        "업데이트 결함"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 16일",
+      "publishedAt": "2026-11-16T22:22:55.000Z",
+      "url": "https://thenextweb.com/news/microsoft-365-outage-july-defect-post-incident-report",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "industry",
+      "title": "소프트웨어에 비용을 지불할 필요가 없는 이유",
+      "summary": "소프트웨어 비용 지불의 필요성에 대한 의문을 제기하며, 디자인이 그 해결책이 될 수 있음을 강조한다.",
+      "summary_full": "소프트웨어에 대한 비용 지불이 점점 불필요해지고 있는 이유를 탐구한다. AI 기술의 발전에도 불구하고, 디자인이 중요한 역할을 할 수 있다는 점을 강조한다. 디자인은 사용자 경험을 향상시키고, 소프트웨어의 가치를 높이는 데 기여할 수 있다. 따라서, 디자인에 대한 투자와 관심이 필요하다는 메시지를 전달한다.",
+      "keywords": [
+        "소프트웨어",
+        "디자인",
+        "AI"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 16일",
+      "publishedAt": "2026-11-16T21:27:14.000Z",
+      "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "ai",
+      "title": "과학자를 위한 AI 접근성 확대",
+      "summary": "ChatGPT for Academic Researchers 프로그램이 확대되어 전 세계 20만 연구자에게 무료로 최첨단 모델을 제공한다.",
+      "summary_full": "AI 기술을 활용할 수 있는 기회를 늘리기 위해 ChatGPT for Academic Researchers 프로그램이 확장된다. 이 프로그램은 전 세계 20만 명의 연구자에게 무료로 최첨단 AI 모델에 접근할 수 있는 기회를 제공한다. 이를 통해 연구자들은 AI를 활용하여 연구의 효율성을 높일 수 있을 것으로 기대된다. AI 기술의 민주화가 이루어지는 중요한 이정표가 될 것이다.",
+      "keywords": [
+        "AI",
+        "연구자",
+        "접근성"
+      ],
+      "source": "OpenAI News",
+      "date": "11월 16일",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "frontend",
+      "title": "스크롤 기반 애니메이션의 혁신",
+      "summary": "CSS를 활용한 카라오케 기계에서 텍스트에 따라 공이 튕기는 애니메이션을 구현하는 방법을 소개한다. 음성 인식과 함께 진행되는 애니메이션을 하나의 예측 가능한 효과로 만드는 기법에 대해 설명한다.",
+      "summary_full": "이 글에서는 CSS를 이용한 스크롤 기반 애니메이션을 다룬다. 사용자가 음성으로 노래를 부를 때 텍스트가 점진적으로 강조되며, 공이 튕기는 애니메이션이 함께 진행된다. 이러한 애니메이션은 하나의 진행 값에 의해 구동되는 통합된 효과로 구현된다. 이 기법은 CSS-Tricks에서 처음 소개되었다.",
+      "keywords": [
+        "CSS",
+        "애니메이션",
+        "스크롤 기반"
+      ],
+      "source": "css-tricks.com",
+      "date": "11월 16일",
+      "publishedAt": "2026-11-16T16:47:05.000Z",
+      "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+      "collectedAt": "2026-11-17"
+    },
     {
       "category": "frontend",
       "title": "개발자 뉴스 요약: 2026년 11월 16일",
@@ -16,22 +194,6 @@
       "date": "11월 16일",
       "publishedAt": "2026-11-16T04:47:51.000Z",
       "url": "https://dev.to/magnus_ferm/dev-news-digest-16-nov-2026-0600-ifb",
-      "collectedAt": "2026-11-16"
-    },
-    {
-      "category": "industry",
-      "title": "이사떡 캠페인 제작기",
-      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위해 이사떡 캠페인을 기획하였다. 이 캠페인은 이사하는 사람들에게 따뜻한 인사를 전하는 방법을 제안한다.",
-      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 이사떡 캠페인을 제작하였다. 이 캠페인은 이사하는 사람들에게 따뜻한 인사를 전하는 방법을 제안하며, 이사떡을 통해 이웃과의 관계를 더욱 돈독히 하려는 의도를 담고 있다. 다양한 디자인 요소와 메시지를 통해 이 캠페인은 사람들에게 긍정적인 첫인상을 남기고자 한다. 이를 통해 이사 후 새로운 이웃과의 소통을 촉진하는 효과를 기대하고 있다.",
-      "keywords": [
-        "이사떡",
-        "캠페인",
-        "첫인사"
-      ],
-      "source": "오늘의집 Culture",
-      "date": "11월 16일",
-      "publishedAt": "2026-11-16T04:47:45.702Z",
-      "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
       "collectedAt": "2026-11-16"
     },
     {
@@ -81,6 +243,38 @@
       "publishedAt": "2026-11-16T01:27:00.000Z",
       "url": "https://byline.network/2026/11/13-732/",
       "collectedAt": "2026-11-16"
+    },
+    {
+      "category": "ai",
+      "title": "취약점 공개 정책 일정 업데이트",
+      "summary": "우리는 고위험 및 중대한 취약점에 대한 공개 기간을 90일에서 30일로 단축합니다. 기타 문제에 대해서는 45일로 설정합니다.",
+      "summary_full": "우리의 협조적 취약점 공개(CVD) 정책에서 고위험 및 중대한 문제에 대한 공개 기간을 90일에서 30일로 단축합니다. 모든 기타 문제에 대해서는 공개 기간을 45일로 설정합니다. 이는 취약점 해결을 신속하게 진행하기 위한 조치입니다. 새로운 일정은 즉시 시행됩니다.",
+      "keywords": [
+        "취약점 공개",
+        "정책 업데이트",
+        "CVD"
+      ],
+      "source": "Anthropic Research",
+      "date": "11월 16일",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "collectedAt": "2026-11-17"
+    },
+    {
+      "category": "ai",
+      "title": "Hugging Face와 OpenRouter의 협력으로 오픈 가중치 모델 실행 용이해져",
+      "summary": "Hugging Face와 OpenRouter가 협력하여 오픈 가중치 모델을 쉽게 실행할 수 있도록 지원합니다. 이 협력은 개발자들이 모델을 보다 간편하게 활용할 수 있는 환경을 제공합니다.",
+      "summary_full": "Hugging Face와 OpenRouter가 협력하여 오픈 가중치 모델을 쉽게 실행할 수 있는 방법을 제공합니다. 이로 인해 개발자들은 복잡한 설정 없이도 모델을 활용할 수 있게 됩니다. 두 기업의 협력은 AI 모델의 접근성을 높이고, 사용자 경험을 향상시키는 데 기여할 것입니다. 앞으로도 이러한 협력이 계속되어 다양한 AI 솔루션이 발전할 것으로 기대됩니다.",
+      "keywords": [
+        "Hugging Face",
+        "OpenRouter",
+        "오픈 가중치 모델"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "11월 16일",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "url": "https://huggingface.co/blog/openrouter",
+      "collectedAt": "2026-11-17"
     },
     {
       "category": "ai",
@@ -580,19 +774,19 @@
     },
     {
       "category": "design",
-      "title": "AI 도입 여부에 대한 4가지 질문 점검",
-      "summary": "대형 건강 보험사의 제품 팀이 AI를 도입하려 했으나, 실제 사용에서 문제가 발생했다. 전문가들은 AI가 작성한 결정문을 읽는 데 어려움을 겪어 사용을 중단하거나 소요 시간이 늘어났다.",
-      "summary_full": "대형 건강 보험사의 제품 팀이 혜택 항소 전문인을 위해 AI를 도입하려 했으나, 실제 사용에서 문제가 발생했다. AI 기술은 명세대로 작동했지만, 전문인들은 이를 사용하지 않거나 사용 시 더 많은 시간을 소요했다. 짧은 평가를 통해 AI가 작성한 결정문을 읽는 데 어려움이 있다는 문제가 드러났다. 이로 인해 AI 도입의 필요성을 다시 검토해야 할 상황이다.",
+      "title": "AI 도입 여부에 대한 네 가지 질문 점검",
+      "summary": "대형 건강 보험사의 제품 팀이 혜택 항소 전문가를 위한 AI 도입을 고려하고 있다. 그러나 AI가 작성한 결정문을 사용하는 전문가들이 오히려 더 많은 시간을 소요하고 있다.",
+      "summary_full": "대형 건강 보험사의 제품 팀이 혜택 항소 전문가를 위해 AI를 도입하려고 했으나, 실제로 사용한 전문가들이 더 많은 시간을 소모하는 문제가 발생했다. 전문가들과의 간단한 평가를 통해 AI가 작성한 결정문을 읽는 데 어려움이 있음을 알게 되었다. 이로 인해 AI 도입의 필요성과 효과에 대한 재검토가 필요해졌다. 제품 팀은 AI 도입을 위한 네 가지 질문 점검을 통해 더 나은 결정을 내릴 수 있을 것이다.",
       "keywords": [
         "AI 도입",
         "제품 팀",
-        "사용자 경험"
+        "결정문 작성"
       ],
       "source": "smashingmagazine.com",
       "date": "11월 12일",
       "publishedAt": "2026-11-12T10:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-      "collectedAt": "2026-11-16"
+      "collectedAt": "2026-11-17"
     },
     {
       "category": "design",
@@ -693,8 +887,8 @@
     {
       "category": "figma",
       "title": "Figma의 3D 변환 효과",
-      "summary": "Figma에서 3D 변환 기능을 통해 객체를 x, y, z 축으로 회전할 수 있습니다. 실시간 미리보기를 통해 3D 디자인을 쉽게 만들고 애니메이션 효과를 추가할 수 있습니다.",
-      "summary_full": "Figma의 새로운 3D 변환 기능을 사용하면 캔버스에서 핸들을 이용해 객체를 x, y, z 축으로 회전할 수 있습니다. 사용자는 3D 디자인을 처음부터 만들거나 Figma 에이전트가 자동으로 구성하도록 할 수 있습니다. 깊이와 원근감을 조정하여 완전한 3D 장면을 구축하고, Figma Motion과 결합하여 회전 및 원근 변화 애니메이션을 추가할 수 있습니다. 개발 모드에서 CSS를 복사하여 실제로 구현할 수 있습니다.",
+      "summary": "Figma의 새로운 3D 변환 기능을 통해 x, y, z 축을 따라 객체를 회전할 수 있습니다. 실시간 미리보기를 통해 3D 디자인을 쉽게 만들고 애니메이션 효과를 추가할 수 있습니다.",
+      "summary_full": "Figma의 3D 변환 기능을 사용하면 캔버스에서 직접 핸들을 조작하여 객체를 x, y, z 축으로 회전할 수 있습니다. 사용자는 3D 디자인을 처음부터 끝까지 만들거나 Figma 에이전트가 자동으로 구성하도록 할 수 있습니다. 깊이와 원근감을 조정하여 완전한 3D 장면을 구축한 후, Figma Motion과 결합하여 애니메이션 효과를 추가할 수 있습니다. 개발 모드에서 CSS를 복사하여 실제 구현에 활용할 수 있습니다.",
       "keywords": [
         "Figma",
         "3D 변환",
@@ -704,7 +898,7 @@
       "date": "11월 12일",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-16"
+      "collectedAt": "2026-11-17"
     },
     {
       "category": "ai",
@@ -932,9 +1126,9 @@
     },
     {
       "category": "frontend",
-      "title": "망분리 환경의 Agent Platform 설계",
-      "summary": "Agent Platform은 사용자의 데이터 분석 요청을 자동으로 처리하도록 설계되었다. 이를 통해 금융 업무의 망분리 요건을 준수하면서도 효율성을 높이고자 한다.",
-      "summary_full": "Agent Platform은 사용자가 요청한 데이터 분석을 자동으로 수행하도록 설계되었다. 이 플랫폼은 과거의 쿼리를 활용해 데이터 비교를 쉽게 하며, 필요한 데이터는 내부망에 위치해 있어 외부로 이동할 수 없다. 따라서, 에이전트는 내부 도구를 통해 데이터를 조회하고 가공하는 역할을 맡는다. 이는 반복적인 작업을 줄이고, 금융 업무의 망분리 요건을 준수하는 데 기여한다.",
+      "title": "망분리 환경의 Agent Platform 설계기",
+      "summary": "Agent Platform을 통해 반복적인 데이터 분석 요청을 자동화하려는 시도에 대한 이야기입니다. 망분리 요건을 준수하며 내부망에서 에이전트가 작업을 수행하도록 설계되었습니다.",
+      "summary_full": "이 기사는 Agent Platform의 설계 과정과 그 필요성을 설명합니다. 사용자가 반복적으로 요청하는 데이터 분석을 에이전트가 처리하도록 하여 효율성을 높이고자 했습니다. 특히, 금융업계의 망분리 요건을 준수하면서도 필요한 데이터를 내부망에서 안전하게 처리하는 방법을 다룹니다. 이를 통해 업무의 자동화와 데이터 분석의 정확성을 동시에 추구하고 있습니다.",
       "keywords": [
         "Agent Platform",
         "망분리",
@@ -944,7 +1138,7 @@
       "date": "11월 10일",
       "publishedAt": "2026-11-10T07:02:00.000Z",
       "url": "https://toss.tech/article/agent-platform-foundation",
-      "collectedAt": "2026-11-16"
+      "collectedAt": "2026-11-17"
     },
     {
       "category": "frontend",
@@ -1733,8 +1927,8 @@
     {
       "category": "ai",
       "title": "Le Chonk의 지능을 활용한 Mistral Studio",
-      "summary": "Mistral Studio와 Le Chonk를 통해 기업 에이전트, 워크플로우 및 앱을 더 빠르게 구축하고 배포할 수 있습니다. 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다.",
-      "summary_full": "Mistral Studio와 Le Chonk를 사용하면 기업 에이전트와 워크플로우, 앱을 신속하게 구축하고 배포할 수 있습니다. 이 솔루션은 사용자가 모델, 데이터 및 인프라를 완벽하게 제어할 수 있도록 지원합니다. 이를 통해 기업은 효율성을 높이고 혁신적인 솔루션을 빠르게 시장에 출시할 수 있습니다. Le Chonk는 지능적인 기능을 제공하여 다양한 비즈니스 요구에 대응합니다.",
+      "summary": "Mistral Studio를 통해 기업 에이전트와 워크플로우, 앱을 더 빠르게 구축하고 배포할 수 있다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
+      "summary_full": "Mistral Studio는 기업의 에이전트와 워크플로우, 앱을 신속하게 구축하고 배포할 수 있는 도구이다. Le Chonk는 이러한 과정에서 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다. 이를 통해 기업은 효율성을 높이고 더 나은 결과를 도출할 수 있다. Le Chonk는 지능형 솔루션을 통해 비즈니스의 혁신을 이끌어낼 수 있는 기회를 제공한다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -1744,7 +1938,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-16"
+      "collectedAt": "2026-11-17"
     },
     {
       "category": "design",
@@ -4651,54 +4845,6 @@
       "collectedAt": "2026-10-18"
     },
     {
-      "category": "frontend",
-      "title": "웹사이트 마이그레이션: DNS 변경 전에 컷오버 계획 수립하기",
-      "summary": "웹사이트 마이그레이션은 데이터, 트래픽, 비즈니스 기능이 함께 도착할 때 성공한다. 새로운 서버로 파일을 복사하는 것은 그 과정의 일부일 뿐이다.",
-      "summary_full": "웹사이트 마이그레이션은 데이터, 트래픽, 비즈니스 기능이 동시에 도착해야 성공적으로 이루어진다. 새로운 서버로 파일을 복사하는 것은 마이그레이션 과정의 한 부분일 뿐이다. 마이그레이션을 준비하기 위해 애플리케이션, 데이터베이스, 업로드된 파일, 이메일 서비스, DNS 레코드, 인증서, 백그라운드 작업 및 외부 통합을 목록화해야 한다. 어떤 서비스가 이동하는지 식별하는 것이 중요하다.",
-      "keywords": [
-        "웹사이트 마이그레이션",
-        "DNS 변경",
-        "컷오버 계획"
-      ],
-      "source": "dev.to",
-      "date": "10월 17일",
-      "publishedAt": "2026-10-17T02:59:49.000Z",
-      "url": "https://dev.to/alifhost/website-migration-build-a-cutover-plan-before-changing-dns-4157",
-      "collectedAt": "2026-10-17"
-    },
-    {
-      "category": "trend",
-      "title": "여섯 개의 요새가 동시에 전투하는 이유: 링포트의 디자인",
-      "summary": "링포트는 여섯 개의 요새가 동시에 전투하는 독특한 게임 디자인을 소개한다. 이 글에서는 그 핵심 아이디어와 디자인 선택에 대해 설명한다.",
-      "summary_full": "링포트는 여섯 개의 요새가 동시에 전투를 벌이는 게임으로, 이 독창적인 디자인은 플레이어에게 새로운 경험을 제공한다. 개발자는 이러한 아이디어를 구현하기 위해 여러 디자인 선택을 하였으며, 그 과정에서의 고민과 결정들을 공유한다. 이 글은 링포트의 기본 개념과 그에 따른 디자인 원칙을 탐구한다. 또한, 게임의 전투 시스템이 어떻게 작동하는지에 대한 통찰을 제공한다.",
-      "keywords": [
-        "링포트",
-        "게임 디자인",
-        "전투 시스템"
-      ],
-      "source": "dev.to",
-      "date": "10월 17일",
-      "publishedAt": "2026-10-17T02:33:07.000Z",
-      "url": "https://dev.to/fervogame/why-six-forts-fight-at-once-the-design-of-ringfort-2db1",
-      "collectedAt": "2026-10-17"
-    },
-    {
-      "category": "trend",
-      "title": "더 이상 존재하지 않는 윤초",
-      "summary": "윤초는 일반인에게는 큰 의미가 없지만, 시간 측정 커뮤니티에서는 오랫동안 논란의 대상이 되어왔다. 이제 윤초는 사라졌다.",
-      "summary_full": "윤초는 일반인에게는 큰 의미가 없지만, 시간 측정 커뮤니티에서는 오랫동안 논란의 대상이 되어왔다. 이로 인해 시간 측정의 정확성과 일관성에 대한 논의가 이어져 왔다. 그러나 최근 윤초가 공식적으로 폐지되면서 이 문제는 종결되었다. 이제 시간 측정은 새로운 기준에 따라 진행될 것이다.",
-      "keywords": [
-        "윤초",
-        "시간 측정",
-        "시간keeping"
-      ],
-      "source": "wired.com",
-      "date": "10월 16일",
-      "publishedAt": "2026-10-16T21:31:35.000Z",
-      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
-      "collectedAt": "2026-10-17"
-    },
-    {
       "category": "ai",
       "title": "이타우가 전체 고객을 위한 생성적 AI 구축 방법",
       "summary": "이타우는 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 통해 AI 우선 전략을 고객과 직원에게 적용하고 있다. 이는 브라질의 가장 규제가 엄격한 분야 중 하나에서 이루어지고 있다.",
@@ -4713,54 +4859,6 @@
       "publishedAt": "2026-10-16T19:00:00.000Z",
       "url": "https://openai.com/index/itau-generative-ai",
       "collectedAt": "2026-10-19"
-    },
-    {
-      "category": "industry",
-      "title": "RapidCanvas, 2900만 달러 투자 유치하여 기업 AI 앱 개발",
-      "summary": "RapidCanvas가 기업을 위한 AI 앱을 개발하기 위해 2900만 달러의 시리즈 B 투자를 유치했다. 이 회사는 미국, 브라질, 인도에서 인력을 채용할 예정이다.",
-      "summary_full": "RapidCanvas는 AI 에이전트 플랫폼과 엔지니어를 결합하여 기업용 앱을 개발하는 스타트업이다. 이번 시리즈 B 라운드에서 Vertex Ventures SEA & India가 주도하고 Hitachi Ventures가 참여하여 2900만 달러를 유치했다. 총 자금은 5250만 달러에 달하며, RapidCanvas는 미국, 브라질, 인도에서 인력을 추가로 채용할 계획이다. 이 회사는 오스틴에 본사를 두고 있다.",
-      "keywords": [
-        "RapidCanvas",
-        "AI 앱",
-        "투자 유치"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 16일",
-      "publishedAt": "2026-10-16T18:17:17.000Z",
-      "url": "https://thenextweb.com/news/rapidcanvas-29m-series-b-enterprise-ai",
-      "collectedAt": "2026-10-17"
-    },
-    {
-      "category": "ai",
-      "title": "Anthropic, Claude가 양자 회로 설계의 새로운 기준을 세우다",
-      "summary": "Anthropic의 Claude가 기존의 양자 회로 설계를 초월한 성과를 발표했다. 이는 양자 컴퓨팅 분야에서 중요한 진전을 의미한다.",
-      "summary_full": "Anthropic의 인공지능 모델 Claude가 기존에 발표된 최고 수준의 양자 회로 설계를 능가했다고 밝혔다. 이 성과는 양자 컴퓨팅 기술의 발전에 크게 기여할 것으로 기대된다. Claude의 새로운 설계는 효율성과 성능 면에서 기존 기술을 뛰어넘는 것으로 평가받고 있다. 이는 향후 양자 컴퓨팅의 응용 가능성을 더욱 넓힐 것으로 보인다.",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "양자 회로 설계"
-      ],
-      "source": "Google News Anthropic",
-      "date": "10월 16일",
-      "publishedAt": "2026-10-16T17:58:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ0h4MTJSUXdLSmRma2RKbk52cGxQYlVpU2J1WlF0Wk00RVpDcUhqTXM0dm5KdHBRX05HYlVJSmtfMHRDMUowaHFtajgybEQ3RVdFYm5lTEpZUTdoLTE5VEU2VllVV29nV29wQ1UxTU1yZTF5ZXQ3RjFMZUtOOHBZWWtHMFdVLThUc2pjU1lWc3dUNzg0?oc=5",
-      "collectedAt": "2026-10-17"
-    },
-    {
-      "category": "industry",
-      "title": "AI로 빨라진 고객 분석 업무",
-      "summary": "KT는 인공지능을 활용해 고객 의견 분석 시간을 8시간에서 10분으로 단축했다. 이를 통해 연간 4만 시간의 업무시간을 절감했지만, 전체 생산성 향상 여부는 추가 검증이 필요하다.",
-      "summary_full": "KT는 인공지능(AI)을 통해 고객 의견 분석에 필요한 시간을 8시간에서 10분으로 줄이는 성과를 올렸다. 이로 인해 연간 4만 시간의 업무시간을 절감할 수 있었다. 그러나 개별 업무의 처리시간 단축이 기업 전체의 생산성 향상이나 비용 절감으로 이어졌는지는 별도로 검증해야 한다. AI 결과물의 검수 및 오류 수정에 드는 시간과 비용을 고려해야 실질적인 효과를 판단할 수 있기 때문이다.",
-      "keywords": [
-        "AI",
-        "고객 분석",
-        "업무 효율성"
-      ],
-      "source": "바이라인네트워크",
-      "date": "10월 16일",
-      "publishedAt": "2026-10-16T14:35:38.000Z",
-      "url": "https://byline.network/2026/10/1016-8/",
-      "collectedAt": "2026-10-17"
     },
     {
       "category": "ai",
@@ -4943,8 +5041,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 대규모 언어 모델(LLM)의 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 경제적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너는 최근 대규모 언어 모델(LLM)의 운영 비용을 절반으로 줄일 수 있는 AI 솔루션을 출시했다. 이 혁신적인 기술은 기업들이 AI를 보다 효율적으로 활용할 수 있게 하여, 비용 절감과 생산성 향상을 동시에 이끌어낼 것으로 기대된다. 라이너의 솔루션은 다양한 산업 분야에서 적용 가능하며, 특히 데이터 처리와 분석에 강점을 가진다. 이번 출시로 인해 AI 기술의 접근성이 더욱 높아질 전망이다.",
+      "summary": "라이너가 대규모 언어 모델(LLM)의 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
+      "summary_full": "라이너는 최근 대규모 언어 모델(LLM)의 운영 비용을 절반으로 줄일 수 있는 AI 솔루션을 출시했다. 이 혁신적인 솔루션은 기업들이 AI 기술을 보다 경제적으로 활용할 수 있게 하며, 비용 절감과 성능 향상을 동시에 이룰 수 있도록 설계되었다. 라이너는 이를 통해 AI 도입을 원하는 기업들에게 큰 도움이 될 것으로 기대하고 있다. 새로운 솔루션은 다양한 산업 분야에서 활용될 수 있을 것으로 보인다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -4954,7 +5052,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-11-11"
+      "collectedAt": "2026-11-17"
     },
     {
       "category": "frontend",
@@ -4975,8 +5073,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 주목받고 있다. 이 트렌드는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함하고 있다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 소개되고 있다. 이러한 트렌드는 사용자 경험을 개선하기 위해 혁신적인 디자인 요소와 기술을 통합하고 있다. 특히, 직관적인 인터페이스와 접근성을 강조하는 경향이 두드러진다. 디자이너들은 이러한 변화를 통해 사용자와의 소통을 더욱 원활하게 만들고자 한다.",
+      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함한다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 극대화하기 위해 다양한 혁신적인 요소를 도입하고 있다. 이러한 트렌드는 시각적 요소뿐만 아니라 기능적 측면에서도 변화하고 있다. 특히, 사용자 중심의 디자인이 강조되며, 인터랙션의 직관성을 높이는 방향으로 발전하고 있다. 이와 같은 변화는 디지털 제품의 경쟁력을 높이는 데 중요한 역할을 할 것이다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -4986,23 +5084,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-16"
+      "collectedAt": "2026-11-17"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승하고 있다. 이러한 배경을 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이 과정에서 언어 교육 방법이 어떻게 발전했는지를 이해하는 것이 중요하다. 따라서 언어 앱의 디자인은 과거의 교육 방식에 뿌리를 두고 있다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
+      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 현재 언어 학습 앱의 디자인을 이해하는 데 더 큰 도움이 된다.",
       "keywords": [
         "언어 앱",
-        "라틴어 교육",
-        "디자인 교훈"
+        "라틴어",
+        "교육 방법"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-16"
+      "collectedAt": "2026-11-17"
     }
   ]
 }
