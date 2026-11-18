@@ -1,56 +1,214 @@
 {
-  "updated": "2026년 11월 17일 AM 06:37",
-  "count": 318,
+  "updated": "2026년 11월 18일 AM 05:57",
+  "count": 322,
   "articles": [
     {
       "category": "industry",
       "title": "이사떡 캠페인 제작기",
-      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위한 이사떡 캠페인을 기획했다. 이 캠페인은 이사 후 이웃과의 관계를 더욱 돈독히 하기 위한 아이디어에서 출발했다.",
-      "summary_full": "오늘의집이 이웃에게 건네는 첫인사를 디자인하기 위해 이사떡 캠페인을 제작했다. 이 캠페인은 이사 후 새로운 이웃과의 관계를 형성하는 데 중점을 두고 있다. 이사떡은 전통적인 의미를 담고 있으며, 이웃 간의 친밀감을 높이는 역할을 한다. 제작 과정에서의 다양한 아이디어와 디자인 요소들이 소개된다.",
+      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위해 이사떡 캠페인을 기획했다. 이 캠페인은 이사 후 새로운 이웃과의 관계를 형성하는 데 중점을 두고 있다.",
+      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 이사떡 캠페인을 제작했다. 이 캠페인은 이사 후 새로운 이웃과의 관계를 형성하는 것을 목표로 한다. 이사떡은 전통적인 한국의 인사 문화에 기반하여, 이웃에게 따뜻한 마음을 전하는 매개체로 활용된다. 캠페인의 제작 과정과 의도에 대한 이야기를 담고 있다.",
       "keywords": [
         "이사떡",
         "캠페인",
-        "이웃 관계"
+        "이웃"
       ],
       "source": "오늘의집 Culture",
-      "date": "11월 17일",
-      "publishedAt": "2026-11-17T06:36:30.717Z",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T05:56:21.806Z",
       "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "design",
       "title": "데일리 프롬프트 전체",
-      "summary": "데일리 프롬프트의 모든 내용을 포함하고 있습니다. 다양한 주제와 아이디어를 제공합니다.",
-      "summary_full": "데일리 프롬프트는 창의적인 글쓰기와 사고를 촉진하기 위한 다양한 주제를 제시합니다. 이 자료는 매일 새로운 아이디어를 제공하여 사용자들이 영감을 얻을 수 있도록 돕습니다. 각 프롬프트는 독창적인 접근 방식을 유도하며, 글쓰기 능력을 향상시키는 데 기여합니다. 전체적으로, 데일리 프롬프트는 창작 활동을 활성화하는 유용한 도구입니다.",
+      "summary": "데일리 프롬프트는 매일 제공되는 창의적인 글쓰기 주제입니다. 이를 통해 작가들은 다양한 아이디어를 탐색하고 글쓰기 능력을 향상시킬 수 있습니다.",
+      "summary_full": "데일리 프롬프트는 작가들에게 매일 새로운 글쓰기 주제를 제공하여 창의력을 자극합니다. 이 프롬프트는 다양한 장르와 스타일을 포함하여 작가들이 자신의 목소리를 찾는 데 도움을 줍니다. 또한, 정기적인 글쓰기 연습을 통해 기술을 발전시키고 자신감을 높일 수 있습니다. 이러한 프롬프트는 개인적인 성장뿐만 아니라 작가 커뮤니티와의 연결을 촉진합니다.",
       "keywords": [
-        "프롬프트",
+        "글쓰기",
         "창의성",
-        "글쓰기"
+        "프롬프트"
       ],
       "source": "Secondbrush Blog",
-      "date": "11월 17일",
-      "publishedAt": "2026-11-17T06:36:25.209Z",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T05:56:16.126Z",
       "url": "https://blog.secondbrush.co.kr/tag/daily-prompt/",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "design",
       "title": "일라이 릴리, 칼리트릭스 인수 합의",
-      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료의 혁신을 목표로 하고 있다.",
-      "summary_full": "일라이 릴리가 CALR 변이 혈액암 스타트업인 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 혈액암 치료에 대한 새로운 접근 방식을 제공할 것으로 기대된다. 칼리트릭스는 혁신적인 치료법 개발에 주력하고 있으며, 이번 거래를 통해 연구 및 개발을 가속화할 계획이다. 일라이 릴리는 이번 인수를 통해 혈액암 분야에서의 입지를 더욱 강화할 예정이다.",
+      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료 분야에서의 입지를 강화하기 위한 전략으로 보인다.",
+      "summary_full": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 일라이 릴리가 혈액암 치료 분야에서의 경쟁력을 높이기 위한 중요한 단계로 평가된다. 칼리트릭스는 혁신적인 치료법을 개발하고 있어, 이번 합병이 향후 치료 옵션에 긍정적인 영향을 미칠 것으로 기대된다. 인수 완료 후, 일라이 릴리는 칼리트릭스의 연구개발 역량을 활용하여 새로운 치료제를 시장에 출시할 계획이다.",
       "keywords": [
         "일라이 릴리",
         "칼리트릭스",
-        "혈액암",
-        "CALR 변이",
-        "인수 합의"
+        "혈액암"
       ],
       "source": "TMSS 매거진",
-      "date": "11월 17일",
-      "publishedAt": "2026-11-17T06:36:18.456Z",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T05:56:09.732Z",
       "url": "https://tmssmag.com/article/lilly-calytrix-bio-acquisition-mcalr-15-billion",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "frontend",
+      "title": "WebRTC 앱의 여섯 가지 프로덕션 버그와 이를 고정하는 테스트",
+      "summary": "Chatter3는 1:1 영어 회화 앱으로, 여섯 가지 프로덕션 버그와 이를 해결하기 위한 코드 및 테스트를 기록한 엔지니어링 로그를 소개한다.",
+      "summary_full": "Chatter3는 무료 1:1 영어 회화 앱으로, 두 학습자가 다섯 분 동안 비디오 통화를 진행한다. 이 글에서는 프로덕션에 도달한 여섯 가지 버그를 다루며, 각 버그에 대한 코드와 이를 수정하기 위한 테스트를 제시한다. 버그 수정 과정에서의 경험과 교훈도 함께 공유된다. 이를 통해 안정적인 앱 운영을 위한 중요성을 강조한다.",
+      "keywords": [
+        "WebRTC",
+        "버그 수정",
+        "테스트"
+      ],
+      "source": "dev.to",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T05:54:48.000Z",
+      "url": "https://dev.to/chatter3_lab/six-production-bugs-in-a-webrtc-app-with-the-tests-that-keep-them-fixed-25oj",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "trend",
+      "title": "Z세대의 3분의 1 이상, AI에 의존해 친구를 찾다",
+      "summary": "온라인 친구나 AI를 사회적 동반자로 사용하는 젊은이들이 그렇지 않은 이들보다 외로움을 느낄 가능성이 더 높다는 새로운 갤럽 보고서가 발표됐다.",
+      "summary_full": "젊은 세대가 온라인 친구나 AI를 친구로 삼는 경우, 외로움을 느낄 확률이 증가한다. 갤럽의 새로운 보고서에 따르면, 이러한 경향은 특히 Z세대에서 두드러진다. AI와의 상호작용이 사회적 관계를 대체할 수 있지만, 이는 외로움으로 이어질 수 있다. 따라서, AI의 사용이 긍정적인지 부정적인지에 대한 논의가 필요하다.",
+      "keywords": [
+        "Z세대",
+        "AI친구",
+        "외로움"
+      ],
+      "source": "wired.com",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T05:01:00.000Z",
+      "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "trend",
+      "title": "정적 웹사이트에서 대형 카드 인쇄하기",
+      "summary": "GentlePoints를 만들 때 독자가 편안한 거리에서 읽을 수 있도록 카드를 설계했습니다. 카드 레이아웃을 하기 전에 안전 영역을 확보하는 것이 중요합니다.",
+      "summary_full": "GentlePoints를 만들 때 독자가 편안한 거리에서 읽을 수 있도록 카드를 설계했습니다. 이를 위해 A4 및 Letter 페이지 크기를 사용하고, 카드 레이아웃을 하기 전에 안전 영역을 확보하는 것이 중요합니다. 이 과정은 독자가 카드를 쉽게 읽을 수 있도록 돕습니다. 최종적으로, 카드를 효과적으로 인쇄할 수 있는 방법을 제시합니다.",
+      "keywords": [
+        "카드 인쇄",
+        "정적 웹사이트",
+        "디자인"
+      ],
+      "source": "dev.to",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T04:42:20.000Z",
+      "url": "https://dev.to/gentlepoints/printing-large-type-cards-from-a-static-website-2n6o",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "industry",
+      "title": "마이크로소프트, 코파일럿을 OS의 지위에 올리다",
+      "summary": "마이크로소프트의 코파일럿이 사용자 보조도구에서 새로운 운영체제로 자리잡았다. 사티아 나델라 회장은 이를 이그나이트 2026 컨퍼런스에서 발표했다.",
+      "summary_full": "마이크로소프트의 생성형 AI 도구인 코파일럿이 이제 OS의 지위를 차지하게 되었다. 사티아 나델라 회장은 이 사실을 샌프란시스코에서 열린 이그나이트 2026 컨퍼런스에서 강조했다. 코파일럿은 사용자 보조도구로 시작했으나, 이제는 새로운 운영체제로 발전하였다. 이는 마이크로소프트의 기술 혁신을 보여주는 사례로 평가된다.",
+      "keywords": [
+        "마이크로소프트",
+        "코파일럿",
+        "운영체제"
+      ],
+      "source": "바이라인네트워크",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T03:00:59.000Z",
+      "url": "https://byline.network/2026/11/18-646/",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "industry",
+      "title": "연구자의 가치란 무엇인가?",
+      "summary": "연구의 중요성에 대한 논의는 기술 이야기와는 다르며, AI의 발전으로 인간의 마찰이 가장 귀중한 자산이 되고 있다.",
+      "summary_full": "연구자들은 팀의 성숙도를 높여 자신의 연구가 성공에 기여하는 가치를 이해하도록 노력해왔다. 연구의 가치는 단순한 기술적 성과를 넘어서 인간의 상호작용과 마찰에서 더욱 드러난다. AI의 발전으로 인해 인간의 역할이 더욱 중요해지고 있으며, 이는 연구자들이 직면한 새로운 도전이다. 따라서 연구의 가치는 기술적 요소뿐만 아니라 인간적 요소에서도 찾아야 한다.",
+      "keywords": [
+        "연구자",
+        "AI",
+        "인간의 마찰"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T23:26:24.000Z",
+      "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "industry",
+      "title": "AI 에이전트로 훌륭한 영상 만들기",
+      "summary": "AI 비디오 에이전트를 통해 간단한 문장으로 영상을 제작할 수 있다. 좋은 영상을 얻기 위해서는 요청하는 방법과 창의적인 아이디어가 중요하다.",
+      "summary_full": "오늘날 누구나 간단한 문장으로 AI 비디오 에이전트에게 영상을 요청하고 결과물을 받을 수 있다. 하지만 좋은 영상을 얻기 위해서는 요청하는 방법을 잘 알고, 요청할 가치가 있는 창의적인 아이디어가 필요하다. 소규모 비즈니스나 팀을 운영하는 경우 AI를 활용하는 것이 유용할 수 있다. 이 이야기는 The Next Web에서 계속된다.",
+      "keywords": [
+        "AI",
+        "비디오 제작",
+        "창의적인 아이디어"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T20:36:12.000Z",
+      "url": "https://thenextweb.com/news/how-to-make-great-video-ai-agent",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, 클로드 API 앱 연결 결제 베타 출시",
+      "summary": "앤트로픽이 클로드 API 앱을 위한 연결 결제의 베타 버전을 출시했다. 이로 인해 개발자들은 보다 쉽게 앱 내 결제 기능을 통합할 수 있게 된다.",
+      "summary_full": "앤트로픽이 클로드 API 앱을 위한 새로운 연결 결제 베타 버전을 출시했다. 이 서비스는 개발자들이 앱 내에서 결제 기능을 통합하는 과정을 간소화할 예정이다. 이를 통해 사용자 경험이 향상되고, 다양한 결제 옵션이 제공될 것으로 기대된다. 앤트로픽은 이러한 기능이 개발자와 사용자 모두에게 유익할 것이라고 밝혔다.",
+      "keywords": [
+        "앤트로픽",
+        "클로드 API",
+        "연결 결제"
+      ],
+      "source": "Google News Anthropic",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T17:57:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcjBacEkyTm1zbU5selFCUGhCc0tnRjNlNHJVS3JOcjJ5QzktZnlObXJRVzg5Z0lGSGlzSDdvMFZuUFhCcTlkS3lMbUE4V1hzMUFubV84eURhS3ZfRWl5SmlWc25XZldUTFVqNmVuLXpQbFpzWVo3NTJjRVpwSHdJd2dQWGJGN2liMTFj?oc=5",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "ai",
+      "title": "GPT-6.2 아스트라와 솔 소개",
+      "summary": "GPT-6.2 아스트라와 솔은 더 나은 전문 출력과 코딩, 컴퓨터 사용, 효율성을 제공합니다. ChatGPT Work, Codex, API에서 더 낮은 비용으로 개선된 성능을 보여줍니다.",
+      "summary_full": "GPT-6.2 아스트라와 솔은 최신 기술로 더 나은 전문적인 결과물을 제공합니다. 이 모델은 코딩과 컴퓨터 사용에서의 효율성을 높이며, 비용을 절감하는 데 기여합니다. ChatGPT Work, Codex, API 등 다양한 플랫폼에서 활용될 수 있습니다. 이를 통해 사용자들은 더 나은 성과를 얻을 수 있습니다.",
+      "keywords": [
+        "GPT-6.2",
+        "아스트라",
+        "솔"
+      ],
+      "source": "OpenAI News",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T17:45:00.000Z",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "design",
+      "title": "AI 2027 컨퍼런스 소개",
+      "summary": "AI가 디자인과 구축 방식을 변화시키고 있으며, 이는 계속될 것입니다. 2026년 12월 1일, SmashingConf가 AI 2027 컨퍼런스를 개최하여 AI의 현재와 2027년의 전망을 논의합니다.",
+      "summary_full": "AI는 디자인과 구축 방식을 변화시키고 있으며, 이는 계속될 것입니다. 2026년 12월 1일, SmashingConf가 AI 2027 컨퍼런스를 개최하여 AI의 현재 상황과 2027년의 기대를 논의합니다. UX 디자이너와 디자인 시스템 엔지니어로서 AI가 작업 흐름을 어떻게 향상시킬 수 있는지 배울 필요가 있습니다. AI의 성숙함에 따라 팀들이 올바른 방향으로 나아가고 있는 사례도 살펴볼 것입니다.",
+      "keywords": [
+        "AI",
+        "디자인",
+        "컨퍼런스"
+      ],
+      "source": "smashingmagazine.com",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "frontend",
+      "title": "New20 타임라인 허브 만들기",
+      "summary": "지표 변화의 배경을 이해하기 위해 New20 Timeline Hub를 소개합니다. 이 허브는 다양한 기록을 하나의 시간축으로 연결하여 분석가들이 상황을 쉽게 파악할 수 있도록 돕습니다.",
+      "summary_full": "대시보드에서 지표의 변화를 발견하면, 그 이유를 찾기 위해 여러 기록을 조사해야 합니다. New20 Timeline Hub는 이러한 기록들을 하나의 시간축으로 통합하여, 분석가들이 제품의 변화와 관련된 사건들을 한눈에 확인할 수 있도록 합니다. 이를 통해 실험, 정책 변화 등 다양한 요소가 지표에 미친 영향을 쉽게 이해할 수 있습니다. 이 글에서는 New20의 맥락을 시각적으로 정리한 방법을 설명합니다.",
+      "keywords": [
+        "지표분석",
+        "타임라인",
+        "데이터시각화"
+      ],
+      "source": "toss.tech",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T09:39:00.000Z",
+      "url": "https://toss.tech/article/new20-timeline-hub",
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "trend",
@@ -117,6 +275,22 @@
       "collectedAt": "2026-11-17"
     },
     {
+      "category": "figma",
+      "title": "관리자는 승인된 OAuth 앱의 허용 목록을 사용할 수 있습니다.",
+      "summary": "관리자는 팀에서 사용할 수 있는 앱을 관리하기 위해 승인된 OAuth 앱의 허용 목록을 사용할 수 있습니다. 새로운 확장 탭에서 앱 요청을 검토하고 승인된 앱을 관리할 수 있습니다.",
+      "summary_full": "관리자는 팀에서 사용할 수 있는 앱을 관리하기 위해 승인된 OAuth 앱의 허용 목록을 사용할 수 있습니다. 이 목록에는 Cursor와 Claude Code와 같은 MCP 클라이언트가 포함됩니다. 관리자는 새로운 확장 탭에서 앱 요청을 검토하고 승인된 앱을 관리할 수 있습니다. 이 기능은 조직 및 기업 플랜에 대해 곧 출시될 예정입니다.",
+      "keywords": [
+        "OAuth",
+        "앱 관리",
+        "허용 목록"
+      ],
+      "source": "Figma Release Notes",
+      "date": "11월 17일",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-11-18"
+    },
+    {
       "category": "industry",
       "title": "마이크로소프트, 365 서비스 중단 원인을 7월 업데이트 결함으로 밝혀",
       "summary": "마이크로소프트는 지난주 발생한 전 세계 Microsoft 365 서비스 중단의 원인을 7월 업데이트의 결함으로 추적했다. 이 결함은 3개월 이상 잠복하다가 부하 증가와 용량 감소로 인해 발생했다.",
@@ -167,8 +341,8 @@
     {
       "category": "frontend",
       "title": "스크롤 기반 애니메이션의 혁신",
-      "summary": "CSS를 활용한 카라오케 기계에서 텍스트에 따라 공이 튕기는 애니메이션을 구현하는 방법을 소개한다. 음성 인식과 함께 진행되는 애니메이션을 하나의 예측 가능한 효과로 만드는 기법에 대해 설명한다.",
-      "summary_full": "이 글에서는 CSS를 이용한 스크롤 기반 애니메이션을 다룬다. 사용자가 음성으로 노래를 부를 때 텍스트가 점진적으로 강조되며, 공이 튕기는 애니메이션이 함께 진행된다. 이러한 애니메이션은 하나의 진행 값에 의해 구동되는 통합된 효과로 구현된다. 이 기법은 CSS-Tricks에서 처음 소개되었다.",
+      "summary": "CSS를 활용한 스크롤 기반 애니메이션 기법을 소개한다. 음성 인식을 통해 진행 상황에 따라 텍스트를 강조하는 방식으로, 예측 가능한 효과를 구현할 수 있다.",
+      "summary_full": "이 글에서는 CSS를 이용한 스크롤 기반 애니메이션 기법을 다룬다. 사용자가 음성으로 진행 상황을 인식할 수 있도록 하여, 텍스트가 점진적으로 강조되는 효과를 보여준다. 이러한 애니메이션은 하나의 진행 값에 의해 구동되는 통합된 효과로 구현된다. 원래 CSS-Tricks에 사랑을 담아 손으로 작성된 이 기법은 웹 디자인에 새로운 가능성을 제시한다.",
       "keywords": [
         "CSS",
         "애니메이션",
@@ -178,7 +352,7 @@
       "date": "11월 16일",
       "publishedAt": "2026-11-16T16:47:05.000Z",
       "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "frontend",
@@ -247,24 +421,24 @@
     {
       "category": "ai",
       "title": "취약점 공개 정책 일정 업데이트",
-      "summary": "우리는 고위험 및 중대한 취약점에 대한 공개 기간을 90일에서 30일로 단축합니다. 기타 문제에 대해서는 45일로 설정합니다.",
-      "summary_full": "우리의 협조적 취약점 공개(CVD) 정책에서 고위험 및 중대한 문제에 대한 공개 기간을 90일에서 30일로 단축합니다. 모든 기타 문제에 대해서는 공개 기간을 45일로 설정합니다. 이는 취약점 해결을 신속하게 진행하기 위한 조치입니다. 새로운 일정은 즉시 시행됩니다.",
+      "summary": "우리의 취약점 공개 정책에서 고위험 및 중대한 문제의 공개 기간을 90일에서 30일로 단축합니다. 기타 문제에 대해서는 45일로 설정합니다.",
+      "summary_full": "우리의 협조적 취약점 공개(CVD) 정책에서 고위험 및 중대한 문제의 공개 기간을 90일에서 30일로 단축합니다. 모든 다른 문제에 대해서는 공개 기간을 45일로 설정합니다. 이러한 변경은 취약점 대응의 효율성을 높이기 위한 것입니다. 정책의 업데이트는 보안 커뮤니티와의 협력을 강화하는 데 기여할 것입니다.",
       "keywords": [
-        "취약점 공개",
-        "정책 업데이트",
-        "CVD"
+        "취약점",
+        "공개 정책",
+        "보안"
       ],
       "source": "Anthropic Research",
       "date": "11월 16일",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "ai",
       "title": "Hugging Face와 OpenRouter의 협력으로 오픈 가중치 모델 실행 용이해져",
-      "summary": "Hugging Face와 OpenRouter가 협력하여 오픈 가중치 모델을 쉽게 실행할 수 있도록 지원합니다. 이 협력은 개발자들이 모델을 보다 간편하게 활용할 수 있는 환경을 제공합니다.",
-      "summary_full": "Hugging Face와 OpenRouter가 협력하여 오픈 가중치 모델을 쉽게 실행할 수 있는 방법을 제공합니다. 이로 인해 개발자들은 복잡한 설정 없이도 모델을 활용할 수 있게 됩니다. 두 기업의 협력은 AI 모델의 접근성을 높이고, 사용자 경험을 향상시키는 데 기여할 것입니다. 앞으로도 이러한 협력이 계속되어 다양한 AI 솔루션이 발전할 것으로 기대됩니다.",
+      "summary": "Hugging Face와 OpenRouter가 협력하여 오픈 가중치 모델을 쉽게 실행할 수 있도록 지원한다. 이로 인해 개발자들은 더 간편하게 모델을 활용할 수 있게 된다.",
+      "summary_full": "Hugging Face와 OpenRouter가 협력하여 오픈 가중치 모델을 쉽게 실행할 수 있는 환경을 제공한다. 두 회사의 협업은 개발자들이 복잡한 설정 없이도 모델을 사용할 수 있도록 돕는다. 이러한 변화는 AI 모델의 접근성을 높이고, 다양한 응용 프로그램에서의 활용을 촉진할 것으로 기대된다. 결과적으로, 오픈 가중치 모델의 사용이 더욱 보편화될 전망이다.",
       "keywords": [
         "Hugging Face",
         "OpenRouter",
@@ -274,7 +448,7 @@
       "date": "11월 16일",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "url": "https://huggingface.co/blog/openrouter",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "ai",
@@ -883,22 +1057,6 @@
       "publishedAt": "2026-11-12T02:33:02.000Z",
       "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
       "collectedAt": "2026-11-12"
-    },
-    {
-      "category": "figma",
-      "title": "Figma의 3D 변환 효과",
-      "summary": "Figma의 새로운 3D 변환 기능을 통해 x, y, z 축을 따라 객체를 회전할 수 있습니다. 실시간 미리보기를 통해 3D 디자인을 쉽게 만들고 애니메이션 효과를 추가할 수 있습니다.",
-      "summary_full": "Figma의 3D 변환 기능을 사용하면 캔버스에서 직접 핸들을 조작하여 객체를 x, y, z 축으로 회전할 수 있습니다. 사용자는 3D 디자인을 처음부터 끝까지 만들거나 Figma 에이전트가 자동으로 구성하도록 할 수 있습니다. 깊이와 원근감을 조정하여 완전한 3D 장면을 구축한 후, Figma Motion과 결합하여 애니메이션 효과를 추가할 수 있습니다. 개발 모드에서 CSS를 복사하여 실제 구현에 활용할 수 있습니다.",
-      "keywords": [
-        "Figma",
-        "3D 변환",
-        "디자인 애니메이션"
-      ],
-      "source": "Figma Release Notes",
-      "date": "11월 12일",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-17"
     },
     {
       "category": "ai",
@@ -1928,7 +2086,7 @@
       "category": "ai",
       "title": "Le Chonk의 지능을 활용한 Mistral Studio",
       "summary": "Mistral Studio를 통해 기업 에이전트와 워크플로우, 앱을 더 빠르게 구축하고 배포할 수 있다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
-      "summary_full": "Mistral Studio는 기업의 에이전트와 워크플로우, 앱을 신속하게 구축하고 배포할 수 있는 도구이다. Le Chonk는 이러한 과정에서 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다. 이를 통해 기업은 효율성을 높이고 더 나은 결과를 도출할 수 있다. Le Chonk는 지능형 솔루션을 통해 비즈니스의 혁신을 이끌어낼 수 있는 기회를 제공한다.",
+      "summary_full": "Mistral Studio는 기업 에이전트, 워크플로우 및 앱을 신속하게 구축하고 배포할 수 있는 플랫폼이다. Le Chonk는 이 과정에서 지능적인 기능을 제공하여 사용자에게 모델과 데이터, 인프라에 대한 완전한 제어를 가능하게 한다. 이를 통해 기업은 효율성을 높이고 운영을 최적화할 수 있다. Mistral Studio와 Le Chonk의 결합은 혁신적인 비즈니스 솔루션을 제공한다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -1938,7 +2096,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "design",
@@ -4749,38 +4907,6 @@
       "collectedAt": "2026-10-19"
     },
     {
-      "category": "frontend",
-      "title": "AI 개발 도구: Cloudflare Workers Hono + D1 다중 테넌트 인증 보일러플레이트",
-      "summary": "Cloudflare Workers Hono와 D1 다중 테넌트 인증 보일러플레이트의 생산 환경에서의 확장성 문제를 다룬다. 구현 시 발생할 수 있는 병목 현상과 관련된 여러 문제를 설명한다.",
-      "summary_full": "이 기사는 Cloudflare Workers Hono와 D1 다중 테넌트 인증 보일러플레이트의 생산 환경에서의 확장성 문제를 다룬다. 특히, 버스트 동시성에서 발생하는 문제들, 예를 들어 소켓 파일 설명자의 고갈, 처리되지 않은 HTTP 429/503 응답으로 인한 재시도 폭풍, 느슨한 페이로드 검증으로 인한 하위 상태 손상 등을 설명한다. 이러한 문제를 해결하기 위한 아키텍처와 벤치마크, Python/Edge 구현 방법도 논의된다. 최적의 성능을 위해 필요한 접근 방식을 제안한다.",
-      "keywords": [
-        "Cloudflare Workers",
-        "다중 테넌트 인증",
-        "Python/Edge 구현"
-      ],
-      "source": "dev.to",
-      "date": "10월 18일",
-      "publishedAt": "2026-10-18T03:01:11.000Z",
-      "url": "https://dev.to/mr_pr0cess/ai-dev-tool-cloudflare-workers-hono-d1-multi-tenant-auth-boilerplate-architecture-benchmarks-942",
-      "collectedAt": "2026-10-18"
-    },
-    {
-      "category": "trend",
-      "title": "일관된 인쇄용 색칠 세트 만들기",
-      "summary": "색칠 페이지의 시각적 언어가 페이지마다 일관되면 더 쉽게 즐길 수 있다.",
-      "summary_full": "색칠 페이지는 페이지 간의 시각적 언어가 일관성을 유지할 때 더 즐겁게 사용할 수 있다. 이를 통해 사용자는 색칠하는 경험을 더욱 향상시킬 수 있다. 일관된 디자인 요소를 적용하여 색칠 세트를 구성하는 방법에 대해 설명한다.",
-      "keywords": [
-        "색칠 페이지",
-        "디자인 일관성",
-        "인쇄용 색칠 세트"
-      ],
-      "source": "dev.to",
-      "date": "10월 18일",
-      "publishedAt": "2026-10-18T02:00:00.000Z",
-      "url": "https://dev.to/taorobotics/how-to-make-a-consistent-printable-coloring-set-1clj",
-      "collectedAt": "2026-10-18"
-    },
-    {
       "category": "industry",
       "title": "온라인 쇼핑몰 옷 직접 입어보세요…지그재그, 성수서 오프라인 팝업",
       "summary": "지그재그가 서울 성수동에서 팝업스토어를 열어 소비자에게 온라인 상품을 직접 체험할 기회를 제공합니다. 입점 쇼핑몰은 자신의 스타일을 알리고 브랜드 성장을 지원받을 수 있습니다.",
@@ -4811,38 +4937,6 @@
       "publishedAt": "2026-10-17T21:05:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sc25UQkl4Vzd4SGVERzB0ZGN4cFdtMFJtdnVyNGdCVVZoR2d1QUxXaUx5ZXV0ZlpTRkh4cWVtQUR5dmo0RHhJQU1BNUkxRmJDTThNNFlCbEtTbEN4WUo1VzJGWko5aUp6?oc=5",
       "collectedAt": "2026-10-24"
-    },
-    {
-      "category": "industry",
-      "title": "에릭슨, 두 아시아 사업부 통합으로 매출 7% 증가",
-      "summary": "에릭슨의 조정된 EBITA는 3분기에 101억 스웨덴 크로나로, 예상치를 크게 웃돌았다. 주가는 스톡홀름에서 11% 상승하며 올해 최대 일일 상승폭을 기록했다.",
-      "summary_full": "에릭슨의 조정된 EBITA는 3분기에 101억 스웨덴 크로나로, 애널리스트들이 예상한 79억 크로나를 초과했다. 이로 인해 주가는 스톡홀름에서 11% 상승하며 올해 최대 일일 상승폭을 기록했다. 두 아시아 사업부의 통합이 매출 증가에 기여한 것으로 보인다. 블룸버그에 따르면, 이는 1월 23일 이후 가장 큰 상승폭이다.",
-      "keywords": [
-        "에릭슨",
-        "EBITA",
-        "아시아 사업부 통합"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 17일",
-      "publishedAt": "2026-10-17T20:17:59.000Z",
-      "url": "https://thenextweb.com/news/ericsson-q3-2026-narvinger-apac-restructure",
-      "collectedAt": "2026-10-18"
-    },
-    {
-      "category": "trend",
-      "title": "암호화가 사방에서 압박받고 있다",
-      "summary": "캐나다의 계획된 감시법은 전 세계적으로 확산되고 있는 암호화에 대한 위협의 최신 사례이다. 이는 암호화 기술에 대한 심각한 도전으로 여겨진다.",
-      "summary_full": "캐나다의 계획된 감시법은 암호화에 대한 위협이 전 세계적으로 확산되고 있는 가운데 나타난 최신 사례이다. 이러한 법안은 개인의 프라이버시와 보안을 침해할 수 있는 우려를 낳고 있다. 암호화 기술은 정보 보호의 중요한 수단으로 여겨지지만, 각국 정부의 감시 강화로 인해 그 사용이 제한될 위험이 커지고 있다. 따라서 암호화의 미래는 불확실해지고 있으며, 이에 대한 논의가 필요하다.",
-      "keywords": [
-        "암호화",
-        "감시법",
-        "프라이버시"
-      ],
-      "source": "wired.com",
-      "date": "10월 17일",
-      "publishedAt": "2026-10-17T12:00:00.000Z",
-      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
-      "collectedAt": "2026-10-18"
     },
     {
       "category": "ai",
@@ -4959,22 +5053,6 @@
       "collectedAt": "2026-10-21"
     },
     {
-      "category": "industry",
-      "title": "인간의 참여는 인간이 소외되지 않도록 하는 것",
-      "summary": "AI가 인간의 승인 없이도 작업을 진행할 수 있는 상황에서, 인간의 역할이 중요해진다. 결과에 대한 책임이 없는 경우, 단순히 인간이 참여하는 것만으로는 충분하지 않다.",
-      "summary_full": "AI가 인간의 승인 없이도 작업을 진행하는 현상에서, 인간의 참여가 더욱 중요해지고 있다. AI는 이제 요청이 없어도 행동하며, 승인된 범위를 넘어서는 경우가 많아졌다. 따라서 결과에 대한 책임이 명확하지 않다면, 단순히 인간이 참여하는 것만으로는 부족하다. 디자인 시 이러한 점을 고려해야 한다.",
-      "keywords": [
-        "AI",
-        "인간의 참여",
-        "디자인"
-      ],
-      "source": "uxdesign.cc",
-      "date": "10월 15일",
-      "publishedAt": "2026-10-15T22:09:29.000Z",
-      "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-18"
-    },
-    {
       "category": "ai",
       "title": "구글 안티그래비티를 활용한 항균 펩타이드 탐색 가속화",
       "summary": "구글 안티그래비티를 이용해 새로운 항균 펩타이드를 탐색하는 방법을 소개한다. 이 기술은 과학 연구에 혁신적인 변화를 가져올 수 있다.",
@@ -5024,25 +5102,9 @@
     },
     {
       "category": "ai",
-      "title": "워크데이와 Anthropic의 Claude AI 통합",
-      "summary": "워크데이가 Anthropic과 협력하여 Claude AI를 통합했다. 이 통합은 기업의 업무 효율성을 높이는 데 기여할 것으로 기대된다.",
-      "summary_full": "워크데이가 AI 기술을 활용하기 위해 Anthropic과 파트너십을 체결했다. Claude AI의 통합은 기업의 데이터 분석 및 의사결정 과정을 개선할 예정이다. 이를 통해 사용자들은 더 나은 업무 환경을 경험할 수 있을 것으로 보인다. 워크데이는 AI 솔루션을 통해 비즈니스 혁신을 추구하고 있다.",
-      "keywords": [
-        "워크데이",
-        "Anthropic",
-        "Claude AI"
-      ],
-      "source": "Google News Anthropic",
-      "date": "10월 13일",
-      "publishedAt": "2026-10-13T13:18:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MMjVkeldvWEJpY2ZwYW9FcUVuM1FoWlduc1kzUnFuRmZDRFBrUkl4Yl9uM2toRmotcTVTUll6QWxHZTRmb2ljYmpseExQRlRIa1ZlMTdoUVdsakVNSEFFemZGQTlfZC02eHhDQWZwdjY?oc=5",
-      "collectedAt": "2026-10-18"
-    },
-    {
-      "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 대규모 언어 모델(LLM)의 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 돕는다.",
-      "summary_full": "라이너는 최근 대규모 언어 모델(LLM)의 운영 비용을 절반으로 줄일 수 있는 AI 솔루션을 출시했다. 이 혁신적인 솔루션은 기업들이 AI 기술을 보다 경제적으로 활용할 수 있게 하며, 비용 절감과 성능 향상을 동시에 이룰 수 있도록 설계되었다. 라이너는 이를 통해 AI 도입을 원하는 기업들에게 큰 도움이 될 것으로 기대하고 있다. 새로운 솔루션은 다양한 산업 분야에서 활용될 수 있을 것으로 보인다.",
+      "summary": "라이너가 LLM 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업의 AI 운영 비용을 획기적으로 낮출 것으로 기대된다.",
+      "summary_full": "라이너는 최근 LLM 비용을 절반으로 줄이는 혁신적인 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 지원하며, 운영 비용 절감에 큰 기여를 할 것으로 보인다. 특히, AI 기술의 확산과 활용이 증가하는 가운데, 비용 절감은 기업들에게 중요한 요소로 작용할 것이다. 라이너의 새로운 솔루션은 이러한 필요를 충족시키는 데 중점을 두고 개발되었다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -5052,7 +5114,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "frontend",
@@ -5073,8 +5135,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드에 대해 다룬다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 극대화하기 위해 다양한 혁신적인 요소를 도입하고 있다. 이러한 트렌드는 시각적 요소뿐만 아니라 기능적 측면에서도 변화하고 있다. 특히, 사용자 중심의 디자인이 강조되며, 인터랙션의 직관성을 높이는 방향으로 발전하고 있다. 이와 같은 변화는 디지털 제품의 경쟁력을 높이는 데 중요한 역할을 할 것이다.",
+      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 소개되고 있다. 이러한 변화는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함한다.",
+      "summary_full": "디자이너들이 새로운 UX/UI 트렌드에 주목하고 있다. 이 트렌드는 사용자 경험을 개선하기 위해 혁신적인 디자인 요소와 기술을 통합하고 있다. 특히, 직관적인 인터페이스와 접근성을 강조하는 경향이 두드러진다. 이러한 변화는 사용자와의 상호작용을 더욱 원활하게 만들어준다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -5084,23 +5146,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위한 교육 방법을 계승했다. 1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 현재 언어 학습 앱의 디자인을 이해하는 데 더 큰 도움이 된다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 미친 영향을 탐구하는 것이 중요하다. 결국, 과거의 교수법이 현대의 언어 학습 방식에 어떻게 영향을 미쳤는지를 이해하는 것이 더 큰 통찰을 제공한다.",
       "keywords": [
         "언어 앱",
         "라틴어",
-        "교육 방법"
+        "디자인 교훈"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-17"
+      "collectedAt": "2026-11-18"
     }
   ]
 }
