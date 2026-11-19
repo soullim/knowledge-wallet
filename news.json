@@ -1,54 +1,216 @@
 {
-  "updated": "2026년 11월 18일 AM 05:57",
-  "count": 322,
+  "updated": "2026년 11월 19일 AM 05:58",
+  "count": 324,
   "articles": [
     {
       "category": "industry",
       "title": "이사떡 캠페인 제작기",
-      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위해 이사떡 캠페인을 기획했다. 이 캠페인은 이사 후 새로운 이웃과의 관계를 형성하는 데 중점을 두고 있다.",
-      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 이사떡 캠페인을 제작했다. 이 캠페인은 이사 후 새로운 이웃과의 관계를 형성하는 것을 목표로 한다. 이사떡은 전통적인 한국의 인사 문화에 기반하여, 이웃에게 따뜻한 마음을 전하는 매개체로 활용된다. 캠페인의 제작 과정과 의도에 대한 이야기를 담고 있다.",
+      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위해 이사떡 캠페인을 디자인했다. 이 캠페인은 이사 후 이웃과의 관계를 더욱 돈독히 하기 위한 아이디어로 시작되었다.",
+      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 '이사떡 캠페인'을 제작하였다. 이 캠페인은 이사 후 이웃과의 관계를 강화하고자 하는 의도로 기획되었다. 이사떡은 이웃에게 따뜻한 마음을 전하는 상징적인 아이템으로 활용된다. 캠페인의 제작 과정과 아이디어에 대한 이야기를 담고 있다.",
       "keywords": [
         "이사떡",
         "캠페인",
-        "이웃"
+        "이웃관계"
       ],
       "source": "오늘의집 Culture",
-      "date": "11월 18일",
-      "publishedAt": "2026-11-18T05:56:21.806Z",
+      "date": "11월 19일",
+      "publishedAt": "2026-11-19T05:56:53.917Z",
       "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "design",
       "title": "데일리 프롬프트 전체",
-      "summary": "데일리 프롬프트는 매일 제공되는 창의적인 글쓰기 주제입니다. 이를 통해 작가들은 다양한 아이디어를 탐색하고 글쓰기 능력을 향상시킬 수 있습니다.",
-      "summary_full": "데일리 프롬프트는 작가들에게 매일 새로운 글쓰기 주제를 제공하여 창의력을 자극합니다. 이 프롬프트는 다양한 장르와 스타일을 포함하여 작가들이 자신의 목소리를 찾는 데 도움을 줍니다. 또한, 정기적인 글쓰기 연습을 통해 기술을 발전시키고 자신감을 높일 수 있습니다. 이러한 프롬프트는 개인적인 성장뿐만 아니라 작가 커뮤니티와의 연결을 촉진합니다.",
+      "summary": "데일리 프롬프트의 모든 내용을 다룹니다. 다양한 주제와 아이디어를 제공합니다.",
+      "summary_full": "이 문서는 데일리 프롬프트의 전체 내용을 포괄적으로 설명합니다. 각 프롬프트는 창의력을 자극하고 글쓰기 연습에 도움을 줄 수 있는 주제를 포함하고 있습니다. 독자들은 이를 통해 새로운 아이디어를 얻고, 글쓰기 능력을 향상시킬 수 있습니다. 다양한 주제와 형식이 있어 누구나 쉽게 접근할 수 있습니다.",
       "keywords": [
-        "글쓰기",
-        "창의성",
-        "프롬프트"
+        "프롬프트",
+        "창의력",
+        "글쓰기"
       ],
       "source": "Secondbrush Blog",
-      "date": "11월 18일",
-      "publishedAt": "2026-11-18T05:56:16.126Z",
+      "date": "11월 19일",
+      "publishedAt": "2026-11-19T05:56:49.302Z",
       "url": "https://blog.secondbrush.co.kr/tag/daily-prompt/",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "design",
       "title": "일라이 릴리, 칼리트릭스 인수 합의",
-      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료 분야에서의 입지를 강화하기 위한 전략으로 보인다.",
-      "summary_full": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 일라이 릴리가 혈액암 치료 분야에서의 경쟁력을 높이기 위한 중요한 단계로 평가된다. 칼리트릭스는 혁신적인 치료법을 개발하고 있어, 이번 합병이 향후 치료 옵션에 긍정적인 영향을 미칠 것으로 기대된다. 인수 완료 후, 일라이 릴리는 칼리트릭스의 연구개발 역량을 활용하여 새로운 치료제를 시장에 출시할 계획이다.",
+      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료 분야에서의 연구 및 개발을 강화하기 위한 전략으로 해석된다.",
+      "summary_full": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 혈액암 치료에 대한 혁신적인 접근을 가능하게 할 것으로 기대된다. 칼리트릭스는 CALR 변이를 타겟으로 하는 치료제를 개발 중이다. 이번 거래는 일라이 릴리의 혈액암 치료 포트폴리오를 확장하는 중요한 기회가 될 것이다.",
       "keywords": [
         "일라이 릴리",
         "칼리트릭스",
-        "혈액암"
+        "혈액암",
+        "CALR 변이",
+        "인수 합의"
       ],
       "source": "TMSS 매거진",
-      "date": "11월 18일",
-      "publishedAt": "2026-11-18T05:56:09.732Z",
+      "date": "11월 19일",
+      "publishedAt": "2026-11-19T05:56:44.237Z",
       "url": "https://tmssmag.com/article/lilly-calytrix-bio-acquisition-mcalr-15-billion",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "frontend",
+      "title": "다운타임 없이 모놀리식에서 모듈 페더레이션으로 마이그레이션하기",
+      "summary": "모듈 페더레이션을 통해 모놀리식 프론트엔드를 독립적으로 배포 가능한 마이크로 프론트엔드로 분할할 수 있다. 이 과정에서 대규모 재작성 없이 진행할 수 있는 방법을 제시한다.",
+      "summary_full": "모듈 페더레이션은 모놀리식 프론트엔드를 독립적으로 배포 가능한 마이크로 프론트엔드로 나누는 방법이다. 하지만 마이그레이션 과정은 쉽지 않다. 이 글에서는 대규모 재작성 없이 마이그레이션을 진행할 수 있는 경로를 제시한다. 첫 번째 단계로는 레이아웃과 라우터를 포함한 셸을 별도의 웹팩 빌드로 추출하는 것이 있다.",
+      "keywords": [
+        "모듈 페더레이션",
+        "마이그레이션",
+        "프론트엔드"
+      ],
+      "source": "dev.to",
+      "date": "11월 19일",
+      "publishedAt": "2026-11-19T05:55:38.000Z",
+      "url": "https://dev.to/desgh_white_7e4c654897816/migrating-a-monolith-to-module-federation-without-downtime-j16",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "trend",
+      "title": "데이터 중심 대시보드를 위한 접근 가능한 색상 시스템 구축",
+      "summary": "데이터 대시보드는 의미를 부여하기 위해 색상을 많이 사용하지만, 8%의 남성이 색각 이상을 가지고 있어 순수한 빨강-초록 색상 조합은 그들에게 보이지 않는다.",
+      "summary_full": "대시보드는 색상을 통해 정보를 전달하지만, 색각 이상을 가진 사용자에게는 이러한 색상이 인식되지 않는다. 따라서 색상 선택 시 명도(luminance)를 고려해야 한다. 서로 다른 의미를 가진 두 색상이 동일한 명도를 가질 경우, 그들은 회색조에서 구별할 수 없다. 접근 가능한 색상 시스템 구축이 필요하다.",
+      "keywords": [
+        "접근성",
+        "색상 시스템",
+        "데이터 대시보드"
+      ],
+      "source": "dev.to",
+      "date": "11월 19일",
+      "publishedAt": "2026-11-19T05:51:28.000Z",
+      "url": "https://dev.to/desgh_white_7e4c654897816/building-an-accessible-colour-system-for-data-heavy-dashboards-3o1",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "ai",
+      "title": "앤트로픽, 클로드로 마이크로소프트와 구글과 경쟁",
+      "summary": "앤트로픽이 클로드를 통해 마이크로소프트와 구글과의 경쟁에 나섰습니다. 이는 AI 시장에서의 새로운 경쟁 구도를 형성하고 있습니다.",
+      "summary_full": "앤트로픽이 자사의 AI 모델인 클로드를 마이크로소프트와 구글의 경쟁자로 내세웠습니다. 이로 인해 AI 기술 개발 및 서비스 제공에 있어 새로운 경쟁이 촉발되고 있습니다. 클로드는 사용자에게 더 나은 경험을 제공하기 위한 다양한 기능을 갖추고 있습니다. 이러한 경쟁은 AI 시장의 발전을 가속화할 것으로 기대됩니다.",
+      "keywords": [
+        "앤트로픽",
+        "클로드",
+        "AI 경쟁"
+      ],
+      "source": "Google News Anthropic",
+      "date": "11월 19일",
+      "publishedAt": "2026-11-19T04:38:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUY0RHI5NVVzNWtnY0VPandUWnByWHJoS2FqYUhHa1daUDF1NGNCOG13bkdtVFVNUElCVUJ2Ykl3bWNIX0hCZzVnMmZ0R3lLOXZkdXFVY0g0Sjh2bHItS0o2ZGF6YUNTdXU1QjB2SDhBQzhKV3NpUi1EY2dfUmpKblZMUWtFQUNkRElhUV9kOU8?oc=5",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "industry",
+      "title": "로봇에게도 ‘학교’가 필요하다",
+      "summary": "마음AI는 로봇 학습 데이터의 통일성을 위해 피지컬AI 데이터팩토리를 열었다. 이를 통해 로봇들이 서로의 경험을 공유하고 배울 수 있는 환경을 조성하고자 한다.",
+      "summary_full": "마음AI는 로봇에게도 교육이 필요하다고 생각하여 피지컬AI 데이터팩토리를 설립했다. 이 데이터팩토리는 로봇들이 쌓은 경험을 다른 로봇이 활용할 수 있도록 데이터 기록 방식을 통일하는 데 중점을 두고 있다. 이를 통해 로봇들이 보다 효과적으로 학습하고 성장할 수 있는 기반을 마련하고자 한다. 마음AI는 피지컬AI 데이터 협력의 중심에 서며 로봇 학습의 혁신을 추구하고 있다.",
+      "keywords": [
+        "로봇",
+        "피지컬AI",
+        "마음AI"
+      ],
+      "source": "바이라인네트워크",
+      "date": "11월 19일",
+      "publishedAt": "2026-11-19T02:25:01.000Z",
+      "url": "https://byline.network/2026/11/8934802984092834023/",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "trend",
+      "title": "내가 직접 테스트한 최고의 블랙 프라이데이 노트북 할인",
+      "summary": "블랙 프라이데이를 앞두고 내가 가장 좋아하는 노트북의 할인 소식이 전해졌다. 올해의 최고의 노트북 할인 중 일부가 이미 시작되었다.",
+      "summary_full": "블랙 프라이데이를 맞아 내가 직접 테스트한 노트북의 할인 정보가 공개되었다. 여러 인기 모델들이 큰 폭으로 할인되고 있어 소비자들에게 좋은 기회가 될 것이다. 특히, 올해의 베스트 노트북들이 포함되어 있어 더욱 주목받고 있다. 이 기회를 통해 원하는 노트북을 저렴하게 구매할 수 있을 것으로 기대된다.",
+      "keywords": [
+        "블랙 프라이데이",
+        "노트북 할인",
+        "테스트"
+      ],
+      "source": "wired.com",
+      "date": "11월 19일",
+      "publishedAt": "2026-11-19T00:23:15.000Z",
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "industry",
+      "title": "인텔리프루브, 로봇용 얼굴 스캔 건강 체크에 2.7백만 유로 투자 유치",
+      "summary": "벨기에 헬스테크 스타트업 인텔리프루브가 카메라 기반 건강 스캔 기술을 휴머노이드 로봇으로 확장하기 위해 2.7백만 유로의 시드 펀딩을 받았다. 이 투자 라운드는 Miles Ahead가 주도했으며, 여러 투자자들이 참여했다.",
+      "summary_full": "벨기에 헬스테크 스타트업 인텔리프루브가 카메라 기반 건강 스캔 기술을 휴머노이드 로봇으로 확장하기 위해 2.7백만 유로의 시드 펀딩을 받았다. 이 투자 라운드는 Miles Ahead가 주도했으며, 홈 간호 조직인 Wit-Gele Kruis와 imec.istart 펀드, 여러 비즈니스 엔젤들이 참여했다. 인텔리프루브의 소프트웨어는 심박수와 심박수 변동성(HRV)을 읽는 기능을 갖추고 있다. 이 기술은 가상 진료 앱에서 로봇으로의 전환을 목표로 하고 있다.",
+      "keywords": [
+        "인텔리프루브",
+        "헬스테크",
+        "로봇"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T23:01:57.000Z",
+      "url": "https://thenextweb.com/news/intelliprove-2-7m-seed-face-scan-humanoid-robots",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "industry",
+      "title": "AI가 어디서든 작동한다면, 왜 우리는 출근해 이를 지켜보는가?",
+      "summary": "기업들은 협업을 강조하지만, 현실은 혼자서 헤드폰을 끼고 일을 하는 모습이다. 이는 집에서도 할 수 있는 일이다.",
+      "summary_full": "기업들은 협업을 주장하지만, 실제로는 사람들이 각자 헤드폰을 쓰고 혼자 작업하는 상황이다. 이는 집에서 할 수 있는 일임에도 불구하고 출근하는 이유를 의문스럽게 만든다. Alexa von Tobel이 LinkedIn에 올린 글에서 이와 관련된 솔직한 질문을 던졌다. 그녀는 단 한 번도 피칭을 받지 못했다고 언급했다.",
+      "keywords": [
+        "AI",
+        "협업",
+        "출근"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T20:17:39.000Z",
+      "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "ai",
+      "title": "DaisyRose-27B: 훈련 후 효율성의 한계를 넘다",
+      "summary": "DaisyRose-27B는 훈련 후 효율성을 극대화하는 혁신적인 모델이다. 이 모델은 최신 기술을 활용하여 성능을 향상시키고 있다.",
+      "summary_full": "DaisyRose-27B는 훈련 후 효율성을 극대화하기 위해 설계된 최첨단 모델이다. 이 모델은 다양한 작업에서 뛰어난 성능을 발휘하며, 최신 기술을 통해 훈련 후의 자원 소모를 최소화한다. 또한, DaisyRose-27B는 다양한 산업 분야에 적용 가능하여 실용성을 높이고 있다. 이러한 혁신은 AI 기술의 발전에 기여하고 있다.",
+      "keywords": [
+        "DaisyRose-27B",
+        "훈련 후 효율성",
+        "AI 기술"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T19:54:56.000Z",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "frontend",
+      "title": "모든 것이 변했을 때, 우리는 다음에 무엇을 해야 할까?",
+      "summary": "올해는 많은 변화가 있었고, 그로 인해 우리 산업도 큰 영향을 받았다. 우리는 앞으로 나아가기 위해 새로운 방향을 모색해야 한다.",
+      "summary_full": "올해는 많은 변화가 있었고, 그로 인해 우리 산업도 큰 영향을 받았다. 특히, 피로와 스트레스를 나타내는 이모지가 많이 사용되었다. 이러한 상황에서 우리는 앞으로 나아가기 위해 새로운 방향을 모색해야 한다. CSS-Tricks에서 사랑을 담아 손으로 쓴 글이다.",
+      "keywords": [
+        "변화",
+        "산업",
+        "미래 방향"
+      ],
+      "source": "css-tricks.com",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T14:55:21.000Z",
+      "url": "https://css-tricks.com/when-everything-has-changed/",
+      "collectedAt": "2026-11-19"
+    },
+    {
+      "category": "ai",
+      "title": "침묵의 합의",
+      "summary": "딘 볼은 더 강력한 AI가 사회를 어떻게 변화시킬 수 있는지를 탐구한다. 그는 사람들이 자신의 기관에 대한 통제를 유지할 수 있는 방법을 제시한다.",
+      "summary_full": "딘 볼은 OpenAI의 전략적 미래 책임자로서 더 능력 있는 AI가 사회에 미치는 영향을 분석한다. 그는 AI의 발전이 인간의 통제력을 어떻게 위협할 수 있는지를 논의한다. 또한, 사람들이 이러한 변화 속에서도 자신의 기관을 어떻게 지킬 수 있는지를 제안한다. 이 과정에서 AI와 인간의 관계에 대한 새로운 시각을 제공한다.",
+      "keywords": [
+        "AI",
+        "사회변화",
+        "통제력"
+      ],
+      "source": "OpenAI News",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T10:00:00.000Z",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "frontend",
@@ -113,6 +275,22 @@
       "publishedAt": "2026-11-18T03:00:59.000Z",
       "url": "https://byline.network/2026/11/18-646/",
       "collectedAt": "2026-11-18"
+    },
+    {
+      "category": "figma",
+      "title": "더 빠른 이미지 선택을 위한 다중 옵션 생성",
+      "summary": "Figma의 이미지 생성 및 편집 기능을 활용하여 여러 이미지를 동시에 생성할 수 있다. 이를 통해 재프롬프트에 소요되는 시간을 줄일 수 있다.",
+      "summary_full": "Figma에서 이미지 생성 또는 편집 기능을 사용할 때 여러 옵션을 생성하여 더 빠르게 올바른 이미지를 선택할 수 있다. 하나의 이미지 모델이 하나의 프롬프트로 두 개, 네 개 또는 여섯 개의 이미지를 생성할 수 있어, 재프롬프트에 소요되는 시간을 줄이는 데 도움이 된다. 이 방법은 디자인 작업의 효율성을 높이고, 다양한 선택지를 제공하여 최적의 결과를 도출할 수 있게 한다.",
+      "keywords": [
+        "Figma",
+        "이미지 생성",
+        "디자인 효율성"
+      ],
+      "source": "Figma Release Notes",
+      "date": "11월 18일",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "url": "https://www.figma.com/release-notes/",
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "industry",
@@ -181,8 +359,8 @@
     {
       "category": "design",
       "title": "AI 2027 컨퍼런스 소개",
-      "summary": "AI가 디자인과 구축 방식을 변화시키고 있으며, 이는 계속될 것입니다. 2026년 12월 1일, SmashingConf가 AI 2027 컨퍼런스를 개최하여 AI의 현재와 2027년의 전망을 논의합니다.",
-      "summary_full": "AI는 디자인과 구축 방식을 변화시키고 있으며, 이는 계속될 것입니다. 2026년 12월 1일, SmashingConf가 AI 2027 컨퍼런스를 개최하여 AI의 현재 상황과 2027년의 기대를 논의합니다. UX 디자이너와 디자인 시스템 엔지니어로서 AI가 작업 흐름을 어떻게 향상시킬 수 있는지 배울 필요가 있습니다. AI의 성숙함에 따라 팀들이 올바른 방향으로 나아가고 있는 사례도 살펴볼 것입니다.",
+      "summary": "AI가 디자인과 구축 방식을 변화시키고 있으며, 이는 계속될 것입니다. 2026년 12월 1일, SmashingConf는 AI의 현재와 2027년의 전망을 논의하는 온라인 반일 행사인 AI 2027 컨퍼런스를 개최합니다.",
+      "summary_full": "AI는 디자인과 구축 방식을 혁신하고 있으며, 그 속도는 멈추지 않고 있습니다. 2026년 12월 1일, SmashingConf는 AI 2027 컨퍼런스를 통해 AI의 현재 상태와 2027년의 기대 사항을 논의하는 온라인 반일 행사를 개최합니다. AI가 성숙해짐에 따라 UX 디자이너와 디자인 시스템 엔지니어로서 AI가 작업 흐름을 어떻게 향상시킬 수 있는지를 배우는 것이 중요합니다. 이 행사에서는 AI를 효과적으로 활용하는 팀들의 사례도 소개될 예정입니다.",
       "keywords": [
         "AI",
         "디자인",
@@ -192,23 +370,23 @@
       "date": "11월 17일",
       "publishedAt": "2026-11-17T12:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "frontend",
       "title": "New20 타임라인 허브 만들기",
-      "summary": "지표 변화의 배경을 이해하기 위해 New20 Timeline Hub를 소개합니다. 이 허브는 다양한 기록을 하나의 시간축으로 연결하여 분석가들이 상황을 쉽게 파악할 수 있도록 돕습니다.",
-      "summary_full": "대시보드에서 지표의 변화를 발견하면, 그 이유를 찾기 위해 여러 기록을 조사해야 합니다. New20 Timeline Hub는 이러한 기록들을 하나의 시간축으로 통합하여, 분석가들이 제품의 변화와 관련된 사건들을 한눈에 확인할 수 있도록 합니다. 이를 통해 실험, 정책 변화 등 다양한 요소가 지표에 미친 영향을 쉽게 이해할 수 있습니다. 이 글에서는 New20의 맥락을 시각적으로 정리한 방법을 설명합니다.",
+      "summary": "지표 변화의 배경을 이해하기 위해 New20 Timeline Hub를 소개합니다. 이 허브는 관련 기록을 하나의 시간축으로 연결하여 분석가들이 상황을 쉽게 파악할 수 있도록 돕습니다.",
+      "summary_full": "대시보드에서 지표 변화의 원인을 찾기 위해 분석가들은 다양한 기록을 검색해야 합니다. New20 Timeline Hub는 이러한 기록을 통합하여 한눈에 볼 수 있는 시간축을 제공합니다. 이를 통해 제품의 변화, 실험 시작, 정책 변경 등을 쉽게 확인할 수 있습니다. 이 글에서는 New20의 맥락을 이해하기 위한 허브의 구축 과정을 설명합니다.",
       "keywords": [
-        "지표분석",
-        "타임라인",
-        "데이터시각화"
+        "지표 변화",
+        "타임라인 허브",
+        "데이터 분석"
       ],
       "source": "toss.tech",
       "date": "11월 17일",
       "publishedAt": "2026-11-17T09:39:00.000Z",
       "url": "https://toss.tech/article/new20-timeline-hub",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "trend",
@@ -275,20 +453,20 @@
       "collectedAt": "2026-11-17"
     },
     {
-      "category": "figma",
-      "title": "관리자는 승인된 OAuth 앱의 허용 목록을 사용할 수 있습니다.",
-      "summary": "관리자는 팀에서 사용할 수 있는 앱을 관리하기 위해 승인된 OAuth 앱의 허용 목록을 사용할 수 있습니다. 새로운 확장 탭에서 앱 요청을 검토하고 승인된 앱을 관리할 수 있습니다.",
-      "summary_full": "관리자는 팀에서 사용할 수 있는 앱을 관리하기 위해 승인된 OAuth 앱의 허용 목록을 사용할 수 있습니다. 이 목록에는 Cursor와 Claude Code와 같은 MCP 클라이언트가 포함됩니다. 관리자는 새로운 확장 탭에서 앱 요청을 검토하고 승인된 앱을 관리할 수 있습니다. 이 기능은 조직 및 기업 플랜에 대해 곧 출시될 예정입니다.",
+      "category": "ai",
+      "title": "클로드, 블랙홀 물리학의 두 가지 미해결 문제 해결",
+      "summary": "클로드가 이론 물리학에서 두 가지 미해결 문제를 해결했다. 두 문제 모두 블랙홀과 양자 중력 이론의 탐색과 관련이 있다.",
+      "summary_full": "클로드가 이론 물리학에서 블랙홀과 관련된 두 가지 미해결 문제를 해결했다. 이 문제들은 양자 중력 이론의 탐색에 중요한 역할을 한다. 블랙홀의 물리학은 여전히 많은 질문을 남기고 있으며, 클로드의 발견은 이 분야에 큰 기여를 할 것으로 기대된다. 이러한 연구는 우주에 대한 우리의 이해를 더욱 깊게 할 수 있다.",
       "keywords": [
-        "OAuth",
-        "앱 관리",
-        "허용 목록"
+        "블랙홀",
+        "양자 중력",
+        "이론 물리학"
       ],
-      "source": "Figma Release Notes",
+      "source": "Anthropic Research",
       "date": "11월 17일",
       "publishedAt": "2026-11-17T00:00:00.000Z",
-      "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-18"
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "industry",
@@ -2085,8 +2263,8 @@
     {
       "category": "ai",
       "title": "Le Chonk의 지능을 활용한 Mistral Studio",
-      "summary": "Mistral Studio를 통해 기업 에이전트와 워크플로우, 앱을 더 빠르게 구축하고 배포할 수 있다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
-      "summary_full": "Mistral Studio는 기업 에이전트, 워크플로우 및 앱을 신속하게 구축하고 배포할 수 있는 플랫폼이다. Le Chonk는 이 과정에서 지능적인 기능을 제공하여 사용자에게 모델과 데이터, 인프라에 대한 완전한 제어를 가능하게 한다. 이를 통해 기업은 효율성을 높이고 운영을 최적화할 수 있다. Mistral Studio와 Le Chonk의 결합은 혁신적인 비즈니스 솔루션을 제공한다.",
+      "summary": "Mistral Studio를 통해 기업 에이전트, 워크플로우 및 앱을 더 빠르게 구축하고 배포할 수 있습니다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다.",
+      "summary_full": "Mistral Studio는 기업 에이전트와 워크플로우, 앱을 신속하게 구축하고 배포하는 데 도움을 줍니다. Le Chonk는 이러한 과정에서 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다. 이를 통해 기업은 효율성을 극대화하고 혁신을 촉진할 수 있습니다. Mistral Studio와 Le Chonk의 결합은 기업의 디지털 전환을 가속화하는 데 기여합니다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -2096,7 +2274,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "design",
@@ -4795,54 +4973,6 @@
       "collectedAt": "2026-10-20"
     },
     {
-      "category": "design",
-      "title": "한국은 AI 사용률 세계 12위, 1위는 어디일까?",
-      "summary": "한국은 AI 사용률에서 세계 12위를 기록하고 있다. 1위 국가에 대한 궁금증이 제기된다.",
-      "summary_full": "한국은 AI 사용률에서 세계 12위를 차지하며, 이는 글로벌 AI 기술의 확산을 보여준다. AI 기술의 발전과 활용이 빠르게 이루어지고 있는 가운데, 1위 국가가 어디인지에 대한 관심이 높아지고 있다. 각국의 AI 사용 현황과 그 배경을 살펴보는 것이 중요하다. AI 기술의 경쟁력이 국가 발전에 미치는 영향도 주목할 필요가 있다.",
-      "keywords": [
-        "AI 사용률",
-        "세계 순위",
-        "기술 발전"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "10월 19일",
-      "publishedAt": "2026-10-19T03:18:16.016Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-855/",
-      "collectedAt": "2026-10-19"
-    },
-    {
-      "category": "frontend",
-      "title": "백엔드 없이 React에서 JWT 인증 및 무인 토큰 갱신 테스트하기",
-      "summary": "React 앱에서 JWT 토큰 갱신 루프를 디버깅하는 방법을 다룬다.",
-      "summary_full": "이 글에서는 React 앱에서 JWT 인증과 무인 토큰 갱신을 테스트하는 방법을 설명한다. 특히 액세스 토큰이 15분 후 만료될 때의 상황을 어떻게 처리할 수 있는지에 대한 고민을 공유한다. 로그인 모달과 사용자 대시보드는 완성되었지만, 실제 보안 메커니즘을 테스트하는 데 어려움을 겪었다. 이 과정을 통해 개발자들이 겪는 일반적인 문제를 해결하는 방법을 제시한다.",
-      "keywords": [
-        "JWT",
-        "React",
-        "토큰 갱신"
-      ],
-      "source": "dev.to",
-      "date": "10월 19일",
-      "publishedAt": "2026-10-19T03:15:00.000Z",
-      "url": "https://dev.to/nileslabs/how-to-test-jwt-authentication-and-silent-token-refresh-in-react-without-a-backend-3ecp",
-      "collectedAt": "2026-10-19"
-    },
-    {
-      "category": "trend",
-      "title": "투링 렌더: 회색 대체재에서 MaterialX 유약, 금색 및 맞춤형 스튜디오 조명으로",
-      "summary": "투링 RT 렌더링의 실제 사례로 MaterialX 티팟과 사자의 재질을 보여준다. 거친 메시를 사용하여 검은 테두리 없이 렌더링을 구현한다.",
-      "summary_full": "투링 RT 렌더링의 실제 사례를 통해 MaterialX를 활용한 티팟과 사자의 재질을 소개한다. 이 렌더링은 거친 메시를 사용하여 검은 테두리 없이 구현되었다. 이를 통해 고급스러운 재질 표현과 조명 효과를 강조한다. 이러한 기술은 3D 렌더링의 품질을 한층 높이는 데 기여한다.",
-      "keywords": [
-        "투링 렌더",
-        "MaterialX",
-        "3D 렌더링"
-      ],
-      "source": "dev.to",
-      "date": "10월 19일",
-      "publishedAt": "2026-10-19T03:07:32.000Z",
-      "url": "https://dev.to/alphanine/turing-render-from-grey-fallbacks-to-materialx-glaze-gold-and-fitted-studio-light-n9f",
-      "collectedAt": "2026-10-19"
-    },
-    {
       "category": "ai",
       "title": "TorchNeuron: AWS Trainium에서 HF 모델 실행하기",
       "summary": "TorchNeuron을 사용하면 AWS Trainium에서 Hugging Face 모델을 쉽게 실행할 수 있다. 이로 인해 모델 배포와 성능 최적화가 간편해진다.",
@@ -4859,70 +4989,6 @@
       "collectedAt": "2026-10-20"
     },
     {
-      "category": "industry",
-      "title": "AI로 브랜드 기초 구축하기",
-      "summary": "AI를 활용하여 디자인 시스템을 구축하는 방법을 소개합니다. 개발자와 클라이언트 모두가 존중할 수 있는 시스템을 만드는 것이 핵심입니다.",
-      "summary_full": "AI 도구인 Claude를 사용하여 디자인 시스템을 구축하는 방법을 설명합니다. 이 과정에서 몇 가지 가이드라인을 설정하여 개발자와 클라이언트가 모두 만족할 수 있는 결과를 도출할 수 있습니다. 브랜드의 정체성을 유지하면서도 효율적인 시스템을 만드는 것이 중요합니다. 이를 통해 클라이언트가 실제로 배포할 수 있는 디자인을 완성할 수 있습니다.",
-      "keywords": [
-        "AI",
-        "디자인 시스템",
-        "브랜드 구축"
-      ],
-      "source": "uxdesign.cc",
-      "date": "10월 18일",
-      "publishedAt": "2026-10-18T19:06:49.000Z",
-      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-19"
-    },
-    {
-      "category": "industry",
-      "title": "마이크로소프트, Nscale의 영국 데이터 센터 계약 중단",
-      "summary": "마이크로소프트가 Nscale의 첫 영국 데이터 센터 계약을 철회했다. 이는 AI 클라우드 스타트업이 상장 준비를 하는 시점에 발생했다.",
-      "summary_full": "마이크로소프트가 Nscale의 첫 영국 데이터 센터 계약을 중단한 것으로 보도됐다. 이 결정은 AI 클라우드 스타트업이 상장 준비를 하는 과정에서 이루어졌다. 해당 데이터 센터는 여러 차례 지연을 겪었으며, 마이크로소프트가 계약을 철회한 이유는 알려지지 않았다. 이 소식은 텔레그래프를 통해 전해졌다.",
-      "keywords": [
-        "마이크로소프트",
-        "Nscale",
-        "데이터 센터"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 18일",
-      "publishedAt": "2026-10-18T12:02:57.000Z",
-      "url": "https://thenextweb.com/news/microsoft-pulls-out-nscale-loughton-data-centre-ipo",
-      "collectedAt": "2026-10-19"
-    },
-    {
-      "category": "trend",
-      "title": "남성을 위한 최고의 20가지 선물",
-      "summary": "남성에게 적합한 선물을 찾고 있다면 이 리스트가 도움이 될 것입니다. 다양한 남성적인 아이템을 소개합니다.",
-      "summary_full": "이 글에서는 남성을 위한 최고의 선물 20가지를 소개합니다. 각 아이템은 남성의 취향과 필요를 고려하여 선정되었습니다. 남성적인 매력을 강조할 수 있는 선물들이 포함되어 있습니다. 특별한 사람을 위한 완벽한 선택이 될 것입니다.",
-      "keywords": [
-        "선물",
-        "남성",
-        "남성적인 아이템"
-      ],
-      "source": "wired.com",
-      "date": "10월 18일",
-      "publishedAt": "2026-10-18T11:01:00.000Z",
-      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
-      "collectedAt": "2026-10-19"
-    },
-    {
-      "category": "industry",
-      "title": "온라인 쇼핑몰 옷 직접 입어보세요…지그재그, 성수서 오프라인 팝업",
-      "summary": "지그재그가 서울 성수동에서 팝업스토어를 열어 소비자에게 온라인 상품을 직접 체험할 기회를 제공합니다. 입점 쇼핑몰은 자신의 스타일을 알리고 브랜드 성장을 지원받을 수 있습니다.",
-      "summary_full": "지그재그는 16일부터 3일간 서울 성수동에서 팝업스토어 '지그재그 익스프레스'를 운영합니다. 소비자들은 온라인에서만 보던 상품을 직접 입어보고 구매할 수 있는 기회를 가집니다. 입점 쇼핑몰들은 자체 제작 상품과 스타일을 홍보할 수 있으며, 독자적인 브랜드로 성장할 수 있도록 지원받습니다. 이는 오프라인 고객 접점을 확대하려는 지그재그의 전략입니다.",
-      "keywords": [
-        "지그재그",
-        "팝업스토어",
-        "온라인 쇼핑몰"
-      ],
-      "source": "바이라인네트워크",
-      "date": "10월 18일",
-      "publishedAt": "2026-10-18T01:58:55.000Z",
-      "url": "https://byline.network/2026/10/15_zigzag/",
-      "collectedAt": "2026-10-19"
-    },
-    {
       "category": "ai",
       "title": "엔비디아, 클라우드 없이 AI 가능한 RTX 스파크 노트북 출시",
       "summary": "엔비디아가 차세대 AI PC인 RTX 스파크를 출시했다. 이 제품은 클라우드 없이도 노트북에서 AI 기능을 원활하게 사용할 수 있도록 설계되었다.",
@@ -4937,22 +5003,6 @@
       "publishedAt": "2026-10-17T21:05:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sc25UQkl4Vzd4SGVERzB0ZGN4cFdtMFJtdnVyNGdCVVZoR2d1QUxXaUx5ZXV0ZlpTRkh4cWVtQUR5dmo0RHhJQU1BNUkxRmJDTThNNFlCbEtTbEN4WUo1VzJGWko5aUp6?oc=5",
       "collectedAt": "2026-10-24"
-    },
-    {
-      "category": "ai",
-      "title": "이타우가 전체 고객을 위한 생성적 AI 구축 방법",
-      "summary": "이타우는 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 통해 AI 우선 전략을 고객과 직원에게 적용하고 있다. 이는 브라질의 가장 규제가 엄격한 분야 중 하나에서 이루어지고 있다.",
-      "summary_full": "이타우는 ia.i라는 대화형 인터페이스와 IARA 거버넌스 플랫폼을 활용하여 AI 우선 전략을 고객과 직원에게 적용하고 있다. 이 접근 방식은 브라질의 금융 서비스 분야에서 고객 경험을 향상시키기 위한 노력의 일환이다. 이타우는 생성적 AI를 통해 고객의 요구를 보다 효과적으로 충족시키고, 규제가 많은 환경에서도 혁신을 추구하고 있다. 이러한 전략은 이타우의 경쟁력을 높이는 데 기여하고 있다.",
-      "keywords": [
-        "이타우",
-        "생성적 AI",
-        "브라질 금융"
-      ],
-      "source": "OpenAI News",
-      "date": "10월 16일",
-      "publishedAt": "2026-10-16T19:00:00.000Z",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "collectedAt": "2026-10-19"
     },
     {
       "category": "ai",
@@ -5003,22 +5053,6 @@
       "publishedAt": "2026-10-16T06:15:00.000Z",
       "url": "https://toss.tech/article/dw-airflow-migration",
       "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "ai",
-      "title": "인도어 사전학습 확장: 2.8조 토큰과 개방형 데이터 생성 파이프라인",
-      "summary": "이 연구는 2.8조 개의 토큰을 사용하여 인도어 모델의 사전학습을 확장하는 방법을 제시한다. 또한, 데이터 생성 파이프라인을 개방형으로 구축하여 접근성을 높인다.",
-      "summary_full": "이 연구는 인도어 언어 모델을 위한 사전학습을 2.8조 개의 토큰을 활용하여 확장하는 방법을 다룬다. 연구팀은 대규모 데이터셋을 구축하기 위한 개방형 데이터 생성 파이프라인을 설계하였다. 이를 통해 다양한 인도어 언어에 대한 모델 성능을 향상시키고, 연구자들이 쉽게 접근할 수 있도록 한다. 이 접근 방식은 인도어 NLP 분야의 발전에 기여할 것으로 기대된다.",
-      "keywords": [
-        "인도어",
-        "사전학습",
-        "데이터 생성"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "10월 16일",
-      "publishedAt": "2026-10-16T01:44:47.000Z",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "collectedAt": "2026-10-19"
     },
     {
       "category": "ai",
@@ -5103,8 +5137,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업의 AI 운영 비용을 획기적으로 낮출 것으로 기대된다.",
-      "summary_full": "라이너는 최근 LLM 비용을 절반으로 줄이는 혁신적인 AI 솔루션을 발표했다. 이 솔루션은 기업들이 AI 기술을 보다 효율적으로 활용할 수 있도록 지원하며, 운영 비용 절감에 큰 기여를 할 것으로 보인다. 특히, AI 기술의 확산과 활용이 증가하는 가운데, 비용 절감은 기업들에게 중요한 요소로 작용할 것이다. 라이너의 새로운 솔루션은 이러한 필요를 충족시키는 데 중점을 두고 개발되었다.",
+      "summary": "라이너가 LLM 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업의 AI 운영 비용을 크게 절감할 것으로 기대된다.",
+      "summary_full": "라이너는 최근 LLM(대규모 언어 모델) 비용을 절반으로 줄일 수 있는 AI 솔루션을 발표했다. 이 기술은 기업들이 AI를 보다 효율적으로 활용할 수 있도록 돕고, 운영 비용을 크게 절감할 수 있는 기회를 제공한다. 전문가들은 이 솔루션이 AI 시장에 긍정적인 영향을 미칠 것으로 전망하고 있다. 라이너는 앞으로도 지속적으로 혁신적인 기술 개발에 힘쓸 계획이다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -5114,7 +5148,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "frontend",
@@ -5135,8 +5169,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목할 만한 새로운 트렌드가 소개되고 있다. 이러한 변화는 사용자 경험을 향상시키기 위한 다양한 접근 방식을 포함한다.",
-      "summary_full": "디자이너들이 새로운 UX/UI 트렌드에 주목하고 있다. 이 트렌드는 사용자 경험을 개선하기 위해 혁신적인 디자인 요소와 기술을 통합하고 있다. 특히, 직관적인 인터페이스와 접근성을 강조하는 경향이 두드러진다. 이러한 변화는 사용자와의 상호작용을 더욱 원활하게 만들어준다.",
+      "summary": "최근 UX/UI 디자인에서 주목받는 새로운 트렌드가 소개된다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 포함하고 있다.",
+      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드가 다양한 혁신적인 요소를 통해 사용자 경험을 개선하고 있다. 이러한 트렌드는 기술 발전과 함께 변화하는 소비자의 요구를 반영하고 있다. 특히, 직관적인 인터페이스와 개인화된 경험이 강조되고 있다. 디자이너들은 이러한 트렌드를 통해 더욱 창의적이고 효과적인 디자인 솔루션을 모색하고 있다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -5146,23 +5180,23 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 미친 영향을 탐구하는 것이 중요하다. 결국, 과거의 교수법이 현대의 언어 학습 방식에 어떻게 영향을 미쳤는지를 이해하는 것이 더 큰 통찰을 제공한다.",
+      "summary": "모든 언어 앱은 라틴어를 위한 교육 방법에서 유래했다. 이러한 배경을 이해하는 것이 앱 자체에서 배우는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 증명해야 했다. 이러한 역사적 배경이 현대 언어 학습 앱의 디자인에 어떻게 영향을 미쳤는지를 탐구한다. 결국, 과거의 교육 방법이 현재의 언어 학습 도구에 미친 영향을 이해하는 것이 중요하다.",
       "keywords": [
-        "언어 앱",
-        "라틴어",
-        "디자인 교훈"
+        "언어학습",
+        "디자인",
+        "라틴어"
       ],
       "source": "alistapart.com",
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-18"
+      "collectedAt": "2026-11-19"
     }
   ]
 }
