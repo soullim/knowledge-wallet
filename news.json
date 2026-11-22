@@ -1,22 +1,120 @@
 {
-  "updated": "2026년 11월 21일 AM 05:41",
-  "count": 320,
+  "updated": "2026년 11월 22일 AM 05:08",
+  "count": 312,
   "articles": [
     {
       "category": "industry",
       "title": "이사떡 캠페인 제작기",
-      "summary": "오늘의집이 이웃에게 첫인사를 디자인하는 캠페인을 진행했다. 이 캠페인은 이사하는 이웃에게 떡을 나누는 방식으로 소통을 촉진한다.",
-      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 '이사떡 캠페인'을 제작했다. 이 캠페인은 이사하는 이웃에게 떡을 나누어 주며 소통을 촉진하는 것을 목표로 한다. 이를 통해 이웃 간의 관계를 강화하고, 따뜻한 커뮤니티를 형성하고자 한다. 캠페인의 제작 과정과 아이디어를 공유하며, 이웃과의 첫인사를 특별하게 만드는 방법을 제안한다.",
+      "summary": "오늘의집이 이웃에게 첫인사를 디자인하는 캠페인을 진행했다. 이 캠페인은 이사떡을 통해 이웃과의 소통을 촉진하는 것을 목표로 한다.",
+      "summary_full": "오늘의집은 이웃에게 건네는 첫인사를 디자인하기 위해 '이사떡 캠페인'을 제작했다. 이 캠페인은 이사할 때 이웃에게 나누는 떡을 통해 소통을 강화하고자 하는 취지를 담고 있다. 다양한 디자인 요소와 아이디어가 결합되어 이 캠페인이 진행되었다. 이사떡은 새로운 이웃과의 관계를 맺는 중요한 매개체로 자리 잡고 있다.",
       "keywords": [
         "이사떡",
         "캠페인",
-        "이웃 소통"
+        "소통"
       ],
       "source": "오늘의집 Culture",
-      "date": "11월 21일",
-      "publishedAt": "2026-11-21T05:40:43.089Z",
+      "date": "11월 22일",
+      "publishedAt": "2026-11-22T05:07:49.337Z",
       "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
+    },
+    {
+      "category": "design",
+      "title": "일라이 릴리, 칼리트릭스 인수 합의",
+      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료 분야에서의 연구 개발을 강화하기 위한 전략으로 보인다.",
+      "summary_full": "일라이 릴리가 CALR 변이 혈액암 스타트업인 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 혈액암 치료에 대한 혁신적인 접근 방식을 모색하는 일환으로 진행된다. 칼리트릭스는 CALR 변이를 타겟으로 하는 치료제를 개발 중이다. 이번 합의는 일라이 릴리의 혈액암 치료 포트폴리오를 확장하는 데 기여할 것으로 예상된다.",
+      "keywords": [
+        "일라이 릴리",
+        "칼리트릭스",
+        "혈액암",
+        "CALR 변이",
+        "인수 합의"
+      ],
+      "source": "TMSS 매거진",
+      "date": "11월 22일",
+      "publishedAt": "2026-11-22T05:07:42.742Z",
+      "url": "https://tmssmag.com/article/lilly-calytrix-bio-acquisition-mcalr-15-billion",
+      "collectedAt": "2026-11-22"
+    },
+    {
+      "category": "frontend",
+      "title": "프로젝트를 완성했는데, 이력서 항목이 왜 이렇게 어려울까?",
+      "summary": "코딩 프로젝트를 명확하게 설명하는 방법에 대해 다룬다. 특히 첫 개발자 역할에 지원할 때 유용하다.",
+      "summary_full": "완성한 앱과 그 과정에서 겪었던 문제들을 회상하며, 이력서에 프로젝트를 효과적으로 기술하는 방법을 제시한다. 요청 오류, 상태 업데이트의 혼란, 모바일에서의 페이지 문제 등을 언급하며 경험을 공유한다. 이 글은 개발자로서의 첫 발을 내딛는 이들에게 도움이 될 것이다.",
+      "keywords": [
+        "코딩 프로젝트",
+        "이력서 작성",
+        "개발자 역할"
+      ],
+      "source": "dev.to",
+      "date": "11월 22일",
+      "publishedAt": "2026-11-22T05:01:54.000Z",
+      "url": "https://dev.to/hazel_12125/you-built-the-project-why-is-the-resume-bullet-so-hard-4nk8",
+      "collectedAt": "2026-11-22"
+    },
+    {
+      "category": "trend",
+      "title": "점진적 공개로서의 힌트 디자인과 순서가 양보다 중요한 이유",
+      "summary": "힌트는 양이 아닌 순서가 중요하다. 잘못된 순서의 힌트는 작업을 더 어렵게 만들 수 있다.",
+      "summary_full": "힌트는 일반적으로 양 문제로 다뤄지지만, 실제로는 순서가 더 중요하다. 잘못된 순서의 힌트는 작업을 더 어렵게 만들 수 있으며, 올바른 순서의 소수 힌트는 전체 제품을 지원할 수 있다. 필자는 일일 음악 퍼즐에서 힌트 사다리를 사용하며 그 구조의 중요성을 경험했다.",
+      "keywords": [
+        "디자인",
+        "힌트",
+        "순서"
+      ],
+      "source": "dev.to",
+      "date": "11월 22일",
+      "publishedAt": "2026-11-22T04:53:26.000Z",
+      "url": "https://dev.to/songlessanswers/designing-hints-as-progressive-disclosure-and-why-order-beats-quantity-4654",
+      "collectedAt": "2026-11-22"
+    },
+    {
+      "category": "industry",
+      "title": "앨리스 황의 칩 네트워크, 게임 거물 및 PLA 공급업체와 연결",
+      "summary": "앨리스 황은 엔비디아 스캔들 중심 인물로, 게임 거물 및 수백 개의 페이퍼 컴퍼니와 연결되어 있다. 이들은 함께 중국에 엔비디아 칩을 공급하는 네트워크를 형성했다.",
+      "summary_full": "앨리스 황은 엔비디아 스캔들과 관련된 메가스피드의 전 임원으로, 게임 산업의 거물들과 수백 개의 페이퍼 컴퍼니, 그리고 캄보디아 범죄 집단과의 연관성이 드러났다. 이들 그룹은 함께 중국에 엔비디아 칩을 공급하는 네트워크를 구성했다. 최근 파이낸셜 타임스와 뉴욕 타임스는 이와 관련된 기업들을 조사하여 보도했다. 이 사건은 기술 공급망과 범죄의 연관성을 다시 한번 부각시키고 있다.",
+      "keywords": [
+        "앨리스 황",
+        "엔비디아",
+        "칩 공급망"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 21일",
+      "publishedAt": "2026-11-21T19:44:59.000Z",
+      "url": "https://thenextweb.com/news/alice-huang-chip-network-ft-nyt-prince-group-pla-suppliers",
+      "collectedAt": "2026-11-22"
+    },
+    {
+      "category": "industry",
+      "title": "판사는 한때 사용자였다",
+      "summary": "AI가 모델 구축의 느린 중간 과정을 단축시켰다. 한때 올바름을 정의하던 사람들이 그와 함께 사라졌다.",
+      "summary_full": "AI 기술이 발전하면서 모델 구축의 느린 과정을 효율적으로 개선했다. 이로 인해 과거에 올바른 기준을 설정하던 사람들이 그 과정에서 사라지게 되었다. 이는 사용자 경험 디자인에 큰 영향을 미치고 있다. AI의 발전이 인간의 역할을 어떻게 변화시키고 있는지를 보여준다.",
+      "keywords": [
+        "AI",
+        "모델 구축",
+        "사용자 경험"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 21일",
+      "publishedAt": "2026-11-21T14:34:16.000Z",
+      "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-22"
+    },
+    {
+      "category": "trend",
+      "title": "정전 사태는 이제 시작일 뿐",
+      "summary": "AI로 인해 기업들이 시스템을 더 빠르게 패치해야 하는 상황이다. 공격자들이 새로 발견된 취약점을 이용하려고 급하게 움직이고 있다.",
+      "summary_full": "AI의 발전으로 기업들은 시스템 보안을 강화하기 위해 신속하게 패치 작업을 진행해야 한다. 이는 공격자들이 새로운 취약점을 악용하려고 빠르게 움직이고 있기 때문이다. 이러한 상황은 인터넷 서비스의 정전 사태를 초래하고 있다. 기업들은 이러한 위협에 대응하기 위해 더욱 긴급하게 시스템을 점검하고 있다.",
+      "keywords": [
+        "AI",
+        "시스템 패치",
+        "인터넷 정전"
+      ],
+      "source": "wired.com",
+      "date": "11월 21일",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "design",
@@ -32,24 +130,6 @@
       "date": "11월 21일",
       "publishedAt": "2026-11-21T05:40:38.266Z",
       "url": "https://blog.secondbrush.co.kr/tag/daily-prompt/",
-      "collectedAt": "2026-11-21"
-    },
-    {
-      "category": "design",
-      "title": "일라이 릴리, 칼리트릭스 인수 합의",
-      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료 분야에서의 경쟁력을 강화하기 위한 전략으로 보인다.",
-      "summary_full": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 혈액암 치료에 대한 연구와 개발을 가속화하기 위한 일환으로 해석된다. 칼리트릭스는 혁신적인 치료법을 개발하고 있는 기업으로, 이번 인수를 통해 일라이 릴리는 혈액암 치료 시장에서의 입지를 더욱 확고히 할 예정이다. 인수 계약은 향후 몇 달 내에 완료될 것으로 예상된다.",
-      "keywords": [
-        "일라이 릴리",
-        "칼리트릭스",
-        "혈액암",
-        "인수 합의",
-        "CALR 변이"
-      ],
-      "source": "TMSS 매거진",
-      "date": "11월 21일",
-      "publishedAt": "2026-11-21T05:40:33.942Z",
-      "url": "https://tmssmag.com/article/lilly-calytrix-bio-acquisition-mcalr-15-billion",
       "collectedAt": "2026-11-21"
     },
     {
@@ -86,19 +166,19 @@
     },
     {
       "category": "ai",
-      "title": "Anthropic의 클로드 AI, 150년 된 수학 난제 돌파구 주장",
-      "summary": "Anthropic의 인공지능 클로드가 150년 된 수학 문제에 대한 새로운 해결책을 제시했다고 주장했다. 이 주장은 AI 기술의 발전이 수학 연구에 미치는 영향을 보여준다.",
-      "summary_full": "Anthropic의 인공지능 클로드가 150년 된 수학 난제에 대한 돌파구를 주장하고 있다. 이 주장은 AI가 수학 문제 해결에 기여할 수 있는 가능성을 시사한다. 클로드는 기존의 수학적 접근 방식과는 다른 방법으로 문제를 접근했다고 전해진다. 이러한 발전은 AI 기술이 다양한 분야에 미치는 영향을 강조한다.",
+      "title": "리만 가설 해결 주장",
+      "summary": "Anthropic 연구원이 Claude AI를 이용해 150년간 풀리지 않은 리만 가설을 해결했다고 주장했다. 이 연구는 수학 및 인공지능 분야에 큰 영향을 미칠 것으로 기대된다.",
+      "summary_full": "Anthropic의 연구팀이 Claude AI를 활용하여 150년 동안 해결되지 않았던 리만 가설을 해결했다고 발표했다. 이 주장은 수학계에서 큰 파장을 일으킬 것으로 보이며, AI 기술이 복잡한 수학 문제 해결에 기여할 수 있는 가능성을 보여준다. 연구원들은 AI의 계산 능력을 통해 새로운 통찰을 얻었다고 설명했다. 이 발견은 수학과 인공지능의 융합이 가져올 미래의 가능성을 시사한다.",
       "keywords": [
-        "Anthropic",
-        "클로드 AI",
-        "수학 난제"
+        "리만 가설",
+        "Claude AI",
+        "Anthropic 연구"
       ],
       "source": "Google News Anthropic",
       "date": "11월 21일",
       "publishedAt": "2026-11-21T02:01:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTU3hIRVVWZWFNbkw2WjJVdWNlSHMwOThJY0VuQl9IaFRRZ0JFREtsdXhPV2t3MC1aSXhtMTdNb3ZGMXM0ZVZGLV9McGNkdml6Wmwzd1BxeUltT2lubjNLQnJrUTFwejhpTWRfeGZR?oc=5",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "trend",
@@ -135,8 +215,8 @@
     {
       "category": "frontend",
       "title": "앤디 클락, 웹을 위한 독창적인 디자인에 대한 여섯 가지 질문에 답하다",
-      "summary": "웹 디자이너 앤디 클락이 새로운 전자책 '웹을 위한 독창적인 디자인'을 발표했다. 이 책은 디자이너들이 익숙한 템플릿과 전통적인 레이아웃을 넘어 개인화된 웹사이트를 만들도록 독려한다.",
-      "summary_full": "웹 디자이너이자 저자인 앤디 클락이 '웹을 위한 독창적인 디자인'이라는 새로운 전자책을 출간했다. 이 책은 디자이너들이 기존의 템플릿과 전통적인 레이아웃을 넘어서서 더 개성 있는 웹사이트를 만들도록 장려한다. 클락은 이 책에 대해 여섯 가지 질문에 답하며, 디자인의 중요성과 개인화된 접근 방식의 필요성을 강조한다. 이 내용은 CSS-Tricks에 손으로 작성되어 사랑을 담아 발표되었다.",
+      "summary": "웹 디자이너 앤디 클락이 새로운 전자책 '웹을 위한 독창적인 디자인'을 발표했다. 이 책은 디자이너들이 익숙한 템플릿과 전통적인 레이아웃을 넘어 더 개성 있는 웹사이트를 만들도록 독려한다.",
+      "summary_full": "웹 디자이너이자 저자인 앤디 클락이 '웹을 위한 독창적인 디자인'이라는 새로운 전자책을 출시했다. 이 책은 디자이너들이 기존의 템플릿과 전통적인 레이아웃에서 벗어나 개성 있는 웹사이트를 창조하도록 장려한다. 클락은 이 책과 관련하여 여섯 가지 질문에 답하며, 디자인의 중요성과 접근 방식을 설명한다. 이 전자책은 웹 디자인의 새로운 방향성을 제시하고 있다.",
       "keywords": [
         "웹 디자인",
         "앤디 클락",
@@ -146,29 +226,29 @@
       "date": "11월 20일",
       "publishedAt": "2026-11-20T15:03:47.000Z",
       "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "ai",
-      "title": "적대적 증류 대응",
-      "summary": "OpenAI는 모델 훈련, 안전 장치, 탐지 및 집행을 결합한 다층적 접근 방식을 통해 능력 추출로부터 보호하고 있다. 이 방법은 적대적 증류에 대한 효과적인 방어를 제공한다.",
-      "summary_full": "OpenAI는 적대적 증류에 대응하기 위해 다층적 접근 방식을 채택하고 있다. 이 접근 방식은 모델 훈련, 안전 장치, 탐지 및 집행을 포함한다. 이를 통해 능력 추출로부터 보호할 수 있는 효과적인 방법을 제공한다. 결과적으로, 이러한 전략은 AI 시스템의 보안을 강화하는 데 기여한다.",
+      "title": "적대적 증류 방어",
+      "summary": "OpenAI는 모델 훈련, 안전장치, 탐지 및 집행을 결합한 다층적 접근 방식을 통해 적대적 증류에 대응하고 있다. 이 방법은 능력 추출로부터 보호하는 데 중점을 둔다.",
+      "summary_full": "OpenAI는 적대적 증류에 대한 방어를 위해 다층적 접근 방식을 채택하고 있다. 이 접근 방식은 모델 훈련, 안전장치, 탐지 및 집행을 포함한다. 이를 통해 OpenAI는 능력 추출을 방지하고, 시스템의 안전성을 높이는 데 기여하고 있다. 이러한 전략은 AI 모델의 보안을 강화하는 데 중요한 역할을 한다.",
       "keywords": [
         "적대적 증류",
         "모델 훈련",
-        "능력 추출"
+        "보안"
       ],
       "source": "OpenAI News",
       "date": "11월 20일",
       "publishedAt": "2026-11-20T10:00:00.000Z",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "industry",
-      "title": "쿤텍, AI 에이전트 보안의 전주기 연결 필요성 강조",
-      "summary": "기업은 AI 에이전트를 도입할 때 모델과 도구를 정확히 파악해야 한다. 자산 가시화를 통해 취약점을 찾아 대응할 수 있는 체계를 구축해야 한다.",
-      "summary_full": "기업이 AI 에이전트를 도입할 때는 어떤 모델과 도구를 사용하는지를 알아야 한다. 서버와 소프트웨어를 정확히 파악하지 못하면 AI 에이전트의 위험 관리가 어려워진다. 쿤텍은 AI 에이전트 보안에서 자산 가시화를 출발점으로 삼아야 한다고 강조한다. 하드웨어, 소프트웨어, AI 모델을 식별하고 위협을 탐지·차단하는 체계를 구축해야 한다.",
+      "title": "쿤텍, AI 에이전트 보안의 중요성 강조",
+      "summary": "AI 에이전트를 도입할 때 기업은 사용 중인 모델과 도구를 정확히 파악해야 한다. 쿤텍은 자산 가시화를 통해 보안 체계를 구축할 것을 제안했다.",
+      "summary_full": "기업이 AI 에이전트를 도입할 때는 어떤 모델과 도구를 사용하는지를 알아야 하며, 서버와 소프트웨어를 정확히 파악하지 못하면 위험 관리가 어려워진다. 쿤텍은 AI 에이전트 보안에서 자산 가시화를 출발점으로 삼아야 한다고 강조하며, 하드웨어와 소프트웨어, AI 모델과 에이전트를 식별하고 위협을 탐지·차단하는 체계를 구축해야 한다고 밝혔다.",
       "keywords": [
         "AI 에이전트",
         "보안",
@@ -178,13 +258,13 @@
       "date": "11월 20일",
       "publishedAt": "2026-11-20T08:37:41.000Z",
       "url": "https://byline.network/2026/11/19-692/",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "frontend",
       "title": "디자인 시스템에서 3D 그래픽으로의 전환",
-      "summary": "디자인 시스템을 구축하던 디자이너가 3D 그래픽 작업에 도전하는 과정을 이야기한다.",
-      "summary_full": "토스의 Visual Designer 권윤은 디자인 시스템 TDS를 만들며 정돈된 화면을 설계해왔다. 그러나 직무 통합 후 비주얼 디자인에 대한 불안감을 느끼며 새로운 도전에 나섰다. 그는 패턴화된 디자인에 익숙하지만, 시선을 사로잡는 비주얼 작업은 다른 영역으로 여겼다. 이 글은 그가 3D 그래픽 작업에 어떻게 접근하는지를 다룬다.",
+      "summary": "디자인 시스템을 구축하던 디자이너가 3D 그래픽 작업에 도전하는 과정을 이야기한다. 새로운 직무 통합으로 인한 심란함과 비주얼 디자인에 대한 고민을 공유한다.",
+      "summary_full": "토스의 Visual Designer 권윤이 디자인 시스템 TDS를 만들던 중, Interaction Designer 및 Graphic Designer와의 통합으로 Visual Designer로서의 새로운 도전이 시작되었다. 기존의 정돈된 디자인에서 벗어나 시선을 사로잡는 비주얼 작업에 대한 불안감을 느끼고 있다. 패턴화된 디자인에 익숙한 그는 비주얼 디자인의 영역을 다른 이들의 전문성으로 여겼으나, 새로운 직무에서의 변화를 통해 자신의 가능성을 탐색하고 있다.",
       "keywords": [
         "디자인 시스템",
         "3D 그래픽",
@@ -194,7 +274,7 @@
       "date": "11월 20일",
       "publishedAt": "2026-11-20T08:34:00.000Z",
       "url": "https://toss.tech/article/bankbook_graphic",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "frontend",
@@ -264,7 +344,7 @@
       "category": "figma",
       "title": "Figma 모바일 앱의 협업 및 탐색 개선",
       "summary": "Figma 모바일 앱에 새로운 개선 사항이 추가되어 협업과 탐색이 더 원활해졌습니다. 주요 기능으로는 댓글 표시기, 프레임 미리보기 슬라이더, 페이지 드롭다운 등이 있습니다.",
-      "summary_full": "Figma 모바일 앱에 새로운 개선 사항이 추가되어 협업과 탐색이 더 원활해졌습니다. 댓글 표시기를 통해 새로운 댓글 위치를 쉽게 찾을 수 있으며, 프레임 미리보기 슬라이더로 중첩된 섹션 간 빠른 이동이 가능합니다. 또한 페이지 드롭다운을 통해 페이지 간 쉽게 접근하고 전환할 수 있습니다. 마지막으로, 현재 보고 있는 페이지나 섹션을 공유할 수 있는 링크 기능도 추가되었습니다.",
+      "summary_full": "Figma 모바일 앱에 새로운 개선 사항이 추가되어 협업과 탐색이 더 원활해졌습니다. 댓글 표시기를 통해 새로운 댓글 위치를 쉽게 찾을 수 있으며, 프레임 미리보기 슬라이더로 중첩된 섹션 간 빠른 이동이 가능합니다. 페이지 드롭다운 기능으로 페이지 간 쉽게 접근하고 전환할 수 있으며, 현재 보고 있는 페이지나 섹션을 공유할 수 있는 링크 기능도 추가되었습니다. 이러한 개선 사항은 Figma Design의 업데이트와 함께 FigJam에서도 적용됩니다.",
       "keywords": [
         "Figma",
         "모바일 앱",
@@ -274,23 +354,23 @@
       "date": "11월 20일",
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "ai",
-      "title": "인클링 2 미니 환영, 로컬 설정을 위한 최첨단 성능",
-      "summary": "인클링 2 미니는 로컬 환경에서 뛰어난 성능을 제공합니다. 최신 기술이 적용되어 사용자 경험을 향상시킵니다.",
-      "summary_full": "인클링 2 미니는 로컬 설정을 위해 설계된 최첨단 성능을 자랑합니다. 이 장치는 최신 기술을 활용하여 빠르고 효율적인 작업을 지원합니다. 사용자 친화적인 인터페이스로 누구나 쉽게 사용할 수 있습니다. 다양한 기능이 통합되어 있어 다양한 작업에 적합합니다.",
+      "title": "인클링 2 미니 소개",
+      "summary": "인클링 2 미니는 최신 성능을 제공하는 장비입니다. 로컬 환경에서 최적의 작업을 지원합니다.",
+      "summary_full": "인클링 2 미니는 최신 기술을 적용하여 뛰어난 성능을 자랑합니다. 이 장비는 사용자의 로컬 설정에 최적화되어 있습니다. 다양한 작업을 효율적으로 처리할 수 있도록 설계되었습니다. 혁신적인 기능으로 사용자 경험을 향상시킵니다.",
       "keywords": [
         "인클링 2 미니",
-        "최첨단 성능",
+        "최신 성능",
         "로컬 설정"
       ],
       "source": "HuggingFace Blog",
       "date": "11월 20일",
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "url": "https://huggingface.co/blog/inkling2mini",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "ai",
@@ -471,18 +551,18 @@
     {
       "category": "ai",
       "title": "제미니 4 네온 소개",
-      "summary": "제미니 4 네온이 소개됩니다. 이 제품은 최신 기술을 적용하여 혁신적인 기능을 제공합니다.",
-      "summary_full": "제미니 4 네온은 최신 기술을 통해 사용자에게 향상된 경험을 제공합니다. 이 제품은 다양한 기능을 갖추고 있어 다양한 용도로 활용될 수 있습니다. 특히, 디자인과 성능 모두를 고려한 점이 특징입니다. 사용자는 이 제품을 통해 새로운 가능성을 경험할 수 있습니다.",
+      "summary": "제미니 4 네온을 소개합니다. 이 제품은 최신 기술을 적용하여 사용자 경험을 향상시킵니다.",
+      "summary_full": "제미니 4 네온은 혁신적인 디자인과 기능을 갖춘 제품입니다. 최신 기술이 적용되어 사용자에게 더 나은 경험을 제공합니다. 다양한 기능과 성능을 통해 다양한 요구를 충족시킬 수 있습니다. 이 제품은 현대적인 라이프스타일에 적합한 솔루션을 제공합니다.",
       "keywords": [
-        "제미니 4",
+        "제미니",
         "네온",
-        "신제품 소개"
+        "기술"
       ],
       "source": "Google DeepMind Blog",
       "date": "11월 18일",
       "publishedAt": "2026-11-18T21:35:43.000Z",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "industry",
@@ -679,8 +759,8 @@
     {
       "category": "design",
       "title": "AI 2027 컨퍼런스 소개",
-      "summary": "AI가 디자인과 구축 방식을 변화시키고 있으며, 2027년의 전망을 논의하는 온라인 행사이다.",
-      "summary_full": "2026년 12월 1일, SmashingConf가 AI 2027 컨퍼런스를 개최한다. 이 반나절 온라인 이벤트에서는 현재 AI의 위치와 2027년에 기대할 사항을 점검한다. AI의 성숙함에 따라 UX 디자이너와 디자인 시스템 엔지니어로서의 워크플로우 향상 방법을 배울 필요성이 커지고 있다.",
+      "summary": "AI가 디자인과 구축 방식을 변화시키고 있으며, 이는 계속될 것입니다. 2026년 12월 1일, SmashingConf는 AI의 현재와 2027년의 기대를 논의하는 온라인 반일 행사인 AI 2027 컨퍼런스를 개최합니다.",
+      "summary_full": "AI는 디자인과 구축 방식을 혁신하고 있으며, 이러한 변화는 계속될 것입니다. 2026년 12월 1일, SmashingConf는 AI 2027 컨퍼런스를 통해 AI의 현재 상태와 2027년에 대한 기대를 논의하는 온라인 반일 행사를 개최합니다. 이 행사에서는 UX 디자이너와 디자인 시스템 엔지니어로서 AI가 작업 흐름을 어떻게 향상시킬 수 있는지에 대해 배울 수 있는 기회를 제공합니다. AI의 성숙함에 따라, 팀들이 성공적으로 AI를 활용하는 방법도 공유될 예정입니다.",
       "keywords": [
         "AI",
         "디자인",
@@ -690,7 +770,7 @@
       "date": "11월 17일",
       "publishedAt": "2026-11-17T12:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "frontend",
@@ -775,8 +855,8 @@
     {
       "category": "ai",
       "title": "클로드, 블랙홀 물리학의 두 가지 미해결 문제 해결",
-      "summary": "클로드가 이론 물리학에서 두 가지 미해결 문제를 해결했다. 두 문제 모두 블랙홀과 양자 중력 이론 탐색과 관련이 있다.",
-      "summary_full": "클로드가 이론 물리학에서 두 가지 미해결 문제를 해결했다. 이 문제들은 블랙홀의 물리적 특성과 양자 중력 이론의 통합을 다룬다. 이러한 발견은 블랙홀 연구와 우주론에 중요한 영향을 미칠 수 있다. 이는 과학자들이 블랙홀의 본질을 이해하는 데 한 걸음 더 나아가게 할 것이다.",
+      "summary": "클로드는 이론 물리학에서 블랙홀과 양자 중력 이론에 관한 두 가지 미해결 문제를 해결했다.",
+      "summary_full": "클로드는 이론 물리학에서 블랙홀과 관련된 두 가지 중요한 문제를 해결했다. 이 문제들은 양자 중력 이론의 탐색과 밀접한 연관이 있다. 그의 연구는 블랙홀의 본질을 이해하는 데 기여할 것으로 기대된다. 이는 물리학의 여러 분야에 중대한 영향을 미칠 수 있다.",
       "keywords": [
         "블랙홀",
         "양자 중력",
@@ -786,7 +866,7 @@
       "date": "11월 17일",
       "publishedAt": "2026-11-17T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "industry",
@@ -2582,9 +2662,9 @@
     },
     {
       "category": "ai",
-      "title": "Le Chonk의 지능을 활용한 Mistral Studio",
-      "summary": "Mistral Studio와 Le Chonk를 통해 기업 에이전트와 워크플로우, 앱을 더 빠르게 구축하고 배포할 수 있습니다. 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다.",
-      "summary_full": "Mistral Studio와 Le Chonk를 활용하면 기업 에이전트와 워크플로우, 앱을 신속하게 구축하고 배포할 수 있습니다. 이 솔루션은 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다. 이를 통해 기업은 효율성을 극대화하고 혁신을 촉진할 수 있습니다. Le Chonk는 지능적인 기능을 제공하여 비즈니스의 다양한 요구를 충족시킵니다.",
+      "title": "Le Chonk의 지능 활용하기",
+      "summary": "Mistral Studio를 통해 기업 에이전트와 워크플로우를 더 빠르게 구축하고 배포할 수 있습니다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다.",
+      "summary_full": "Mistral Studio를 사용하면 기업 에이전트, 워크플로우 및 애플리케이션을 신속하게 구축하고 배포할 수 있습니다. Le Chonk는 이러한 프로세스에서 지능을 활용하여 효율성을 극대화합니다. 사용자는 모델, 데이터 및 인프라에 대한 완전한 제어를 통해 맞춤형 솔루션을 구현할 수 있습니다. 이를 통해 기업은 경쟁력을 높이고 혁신을 가속화할 수 있습니다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -2594,7 +2674,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "design",
@@ -4761,70 +4841,6 @@
       "collectedAt": "2026-10-26"
     },
     {
-      "category": "design",
-      "title": "Claude Code와 OpenDesign의 소개 페이지 비교",
-      "summary": "Claude Code와 OpenDesign을 사용하여 동일한 프롬프트로 생성한 소개 페이지의 결과를 비교합니다. 두 플랫폼의 차별점과 장단점이 드러납니다.",
-      "summary_full": "이 기사에서는 Claude Code와 OpenDesign을 활용하여 동일한 프롬프트로 만든 소개 페이지를 비교합니다. 두 플랫폼의 디자인 접근 방식과 결과물의 차이를 분석합니다. 사용자의 요구에 따라 어떤 플랫폼이 더 적합한지를 평가합니다. 최종적으로, 각 플랫폼의 특징과 활용 가능성을 논의합니다.",
-      "keywords": [
-        "Claude Code",
-        "OpenDesign",
-        "소개 페이지 비교"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "10월 22일",
-      "publishedAt": "2026-10-22T03:20:26.551Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-859/",
-      "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "frontend",
-      "title": "기울기-절편 형태 계산기: 선형 방정식 해결을 위한 편리한 도구",
-      "summary": "기울기-절편 형태 계산기는 직선의 방정식을 찾고 이해하는 데 유용한 온라인 도구이다. 이 도구는 학생과 교사, 그리고 빠르고 정확하게 대수 문제를 해결하고자 하는 모든 이에게 도움이 된다.",
-      "summary_full": "기울기-절편 형태 계산기는 직선의 방정식을 찾고 이해하는 데 유용한 온라인 도구이다. 이 도구는 특히 학생, 교사 및 대수 문제를 빠르고 정확하게 해결하고자 하는 모든 사람에게 유용하다. 수학 계산을 단순화함으로써 선형 방정식에 대한 학습을 더 쉽고 효율적으로 만든다. 따라서 이 도구는 학습자들에게 큰 도움이 된다.",
-      "keywords": [
-        "기울기",
-        "절편",
-        "선형 방정식"
-      ],
-      "source": "dev.to",
-      "date": "10월 22일",
-      "publishedAt": "2026-10-22T03:13:39.000Z",
-      "url": "https://dev.to/sergiomoran/slope-intercept-form-calculator-a-convenient-tool-for-solving-linear-equations-2pn0",
-      "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "trend",
-      "title": "FigCraft 자동 레이아웃: 좁은 너비에서도 생존하는 유연한 UI 카드",
-      "summary": "이 기사는 FigCraft의 자동 레이아웃 테스트에 대한 간략한 설명이다. 테스트는 공식 FigCraft 0.7.0 버전에서 진행되었다.",
-      "summary_full": "이 기사는 FigCraft의 자동 레이아웃 기능에 대한 간략한 설명을 제공한다. 테스트는 Craft Apps Guide에 문서화된 내용을 기반으로 하며, macOS 27.0.1에서 공식 FigCraft 0.7.0 버전으로 확인되었다. 결과는 해당 버전과 테스트 파일에 대한 설명을 포함하고 있다. 이 테스트는 좁은 너비에서도 유연한 UI 카드의 생존 가능성을 보여준다.",
-      "keywords": [
-        "FigCraft",
-        "자동 레이아웃",
-        "UI 카드"
-      ],
-      "source": "dev.to",
-      "date": "10월 22일",
-      "publishedAt": "2026-10-22T02:54:55.000Z",
-      "url": "https://dev.to/craftappsguide/figcraft-auto-layout-a-flexible-ui-card-that-survives-narrow-widths-19kj",
-      "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "trend",
-      "title": "해커들이 패치 전 PHP 취약점을 악용하다",
-      "summary": "해커들이 PHP2Shell 버그를 이용한 공격을 시도하고 있다. 이 취약점은 인터넷 전반에 걸쳐 광범위하게 악용되고 있다.",
-      "summary_full": "아마존 웹 서비스는 4일 전 PHP2Shell 버그를 이용한 공격 시도를 기록했다. 이 취약점은 현재 인터넷에서 광범위하게 악용되고 있으며, 보안 패치가 시행되기 전 해커들이 이를 악용한 사례가 보고되고 있다. 이러한 상황은 사용자와 기업에 심각한 보안 위협을 초래할 수 있다. 따라서 즉각적인 대응과 패치 적용이 필요하다.",
-      "keywords": [
-        "PHP",
-        "취약점",
-        "해킹"
-      ],
-      "source": "wired.com",
-      "date": "10월 22일",
-      "publishedAt": "2026-10-22T02:24:17.000Z",
-      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "collectedAt": "2026-10-22"
-    },
-    {
       "category": "ai",
       "title": "LLM을 통한 대규모 소프트웨어 형식 검증 가능성",
       "summary": "형식 검증은 코드에서 특정 버그가 없음을 증명할 수 있지만, 역사적으로 소규모 코드베이스에만 적용 가능했다. AI 모델의 발전으로 이제는 실제 오픈소스 라이브러리에서 보안 속성을 증명하는 것이 가능해졌다.",
@@ -4841,74 +4857,6 @@
       "collectedAt": "2026-10-23"
     },
     {
-      "category": "industry",
-      "title": "AI 비용과 보안, 델의 데스크사이드 AI 솔루션",
-      "summary": "델은 기업의 AI 비용과 보안 문제를 해결하기 위해 데스크사이드 에이전틱 AI를 제안했다. 이를 통해 반복 추론을 로컬 워크스테이션에서 처리하여 비용을 절감하고 데이터 보안을 강화한다.",
-      "summary_full": "델은 에이전틱 AI의 확산으로 인한 기업의 비용과 보안 부담을 해결하기 위해 '데스크사이드 에이전틱 AI'를 제시했다. 이 솔루션은 반복 추론을 자체 워크스테이션에서 처리하여 비용을 낮추고, 민감한 데이터와 AI 에이전트의 행동 범위를 로컬 환경에서 통제하는 방식이다. 이를 통해 기업은 보안성을 높이고 비용 효율성을 동시에 달성할 수 있다. 델의 접근 방식은 AI 기술의 안전한 활용을 위한 새로운 모델을 제시한다.",
-      "keywords": [
-        "AI",
-        "보안",
-        "비용",
-        "델",
-        "데스크사이드"
-      ],
-      "source": "바이라인네트워크",
-      "date": "10월 21일",
-      "publishedAt": "2026-10-21T22:09:09.000Z",
-      "url": "https://byline.network/2026/10/21-631/",
-      "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "industry",
-      "title": "도구를 가진 창립자는 단서를 가진 창립자가 아니다",
-      "summary": "AI는 솔로 창립자가 제품을 만들 수 있게 하지만, 그 제품이 실제로 좋은지 이해하는 데는 도움을 주지 않는다. 궁극적으로 성공과 실패를 결정짓는 것은 경험에서 오는 판단력이다.",
-      "summary_full": "AI는 솔로 창립자가 제품을 생산할 수 있도록 도와주지만, 그 제품의 품질을 평가하는 데는 한계가 있다. 이 글에서는 제품의 성공 여부를 판단하는 전문 지식과 경험의 중요성을 강조한다. 결국, 누가 성공하고 누가 실패하는지는 이러한 판단력에 달려 있다. 따라서 창립자는 도구뿐만 아니라 깊은 이해와 통찰력을 가져야 한다.",
-      "keywords": [
-        "AI",
-        "창립자",
-        "제품 품질"
-      ],
-      "source": "uxdesign.cc",
-      "date": "10월 21일",
-      "publishedAt": "2026-10-21T21:50:55.000Z",
-      "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "industry",
-      "title": "메타, 뉴멕시코 사건에서 250억 달러 배상 명령",
-      "summary": "뉴멕시코 판사가 메타에게 페이스북 사용자에 대한 개인정보 및 증오 발언에 대한 오해로 250억 달러의 민사 배상을 명령했다. 메타는 항소할 계획이다.",
-      "summary_full": "뉴멕시코의 한 판사는 메타에게 페이스북 사용자들에게 개인정보와 증오 발언에 대해 잘못된 정보를 제공한 것에 대해 250억 달러의 민사 배상을 명령했다. 배심원단은 9월에 주 법률 위반이 4,300만 건 이상이라고 판단했다. 주 정부는 최대 400억 달러의 배상을 원했으며, 메타는 이에 대해 항소할 계획을 세우고 있다. 이 사건은 메타의 사용자 보호와 관련된 중요한 법적 쟁점으로 부각되고 있다.",
-      "keywords": [
-        "메타",
-        "뉴멕시코",
-        "페이스북",
-        "개인정보",
-        "증오 발언"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 21일",
-      "publishedAt": "2026-10-21T20:35:10.000Z",
-      "url": "https://thenextweb.com/news/meta-new-mexico-25b-penalty-cambridge-analytica",
-      "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "ai",
-      "title": "NVIDIA Kumo Relational, 감독 학습보다 우수",
-      "summary": "NVIDIA Kumo Relational은 관계형 데이터에서 감독 학습을 초월하는 성능을 보여줍니다. 추가적인 훈련 없이도 효과적으로 작동합니다.",
-      "summary_full": "NVIDIA Kumo Relational은 관계형 데이터 처리에서 감독 학습 방법보다 더 나은 성능을 발휘합니다. 이 기술은 훈련이 필요 없으며, 즉시 사용할 수 있는 장점을 가지고 있습니다. 이를 통해 데이터 분석 및 처리의 효율성을 높일 수 있습니다. NVIDIA의 혁신적인 접근 방식이 데이터 과학 분야에 새로운 가능성을 열어줍니다.",
-      "keywords": [
-        "NVIDIA",
-        "Kumo Relational",
-        "관계형 데이터"
-      ],
-      "source": "HuggingFace Blog",
-      "date": "10월 21일",
-      "publishedAt": "2026-10-21T18:26:30.000Z",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "collectedAt": "2026-10-22"
-    },
-    {
       "category": "ai",
       "title": "Anthropic, Claude Security에 검사 및 수정 추적 기능 추가",
       "summary": "Anthropic이 Claude Security에 지속적인 검사 및 수정 추적 기능을 추가했다. 이 기능은 보안성을 높이고 시스템의 신뢰성을 강화하는 데 기여할 것으로 기대된다.",
@@ -4923,22 +4871,6 @@
       "publishedAt": "2026-10-21T17:59:04.000Z",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1pOUFZ2SjM5UHFXNEowMlNNQ1NBREU1OGJZdFlYT3U0eTNWbVZnYWQ4M0dLZWpjZDh6eWxMbktwVkx6SWxHZjBsRkk4WkJBdTBuazNwaTlTd1FwbmNoXzUzRlE5MWpNUnNwOGotc3lWTFpkaWF1OXkzMUg0TDNNaGE3MU1hWGpoa3VNZjVxaGc1TkR1U29pYkVQRQ?oc=5",
       "collectedAt": "2026-10-25"
-    },
-    {
-      "category": "ai",
-      "title": "AT&T가 OpenAI와 함께 내부 법무 업무를 재구성하는 방법",
-      "summary": "AT&T는 OpenAI와 협력하여 법률 지식을 보다 쉽게 접근할 수 있도록 하고 있다. LegalEdge 팀은 법률 판단의 수집 및 확장을 재고하고 있다.",
-      "summary_full": "AT&T는 OpenAI와 협력하여 법률 지식을 보다 쉽게 접근할 수 있도록 하는 프로젝트를 진행하고 있다. LegalEdge 팀은 법률 업무의 수집 프로세스를 재구성하고, 법률 판단의 확장을 통해 효율성을 높이고자 한다. 이러한 접근 방식은 법무 업무의 혁신을 목표로 하고 있다. AT&T는 기술을 활용하여 법률 서비스의 접근성을 개선하려고 한다.",
-      "keywords": [
-        "AT&T",
-        "OpenAI",
-        "법무 혁신"
-      ],
-      "source": "OpenAI News",
-      "date": "10월 21일",
-      "publishedAt": "2026-10-21T17:00:00.000Z",
-      "url": "https://openai.com/index/att-legal",
-      "collectedAt": "2026-10-22"
     },
     {
       "category": "ai",
@@ -4973,38 +4905,6 @@
       "collectedAt": "2026-10-23"
     },
     {
-      "category": "design",
-      "title": "앰비언트 AI, 디자인의 확장",
-      "summary": "앰비언트 AI는 디자인의 새로운 경향으로 떠오르고 있다. 이 기술은 사용자 경험을 향상시키고 디자인의 경계를 확장하는 데 기여하고 있다.",
-      "summary_full": "앰비언트 AI는 환경에 맞춰 적응하는 인공지능 기술로, 디자인 분야에서 혁신을 가져오고 있다. 이 기술은 사용자와의 상호작용을 자연스럽게 만들어주며, 개인화된 경험을 제공한다. 또한, 디자인 프로세스를 효율적으로 변화시켜 새로운 창의성을 발휘할 수 있도록 돕는다. 앞으로 앰비언트 AI는 디자인의 미래를 더욱 밝게 할 것으로 기대된다.",
-      "keywords": [
-        "앰비언트 AI",
-        "디자인",
-        "사용자 경험"
-      ],
-      "source": "Google News Design (KR)",
-      "date": "10월 20일",
-      "publishedAt": "2026-10-20T01:13:22.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRIbTloTUlaLVozSnVDWDhTNWpSam5JRGZXOTBtXzVUS2k1MUgtdlVieGxmd2F6Tk8xd0JWTWE0VjNwWU1UTVpqTUJzZDNwTEUyVWN1RzBtUzg1WFNYQXVRNmdmLXhNRjJUSnk0eW42NUFJOHVzYTR4YWtGcFR4OGF3?oc=5",
-      "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "ai",
-      "title": "클로드가 전갈 신경독에 대한 단백질 결합체를 설계한 방법",
-      "summary": "클로드 모델을 활용하여 전갈 신경독에 대한 미니바인더를 설계했습니다. 이 연구는 특정 단백질이 목표에 강하게 결합할 수 있도록 하는 방법을 탐구합니다.",
-      "summary_full": "클로드 모델을 사용하여 전갈 신경독에 대한 미니바인더를 설계하는 연구가 진행되었습니다. 미니바인더는 작은 단백질로, 특정 타겟에 강하게 결합하는 특성을 가지고 있습니다. 이 연구는 전갈 신경독의 효과를 차단할 수 있는 단백질 결합체의 개발을 목표로 하고 있습니다. 이를 통해 신경독의 위험을 줄이는 데 기여할 수 있을 것으로 기대됩니다.",
-      "keywords": [
-        "단백질 결합체",
-        "전갈 신경독",
-        "미니바인더"
-      ],
-      "source": "Anthropic Research",
-      "date": "10월 20일",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "collectedAt": "2026-10-22"
-    },
-    {
       "category": "ai",
       "title": "엔비디아, 클라우드 없이 AI 가능한 RTX 스파크 노트북 출시",
       "summary": "엔비디아가 차세대 AI PC인 RTX 스파크를 출시했다. 이 제품은 클라우드 없이도 노트북에서 AI 기능을 원활하게 사용할 수 있도록 설계되었다.",
@@ -5019,40 +4919,6 @@
       "publishedAt": "2026-10-17T21:05:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sc25UQkl4Vzd4SGVERzB0ZGN4cFdtMFJtdnVyNGdCVVZoR2d1QUxXaUx5ZXV0ZlpTRkh4cWVtQUR5dmo0RHhJQU1BNUkxRmJDTThNNFlCbEtTbEN4WUo1VzJGWko5aUp6?oc=5",
       "collectedAt": "2026-10-24"
-    },
-    {
-      "category": "frontend",
-      "title": "도메인별 DW Airflow와 dbt 기반 파이프라인 구축",
-      "summary": "토스 Data Warehouse 팀이 중앙 DW Airflow에서 도메인별 DW Airflow로 전환한 과정을 공유합니다. 새로운 플랫폼 '뉴타운'을 통해 데이터 적재 주체를 코드에 명시하는 방법을 설명합니다.",
-      "summary_full": "토스 Data Warehouse 팀의 김문수가 데이터 웨어하우스 마트를 구축하는 과정에서 중앙 DW Airflow를 도메인별 DW Airflow와 dbt 기반의 선언적 파이프라인으로 전환한 경험을 나눕니다. 이 과정에서 팀은 새로운 플랫폼을 '뉴타운'이라고 명명하였으며, 데이터 적재 주체를 코드에 명시하기 위한 노력을 설명합니다. 이를 통해 데이터의 출처를 명확히 하고, 팀 내 협업을 강화하는 방법을 제시합니다. 글은 데이터 웨어하우스 구축의 중요성과 그 과정에서의 도전과제를 다룹니다.",
-      "keywords": [
-        "데이터 웨어하우스",
-        "Airflow",
-        "dbt",
-        "도메인별",
-        "데이터 적재"
-      ],
-      "source": "toss.tech",
-      "date": "10월 16일",
-      "publishedAt": "2026-10-16T06:15:00.000Z",
-      "url": "https://toss.tech/article/dw-airflow-migration",
-      "collectedAt": "2026-10-22"
-    },
-    {
-      "category": "ai",
-      "title": "구글 안티그래비티를 활용한 항균 펩타이드 탐색 가속화",
-      "summary": "구글 안티그래비티를 이용해 새로운 항균 펩타이드를 탐색하는 방법을 소개한다. 이 기술은 과학 연구에 혁신적인 변화를 가져올 수 있다.",
-      "summary_full": "구글 안티그래비티를 활용하여 항균 펩타이드의 탐색을 가속화하는 방법을 다룬다. 이 접근법은 기존의 연구 방식보다 더 효율적이고 신속한 결과를 제공할 수 있다. 새로운 항균 펩타이드를 발견함으로써, 다양한 질병에 대한 치료 가능성을 높인다. 과학 연구의 혁신적인 도구로 자리잡을 전망이다.",
-      "keywords": [
-        "항균 펩타이드",
-        "구글 안티그래비티",
-        "과학 연구"
-      ],
-      "source": "Google DeepMind Blog",
-      "date": "10월 15일",
-      "publishedAt": "2026-10-15T16:08:03.000Z",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "collectedAt": "2026-10-22"
     },
     {
       "category": "ai",
@@ -5073,8 +4939,8 @@
     {
       "category": "ai",
       "title": "라이너, LLM 비용 절반 줄이는 AI 솔루션 출시",
-      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 발표했다. 이 혁신적인 기술은 기업의 운영 효율성을 크게 향상시킬 것으로 기대된다.",
-      "summary_full": "라이너는 최근 LLM의 운영 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업들이 인공지능 기술을 보다 경제적으로 활용할 수 있도록 돕는다. 새로운 기술은 특히 데이터 처리와 관련된 비용 절감에 중점을 두고 있다. 업계 전문가들은 이 솔루션이 기업의 경쟁력을 높이는 데 기여할 것이라고 전망하고 있다.",
+      "summary": "라이너가 LLM의 비용을 절반으로 줄이는 AI 솔루션을 출시했다. 이 솔루션은 기업의 AI 운영 비용을 크게 절감할 것으로 기대된다.",
+      "summary_full": "라이너가 새로운 AI 솔루션을 출시하여 LLM의 운영 비용을 절반으로 줄일 수 있게 되었다. 이 솔루션은 특히 기업들이 AI 기술을 도입하는 데 있어 경제적 부담을 덜어줄 것으로 보인다. 또한, 효율적인 비용 절감이 가능해짐에 따라 더 많은 기업들이 AI를 활용할 수 있는 기회를 가질 것으로 예상된다. 라이너의 이번 발표는 AI 기술의 발전과 상용화에 중요한 이정표가 될 것이다.",
       "keywords": [
         "라이너",
         "AI 솔루션",
@@ -5084,7 +4950,7 @@
       "date": "9월 15일",
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQmxSQUJDRkxXY0xpS056M2F0R1RudXF3MURmZW1UdTVjVk41NjlqeWtQeHRWVHY0WWdpSHJNMEZ1XzVQbXUwY0NJUG1EQm95UHJITTBnaDRxRUXSAWBBVV95cUxOM0h6dzYyTGFKM3NmWDFfQmViTU56NTFRVlk5TjRobVhvakhyMHA3WUplUUk5QjZ5UjhXTHRXWkFSYUZfU1dadXNVckVSY0xxT09mVUR5Y2xoVkNKajhva3g?oc=5",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "frontend",
@@ -5105,8 +4971,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드를 소개한다. 이 트렌드는 사용자 경험을 향상시키기 위한 혁신적인 접근 방식을 제시한다.",
-      "summary_full": "디자이너들이 주목하는 새로운 UX/UI 트렌드는 사용자 경험을 최우선으로 고려한 혁신적인 디자인 접근 방식을 포함하고 있다. 이러한 트렌드는 기술 발전과 함께 변화하는 사용자 요구에 적응하기 위해 지속적으로 발전하고 있다. 다양한 사례를 통해 이러한 트렌드가 실제 디자인에 어떻게 적용되고 있는지를 살펴볼 수 있다. 디자이너들은 이러한 변화에 발맞추어 새로운 기술과 디자인 원칙을 수용해야 할 필요성이 커지고 있다.",
+      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 부각되고 있다. 디자이너들은 이러한 변화에 주목하고 있으며, 혁신적인 접근 방식을 통해 사용자 경험을 향상시키고 있다.",
+      "summary_full": "현재 UX/UI 디자인 분야에서는 새로운 트렌드가 떠오르고 있다. 디자이너들은 이러한 트렌드를 통해 사용자 경험을 개선하고, 더욱 직관적인 인터페이스를 제공하기 위해 노력하고 있다. 특히, 감성 디자인과 개인화된 경험이 중요한 요소로 자리잡고 있다. 이러한 변화는 앞으로의 디자인 방향에 큰 영향을 미칠 것으로 예상된다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -5116,13 +4982,13 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위한 교수법에서 유래되었다. 그 이유를 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
-      "summary_full": "1788년 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 어떻게 영향을 미쳤는지를 탐구한다. 결국, 언어 교육의 기초가 된 라틴어 교수법을 이해하는 것이 중요하다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱이 가르치는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경은 현재의 언어 학습 앱 디자인에 큰 영향을 미쳤다. 따라서 그 이유를 이해하는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
@@ -5132,7 +4998,7 @@
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-21"
+      "collectedAt": "2026-11-22"
     }
   ]
 }
