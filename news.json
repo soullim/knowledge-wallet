@@ -1,56 +1,214 @@
 {
-  "updated": "2026년 11월 24일 AM 08:28",
-  "count": 314,
+  "updated": "2026년 11월 25일 AM 07:03",
+  "count": 316,
   "articles": [
     {
       "category": "industry",
       "title": "이사떡 캠페인 제작기",
-      "summary": "오늘의집이 이웃에게 첫인사를 디자인하는 이사떡 캠페인을 진행했다. 이 캠페인은 이사하는 사람과 이웃 간의 소통을 촉진하는 데 중점을 두었다.",
-      "summary_full": "오늘의집은 이사떡 캠페인을 통해 이웃에게 건네는 첫인사를 새롭게 디자인했다. 이 캠페인은 이사하는 사람과 이웃 간의 소통을 촉진하고, 따뜻한 이웃 관계를 형성하는 것을 목표로 한다. 제작 과정에서는 다양한 디자인 요소와 아이디어가 활용되었다. 이사떡은 단순한 음식이 아니라 이웃과의 관계를 이어주는 매개체로서의 의미를 지닌다.",
+      "summary": "오늘의집이 이웃에게 첫인사를 전하기 위한 이사떡 캠페인을 기획했다. 이 캠페인은 이사 후 이웃과의 관계를 더욱 돈독히 하기 위한 노력을 담고 있다.",
+      "summary_full": "오늘의집은 이웃에게 첫인사를 디자인하기 위해 이사떡 캠페인을 제작했다. 이 캠페인은 이사 후 새로운 이웃과의 소통을 촉진하고, 따뜻한 관계를 형성하기 위한 아이디어로 시작되었다. 이사떡은 전통적인 의미를 담고 있으며, 이웃에게 정성을 담아 전달하는 방식으로 기획되었다. 이를 통해 이웃 간의 유대감을 높이고자 하는 목표를 가지고 있다.",
       "keywords": [
         "이사떡",
         "캠페인",
-        "이웃 관계"
+        "이웃"
       ],
       "source": "오늘의집 Culture",
-      "date": "11월 24일",
-      "publishedAt": "2026-11-24T08:26:59.337Z",
+      "date": "11월 25일",
+      "publishedAt": "2026-11-25T07:01:44.839Z",
       "url": "https://www.bucketplace.com/post/2026-11-09-%EC%9D%B4%EC%9B%83%EC%97%90%EA%B2%8C-%EA%B1%B4%EB%84%A4%EB%8A%94-%EC%B2%AB%EC%9D%B8%EC%82%AC%EB%A5%BC-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C%EB%8B%A4%EB%A9%B4/",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "design",
       "title": "데일리 프롬프트 전체",
-      "summary": "데일리 프롬프트의 모든 내용을 포함하고 있습니다. 다양한 주제와 아이디어를 제공합니다.",
-      "summary_full": "데일리 프롬프트는 창의적인 글쓰기와 사고를 촉진하기 위한 다양한 주제를 제시합니다. 이 자료는 작가와 예술가들에게 영감을 주고, 일상적인 생각을 확장하는 데 도움을 줍니다. 각 프롬프트는 독창적인 접근 방식을 유도하며, 사용자가 자신의 생각을 표현할 수 있는 기회를 제공합니다. 전체적으로, 데일리 프롬프트는 창의력을 자극하는 유용한 도구입니다.",
+      "summary": "데일리 프롬프트의 모든 내용을 다룹니다. 다양한 주제와 아이디어를 제공하여 창의성을 자극합니다.",
+      "summary_full": "데일리 프롬프트는 매일 새로운 주제를 제시하여 사용자들이 글쓰기나 창작 활동을 할 수 있도록 돕습니다. 각 프롬프트는 독창적인 아이디어를 제공하며, 다양한 장르와 스타일을 포함합니다. 이를 통해 사용자들은 자신의 생각을 정리하고 표현하는 능력을 키울 수 있습니다. 또한, 커뮤니티와의 상호작용을 통해 더 많은 영감을 얻을 수 있습니다.",
       "keywords": [
         "프롬프트",
-        "창의력",
+        "창의성",
         "글쓰기"
       ],
       "source": "Secondbrush Blog",
-      "date": "11월 24일",
-      "publishedAt": "2026-11-24T08:26:53.829Z",
+      "date": "11월 25일",
+      "publishedAt": "2026-11-25T07:01:39.659Z",
       "url": "https://blog.secondbrush.co.kr/tag/daily-prompt/",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "design",
       "title": "일라이 릴리, 칼리트릭스 인수 합의",
-      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료 분야에서의 연구 및 개발을 강화하기 위한 전략의 일환으로 보인다.",
-      "summary_full": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 혈액암 치료에 대한 혁신적인 접근 방식을 제공할 것으로 기대된다. 칼리트릭스는 CALR 변이를 타겟으로 하는 치료제를 개발 중이다. 일라이 릴리는 이를 통해 혈액암 치료 분야에서의 경쟁력을 더욱 강화할 계획이다.",
+      "summary": "일라이 릴리가 CALR 변이 혈액암 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이번 인수는 혈액암 치료에 대한 연구와 개발을 강화하기 위한 전략의 일환이다.",
+      "summary_full": "일라이 릴리가 CALR 변이가 있는 혈액암 치료를 전문으로 하는 스타트업 칼리트릭스를 최대 15억 달러에 인수하기로 합의했다. 이 인수는 혈액암 치료 분야에서의 경쟁력을 높이기 위한 일환으로 보인다. 칼리트릭스는 혁신적인 치료법 개발에 집중하고 있으며, 이번 합병을 통해 연구개발 자원을 확대할 계획이다. 일라이 릴리는 이 인수를 통해 혈액암 치료 시장에서의 입지를 더욱 강화할 것으로 기대된다.",
       "keywords": [
         "일라이 릴리",
         "칼리트릭스",
-        "혈액암",
-        "인수 합의",
-        "CALR 변이"
+        "혈액암"
       ],
       "source": "TMSS 매거진",
-      "date": "11월 24일",
-      "publishedAt": "2026-11-24T08:26:47.780Z",
+      "date": "11월 25일",
+      "publishedAt": "2026-11-25T07:01:33.567Z",
       "url": "https://tmssmag.com/article/lilly-calytrix-bio-acquisition-mcalr-15-billion",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "frontend",
+      "title": "AI 크롤러가 상점에서 실제로 가져오는 것과 llms.txt의 변동 이유",
+      "summary": "llms.txt 파일이 고객 반품 정책의 불일치를 드러낸 이야기이다. 이 파일은 7일 반품 가능으로 설정되었지만, 실제 페이지는 30일로 명시되어 있었다.",
+      "summary_full": "llms.txt 파일이 작성된 후, 고객이 반품할 수 있는 기간에 대한 정보가 서로 다르게 나타났다. 파일은 7일로 설정되었으나, 실제 웹페이지는 30일로 표시되어 있었다. 이러한 불일치는 아무런 경고 없이 발생했으며, 이는 중요한 문제를 제기한다. 이 이야기는 AI 크롤러의 데이터 수집 방식과 그로 인한 혼란을 보여준다.",
+      "keywords": [
+        "AI 크롤러",
+        "llms.txt",
+        "반품 정책"
+      ],
+      "source": "dev.to",
+      "date": "11월 25일",
+      "publishedAt": "2026-11-25T07:00:39.000Z",
+      "url": "https://dev.to/visen_7809cf1871d161956b0/what-ai-crawlers-actually-fetch-from-a-store-and-why-llmstxt-drifts-4fm0",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "trend",
+      "title": "순수 CSS로 만든 귀여운 동물들",
+      "summary": "순수 CSS를 사용하여 다양한 귀여운 동물들을 디자인하는 방법을 소개합니다. 이 튜토리얼은 CSS의 창의적인 활용을 보여줍니다.",
+      "summary_full": "이 글에서는 순수 CSS로 만들어진 귀여운 동물 디자인을 다룹니다. CSS의 다양한 속성을 활용하여 동물의 형태와 색상을 표현하는 방법을 설명합니다. 실용적인 예제와 함께 CSS의 창의적인 사용법을 배울 수 있습니다. 웹 디자인에 관심 있는 사람들에게 유용한 자료가 될 것입니다.",
+      "keywords": [
+        "CSS",
+        "디자인",
+        "귀여운 동물"
+      ],
+      "source": "dev.to",
+      "date": "11월 25일",
+      "publishedAt": "2026-11-25T07:00:37.000Z",
+      "url": "https://dev.to/startupcafe/cute-animals-made-with-pure-css-5fdh",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "industry",
+      "title": "AI 통제 불능 공포와 오픈AI 과학자의 제안",
+      "summary": "AI의 자가 개선 능력에 대한 우려가 커지고 있으며, 개발 기업 내부에서 지능 발전에 대한 경계가 높아지고 있다. 이에 따라 AI 모델 개발 속도를 제한하고 인간의 통제력을 유지하기 위한 방안이 제안되었다.",
+      "summary_full": "AI가 스스로를 개선할 수 있는 가능성에 대한 공포가 확산되고 있다. 특히 AI 기술을 개발하는 기업 내부에서 이러한 지능의 급격한 발전에 대한 우려가 커지고 있다. 이에 대한 대응으로 AI 모델의 개발 속도를 인위적으로 제한하고 인간의 통제력을 유지하기 위한 다양한 방안이 제시되고 있다. 이러한 제안은 AI의 안전한 발전을 위한 중요한 논의로 주목받고 있다.",
+      "keywords": [
+        "AI",
+        "통제 불능",
+        "오픈AI"
+      ],
+      "source": "바이라인네트워크",
+      "date": "11월 25일",
+      "publishedAt": "2026-11-25T06:27:52.000Z",
+      "url": "https://byline.network/2026/11/25-597/",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "trend",
+      "title": "NordVPN 쿠폰: 75% 할인 + 3개월 무료",
+      "summary": "NordVPN의 2년 플랜에서 최대 77% 절약하고 3개월 무료 혜택을 제공합니다. 할인 코드를 사용하여 저렴하게 VPN 서비스를 이용하세요.",
+      "summary_full": "NordVPN의 할인 코드를 사용하면 2년 플랜에서 최대 77%를 절약할 수 있습니다. 또한, 3개월의 무료 혜택도 제공됩니다. 이 기회를 통해 안전하고 빠른 VPN 서비스를 저렴하게 이용해보세요. 다양한 할인 옵션을 확인하고 최적의 플랜을 선택하세요.",
+      "keywords": [
+        "NordVPN",
+        "할인코드",
+        "VPN 서비스"
+      ],
+      "source": "wired.com",
+      "date": "11월 25일",
+      "publishedAt": "2026-11-25T06:00:00.000Z",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "ai",
+      "title": "크래프톤, 독자 개발 LLM ‘라온-1 미니’ 출시",
+      "summary": "크래프톤이 새로운 LLM 모델인 ‘라온-1 미니’를 출시했다. 이는 AI 모델 경쟁을 더욱 치열하게 만들 것으로 예상된다.",
+      "summary_full": "크래프톤이 독자적으로 개발한 LLM ‘라온-1 미니’가 출시되었다. 이 모델은 다양한 AI 응용 분야에서 활용될 수 있으며, 크래프톤의 기술력을 보여준다. 이번 출시로 인해 AI 모델 경쟁이 본격화될 것으로 보인다. 크래프톤은 앞으로도 지속적으로 AI 기술 개발에 힘쓸 예정이다.",
+      "keywords": [
+        "크래프톤",
+        "LLM",
+        "AI 모델"
+      ],
+      "source": "Google News AI (KR)",
+      "date": "11월 25일",
+      "publishedAt": "2026-11-25T05:30:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UW1aai1rVVRqQW1iaEJqaTdQQ3NpQk1DRmpvVkdOQjdzZHZsYUtXTmpZamFaUjFpLU1lSDE2Q3dyTWE4aUw1SzdrQVBpbnN2WVN3aTVZMEtzYXYwdURLR19wT0Q?oc=5",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "industry",
+      "title": "일상 디자인 실천으로서의 미래 사고",
+      "summary": "디자인 실천을 통해 조직이 변화를 탐색하고 새로운 역량을 제공하는 방법을 논의한다. 'Three Horizons' 개념을 재조명하며 미래를 준비하는 조직의 방식을 탐구한다.",
+      "summary_full": "이 글에서는 디자인 실천을 활용하여 조직이 변화에 대응하고 새로운 경험을 제공하는 방법을 설명한다. 'Three Horizons'라는 개념을 재조명하며, 미래를 대비하기 위한 조직의 구조화 방식을 탐구한다. UX 커뮤니티가 사람들의 필요를 이해하고, 사용성을 개선하며, 복잡한 시스템을 연결하는 방법을 개발해온 과정을 살펴본다. 이러한 접근은 더 나은 경험을 창출하는 데 기여한다.",
+      "keywords": [
+        "미래 사고",
+        "디자인 실천",
+        "조직 변화"
+      ],
+      "source": "uxdesign.cc",
+      "date": "11월 24일",
+      "publishedAt": "2026-11-24T22:16:19.000Z",
+      "url": "https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "ai",
+      "title": "Anthropic, Claude 사용자가 AI 도구를 데스크톱 앱으로 설치 가능",
+      "summary": "Anthropic이 Claude 사용자가 AI로 만든 도구를 데스크톱 앱으로 설치할 수 있도록 허용했다. 이는 사용자들이 AI 도구를 보다 쉽게 활용할 수 있게 해준다.",
+      "summary_full": "Anthropic이 Claude 사용자가 AI로 만든 도구를 데스크톱 앱으로 설치할 수 있도록 허용했다. 이 기능은 사용자들이 AI 도구를 보다 쉽게 활용할 수 있게 해준다. 데스크톱 앱으로의 설치는 사용자 경험을 향상시키고, AI 도구의 접근성을 높이는 데 기여할 것으로 기대된다. 이러한 변화는 AI 기술의 발전과 함께 사용자 기반을 확대하는 데 중요한 역할을 할 것이다.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AI 도구"
+      ],
+      "source": "Google News Anthropic",
+      "date": "11월 24일",
+      "publishedAt": "2026-11-24T20:59:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1VvY1JIUUVVeHh3WlpVaTdoaWJ5SVR4b0R4ZjZNMVgwS2FWYm16a2RUOE0td1NScmJQUEd1X01jMU9pRzZYdjFCeThKZnlnc3dyTG5xOF9hWDNnVTZ0RHBOSlNhQkRtX1IxUnZjQnpwRktNSnRkRWMtMGlfaVBGRUEwNjZmbjdXc0FtWGZCYjljYzU5dEE?oc=5",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "industry",
+      "title": "xAI 공동 창립자들이 미래 예측 AI를 가르치는 Epochal을 출범하다",
+      "summary": "xAI의 공동 창립자인 Guodong Zhang, Zihang Dai, Manuel Kroiss가 Epochal을 설립하여 사건을 예측하는 AI를 개발하고 있다. Zhang은 이 프로젝트에 1억 달러를 투자했다.",
+      "summary_full": "xAI의 공동 창립자 Guodong Zhang, Zihang Dai, Manuel Kroiss가 Epochal이라는 스타트업을 출범시켰다. 이 스타트업은 사건을 예측하는 AI를 개발하고 있으며, Zhang은 개인 자산에서 1억 달러를 투자했다. Epochal의 첫 번째 제품인 Time Portal은 사용자가 과거의 웹을 탐색할 수 있게 해준다. 이를 통해 사용자는 예측 연습을 할 수 있다.",
+      "keywords": [
+        "xAI",
+        "Epochal",
+        "AI 예측"
+      ],
+      "source": "thenextweb.com",
+      "date": "11월 24일",
+      "publishedAt": "2026-11-24T20:11:24.000Z",
+      "url": "https://thenextweb.com/news/epochal-xai-cofounders-time-portal-forecasting",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "ai",
+      "title": "마이크로덕 장애물 회피: 아이작 랩과 뉴턴을 활용한 시뮬레이션에서 실제로의 워크플로우",
+      "summary": "이 기사는 마이크로덕 로봇의 장애물 회피 기능을 구현하는 방법을 소개합니다. 아이작 랩과 뉴턴을 사용하여 시뮬레이션에서 실제 환경으로의 전환 과정을 설명합니다.",
+      "summary_full": "마이크로덕 로봇의 장애물 회피 기술을 다룬 이 기사는 시뮬레이션에서 실제 환경으로의 전환 과정을 보여줍니다. 아이작 랩과 뉴턴을 활용하여 로봇의 성능을 최적화하는 방법을 설명합니다. 이 워크플로우는 로봇 공학의 Sim2Real 접근 방식을 통해 실제 환경에서의 효율성을 높이는 데 기여합니다. 독자들은 이 과정을 통해 로봇의 장애물 회피 능력을 향상시킬 수 있는 방법을 배울 수 있습니다.",
+      "keywords": [
+        "마이크로덕",
+        "장애물 회피",
+        "시뮬레이션"
+      ],
+      "source": "HuggingFace Blog",
+      "date": "11월 24일",
+      "publishedAt": "2026-11-24T16:34:13.000Z",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "collectedAt": "2026-11-25"
+    },
+    {
+      "category": "ai",
+      "title": "GPT-6 모델, 내재된 단백질 디자인 능력 시연",
+      "summary": "GPT-6 모델은 추론과 코드를 사용하여 단백질 구조와 서열을 설계합니다. 실험실 테스트에서 다섯 가지 타겟에 대한 결합 증거가 발견되었습니다.",
+      "summary_full": "GPT-6 모델은 단백질 구조와 서열을 설계하는 데 있어 뛰어난 능력을 보여주고 있습니다. 이 모델은 추론 및 프로그래밍을 통해 복잡한 단백질 디자인을 가능하게 합니다. 최근 실험실 테스트에서는 다섯 가지 타겟에 대한 결합 증거가 발견되었습니다. 이는 GPT-6의 단백질 디자인 능력이 실제로 유효함을 시사합니다.",
+      "keywords": [
+        "GPT-6",
+        "단백질 디자인",
+        "모델"
+      ],
+      "source": "OpenAI News",
+      "date": "11월 24일",
+      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "frontend",
@@ -218,9 +376,9 @@
     },
     {
       "category": "frontend",
-      "title": "강력한 프론트 엔드를 위한 폴백 사용",
-      "summary": "폴백을 사용하여 강력한 프론트 엔드를 구축하는 것이 중요하다. 이는 오류를 조용히 회피하거나 사용자에게 전달하는 방법이 될 수 있다.",
-      "summary_full": "강력한 프론트 엔드를 구축하기 위해 폴백을 사용하는 것이 중요하다. 이는 오류를 조용히 회피하거나 사용자에게 오류를 전달하는 두 가지 방법을 제공한다. CSS-Tricks에서 처음 작성되고 사랑으로 게시된 이 글에서는 폴백의 중요성을 강조하고 있다. 뉴스레터 구독도 추천한다.",
+      "title": "견고한 프론트 엔드를 위한 폴백 사용",
+      "summary": "폴백을 사용하여 견고한 프론트 엔드를 구축하는 것이 중요하다. 이는 오류를 조용히 회피하거나 사용자에게 전달하는 방법이 될 수 있다.",
+      "summary_full": "프론트 엔드를 견고하게 만들기 위해 폴백을 사용하는 것이 중요하다. 이는 오류를 조용히 피하는 방법이 될 수 있으며, 사용자에게 오류를 전달하는 방법이기도 하다. CSS-Tricks에서 처음 손으로 작성하고 사랑을 담아 발표된 내용이다. 뉴스레터 구독도 추천한다.",
       "keywords": [
         "프론트 엔드",
         "폴백",
@@ -230,7 +388,7 @@
       "date": "11월 23일",
       "publishedAt": "2026-11-23T14:21:44.000Z",
       "url": "https://css-tricks.com/using-frontend-fallbacks/",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "frontend",
@@ -284,9 +442,9 @@
     },
     {
       "category": "figma",
-      "title": "회의 준비, 질문 탐색, 프레젠테이션 구성",
-      "summary": "Figma의 에이전트가 FigJam과 Figma Slides에서 일반 제공됩니다. Hex, Slack, Asana와 같은 도구에서 컨텍스트를 가져와 보드, 다이어그램, 프레젠테이션을 생성할 수 있습니다.",
-      "summary_full": "Figma의 에이전트가 이제 모든 유료 플랜의 FigJam과 Figma Slides에서 일반 제공됩니다. 이 에이전트는 연결자와 첨부파일을 지원하여 사용자가 더 쉽게 작업할 수 있도록 돕습니다. Hex, Slack, Asana와 같은 도구에서 컨텍스트를 가져와 보드, 다이어그램, 프레젠테이션을 생성하고 채울 수 있습니다. 이를 통해 팀의 협업과 생산성을 높일 수 있습니다.",
+      "title": "Figma의 새로운 기능 발표",
+      "summary": "Figma의 에이전트가 FigJam과 Figma Slides에서 일반 제공됩니다. Hex, Slack, Asana와 같은 도구에서 컨텍스트를 가져와 보드, 다이어그램 및 프레젠테이션을 생성할 수 있습니다.",
+      "summary_full": "Figma의 에이전트가 이제 모든 유료 플랜에서 FigJam과 Figma Slides에서 일반 제공됩니다. 이 기능은 연결기와 첨부파일을 지원하며, 다양한 도구에서 정보를 가져와 작업을 보다 효율적으로 진행할 수 있도록 돕습니다. 사용자는 Hex, Slack, Asana와 같은 도구에서 컨텍스트를 가져와 보드, 다이어그램 및 프레젠테이션을 생성하고 채울 수 있습니다. 이를 통해 팀 협업과 프레젠테이션 준비가 더욱 원활해질 것입니다.",
       "keywords": [
         "Figma",
         "FigJam",
@@ -296,23 +454,23 @@
       "date": "11월 23일",
       "publishedAt": "2026-11-23T00:00:00.000Z",
       "url": "https://www.figma.com/release-notes/",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "ai",
       "title": "AI와의 협업",
-      "summary": "AI가 업무에 미치는 영향을 조사한 결과, 몇몇 기업에서 해고는 적지만 채용이 줄어들고 있다고 보고했다. AI의 가장 가치 있는 활용은 역할과 직장을 재조직하는 것과 관련이 있다.",
-      "summary_full": "58개 기업에서 AI인 Claude를 사용하는 사람들을 인터뷰한 결과, AI가 업무 방식에 큰 변화를 가져오고 있다는 사실이 드러났다. 이들 기업은 해고는 적지만 채용이 줄어들고 있다고 언급했다. AI의 가장 유용한 활용은 종종 역할과 직장을 AI에 맞춰 재조직하는 것과 관련이 있다. 이는 기업들이 AI를 통해 효율성을 높이고 있다는 것을 보여준다.",
+      "summary": "AI가 업무에 미치는 영향에 대해 58개 기업의 직원들을 인터뷰했다. 이들은 해고는 적지만 채용이 줄어들고 있으며, AI의 가장 가치 있는 활용은 역할과 작업 환경을 재편성하는 것이라고 말했다.",
+      "summary_full": "58개 기업에서 AI인 Claude를 사용하는 직원들을 인터뷰하여 AI가 업무에 미치는 영향을 조사했다. 그들은 해고는 거의 없지만 채용이 줄어들고 있다고 언급했다. 또한, AI의 가장 유용한 활용 사례는 역할과 작업 환경을 AI에 맞춰 재편성하는 것이라고 설명했다. 이러한 변화는 기업의 운영 방식에 큰 영향을 미치고 있다.",
       "keywords": [
         "AI",
         "업무 변화",
-        "조직 재편성"
+        "재편성"
       ],
       "source": "Anthropic Research",
       "date": "11월 23일",
       "publishedAt": "2026-11-23T00:00:00.000Z",
       "url": "https://www.anthropic.com/research/working-with-ai",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "industry",
@@ -588,9 +746,9 @@
     },
     {
       "category": "frontend",
-      "title": "디자인 시스템을 만든 디자이너의 3D 그래픽 도전",
-      "summary": "디자인 시스템을 다루던 디자이너가 3D 그래픽에 도전하는 과정을 이야기합니다. 새로운 직무로의 변화에 대한 불안감과 비주얼 디자인에 대한 고민을 공유합니다.",
-      "summary_full": "토스의 Visual Designer 권윤은 디자인 시스템 TDS를 구축하며 정돈된 화면을 만드는 데 집중해왔습니다. 그러나 직무가 Visual Designer로 변경되면서 비주얼 디자인에 대한 불안감을 느끼고 있습니다. 그는 처음 보는 순간 시선을 사로잡는 비주얼은 다른 사람들의 영역이라고 생각해왔지만, 이제는 그 도전에 나서고자 합니다. 이러한 변화 속에서 자신의 디자인 역량을 확장하려는 의지를 보여줍니다.",
+      "title": "디자인 시스템에서 3D 그래픽으로의 전환",
+      "summary": "디자인 시스템을 구축해온 디자이너가 새로운 직무로 3D 그래픽에 도전하는 이야기입니다.",
+      "summary_full": "토스의 Visual Designer 권윤은 디자인 시스템 TDS를 개발하며 정돈된 화면을 만드는 데 주력해왔습니다. 최근 직무가 통합되면서 비주얼 디자인에 대한 새로운 도전을 시작하게 되었고, 처음에는 불안감을 느꼈습니다. 그러나 다양한 전문성을 가진 동료들과 협력하며 새로운 비주얼을 창조하는 과정에 대해 이야기합니다.",
       "keywords": [
         "디자인 시스템",
         "3D 그래픽",
@@ -600,7 +758,7 @@
       "date": "11월 20일",
       "publishedAt": "2026-11-20T08:34:00.000Z",
       "url": "https://toss.tech/article/bankbook_graphic",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "frontend",
@@ -1069,18 +1227,18 @@
     {
       "category": "design",
       "title": "AI 2027 컨퍼런스 소개",
-      "summary": "AI가 디자인과 구축 방식을 변화시키고 있으며, 2027년의 전망을 논의하는 온라인 행사입니다. UX 디자이너와 디자인 시스템 엔지니어가 AI를 활용해 작업 흐름을 향상시킬 방법을 배울 기회를 제공합니다.",
-      "summary_full": "AI는 디자인과 구축 방식에 큰 변화를 가져오고 있으며, 이는 계속해서 발전하고 있습니다. 2026년 12월 1일, SmashingConf는 AI 2027 컨퍼런스를 개최하여 현재 AI의 위치와 2027년의 기대를 점검하는 온라인 반일 행사입니다. 이 행사에서는 AI가 UX 디자이너와 디자인 시스템 엔지니어의 작업 흐름을 어떻게 향상시킬 수 있는지를 배우는 기회를 제공합니다. AI의 성숙함에 따라, 팀들이 성공적으로 AI를 활용하는 사례도 공유될 예정입니다.",
+      "summary": "AI가 디자인과 구축 방식을 변화시키고 있으며, 이는 계속 진행되고 있습니다. 2026년 12월 1일, SmashingConf는 AI의 현재와 2027년의 전망을 논의하는 온라인 반일 행사인 AI 2027 컨퍼런스를 개최합니다.",
+      "summary_full": "AI는 디자인과 구축 방식을 혁신하고 있으며, 이는 앞으로도 계속될 것입니다. 2026년 12월 1일, SmashingConf는 AI 2027 컨퍼런스를 통해 AI의 현재 상태와 2027년의 기대를 논의하는 온라인 반일 행사를 개최합니다. 이 행사에서는 UX 디자이너와 디자인 시스템 엔지니어로서 AI가 워크플로우를 어떻게 향상시킬 수 있는지 배우는 기회를 제공합니다. AI의 성숙함에 따라, 팀들이 올바른 방향으로 나아가고 있는 사례를 공유할 것입니다.",
       "keywords": [
         "AI",
         "디자인",
-        "UX"
+        "컨퍼런스"
       ],
       "source": "smashingmagazine.com",
       "date": "11월 17일",
       "publishedAt": "2026-11-17T12:00:00.000Z",
       "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "frontend",
@@ -2972,9 +3130,9 @@
     },
     {
       "category": "ai",
-      "title": "Le Chonk의 지능 활용",
-      "summary": "Mistral Studio를 통해 기업 에이전트와 워크플로우를 신속하게 구축하고 배포할 수 있다. Le Chonk는 모델, 데이터 및 인프라에 대한 완전한 제어를 제공한다.",
-      "summary_full": "Mistral Studio는 기업 에이전트와 애플리케이션을 더 빠르게 구축하고 배포할 수 있는 도구이다. Le Chonk는 이러한 과정에서 지능을 활용하여 효율성을 높인다. 사용자는 모델과 데이터, 인프라에 대한 완전한 제어를 통해 최적의 결과를 얻을 수 있다. 이로 인해 기업의 디지털 전환이 가속화될 것으로 기대된다.",
+      "title": "Le Chonk의 지능 활용하기",
+      "summary": "Mistral Studio와 Le Chonk를 통해 기업 에이전트, 워크플로우 및 애플리케이션을 더 빠르게 구축하고 배포할 수 있습니다. 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다.",
+      "summary_full": "Mistral Studio와 Le Chonk를 활용하면 기업 에이전트와 워크플로우, 애플리케이션을 신속하게 구축하고 배포할 수 있습니다. 이 플랫폼은 사용자에게 모델, 데이터 및 인프라에 대한 완전한 제어를 제공합니다. 이를 통해 기업은 효율성을 높이고 더 나은 결과를 도출할 수 있습니다. Le Chonk는 지능적인 솔루션을 제공하여 비즈니스의 다양한 요구를 충족합니다.",
       "keywords": [
         "Mistral Studio",
         "Le Chonk",
@@ -2984,7 +3142,7 @@
       "date": "11월 5일",
       "publishedAt": "2026-11-05T12:00:14.000Z",
       "url": "https://mistral.ai/news/build-with-studio",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "design",
@@ -4703,86 +4861,6 @@
       "collectedAt": "2026-10-26"
     },
     {
-      "category": "design",
-      "title": "AI가 발견한 PHP 보안 취약점",
-      "summary": "AI가 발견한 PHP의 보안 취약점으로 인해 전 세계 개발자들이 긴장하고 있다. 이 취약점은 웹 애플리케이션의 안전성을 위협할 수 있다.",
-      "summary_full": "AI가 발견한 PHP의 보안 취약점은 여러 웹 애플리케이션에 영향을 미칠 수 있는 심각한 문제로 떠오르고 있다. 이로 인해 전 세계의 개발자들과 보안 전문가들이 긴급하게 대응 방안을 모색하고 있다. 취약점이 악용될 경우, 데이터 유출이나 시스템 해킹과 같은 심각한 보안 사고로 이어질 수 있다. 따라서, 빠른 패치와 보안 업데이트가 필수적이다.",
-      "keywords": [
-        "AI",
-        "PHP",
-        "보안 취약점"
-      ],
-      "source": "Secondbrush Blog",
-      "date": "10월 25일",
-      "publishedAt": "2026-10-25T03:15:09.434Z",
-      "url": "https://blog.secondbrush.co.kr/dailyprompt-860/",
-      "collectedAt": "2026-10-25"
-    },
-    {
-      "category": "frontend",
-      "title": "FastAPI와 Python으로 콘텐츠 배포 플랫폼 구축하기",
-      "summary": "여러 플랫폼에 콘텐츠를 배포하는 과정에서 반복적인 작업이 발생할 수 있다. IncuBrix Distribution을 통해 단일 API로 여러 플랫폼에서 콘텐츠 게시를 조정하는 방법을 탐구했다.",
-      "summary_full": "여러 플랫폼에 콘텐츠를 배포하는 과정에서 각 플랫폼마다 API, 인증 요구사항, 요청 형식 및 오류 처리 방식이 다르기 때문에 반복적인 작업이 발생할 수 있다. 이를 해결하기 위해 IncuBrix Distribution을 구축하였다. 이 프로젝트는 단일 API를 통해 여러 플랫폼에서 콘텐츠 게시를 조정하는 방법을 탐구하는 데 중점을 두었다. FastAPI와 Python을 활용하여 효율적인 콘텐츠 배포 시스템을 개발하였다.",
-      "keywords": [
-        "FastAPI",
-        "Python",
-        "콘텐츠 배포"
-      ],
-      "source": "dev.to",
-      "date": "10월 25일",
-      "publishedAt": "2026-10-25T03:07:03.000Z",
-      "url": "https://dev.to/aravinda_krishnan/building-a-content-distribution-platform-with-fastapi-and-python-31m9",
-      "collectedAt": "2026-10-25"
-    },
-    {
-      "category": "trend",
-      "title": "코딩 에이전트가 같은 랜딩 페이지를 계속 만들길래 디자인 기술을 추가했다",
-      "summary": "코딩 에이전트는 랜딩 페이지를 요청하면 항상 비슷한 디자인을 생성한다. 기존 앱에 화면을 추가하라고 하면 종종 사용자의 구성 요소를 무시하고 새로운 것을 만든다.",
-      "summary_full": "코딩 에이전트는 랜딩 페이지를 요청할 때마다 비슷한 디자인을 반복적으로 생성하는 경향이 있다. 일반적으로 중앙에 제목이 있고, 보라색 그라디언트와 아이콘이 있는 세 개의 카드, 그리고 '10,000+ 팀'과 같은 숫자 행이 포함된다. 기존 앱에 화면을 추가하라고 요청하면, 에이전트는 사용자의 구성 요소를 무시하고 자신만의 디자인을 만들어낸다. 이러한 문제를 해결하기 위해 디자인 기술을 추가하게 되었다.",
-      "keywords": [
-        "코딩 에이전트",
-        "랜딩 페이지",
-        "디자인 기술"
-      ],
-      "source": "dev.to",
-      "date": "10월 25일",
-      "publishedAt": "2026-10-25T01:58:35.000Z",
-      "url": "https://dev.to/thisisroushan/my-coding-agent-kept-building-the-same-landing-page-so-i-wrote-it-a-design-skill-and-lost-my-own-5f14",
-      "collectedAt": "2026-10-25"
-    },
-    {
-      "category": "trend",
-      "title": "PHP 멜tdown: AI가 버그를 더 쉽게 악용하게 만드는 방법",
-      "summary": "보안 연구자들이 AI 도구를 사용하여 PHP 웹 스크립팅 언어의 오래된 취약점을 발견했다. 이후 AI를 활용한 공격이 시작되었다.",
-      "summary_full": "보안 연구자들은 AI 도구를 통해 PHP 웹 스크립팅 언어에서 수년간 존재해온 취약점을 밝혀냈다. 이 과정에서 AI의 도움으로 더 많은 버그가 발견되었다. 그 결과, AI를 이용한 공격이 시작되면서 보안 위협이 증가했다. 이는 AI가 버그를 악용하는 방식에 대한 새로운 경각심을 불러일으키고 있다.",
-      "keywords": [
-        "PHP",
-        "AI",
-        "보안 취약점"
-      ],
-      "source": "wired.com",
-      "date": "10월 24일",
-      "publishedAt": "2026-10-24T12:00:00.000Z",
-      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-      "collectedAt": "2026-10-25"
-    },
-    {
-      "category": "industry",
-      "title": "영국, OpenAI와 Anthropic과 함께 1억 파운드 AI 생물안전 연구소 설립",
-      "summary": "영국 정부가 1억 파운드를 투자하여 AI 생물안전 연구소를 설립한다. OpenAI와 Anthropic은 추가로 2억 파운드를 지원할 예정이다.",
-      "summary_full": "영국 정부는 생물학적 위협을 탐지하고 대응하기 위해 고급 AI를 활용하는 AI 생물안전 연구소에 1억 파운드를 투자할 예정이다. 이 연구소는 세계 최초의 전담 AI 생물안전 기관으로, OpenAI와 Anthropic이 각각 2억 파운드를 추가로 지원할 계획이다. 이 연구소는 생물안전 분야의 혁신을 목표로 하고 있으며, 향후 다양한 생물학적 위협에 대한 연구와 대응을 진행할 예정이다.",
-      "keywords": [
-        "AI 생물안전",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "source": "thenextweb.com",
-      "date": "10월 24일",
-      "publishedAt": "2026-10-24T10:59:22.000Z",
-      "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
-      "collectedAt": "2026-10-25"
-    },
-    {
       "category": "ai",
       "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
       "summary": "앤트로픽이 구글 클라우드에서 새로운 관리형 클라우드 서비스를 출시했다. 이 서비스는 최신 AI 기능을 활용하여 사용자에게 더 나은 경험을 제공한다.",
@@ -4847,38 +4925,6 @@
       "collectedAt": "2026-10-31"
     },
     {
-      "category": "industry",
-      "title": "스크린에서의 원자 디자인 접근하기",
-      "summary": "원자 디자인은 현대 디자인 시스템의 핵심 개념 중 하나로, 인터페이스를 원자, 분자, 유기체, 템플릿, 페이지의 계층으로 설명하는 공통 언어를 제공합니다.",
-      "summary_full": "원자 디자인은 반드시 원자부터 시작해야 하는 것은 아닙니다. 때때로 원자를 발견해야 할 필요가 있습니다. 브래드 프로스트는 원자 디자인이 선형적인 과정이 아니라는 점을 강조하며, 이를 통해 디자인 시스템을 이해하는 정신 모델을 제공합니다.",
-      "keywords": [
-        "원자 디자인",
-        "디자인 시스템",
-        "브래드 프로스트"
-      ],
-      "source": "uxdesign.cc",
-      "date": "10월 23일",
-      "publishedAt": "2026-10-23T11:16:30.000Z",
-      "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
-      "collectedAt": "2026-10-25"
-    },
-    {
-      "category": "industry",
-      "title": "기업 AI 에이전트의 성공은 어떻게 이뤄질까",
-      "summary": "AI 에이전트 도입은 복잡한 여정으로, 출발과 목표 설정이 어렵다. 이 기사에서는 AI 에이전트의 문제점과 해결 방안, 시장 경쟁 양상을 분석한다.",
-      "summary_full": "기업의 AI 에이전트 도입은 짧고도 긴 여정으로, 시작과 목표 설정이 어려운 과제가 있다. 이 과정에서 발생하는 공통의 문제점과 해결 방안을 제시하며, 기술적 논쟁도 다룬다. 또한 현재와 미래의 AI 사업자 시장 경쟁 양상을 전망한다. AI 에이전트의 성공적인 도입을 위한 전략적 접근이 필요하다.",
-      "keywords": [
-        "AI 에이전트",
-        "기업 도입",
-        "시장 경쟁"
-      ],
-      "source": "바이라인네트워크",
-      "date": "10월 23일",
-      "publishedAt": "2026-10-23T10:05:28.000Z",
-      "url": "https://byline.network/2026/10/23-643/",
-      "collectedAt": "2026-10-25"
-    },
-    {
       "category": "frontend",
       "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
       "summary": "토스 앱의 로그 정의를 AI 스킬로 개선하는 과정을 소개합니다. DataOps Manager들이 로그센터에서 수동으로 진행하던 업무를 효율적으로 변화시켰습니다.",
@@ -4925,22 +4971,6 @@
       "publishedAt": "2026-10-22T14:30:24.000Z",
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "collectedAt": "2026-10-26"
-    },
-    {
-      "category": "ai",
-      "title": "Anthropic, Claude Security에 검사 및 수정 추적 기능 추가",
-      "summary": "Anthropic이 Claude Security에 지속적인 검사 및 수정 추적 기능을 추가했다. 이 기능은 보안성을 높이고 시스템의 신뢰성을 강화하는 데 기여할 것으로 기대된다.",
-      "summary_full": "Anthropic은 Claude Security에 새로운 기능을 추가하여 지속적인 검사와 수정 추적을 가능하게 했다. 이 기능은 사용자가 시스템의 보안 상태를 실시간으로 모니터링하고, 발생할 수 있는 문제를 신속하게 수정할 수 있도록 돕는다. 이를 통해 Claude Security의 신뢰성과 안전성이 더욱 향상될 것으로 보인다. 이러한 발전은 인공지능 시스템의 보안 관리에 중요한 이정표가 될 것이다.",
-      "keywords": [
-        "Anthropic",
-        "Claude Security",
-        "보안 기능"
-      ],
-      "source": "Google News Anthropic",
-      "date": "10월 21일",
-      "publishedAt": "2026-10-21T17:59:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1pOUFZ2SjM5UHFXNEowMlNNQ1NBREU1OGJZdFlYT3U0eTNWbVZnYWQ4M0dLZWpjZDh6eWxMbktwVkx6SWxHZjBsRkk4WkJBdTBuazNwaTlTd1FwbmNoXzUzRlE5MWpNUnNwOGotc3lWTFpkaWF1OXkzMUg0TDNNaGE3MU1hWGpoa3VNZjVxaGc1TkR1U29pYkVQRQ?oc=5",
-      "collectedAt": "2026-10-25"
     },
     {
       "category": "ai",
@@ -5009,8 +5039,8 @@
     {
       "category": "design",
       "title": "디자이너들이 주목하는 새로운 UX/UI 트렌드",
-      "summary": "최근 UX/UI 디자인에서 새로운 트렌드가 부각되고 있다. 디자이너들은 이러한 변화에 주목하며 혁신적인 접근 방식을 모색하고 있다.",
-      "summary_full": "현재 UX/UI 디자인 분야에서 새로운 트렌드가 나타나고 있다. 디자이너들은 사용자 경험을 향상시키기 위해 다양한 혁신적인 방법을 적용하고 있다. 이러한 트렌드는 기술 발전과 사용자 요구의 변화에 따라 진화하고 있다. 앞으로의 디자인 방향성에 대한 논의가 활발히 이루어질 것으로 예상된다.",
+      "summary": "최근 UX/UI 디자인에서 주목받고 있는 새로운 트렌드를 소개합니다. 디자이너들이 이 트렌드를 통해 사용자 경험을 향상시키고 있습니다.",
+      "summary_full": "이번 기사에서는 최신 UX/UI 디자인 트렌드에 대해 다룹니다. 디자이너들은 이러한 트렌드를 활용하여 사용자 경험을 개선하고, 더 나은 인터페이스를 제공하고자 합니다. 다양한 사례와 함께 이 트렌드의 중요성을 설명합니다. UX/UI 디자인의 미래를 엿볼 수 있는 기회입니다.",
       "keywords": [
         "UX/UI",
         "디자인 트렌드",
@@ -5020,13 +5050,13 @@
       "date": "8월 3일",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2Y4dXVSZWNmYUwzMVNpWjZEY2hPWUJoc2NxZkhfNGRPU2VUbFhJNkc0OXBocmNlcXZ2bEIyQnZhNFZ3Z3JCUzN6WDFRbzB2bmc?oc=5",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     },
     {
       "category": "design",
       "title": "죽은 언어를 위한 디자인",
-      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 그 이유를 이해하는 것이 앱 자체가 가르치는 것보다 더 유용한 디자인 교훈이다.",
-      "summary_full": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승하고 있다. 1788년, 프로이센은 대학 및 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이 시험을 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경을 이해하는 것이 현대 언어 학습 앱의 디자인을 이해하는 데 더 도움이 된다.",
+      "summary": "모든 언어 앱은 라틴어를 위해 만들어진 교수법을 계승했다. 이러한 배경을 이해하는 것이 앱 자체에서 배우는 것보다 더 유용한 디자인 교훈이 된다.",
+      "summary_full": "1788년 프로이센은 대학과 공무원 진입을 위한 표준화된 국가 시험인 아비투르를 도입했다. 이를 통과하기 위해 학생들은 측정 가능하고 평가 가능한 지식을 보여줘야 했다. 이러한 역사적 배경이 현재 언어 학습 앱의 디자인에 영향을 미쳤다. 따라서 언어 앱의 설계를 이해하는 데 있어 이 배경을 아는 것이 중요하다.",
       "keywords": [
         "언어 앱",
         "라틴어",
@@ -5036,7 +5066,7 @@
       "date": "6월 30일",
       "publishedAt": "2026-06-30T16:22:27.000Z",
       "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "collectedAt": "2026-11-24"
+      "collectedAt": "2026-11-25"
     }
   ]
 }
